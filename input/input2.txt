@@ -1,0 +1,4 @@
+A named counter that tracks the progress of a map/reduce job.
+Counters represent global counters, defined either by the Map-Reduce framework or applications. Each Counter is named by an Enum and has a long for the value.
+
+Counters are bunched into Groups, each comprising of counters from a particular Enum class.

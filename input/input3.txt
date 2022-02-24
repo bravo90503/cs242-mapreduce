@@ -1,0 +1,9 @@
+Four modules comprise the primary Hadoop framework and work collectively to form the Hadoop ecosystem:
+
+Hadoop Distributed File System (HDFS): As the primary component of the Hadoop ecosystem, HDFS is a distributed file system that provides high-throughput access to application data with no need for schemas to be defined up front.
+
+Yet Another Resource Negotiator (YARN): YARN is a resource-management platform responsible for managing compute resources in clusters and using them to schedule users’ applications. It performs scheduling and resource allocation across the Hadoop system.
+
+MapReduce: MapReduce is a programming model for large-scale data processing. Using distributed and parallel computation algorithms, MapReduce makes it possible to carry over processing logic and helps to write applications that transform big datasets into one manageable set.
+
+Hadoop Common: Hadoop Common includes the libraries and utilities used and shared by other Hadoop modules. 

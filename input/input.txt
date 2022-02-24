@@ -1,0 +1,9 @@
+Compile, Package & Run!
+Our project is setup, our code is in place; it’s now time to compile our project.
+
+$ mvn clean install
+Lots of downloading of dependencies and a bit of compilation go on . . . If all has gone to plan, you can now have a package to run. As usual, you’ll need a text file of words to count. I’ve popped one up on hdfs called “input.txt”.
+
+$ hadoop jar target/wordcount-1.0-SNAPSHOT.jar input.txt wcout
+You should now have a map reduce job running!
+
