@@ -3,6 +3,7 @@ package edu.ucr.cs242;
 import java.io.DataInput;
 import java.io.DataOutput;
 import java.io.IOException;
+import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -114,7 +115,7 @@ public class CustomWritable implements Writable {
 		root.put("documents", documents);
 
 		String[] docs = positions.split(";");
-        double totalDocs = docs.length;
+		double totalDocs = docs.length;
 		// calculate tf*idf ordered by highest score first or descending order
 		PriorityQueue<Score> scores = new PriorityQueue<>(docs.length, new ScoreComparator());
 		for (String doc : docs) {
@@ -125,8 +126,9 @@ public class CustomWritable implements Writable {
 			docJsonObject.put("docId", docId);
 
 			int numberOfTerms = addPositions(positionTokens, new JSONArray(), docJsonObject);
-			double score = numberOfTerms * (frequency / totalDocs);
-			docJsonObject.put("score", score);
+			double score = numberOfTerms * Math.log10((totalDocs / frequency + 1));
+			DecimalFormat df = new DecimalFormat("#.####");
+			docJsonObject.put("score", df.format(score));
 			scores.add(new Score(docJsonObject, score));
 		}
 
