@@ -19,6 +19,7 @@ public class CustomWritable implements Writable {
 	private String docId;
 	private long frequency;
 	private long position;
+	private long totalDocs;
 	private String positions;
 
 	public CustomWritable() {
@@ -29,6 +30,13 @@ public class CustomWritable implements Writable {
 		this.docId = "";
 		this.frequency = frequency;
 		this.positions = positions;
+	}
+	
+	public CustomWritable(long totalDocs, long frequency, String positions) {
+		this.docId = "";
+		this.frequency = frequency;
+		this.positions = positions;
+		this.totalDocs = totalDocs;
 	}
 
 	public CustomWritable(String docId, long frequency, long position) {
@@ -59,6 +67,7 @@ public class CustomWritable implements Writable {
 		out.writeUTF(docId);
 		out.writeLong(frequency);
 		out.writeLong(position);
+		out.writeLong(totalDocs);
 		out.writeBytes(positions);
 	}
 
@@ -67,6 +76,7 @@ public class CustomWritable implements Writable {
 		docId = in.readUTF();
 		frequency = in.readLong();
 		position = in.readLong();
+		totalDocs = in.readLong();
 		positions = in.readLine();
 	}
 
@@ -84,6 +94,14 @@ public class CustomWritable implements Writable {
 
 	public void setPosition(long position) {
 		this.position = position;
+	}
+
+	public long getTotalDocs() {
+		return totalDocs;
+	}
+
+	public void setTotalDocs(long totalDocs) {
+		this.totalDocs = totalDocs;
 	}
 
 	@Override
@@ -115,7 +133,6 @@ public class CustomWritable implements Writable {
 		root.put("documents", documents);
 
 		String[] docs = positions.split(";");
-		double totalDocs = docs.length;
 		// calculate tf*idf ordered by highest score first or descending order
 		PriorityQueue<Score> scores = new PriorityQueue<>(docs.length, new ScoreComparator());
 		for (String doc : docs) {
@@ -126,9 +143,11 @@ public class CustomWritable implements Writable {
 			docJsonObject.put("docId", docId);
 
 			int numberOfTerms = addPositions(positionTokens, new JSONArray(), docJsonObject);
-			double score = numberOfTerms * Math.log10((totalDocs / frequency + 1));
-			DecimalFormat df = new DecimalFormat("#.####");
-			docJsonObject.put("score", df.format(score));
+			double N = totalDocs; // set of N documents
+			double df = frequency; // occurrence of keyword in N
+			double score = numberOfTerms * Math.log(N / (df + 1));
+			DecimalFormat decformat = new DecimalFormat("#.####");
+			docJsonObject.put("score", decformat.format(score));
 			scores.add(new Score(docJsonObject, score));
 		}
 
@@ -137,6 +156,7 @@ public class CustomWritable implements Writable {
 			JSONObject doc = score.getDocument();
 			documents.put(doc);
 		}
+		
 	}
 
 	class ScoreComparator implements Comparator<Score> {

@@ -25,6 +25,7 @@ import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 public class WordCount {
 	public static String CLEAR_PUNCTUATION_REGEX = "[\\p{P}&&[^\u0027|\u2019|\u002E|\u002F|\u002D|\\u005C]]";
 	public static String CLEAR_TRAILING_PERIODS = "(?!^)\\.+$";
+	public static Map<String, Boolean> docsMap = new HashMap<>();
 
 	public static void main(String[] args) throws Exception {
 		Configuration conf = new Configuration();
@@ -77,6 +78,8 @@ public class WordCount {
 				context.write(word, new CustomWritable(filename, 1, (int) position));
 				position += token.length() + 1;
 				// out - "the" (doc1, 1, 3)
+				
+				docsMap.put(filename, true);
 			}
 		}
 	}
@@ -125,7 +128,7 @@ public class WordCount {
 			}
 
 			// emit
-			context.write(key, new CustomWritable(frequency, positions.toString()));
+			context.write(key, new CustomWritable(docsMap.size(), frequency, positions.toString()));
 		}
 	}
 
