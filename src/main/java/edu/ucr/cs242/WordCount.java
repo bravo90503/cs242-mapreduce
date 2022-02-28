@@ -62,8 +62,9 @@ public class WordCount {
 	public static class Map2 extends Mapper<LongWritable, Text, Text, CustomWritable> {
 		private Text word = new Text();
 
-		Pattern regex = Pattern.compile("^\\p{ASCII}*$"); // ascii only
-		Pattern regex2 = Pattern.compile("[a-zA-Z0-9]"); // must have some words or numbers
+		Pattern ascii = Pattern.compile("^\\p{ASCII}*$"); // ascii only
+		Pattern words = Pattern.compile("[a-zA-Z0-9]"); // must have some words or numbers
+		Pattern punc = Pattern.compile("\\p{Punct}"); // punctuation
 
 		public void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
 			FileSplit fileSplit = (FileSplit) context.getInputSplit();
@@ -79,17 +80,20 @@ public class WordCount {
 				// now remove trailing periods
 				// token = token.replaceAll(CLEAR_TRAILING_PERIODS, "");
 				// lower case all tokens
-				Matcher matcher = regex.matcher(token);
+				Matcher matcher = ascii.matcher(token);
 				if (matcher.find()) {
-					Matcher matcher2 = regex2.matcher(token);
+					Matcher matcher2 = words.matcher(token);
 					if (matcher2.find()) {
-						word.set(token.toLowerCase());
-						// emit
-						context.write(word, new CustomWritable(filename, 1, (int) position));
-						position += token.length() + 1;
-						// out - "the" (doc1, 1, 3)
+						Matcher matcher3 = punc.matcher(token);
+						if (!matcher3.find()) {
+							word.set(token.toLowerCase());
+							// emit
+							context.write(word, new CustomWritable(filename, 1, (int) position));
+							position += token.length() + 1;
+							// out - "the" (doc1, 1, 3)
 
-						docsMap.put(filename, true);
+							docsMap.put(filename, true);
+						}
 					}
 					//
 				}
