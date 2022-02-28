@@ -144,9 +144,9 @@ public class CustomWritable implements Writable {
 
 			int numberOfTerms = addPositions(positionTokens, new JSONArray(), docJsonObject);
 			double N = totalDocs; // set of N documents
-			double df = frequency; // occurrence of keyword in N
-			double tf = numberOfTerms; // occurrence of keyword in document
-			double score = tf * Math.log(N / (df + 1));
+			double df = frequency; // occurrence of t in N
+			double tf = numberOfTerms; // occurrence of t in document
+			double score = tf * Math.log(N / df);
 			DecimalFormat decformat = new DecimalFormat("#.####");
 			docJsonObject.put("score", decformat.format(score));
 			scores.add(new Score(docJsonObject, score));
