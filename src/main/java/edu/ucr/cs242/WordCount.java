@@ -69,9 +69,9 @@ public class WordCount {
 			while (tokenizer.hasMoreTokens()) {
 				String token = tokenizer.nextToken();
 				// except quotes, periods, fwd-backslashes, hyphens
-				token = token.replaceAll(CLEAR_PUNCTUATION_REGEX, "");
+				//token = token.replaceAll(CLEAR_PUNCTUATION_REGEX, "");
 				// now remove trailing periods
-				token = token.replaceAll(CLEAR_TRAILING_PERIODS, "");
+				//token = token.replaceAll(CLEAR_TRAILING_PERIODS, "");
 				// lower case all tokens
 				word.set(token.toLowerCase());
 				// emit
