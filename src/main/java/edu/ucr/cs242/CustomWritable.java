@@ -68,7 +68,7 @@ public class CustomWritable implements Writable {
 		out.writeLong(frequency);
 		out.writeLong(position);
 		out.writeLong(totalDocs);
-		out.writeBytes(positions);
+		out.writeUTF(positions);
 	}
 
 	@Override
@@ -77,7 +77,7 @@ public class CustomWritable implements Writable {
 		frequency = in.readLong();
 		position = in.readLong();
 		totalDocs = in.readLong();
-		positions = in.readLine();
+		positions = in.readUTF();
 	}
 
 	public long getFrequency() {
