@@ -4,7 +4,10 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.StringTokenizer;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
+import org.apache.commons.lang3.StringUtils;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.IntWritable;
@@ -30,8 +33,8 @@ public class WordCount {
 	public static void main(String[] args) throws Exception {
 		Configuration conf = new Configuration();
 		conf.setBoolean("mapreduce.output.fileoutputformat.compress", true);
-		conf.setClass("mapreduce.output.fileoutputformat.compress.codec",GzipCodec.class,CompressionCodec.class);
-		conf.set("mapreduce.output.fileoutputformat.compress.type",CompressionType.BLOCK.toString());
+		conf.setClass("mapreduce.output.fileoutputformat.compress.codec", GzipCodec.class, CompressionCodec.class);
+		conf.set("mapreduce.output.fileoutputformat.compress.type", CompressionType.BLOCK.toString());
 		Job job = Job.getInstance(conf, "wordcount");
 
 		job.setJarByClass(WordCount.class);
@@ -51,13 +54,16 @@ public class WordCount {
 		// FileOutputFormat.setOutputCompressorClass(job, GzipCodec.class);
 
 		job.waitForCompletion(true);
-		
+
 		System.out.println("program completed successfully");
 	}
 
 // CustomWritable
 	public static class Map2 extends Mapper<LongWritable, Text, Text, CustomWritable> {
 		private Text word = new Text();
+
+		Pattern regex = Pattern.compile("^\\p{ASCII}*$"); // ascii only
+		Pattern regex2 = Pattern.compile("[a-zA-Z0-9]"); // must have some words or numbers
 
 		public void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
 			FileSplit fileSplit = (FileSplit) context.getInputSplit();
@@ -69,17 +75,24 @@ public class WordCount {
 			while (tokenizer.hasMoreTokens()) {
 				String token = tokenizer.nextToken();
 				// except quotes, periods, fwd-backslashes, hyphens
-				//token = token.replaceAll(CLEAR_PUNCTUATION_REGEX, "");
+				// token = token.replaceAll(CLEAR_PUNCTUATION_REGEX, "");
 				// now remove trailing periods
-				//token = token.replaceAll(CLEAR_TRAILING_PERIODS, "");
+				// token = token.replaceAll(CLEAR_TRAILING_PERIODS, "");
 				// lower case all tokens
-				word.set(token.toLowerCase());
-				// emit
-				context.write(word, new CustomWritable(filename, 1, (int) position));
-				position += token.length() + 1;
-				// out - "the" (doc1, 1, 3)
-				
-				docsMap.put(filename, true);
+				Matcher matcher = regex.matcher(token);
+				if (matcher.find()) {
+					Matcher matcher2 = regex2.matcher(token);
+					if (matcher2.find()) {
+						word.set(token.toLowerCase());
+						// emit
+						context.write(word, new CustomWritable(filename, 1, (int) position));
+						position += token.length() + 1;
+						// out - "the" (doc1, 1, 3)
+
+						docsMap.put(filename, true);
+					}
+					//
+				}
 			}
 		}
 	}
