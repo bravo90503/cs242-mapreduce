@@ -31,7 +31,7 @@ public class CustomWritable implements Writable {
 		this.frequency = frequency;
 		this.positions = positions;
 	}
-	
+
 	public CustomWritable(long totalDocs, long frequency, String positions) {
 		this.docId = "";
 		this.frequency = frequency;
@@ -146,7 +146,8 @@ public class CustomWritable implements Writable {
 			double N = totalDocs; // set of N documents
 			double df = frequency; // occurrence of t in N
 			double tf = numberOfTerms; // occurrence of t in document
-			double score = tf * Math.log(N / df);
+			double idf = Math.log(N / df);// rarity of t in collection
+			double score = tf * idf;
 			DecimalFormat decformat = new DecimalFormat("#.####");
 			docJsonObject.put("score", decformat.format(score));
 			scores.add(new Score(docJsonObject, score));
@@ -157,7 +158,7 @@ public class CustomWritable implements Writable {
 			JSONObject doc = score.getDocument();
 			documents.put(doc);
 		}
-		
+
 	}
 
 	class ScoreComparator implements Comparator<Score> {
