@@ -1,0 +1,589 @@
+
+ 
+  
+   
+  Karen Spärck Jones - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Karen Spärck Jones 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       British computer scientist
+       
+        
+      
+      
+       This British surname is barrelled, being made up of multiple names. It should be written as Spärck Jones, not Jones.
+       
+      
+      
+       
+        
+         
+          
+           Karen Spärck Jones
+          
+          
+           FBA
+          
+        
+        
+         
+          
+           Karen Spärck Jones in 2002
+          
+        
+        
+         Born
+         (1935-08-26)26 August 1935
+          
+           Huddersfield, Yorkshire
+          
+        
+        
+         Died
+         4 April 2007(2007-04-04) (aged&nbsp;71)
+          
+           Willingham, Cambridgeshire
+          
+        
+        
+         Nationality
+         British
+        
+        
+         Alma&nbsp;mater
+         University of Cambridge
+        
+        
+         Known&nbsp;for
+         Term frequency–inverse document frequency
+        
+        
+         Spouse(s)
+         
+          
+           
+            Roger Needham
+            
+           
+            ​
+           (m.&nbsp;1958)
+           ​
+          
+        
+        
+         Awards
+         
+           
+           
+            Gerard Salton Award (1988) 
+            AAAI Fellow (1993) 
+            BCS Lovelace Medal (2007)
+            
+          
+        
+        
+         
+          Scientific career
+        
+        
+         Fields
+         Computer scienceInformation retrievalNatural language processingDocument retrieval
+        
+        
+         Institutions
+         University of Cambridge
+        
+        
+         Thesis
+         Synonymy and Semantic Classification&nbsp;(1964)
+        
+        
+         Doctoral advisor
+         Richard Braithwaite
+        
+        
+          
+        
+        
+         Website
+         www.cl.cam.ac.uk/archive/ksj21/
+        
+       
+       
+      Karen Spärck Jones FBA (26 August 1935 – 4 April 2007) was a pioneering British computer scientist responsible for the concept of inverse document frequency (IDF), a technology that underlies most modern search engines. In 2019, The New York Times published her belated obituary in its series Overlooked, calling her "a pioneer of computer science for work combining statistics and linguistics, and an advocate for women in the field." From 2008, to recognize her achievements in the fields of information retrieval (IR) and natural language processing (NLP), the Karen Spärck Jones Award is awarded to a new recipient with outstanding research in one or both of her fields.  
+      
+       
+       
+        Contents
+        
+        
+        1 Early life and education 
+        2 Career 
+          
+          2.1 Honours and awards 
+           
+        3 Personal life 
+        4 References 
+        
+       
+      Early life and education 
+      Karen Ida Boalth Spärck Jones was born in Huddersfield, Yorkshire, England. Spärck Jones was educated at a grammar school in Huddersfield and then from 1953 to 1956 at Girton College, Cambridge, studying history, with an additional final year in Moral Sciences (philosophy). She briefly became a school teacher, before moving into computer science.  
+      Career 
+      Spärck Jones worked at the Cambridge Language Research Unit from the late 1950s, then at Cambridge University Computer Laboratory from 1974 until her retirement in 2002. From 1999 she held the post of Professor of Computers and Information. Prior to 1999 she was employed on a series of short-term contracts. She continued to work in the Computer Laboratory until shortly before her death. Her publications include nine books and numerous papers. A full list of her publications is available from the Cambridge Computer Laboratory. 
+      Her main research interests, since the late 1950s, were natural language processing and information retrieval. One of her most important contributions was the concept of inverse document frequency (IDF) weighting in information retrieval, which she introduced in a 1972 paper. IDF is used in most search engines today, usually as part of the term frequency–inverse document frequency (TF–IDF) weighting scheme. In 1982 she became involved in the Alvey Programme.  
+      Honours and awards 
+      An annual Karen Spärck Jones Award and lecture is named in her honour. In August 2017, the University of Huddersfield renamed one of its campus buildings in her honour. Formerly known as Canalside West, the Spärck Jones building houses the University's School of Computing and Engineering. Other honours and awards include  
+      
+       Elected a Fellow of the British Academy (FBA), where she also served as Vice-President in 2000–2002 
+       Elected a Fellow of Association for the Advancement of Artificial Intelligence (AAAI) in 1993 
+       Fellow of European Association for Artificial Intelligence (ECCAI) 
+       President of the Association for Computational Linguistics (ACL) in 1994 
+       Gerard Salton Award (1988) 
+       Association for Information Science and Technology (ASIS&amp;T) Award of Merit (2002) 
+       Association for Computational Linguistics (ACL) Lifetime Achievement Award (2004) 
+       BCS Lovelace Medal (2007) 
+       ACM - AAAI Allen Newell Award (2006) 
+       Association for Computing Machinery (ACM) Women's Group Athena Award (2007)
+       
+      Personal life 
+      Spärck Jones was married to fellow Cambridge computer scientist Roger Needham in 1958.  
+      References 
+      
+       
+       
+         
+         ^ a b c "Jones, Karen Ida Boalth Spärck (1935–2007), Computer Scientist". Oxford Dictionary of National Biography (online&nbsp;ed.). Oxford University Press. doi:10.1093/ref:odnb/98729. (Subscription or UK public library membership required.)  
+         ^ Video: Natural Language and the Information Layer, Karen Spärck Jones, March 2007  
+         ^ University of Cambridge obituary  
+         ^ Obituary, The Independent, 12 April 2007   
+         ^ 
+           Robertson, S.; Tait, J. (2008). "Karen Spärck Jones". Journal of the American Society for Information Science and Technology. 59 (5): 852. doi:10.1002/asi.20784.  
+         ^ 
+           Padnani, Amisha; Bennett, Jessica (8 March 2018). "Remarkable People We Overlooked in Our Obituaries". The New York Times. ISSN&nbsp;0362-4331. Retrieved 7 December 2019.  
+         ^ 
+           "Overlooked No More: Karen Sparck Jones, Who Established the Basis for Search Engines". The New York Times. 2 January 2019. ISSN&nbsp;0362-4331. Retrieved 7 December 2019.  
+         ^ a b c 
+           "Overlooked No More: Karen Sparck Jones, Who Established the Basis for Search Engines". The New York Times. 2 January 2019. ISSN&nbsp;0362-4331. Retrieved 3 January 2019.  
+         ^ a b 
+           Spärck Jones, K. (1972). "A Statistical Interpretation of Term Specificity and Its Application in Retrieval". Journal of Documentation. 28: 11–21. CiteSeerX&nbsp;10.1.1.115.8343. doi:10.1108/eb026526.  
+         ^ 
+           Tait, John I., ed. (2005). Charting a New Course: Natural Language Processing and Information Retrieval, Essays in Honour of Karen Spärck Jones. The Kluwer International Series on Information Retrieval. Vol.&nbsp;16. doi:10.1007/1-4020-3467-9. ISBN&nbsp;978-1-4020-3343-8.  
+         ^ Obituary, The Times, 22 June 2007 (subscription required)  
+         ^ Computer Science, A Woman's Work, IEEE Spectrum, May 2007  
+         ^ 
+           Thompson, Bill. "Karen Spärck Jones". A Stick a Dog and a Box With Something In It. Retrieved 1 August 2019. (originally published in The Times)  
+         ^ a b c 
+           Tait, J. I. (2007). "Karen Spärck Jones". Computational Linguistics. 33 (3): 289–291. doi:10.1162/coli.2007.33.3.289. S2CID&nbsp;19790552.  
+         ^ 
+           Karen Spärck Jones (1986). Synonymy and Semantic Classification (thesis published as a book). Edinburgh Information Technology series. Vol.&nbsp;1. Edinburgh University Press.  
+         ^ a b 
+           Anon (2007). "Karen Spärck Jones, FBA Professor Emerita of Computers and Information Honorary Fellow of Wolfson College 26 August 1935 – 4 April 2007". cam.ac.uk. University of Cambridge.  
+         ^ https://www.cl.cam.ac.uk/archive/ksj21/ksjdigipapers/ksjbib3.html  
+         ^ 
+           Spärck Jones, K. (1973). "Index term weighting". Information Storage and Retrieval. 9 (11): 619–633. doi:10.1016/0020-0271(73)90043-0.  
+         ^ 
+           Maybury, M. T. (2005). "Karen Spärck Jones and Summarization". Charting a New Course: Natural Language Processing and Information Retrieval. The Kluwer International Series on Information Retrieval. Vol.&nbsp;16. pp.&nbsp;99–10. doi:10.1007/1-4020-3467-9_7. ISBN&nbsp;978-1-4020-3343-8.  
+         ^ 
+           "Karen Spärck Jones lecture". BCS Academy of Computing. British Computer Society. Retrieved 3 October 2013.  
+         ^ 
+           "How to find us – University of Huddersfield". hud.ac.uk. Retrieved 20 September 2017.  
+         ^ a b c Obituary, The Daily Telegraph, 12 April 2007  
+         ^ 
+           Anon (2022). "Elected AAAI Fellows". aaai.org.  
+         ^ a b c 
+           "Karen Spärck Jones". The Computer Laboratory, Cambridge University. March 2007. Retrieved 2 April 2018.  
+         ^ 
+           "Gerard Salton Awards". Special Interest Group on Information Retrieval. Retrieved 2 April 2018.  
+         ^ 
+           "ACL Lifetime Achievement Award Recipients". ACL wiki. ACL. Retrieved 16 August 2014.  
+        
+       
+       
+        
+       
+       
+         
+         Awards and achievements 
+         
+         
+         Preceded&nbsp;by
+          
+           Makoto Nagao
+            
+          ACL Lifetime Achievement Award 2004  
+         Succeeded&nbsp;by
+          
+           Martin Kay
+           
+         
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          General
+          
+            
+            
+             ISNI 
+              
+               1
+               
+             VIAF 
+              
+               1
+               
+             WorldCat
+             
+           
+         
+         
+          National libraries
+          
+            
+            
+             Spain 
+             France (data) 
+             Germany 
+             United States 
+             Czech Republic 
+             Australia 
+             Greece 
+             Netherlands 
+             Poland 
+             Sweden
+             
+           
+         
+         
+          Scientific databases
+          
+            
+            
+             DBLP (computer science)
+             
+           
+         
+         
+          Other
+          
+            
+            
+             SUDOC (France) 
+              
+               1
+               
+             Trove (Australia) 
+              
+               1
+              
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Karen_Spärck_Jones&amp;oldid=1069861941"
+     
+     
+    
+     
+      Categories: 
+      
+       1935 births
+       2007 deaths
+       Alumni of Girton College, Cambridge
+       British computer scientists
+       British women computer scientists
+       Fellows of the British Academy
+       Fellows of the Association for the Advancement of Artificial Intelligence
+       Fellows of Newnham College, Cambridge
+       Fellows of Wolfson College, Cambridge
+       Members of the University of Cambridge Computer Laboratory
+       People from Huddersfield
+       Deaths from cancer in England
+       Information retrieval researchers
+       Artificial intelligence researchers
+       20th-century British women scientists
+       People from South Cambridgeshire District
+       Natural language processing researchers
+      
+     
+     
+      Hidden categories: 
+      
+       Wikipedia articles incorporating a citation from the ODNB
+       Pages using cite ODNB with id parameter
+       Pages containing links to subscription-only content
+       All articles with dead external links
+       Articles with dead external links from July 2021
+       Articles with short description
+       Short description matches Wikidata
+       EngvarB from December 2017
+       Use dmy dates from April 2021
+       Articles with hCards
+       All articles with unsourced statements
+       Articles with unsourced statements from February 2022
+       Articles with ISNI identifiers
+       Articles with VIAF identifiers
+       Articles with WORLDCATID identifiers
+       Articles with BNE identifiers
+       Articles with BNF identifiers
+       Articles with GND identifiers
+       Articles with LCCN identifiers
+       Articles with NKC identifiers
+       Articles with NLA identifiers
+       Articles with NLG identifiers
+       Articles with NTA identifiers
+       Articles with PLWABN identifiers
+       Articles with SELIBR identifiers
+       Articles with DBLP identifiers
+       Articles with SUDOC identifiers
+       Articles with Trove identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       Asturianu
+       تۆرکجه
+       Català
+       Čeština
+       Deutsch
+       Español
+       Euskara
+       فارسی
+       Français
+       Italiano
+       Қазақша
+       Português
+       Русский
+       Српски / srpski
+       Suomi
+       Svenska
+       ไทย
+       Українська
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 4 February 2022, at 13:16&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

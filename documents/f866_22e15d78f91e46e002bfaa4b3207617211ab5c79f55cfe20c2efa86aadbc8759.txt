@@ -1,0 +1,513 @@
+
+ 
+  
+   
+  Open Archives Initiative Protocol for Metadata Harvesting - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Open Archives Initiative Protocol for Metadata Harvesting 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+    
+     &nbsp;&nbsp;(Redirected from OAI-PMH)
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      The Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH) is a protocol developed for harvesting metadata descriptions of records in an archive so that services can be built using metadata from many archives. An implementation of OAI-PMH must support representing metadata in Dublin Core, but may also support additional representations. 
+      The protocol is usually just referred to as the OAI Protocol. 
+      OAI-PMH uses XML over HTTP. Version 2.0 of the protocol was released in 2002; the document was last updated in 2015. It has a Creative Commons license BY-SA.  
+      
+       
+       
+        Contents
+        
+        
+        1 History 
+        2 Uses 
+        3 Software 
+        4 Archives 
+        5 See also 
+        6 References 
+        7 External links 
+        
+       
+      History 
+      In the late 1990s, Herbert Van de Sompel (Ghent University) was working with researchers and librarians at Los Alamos National Laboratory (US) and called a meeting to address difficulties related to interoperability issues of e-print servers and digital repositories. The meeting was held in Santa Fe, New Mexico, in October 1999. A key development from the meeting was the definition of an interface that permitted e-print servers to expose metadata for the papers it held in a structured fashion so other repositories could identify and copy papers of interest with each other. This interface/protocol was named the "Santa Fe Convention". 
+      Several workshops were held in 2000 at the ACM Digital Libraries conference, at the 1st ACM/IEEE-CS joint conference on Digital libraries and elsewhere to share the ideas from the Santa Fe Convention. It was discovered at the workshops that the problems faced by the e-print community were also shared by libraries, museums, journal publishers, and others who needed to share distributed resources. To address these needs, the Coalition for Networked Information and the Digital Library Federation provided funding to establish an Open Archives Initiative (OAI) secretariat managed by Herbert Van de Sompel and Carl Lagoze. The OAI held a meeting at Cornell University (Ithaca, New York) in September 2000 aimed to improve the interface developed at the Santa Fe Convention. The specifications were refined over e-mail. 
+      OAI-PMH version 1.0 was introduced to the public in January 2001 at a workshop in Washington D.C., and another in February in Berlin, Germany. Subsequent modifications to the XML standard by the W3C required making minor modifications to OAI-PMH resulting in version 1.1. The current version, 2.0, was released in June 2002. It contained several technical changes and enhancements and is not backward compatible. 
+      From 2001 CERN, and later in collaboration with University of Geneva, has organized bi-annual OAI workshops, which over time have developed to cover most aspects of open science.  
+      Uses 
+      Some commercial search engines use OAI-PMH to acquire more resources. Google initially included support for OAI-PMH when launching sitemaps, however decided to support only the standard XML Sitemaps format in May 2008. In 2004, Yahoo! acquired content from OAIster (University of Michigan) that was obtained through metadata harvesting with OAI-PMH. Wikimedia uses an OAI-PMH repository to provide feeds of Wikipedia and related site updates for search engines and other bulk analysis/republishing endeavors. Especially when dealing with thousands of files being harvested every day, OAI-PMH can help in reducing the network traffic and other resource usage by doing incremental harvesting. NASA's Mercury metadata search system uses OAI-PMH to index thousands of metadata records from Global Change Master Directory (GCMD) every day. 
+      The mod_oai project is using OAI-PMH to expose content to web crawlers that is accessible from Apache Web servers. 
+      OAI-PMH has later been applied to sharing of scientific data.  
+      Software 
+      OAI-PMH is based on a client–server architecture, in which "harvesters" request information on updated records from "repositories". Requests for data can be based on a datestamp range, and can be restricted to named sets defined by the provider. Data providers are required to provide XML metadata in Dublin Core format, and may also provide it in other XML formats. 
+      A number of software systems support the OAI-PMH, including Fedora, EThOS from the British Library, GNU EPrints from the University of Southampton, Open Journal Systems from the Public Knowledge Project, Desire2Learn, DSpace from MIT, HyperJournal from the University of Pisa, Digibib from Digibis, MyCoRe, Koha, Primo, DigiTool, Rosetta and MetaLib from Ex Libris, ArchivalWare from PTFS, DOOR  from the eLab in Lugano, Switzerland, panFMP from the PANGAEA (data library), SimpleDL from Roaring Development, and jOAI from the National Center for Atmospheric Research.  
+      Archives 
+      A number of large archives support the protocol including arXiv and the CERN Document Server.  
+      See also 
+      
+       Data format management 
+       Digital curation 
+       Digital preservation 
+       File format 
+       Dublin Core, an ISO metadata standard 
+       National Digital Information Infrastructure and Preservation Program (NDIIPP) 
+       National Digital Library Program (NDLP) 
+       Metadata Encoding and Transmission Standard (METS) maintained by the Library of Congress 
+       Preservation Metadata: Implementation Strategies (PREMIS) 
+       LOCKSS 
+       Search as a service 
+       Web archiving
+       
+      References 
+      
+       
+        
+        ^ a b Marshall Breeding (September 2002). "Understanding the Protocol for Metadata Harvesting of the Open Archives Initiative". Computers in Libraries. 22 (8): 24–29. Retrieved 2021-02-08.  
+        ^ 
+          Marshall, E. (1999). "Researchers plan free global preprint archive". Science. 286 (5441): 887a–887. doi:10.1126/science.286.5441.887a. PMID&nbsp;10577235.  
+        ^ 
+          "The Santa Fe Convention by the Open Archives Initiative". www.openarchives.org. Retrieved 2021-02-10.}: CS1 maint: url-status (link)  
+        ^ 
+          "The Santa Fe Convention of the Open Archives Initiative". dspace.library.uu.nl. Retrieved 2021-02-10.  
+        ^ 
+          Edward A. Fox; Christine L. Borgman, eds. (2001). "Proceedings of the first ACM/IEEE-CS joint conference on Digital libraries". Joint Conference on Digital Libraries. Roanoke, Virginia, United States: ACM Press. doi:10.1145/379437. ISBN&nbsp;978-1-58113-345-5.  
+        ^ 
+          Lagoze, Carl; Van de Sompel, Herbert (2001). "The open archives initiative: building a low-barrier interoperability framework". Proceedings of the First ACM/IEEE-CS Joint Conference on Digital Libraries - JCDL '01. Roanoke, Virginia, United States: ACM Press: 54–62. CiteSeerX&nbsp;10.1.1.161.6800. doi:10.1145/379437.379449. ISBN&nbsp;978-1-58113-345-5.  
+        ^ 
+          Van de Sompel, Herbert; Lagoze, Carl (2000). "The Santa Fe Convention of the Open Archives Initiative". D-Lib Magazine. 6 (2). doi:10.1045/february2000-vandesompel-oai. ISSN&nbsp;1082-9873.  
+        ^ Coalition for Networked Information  
+        ^ Digital Library Federation  
+        ^ 
+          "OAi-tech Meeting, Cornell University, September 7-8 2000". www.openarchives.org. Retrieved 2021-02-10.  
+        ^ 
+          "The Open Archives Initiative: Open Meeting Renaissance Hotel, Washington DC January 23, 2001". www.openarchives.org. Retrieved 2021-02-10.}: CS1 maint: url-status (link)  
+        ^ 
+          "The Open Archives Initiative: Open Meeting Staatsbibliothek zu Berlin, Germany February 26, 2001". www.openarchives.org. Retrieved 2021-02-10.}: CS1 maint: url-status (link)  
+        ^ 
+          Van de Sompel, Herbert; Young, Jeffrey A.; Hickey, Thomas B. (2003). "Using the OAI-PMH ... Differently". D-Lib Magazine. 9 (7/8). doi:10.1045/july2003-young. ISSN&nbsp;1082-9873.  
+        ^ 
+          "OAI11 – CERN-UNIGE Workshop on Innovations in Scholarly Communication". Indico. Retrieved 2021-02-10.  
+        ^ Google Webmaster blog  
+        ^ 
+          "Wikimedia update feed service". Wikimedia Meta-Wiki. Retrieved 14 July 2013. }: Cite journal requires |journal= (help)  
+        ^ incremental harvesting  
+        ^ 
+          R. Devarakonda; G. Palanisamy; J. Green; B. Wilson (2010). "Data sharing and retrieval uses OAI-PMH". Earth Science Informatics. Springer Berlin / Heidelberg. 4 (1): 1–5. doi:10.1007/s12145-010-0073-0. S2CID&nbsp;46330319.  
+        ^ 
+          Devarakonda, Ranjeet; Palanisamy, Giri; Green, James M.; Wilson, Bruce E. (2011). "Data sharing and retrieval using OAI-PMH". Earth Science Informatics. 4 (1): 1–5. doi:10.1007/s12145-010-0073-0. ISSN&nbsp;1865-0473.  
+        ^ DOOR  
+        ^ eLab  
+        ^ 
+          "PANGAEA® Framework for Metadata Portals". panfmp.org.  
+        ^ 
+          "NCAR/joai-project". Github.com.  
+       
+       
+        
+      External links 
+      
+       Suleyman Demirel University Open Archives Harvester 
+       Protocol specification 
+       National Library of Congress, Digital Collections and Programs 
+       Library of Congress, National Digital Information Infrastructure and Preservation Program 
+       Library of Congress, Web Capture
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Open access
+           
+         
+         
+          
+            
+            
+             History 
+             Timeline
+             
+           
+         
+         
+          Concepts
+          
+            
+            
+             Gratis versus libre 
+             Subscription business model 
+             Paywall 
+             Copyright transfer agreement 
+             Academic journal 
+             Scientific journal 
+             Manuscript 
+             Preprint 
+             Postprint 
+             Article processing charge 
+             Predatory publishing
+             
+           
+         
+         
+          Statements
+          
+            
+            
+             Budapest Open Access Initiative 
+             Berlin Declaration 
+             Bethesda Statement 
+             DORA 
+             Durham Statement 
+             Geneva Declaration 
+             NIH Public Access Policy 
+             Research Works Act
+             
+           
+         
+         
+          Strategies
+          
+            
+            
+             Self-archiving 
+             Open-access mandate 
+             Open-access repository 
+             Hybrid open-access journal 
+             Delayed open-access journal
+             
+           
+         
+         
+          Projects andorganizations
+          
+            
+            
+             The Cost of Knowledge 
+             Creative Commons 
+             Directory of Open Access Books&nbsp; 
+             Directory of Open Access Journals 
+             Initiative for Open Citations 
+             Open Access Scholarly Publishers Association 
+             OpenAIRE 
+             Open Archives Initiative 
+             Open Knowledge 
+             Open Society Foundations 
+             Plan S 
+             Public Library of Science 
+             Public Knowledge Project 
+             Registry of Open Access Repositories 
+             Scholarly Publishing and Academic Resources Coalition 
+             Sci-Hub
+             
+           
+         
+         
+          By country
+          
+            
+            
+             Australia 
+             Austria 
+             Belgium 
+             Canada 
+             Denmark 
+             France 
+             Germany 
+             Greece 
+             Hungary 
+             India 
+             Republic of Ireland 
+             Italy 
+             Netherlands 
+             New Zealand 
+             Norway 
+             Poland 
+             Portugal 
+             Russia 
+             South Africa 
+             Spain 
+             Sweden 
+             Ukraine
+             
+           
+         
+         
+          Other
+          
+            
+            
+             Access to knowledge movement 
+             Access2Research 
+             List of open-access journals 
+             List of open-access projects 
+             List of repositories
+             
+           
+         
+         
+          
+            
+            
+             Open content 
+             Open data 
+             Open education 
+             Open government 
+             Open hardware 
+             Open knowledge 
+             Open science 
+             Open source
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Open_Archives_Initiative_Protocol_for_Metadata_Harvesting&amp;oldid=1070633121"
+     
+     
+    
+     
+      Categories: 
+      
+       Online archives
+       Internet protocols
+       Metadata
+       Open access projects
+       Archival science
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 maint: url-status
+       CS1 errors: missing periodical
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       বাংলা
+       Català
+       Čeština
+       Deutsch
+       Español
+       Français
+       Italiano
+       മലയാളം
+       Nederlands
+       日本語
+       Polski
+       Português
+       தமிழ்
+       Türkçe
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 8 February 2022, at 13:24&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

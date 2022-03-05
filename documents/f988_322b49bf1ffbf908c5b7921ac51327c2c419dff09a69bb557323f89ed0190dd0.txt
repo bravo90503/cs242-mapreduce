@@ -1,0 +1,1474 @@
+
+  
+  
+   LIS | Semantic Scholar 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+    
+    
+   
+   
+   
+   
+   
+  
+   
+  
+   
+    
+     
+      Skip to search formSkip to main contentSkip to account menu
+      
+       
+        
+         Semantic Scholar
+          Semantic Scholar's Logo
+         
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+         
+          
+          
+          
+          
+         
+        
+       
+        
+         
+          
+          
+           
+            Search
+            
+             
+            
+           
+         
+        
+       
+       
+        
+         
+          Sign InCreate Free Account
+         
+        
+       
+      
+      
+       
+        You are currently offline. Some features of the site may not work correctly.
+       
+      
+     
+    
+    
+     
+      
+       
+        
+         
+          
+           
+            
+             
+              DOI:10.1177/096100060303500103
+             
+            Corpus ID: 220912521
+           
+           LIS
+           @article{McNicol2003LIS,
+  title=,
+  author=,
+  journal=,
+  year=,
+  volume=,
+  pages=
+}
+           
+            S. McNicol
+            Published 1 March 2003
+            Journal of Librarianship and Information Science
+           
+           
+            
+             Researchers from different disciplines may choose to work together for a variety of reasons. Their complementary skills may enable problems to be solved more quickly; they may be better placed to tackle a multi-faceted problem; or they may wish to learn new skills and expand their methodological range. In other cases, research funders may require such an approach. Alternatively, the complexity or high cost of the research may mean that working together is the only viable option if the research…&nbsp;Expand
+            
+           
+           
+            
+             
+              
+               
+                 
+                  
+                 View on SAGE
+              
+              
+               
+                
+                  
+                   
+                  uky.edu
+                
+                 
+                  
+                   
+                  
+                
+               
+              
+             
+            
+            
+             
+              
+               
+                 
+                  
+                 Save to LibrarySave
+              
+              
+               
+                 
+                  
+                 Create AlertAlert
+              
+              
+               
+                 
+                  
+                 Cite
+              
+             
+            
+           
+          
+         
+         
+          
+           
+            Share This Paper
+            
+             
+            
+            
+             
+            
+            
+             
+            
+            
+             
+            
+           
+          
+          
+           
+            
+             
+              
+               13 Citations
+               
+                
+                 
+                  
+                   
+                    Highly Influential Citations
+                   
+                    
+                     
+                    
+                 
+                 
+                  2
+                 
+                
+                
+                 
+                  
+                   
+                    
+                     Background Citations
+                    
+                  
+                  
+                   6
+                  
+                 
+                 
+                  
+                   
+                    
+                      Methods Citations
+                    
+                  
+                  
+                   2
+                  
+                 
+                View All
+               
+              
+             
+            
+           
+          
+         
+        
+       
+      
+      
+       
+        
+         
+          
+           
+            13 Citations
+            
+             
+              
+               
+                
+                 
+                  
+                   
+                  
+                 
+               
+              
+              
+               
+                Citation Type
+                 
+                  
+                 
+               
+                
+                 
+                  
+                   
+                    
+                     Citation Type
+                    
+                    
+                     All Types
+                     Background Citations
+                     Methods Citations
+                    
+                   
+                  
+                 
+                
+              
+              
+               Has PDF
+              
+              
+               
+                Publication Type
+                  
+                   
+                  
+               
+               
+              
+              
+               
+                Author
+                  
+                   
+                  
+               
+               
+              
+              
+               More Filters
+              
+              
+               More Filters
+              
+              
+               Filters
+              
+             
+             
+              Sort by RelevanceSort by Most Influenced PapersSort by Citation CountSort by Recency
+              
+               
+              
+             
+            
+           
+          
+         
+         
+          
+           
+            
+             
+              
+               Paradigm Shifts and Labour Market Reform
+              
+             
+              P. Taylor-Gooby, J. Kananen, T. Larsen
+               
+              2004
+             
+             
+              The role of ideas in welfare state reform has attracted considerable attention recently, chiefly as a counter-balance to rational actor models. This paper analyses data from a recent study of the… Expand
+             
+             
+              
+               
+                
+                  
+                   
+                    
+                   2
+                  
+               
+              
+              
+               
+                
+                  
+                   
+                  Save
+               
+               
+                
+                  
+                   
+                  Alert
+               
+              
+             
+             
+            
+            
+             
+              
+               The conductor’s intensity gestures
+              
+             
+              I. Poggi, Francesca D'Errico, Alessandro Ansani
+              
+               
+                Psychology
+               
+               
+                Psychology of Music
+                
+              2020
+             
+             
+              This work is aimed at outlining a repertoire of conductors’ gestures. In this perspective, it presents two studies that investigate a specific subset of the body signals of orchestra and choir… Expand
+             
+             
+              
+              
+               
+                
+                 
+                    
+                     
+                    View 2 excerpts, cites background
+                
+               
+              
+              
+               
+                
+                  
+                   
+                  Save
+               
+               
+                
+                  
+                   
+                  Alert
+               
+              
+             
+             
+            
+            
+             
+              
+               Emergency Response Information System Interoperability: Development of Chemical Incident Response Data Model
+              
+             
+              Rui Chen, R. Sharman, Nirupama Chakravarti, H. Rao, S. Upadhyaya
+              
+               
+                Computer Science
+               
+               
+                J. Assoc. Inf. Syst.
+                
+              2008
+             
+             
+              
+               
+                TLDR
+               
+               
+              A theory driven novel approach is adopted to develop a XML-based data model that prescribes a comprehensive set of data standards for emergency management to better address the challenges of information interoperability. Expand
+             
+             
+              
+               
+                
+                  
+                   
+                    
+                   80
+                  
+                
+                 
+                  
+                   
+                    PDF
+                   
+                 
+               
+              
+              
+               
+                
+                  
+                   
+                  Save
+               
+               
+                
+                  
+                   
+                  Alert
+               
+              
+             
+             
+            
+            
+             
+              
+               Approximation by quadrilateral finite elements
+              
+             
+              D. Arnold, D. Boffi, R. S. Falk
+              
+               
+                Computer Science, Mathematics
+               
+               
+                Math. Comput.
+                
+              2002
+             
+             
+              We consider the approximation properties of finite element spaces on quadrilateral meshes. The finite element spaces are constructed starting with a given finite dimensional space of functions on a… Expand
+             
+             
+              
+               
+                
+                  
+                   
+                    
+                   239
+                  
+                
+                 
+                  
+                   
+                    PDF
+                   
+                 
+               
+              
+              
+               
+                
+                  
+                   
+                  Save
+               
+               
+                
+                  
+                   
+                  Alert
+               
+              
+             
+             
+            
+            
+             
+              
+               Logics for information systems and their dynamic extensions
+              
+             
+              Md. Aquil Khan, M. Banerjee
+              
+               
+                Mathematics, Computer Science
+               
+               
+                TOCL
+                
+              2011
+             
+             
+              
+               
+                TLDR
+               
+               
+              A set of reduction axioms enables us to obtain a complete axiomatization of the dynamic logics, and notions of information and information update are defined, and dynamic extensions of the above logics are presented to accommodate these notions. Expand
+             
+             
+              
+               
+                
+                  
+                   
+                    
+                   14
+                  
+                
+                 
+                  
+                   
+                    PDF
+                   
+                 
+               
+              
+              
+               
+                
+                  
+                   
+                  Save
+               
+               
+                
+                  
+                   
+                  Alert
+               
+              
+             
+             
+            
+            
+             
+              
+               Cooccurrence and food niche overlap of two common predators (red fox Vulpes vulpes and common buzzard Buteo buteo) in an agricultural landscape
+              
+             
+              L. Jankowiak, P. Tryjanowski
+              
+               
+                Biology
+                
+              2013
+             
+             
+              
+               
+                TLDR
+               
+               
+              The relationship between these species with respect to spatial distribution, the abundance of a potentially important prey species (common vole), diet, trophic niche breadth, and niche overlap was studied in western Poland during 2006-2009. Expand
+             
+             
+              
+               
+                
+                  
+                   
+                    
+                   9
+                  
+                
+                  
+                   
+                    
+                   Highly Influenced
+                  
+                
+                 
+                  
+                   
+                    PDF
+                   
+                 
+               
+              
+              
+               
+                
+                 
+                    
+                     
+                    View 6 excerpts, cites background
+                
+               
+              
+              
+               
+                
+                  
+                   
+                  Save
+               
+               
+                
+                  
+                   
+                  Alert
+               
+              
+             
+             
+            
+            
+             
+              
+               Analyza obrazu a aktivita intracelulárních esteras jako novy analyticky nástroj pro sledování rustu a zivotnosti embryonálních kultur smrku (Picea sp.) ovlivnenych kadmiem
+              
+             
+              Jiří Petřek, Jiří Baloun, +5 authors René Kizek
+              
+               
+                Chemistry
+                
+              2007
+             
+             
+              Introduction Image analysis (IA) of plant structures is technique, which enables us to quantify growth and morphological changes. IA is a non-destructive, sterile and simple method. Material and… Expand
+             
+             
+              
+               
+                
+                  
+                   
+                    
+                   5
+                  
+               
+              
+              
+               
+                
+                  
+                   
+                  Save
+               
+               
+                
+                  
+                   
+                  Alert
+               
+              
+             
+             
+            
+            
+             
+              
+               Towards Oxide Electronics: a Roadmap
+              
+             
+              M. Coll., J. Fontcuberta, +53 authors F. Granozio
+              
+               
+                Engineering
+               
+               
+                Applied Surface Science
+                
+              2019
+             
+             
+              
+               
+                
+                  
+                   
+                    
+                   131
+                  
+                
+                 
+                  
+                   
+                    
+                     
+                      
+                     PDF
+                   
+                 
+               
+              
+              
+               
+                
+                 
+                    
+                     
+                    View 2 excerpts, cites background
+                
+               
+              
+              
+               
+                
+                  
+                   
+                  Save
+               
+               
+                
+                  
+                   
+                  Alert
+               
+              
+             
+             
+            
+            
+             
+              
+               Influence of Zinc(II) and Copper(II) Ions on Streptomyces Bacteria Revealed by Electrochemistry
+              
+             
+              P. Majzlík, Andrej Strásky, +6 authors R. Kizek
+              
+               
+                Chemistry
+                
+              2011
+             
+             
+              An accumulation of heavy metals in different bacterial strains in soil has been observed and could be used in the process of remediation of soils contaminated by heavy-metal-pollutants. In this… Expand
+             
+             
+              
+               
+                
+                  
+                   
+                    
+                   42
+                  
+                
+                 
+                  
+                   
+                    PDF
+                   
+                 
+               
+              
+              
+               
+                
+                 
+                    
+                     
+                    View 2 excerpts, cites methods and background
+                
+               
+              
+              
+               
+                
+                  
+                   
+                  Save
+               
+               
+                
+                  
+                   
+                  Alert
+               
+              
+             
+             
+            
+            
+             
+              
+               Journal of Physical and Theoretical Chemistry
+              
+             
+              M. Akbarzadeh, Khirollah Mehrani, S. Ghammamy, Vahideh Hadigheh Rezvan
+               
+              2016
+             
+             
+              Thymus is regarded as one of the medicinal species, which according to obtained chromatograms of floral water of Thymus; one of the main components is thymol as strong antioxidant. In this study the… Expand
+             
+             
+              
+               
+                
+                 
+                  
+                   
+                    PDF
+                   
+                 
+               
+              
+              
+               
+                
+                 
+                    
+                     
+                    View 1 excerpt, cites background
+                
+               
+              
+              
+               
+                
+                  
+                   
+                  Save
+               
+               
+                
+                  
+                   
+                  Alert
+               
+              
+             
+             
+            
+           
+           
+            
+             
+              
+               
+                
+               
+              
+             
+             
+              
+               ...
+              
+             
+             
+              
+               1
+              
+             
+             
+              
+               2
+              
+             
+             
+              
+               ...
+              
+             
+             
+              
+               
+                
+               
+              
+             
+            
+           
+          
+         
+        
+        
+         
+          
+           References
+          
+         
+         
+          
+           
+            
+             SHOWING 1-10 OF 12 REFERENCES
+            
+            
+             
+              SORT BYRelevanceMost Influenced PapersRecency
+             
+            
+           
+           
+            
+             
+              
+               The status of information society studies in the information science curriculum.
+              
+             
+              A. Duff
+              
+               
+                Sociology
+                
+              2002
+             
+             
+              Argues for a central role for information society studies in degree programmes. Information society studies is an interdisciplinary specialism devoted to examination of the macrolevel role of… Expand
+             
+             
+              
+               
+                
+                  
+                   
+                    
+                   11
+                  
+               
+              
+              
+               
+                
+                  
+                   
+                  Save
+               
+               
+                
+                  
+                   
+                  Alert
+               
+              
+             
+             
+            
+            
+             
+              
+               Interdisciplinary nature of library science
+              
+             
+              A. Baradol, S. Kumbar
+              
+               
+                Sociology
+                
+              1998
+             
+             
+              Examines the interdisciplinary nature of library science. The review articles published from thirteenth to seventeenth volumes of Advances in Librarianship' are used for judging the interdisciplinary… Expand
+             
+             
+              
+               
+                
+                  
+                   
+                    
+                   7
+                  
+               
+              
+              
+               
+                
+                 
+                    
+                     
+                    View 1 excerpt, references background
+                
+               
+              
+              
+               
+                
+                  
+                   
+                  Save
+               
+               
+                
+                  
+                   
+                  Alert
+               
+              
+             
+             
+            
+            
+             
+              
+               The LIS Research Landscape: A Review and Prognosis
+              
+             
+              S. McNicol, C. Nankivell
+              
+               
+                Political Science
+                
+              2003
+             
+             
+              
+               
+                
+                  
+                   
+                    
+                   32
+                  
+               
+              
+              
+               
+                
+                  
+                   
+                  Save
+               
+               
+                
+                  
+                   
+                  Alert
+               
+              
+             
+             
+            
+            
+             
+              
+               Information Science
+              
+             
+              J. Farradane
+              
+               
+                Nature
+                
+              1971
+             
+             
+              Introduction to Science-Information Work. By C. W. Hanson. Pp. 199. (Aslib: London, June 1971.) £3; members £2.40.
+             
+             
+              
+               
+                
+                  
+                   
+                    
+                   268
+                  
+                
+                 
+                  
+                   
+                    PDF
+                   
+                 
+               
+              
+              
+               
+                
+                  
+                   
+                  Save
+               
+               
+                
+                  
+                   
+                  Alert
+               
+              
+             
+             
+            
+            
+             
+              Short term investigation into ESRC funded interdisciplinary research
+             
+             
+              
+               
+                SUPRA
+                
+              2001
+             
+            
+            
+             
+              Crossing boundaries: knowledge, disciplinaries and interdisciplinaries. Virginia: University Press of Virginia
+             
+             
+               
+              1996
+             
+            
+            
+             
+              
+               Information science: The interdisciplinary context.
+              
+             
+              D. Case
+              
+               
+                Computer Science
+                
+              1991
+             
+             
+              
+               
+                
+                  
+                   
+                    
+                   10
+                  
+               
+              
+              
+               
+                
+                  
+                   
+                  Save
+               
+               
+                
+                  
+                   
+                  Alert
+               
+              
+             
+             
+            
+            
+             
+              Information studies and communication research
+             
+             
+              
+               
+                In Information science: the interdisciplinary context,
+                
+              1990
+             
+            
+            
+             
+              Introduction. In Information science: the interdisciplinary context, eds
+             
+             
+              
+               
+                Michael J. Pemberton and Ann E. Prentice, pp. vii–xxvi
+                
+              1990
+             
+            
+            
+             
+              Promoting interdisciplinary research and training: report of the Joint Research Council Visits to 13 UK universities
+             
+             
+               
+              1990
+             
+            
+           
+           
+            
+             
+              
+               
+                
+               
+              
+             
+             
+              
+               ...
+              
+             
+             
+              
+               1
+              
+             
+             
+              
+               2
+              
+             
+             
+              
+               ...
+              
+             
+             
+              
+               
+                
+               
+              
+             
+            
+           
+          
+         
+        
+        
+         Related Papers
+         
+          
+          
+           
+            
+             
+              
+              
+             
+             
+              
+              
+             
+             
+              
+              
+             
+            
+          
+         
+        
+       
+      
+      
+       
+        
+         
+          
+           
+            Abstract
+            13 Citations
+            12 References
+            Related Papers
+           
+          
+         
+        
+       
+      
+     
+    
+    
+     
+      
+       
+        
+         Stay Connected With Semantic Scholar
+        
+        
+         Sign Up
+        
+       
+      
+      
+       
+        
+         
+          What Is Semantic Scholar?
+          Semantic Scholar is a free, AI-powered research tool for scientific literature, based at the Allen Institute for AI.Learn More
+         
+        
+        
+         
+          AboutAbout UsPublishersBeta ProgramContact
+         
+         
+          ResearchTeamDatasetsOpen CorpusSupp.ai
+         
+         
+          ResourcesLibrariansTutorialsFAQAPI
+         
+        
+       
+      
+      
+       
+        
+         
+          Proudly built by AI2
+         
+         
+          Collaborators &amp; Attributions •Terms of Service•Privacy Policy
+         
+        The Allen Institute for AI
+       
+      
+     
+    
+   
+   
+    
+   
+   
+    
+     
+      By clicking accept or continuing to use the site, you agree to the terms outlined in our Privacy Policy, Terms of Service, and Dataset License
+     
+     
+      
+       ACCEPT &amp; CONTINUE
+      
+     
+    
+   
+   
+    
+     
+    
+     
+    
+     
+    
+     
+    
+     
+    
+     
+    
+     
+    
+     
+    
+     
+    
+     
+    
+     
+    
+     
+    
+     
+    
+     
+    
+     
+    
+     
+    
+     
+    
+   
+   
+   
+   
+   
+   
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+     
+ 

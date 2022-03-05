@@ -1,0 +1,273 @@
+
+ 
+  
+   
+  View source for Information science - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   View source for Information science 
+    
+    
+     ← Information science
+     
+     
+     Jump to navigation Jump to search 
+    
+     You do not have permission to edit this page, for the following reasons:  
+      
+       
+        
+        
+          
+           
+           
+            
+             You are currently unable to edit Wikipedia.
+             
+            Editing from your IP address range (185.242.5.0/24) has been blocked (disabled) on all Wikimedia wikis until 20:14, 15 August 2023 by Martin Urbanec (meta.wikimedia.org) for the following reason:  
+             
+            
+             No open proxies: please read the FAQ should you be affected
+             
+            This block began on 20:14, 15 August 2020 
+            Your current IP address is 185.242.5.178. Please include all above details in any queries you make. 
+            If you believe you were blocked by mistake, you can find additional information and instructions in the No open proxies global policy. Otherwise, to discuss the block post a request for review on Meta-Wiki or send an email to the stewards Volunteer Response Team queue at stewards@wikimedia.org including all above details.  
+            
+         
+        
+        
+       
+        
+        
+          You are currently unable to edit Wikipedia due to a block affecting this IP address.
+         This does not affect your ability to read Wikipedia pages.
+        
+         
+        Most people who see this message have done nothing wrong. Some kinds of blocks restrict editing from specific service providers or telecom companies in response to recent abuse or vandalism, and affect other users who are unrelated to that abuse. See below if you do not believe you have done anything wrong.
+         
+        Editing from 185.242.4.0/22 has been blocked (disabled) by ‪ST47‬ for the following reason(s):  
+         
+          
+          
+           
+          The IP address that you are currently using has been blocked because it is believed to be a web host provider or colocation provider. To prevent abuse, web hosts and colocation providers may be blocked from editing Wikipedia. 
+          
+           You will not be able to edit Wikipedia using a web host or colocation provider because it hides your IP address, much like a proxy or VPN. 
+           We recommend that you attempt to use another connection to edit. For example, if you use a proxy or VPN to connect to the internet, turn it off when editing Wikipedia. If you edit using a mobile connection, try using a Wi-Fi connection, and vice versa. If you have a Wikipedia account, please log in. If you do not have any other way to edit Wikipedia, you will need to request an IP block exemption. 
+           If you are confident that you are not using a web host, you may appeal this block by adding the following text on your talk page: }. You must fill in the blank with your IP address for this block to be investigated. Your IP address can be determined here. Alternatively, if you wish to keep your IP address private you can use the unblock ticket request system. There are several reasons you might be editing using the IP address of a web host or colocation provider (such as if you are using VPN software or a business network); please use this method of appeal only if you think your IP address is in fact not a web host or colocation provider. 
+           Administrators: The IP block exemption user right should only be applied to allow users to edit using web host in exceptional circumstances, and requests should usually be directed to the functionaries team via email. If you intend to give the IPBE user right, a CheckUser needs to take a look at the account. This can be requested most easily at SPI Quick Checkuser Requests. Unblocking an IP or IP range with this template is highly discouraged without at least contacting the blocking administrator.  
+          
+          
+         
+        This block has been set to expire: 21:09, 18 June 2023.  
+        
+        Even when blocked, you will usually still be able to edit your user talk page, and email administrators and other editors. 
+        For information on how to proceed, first see the FAQ for blocked users and the guideline on block appeals. The guide to appealing blocks may also be helpful. 
+        Other useful links: Blocking policy · Help:I have been blocked  
+        
+     
+      
+     
+      You can view and copy the source of this page:
+     ===Definitions===
+The first known usage of the term "information science" was in 1955.&lt;ref&gt;}&lt;/ref&gt; An early definition of Information science (going back to 1968, the year when the ''American Documentation Institute'' renamed itself as the ''American Society for Information Science and Technology'') states:
+
+:"Information science is that discipline that investigates the properties and behavior of information, the forces governing the flow of information, and the means of processing information for optimum accessibility and usability. It is concerned with that body of knowledge relating to the origination, collection, organization, storage, retrieval, interpretation, transmission, transformation, and utilization of information. This includes the investigation of information representations in both natural and artificial systems, the use of codes for efficient message transmission, and the study of information processing devices and techniques such as computers and their programming systems. It is an interdisciplinary science derived from and related to such fields as mathematics, logic, linguistics, psychology, computer technology, operations research, the graphic arts, communications, management, and other similar fields. It has both a pure science component, which inquires into the subject without regard to its application, and an applied science component, which develops services and products." (Borko, 1968, p.3).&lt;ref&gt;Borko, H. (1968). Information science: What is it? ''American Documentation'' 19(1), 3¬5.&lt;/ref&gt;
+
+====Related terms====
+Some authors use ] as a synonym for ''information science''. This is especially true when related to the concept developed by ] and other Soviet authors in the mid-1960s. The Mikhailov school saw informatics as a discipline related to the study of scientific information.&lt;ref&gt;}&lt;/ref&gt;
+Informatics is difficult to precisely define because of the rapidly evolving and ] nature of the field. Definitions reliant on the nature of the tools used for deriving meaningful information from data are emerging in Informatics academic programs.&lt;ref&gt;}&lt;/ref&gt;
+
+Regional differences and international terminology complicate the problem. Some people} note that much of what is called "Informatics" today was once called "Information Science" – at least in fields such as Medical Informatics. For example, when library scientists began also to use the phrase "Information Science" to refer to their work, the term "informatics" emerged:
+
+* in the United States as a response by computer scientists to distinguish their work from that of library science
+* in Britain as a term for a science of information that studies natural, as well as artificial or engineered, information-processing systems
+
+Another term discussed as a synonym for "information studies" is "]". ]'s ''Information Systems'' (1973) placed information systems within IS.&lt;ref&gt;Vickery; B. C. (1973). Information Systems. London: Butterworth.&lt;/ref&gt; Ellis, Allen, &amp; Wilson (1999), on the other hand, provided a bibliometric investigation describing the relation between two ''different'' fields: "information science" and "information systems".&lt;ref&gt;Ellis, D., Allen, D. and Wilson, T. 1999. . JASIS 50(12):1095–1107&lt;/ref&gt;
+
+     
+     Return to Information science. 
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/wiki/Information_science"
+     
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Page information
+       Wikidata item
+       
+      
+     
+     
+      Languages  
+      
+       
+      
+       
+       
+      
+     
+    
+   
+   
+    
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+    
+ 

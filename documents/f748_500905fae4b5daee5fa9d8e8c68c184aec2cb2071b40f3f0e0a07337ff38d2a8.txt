@@ -1,0 +1,573 @@
+
+ 
+  
+   
+  Tamara Munzner - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Tamara Munzner 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       American computer scientist
+       
+        
+      
+      
+       
+        
+         
+          
+           Tamara Munzner
+          
+        
+        
+         Born
+         1969 (age&nbsp;52–53)
+          
+           Minneapolis, Minnesota, U.S.
+          
+        
+        
+         Citizenship
+         American, Canadian
+        
+        
+         Alma&nbsp;mater
+         Stanford University (BS, PhD)
+        
+        
+         
+          Scientific career
+        
+        
+         Fields
+         Computer Science, Information Visualization
+        
+        
+         Institutions
+         University of Minnesota(1991–1995)University of British Columbia (2002–present)
+        
+        
+         Thesis
+         Interactive Visualization of Large Graphs and Networks&nbsp;(2000)
+        
+        
+         Doctoral advisor
+         Pat Hanrahan
+        
+        
+          
+        
+       
+       
+      Tamara Macushla Munzner (born 1969) is an American-Canadian scientist. She is an expert in information visualization who works as a professor of computer science at the University of British Columbia (UBC).  
+      
+       
+       
+        Contents
+        
+        
+        1 Early life 
+        2 Career 
+        3 Selected publications 
+        4 Awards 
+        5 References 
+        6 External links 
+        
+       
+      Early life 
+      Tamara Macushla Munzner was born in 1969 in Minneapolis, Minnesota. She graduated from South High School in 1986. She earned a Bachelor of Science degree in computer science from Stanford University in 1991. She returned to Stanford for her graduate studies, completing her Ph.D. in 2000 under the supervision of Pat Hanrahan. Her thesis, Interactive Visualization of Large Graphs and Networks, involved using hyperbolic geometry to visualize large graphs.  
+      Career 
+      Munzner worked as an intern at ETA Systems in the 1980s while still in college. Munzner then worked at The Geometry Center at the University of Minnesota from 1991 to 1995. There, she helped produce two mathematical visualization videos, one about turning spheres inside-out and another about the different topological structures that a three-dimensional universe could have. 
+      She interned at Microsoft Research and Silicon Graphics. After receiving her Ph.D., she became a research scientist at the Compaq Systems Research Center in 2000, before joining the University of British Columbia faculty as an assistant professor of computer science in the summer of 2002. 
+      Munzner is the author of the book Visualization Analysis and Design (CRC Press, 2014). She was program co-chair of the InfoVis conference in 2003 and 2004, and of EuroVis in 2009 and 2010. She has served as the chair of the steering committee of Institute of Electrical and Electronics Engineers (IEEE) InfoVis and the executive committee of IEEE Visualization.  
+      Selected publications 
+      
+       Munzner, T (2014). Visualization Analysis and Design CRC Press. 
+       Munzner, T (2009). A Nested Model for Visualization Design and Validation IEEE Trans. Visualization and Computer Graphics 15(6):921-928. 
+       Munzner, T (2012), with Sedlmair, M. Design Study Methodology: Reflections from the Trenches and the Stacks IEEE Trans. Visualization and Computer Graphics 18(12):2421-2440.
+       
+      Awards 
+      
+       In 2015, Munzner received the IEEE VGTC Visualization Technical Achievement Award "in recognition of her foundational research that has produced a scientific basis for principles and design choices for visualization". 
+       In 2019, Munzner was awarded a 10-Year Test of Time award from IEEE InfoVis. Her nested model of visualization design and validation, published in 2009, which guided designers from a problem in an application domain to abstractions for the problem and data, to the design of visual encoding and interaction techniques, to efficient instantiation through algorithms.
+       
+      References 
+      
+       
+       
+         
+         ^ Munzner, Tamara, "Just voted for the first time as a new Canadian citizen - democracy FTW!", Twitter, retrieved 2019-12-12  
+         ^ a b c Tamara Munzner biography, retrieved 2017-07-05  
+         ^ a b c d e f Curriculum vitae, retrieved 2015-07-30.  
+         ^ a b c d e 
+           "the cavalcade of old Tamara Munzner bios", University of British Columbia, retrieved 2021-05-12  
+         ^ Tamara Munzner at the Mathematics Genealogy Project  
+         ^ 
+           Hardenbergh, Jan (22 July 2002), "Interview with Tamara Munzner", Reports from SIGGRAPH 2002, ACM SIGGRAPH, archived from the original on 2012-05-22.  
+         ^ 
+           Salvo, Natalie (19 May 2015), "Professor Tamara Munzner and CSIRO's Christian Stolte discuss how to create great visualizations", The AU Interview, The AU Review, archived from the original on 2018-03-06.  
+         ^ 
+           Satzer, William J. (17 March 2015), "Review of Visualization Analysis and Design", MAA Reviews, Mathematical Association of America.  
+         ^ 
+           "The 2015 Visualization Technical Achievement Award". Institute of Electrical and Electronics Engineers. January 2016. Retrieved 2021-11-06.  
+         ^ 
+           "VIS2019 - Test of Time Award Awards". Institute of Electrical and Electronics Engineers. 2019. Archived from the original on 2021-10-27. Retrieved 2021-11-06.  
+        
+       
+       
+      External links 
+      
+       Official website 
+       Google scholar profile
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          General
+          
+            
+            
+             ISNI 
+              
+               1
+               
+             VIAF 
+              
+               1
+               
+             WorldCat
+             
+           
+         
+         
+          National libraries
+          
+            
+            
+             United States
+             
+           
+         
+         
+          Scientific databases
+          
+            
+            
+             DBLP (computer science) 
+             Mathematics Genealogy Project
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Tamara_Munzner&amp;oldid=1057353778"
+     
+     
+    
+     
+      Categories: 
+      
+       1969 births
+       Living people
+       People from Minneapolis
+       American computer scientists
+       American women computer scientists
+       Canadian computer scientists
+       Canadian women computer scientists
+       Stanford University alumni
+       University of British Columbia faculty
+       Information visualization experts
+       American women academics
+       21st-century American women
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with short description
+       Short description matches Wikidata
+       Use dmy dates from October 2021
+       Articles with hCards
+       Articles with ISNI identifiers
+       Articles with VIAF identifiers
+       Articles with WORLDCATID identifiers
+       Articles with LCCN identifiers
+       Articles with DBLP identifiers
+       Articles with MGP identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Español
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 27 November 2021, at 03:12&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

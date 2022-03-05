@@ -1,0 +1,316 @@
+
+ 
+  
+   
+  Vertical search - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Vertical search 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This article possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed. (September 2012) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      A vertical search engine is distinct from a general web search engine, in that it focuses on a specific segment of online content. They are also called specialty or topical search engines. The vertical content area may be based on topicality, media type, or genre of content. Common verticals include shopping, the automotive industry, legal information, medical information, scholarly literature, job search and travel. Examples of vertical search engines include the Library of Congress, Mocavo, Nuroa, Trulia, Listen Notes and Yelp. 
+      In contrast to general web search engines, which attempt to index large portions of the World Wide Web using a web crawler, vertical search engines typically use a focused crawler which attempts to index only relevant web pages to a pre-defined topic or set of topics. Some vertical search sites focus on individual verticals, while other sites include multiple vertical searches within one search engine.  
+      
+       
+       
+        Contents
+        
+        
+        1 Benefits 
+        2 Domain-specific search 
+          
+          2.1 DARPA's Memex program 
+           
+        3 References 
+        
+       
+      Benefits 
+      Vertical search offers several potential benefits over general search engines:  
+      
+       Greater precision due to limited scope, 
+       Leverage domain knowledge including taxonomies and ontologies, 
+       Support of specific unique user tasks.
+       
+      Vertical search can be viewed as similar to enterprise search where the domain of focus is the enterprise, such as a company, government or other organization. In 2013, consumer price comparison websites with integrated vertical search engines such as FindTheBest drew large rounds of venture capital funding, indicating a growth trend for these applications of vertical search technology.  
+      Domain-specific search 
+      Domain-specific verticals focus on a specific topic. John Battelle describes this in his book The Search (2005):  
+       
+       Domain-specific search solutions focus on one area of knowledge, creating customized search experiences, that because of the domain's limited corpus and clear relationships between concepts, provide extremely relevant results for searchers.  
+       
+      Any general search engine would be indexing all the pages and searches in a breadth-first manner to collect documents. The spidering in domain-specific search engines more efficiently searches a small subset of documents by focusing on a particular set. Spidering accomplished with a reinforcement-learning framework has been found to be three times more efficient than breadth-first search.  
+      DARPA's Memex program 
+      In early 2014, the Defense Advanced Research Projects Agency (DARPA) released a statement on their website outlining the preliminary details of the "Memex program", which aims at developing new search technologies overcoming some limitations of text-based search. DARPA wants the Memex technology developed in this research to be usable for search engines that can search for information on the Deep Web – the part of the Internet that is largely unreachable by commercial search engines like Google or Yahoo. DARPA's website describes that "The goal is to invent better methods for interacting with and sharing information, so users can quickly and thoroughly organize and search subsets of information relevant to their individual interests". As reported in a 2015 Wired article, the search technology being developed in the Memex program "aims to shine a light on the dark web and uncover patterns and relationships in online data to help law enforcement and others track illegal activity". DARPA intends for the program to replace the centralized procedures used by commercial search engines, stating that the "creation of a new domain-specific indexing and search paradigm will provide mechanisms for improved content discovery, information extraction, information retrieval, user collaboration, and extension of current search capabilities to the deep web, the dark web, and nontraditional (e.g. multimedia) content". In their description of the program, DARPA explains the program's name as a tribute to Bush's original Memex invention, which served as an inspiration. 
+      In April 2015, it was announced parts of Memex would be open sourced. Modules were available for download.  
+      References 
+      
+       
+       
+         
+         ^ Rao, Leena. "Data-Driven Comparison Shopping Platform FindTheBest Raises $11M From New World, Kleiner Perkins And Others". TechCrunch. Retrieved 27 May 2013.  
+         ^ 
+           HO, VICTORIA. "Asian Price Comparison Site Save 22 Gets Angel Round Of "Mid Six Figures"". Retrieved 27 May 2013.  
+         ^ 
+           Battelle, John (2005). The Search: How Google and its Rivals Rewrote the Rules of Business and Transformed Our Culture. New York: Portfolio.  
+         ^  
+           McCallum, Andrew (1999). "A Machine Learning Approach to Building Domain-Specific Search Engines". IJCAI. 99: 662–667. CiteSeerX&nbsp;10.1.1.88.3818.  
+         ^ a b 
+           "Memex Aims to Create a New Paradigm for Domain-Specific Search" (Press release). DARPA. February 9, 2014. Archived from the original on February 11, 2015. Retrieved February 11, 2015.  
+         ^ 
+           "Memex (Domain-Specific Search)". www.darpa.mil. Retrieved 2016-09-21.  
+         ^ 
+           Kim Zetter (February 2, 2015). "Darpa Is Developing a Search Engine for the Dark Web". Wired.  
+         ^ a b 
+           "Memex (Domain-Specific Search)". DARPA. Archived from the original on June 10, 2015. Retrieved April 20, 2015.  
+         ^ 
+           Forbes (April 17, 2015). "Watch Out Google, DARPA Just Open Sourced All This Swish 'Dark Web' Search Tech". Retrieved April 20, 2015.  
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Vertical_search&amp;oldid=1054910928"
+     
+     
+    
+     
+      Categories: 
+      
+       Internet search engines
+       Domain-specific search engines
+      
+     
+     
+      Hidden categories: 
+      
+       Articles that may contain original research from September 2012
+       All articles that may contain original research
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       Deutsch
+       Español
+       فارسی
+       Français
+       Italiano
+       Nederlands
+       Română
+       Русский
+       தமிழ்
+       Türkçe
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 12 November 2021, at 18:44&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

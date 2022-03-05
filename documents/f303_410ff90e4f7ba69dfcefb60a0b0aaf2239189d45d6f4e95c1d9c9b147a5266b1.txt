@@ -1,0 +1,363 @@
+
+ 
+  
+   
+  Informasjonsgjenfinning – Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Informasjonsgjenfinning 
+    
+    
+     Fra Wikipedia, den frie encyklopedi
+     
+     
+     
+     Hopp til navigering Hopp til søk 
+    
+     
+      Informasjonsgjenfinning er et bredt forskningsfelt innen datavitenskap som fokuserer på å gi brukere tilgang på informasjon de søker. Det dreier seg om representasjon, lagring, organisering og tilgang til informasjonselementer, med utgangspunkt i et brukerbehov.  
+      
+       
+       
+        Innhold
+        
+        
+        1 Historie 
+        2 Modeller 
+          
+          2.1 Klassisk informasjonsgjennfinning 
+            
+            2.1.1 Boolskmodell/Sett-teori 
+            2.1.2 Vektormodell/Algebraiskmodell 
+            2.1.3 Probabilistisk modell 
+             
+          2.2 Web 
+          2.3 Multimedie gjenfinning 
+           
+        3 Kilder 
+        
+       
+      Historie 
+      I århundrer har indekser blitt laget for hånd for å gjøre et søk raskt i en samling av dokumenter. Disse indeksene er grunnlaget for all moderne informasjonsgjenfinning. Disse var håndkonstruert og inndelt etter kategori og tema i teksten. Fremveksten av datamaskiner gjorde det mulig å gjøre en slik indeksering automatisk. Biblioteker var de første til å ta i bruk system for informasjonsgjenfinning. Disse var opprinnelig utviklet av universiteter og siden av kommersielle selskaper. Ved oppfinnelsen av internett gikk dette fra å være et snevert fagfelt for spesielt interesserte til å bli en teknologi med en meget sentral plass i moderne liv.  
+      Modeller 
+      Informasjonsgjenfinningssystemer kan være frembringende (et dokument er enten relevant eller ikke relevant til et spørsmål/behov) eller rangerende (et dokument har grader av relevans til et spørsmål). Modeller omhandler ofte rangerende systemer. 
+      Modellering i et IG-system er en kompleks prosess som brukes til å produsere en rangeringsfunksjon. Denne prosessen består av to steg:  
+      
+       Valg av et logisk rammeverk for representasjon av data. 
+       Definere en rangeringsfunksjon som regner ut en verdi for hvert dokument i kontekst av en spørring.
+       
+      Klassisk informasjonsgjennfinning 
+      I de klassiske modellene for informasjonsgjennfinning snakker vi om søk i dokumenter som inneholder ustrukturert tekst.  
+      Boolskmodell/Sett-teori 
+      I en boolsk modell for IG, representeres et dokument ved om de inneholder et søketerm eller ikke. Det tar altså ikke høyde for frekvensen av forekomster i et dokument. Et svarsett til et søk vil dermed være unionen av alle dokumenter som inneholder alle søketermene. Et slikt søk kan også modifiseres ved bruk av andre boolske operatorer som OR(Eller) og NOT(Ikke). Boolske spørringer regnes som vanskelig for brukere å utføre. Fordelen med en slik modell er den rene formaliseringen. Enten inneholder et dokument søkeordet, eller så gjør den det ikke. Ved et slikt søk finnes det ingen måte å rangere resultatene, da alle dokumenter som oppfyller kravet vil returneres. Dette fører til vanskeligheter ved at enkle søk kan returnere alt for mange resultater i vilkårlig rekkefølge, og at et for restriktivt søk returnerer for få relevante dokumenter. 
+      Utvidelser av denne modellen er en Fuzzy modell,Extended Boolean og Set-based modell.  
+      Vektormodell/Algebraiskmodell 
+      Vektormodellen bygger på at ikke alle termer beskriver et dokument like godt. Et dokument som forekommer i alle dokumentene i en samling vil ikke være beskrivende for hva som skiller dokumenter. En term som forekommer sjelden vil derimot være veldig viktig for en søker, da alle disse dokumentene vil kunne være relevante. Termvekten vil regnes ut ved at man teller antallet forekomster i et spesifikt dokument og forekomsten i samlingen totalt. En slik vekting kan gjøres mer effektiv ved å bruke noe som kalles Tf-idf hvor man også tar høyde for relativ frekvens innad i dokumentet. 
+      Et dokument representeres på denne måten som en vektor i n-dimensjonalt rom i henhold til vektingen av de ulike termene. Dette åpner for, i motsetning til den boolske modellen for delvis treff på søkefrasen. Dette gjøres ved at man regner ut grad av likhet, som er en verdi som beskriver avstanden mellom en vektor som representerer et dokument og en vektor som representerer søket. Dette gjør at et delvis treff også vil returneres, men denne vil rangeres lavere enn et mer direkte treff. 
+      Utvidelser av denne modellen er Generalized vector, Latent Semantic Networks og Neurale nettverk.  
+      Probabilistisk modell 
+      En probabilistisk modell er en familie av modeller som baserer seg på statistikk og sannsynlighet. Utgangspunktet for en slik modell er en antagelse om at det eksisterer et sett som kun består av dokumenter som er relevante for en bruker gitt en spesifikk søkefrase. Dette kalles et ideal-sett. Gitt en beskrivelse av et slikt ideal-sett vil vi dermed kunne returnere relevante dokumenter. Dette foregår ved at systemet først gjetter på hva som er et korrekt returnert sett, for så å forbedre søket gradvis ved hjelp av tilbakemelding fra brukeren. 
+      Utvidelser av denne modellen er BM25, Language Models, Divergence from Randomness og Bayesiske nettverk.  
+      Web 
+      Ved søk på internett vil de klassiske modellen for seg selv ikke gi gode resultater. Metoder som er viktige for informasjonsgjennfinning av nettressurser er PageRank og Hubs and Authorities. Disse metodene tar i tillegg til standard vektormodell, som er det vanligste brukte ved nettsøkt, og legger til informasjon om linker. Dette har vist seg å være essensiell informasjon hvis man ønsker å returnere relevante linker på internett.  
+      Multimedie gjenfinning 
+      Multimediedata mangler ofte assosiert tekst. Dette gjør gjennfinningen av denne typen ressurser vanskelig. Søker man på metadata, eller kjører analyse av ressursene, så vil dette kunne brukes til søk. Derimot er det sjelden denne data som er interessant for en søker, da fargebalanse og kontrast sjelden sier noe om bildet er av en blomst eller en bil. I disse kontekstene er man start sett avhengig av annotasjon av dokumentet og av å assosiere en fritekst som omhandler ressursen med ressursen. Har man disse dataene vil man kunne bruke metoder fra de klassiske modellene for å gjennfinne ønskede dokumenter.  
+      Kilder 
+      
+       Baeza-Yates, Richardo; Ribeiro-Neto, Berthier (2011). Modern Information Retrieval: The concepts and technology behind search. Addison Wesley. ISBN&nbsp;9780321416919.&nbsp; 
+       Jurafsky, Dan; Manning, Christopher. «Coursera: Natural Language Processing». Stanford University.&nbsp;
+       
+      
+       
+        
+         
+          Oppslagsverk/autoritetsdata
+          
+           
+            Store norske leksikon · Encyclopædia Britannica · GND · LCCN · BNF · BNF (data) · NDL · BNE
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Hentet fra «https://no.wikipedia.org/w/index.php?title=Informasjonsgjenfinning&amp;oldid=19974967»
+     
+     
+    
+     
+      Kategori: 
+      
+       Informasjonsgjenfinning
+      
+     
+     
+      Skjult kategori: 
+      
+       Artikler med autoritetsdatalenker fra Wikidata
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigasjonsmeny 
+    
+     
+      Personlig  
+      
+      
+       Ikke logget inn
+       Brukerdiskusjon
+       Bidrag
+       Opprett konto
+       Logg inn
+       
+      
+     
+     
+      
+       Navnerom  
+       
+       
+        Artikkel
+        Diskusjon
+        
+       
+      
+      
+       
+       norsk bokmål expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Visninger  
+       
+       
+        Les
+        Rediger
+        Rediger kilde
+        Vis historikk
+        
+       
+      
+      
+       
+       Mer expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Søk  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigasjon  
+      
+      
+       Forside
+       Svaksynte
+       Utmerkede artikler
+       Hjelp
+       Siste endringer
+       
+      
+     
+     
+      Prosjekt  
+      
+      
+       Stilmanual
+       Prosjektportal
+       Tinget
+       Torget
+       Konkurranser
+       Notiser
+       Nybegynnerforum
+       Tilfeldig side
+       
+      
+     
+     
+      Wikipedia  
+      
+      
+       Kontakt Wikipedia
+       Doner
+       Wikimedia Norge
+       
+      
+     
+     
+      Eksterne søk  
+      
+       
+      
+     
+     
+      Lager  
+      
+       
+      
+     
+     
+      På andre prosjekter  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Skriv ut/eksporter  
+      
+      
+       Opprett en bok
+       Last ned som PDF
+       Utskriftsvennlig versjon
+       
+      
+     
+     
+      Verktøy  
+      
+      
+       Lenker hit
+       Relaterte endringer
+       Spesialsider
+       Permanent lenke
+       Sideinformasjon
+       Siter denne siden
+       Wikidata-element
+       
+      
+     
+     
+      På andre språk  
+      
+      
+       Norsk nynorsk
+       Dansk
+       Svenska
+       العربية
+       Azərbaycanca
+       Български
+       Català
+       Čeština
+       Deutsch
+       Ελληνικά
+       English
+       Español
+       Esperanto
+       Euskara
+       فارسی
+       Français
+       Gaeilge
+       Galego
+       한국어
+       हिन्दी
+       Bahasa Indonesia
+       Italiano
+       Bahasa Melayu
+       Монгол
+       Nederlands
+       日本語
+       Polski
+       Português
+       Русский
+       Simple English
+       Српски / srpski
+       Suomi
+       Тоҷикӣ
+       Türkçe
+       Українська
+       Tiếng Việt
+       中文
+       
+      
+       Rediger lenker
+       
+      
+     
+    
+   
+   
+    
+     Denne siden ble sist redigert 2. des. 2019 kl. 15:32. 
+    Innholdet er tilgjengelig under Creative Commons-lisensen Navngivelse-Del på samme vilkår, men ytterligere betingelser kan gjelde. Se bruksvilkårene for detaljer. 
+    
+    
+    Personvern 
+    Om Wikipedia 
+    Forbehold 
+    Mobilvisning 
+    Utviklere 
+    Statistikk 
+    Erklæring om informasjonskapsler 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

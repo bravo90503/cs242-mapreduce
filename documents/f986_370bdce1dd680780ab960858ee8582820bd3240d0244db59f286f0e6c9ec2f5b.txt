@@ -1,0 +1,305 @@
+
+ 
+  
+   
+  Shadow library - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Shadow library 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Copy of proprietary content aimed at making it freely available on the Internet
+       
+      Shadow libraries are online databases of readily available content that is normally obscured or otherwise not readily accessible. Such content may be inaccessible for a number of reasons, including the use of paywalls, copyright controls, or other barriers to accessibility placed upon the content by its original owners. Shadow libraries usually consist of textual information like in electronic books but may also include other digital media, including software, music, or films. Shadow libraries are almost ubiquitously examples of large-scale copyright infringement. 
+      Examples of shadow libraries include Library Genesis, Z-Library and Sci-Hub, which are popular academic shadow libraries. Scorser is a shadow library for musical scores.  
+      
+       
+       
+        Contents
+        
+        
+        1 Motivation 
+        2 Legal status 
+        3 See also 
+        4 References 
+        
+       
+      Motivation 
+      
+      
+       See also: Open access and Serials crisis
+       
+      One of the primary motivations behind the creation of shadow libraries is to more readily disseminate academic content, especially papers from academic journals. Academic literature has become increasingly expensive as costs to access information created by scholars have risen dramatically in recent years, especially the costs of books. The term serials crisis has emerged to describe this ongoing trend in the increased costs of academic literature. 
+      Conversely, the same motivation behind the serials crisis has also given rise to a concerted, international political movement to make academic knowledge free or very cheap, known as the Open Access movement. The Open Access movement strives to establish both journals that are free to access (known as open access journals) and free-to-access repositories of academic journal papers published elsewhere. However, many open access journals require academics to pay fees to be published in an open access journal, which disincentives academics from publishing in such journals. 
+      A tertiary motivator for the establishment of shadow libraries is the tacit endorsement by many academics of such efforts. Academics are rarely compensated by publishers for their work, regardless of whether their work is published in an open access journal or a conventionally priced journal. Thus, there is now little incentive for academics to disavow shadow libraries. Furthermore, shadow libraries actually greatly increase the impact of the academics whose work is available within shadow libraries: according to one study from Cornell University, articles that are on Sci-hub receive 1.72 times as many citations as articles from journals of similar quality that are not available on Sci-hub.  
+      Legal status 
+      Almost all of the content hosted by shadow libraries is hosted without the consent of the original owners of the material. This makes most shadow libraries illegal; however, as researchers are not required to disclose the means by which they access academic material, it is difficult to monitor for the use of illegally accessed academic papers. 
+      The legality of directing individuals to shadow libraries is broadly undetermined. There is currently no consensus amongst legal authorities in the United States and Europe as to what extent advertising shadow libraries constitutes a criminal offense. There are currently no settled cases determining whether it is permissible by academics to directly provide links to shadow libraries, though threats of legal action by academic publishers regarding such references have occurred in isolated incidents. Legal action against researchers remains uncommon. 
+      While most academics are not penalized for distributing their published works independently and freely (therefore obviating the need for shadow libraries in the first place), there are reports of academic publishers threatening such academics with legal action.  
+      See also 
+      
+       Guerilla Open Access 
+       Library Genesis 
+       Open access 
+       Sci-Hub 
+       Intellectual property infringement
+       
+      References 
+      
+       
+       
+         
+         ^ a b Karaganis, Joe, ed. (2018). Shadow Libraries: Access to Knowledge in Global Higher Education. The MIT Press. doi:10.7551/mitpress/11339.001.0001. ISBN&nbsp;978-0-262-34569-9.  
+         ^ 
+           "Shadow Bird Piano - download free sheet music and scores". en.scorser.com. Retrieved 2021-02-15.  
+         ^ 
+           "Trends in the Price of Academic Titles in the Humanities and Other Fields". American Academy of Arts &amp; Sciences. Retrieved 2021-02-15.  
+         ^ 
+           "Schattenbibliotheken: Piraterie oder Notwendigkeit?". iRights – Kreativität und Urheberrecht in der digitalen Welt (in German). Retrieved 2020-09-23.  
+         ^ 
+           Suber, Peter (2013-10-21). "Open access: six myths to put to rest". The Guardian. ISSN&nbsp;0261-3077. Retrieved 2021-02-15.  
+         ^ 
+           "Shadow Libraries – The Piracy Years". Retrieved 2021-02-15.  
+         ^ 
+           Correa, J. C.; Laverde-Rojas, H.; Marmolejo-Ramos, F.; Tejada, J.; Bahník, Š (2020-06-29). "The Sci-hub Effect: Sci-hub downloads lead to more article citations". arXiv:2006.14979 .  
+         ^ 
+           "Legal questions raised over links to Sci-Hub". www.insidehighered.com. Retrieved 2021-02-14.  
+         ^ 
+           "What happened when a professor was accused of sharing his own work on his website". Retrieved 2021-02-15.  
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Shadow_library&amp;oldid=1061931702"
+     
+     
+    
+     
+      Categories: 
+      
+       Shadow libraries
+       Intellectual property activism
+       Online databases
+       Open access (publishing)
+       Types of library
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 German-language sources (de)
+       Articles with short description
+       Short description is different from Wikidata
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Deutsch
+       Español
+       Français
+       Nederlands
+       Português
+       Русский
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 25 December 2021, at 00:18&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

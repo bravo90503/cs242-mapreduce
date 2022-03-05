@@ -1,0 +1,968 @@
+
+ 
+  
+   
+  Shared decision-making in medicine - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Shared decision-making in medicine 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+    
+     &nbsp;&nbsp;(Redirected from Shared decision-making)
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+      
+       For other uses, see SDM.
+       
+      
+      
+       
+        
+         Part of a series on
+        
+        
+         Medical sociology
+        
+        
+          Concepts
+        
+        
+          
+          
+           Medicalization 
+           Doctor-patient relationship 
+           Shared decision making 
+           Sick role 
+           Labelling theory 
+           Adherence
+           
+        
+        
+          Sociologists
+        
+        
+          
+          
+           Talcott Parsons 
+           Eliot Freidson
+           
+        
+        
+          Related topics
+        
+        
+          
+          
+           Sociology 
+           Social medicine 
+           Public health
+           
+        
+        
+           Category
+        
+        
+         
+          
+           
+            v
+            t
+            e
+           
+          
+        
+       
+       
+      Shared decision-making in medicine (SDM) is a process in which both the patient and physician contribute to the medical decision-making process and agree on treatment decisions. Health care providers explain treatments and alternatives to patients and help them choose the treatment option that best aligns with their preferences as well as their unique cultural and personal beliefs. 
+      In contrast to SDM, the traditional biomedical care system placed physicians in a position of authority with patients playing a passive role in care. Physicians instructed patients about what to do, and patients rarely took part in the treatment decision.  
+      
+       
+       
+        Contents
+        
+        
+        1 History 
+        2 Patient autonomy and informed consent 
+          
+          2.1 Factors that predict participation 
+           
+        3 Models of SDM 
+          
+          3.1 OPTION model 
+          3.2 The Three-Talk Model 
+          3.3 Interprofessional Model 
+          3.4 Ecological model 
+           
+        4 Decision aids 
+          
+          4.1 A Reasonableness Test for Life-Critical Shared Decision-Making 
+           
+        5 Implementation 
+          
+          5.1 Law and Policy 
+          5.2 Government and university training programs 
+            
+            5.2.1 Canada, Germany and the U.S. 
+            5.2.2 United Kingdom 
+             
+           
+        6 Measurement 
+          
+          6.1 Patient-Provider Communication 
+           
+        7 Expansion 
+        8 Patient empowerment 
+        9 Measuring SDM as an indicator of quality 
+        10 Benefits 
+        11 Problems 
+        12 SDM in primary care 
+          
+          12.1 Involving older patients 
+           
+        13 SDM in clinical practice guidelines (CPGs) and consensus statements (CSs) 
+        14 Conferences 
+        15 See also 
+        16 References 
+        17 External links 
+        
+       
+      History 
+      One of the first instances where the term shared decision-making was employed was in a report on ethics in medicine by Robert Veatch in 1972. It was used again in 1982 in the "President's Commission for the Study of Ethical Problems in Medicine and Biomedical and Behavioral Research." This work built on the increasing interest in patient-centredness and an increasing emphasis on recognising patient autonomy in health care interactions since the 1970s. Some would even claim that a general paradigm shift occurred in the 1980s in which patients became more involved in medical decision-making than before. For example, a 2007 review of 115 patient participation studies found that the majority of respondents preferred to participate in medical decision-making in only 50% of studies prior to 2000, while 71% of studies after 2000 found a majority of respondents who wanted to participate. 
+      Another early and important driver for shared decision-making came from Jack Wennberg. Frustrated by variations in health care activity that could not be explained by population need or patient preference he described the concept of unwarranted variation, which he attributed to varying physician practice styles. A key means of reducing this unwarranted variation was to recognise "the importance of sound estimates of outcome probabilities and on values that corresponded closely to patient preferences". Shared decision-making would allow patient preferences and values to determine the right rate of healthcare use. The Dartmouth Institute for Health Policy and Clinical Practice consequently made shared decision-making a key element of their program of work. 
+      Charles et al. described a set of characteristics of shared decision-making, stating "that at least two participants, the clinician and patient be involved; that both parties share information; that both parties take steps to build a consensus about the preferred treatment; and that an agreement is reached on the treatment to implement". This final element is not fully accepted by everyone in the field. The view that it is acceptable to agree to disagree is also regarded as an acceptable outcome of shared decision-making.  
+      Patient autonomy and informed consent 
+      
+       
+         
+        
+         
+          
+         In shared decision-making, patients work with physicians to decide on the best treatment option.
+        
+       
+       
+      SDM relies on the basic premise of both patient autonomy and informed consent. The model recognizes that patients have personal values that influence the interpretation of risks and benefits differently from the way a physician interprets them. Informed consent is at the core of shared decision-making, i.e. without fully understanding the advantages and disadvantages of all treatment options, patients cannot engage in making decisions. But there is frequently more than one option, with no clear choice of which option is best, especially when the decision at hand is about a preference-sensitive condition. Shared decision-making differs from informed consent in that patients base their decisions on their values and beliefs, as well as on being fully informed. Thus in certain situations the physician's point of view may differ from the decision that aligns most with the patient's values, judgments, opinions, or expectations about outcomes.  
+      Factors that predict participation 
+      Patient participation is field related to shared decision-making but which focuses more specifically on the patient's role in the patient-physician relationship. There are certain patient characteristics that influence the extent of their participation. One study showed that female patients who are younger and more educated and have less severe illnesses than other patients are more likely to participate in medical decisions. That is, more education appears to increase participation levels and old age to reduce it. Another study found that age was not inversely related to participation levels but that patients who are not as fluent with numbers and statistics tended to let their physicians make medical decisions. Culture also makes a difference. In general, for example, Americans play a more active role in the physician-patient relationship, such as by asking follow-up questions and researching treatment options, than do Germans. In one study, Black patients reported that they participate less in shared decision-making than white patients, yet another study showed that Black patients desire to participate just as much as their white counterparts and are more likely to report initiating conversation about their health care with their physicians. 
+      Individuals who place a higher value on their health are more likely to play a passive role when it comes to medical decision-making than those who placed a lower value on health. Researchers Arora and McHorney posit that finding may be the result of their apprehension when it comes to health-related concerns among those who place a high value on health, leading to a tendency to let an expert, rather than themselves, make important medical decisions. 
+      There is mounting evidence that giving patients real-time, unfettered access to their own medical records increases their understanding of their health and improves their ability to take care of themselves. Study results indicate that full record access enables patients to become more actively involved in the quality of their care, such as following up on abnormal test results and determining when to seek care. Providing patients with ready access to their doctors' visit notes has proven to have a positive impact on the doctor-patient relationship, enhancing patient trust, safety and engagement. Patients with access to notes also show greater interest in taking a more active role in the generation of their medical records. The adoption of open notes has recently been recommended by the Institute of Medicine, as a means of improving diagnostic accuracy via patient engagement. 
+      Other studies have shown that the strongest predictors of patient participation are not characteristics of the patients themselves but are specific to the situation, such as the clinical setting and the physician's style of communicating. Frequent use of partnership-building and supportive communication by physicians has led to facilitating greater patient engagement. In the context of mammography screening, physicians' message delivery styles such as how they articulated relative versus absolute risk numbers had also influenced patients' perceptions towards shared decision making. 
+      Generally, physicians engage in more patient-centered communication when they are speaking with high-participation patients rather than with low-participation patients. Also, when a patient consults with a physician of the same race, the patient perceives that physician as involving them more than a physician of a different race.  
+      Models of SDM 
+      OPTION model 
+      Elwyn et al. described a set of competences for shared decision-making, consisting of the following steps a) defining the problem which requires a decision, b) the portrayal of equipoise (meaning that clinically speaking there is little to choose between the treatments) and the uncertainty about the best course of action, leading to c) providing information about the attributes of available options and d) supporting a deliberation process. Based on these steps, an assessment scale to measure the extent to which clinicians involve patients in decision-making has been developed (the OPTION scale) and translated into Dutch, Chinese, French, German, Spanish and Italian.  
+      The Three-Talk Model 
+      Another model proposes three different "talk" phases: team talk, option talk and decision talk. First, clinicians' work to create a supportive relationship with the patient as they introduce the idea of recognizing the existence of alternative actions (options) - this is to form a team with the patient and their family. Second, the clinician introduces the options in a clear way, describing and explaining the probabilities of benefits and harms that might be likely—this is option talk. In the last phase, patients' preferences are constructed, elicited and integrated—this is decision talk. A shorter 5-item version of the OPTION scale has been published based on this model.  
+      Interprofessional Model 
+      More and more care is delivered not by individuals but by interprofessional healthcare teams that include nurses, social workers, and other care providers. In these settings, patients' health care decisions are shared with several professionals, whether concurrently or consecutively. The Interprofessional Shared Decision Making (IP-SDM) model is a three-level, two-axis framework that takes this complexity into account. Its three levels are contextual influences at the individual level, influences at the systemic or organizational level, and influences at the broader policy or social level. The axes are the SDM process (vertical) and the different people involved (horizontal). While interacting with one or more health professionals and family members, the patient moves through a structured process including explanation of the decision to be made; information exchange; eliciting values and preferences; discussing the feasibility of the options; the preferred choice versus the decision made; planning and implementing the decisions; and outcomes. Since this model was validated in 2011, it has been adopted in rehabilitation, dementia care, mental health, neonatal intensive care, hospital chaplaincy and educational research, among other fields.  
+      Ecological model 
+      Measures of patient participation can also be used to measure aspects of shared decision-making. The ecological model of patient participation, based on research by Street, includes four main components of patient participation. The first is information seeking, measured as the number of health-related questions the patient asks along with the number of times the patient asks the physician to verify information (e.g. asking a physician to repeat information or summarizing what the physician said to ensure the information was understood). The second component is assertive utterances. e.g. making recommendations to physicians, expressing an opinion or preference, or expressing disagreement. The third component is providing information about symptoms, medical history and psychosocial factors, with or without prompting from the physician. The final component of patient participation is expressions of concern, including affective responses such as anxiety, worry, or negative feelings. The extent of participation can be determined based on how often a patient displays these four overarching behaviors.  
+      Decision aids 
+      Shared decision-making increasingly relies on the use of decision aids in assisting the patients to choose the best treatment option. Patient decision aids, which may be leaflets, video or audio tapes, or interactive media, supplement the patient-physician relationship and assist patients in making medical decisions that most closely align with their values and preferences. Interactive software or internet websites have also been designed to facilitate shared decision-making. Research has shown that the use of decision aids may increase patients' trust in physicians, thereby facilitating the shared decision-making process. Many research and implementation studies on decision aids (up to 2010) are contained in the book Shared Decision Making in Healthcare: Evidence-based Patient Choice, 2nd ed. 
+      The International Patient Decision Aid Standards (IPDAS) Collaboration, a group of researchers led by professors Annette O'Connor in Canada and Glyn Elwyn in the United Kingdom, has published a set of standards, representing the efforts of more than 100 participants from 14 countries around the world to will help determine the quality of patient decision aids. The IPDAS standards assist patients and health practitioners to assess the content, development process, and effectiveness of decision aids. According to IPDAS, certified decision aids should, for example, provide information about options, present probabilities of outcomes, and include methods for clarifying patients' values. 
+      A major venue for dealing with the decision making part of shared decision-making (SDM) is the use of multiple-criteria decision analysis (MCDA) methods. The first report of ISPOR's (International Society for Pharmacoeconomics and Outcomes Research) MCDA Emerging Good Practices Task Force identifies SDM as supported by MCDA. The second ISPOR report by the same group states the following regarding the state of the art of MCDA use in health care: "The use of MCDA in health care is in its infancy, and so any good practice guidelines can only be considered "emerging" at this point... Although it is possible to identify good practices that should inform the use of MCDA in health care, inevitably this endeavor would benefit from further research." 
+      Unfortunately, most of the MCDA models used today in health care were developed for non-medical applications. This has led to many instances of misuse of MCDA models in health care and in shared decision-making in particular. 
+      A prime example is the case of decision aids for life-critical SDM. The use of additive MCDA models for life-critical shared decision—making is misleading because additive models are compensatory in nature. That is, good performance on one attribute can compensate for the poor performance on another attribute. Additive models may lead to counter-intuitive scenarios where a treatment that is associated with high quality of life but a very short life expectancy, may turn out to be recommended as a better choice than a treatment which is associated with moderately less quality of life but much longer life expectancy. 
+      While there are numerous approaches for involving patients in using decision aids, involving them in the design and development of these tools, from the needs assessment, to reviewing the content development, through the prototyping, piloting, and usability testing, will overall benefit the process.  
+      A Reasonableness Test for Life-Critical Shared Decision-Making 
+      Morton has proposed a generic reasonableness test for decision tools:  
+      "A sure sign that a decision rule is faulty is when one applies it to a situation in which the answer is obvious and it produces the wrong result."  
+ 
+      The above considerations have motivated Kujawski, Triantaphyllou and Yanase to introduce their "reasonableness test" for the case of life-critical SDM. Their reasonableness test asks the following key question: 
+      "Can a treatment that results in premature death trump a treatment that causes acceptable adverse effects?"  
+      Decision aids that answer this test with a "Yes" should not be considered for life-critical SDM because they may lead to unintended outcomes. Note that a "No" answer is a necessary, but not sufficient, condition for consideration. MCDA models also need to realistically reflect individual preferences. 
+      The previous authors also presented a model for life-critical SDM which is based on multi-attribute utility theory (MAUT) and the QALYs (quality-adjusted life years) concept. Their model passes the reasonableness test. The model selects the treatment that is associated with the maximum quality-adjusted life expectancy (QALE) defined as the product of life expectancy under a treatment multiplied by the average health utility value. 
+      The average health utility value is the sum of the products of the probabilities of having adverse effects under the particular treatment times the health utility value under the corresponding adverse effect(s). 
+      The subject of designing the appropriate decision aids for SDM is a crucial one in SDM and thus it requires more work by the scientific and practitioners' communities in order to become mature and thus enable SDM to reach its full potential.  
+      Implementation 
+      With funding bodies emphasizing knowledge translation, i.e. making sure that scientific research results in changes in practice, researchers in shared decision-making have focussed on implementing SDM, or making it happen. Based on studies of barriers to shared decision-making as perceived by health professionals  and patients, many researchers are developing sound, theory-based training programs and decision aids, and evaluating their results. Canada has established a research chair that focusses on practical methods for promoting and implementing shared decision-making across the healthcare continuum. 
+      xShared decision-making in medicine (SDM) is a process in which both the patient and physician contribute to the medical decision-making process and agree on treatment decisions. Health care providers explain treatments and alternatives to patients and help them choose the treatment option that best aligns with their preferences as well as their unique cultural and personal beliefs. 
+      Much of the literature seems to assume that achieving shared decision-making is a matter of giving healthcare professionals enough information. Some attempts are being made to empower and educate patients to expect it.  
+      Law and Policy 
+      In recognition of a growing consensus that there is an ethical imperative for health care professionals to share important decisions with patients, several countries in Europe, North America and Australia &nbsp;have formally recognized shared decision-making in their health policies and regulatory frameworks. Some countries in South America and south-east Asia have also introduced related policies. The rationale for these new policies ranges from respect for consumer or patient rights to more utilitarian arguments such as that shared decision-making could help control health care costs. However, in general the gap between political aspirations and practical reality is still yawning.  
+      Government and university training programs 
+      Canada, Germany and the U.S. 
+      Training health professionals in shared decision-making attracts the attention of policy makers when it shows potential for addressing chronic problems in healthcare systems such as the overuse of drugs or screening tests. One such program, designed for primary care physicians in Quebec, Canada, showed that shared decision-making can reduce use of antibiotics for acute respiratory problems (ear aches, sinusitis, bronchitis, etc.) which are often caused by viruses and do not respond to antibiotics. 
+      While some medical schools (e.g. in Germany, the Netherlands, UK and Canada) already include such training programs in their residency programs, there is increasing demand for shared decision-making training programs by medical schools and providers of continuing professional education (such as medical licensing bodies). An ongoing inventory of existing programs  shows that they vary widely in what they deliver and are rarely evaluated. These observations led to an international effort to list and prioritize the skills necessary for practising shared decision-making. Discussion about what core competencies should be taught and how they should be measured returned to basic questions: what exactly is shared decision-making, do decisions always have to be shared, and how can it be accurately evaluated? 
+      Harvey Fineberg, Head of the US Institute of Medicine, has suggested that shared decision-making should be shaped by the particular needs and preferences of the patient, which may be to call on a physician to assume full responsibility for decisions or, at the other extreme, to be supported and guided by the physician to make completely autonomous decisions. This suggests that, just as with interventions, which need to match the patient's style and preferences, patient's preferences for degree of involvement also need to be taken into account and respected.  
+      United Kingdom 
+      The aim of the NHS RightCare Shared Decision-Making Programme in England is to embed shared decision-making in NHS care. This is part of the wider ambition to promote patient centred care, to increase patient choice, autonomy and involvement in clinical decision-making and make "no decision about me, without me" a reality. The Shared Decision-Making programme is part of the Quality Improvement Productivity and Prevention (QIPP) Right Care programme. In 2012, the programme entered an exciting new phase and, through three workstreams, is aiming to embed the practice of shared decision-making among patients and those who support them, and among health professionals and their educators. One of the components of the National Programme is the work of the Advancing Quality Alliance (AQuA) -  who are tasked with creating a receptive culture for shared decision-making with patients and health professionals.  
+      Measurement 
+      Several researchers in this field have designed scales for measuring to what extent shared decision-making takes place in the clinical encounter and its effects, from the perspective of patients or healthcare professionals or both, or from the perspective of outside observers. The purpose of these scales is to explore what happens in shared decision-making and how much it happens, with the goal of applying this knowledge to incite healthcare professionals to practise it. Based on these scales, simple tools are being designed to help physicians better understand their patients' decision needs. One such tool that has been validated, SURE, is a quick questionnaire for finding out in busy clinics which patients are not comfortable about the treatment decision (decisional conflict). SURE is based on O'Connor's Decisional Conflict Scale  which is commonly used to evaluate patient decision aids. The four yes-or-no questions are about being Sure, Understanding the information, the Risk-benefit ratio, and sources of advice and Encouragement. 
+      Another related measure scores patient-doctor encounters using three components of patient-centered communication: the physician's ability to conceptualize illness and disease in relation to a patient's life; to explore the full context of the patient's life setting (e.g. work, social supports, family) and personal development; and to reach common ground with patients about treatment goals and management strategies.  
+      Patient-Provider Communication 
+      In a systematic review of patient-provider communication published in 2018, "Humanistic communication in the evaluation of shared decision making", the authors reported, "Five other studies reported scores on humanistic aspects of conversation, and scores of SDM, without reporting associations. Almario et al. found rather high patient-reported scores of physicians' interpersonal skills (DISQ, ~89 of 100) and SDM (SDM-Q-9, ~79-100) with no significant differences between trial arms. Slatore et al. showed that lower patient reported quality of communication was associated with higher odds of patient distress but not with patients' perceived involvement in decision making. Tai-Seale et al. used one item on physician respect (CAHPS) and found similarly positive evaluations reported by 91-99% of participants in each of the four study arms. Observed SDM scores were between 67 and 75% (CollaboRATE, top scores reported). Jouni et al. assessed both patient self-report experiences with health care (CAHPS, 6 items) and self-reported and observed SDM. They documented high observed and self-reported SDM scores (OPTIONS, ~71 of 100 and SDM-Q, ~10.5 of 11) and high rates of positive responses to CAHPS questions (&gt;97% of patients responded positively). Harter et al. also used both patient self-report measures and third-party observer measures. They reported an empathy score of ~44 of 50 (CARE ) in both control and intervention arms, and SDM scores of ~73 of 100 in both arms (SDM-Q-9), and ~21 vs ~27 of 100 for control and intervention arm (OPTION12).  
+      Expansion 
+      Researchers in shared decision-making are increasingly taking account of the fact that involvement in making healthcare decisions is not always limited to one patient and one healthcare professional in a clinical setting. Often more than one healthcare professional is involved in a decision, such as professional teams involved in caring for an elderly person who may have several health problems at once. Some researchers, for example, are focussing on how interprofessional teams might practise shared decision-making among themselves and with their patients. Researchers are also expanding the definition of shared decision-making to include an ill person's spouse, family caregivers or friends, especially if they are responsible for giving the person medicine, transporting them or paying the bills. Decisions that ignore them may not be based on realistic options or may not be followed through. Shared decision-making is also now being applied in areas of healthcare that have wider social implications, such as decisions faced by the frail elderly and their caregivers about staying at home or moving into care facilities.  
+      Patient empowerment 
+      Patient empowerment enables patients to take an active role in the decisions made about their own healthcare. Patient empowerment requires patients to take responsibility for aspects of care such as respectful communications with their doctors and other providers, patient safety, evidence gathering, smart consumerism, shared decision-making, and more. 
+      The EMPAThiE study defined an empowered patient as a patient who "... has control over the management of their condition in daily life. They take action to improve the quality of their life and have the necessary knowledge, skills, attitudes and self-awareness to adjust their behavior and to work in partnership with others where necessary, to achieve optimal well-being." 
+      Various countries have passed laws and run multiple campaigns to raise awareness of these matters. For example, a law enacted in France on 2 March 2002 aimed for a "health democracy" in which patients' rights and responsibilities were revisited, and it gave patients an opportunity to take control of their health. Similar laws have been passed in countries such as Croatia, Hungary, and the Catalonia. The same year, Britain passed a penalty charge to remind patients of their responsibility in healthcare. 
+      In 2009, British and Australian campaigns were launched to highlight the costs of unhealthy lifestyles and the need for a culture of responsibility. The European Union took this issue seriously and since 2005, has regularly reviewed the question of patients' rights by various policies with the cooperation of the World Health Organization. Various medical associations have also followed the path of patients' empowerment by bills of rights or declarations.  
+      Measuring SDM as an indicator of quality 
+      In recent years, patient-centred care and shared decision making (SDM)&lt;refElwyn G, Frosch DL, Kobrin S (August 2016). "Implementing shared decision-making: consider all the consequences". Implementation Science&nbsp;: IS. 11: 114. doi:10.1186/s13012-016-0480-9. PMC&nbsp;4977650. PMID&nbsp;27502770.&lt;/ref&gt; have become considered more important.&lt;ref
+       Maes-Carballo M, Martín-Díaz M, Mignini L, Khan KS, Trigueros R, Bueno-Cavanillas A (February 2021). "Evaluation of the Use of Shared Decision Making in Breast Cancer: International Survey". International Journal of Environmental Research and Public Health. 18 (4). doi:10.3390/ijerph18042128. PMC&nbsp;7926688. PMID&nbsp;33671649.&lt;/ref&gt; It has been suggested that there should be more quality indicators (QIs) focused on the evaluation of SDM. However, a recent Spanish study about quality indicators showed that there is no consensus concerning breast cancer care quality indicators and standards of care even in the same country. A wider systematic review about worldwide QIs in breast cancer have demonstrated that more than half of countries have not established a national clinical pathway or integrated breast cancer care process to achieve the excellence of BC care. There was heterogeneity in QIs for the evaluation of BC care quality. Quality indicators that focus on primary care, patient satisfaction, and SDM are scarce.  
+      Benefits 
+      A recent study found that individuals who participate in shared decision-making are more likely to feel secure and may feel a stronger sense of commitment to recover. Also, research has shown that SDM leads to higher judgments of the quality of care. Furthermore, SDM leads to greater self-efficacy in patients, which in turn, leads to better health outcomes. When a patient participates more in the decision-making process, the frequency of self-management behaviors increases, as well. Self-management behaviors fall into three broad categories: health behaviors (like exercise); consumeristic behaviors (like reading the risks about a new treatment); and disease-specific management strategies. In a similar vein, a recent study found that among patients with diabetes, the more an individual remembers information given by a physician, the more the patient participated in self-care behaviors at home. 
+      Providing patients with personal coronary risk information may assist patients in improving cholesterol levels. Such findings are most likely attributed to an improvement in self-management techniques in response to the personalized feedback from physicians. Additionally, the findings of another study indicate that the use of a cardiovascular risk calculator led to increased patient participation and satisfaction with the treatment decision process and outcome and reduced decisional regret.  
+      Problems 
+      Some patients do not find the SDM model to be the best approach to care. A qualitative study found that barriers to SDM may include a patient's desire to avoid participation from lack of perceived control over the situation, a medical professional's inability to make an emotional connection with the patient, an interaction with an overconfident and overly-assertive medical professional, and general structural deficits in care that may undermine opportunities for a patient to exert control over the situation. Furthermore, dispositional factors may play an important role in the extent to which a patient feels comfortable with a participating in medical decisions. Individuals who exhibit high trait anxiety, for example, prefer not to participate in medical decision-making. 
+      For those who do participate in decision-making, there are potential disadvantages. As patients take part in the decision process, physicians may communicate uncertain or unknown evidence about the risks and benefits of a decision. The communication of scientific uncertainty may lead to decision dissatisfaction. Critics of the SDM model assert that physicians who choose not to question and challenge the assumptions of patients do a medical disservice to patients, who are overall less knowledgeable and skilled than the physician. Physicians who encourage patient participation can help the patient make a decision that is aligned with the patients' values and preferences. 
+      For those who are designing a medical guideline, care should be taken not to simply refer casually to the advisability of SDM. 
+      A recent study stated that the main obstacle to use SDM in clinical practice indicated for practitioners was the lack of time and resources. It is poorly reflected in clinical practice guidelines and consensus and barriers to its implementation persist. It has been already demonstrated that new policies must be designed for adequate training of professionals in integrating SDM in clinical practice, preparing them to use SDM with adequate resources and time provided.  
+      SDM in primary care 
+      Involving older patients 
+      There is currently limited evidence to form a robust conclusion that involving older patients with multiple health conditions in decision-making during primary care consultations has benefits. Examples of patient involvement in decision-making about their health care include patient workshops and coaching, individual patient coaching. Further research in this developing area is needed.  
+      SDM in clinical practice guidelines (CPGs) and consensus statements (CSs) 
+      The study of SDM quality and reporting in CPGs and CSs have been inadequately addressed. There is a tool for evaluating quality and reporting of SDM in guidance documents based on AGREE II statement  and RIGHT instrument. A recent study revealed that SDM description, clarification and recommendations in CPGs and CSs concerning Breast cancer treatment were poor, leaving a large scope for improvement in this area. Although SDM was more frequently reported in CPGs and CSs in recent years, surprising, SDM was less often covered in medical journals. SDM should be suitably described and promoted in the future, and specific tools should be implemented to appraise its dealing and promotion in specific cancer CPGs and CSs. Medical journals should play a decisive role in supporting SDM in CPGs and CSs they publish in the future.  
+      Conferences 
+      Many researchers and practitioners in this field meet every two years at the International Shared Decision Making (ISDM) Conference, which have been held at Oxford in 2001, Swansea in 2003, Ottawa in 2005, Freiburg in 2007, Boston in 2009, Maastricht in 2011, Lima in 2013, Sydney, (Aus) in 2015, and Lyon in 2017. It will be held in Quebec City in 2019. 
+      On December 12–17, 2010 the Salzburg Global Seminar began a series with a session focused on "The Greatest Untapped Resource in Healthcare? Informing and Involving Patients in Decisions about Their Medical Care." Powerful conclusions emerged among the 58 participants from 18 countries: not only is it ethically right that patients should be involved more closely in decisions about their own medical care and the risks involved, it is practical – through careful presentation of information and the use of decision aids/pathways – and it brings down costs. Unwarranted practice variations are reduced, sometimes dramatically. 
+      The Agency for Healthcare Research and Quality (AHRQ) Eisenberg Conference Series brings together "xperts in health communication, health literacy, shared decision-making, and related fields come together to ... offer insight into how state-of-the-art advances in medical science can be transformed into state-of-the-art clinical decision making and improved health communication."  
+      See also 
+      
+       
+       
+        Biopsychosocial model 
+        Choosing Wisely 
+        Choosing Wisely Canada 
+        Concordance (medicine) 
+        Co-production (public services) 
+        Disease management 
+        E-patient 
+        Health 2.0 
+        Patient Activation Measure 
+        Participative decision-making 
+        Participatory development 
+        Person-centered therapy 
+        Patient participation 
+        Public participation 
+        Whole Health Action Management
+        
+       
+      References 
+      
+       
+       
+         
+         ^ 
+           Butler AM, Elkins S, Kowalkowski M, Raphael JL (February 2015). "Shared decision making among parents of children with mental health conditions compared to children with chronic physical conditions". Maternal and Child Health Journal. 19 (2): 410–418. doi:10.1007/s10995-014-1523-y. PMID&nbsp;24880252. S2CID&nbsp;7550981.  
+         ^ 
+           Légaré F, Witteman HO (February 2013). "Shared decision making: examining key elements and barriers to adoption into routine clinical practice". Health Affairs. 32 (2): 276–284. doi:10.1377/hlthaff.2012.1078. PMID&nbsp;23381520.  
+         ^ 
+           Florin J, Ehrenberg A, Ehnfors M (November 2008). "Clinical decision-making: predictors of patient participation in nursing care". Journal of Clinical Nursing. 17 (21): 2935–2944. doi:10.1111/j.1365-2702.2008.02328.x. PMID&nbsp;19034992.  
+         ^ 
+           Lyttle DJ, Ryan A (December 2010). "Factors influencing older patients' participation in care: a review of the literature". International Journal of Older People Nursing. 5 (4): 274–82. doi:10.1111/j.1748-3743.2010.00245.x. PMID&nbsp;21083806.  
+         ^ 
+           Buchanan A (Summer 1978). "Medical paternalism". Philosophy &amp; Public Affairs. 7 (4): 370–90. JSTOR&nbsp;2264963. PMID&nbsp;11664929.  
+         ^ 
+           Veatch RM (June 1972). "Models for ethical medicine in a revolutionary age. What physician-patient roles foster the most ethical realtionship?". The Hastings Center Report. 2 (3): 5–7. doi:10.2307/3560825. JSTOR&nbsp;3560825. PMID&nbsp;4679693.  
+         ^ 
+           Brock DW (March 1991). "The ideal of shared decision making between physicians and patients". Kennedy Institute of Ethics Journal. 1 (1): 28–47. doi:10.1353/ken.0.0084. PMID&nbsp;10113819. S2CID&nbsp;43205224.  
+         ^ Schermer, M. 2011. The different faces of autonomy: Patient autonomy in ethical theory and hospital practice. Dordrecht: Springer, 31.  
+         ^ President's Commission for the Study of Ethical Problems in Medicine and Biomedical and Behavioral Research, 1982. Making Health Care Decisions. The Ethical and Legal Implications of Informed Consent in the Patient-Practitioner Relationship. Washington, 1982. Page 33.  
+         ^ 
+           Engel GL (May 1980). "The clinical application of the biopsychosocial model". The American Journal of Psychiatry. 137 (5): 535–44. doi:10.1176/ajp.137.5.535. PMID&nbsp;7369396. (subscription required)  
+         ^ 
+           Levenstein JH (September 1984). "The patient-centred general practice consultation". South African Family Practice. 5 (9): 276–82.   
+         ^ Barry MJ, Edgman-Levitan S. Shared decision making—the pinnacle of patient-centered care. New England Journal of Medicine. 2012 Mar 1;366(9):780-1.  
+         ^ 
+           Epstein RM, Campbell TL, Cohen-Cole SA, McWhinney IR, Smilkstein G (October 1993). "Perspectives on patient-doctor communication". The Journal of Family Practice. 37 (4): 377–88. PMID&nbsp;8409892.  
+         ^ Higgs, J., Patton, N., Hummell, J., Tasker, D., Croker, A., &amp; SpringerLink (Online service). (2014). Health Practice Relationships. (Springer eBooks.) Rotterdam: SensePublishers.p.38-41  
+         ^ 
+           Chewning B, Bylund CL, Shah B, Arora NK, Gueguen JA, Makoul G (January 2012). "Patient preferences for shared decisions: a systematic review". Patient Education and Counseling. 86 (1): 9–18. doi:10.1016/j.pec.2011.02.004. PMC&nbsp;4530615. PMID&nbsp;21474265.  
+         ^ 
+           Eddy DM (1984-01-01). "Variations in physician practice: the role of uncertainty". Health Affairs. 3 (2): 74–89. doi:10.1377/hlthaff.3.2.74. PMID&nbsp;6469198.  
+         ^ 
+           Wennberg JE (1984-01-01). "Dealing with medical practice variations: a proposal for action". Health Affairs. 3 (2): 6–32. doi:10.1377/hlthaff.3.2.6. PMID&nbsp;6432667.  
+         ^ 
+           Lurie JD, Weinstein JN (April 2001). "Shared decision-making and the orthopaedic workforce". Clinical Orthopaedics and Related Research. 385 (385): 68–75. doi:10.1097/00003086-200104000-00012. PMID&nbsp;11302328.  
+         ^ 
+           "Center for Shared Decision Making | Health Care Professionals". Dartmouth-Hitchcock. Retrieved 2019-01-14.  
+         ^ 
+           Charles C, Gafni A, Whelan T (March 1997). "Shared decision-making in the medical encounter: what does it mean? (or it takes at least two to tango)". Social Science &amp; Medicine. 44 (5): 681–92. CiteSeerX&nbsp;10.1.1.452.9107. doi:10.1016/S0277-9536(96)00221-3. PMID&nbsp;9032835.  
+         ^ 
+           Makoul G, Clayman ML (March 2006). "An integrative model of shared decision making in medical encounters". Patient Education and Counseling. 60 (3): 301–12. doi:10.1016/j.pec.2005.06.010. PMID&nbsp;16051459.  
+         ^ 
+           Elwyn G, Edwards A, Kinnersley P (June 1999). "Shared decision-making in primary care: the neglected second half of the consultation". The British Journal of General Practice. 49 (443): 477–82. PMC&nbsp;1313449. PMID&nbsp;10562751.  
+         ^ 
+           Walker P, Lovat T (December 2016). "Dialogic Consensus In Clinical Decision-Making". Journal of Bioethical Inquiry. 13 (4): 571–580. doi:10.1007/s11673-016-9743-z. PMID&nbsp;27535798. S2CID&nbsp;1130334.  
+         ^ 
+           Whitney SN, McGuire AL, McCullough LB (January 2004). "A typology of shared decision making, informed consent, and simple consent". Annals of Internal Medicine. 140 (1): 54–9. CiteSeerX&nbsp;10.1.1.694.1979. doi:10.7326/0003-4819-140-1-200401060-00012. PMID&nbsp;14706973. S2CID&nbsp;41673642.  
+         ^ 
+           Moulton H, Moulton B, Lahey T, Elwyn G (May 2020). "Can Consent to Participate in Clinical Research Involve Shared Decision Making?". AMA Journal of Ethics. 22 (5): E365-371. doi:10.1001/amajethics.2020.365. PMID&nbsp;32449651.  
+         ^ 
+           Mulley AG, Eagle KA (1988). "What is inappropriate care?". JAMA. 260 (4): 540–1. doi:10.1001/jama.1988.03410040112039. PMID&nbsp;3290528.  
+         ^ 
+           Hess EP, Hollander JE, Schaffer JT, Kline JA, Torres CA, Diercks DB, et&nbsp;al. (December 2016). "Shared decision making in patients with low risk chest pain: prospective randomized pragmatic trial". BMJ. 355: i6165. doi:10.1136/bmj.i6165. PMC&nbsp;5152707. PMID&nbsp;27919865.  
+         ^ a b c d 
+           Arora NK, McHorney CA (March 2000). "Patient preferences for medical decision making: who really wants to participate?". Medical Care. 38 (3): 335–41. doi:10.1097/00005650-200003000-00010. PMID&nbsp;10718358.  
+         ^ a b 
+           Galesic M, Garcia-Retamero R (May 2011). "Do low-numeracy people avoid shared decision making?". Health Psychology. 30 (3): 336–41. CiteSeerX&nbsp;10.1.1.687.8519. doi:10.1037/a0022723. PMID&nbsp;21553977.  
+         ^ a b 
+           Cooper-Patrick L, Gallo JJ, Gonzales JJ, Vu HT, Powe NR, Nelson C, Ford DE (August 1999). "Race, gender, and partnership in the patient-physician relationship". JAMA. 282 (6): 583–9. doi:10.1001/jama.282.6.583. PMID&nbsp;10450723.  
+         ^ 
+           Peek ME, Tang H, Cargill A, Chin MH (2011). "Are there racial differences in patients' shared decision-making preferences and behaviors among patients with diabetes?". Medical Decision Making. 31 (3): 422–31. doi:10.1177/0272989X10384739. PMC&nbsp;3482118. PMID&nbsp;21127318.  
+         ^ a b 
+           "Engaging Patients Through OpenNotes: An Evaluation Using Mixed Methods". Commonwealth Fund. 16 February 2016. Retrieved 17 February 2016.  
+         ^ 
+           Woods SS, Schwartz E, Tuepker A, Press NA, Nazi KM, Turvey CL, Nichol WP (March 2013). "Patient experiences with full electronic access to health records and clinical notes through the My HealtheVet Personal Health Record Pilot: qualitative study". Journal of Medical Internet Research. 15 (3): e65. doi:10.2196/jmir.2356. PMC&nbsp;3636169. PMID&nbsp;23535584.  
+         ^ 
+           Bell SK, Mejilla R, Anselmo M, Darer JD, Elmore JG, Leveille S, et&nbsp;al. (April 2017). "When doctors share visit notes with patients: a study of patient and doctor perceptions of documentation errors, safety opportunities and the patient-doctor relationship". BMJ Quality &amp; Safety. 26 (4): 262–270. doi:10.1136/bmjqs-2015-004697. PMC&nbsp;7255406. PMID&nbsp;27193032.  
+         ^ 
+           Delbanco T, Walker J, Bell SK, Darer JD, Elmore JG, Farag N, et&nbsp;al. (October 2012). "Inviting patients to read their doctors' notes: a quasi-experimental study and a look ahead". Annals of Internal Medicine. 157 (7): 461–70. doi:10.7326/0003-4819-157-7-201210020-00002. PMC&nbsp;3908866. PMID&nbsp;23027317.  
+         ^ 
+           Institute of Medicine (2015). Balogh EP, Miller BT, Ball JR (eds.). Improving Diagnosis in Health Care. Washington, D.C: The National Academies Press. doi:10.17226/21794. ISBN&nbsp;978-0-309-37769-0. PMID&nbsp;26803862.  
+         ^ a b 
+           Street RL (2003). "Communication in medical encounters: An ecological perspective". In Thompson TL, Dorsey A, Parrott R, Miller K (eds.). The Routledge Handbook of Health Communication. Routledge Communication Series. Routledge. pp.&nbsp;63–89. ISBN&nbsp;978-1-135-64766-7 – via Google Books.  
+         ^ a b c 
+           Cegala DJ (July 2011). "An exploration of factors promoting patient participation in primary care medical interviews". Health Communication. 26 (5): 427–36. doi:10.1080/10410236.2011.552482. PMID&nbsp;21416422. S2CID&nbsp;23342355.  
+         ^ 
+           Street RL, Gordon HS, Ward MM, Krupat E, Kravitz RL (October 2005). "Patient participation in medical consultations: why some patients are more involved than others". Medical Care. 43 (10): 960–9. doi:10.1097/01.mlr.0000178172.40344.70. PMID&nbsp;16166865. S2CID&nbsp;28640847.  
+         ^ 
+           Yang EF, Shah DV, Burnside, ES, Little, TA, Garino, N, Campbell, CE (October 2020). "Framing the clinical encounter: Shared decision-making, mammography screening, and decision satisfaction". Journal of Health Communication. 25 (9): 681–691. doi:10.1080/10810730.2020.1838003. PMC&nbsp;7772277. PMID&nbsp;33111640.  
+         ^ 
+           Elwyn G, Edwards A, Kinnersley P, Grol R (November 2000). "Shared decision making and the concept of equipoise: the competences of involving patients in healthcare choices". The British Journal of General Practice. 50 (460): 892–9. PMC&nbsp;1313854. PMID&nbsp;11141876.  
+         ^ 
+           Elwyn G, Hutchings H, Edwards A, Rapport F, Wensing M, Cheung WY, Grol R (March 2005). "The OPTION scale: measuring the extent that clinicians involve patients in decision-making tasks". Health Expectations. 8 (1): 34–42. doi:10.1111/j.1369-7625.2004.00311.x. PMC&nbsp;5060272. PMID&nbsp;15713169.  
+         ^ 
+           "OPTION Instrument Sheet Translations". OPTION: Observing patient involvement in shared decision making. Decision Laboratory, Department of Primary Care &amp; Public Health, Cardiff University. Archived from the original on 9 October 2011.  
+         ^ 
+           Elwyn G, Tsulukidze M, Edwards A, Légaré F, Newcombe R (November 2013). "Using a 'talk' model of shared decision making to propose an observation-based measure: Observer OPTION 5 Item". Patient Education and Counseling. 93 (2): 265–71. doi:10.1016/j.pec.2013.08.005. PMID&nbsp;24029581.  
+         ^ 
+           Légaré F, Stacey D, Gagnon S, Dunn S, Pluye P, Frosch D, et&nbsp;al. (August 2011). "Validating a conceptual model for an inter-professional approach to shared decision making: a mixed methods study". Journal of Evaluation in Clinical Practice. 17 (4): 554–64. doi:10.1111/j.1365-2753.2010.01515.x. PMC&nbsp;3170704. PMID&nbsp;20695950.  
+         ^ 
+           Garvelink MM, Groen-van de Ven L, Smits C, Franken R, Dassen-Vernooij M, Légaré F (September 2019). "Shared Decision Making About Housing Transitions for Persons With Dementia: A Four-Case Care Network Perspective". The Gerontologist. 59 (5): 822–834. doi:10.1093/geront/gny073. PMID&nbsp;30007366.  
+         ^ 
+           Dogba MJ, Menear M, Stacey D, Brière N, Légaré F (July 2016). "The Evolution of an Interprofessional Shared Decision-Making Research Program: Reflective Case Study of an Emerging Paradigm". International Journal of Integrated Care. 16 (3): 4. doi:10.5334/ijic.2212. PMC&nbsp;5351041. PMID&nbsp;28435417.  
+         ^ 
+           Jeanne Wirpsa M, Emily Johnson R, Bieler J, Boyken L, Pugliese K, Rosencrans E, Murphy P (2018-10-15). "Interprofessional Models for Shared Decision Making: The Role of the Health Care Chaplain". Journal of Health Care Chaplaincy. 25 (1): 20–44. doi:10.1080/08854726.2018.1501131. PMID&nbsp;30321119. S2CID&nbsp;53502150.  
+         ^ 
+           Dunn SI, Cragg B, Graham ID, Medves J, Gaboury I (May 2018). "Roles, processes, and outcomes of interprofessional shared decision-making in a neonatal intensive care unit: A qualitative study". Journal of Interprofessional Care. 32 (3): 284–294. doi:10.1080/13561820.2018.1428186. PMID&nbsp;29364748. S2CID&nbsp;4488192.  
+         ^ 
+           Stacey D, Légaré F, Lewis KB (August 2017). "Patient Decision Aids to Engage Adults in Treatment or Screening Decisions". JAMA. 318 (7): 657–658. doi:10.1001/jama.2017.10289. PMID&nbsp;28810006.  
+         ^ 
+           van Til JA, Drossaert CH, Renzenbrink GJ, Snoek GJ, Dijkstra E, Stiggelbout AM, Ijzerman MJ (2010). "Feasibility of web-based decision aids in neurological patients". Journal of Telemedicine and Telecare. 16 (1): 48–52. doi:10.1258/jtt.2009.001012. PMID&nbsp;20086268. S2CID&nbsp;16399176.  
+         ^ 
+           Frosch DL, Bhatnagar V, Tally S, Hamori CJ, Kaplan RM (February 2008). "Internet patient decision support: a randomized controlled trial comparing alternative approaches for men considering prostate cancer screening". Archives of Internal Medicine. 168 (4): 363–9. doi:10.1001/archinternmed.2007.111. PMID&nbsp;18299490.  
+         ^ 
+           Barry MJ (January 2002). "Health decision aids to facilitate shared decision making in office practice". Annals of Internal Medicine. 136 (2): 127–35. doi:10.7326/0003-4819-136-2-200201150-00010. PMID&nbsp;11790064. S2CID&nbsp;22011691.  
+         ^ 
+           Nannenga MR, Montori VM, Weymiller AJ, Smith SA, Christianson TJ, Bryant SC, et&nbsp;al. (March 2009). "A treatment decision aid may increase patient trust in the diabetes specialist. The Statin Choice randomized trial". Health Expectations. 12 (1): 38–44. doi:10.1111/j.1369-7625.2008.00521.x. PMC&nbsp;5060475. PMID&nbsp;19250151.   
+         ^ 
+           Elwyn G, Edwards A, eds. (29 June 2009). Shared decision-making in health care: Achieving evidence-based patient choice (2nd&nbsp;ed.). Oxford University Press. ISBN&nbsp;978-0-19-954627-5. Archived from the original on 5 February 2010.  
+         ^ 
+           Elwyn G, O'Connor A, Stacey D, Volk R, Edwards A, Coulter A, et&nbsp;al. (August 2006). "Developing a quality criteria framework for patient decision aids: online international Delphi consensus process". BMJ. 333 (7565): 417–0. doi:10.1136/bmj.38926.629329.AE. PMC&nbsp;1553508. PMID&nbsp;16908462.  
+         ^ 
+           "IPDAS Decision Aid Checklist" (PDF).  
+         ^ 
+           Thokala P, Devlin N, Marsh K, Baltussen R, Boysen M, Kalo Z, et&nbsp;al. (January 2016). "Multiple Criteria Decision Analysis for Health Care Decision Making--An Introduction: Report 1 of the ISPOR MCDA Emerging Good Practices Task Force". Value in Health. 19 (1): 1–13. doi:10.1016/j.jval.2015.12.003. PMID&nbsp;26797229.  
+         ^ 
+           Marsh K, IJzerman M, Thokala P, Baltussen R, Boysen M, Kaló Z, et&nbsp;al. (2016). "Multiple Criteria Decision Analysis for Health Care Decision Making--Emerging Good Practices: Report 2 of the ISPOR MCDA Emerging Good Practices Task Force". Value in Health. 19 (2): 125–37. doi:10.1016/j.jval.2015.12.016. PMID&nbsp;27021745.  
+         ^ a b c d e 
+           Kujawski E, Triantaphyllou E, Yanase J (May 2019). "Additive Multicriteria Decision Analysis Models: Misleading Aids for Life-Critical Shared Decision Making". Medical Decision Making. 39 (4): 437–449. doi:10.1177/0272989X19844740. PMID&nbsp;31117875. S2CID&nbsp;162181616.  
+         ^ 
+           Vaisson G, Provencher T, Dugas M, Trottier MÈ, Chipenda Dansokho S, Colquhoun H, et&nbsp;al. (April 2021). "User Involvement in the Design and Development of Patient Decision Aids and Other Personal Health Tools: A Systematic Review". Medical Decision Making. 41 (3): 261–274. doi:10.1177/0272989X20984134. PMID&nbsp;33655791.  
+         ^  
+           Morton A (March 2017). "Treacle and Smallpox: Two Tests for Multicriteria Decision Analysis Models in Health Technology Assessment". Value in Health. 20 (3): 512–515. doi:10.1016/j.jval.2016.10.005. PMID&nbsp;28292498.  
+         ^ 
+           Légaré F, Ratté S, Gravel K, Graham ID (December 2008). "Barriers and facilitators to implementing shared decision-making in clinical practice: update of a systematic review of health professionals' perceptions". Patient Education and Counseling. 73 (3): 526–35. doi:10.1016/j.pec.2008.07.018. PMID&nbsp;18752915.  
+         ^ 
+           Joseph-Williams N, Edwards A, Elwyn G (May 2014). "Power imbalance prevents shared decision making". BMJ. 348: g3178. doi:10.1136/bmj.g3178. PMID&nbsp;25134115. S2CID&nbsp;37910375.  
+         ^ a b 
+           Légaré F. "Inventory of Shared Decision Making Programs for Healthcare Professionals". Canada Research Chair in Implementation of Shared Decision Making in Primary Care. Université Laval. Retrieved 12 February 2015.  
+         ^ 
+           Butler AM, Elkins S, Kowalkowski M, Raphael JL (February 2015). "Shared decision making among parents of children with mental health conditions compared to children with chronic physical conditions". Maternal and Child Health Journal. 19 (2): 410–418. doi:10.1007/s10995-014-1523-y. PMID&nbsp;24880252. S2CID&nbsp;7550981.  
+         ^ 
+           Légaré F, Witteman HO (February 2013). "Shared decision making: examining key elements and barriers to adoption into routine clinical practice". Health Affairs. 32 (2): 276–284. doi:10.1377/hlthaff.2012.1078. PMID&nbsp;23381520.  
+         ^ 
+           Florin J, Ehrenberg A, Ehnfors M (November 2008). "Clinical decision-making: predictors of patient participation in nursing care". Journal of Clinical Nursing. 17 (21): 2935–2944. doi:10.1111/j.1365-2702.2008.02328.x. PMID&nbsp;19034992.  
+         ^ 
+           Adisso EL, Borde V, Saint-Hilaire MÈ, Robitaille H, Archambault P, Blais J, et&nbsp;al. (2018-12-12). "Can patients be trained to expect shared decision making in clinical consultations? Feasibility study of a public library program to raise patient awareness". PLOS ONE. 13 (12): e0208449. Bibcode:2018PLoSO..1308449A. doi:10.1371/journal.pone.0208449. PMC&nbsp;6291239. PMID&nbsp;30540833.  
+         ^ 
+           Eder M, Ivlev I, Lin JS (July 2021). "Supporting Communication of Shared Decision-Making Principles in US Preventive Services Task Force Recommendations". MDM Policy &amp; Practice. 6 (2): 238146832110675. doi:10.1177/23814683211067522. ISSN&nbsp;2381-4683. PMC&nbsp;8725016.  
+         ^ 
+           Härter M, van der Weijden T, Elwyn G (2011). "Policy and practice developments in the implementation of shared decision making: an international perspective". Zeitschrift Fur Evidenz, Fortbildung Und Qualitat Im Gesundheitswesen. 105 (4): 229–233. doi:10.1016/j.zefq.2011.04.018. PMID&nbsp;21620313.  
+         ^ 
+           Härter M, Moumjid N, Cornuz J, Elwyn G, van der Weijden T (June 2017). "Shared decision making in 2017: International accomplishments in policy, research and implementation". Zeitschrift Fur Evidenz, Fortbildung Und Qualitat Im Gesundheitswesen. 123–124: 1–5. doi:10.1016/j.zefq.2017.05.024. PMID&nbsp;28546053.  
+         ^ 
+           Gibson A, Britten N, Lynch J (September 2012). "Theoretical directions for an emancipatory concept of patient and public involvement". Health. 16 (5): 531–547. doi:10.1177/1363459312438563. PMID&nbsp;22535648. S2CID&nbsp;206717328.  
+         ^ 
+           Légaré F, Labrecque M, Cauchon M, Castel J, Turcotte S, Grimshaw J (September 2012). "Training family physicians in shared decision-making to reduce the overuse of antibiotics in acute respiratory infections: a cluster randomized trial". CMAJ. 184 (13): E726-34. doi:10.1503/cmaj.120568. PMC&nbsp;3447039. PMID&nbsp;22847969.  
+         ^ 
+           Légaré F, Politi MC, Drolet R, Desroches S, Stacey D, Bekker H (August 2012). "Training health professionals in shared decision-making: an international environmental scan". Patient Education and Counseling. 88 (2): 159–69. doi:10.1016/j.pec.2012.01.002. PMID&nbsp;22305195.  
+         ^ 
+           Légaré F, Moumjid-Ferdjaoui N, Drolet R, Stacey D, Härter M, Bastian H, et&nbsp;al. (Fall 2013). "Core competencies for shared decision making training programs: insights from an international, interdisciplinary working group". The Journal of Continuing Education in the Health Professions. 33 (4): 267–73. doi:10.1002/chp.21197. PMC&nbsp;3911960. PMID&nbsp;24347105.  
+         ^ a b 
+           Fineberg HV (January 2012). "From shared decision making to patient-centered decision making". Israel Journal of Health Policy Research. 1 (1): 6. doi:10.1186/2045-4015-1-6. PMC&nbsp;3424821. PMID&nbsp;22913639.  
+         ^ 
+           "NHS England&nbsp;» Shared decision making". www.england.nhs.uk. Retrieved 2019-01-14.  
+         ^ 
+           "NHS Shared Decision Making Programme". Retrieved 29 December 2012.  
+         ^ 
+           "Shared Decision Making". Advancing Quality Alliance (NHS). Retrieved 31 January 2014.  
+         ^ 
+           Elwyn G, Rix A, Holt T, Jones D (2012). "Why do clinicians not refer patients to online decision support tools? Interviews with front line clinics in the NHS". BMJ Open. 2 (6): e001530. doi:10.1136/bmjopen-2012-001530. PMC&nbsp;3532981. PMID&nbsp;23204075.   
+         ^ 
+           Scholl I, Koelewijn-van Loon M, Sepucha K, Elwyn G, Légaré F, Härter M, Dirmaier J (2011). "Measurement of shared decision making - a review of instruments". Zeitschrift für Evidenz, Fortbildung und Qualität im Gesundheitswesen. 105 (4): 313–24. doi:10.1016/j.zefq.2011.04.012. PMID&nbsp;21620327.  
+         ^ 
+           O'Connor AM (1995). "Validation of a decisional conflict scale". Medical Decision Making. 15 (1): 25–30. doi:10.1177/0272989x9501500105. PMID&nbsp;7898294. S2CID&nbsp;25014537.  
+         ^ 
+           Stacey D, Légaré F, Col NF, Bennett CL, Barry MJ, Eden KB, et&nbsp;al. (January 2014). Stacey D (ed.). "Decision aids for people facing health treatment or screening decisions". The Cochrane Database of Systematic Reviews (1): CD001431. doi:10.1002/14651858.CD001431.pub4. PMID&nbsp;24470076.  
+         ^  
+           Légaré F, Kearing S, Clay K, Gagnon S, D'Amours D, Rousseau M, O'Connor A (August 2010). "Are you SURE?: Assessing patient decisional conflict with a 4-item screening test". Canadian Family Physician. 56 (8): e308-14. PMC&nbsp;2920798. PMID&nbsp;20705870.  
+         ^ 
+           Ferron Parayre A, Labrecque M, Rousseau M, Turcotte S, Légaré F (January 2014). "Validation of SURE, a four-item clinical checklist for detecting decisional conflict in patients". Medical Decision Making. 34 (1): 54–62. doi:10.1177/0272989x13491463. PMID&nbsp;23776141. S2CID&nbsp;20791656.  
+         ^ 
+           Meredith L, Stewart M, Brown JB (2001). "Patient-centered communication scoring method report on nine coded interviews". Health Communication. 13 (1): 19–31. doi:10.1207/S15327027HC1301_03. PMID&nbsp;11370920. S2CID&nbsp;8507173.  
+         ^ a b 
+           Kunneman M, Gionfriddo MR, Toloza FJ, Gärtner FR, Spencer-Bonilla G, Hargraves IG, et&nbsp;al. (March 2019). "Humanistic communication in the evaluation of shared decision making: A systematic review". Patient Education and Counseling. 102 (3): 452–466. doi:10.1016/j.pec.2018.11.003. PMID&nbsp;30458971. S2CID&nbsp;53943053.  
+         ^ a b 
+           Härter M, Buchholz A, Nicolai J, Reuter K, Komarahadi F, Kriston L, et&nbsp;al. (October 2015). "Shared Decision Making and the Use of Decision Aids". Deutsches Ärzteblatt International. 112 (40): 672–9. doi:10.3238/arztebl.2015.0672. PMC&nbsp;4640071. PMID&nbsp;26517595.  
+         ^ a b 
+           Almario CV, Chey WD, Khanna D, Mosadeghi S, Ahmed S, Afghani E, et&nbsp;al. (November 2016). "Impact of National Institutes of Health Gastrointestinal PROMIS Measures in Clinical Practice: Results of a Multicenter Controlled Trial". The American Journal of Gastroenterology. 111 (11): 1546–1556. doi:10.1038/ajg.2016.305. PMC&nbsp;5097031. PMID&nbsp;27481311.  
+         ^ a b 
+           Slatore CG, Wiener RS, Golden SE, Au DH, Ganzini L (November 2016). "Longitudinal Assessment of Distress among Veterans with Incidental Pulmonary Nodules". Annals of the American Thoracic Society. 13 (11): 1983–1991. doi:10.1513/AnnalsATS.201607-555OC. PMID&nbsp;27599153.  
+         ^ a b 
+           Jouni H, Haddad RA, Marroush TS, Brown SA, Kruisselbrink TM, Austin EE, et&nbsp;al. (March 2017). "Shared decision-making following disclosure of coronary heart disease genetic risk: results from a randomized clinical trial". Journal of Investigative Medicine. 65 (3): 681–688. doi:10.1136/jim-2016-000318. PMC&nbsp;5325770. PMID&nbsp;27993947.  
+         ^ 
+           Meldrum M (2017-08-25), Worthington DL, Bodie GD (eds.), "Doctors' Interpersonal Skills Questionnaire (DISQ): (Greco, Cavanagh, Brownlea, &amp; McGovern, 1999)", The Sourcebook of Listening Research, John Wiley &amp; Sons, pp.&nbsp;246–251, doi:10.1002/9781119102991.ch21, ISBN&nbsp;9781119102991  
+         ^ 
+           "SDM-Q-9/SDM-Q-DOC". www.patient-als-partner.de. Retrieved 2019-09-19.  
+         ^ 
+           Tai-Seale M, Elwyn G, Wilson CJ, Stults C, Dillon EC, Li M, et&nbsp;al. (April 2016). "Enhancing Shared Decision Making Through Carefully Designed Interventions That Target Patient And Provider Behavior". Health Affairs. 35 (4): 605–12. doi:10.1377/hlthaff.2015.1398. PMID&nbsp;27044959.  
+         ^ 
+           "Overview". www.cms.gov. 2019-09-16. Retrieved 2019-09-19.  
+         ^ 
+           Elwyn G, Barr PJ, Grande SW, Thompson R, Walsh T, Ozanne EM (October 2013). "Developing CollaboRATE: a fast and frugal patient-reported measure of shared decision making in clinical encounters". Patient Education and Counseling. 93 (1): 102–7. doi:10.1016/j.pec.2013.05.009. PMID&nbsp;23768763.  
+         ^ 
+           Elwyn G, Edwards A, Wensing M, Hood K, Atwell C, Grol R (April 2003). "Shared decision making: developing the OPTION scale for measuring patient involvement". Quality &amp; Safety in Health Care. 12 (2): 93–9. doi:10.1136/qhc.12.2.93. PMC&nbsp;1743691. PMID&nbsp;12679504.  
+         ^ 
+           Simon D, Schorr G, Wirtz M, Vodermaier A, Caspari C, Neuner B, et&nbsp;al. (November 2006). "Development and first validation of the shared decision-making questionnaire (SDM-Q)". Patient Education and Counseling. 3rd International Conference on Shared Decision Making. 63 (3): 319–27. doi:10.1016/j.pec.2006.04.012. PMID&nbsp;16872793.  
+         ^ 
+           Mercer SW, Maxwell M, Heaney D, Watt GC (December 2004). "The consultation and relational empathy (CARE) measure: development and preliminary validation and reliability of an empathy-based consultation process measure". Family Practice. 21 (6): 699–705. doi:10.1093/fampra/cmh621. PMID&nbsp;15528286.  
+         ^ 
+           Vortel MA, Adam S, Port-Thompson AV, Friedman JM, Grande SW, Birch PH (October 2016). "Comparing the ability of OPTION(12) and OPTION(5) to assess shared decision-making in genetic counselling". Patient Education and Counseling. 99 (10): 1717–23. doi:10.1016/j.pec.2016.03.024. PMID&nbsp;27085518.  
+         ^ 
+           Légaré F, Stacey D, Pouliot S, Gauvin FP, Desroches S, Kryworuchko J, et&nbsp;al. (January 2011). "Interprofessionalism and shared decision-making in primary care: a stepwise approach towards a new model". Journal of Interprofessional Care. 25 (1): 18–25. doi:10.3109/13561820.2010.490502. PMC&nbsp;3018136. PMID&nbsp;20795835.  
+         ^ 
+           Zhang AY, Siminoff LA (2003). "The role of the family in treatment decision making by patients with cancer". Oncology Nursing Forum. 30 (6): 1022–8. doi:10.1188/03.ONF.1022-1028. PMID&nbsp;14603359.  
+         ^ 
+           Légaré F, Brière N, Stacey D, Bourassa H, Desroches S, Dumont S, et&nbsp;al. (February 2015). "Improving Decision making On Location of Care with the frail Elderly and their caregivers (the DOLCE study): study protocol for a cluster randomized controlled trial". Trials. 16 (1): 50. doi:10.1186/s13063-015-0567-7. PMC&nbsp;4337186. PMID&nbsp;25881122.  
+         ^ 
+           Torrey T (25 November 2014). "The Wise Patient's Guide to Being an Empowered Patient". Verywell. About, Inc.  
+         ^ 
+           Suñol R, Somekh D, Orrego C, Ballester M, Raats I, Havers J, et&nbsp;al. (10 November 2014). EMPATHiE: Empowering patients in the management of chronic diseases (PDF) (Report). EU Health Programme; Consumers, Health, Agriculture and Food Executive Agency. p.&nbsp;6. Archived from the original (PDF) on 19 March 2015.  
+         ^ 
+           Laur A (September 2013). "Patients' responsibilities for their health". The Medico-Legal Journal. 81 (Pt 3): 119–23. doi:10.1177/0025817213497149. PMID&nbsp;24057310. S2CID&nbsp;7461224. (subscription required)  
+         ^ 
+           Scheibler F, Stoffel MP, Barth C, Kuch C, Steffen P, Baldamus CA, Pfaff H (April 2005). "". Medizinische Klinik (Munich, Germany&nbsp;: 1983) (in German). 100 (4): 193–9. doi:10.1007/s00063-005-1021-5. PMID&nbsp;15834528.  
+         ^ 
+           Maes-Carballo M, Gómez-Fandiño Y, Reinoso-Hermida A, Estrada-López CR, Martín-Díaz M, Khan KS, Bueno-Cavanillas A (October 2021). "Quality indicators for breast cancer care: A systematic review". Breast (Edinburgh, Scotland). 59: 221–231. doi:10.1016/j.breast.2021.06.013. PMC&nbsp;8322135. PMID&nbsp;34298301.  
+         ^ 
+           Maes-Carballo M, Gómez-Fandiño Y, Estrada-López CR, Reinoso-Hermida A, Khan KS, Martín-Díaz M, Bueno-Cavanillas A (June 2021). "Breast Cancer Care Quality Indicators in Spain: A Systematic Review". International Journal of Environmental Research and Public Health. 18 (12). doi:10.3390/ijerph18126411. PMC&nbsp;8296231. PMID&nbsp;34199302.  
+         ^ 
+           Höglund AT, Winblad U, Arnetz B, Arnetz JE (September 2010). "Patient participation during hospitalization for myocardial infarction: perceptions among patients and personnel". Scandinavian Journal of Caring Sciences. 24 (3): 482–9. doi:10.1111/j.1471-6712.2009.00738.x. PMID&nbsp;20230518.  
+         ^ 
+           Weingart SN, Zhu J, Chiappetta L, Stuver SO, Schneider EC, Epstein AM, et&nbsp;al. (June 2011). "Hospitalized patients' participation and its impact on quality of care and patient safety". International Journal for Quality in Health Care. 23 (3): 269–77. doi:10.1093/intqhc/mzr002. PMC&nbsp;3140261. PMID&nbsp;21307118.  
+         ^ 
+           Heisler M, Bouknight RR, Hayward RA, Smith DM, Kerr EA (April 2002). "The relative importance of physician communication, participatory decision making, and patient understanding in diabetes self-management". Journal of General Internal Medicine. 17 (4): 243–52. doi:10.1046/j.1525-1497.2002.10905.x. PMC&nbsp;1495033. PMID&nbsp;11972720.  
+         ^ 
+           Hibbard JH, Mahoney ER, Stock R, Tusler M (August 2007). "Do increases in patient activation result in improved self-management behaviors?". Health Services Research. 42 (4): 1443–63. doi:10.1111/j.1475-6773.2006.00669.x. PMC&nbsp;1955271. PMID&nbsp;17610432.  
+         ^ 
+           Hibbard JH, Mahoney ER, Stockard J, Tusler M (December 2005). "Development and testing of a short form of the patient activation measure". Health Services Research. 40 (6 Pt 1): 1918–30. doi:10.1111/j.1475-6773.2005.00438.x. PMC&nbsp;1361231. PMID&nbsp;16336556.  
+         ^ 
+           Bundesmann R, Kaplowitz SA (November 2011). "Provider communication and patient participation in diabetes self-care". Patient Education and Counseling. 85 (2): 143–7. doi:10.1016/j.pec.2010.09.025. PMID&nbsp;21035296.  
+         ^ 
+           Grover SA, Lowensteyn I, Joseph L, Kaouache M, Marchand S, Coupal L, Boudreau G (November 2007). "Patient knowledge of coronary risk profile improves the effectiveness of dyslipidemia therapy: the CHECK-UP study: a randomized controlled trial". Archives of Internal Medicine. 167 (21): 2296–303. doi:10.1001/archinte.167.21.2296. PMID&nbsp;18039987.  
+         ^ 
+           Krones T, Keller H, Sönnichsen A, Sadowski EM, Baum E, Wegscheider K, et&nbsp;al. (2008). "Absolute cardiovascular disease risk and shared decision making in primary care: a randomized controlled trial". Annals of Family Medicine. 6 (3): 218–27. doi:10.1370/afm.854. PMC&nbsp;2384995. PMID&nbsp;18474884.  
+         ^ 
+           Larsson IE, Sahlsten MJ, Segesten K, Plos KA (September 2011). "Patients' perceptions of barriers for participation in nursing care". Scandinavian Journal of Caring Sciences. 25 (3): 575–82. doi:10.1111/j.1471-6712.2010.00866.x. PMID&nbsp;21241347.  
+         ^ 
+           Graugaard PK, Finset A (January 2000). "Trait anxiety and reactions to patient-centered and doctor-centered styles of communication: an experimental study". Psychosomatic Medicine. 62 (1): 33–9. doi:10.1097/00006842-200001000-00005. PMID&nbsp;10705909. S2CID&nbsp;1770656.  
+         ^ a b 
+           Politi MC, Clark MA, Ombao H, Dizon D, Elwyn G (March 2011). "Communicating uncertainty can lead to less decision satisfaction: a necessary cost of involving patients in shared decision making?". Health Expectations. 14 (1): 84–91. doi:10.1111/j.1369-7625.2010.00626.x. PMC&nbsp;3010418. PMID&nbsp;20860780.   
+         ^ 
+           Cribb A, Entwistle VA (June 2011). "Shared decision making: trade-offs between narrower and broader conceptions". Health Expectations. 14 (2): 210–9. doi:10.1111/j.1369-7625.2011.00694.x. PMC&nbsp;5060567. PMID&nbsp;21592264.   
+         ^ 
+           Rabi DM, Kunneman M, Montori VM (April 2020). "When Guidelines Recommend Shared Decision-making". JAMA. 323 (14): 1345–1346. doi:10.1001/jama.2020.1525. PMID&nbsp;32167526.  
+         ^ a b Maes-Carballo, M.; Martín-Díaz, M.; Mignini, L.; Khan, K.S.; Trigueros, R.; Bueno-Cavanillas, A. Evaluation of the Use of Shared Decision Making in Breast Cancer: International Survey. Int. J. Environ. Res. Public Health 2021, 18, 2128. https://doi.org/10.3390/ijerph 18042128  
+         ^ a b c Maes-Carballo, M.; Munoz-Nunez, I.; Martin-Diaz, M.; Mignini, L.; Bueno-Cavanillas, A.; Khan, K.S. Shared decision making in breast cancer treatment guidelines: Development of a quality assessment tool and a systematic review. Health Expect. 2020, 23, 1045–1064.https://doi.org/10.1111/hex.13112  
+         ^ 
+           Butterworth JE, Hays R, McDonagh ST, Richards SH, Bower P, Campbell J (October 2019). "Interventions for involving older patients with multi-morbidity in decision-making during primary care consultations". The Cochrane Database of Systematic Reviews. 2019 (10). doi:10.1002/14651858.cd013124.pub2. PMC&nbsp;6815935. PMID&nbsp;31684697.  
+         ^ 
+           "The AGREE Reporting Checklist: a tool to improve reporting of clinical practice guidelines". BMJ (Clinical Research Ed.). 354: i4852. September 2016. doi:10.1136/bmj.i4852. PMC&nbsp;5012748. PMID&nbsp;27600405.  
+         ^ 
+           Chen Y, Yang K, Marušic A, Qaseem A, Meerpohl JJ, Flottorp S, Akl EA, Schünemann HJ, Chan ES, Falck-Ytter Y, Ahmed F, Barber S, Chen C, Zhang M, Xu B, Tian J, Song F, Shang H, Tang K, Wang Q, Norris SL (January 2017). "A Reporting Tool for Practice Guidelines in Health Care: The RIGHT Statement". Annals of Internal Medicine. 166 (2): 128–132. doi:10.7326/M16-1565. PMID&nbsp;27893062.  
+         ^ 
+           "ISDM/ISEHC2015: Bringing Evidence-Based Practice and Shared Decision-Making Together". International Society for Evidence-Based Health Care (ISEHC) and International Shared Decision-Making (ISDM). Archived from the original on 29 October 2015.  
+         ^ 
+           "ISDM 2019 - 10e conférence internationale sur la décision partagée". www.fourwav.es. Retrieved 2019-02-15.  
+         ^ 
+           "Session 477". Salzburg Global Seminar. Salzburg Global Seminar. Retrieved 12 February 2016.  
+         ^ 
+           Salzburg Global Seminar (March 2011). "Salzburg statement on shared decision making". BMJ. 342: d1745. doi:10.1136/bmj.d1745. PMID&nbsp;21427038. S2CID&nbsp;206892825.  
+         ^ 
+           "Eisenberg Center Conference Series". Agency for Healthcare Research and Quality. U.S. Department of Health &amp; Human Services. Retrieved 19 September 2016.  
+        
+       
+       
+      External links 
+      
+       Global Alliance for Self Management Support 
+       Society for Participatory Medicine
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Medical sociology
+           
+         
+         
+          Society
+          
+            
+            
+             Medicalization 
+             Iatrogenesis 
+             Medical paternalism 
+             Deviance
+             
+           
+         
+         
+          Medical care
+          
+            
+            
+             Doctor-patient relationship 
+             Shared decision making 
+             Informed consent 
+             Bioethics
+             
+           
+         
+         
+          Health professionals
+          
+            
+            
+             Hidden curriculum
+             
+           
+         
+         
+          Patients
+          
+            
+            
+             Sick role 
+             Labelling theory
+             
+           
+         
+         
+          Related fields
+          
+            
+            
+             Sociology 
+             Social medicine 
+             Medical Anthropology
+             
+           
+         
+         
+          Sociologists
+          
+            
+            
+             Talcott Parsons 
+             Eliot Freidson
+             
+           
+         
+         
+          See also
+          
+            
+            
+             Mental health 
+             Patient advocacy
+             
+           
+         
+        
+       
+      
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Telemedicine
+           
+         
+         
+          Background concepts
+          
+            
+            
+             Health informatics 
+             In absentia health care 
+             Telecommunication
+             
+           
+         
+         
+          Medical record
+          
+            
+            
+             Admission note 
+             Blue Button 
+             De-identification 
+             Electronic health record 
+             Health Insurance Portability and Accountability Act 
+             Personal health record
+             
+           
+         
+         
+          Patient participation
+          
+            
+            
+             Decision aids 
+             Doctor–patient relationship 
+             E-patient 
+             Health 2.0 
+             Health education 
+             Knowledge translation 
+             mHealth 
+             Participative decision-making in organizations 
+             Patient Activation Measure 
+             Shared decision-making
+             
+           
+         
+         
+          Health information on the Internet
+          
+            
+            
+             Health information on Wikipedia 
+             Online patient education 
+             PubMed
+             
+           
+         
+         
+          Telemedicine subspecialties
+          
+            
+            
+             eHealth 
+             Remote surgery 
+             Remote therapy 
+             Tele-audiology 
+             Tele-epidemiology 
+             Teledentistry 
+             Teledermatology 
+             Telehealth 
+             Telemental health 
+             Telenursing 
+             Teleophthalmology 
+             Telepathology 
+             Telepharmacy 
+             Telepsychiatry 
+             Teleradiology 
+             Telerehabilitation
+             
+           
+         
+         
+          Roles to play
+          
+            
+            
+             Open-source healthcare software 
+             Patient opinion leader 
+             Research participant 
+             Virtual patient
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Shared_decision-making_in_medicine&amp;oldid=1065461756"
+     
+     
+    
+     
+      Categories: 
+      
+       Practice of medicine
+       Patient advocacy
+       Medical sociology
+      
+     
+     
+      Hidden categories: 
+      
+       Pages containing links to subscription-only content
+       CS1: long volume value
+       CS1 German-language sources (de)
+       Wikipedia articles needing page number citations from February 2016
+       Wikipedia articles in need of updating from July 2021
+       All Wikipedia articles in need of updating
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       Čeština
+       Deutsch
+       فارسی
+       Français
+       日本語
+       Norsk bokmål
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 13 January 2022, at 17:33&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

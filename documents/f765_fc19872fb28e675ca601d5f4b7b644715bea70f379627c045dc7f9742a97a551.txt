@@ -1,0 +1,532 @@
+
+ 
+  
+   
+  Chartjunk - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Chartjunk 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       
+         
+        
+         
+          
+         An example of a chart containing gratuitous chartjunk. This chart uses a large area and much "ink" (many symbols and lines) to show only five hard-to-read numbers, 1, 2, 4, 8, and 16.
+        
+       
+       
+      Chartjunk refers to all visual elements in charts and graphs that are not necessary to comprehend the information represented on the graph, or that distract the viewer from this information. 
+      Markings and visual elements can be called chartjunk if they are not part of the minimum set of visuals necessary to communicate the information understandably. Examples of unnecessary elements that might be called chartjunk include heavy or dark grid lines, unnecessary text, inappropriately complex or gimmicky font faces, ornamented chart axes, and display frames, pictures, backgrounds or icons within data graphs, ornamental shading and unnecessary dimensions. 
+      Another kind of chartjunk skews the depiction and makes it difficult to understand the real data being displayed. Examples of this type include items depicted out of scale to one another, noisy backgrounds making comparison between elements difficult in a chart or graph, and 3-D simulations in line and bar charts.  
+      
+       
+         
+        
+         
+          
+         A map with chartjunk: the gradients inside each province
+        
+       
+       
+      The term chartjunk was coined by Edward Tufte in his 1983 book The Visual Display of Quantitative Information. Tufte wrote:  
+      
+      
+       The interior decoration of graphics generates a lot of ink that does not tell the viewer anything new. The purpose of decoration varies—to make the graphic appear more scientific and precise, to enliven the display, to give the designer an opportunity to exercise artistic skills. Regardless of its cause, it is all non-data-ink or redundant data-ink, and it is often chartjunk.
+       
+      The term is relatively recent and is often associated with Tufte in other references. 
+      The concept is analogous to Adolf Loos's idea that ornament is a crime.  
+      
+       
+       
+        Contents
+        
+        
+        1 Etymology 
+        2 Debate over meaning 
+        3 Chartjunk in research 
+        4 See also 
+        5 References 
+        
+       
+      Etymology 
+      The term chartjunk was first coined by Edward Tufte in 1983. The book was developed based on ideas and materials developed for a Princeton statistics course that Tufte co-taught with John Tukey. As a self-published book, The Visual Display of Quantitative Information, Tufte claims that good design is founded in minimalist design principles. Specifically, he states that “graphics reveal data” if they are designed with “graphical integrity." Tufte, through minimalist design principles, was committed to an objective and neutral values of science. Other researchers have argued that minimalism is not objective and is full of its own rhetoric and potential to bias. 
+       Tufte, in coining the term chartjunk, also made direct comments about a well-known designer at that time, Nigel Holmes. 
+      
+       Nearly all those who produce graphics for mass publication are trained exclusively in the fine arts and have had little experience with the analysis of data. Such experiences are essential for achieving precision and grace in the presence of statistics... Those who get ahead are those who beautified data, never mind statistical integrity.”
+      
+      Further, in his second published book, Envisioning Information, Tufte critiques Holmes' Diamonds chart (image not added due to copyright):
+      
+       “Consider this unsavory exhibit at right – chockablock with cliché and stereotype, coarse humor, and a content-empty third dimension... Credibility vanishes in clouds of chartjunk; who would trust a chart that looks like a video game?”
+      
+      In a 1992 New York Times article, the reporter captures Holmes' response to Tufte's criticism:
+      
+       “Time’s Nigel Holmes, creator of the diamonds graph, was understandably irked when Tufte criticized it. Holmes admits his work has sometimes been exaggerated, but feels that Tufte, in his insistence on absolute mathematical fidelity, remains trapped in ’the world of academia’ and insensitive to ’the world of commerce,’ with its need to grab an audience”
+      
+      This debate between Tufte and Holmes is emblematic of the tension between statistical and designerly approaches to visualization design. 
+      Debate over meaning 
+      The term chartjunk is an umbrella term that can be used to describe a variety of visual devices and has been referenced by different terms across research.  
+       
+       
+        Chartjunk Alternative Terms 
+        
+       
+         
+         Term  
+         Citation 
+         
+         
+         embellishment  
+          
+         
+         
+         excessive annotation  
+          
+         
+         
+         decoration  
+          
+         
+         
+         extraneous elements  
+          
+         
+         
+         unnecessary ornamentation  
+          
+        
+       
+       
+      Stephen Few, a data visualization practitioner and consultant at Perceptual Edge, stated that Tufte's original definition of chartjunk was "too loose" and that "by defining chartjunk too broadly, Tufte to some degree invited the heated controversy that has raged ever since." 
+      Robert Kosara, also a data visualization practitioner, researcher, and author of the blog EagerEyes, noted that not all chartjunk are the same, some are harmful (e.g. a busy background) , others harmless (e.g. nice borders or pictures), and some even helpful (e.g. annotations). 
+      In a recent study by Parsons and Shukla, they interviewed data visualization designers and found that there is both a "corrective movement" in the design community to move away from minimalist design principles, but also, that designers had different definitions for what constitutes chartjunk. The authors felt that "better definitions are needed so that everyone has a shared understanding ."  
+      Chartjunk in research 
+      The information visualization research community has researched the effects of chartjunk on how viewers interpret visualizations. There have been studies that found that chartjunk increases long-term memorability of the chart. A recent study found that chartjunk, in the form of semantically meaningful icons, increased accessibility of charts for people with Intellectual and Developmental Disabilities (IDD).  
+      See also 
+      
+       Misleading graph 
+       Lexicographic information cost, in lexicography
+       
+      References 
+      
+       
+        
+        ^ a b c d e f Tufte, Edward R. (1983). The Visual Display of Quantitative Information. Cheshire, CT: Graphics Press.  
+        ^ a b 
+          Harris, Robert L. (1999). Information Graphics: A Comprehensive Illustrated Reference. USA: Oxford University Press. p.&nbsp;72. ISBN&nbsp;0-19-513532-6.  
+        ^ 
+          Tufte, Edward R. (2006). Beautiful Evidence. Cheshire, CT: Graphics Press. pp.&nbsp;152–53. ISBN&nbsp;978-0961392178.  
+        ^ 
+          Cleveland, William S. (1985). The Elements of Graphing Data. Pacific Grove, CA: Wadsworth &amp; Advanced Book Program. p.&nbsp;25. ISBN&nbsp;0-534-03730-5.  
+        ^ a b c d 
+          Bateman, Scott; Mandryk, Regan L.; Gutwin, Carl; Genest, Aaron; McDine, David; Brooks, Christopher (2010). "Useful junk?: the effects of visual embellishment on comprehension and memorability of charts". Proceedings of the 28th international conference on Human factors in computing systems - CHI '10. Atlanta, Georgia, USA: ACM Press: 2573. doi:10.1145/1753326.1753716. ISBN&nbsp;978-1-60558-929-9.  
+        ^ a b c 
+          Kennedy, Helen; Hill, Rosemary Lucy; Aiello, Giorgia; Allen, William (2016-03-16). "The work that visualisation conventions do". Information, Communication &amp; Society. 19 (6): 715–735. doi:10.1080/1369118x.2016.1153126. ISSN&nbsp;1369-118X.  
+        ^ 
+          author., Tufte, Edward R., 1942-. Envisioning information. ISBN&nbsp;978-1-930824-14-0. OCLC&nbsp;1135806416. }: |last= has generic name (help)  
+        ^ 
+          Patton, Phil (1992-01-19). "UP FROM FLATLAND". The New York Times. ISSN&nbsp;0362-4331. Retrieved 2021-08-01.  
+        ^ a b 
+          Few, Stephen. "The Chartjunk Debate: A Close Examination of Recent Findings" (PDF). Perceptual Edge. Archived (PDF) from the original on 2011-05-21. Retrieved July 31, 2021.  
+        ^ a b 
+          Parsons, Paul; Shukla, Prakash (October 2020). "Data Visualization Practitioners' Perspectives on Chartjunk". 2020 IEEE Visualization Conference (VIS). Salt Lake City, UT, USA: IEEE: 211–215. arXiv:2009.02634. doi:10.1109/VIS47514.2020.00049. ISBN&nbsp;978-1-7281-8014-4.  
+        ^ a b 
+          Wu, Keke; Petersen, Emma; Ahmad, Tahmina; Burlinson, David; Tanis, Shea; Szafir, Danielle Albers (2021-05-06). "Understanding Data Accessibility for People with Intellectual and Developmental Disabilities". Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems. New York, NY, USA: ACM. doi:10.1145/3411764.3445743. ISBN&nbsp;978-1-4503-8096-6.  
+        ^ a b c 
+          Borkin, Michelle A.; Vo, Azalea A.; Bylinskii, Zoya; Isola, Phillip; Sunkavalli, Shashank; Oliva, Aude; Pfister, Hanspeter (December 2013). "What Makes a Visualization Memorable?". IEEE Transactions on Visualization and Computer Graphics. 19 (12): 2306–2315. doi:10.1109/TVCG.2013.234. ISSN&nbsp;1077-2626.  
+        ^ 
+          "The Three Types of Chart Junk". eagereyes. 2012-03-05. Retrieved 2021-08-01.  
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Chartjunk&amp;oldid=1069582919"
+     
+     
+    
+     
+      Categories: 
+      
+       Infographics
+       1980s neologisms
+       Waste of resources
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 errors: generic name
+       Articles that may contain original research from April 2021
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Français
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 3 February 2022, at 01:46&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

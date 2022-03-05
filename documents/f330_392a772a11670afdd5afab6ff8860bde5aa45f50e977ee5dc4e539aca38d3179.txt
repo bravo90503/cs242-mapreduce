@@ -1,0 +1,437 @@
+
+ 
+  
+   
+  Help:Disambiguation - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+     
+     
+    
+   Help:Disambiguation 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+      
+       For more comprehensive information, see Wikipedia:Disambiguation.
+       
+        
+      
+       Wikipedia information page
+      
+      
+       
+        
+         
+         
+          
+           This is an information page.
+           
+           
+            It is not one of Wikipedia's policies or guidelines, but rather intends to describe some aspect(s) of Wikipedia's norms, customs, technicalities, or practices. It may reflect varying levels of consensus and vetting.
+           
+          
+         
+          
+           
+          
+          
+           
+            Shortcuts
+           
+           
+            H:DIS
+            HELP:DAB
+           
+          
+        
+       
+       
+      
+      
+       
+        
+         Readers' FAQ
+        
+        
+         
+        
+        
+          
+           
+           
+            About Wikipedia 
+             
+              Administration 
+              FAQs
+              
+            Assessing article quality 
+            Authority control 
+            Books 
+            Categories 
+            Censorship 
+            Copyright 
+            Disambiguation 
+            Images and multimedia 
+            ISBN 
+            Microformats 
+            Mobile access 
+            Offline access 
+            Navigation 
+            Other languages 
+            Page names 
+            Portals 
+            Searching 
+            Student help
+            
+           
+        
+        
+          
+          
+           Researching with Wikipedia 
+           Citing Wikipedia
+           
+        
+        
+          
+          
+           Readers' glossary 
+           Readers' index 
+           Reader's guide to Wikipedia
+           
+        
+        
+         
+          
+           
+            v
+            t
+            e
+           
+          
+        
+       
+       
+      
+      
+      
+       
+        
+         Disambiguation
+        
+        
+          
+          
+           Guideline (talk) 
+           Manual of Style (talk) 
+           Dos and don'ts (talk) 
+           Reader help (talk)
+           
+           
+          
+           }
+           
+           
+          
+           WikiProject (talk) 
+           CJKV task force (talk)
+           
+           
+          
+           Disambig category 
+           Pages in need of cleanup 
+           Pages with links 
+           Topical lists and DAB solver tool
+           
+           
+        
+        
+         
+          
+          
+           
+            v
+            t
+            e
+           
+          
+        
+       
+       
+      Disambiguation pages on Wikipedia are used as a process of resolving conflicts in article titles that occur when a single term can be associated with more than one topic, making that term likely to be the natural title for more than one article. In other words, disambiguations are paths leading to different articles which could, in principle, have the same title. 
+      For example, the word "Mercury" can refer to several things, including an element, a planet, and a Roman god. Since only one Wikipedia page can have the generic name "Mercury", unambiguous article titles are used for each of these topics: Mercury (element), Mercury (planet), Mercury (mythology). There must then be a way to direct the reader to the correct specific article when the ambiguous word "Mercury" is referenced by linking, browsing or searching; this is what is known as disambiguation. In this case, it is achieved using Mercury as the title of a disambiguation page. 
+      There are three principal disambiguation scenarios, of which the following are examples:  
+      
+       The page at Joker is a disambiguation page, leading to all the alternative uses of "Joker". It has a } template at the bottom. 
+       The page at Rice is about one usage, called the primary topic, and there is a short message at the top of the page, called a hatnote and created with the } template, guiding readers to Rice (disambiguation) so other uses of the term can be found. 
+       The page at Anita Hill is about the primary topic, and there is only one other use. The other use is linked directly using a hatnote created with the } template; no disambiguation page is needed.
+       
+      Occasionally, a reader may follow a link that ends up at a disambiguation page rather than at one of the links shown on that page. The original page can be edited to link directly to its intended destination. Feel free to make such edits; everyone is welcome to improve Wikipedia, including you. It could be you who makes the overall experience of Wikipedia that much better.  
+      See also 
+      
+       Help:Contents 
+       Wikipedia:Manual of Style/Disambiguation pages 
+       Wikipedia:Template messages for disambiguation and redirection 
+       Wikipedia:Disambiguation detector
+       
+       
+       
+      
+       
+         
+        
+         Main
+         
+        
+         Portal
+         
+        
+         Category
+         
+        
+         Help
+         
+        
+       
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Help:Disambiguation&amp;oldid=1045423110"
+     
+     
+    
+     
+      Categories: 
+      
+       Wikipedia information pages
+       Reader help
+       Wikipedia disambiguation
+      
+     
+     
+      Hidden categories: 
+      
+       Wikipedia semi-protected project pages
+       Help pages with short description
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Help page
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        <a href="/w/index.php?title=Help:Disambiguation&amp;action=edit" title="This page is protected.
+You can view its source " accesskey="e">View source
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikisource
+       
+      
+     
+     
+      Languages  
+      
+      
+       অসমীয়া
+       Español
+       Français
+       Galego
+       हिन्दी
+       Nederlands
+       Occitan
+       ଓଡ଼ିଆ
+       Scots
+       سنڌي
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 20 September 2021, at 14:20&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+    
+ 

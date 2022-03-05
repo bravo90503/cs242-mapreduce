@@ -1,0 +1,592 @@
+
+ 
+  
+   
+  Technical illustration - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Technical illustration 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Process of visually communicating technical concepts or subjects
+       
+      
+       
+         
+        
+         
+          
+         Isometric Technical Illustration of an interface card conveying placement of the interface cable.
+        
+       
+       
+      Technical Illustration is illustration meant to visually communicate information of a technical nature. Technical illustrations can be components of technical drawings or diagrams. Technical illustrations in general aim "to generate expressive images that effectively convey certain information via the visual channel to the human observer". 
+      Technical illustrations generally have to describe and explain the subjects to a nontechnical audience. Therefore, the visual image should be accurate in terms of dimensions and proportions, and should provide "an overall impression of what an object is or does, to enhance the viewer’s interest and understanding".  
+      
+       
+       
+        Contents
+        
+        
+        1 Types 
+          
+          1.1 Types of communication 
+          1.2 Types of drawings 
+           
+        2 Techniques 
+        3 Examples 
+        4 Further reading 
+        5 See also 
+        6 References 
+        7 External links 
+        
+       
+      Types 
+      Types of communication 
+      Today, technical illustration can be broken down into three categories based on the type of communication:  
+      
+       Communication with the general public: informs the general public, for example illustrated instructions found in the manuals for automobiles and consumer electronics. This type of technical illustration contains simple terminology and symbols that can be understood by the lay person and is sometimes called creative technical illustration/graphics. 
+       Specialized engineering or scientific communication: used by engineers/scientists to communicate with their peers and in specifications. This use of technical illustration has its own complex terminology and specialized symbols; examples are the fields of atomic energy, aerospace and military/defense. These areas can be further broken down into disciplines of mechanical, electrical, architectural engineering and many more. 
+       Communication between highly skilled experts: used by engineers to communicate with people who are highly skilled in a field, but who are not engineers. Examples of this type of technical illustration are illustrations found in user/operator documentation. These illustrations can be very complex and have jargon and symbols not understood by the general public, such as illustrations that are part of instructional materials for operating CNC machinery.
+       
+      Types of drawings 
+      Main types of drawings in technical communication are:  
+      
+       conventional line drawings, 
+       exploded view drawings, 
+       cutaway drawings, and 
+       clip art images
+       
+      Techniques 
+      Technical illustration uses several basic mechanical drawing configurations called axonometric projection. These are:  
+      
+       Parallel projections (oblique, planometric, isometric, dimetric, and trimetric), and 
+       many types of perspective projections (with one, two, or three vanishing points).
+       
+      Technical illustration and computer-aided design can also use 3D and solid-body projections, such as rapid prototyping.  
+      
+       In the natural sciences, "scientific illustration" refers to a style of drawing using stippling and simple line techniques to convey information with a minimum of artistic interpretation.
+       
+      Examples 
+      
+      
+       
+        
+         Technical Illustrations Gallery
+        
+       
+       
+        
+          
+          
+            
+            
+             
+              
+             
+             
+             
+             Small kitchen in perspective  
+             
+            
+          
+            
+            
+             
+              
+             
+             
+             
+             Conventional line illustration of an engine demonstrating perspective and line techniques.  
+             
+            
+          
+            
+            
+             
+              
+             
+             
+             
+             Illustration of a drum set.  
+             
+            
+          
+            
+            
+             
+              
+             
+             
+             
+             Gallotia simonyi, example of pen and ink scientific illustration  
+             
+            
+          
+            
+            
+             
+              
+             
+             
+             
+             Broken view plan, showing the decks of a ship, drawn 1783  
+             
+            
+         
+        
+       
+       
+      Further reading 
+      
+       McDonnell, Phyllis Wood. With a chapter by Patrick (1994). Scientific illustration&nbsp;: a guide to biological, zoological, and medical rendering techniques, design, printing, and display (2.&nbsp;ed.). New York, NY : Wiley. ISBN&nbsp;978-0471285250.
+       
+      See also 
+      
+       
+       
+        Archaeological illustration 
+        Association of Medical Illustrators 
+        Biological illustration 
+        Illustrator 
+        Information graphics 
+        Information visualisation 
+        medical illustration 
+        Technical communications 
+        Technical drawing
+        
+       
+      References 
+      
+       
+       
+         
+         ^ Ivan Viola and Meister E. Gröller (2005). "Smart Visibility in Visualization". In: Computational Aesthetics in Graphics, Visualization and Imaging. L. Neumann et al. (Ed.)  
+         ^ 
+           Devis, Mae (14 May 2011). "משרביות". www.laser-group.co.il. Retrieved 14 June 2016.  
+         ^ 
+           Oliu, Gerald J. Alred, Charles T. Brusaw, Walter E. (2012). The business writer's handbook (10th&nbsp;ed.). Boston: Bedford/St. Martins. p.&nbsp;172. ISBN&nbsp;0312679432. Retrieved 14 June 2016.  
+        
+       
+       
+      External links 
+       
+       
+         
+          
+         Wikimedia Commons has media related to Technical illustrations.
+         
+       
+       
+      
+       Technical Illustration – A Historical Perspective by Kevin Hulsey 
+       Technical Illustration in the 21st Century: A Primer for Today’s Professionals by Parametric Technology Corporation (PTC) 2007. (requires login) 
+       Stuttgart Database of Scientific Illustrators 1450–1950 (DSI) (with more than 6000 entries and 20 search fields)
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Technical_illustration&amp;oldid=1039768731"
+     
+     
+    
+     
+      Categories: 
+      
+       Illustration
+       Scientific illustrators
+       Technical drawing
+       Object visualization
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with short description
+       Short description is different from Wikidata
+       All articles with unsourced statements
+       Articles with unsourced statements from February 2009
+       Commons category link is on Wikidata
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       Català
+       فارسی
+       한국어
+       日本語
+       Русский
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 20 August 2021, at 16:40&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

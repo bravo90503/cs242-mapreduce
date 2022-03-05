@@ -1,0 +1,433 @@
+
+ 
+  
+   
+  Informaatiotutkimus – Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Informaatiotutkimus 
+    
+    
+     Wikipediasta
+     
+     
+     
+     Siirry navigaatioon Siirry hakuun 
+    
+     
+      
+       Tämä artikkeli käsittelee informaatiotutkimus-nimistä tieteenalaa. Informaatioteoria on luonteeltaan matemaattinen tieteenhaara.
+       
+      Informaatiotutkimus, eli informaatiotiede, on monitieteinen ala, joka tarkastelee ihmisen tapaa tuottaa, organisoida ja käyttää tietoa. Se tarkastelee muun muassa tiedon säilyttämiseen, välittämiseen ja hankkimiseen liittyviä kysymyksiä niin yksilöiden kuin erikokoisten yhteisöjen ja organisaatioiden näkökulmasta. Informaatiotutkimuksen piirissä informaatiolla viitataan ensisijaisesti dokumenttien sisältämään tietoon. Informaatiotutkimuksen tärkeimmät lähitieteet ovat yhteiskuntatieteet ja tietojenkäsittelytiede.  
+      
+       
+       
+        Sisällysluettelo
+        
+        
+        1 Historia 
+        2 Tutkimussuuntaukset 
+          
+          2.1 Tiedonhankintatutkimus 
+          2.2 Tiedonhaun tutkimus 
+          2.3 Tietohallinnon tutkimus 
+          2.4 Arkisto- ja asiakirjahallinnon tutkimus 
+          2.5 Tieteellisen viestinnän tutkimus 
+           
+        3 Ammatit 
+        4 Koulutus 
+        5 Lähteet 
+          
+          5.1 Viitteet 
+           
+        6 Aiheesta muualla 
+        
+       
+      Historia 
+      Informaatiotutkimus on verrattain nuori, 1900-luvun kuluessa hahmottunut tutkimusala, jonka alkuperäinen painopiste oli pitkälti kirjastojen, arkistojen ja muiden informaatioalan organisaatioiden toiminnan ymmärtämisessä ja tehostamisessa. Informaatiotutkimus on edelleen kiinnostunut esimerkiksi kirjasto- ja arkistotyön käytännöistä, mutta 1980-luvun lopulla instituutio- ja ammattikeskeinen ajattelu sai rinnalleen uusia, yksilöiden toimintaa korostavia lähestymistapoja. Nykyaikaisen informaatiotutkimuksen voidaan sanoa olevan kiinnostunut lähtökohtaisesti ihmisen informaatiokäyttäytymisestä ja sen erinäisistä ilmenemismuodoista. 
+      Nykyisen tutkimuksen taustalla on havaittavissa kaksi traditiota: kirjastotiede ja dokumentaatio. Molemmat traditiot kehittyivät voimakkaasti 1800-luvun viimeisinä vuosikymmeninä. Kirjastotiede muotoili vastauksia kirjastonhoidollisiin käytännön kysymyksiin. Dokumentaatio (ransk. documentation) pyrki alun perin helpottamaan tieteellisen tiedon hallintaa. Näiden kahden tradition yhdistyminen 1960-luvulta lähtien loi pohjan nykyiselle informaatiotutkimukselle. Kirjastotiede ja dokumentaatio katsoivat dokumenttien ja tiedon hallintaa eri näkökulmista: ensimmäinen keskittyi kirjastoon kehittyvänä instituutiona, jälkimmäinen tiedon mahdollisimman tehokkaaseen järjestämiseen. Kirjastonhoitajien korkeakoulutasoinen koulutus alkoi Euroopassa ja Yhdysvalloissa 1800-luvun jälkipuoliskolla. Sekä laajat tieteelliset kirjastot että yhdysvaltalaisen Public Library Movementin innoittamina syntyneet yleiset kirjastot tarvitsivat ammattitaitoista työvoimaa. Melvil Dewey (1851–1931) oli kirjastonhoidollisten menetelmien keskeinen pioneeri. 
+      Dokumentaatiota kehittivät ensimmäisinä belgialaiset juristit Paul Otlet (1868–1943) ja Henri La Fontaine (1854–1943). 1800-luvun lopulla teollistuminen, kansainvälistyminen ja modernisaatio yleensä loivat olosuhteet valtavalle tieteellisen ja teknisen tiedon kasvulle. Otlet ja La Fontaine kehittivät dokumentaation aluksi erityisesti tieteellisen tiedon hallinnan välineeksi. Dokumentaatio oli bibliografista toimintaa, jossa luetteloinnin ja viitetietojen kokoamisen lisäksi analysoitiin ja tallennettiin esimerkiksi tieteellisten julkaisujen sisältö haettavaan muotoon. Dokumentaatio perustui viitetietoja sisältävään kortistoon, joka kansainvälisen ja monialaisen toiminnan johdosta koostui 16 miljoonasta kortista vuoteen 1940 mennessä. 
+      Dokumentaation merkitys muuttui kapeammaksi 1930-40-luvuilla. Rajatummin ymmärrettynä dokumentaatiota ei enää nähty pyrkimyksenä kaiken tieteellisen tiedon järjestämiseen, vaan menetelmänä jonkin tieteellisen erikoisalan kirjallisuuden hyödyntämiseen. Tällaisesta dokumentaatiosta on Suomessa käytetty myös nimiä kirjallisuuspalvelu, informaatiopalvelu ja tietopalvelu. Suomessa tieto- tai informaatiopalvelua tapahtui pääasiassa tieteentekijöiden ja yrityselämän parissa. 
+      Informaatiotutkimuksen kehityksessä on ollut maakohtaisia eroja esimerkiksi terminologiassa ja tutkimuskysymysten läheisyydessä kirjasto- ja arkistotoimintaan. Esimerkiksi arkisto- ja asiakirjahallintoa on suomalaisissa yliopistoissa perinteisesti opetettu ja tutkittu informaatiotutkimuksen yhteydessä. Suomalainen informaatiotutkimus on saanut vaikutteita niin eurooppalaisista kuin angloamerikkalaisista lähteistä. 
+      Suomessa informaatiotutkimuksen akateeminen vakiintuminen alkoi vuonna 1971, kun maan ensimmäinen kirjastotieteen ja informatiikan professuuri perustettiin Tampereen yliopistoon. 1980-luvun aikana alan professuureja perustettiin kahteen muuhun yliopistoon, Åbo Akademihin (1982) ja Oulun yliopistoon (1988). Vielä 1990-luvun alussa informaatiotutkimusta kutsuttiin suomalaisissa yliopistoissa nimellä kirjastotiede ja informatiikka. Informaatiotutkimus-nimi otettiin käyttöön Tampereen yliopistossa vuonna 1994, jonka jälkeen nimenmuutos vakiintui maanlaajuisesti. Kansainvälisesti tutkimusalasta käytetään nykyään englanniksi termejä information science tai library and information science (lyh. LIS). 
+      Koko 1900-luvun ajan tutkimussuuntauksien muodostumiseen vaikutti voimakkaasti tietotekniikan nopea kehitys ja tietoyhteiskunnan kasvu. Varsinkin tiedonhaun tutkimus on ollut sidoksissa tietokoneiden ja tietoverkkojen jatkuvaan kehittymiseen.  
+      Tutkimussuuntaukset 
+      Tiedonhankintatutkimus 
+      Tiedonhankintatutkimus tarkastelee kolmea toisiinsa läheisesti liittyvää ilmiötä, jotka ovat tiedontarve, tiedonhankinta ja tiedonkäyttö. Tiedonhankintatutkimus on kiinnostunut etenkin siitä, miten tiedonhakija valitsee ja hyödyntää erilaisia tiedonlähteitä ja tiedonhankinnan kanavia. Sen keskeisiä mielenkiinnon kohteita ovat muun muassa ammatillinen tiedonhankinta, arkielämän tiedonhankinta, tehtävälähtöinen tiedonhankinta sekä ongelmalähtöinen tiedonhankinta.  
+      Tiedonhaun tutkimus 
+      Tiedonhaku on tutkimusala, joka sijoittuu informaatiotutkimuksen ja tietojenkäsittelyopin rajamaille. Sen keskeisiä tutkimuskohteita ovat tiedon haku, tallennus, organisointi ja jäsentäminen. Tiedonhaun tutkimuksen tavoitteena on kehittää käsitteitä, menetelmiä ja järjestelmiä, joiden avulla tieto saadaan helposti sitä tarvitsevien ulottuville mahdollisimman hyödyllisessä muodossa. Tiedonhaun tutkimus pyrkii siis parantamaan tiedonhakujärjestelmiä ja ennustamaan niiden toimintaa, mutta myös teoreettisesti ymmärtämään ja selittämään tiedonhaun ilmiöitä.  
+      Tietohallinnon tutkimus 
+      Tietohallinnon tutkimus keskittyy organisaatioiden tiedontarpeiden ja tiedonhankinnan sekä niiden sisäisten ja ulkoisten toimintaympäristöjen ja erilaisten tietojärjestelmien tutkimiseen. Tutkimus kytkeytyy organisaation toiminnan, tuottavuuden, kilpailukyvyn ja tuloksellisuuden parantamiseen tietohallintoa kehittämällä. Tärkeimpiä tutkimuskohteita ovat esimerkiksi sähköisen informaatio- ja viestintäteknologian hyödyntäminen, verkostojen mahdollisuuksien tarkastelu sekä tietämyksen hallinta.  
+      Arkisto- ja asiakirjahallinnon tutkimus 
+      Asiakirjahallinnan tarkoituksena on varmistaa autenttisten, luotettavien, todistusvoimaisten ja käyttökelpoisten asiakirjojen tuottaminen ja säilyttäminen. Arkistotiedettä on harjoitettu perinteisesti käytännön työn ohessa arkistoinstituutioissa, ja akateeminen tutkimus on yhä edelleen niukkaa. Vasta kehittyvänä tutkimusalueena asiakirjahallinto pyrkiikin tietopohjansa laajentamiseen, merkittävien teorioiden kehittämiseen ja tieteellisen tutkimuksen tuottamiseen. Alan keskeisiä tutkimuskohteita ovat esimerkiksi asiakirjatiedon tuottamisprosessit, asiakirjan ominaisuudet, asiakirjahallinta, arvonmääritys sekä arkistojen muodostaminen.  
+      Tieteellisen viestinnän tutkimus 
+      Tieteellisen viestinnän tutkimus tarkastelee tieteellistä julkaisutoimintaa ja sen käyttöä. Julkaisutoiminnan analyysin avulla pyritään kuvaamaan muun muassa tieteellisen kirjallisuuden määrää ja sen kasvua eri aloilla sekä arvioimaan julkaisujen tieteellistä tuloksellisuutta esimerkiksi viiteanalyysia käyttäen. Informaatiotutkimuksen piirissä tyypillisimpiä tutkimusalueita ovat bibliometriikka, tieteellisen julkaisutoiminnan tutkimus, informaation ja informaatiojärjestelmien käyttö- ja käyttäjätutkimukset sekä viestintäverkostojen tutkimus.  
+      Ammatit 
+      Informaatiotutkimus on perinteisesti liittynyt läheisesti muistiorganisaatioiden (kirjastot, arkistot ja museot) toimintaan. Näiden kolmen lisäksi informaatiotutkimuksen ammattilaisia tarvitaan etenkin organisaatioiden tietohallinnossa, tietopalveluissa, tutkimuslaitoksissa sekä verkkopalveluissa, joissa he työskentelevät yleensä suunnittelu-, kehittämis- ja asiantuntijatehtävissä. Keskeisiä ammattinimikkeitä ovat muun muassa  
+      
+       kirjastonhoitaja 
+       kirjastovirkailija 
+       informaatikko 
+       tietoasiantuntija 
+       tietopalvelupäällikkö 
+       tietopalvelusihteeri 
+       Information Specialist 
+       arkistonhoitaja
+       
+      Koulutus 
+      Suomessa informaatiotutkimusta opetetaan ja alan tutkimusta harjoitetaan seuraavissa yliopistoissa:  
+      
+       Oulun yliopisto (Informaatiotutkimuksen koulutusohjelma) 
+       Tampereen yliopisto (Informaatioteknologian ja viestinnän tiedekunta) 
+       Åbo Akademi (Institutionen för informationsvetenskap)
+       
+      Tutkimuksen ja opetuksen painopisteet vaihtelevat yliopistoittain. Åbo Akademin laitos on painottunut tiedonhankinnan ja tietohallinnon tutkimukseen, Oulussa painopiste on informetriikassa ja arviointitutkimuksissa sekä tietohallinnossa ja tietojohtamisessa. Tampereella tutkimuksen ja opetuksen painopiste on perinteisesti ollut tiedonhaussa, tiedonhankinnassa sekä tieto- ja asiakirjahallinnossa. Tampereen yliopistossa informaatiotutkimuksen oppiaineeseen kytkeytyy myös interaktiivinen media, jonka painoalue on pelitutkimuksessa. Informaatiotutkimusta opiskelleet voivat työskennellä useissa ammateissa ja tehtävissä, esimerkiksi informaatikkona, kirjastonhoitajana, kirjastonjohtajana, tutkijana ja suunnittelijana. Usein työpaikat ovat kunnissa ja yliopistoissa. 
+      Yliopistojen lisäksi Oulun, Seinäjoen ja Turun ammattikorkeakoulut tarjoavat kirjasto- ja informaatioalan koulutusta. Jonkin verran on tarjolla myös ammatillista koulutusta.  
+      Lähteet 
+      
+       Haasio, Ari &amp; Savolainen, Reijo 2004. Tiedonhankintatutkimuksen perusteet. Helsinki: BTJ Kirjastopalvelu. 
+       Savolainen, Reijo 2010. Tiedonhankintatutkimuksen lähtökohtia. Teoksessa Sami Serola (toim.) Ote informaatiosta. Johdatus informaatiotutkimukseen ja interaktiiviseen mediaan. Helsinki: BTJ. s. 75 - 83 
+       Järvelin, Kalervo &amp; Sormunen, Eero 2010. Tiedon tallennus ja haku. Teoksessa Sami Serola (toim.) Ote informaatiosta. Johdatus informaatiotutkimukseen ja interaktiiviseen mediaan. Helsinki: BTJ. s.155 
+       Alaterä, Anu &amp; Halttunen, Kai 2002. Tiedonhaun perusteet. Helsinki: BTJ Kirjastopalvelu. s.14 - 15 
+       Järvelin, Kalervo 1995. Tekstitiedonhaku tietokannoista. Espoo: Suomen ATK-kustannus Oy. s. 25 
+       Valtonen, Marjo Rita &amp; Henttonen, Pekka 2010. Asiakirjatiedon hallinta. Teoksessa Sami Serola (toim.) Ote informaatiosta. Johdatus informaatiotutkimukseen ja interaktiiviseen mediaan. Helsinki: BTJ. 
+       Valtonen, Marjo Rita:&nbsp;Tapaustutkimus poliisin esitutkinnan dokumentoinnista: asiakirjahallinnan näkökulma. Helsinki: Arkistoyhdistys, 2005. ISBN 951-44-6480-X. Teoksen verkkoversio (pdf).  
+       Mäkinen, Ilkka 2007. "Informaatiotutkimus-lehti 25 vuotta: Suomalaisen informaatiotutkimuksen kehityspiirteitä ja menestyksen taustatekijöitä" Informaatiotutkimus Vol 26, Nro 2 http://ojs.tsv.fi/index.php/inf/article/view/2264/2102 
+       Mäkinen, Ilkka 2010. Informaatiotutkimuksen tie. Teoksessa Sami Serola (toim.) Ote informaatiosta. Johdatus informaatiotutkimukseen ja interaktiiviseen mediaan. Helsinki: BTJ. 
+       Kärki, Riitta 1999. Tieteellisen viestinnän tutkimus. Teoksessa Ilkka Mäkinen (toim.) Tiedon tie: Johdatus informaatiotutkimukseen. Helsinki: BTJ Kirjastopalvelu. 
+       Huotari, Marja-Leena 1999. Tietohallinto. Teoksessa Ilkka Mäkinen (toim.) Tiedon tie: Johdatus informaatiotutkimukseen. Helsinki: BTJ Kirjastopalvelu. 
+       http://www.uta.fi/sis/iti/esittely/index.html 
+       http://www.minedu.fi/OPM/Kirjastot/kirjastoalan_koulutus/?lang=fi 
+       Tutkinto-ohjelman esittely www.oulu.fi. 
+       
+      Viitteet 
+      
+        
+        ↑ Mäkinen 2010, s. 14  
+        ↑ Mäkinen 2010, s. 13  
+        ↑ Mäkinen 2010, s. 14-15  
+        ↑ Mäkinen 2010, s. 17  
+        ↑ Mäkinen 2010, s. 14, 17, 67-69  
+        ↑ Mäkinen 2010, s. 13  
+        ↑ Mäkinen 2010, s. 43-44  
+        ↑ Mäkinen 2010, s. 44  
+        ↑ Mäkinen 2010, s. 42  
+        ↑ Mäkinen 2010, s. 42  
+        ↑ Mäkinen 2010, s. 45  
+        ↑ Mäkinen 2010, s. 44  
+        ↑ Mäkinen 2010, s. 45  
+        ↑ Mäkinen 2010, s. 46  
+        ↑ Mäkinen 2010, s. 48  
+        ↑ Mäkinen 2010, s. 44  
+        ↑ Mäkinen 2010, s. 13-14  
+        ↑ Mäkinen 2007, s. 3  
+        ↑ Mäkinen 2007, s. 7  
+        ↑ Mäkinen 2010, s. 68  
+        ↑ Mäkinen 2010, s. 55  
+        ↑ Haasio &amp; Savolainen 2004  
+        ↑ Savolainen 2010  
+        ↑ Järvelin &amp; Sormunen 2010  
+        ↑ Alaterä &amp;Halttunen 2002  
+        ↑ Järvelin 1995  
+        ↑ Alaterä &amp; Halttunen 2002  
+        ↑ Huotari 1999  
+        ↑ Valtonen &amp; Henttonen 2010  
+        ↑ Valtonen 2005  
+        ↑ Valtonen &amp; Henttonen 2010  
+        ↑ Kärki 1999  
+        ↑ Mäkinen 2010  
+        ↑ Oulun yliopisto oulu.fi. Viitattu 13.12.2012.   
+        ↑ Tampereen yliopisto uta.fi. Viitattu 13.12.2012.   
+        ↑ Mäkinen 2010  
+        ↑ Tampereen yliopisto uta.fi. Viitattu 13.12.2012.   
+        ↑ Informaatiotutkimus: Mihin valmistuneet ovat sijoittuneet? töissä.fi. Viitattu 22.10.2014.   
+        ↑ Opetus- ja kulttuuriministeriö minedu.fi. Viitattu 13.12.2012.   
+        
+       
+      Aiheesta muualla 
+       
+       
+        
+         
+        
+        
+       
+        Wikimedia Commonsissa on kuvia tai muita tiedostoja aiheesta Informaatiotutkimus.
+       
+       
+      
+       Informaatiotutkimuksen yhdistys 
+       Informaatiotutkimus-lehden verkkojulkaisu
+          
+     
+     
+      
+      
+     
+      Noudettu kohteesta ”https://fi.wikipedia.org/w/index.php?title=Informaatiotutkimus&amp;oldid=19284180”
+     
+     
+    
+     
+      Luokka: 
+      
+       Informaatiotutkimus
+      
+     
+     
+      Piilotettu luokka: 
+      
+       Sivut, jotka käyttävät ISBN-taikalinkkejä
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigointivalikko 
+    
+     
+      Henkilökohtaiset työkalut  
+      
+      
+       Et ole kirjautunut
+       Keskustelu
+       Muokkaukset
+       Luo tunnus
+       Kirjaudu sisään
+       
+      
+     
+     
+      
+       Nimiavaruudet  
+       
+       
+        Artikkeli
+        Keskustelu
+        
+       
+      
+      
+       
+       Kirjoitusjärjestelmät expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Näkymät  
+       
+       
+        Lue
+        Muokkaa
+        Muokkaa wikitekstiä
+        Näytä historia
+        
+       
+      
+      
+       
+       Muut expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Haku  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Valikko  
+      
+      
+       Etusivu
+       Tietoja Wikipediasta
+       Kaikki sivut
+       Satunnainen artikkeli
+       
+      
+     
+     
+      Osallistuminen  
+      
+      
+       Ohje
+       Kahvihuone
+       Ajankohtaista
+       Tuoreet odottavat muutokset
+       Tuoreet muutokset
+       Lahjoitukset
+       
+      
+     
+     
+      Työkalut  
+      
+      
+       Tänne viittaavat sivut
+       Linkitettyjen sivujen muutokset
+       Toimintosivut
+       Ikilinkki
+       Sivun tiedot
+       Viitetiedot
+       Wikidata-kohde
+       
+      
+     
+     
+      Tulosta/vie  
+      
+      
+       Lataa PDF-tiedostona
+       Tulostettava versio
+       
+      
+     
+     
+      Muissa hankkeissa  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Muilla kielillä  
+      
+      
+       Afrikaans
+       العربية
+       Asturianu
+       Azərbaycanca
+       تۆرکجه
+       Bahasa Indonesia
+       Bahasa Melayu
+       Башҡортса
+       Български
+       Català
+       Čeština
+       Cymraeg
+       Dansk
+       Deutsch
+       Eesti
+       Ελληνικά
+       English
+       Español
+       Euskara
+       فارسی
+       Français
+       Galego
+       한국어
+       हिन्दी
+       עברית
+       ქართული
+       Latviešu
+       Lietuvių
+       Magyar
+       Македонски
+       Nederlands
+       日本語
+       Norsk bokmål
+       ਪੰਜਾਬੀ
+       Polski
+       Português
+       Română
+       Русский
+       Shqip
+       Slovenčina
+       Slovenščina
+       Српски / srpski
+       Srpskohrvatski / српскохрватски
+       Svenska
+       தமிழ்
+       ไทย
+       Tiếng Việt
+       Türkçe
+       Українська
+       اردو
+       粵語
+       中文
+       
+      
+       Muokkaa linkkejä
+       
+      
+     
+    
+   
+   
+    
+     Sivua on viimeksi muutettu 4. marraskuuta 2020 kello 23.40. 
+    Teksti on saatavilla Creative Commons Attribution/Share-Alike -lisenssillä; lisäehtoja voi sisältyä. Katso käyttöehdot. Wikipedia® on Wikimedia Foundationin rekisteröimä tavaramerkki. Ongelma artikkelissa? 
+    
+    
+    Tietosuojakäytäntö 
+    Tietoja Wikipediasta 
+    Vastuuvapaus 
+    Mobiilinäkymä 
+    Kehittäjät 
+    Tilastot 
+    Evästekäytäntö 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

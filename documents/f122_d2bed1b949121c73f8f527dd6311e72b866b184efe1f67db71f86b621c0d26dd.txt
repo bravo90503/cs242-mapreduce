@@ -1,0 +1,533 @@
+
+ 
+  
+   
+  Eugene Garfield - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Eugene Garfield 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+      
+       For the American lawyer, see Eugene K. Garfield.
+       
+      
+      
+       
+        
+         
+          
+           Eugene Garfield
+          
+        
+        
+         
+          
+           Eugene Garfield at the Heritage Day awards in 2007
+          
+        
+        
+         Born
+         
+          
+           Eugene Eli Garfinkle
+          (1925-09-16)September 16, 1925
+          
+           New York City, New York
+          
+        
+        
+         Died
+         February 26, 2017(2017-02-26) (aged&nbsp;91)
+          
+           Philadelphia, Pennsylvania
+          
+        
+        
+         Alma&nbsp;mater
+         
+          
+           
+            Columbia University
+            University of Pennsylvania
+           
+          
+        
+        
+         Known&nbsp;for
+         
+           
+           
+            Impact factor 
+            Bibliometrics 
+            Scientometrics 
+            Science Citation Index 
+            Institute for Scientific Information
+            
+          
+        
+        
+         Awards
+         
+           
+           
+            John Price Wetherill Medal (1984) 
+            Derek de Solla Price Memorial Medal (1984) 
+            Alice G. Smith Lecture (2003) 
+            Richard J. Bolte Sr. Award (2007)
+            
+          
+        
+        
+         
+          Scientific career
+        
+        
+         Thesis
+         An algorithm for translating chemical names to molecular formulas&nbsp;(1961)
+        
+        
+          
+        
+        
+         Website
+         garfield.library.upenn.edu
+        
+       
+       
+      Eugene Eli Garfield (September 16, 1925 – February 26, 2017) was an American linguist and businessman, one of the founders of bibliometrics and scientometrics. He helped to create Current Contents, Science Citation Index (SCI), Journal Citation Reports, and Index Chemicus, among others, and founded the magazine The Scientist.  
+      
+       
+       
+        Contents
+        
+        
+        1 Early life and education 
+        2 Career and research 
+        3 Honors and awards 
+        4 Criticism 
+        5 Personal life 
+        6 References 
+        7 External links 
+        
+       
+      Early life and education 
+      Garfield was born in 1925 in New York City as Eugene Eli Garfinkle, and was raised in a Lithuanian-Italian Jewish family. His parents were second generation immigrants living in East Bronx in New York City. He studied at the University of Colorado and University of California, Berkeley before getting a Bachelor of Science degree in chemistry from Columbia University in 1949. Garfield also received a degree in Library Science from Columbia University in 1953 He went on to do his PhD in the Department of Linguistics at the University of Pennsylvania, which he completed in 1961 for developing an algorithm for translating chemical nomenclature into chemical formulas.  
+      Career and research 
+      Working as a laboratory assistant at Columbia University after his graduation, Garfield indexed all previously synthesized compounds so that not to remake them, which helped him understand that his inclination to information towards science was bigger than towards chemistry. 
+      In 1951, he got a position at the Welch Medical Library at Johns Hopkins University in Baltimore, Maryland, where most of the National Library of Medicine information systems were developed. There he built search and cataloging system methods using punch-cards. In 1953, at the First Symposium on Machine Methods in Scientific Documentation, Garfield got introduced to Shepard's Citations. 
+      In 1956, Garfield founded the Institute for Scientific Information (ISI), which was located in Philadelphia, Pennsylvania. ISI formed a major part of the science division of Thomson Reuters. In October 2016 Thomson Reuters completed the sale of its intellectual property and science division; it is now known as Clarivate Analytics. 
+      Garfield was responsible for many innovative bibliographic products, including Current Contents, the Science Citation Index (SCI), and other citation databases, the Journal Citation Reports, and Index Chemicus. He was the founding editor and publisher of The Scientist, a news magazine for life scientists. In 2003, the University of South Florida School of Information was honored to have him as lecturer for the Alice G. Smith Lecture. In 2007, he launched HistCite, a bibliometric analysis and visualization software package. 
+      Following ideas inspired by Vannevar Bush's highly cited 1945 article As We May Think, Garfield undertook the development of a comprehensive citation index showing the propagation of scientific thinking; he started the Institute for Scientific Information in 1956 (it was sold to the Thomson Corporation in 1992). According to Garfield, "the citation index ... may help a historian to measure the influence of an article — that is, its 'impact factor'". The creation of the Science Citation Index made it possible to calculate impact factor, which ostensibly measures the importance of scientific journals. It led to the unexpected discovery that a few journals like Nature and Science were core for all of hard science. The same pattern does not happen with the humanities or the social sciences. 
+      His entrepreneurial flair in having turned what was, at least at the time, an obscure and specialist metric into a highly profitable business has been noted. 
+      Garfield's work led to the development of several information retrieval algorithms, like the HITS algorithm and PageRank. Both use the structured citation between websites through hyperlinks. Google co-founders Larry Page and Sergey Brin acknowledged Gene in their development of PageRank, the algorithm that powers their company's search engine. Garfield published over 1,000 essays.  
+      Honors and awards 
+      Garfield was awarded the John Price Wetherill Medal in 1984 and Derek de Solla Price Memorial Medal in 1984. He was also awarded the Richard J. Bolte Sr. Award in 2007. He was elected to the American Philosophical Society that same year. The Association for Library and Information Science Education has a fund for doctoral research through an award named after Garfield.  
+      Criticism 
+      Writing in Physiology News, No. 69, Winter 2007, David Colquhoun of the Department of Pharmacology, University College London, described the "impact factor," a method for comparing scholarly journals, as "the invention of Eugene Garfield, a man who has done enormous harm to true science." Colquhoun ridiculed C. Hoeffel's assertion that Garfield's impact factor "has the advantage of already being in existence and is, therefore, a good technique for scientific evaluation" by saying, "you can't get much dumber than that. It is a 'good technique' because it is already in existence? There is something better. Read the papers."  
+      Personal life 
+      Garfield is survived by a wife, three sons, a daughter, a step-daughter, two granddaughters, and two great-grandchildren.  
+      References 
+      
+       
+        
+        ^ a b Garfield, Eugene Eli (1961). An Algorithm for Translating Chemical Names to Molecular Formulas. proquest.com (PhD thesis). University of Pennsylvania. OCLC&nbsp;1132327.  
+        ^ a b c d 
+          "Scientometrics Pioneer Eugene Garfield Dies". The Scientist. February 27, 2017. Archived from the original on 2017-02-28.  
+        ^ 
+          "Founding Father of Clarivate Analytics' Web of Science, Dr. Eugene Garfield Dies at 91". PR Newswire. Feb 27, 2017. Retrieved 28 February 2017.  
+        ^ Garfield, Eugene, Blaise Cronin, and Helen Barsky Atkins.The Web of Knowledge: A Festschrift in Honor of Eugene Garfield. Medford, N.J.: Information Today, 2000.  
+        ^ 
+          Garfield, Eugene (1955). "Citation indexes for science...". Science. American Association for the Advancement of Science. 122 (3159): 108–111. Bibcode:1955Sci...122..108G. doi:10.1126/science.122.3159.108. PMID&nbsp;14385826. S2CID&nbsp;5902162. The concept of the Science Citation Index is first articulated.  
+        ^ 
+          Garfield, Eugene (September 16, 2005). The Agony and the Ecstasy—The History and Meaning of the Journal Impact Factor (PDF). International Congress on Peer Review and Biomedical Publication. Chicago. Retrieved 2011-05-09.  
+        ^ 
+          "History of Citation Indexing" (Available online). Thomson Reuters. October 15, 2010. Retrieved 2011-05-09. Dr. Eugene Garfield, founder and now Chairman Emeritus of ISI® (now Thomson Reuters), was deeply involved in the research relating to machine generated indexes in the mid-1950s and early 1960s  
+        ^ 
+          "Fifty Years of Citation Indexing and Analysis". Thomson Reuters. October 6, 2010. Archived from the original (Available online) on May 14, 2013. Retrieved May 9, 2011. Fifty years ago, on July 15, 1955, Eugene Garfield, Ph.D published his groundbreaking paper on citation indexing, "Citation Indexes for Science: A New Dimension in Documentation through Association of Ideas." This innovative paper envisioned information tools that allow researchers to expedite their research process, evaluate the impact of their work, spot scientific trends, and trace the history of modern scientific thoughts.  
+        ^ 
+          "Deeds and Dreams of Eugene Garfield" (PDF). University of Pennsylvania. Retrieved 16 October 2013.  
+        ^ 
+          World Encyclopedia of Library and Information Services. 1993. ISBN&nbsp;9780838906095. Retrieved 14 October 2013.  
+        ^ a b c d 
+          Wouters, Paul (2017-03-23). "Eugene Garfield (1925-2017)". Nature. 543 (7646): 492. Bibcode:2017Natur.543..492W. doi:10.1038/543492a. ISSN&nbsp;0028-0836. PMID&nbsp;28332532.  
+        ^ 
+          "Eugene Garfield Biography". infoplease.com.  
+        ^ 
+          Elmes, John (2017). "Citation analytics pioneer Eugene Garfield dies, aged 91". Times Higher Education. London. Archived from the original on 2017-03-02.  
+        ^ 
+          Cronin, Blaise (2000). The Web on Knowledge. Medford, NJ: ASIS. p.&nbsp;17. ISBN&nbsp;1-57387-099-4.  
+        ^ 
+          Garfield, Eugene (1962). "An Algorithm for Translating Chemical Names to Molecular Formulas". Journal of Chemical Documentation. 2 (3): 177–179. doi:10.1021/c160006a021. hdl:2027/mdp.39015028143462. ISSN&nbsp;0021-9576. S2CID&nbsp;14214942.  
+        ^ a b c 
+          Wiliams, Robert V. (July 29, 1997). Eugene Garfield, Transcript of an Interview Conducted by Robert V. Williams at Philadelphia, Pennsylvania on 29 July 1997 (PDF). Philadelphia, PA: Chemical Heritage Foundation.  
+        ^ 
+          "Acquisition of the Thomson Reuters Intellectual Property and Science Business by Onex and Baring Asia Completed". clarivate.com. Archived from the original on 2017-07-03. Retrieved 2017-03-02.  
+        ^ 
+          "Thomson Corporation acquired ISI". Online. July 1992. Archived from the original on 2013-05-15. Retrieved 2015-01-15.  
+        ^ 
+          Garfield E (1955). "Citation indexes for science: A new dimension in documentation through association of ideas". Science. 122 (3159): 108–11. Bibcode:1955Sci...122..108G. doi:10.1126/science.122.3159.108. PMID&nbsp;14385826. S2CID&nbsp;5902162.  
+        ^ 
+          Garfield E (2006). "The history and meaning of the journal impact factor". JAMA. 295 (1): 90–3. Bibcode:2006JAMA..295...90G. doi:10.1001/jama.295.1.90. PMID&nbsp;16391221. S2CID&nbsp;31183037.  
+        ^ 
+          Buranyi, Stephen (27 June 2017). "Is the staggeringly profitable business of scientific publishing bad for science?". The Guardian. Retrieved 15 September 2017.  
+        ^ 
+          Goodall, Amanda; Oswald, Andrew (October 9, 2014). "Do the social sciences need a shake-up?". THE World University Rankings. Retrieved 15 September 2017.  
+        ^ a b 
+          Gallagher, Richard (2017). "Eugene Garfield – 1925-2017 – a life of impact". annualreviewsnews.org. Archived from the original on 2017-02-28.  
+        ^ 
+          "Derek de Solla Price Memorial Medal".  
+        ^ 
+          "Richard J. Bolte Sr. Award for Supporting Industries". Science History Institute. 2016-05-31. Retrieved 6 February 2018.  
+        ^ 
+          "APS Member History". search.amphilsoc.org. Retrieved 2021-05-14.  
+        ^ 
+          "Eugene Garfield tells his life story (video)". webofstories.com.  
+       
+       
+      External links 
+      
+       
+        Center for Oral History. "Eugene Garfield". Science History Institute. 
+       
+        Wiliams, Robert V. (July 29, 1997). Eugene Garfield, Transcript of an Interview Conducted by Robert V. Williams at Philadelphia, Pennsylvania on 29 July 1997 (PDF). Philadelphia, PA: Chemical Heritage Foundation. 
+       
+        Garfield, Eugene (1962–1993). Essays of an Information Scientist vol. 1-15 (open access). ISI Press.}: CS1 maint: date format (link)
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          General
+          
+            
+            
+             ISNI 
+              
+               1
+               
+             VIAF 
+              
+               1
+               
+             WorldCat
+             
+           
+         
+         
+          National libraries
+          
+            
+            
+             Germany 
+             United States 
+             Czech Republic 
+             Netherlands 
+             Poland 
+             Vatican
+             
+           
+         
+         
+          Scientific databases
+          
+            
+            
+             DBLP (computer science)
+             
+           
+         
+         
+          Other
+          
+            
+            
+             Faceted Application of Subject Terminology 
+             Social Networks and Archival Context 
+             SUDOC (France) 
+              
+               1
+              
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Eugene_Garfield&amp;oldid=1067542692"
+     
+     
+    
+     
+      Categories: 
+      
+       1925 births
+       American people of Lithuanian-Jewish descent
+       Bibliometricians
+       2017 deaths
+       University of South Florida faculty
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with hCards
+       CS1 maint: date format
+       Articles with ISNI identifiers
+       Articles with VIAF identifiers
+       Articles with WORLDCATID identifiers
+       Articles with GND identifiers
+       Articles with LCCN identifiers
+       Articles with NKC identifiers
+       Articles with NTA identifiers
+       Articles with PLWABN identifiers
+       Articles with VcBA identifiers
+       Articles with DBLP identifiers
+       Articles with FAST identifiers
+       Articles with SNAC-ID identifiers
+       Articles with SUDOC identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       تۆرکجه
+       Български
+       Català
+       Čeština
+       Deutsch
+       Ελληνικά
+       Español
+       فارسی
+       Français
+       Italiano
+       مصرى
+       Nederlands
+       Português
+       Русский
+       Simple English
+       Suomi
+       Türkçe
+       Українська
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 24 January 2022, at 01:31&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

@@ -1,0 +1,2035 @@
+
+ 
+  
+   
+  Information security - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Information security 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+    
+     &nbsp;&nbsp;(Redirected from Information Security)
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Protecting information by mitigating information risks
+       
+      
+      
+       
+        
+         Part of a series on
+        
+        
+         Information security
+        
+        
+         
+          
+           
+            
+           
+          
+        
+        
+          Related security categories
+        
+        
+          
+          
+           Computer security 
+           Automotive security 
+           Cybercrime 
+            
+             Cybersex trafficking 
+             Computer fraud
+             
+           Cybergeddon 
+           Cyberterrorism 
+           Cyberwarfare 
+           Electronic warfare 
+           Information warfare 
+           Internet security 
+           Mobile security 
+           Network security 
+           Copy protection 
+           Digital rights management
+           
+        
+        
+          Threats
+        
+        
+          
+          
+           Adware 
+           Advanced persistent threat 
+           Arbitrary code execution 
+           Backdoors 
+           Hardware backdoors 
+           Code injection 
+           Crimeware 
+           Cross-site scripting 
+           Cryptojacking malware 
+           Botnets 
+           Data breach 
+           Drive-by download 
+           browser helper objects 
+           Computer crime 
+           Viruses 
+           Data scraping 
+           Denial of service 
+           Eavesdropping 
+           Email fraud 
+           Email spoofing 
+           Exploits 
+           Keyloggers 
+           Logic bombs 
+           Time bombs 
+           Fork bombs 
+           Zip bombs 
+           Fraudulent dialers 
+           Malware 
+           Payload 
+           Phishing 
+           Polymorphic engine 
+           Privilege escalation 
+           Ransomware 
+           Rootkits 
+           Bootkits 
+           Scareware 
+           Shellcode 
+           Spamming 
+           Social engineering (security) 
+           Screen scraping 
+           Spyware 
+           Software bugs 
+           Trojan horses 
+           Hardware Trojans 
+           Remote access trojans 
+           Vulnerability 
+           Web shells 
+           Wiper 
+           Worms 
+           SQL injection 
+           Rogue security software 
+           Zombie
+           
+        
+        
+          Defenses
+        
+        
+          
+          
+           Application security 
+            
+             Secure coding 
+             Secure by default 
+             Secure by design 
+              
+               Misuse case
+              
+             
+           Computer access control 
+            
+             Authentication 
+              
+               Multi-factor authentication
+               
+             Authorization
+             
+           Computer security software 
+            
+             Antivirus software 
+             Security-focused operating system
+             
+           Data-centric security 
+           Code obfuscation 
+           Data masking 
+           Encryption 
+           Firewall 
+           Intrusion detection system 
+            
+             Host-based intrusion detection system (HIDS) 
+             Anomaly detection
+             
+           Security information and event management (SIEM) 
+           Mobile secure gateway 
+           Runtime application self-protection
+           
+        
+        
+         
+          
+           
+            v
+            t
+            e
+           
+          
+        
+       
+       
+      Information security, sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or reducing the probability of unauthorized/inappropriate access to data, or the unlawful use, disclosure, disruption, deletion, corruption, modification, inspection, recording, or devaluation of information. It also involves actions intended to reduce the adverse impacts of such incidents. Protected information may take any form, e.g. electronic or physical, tangible (e.g. paperwork) or intangible (e.g. knowledge). Information security's primary focus is the balanced protection of the confidentiality, integrity, and availability of data (also known as the CIA triad) while maintaining a focus on efficient policy implementation, all without hampering organization productivity. This is largely achieved through a structured risk management process that involves:  
+      
+       identifying information and related assets, plus potential threats, vulnerabilities, and impacts; 
+       evaluating the risks; 
+       deciding how to address or treat the risks i.e. to avoid, mitigate, share or accept them; 
+       where risk mitigation is required, selecting or designing appropriate security controls and implementing them; 
+       monitoring the activities, making adjustments as necessary to address any issues, changes and improvement opportunities.
+       
+      To standardize this discipline, academics and professionals collaborate to offer guidance, policies, and industry standards on password, antivirus software, firewall, encryption software, legal liability, security awareness and training, and so forth. This standardization may be further driven by a wide variety of laws and regulations that affect how data is accessed, processed, stored, transferred and destroyed. However, the implementation of any standards and guidance within an entity may have limited effect if a culture of continual improvement isn't adopted.  
+      
+       
+       
+        Contents
+        
+        
+        1 Definition 
+        2 Overview 
+          
+          2.1 Threats 
+            
+            2.1.1 Responses to threats 
+             
+           
+        3 History 
+        4 Basic principles 
+          
+          4.1 Key concepts 
+            
+            4.1.1 Confidentiality 
+            4.1.2 Integrity 
+            4.1.3 Availability 
+            4.1.4 Non-repudiation 
+             
+           
+        5 Risk management 
+          
+          5.1 Security controls 
+            
+            5.1.1 Administrative 
+            5.1.2 Logical 
+            5.1.3 Physical 
+             
+          5.2 Defense in depth 
+          5.3 Classification 
+          5.4 Access control 
+            
+            5.4.1 Identification 
+            5.4.2 Authentication 
+            5.4.3 Authorization 
+             
+          5.5 Cryptography 
+           
+        6 Process 
+          
+          6.1 Security governance 
+          6.2 Incident response plans 
+            
+            6.2.1 Preparation 
+            6.2.2 Identification 
+            6.2.3 Containment 
+            6.2.4 Eradication 
+            6.2.5 Recovery 
+            6.2.6 Lessons Learned 
+             
+          6.3 Change management 
+           
+        7 Business continuity 
+        8 Laws and regulations 
+        9 Culture 
+        10 Sources of standards 
+        11 See also 
+        12 References 
+        13 Further reading 
+          
+          13.1 Bibliography 
+           
+        14 External links 
+        
+       
+      Definition 
+      
+       
+         
+        
+         
+          
+         Information Security Attributes: or qualities, i.e., Confidentiality, Integrity and Availability (CIA). Information Systems are composed in three main portions, hardware, software and communications with the purpose to help identify and apply information security industry standards, as mechanisms of protection and prevention, at three levels or layers: physical, personal and organizational. Essentially, procedures or policies are implemented to tell administrators, users and operators how to use products to ensure information security within the organizations.
+        
+       
+       
+      Various definitions of information security are suggested below, summarized from different sources:  
+      
+       "Preservation of confidentiality, integrity and availability of information. Note: In addition, other properties, such as authenticity, accountability, non-repudiation and reliability can also be involved." (ISO/IEC 27000:2009) 
+       "The protection of information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide confidentiality, integrity, and availability." (CNSS, 2010) 
+       "Ensures that only authorized users (confidentiality) have access to accurate and complete information (integrity) when required (availability)." (ISACA, 2008) 
+       "Information Security is the process of protecting the intellectual property of an organisation." (Pipkin, 2000) 
+       "...information security is a risk management discipline, whose job is to manage the cost of information risk to the business." (McDermott and Geer, 2001) 
+       "A well-informed sense of assurance that information risks and controls are in balance." (Anderson, J., 2003) 
+       "Information security is the protection of information and minimizes the risk of exposing information to unauthorized parties." (Venter and Eloff, 2003) 
+       "Information Security is a multidisciplinary area of study and professional activity which is concerned with the development and implementation of security mechanisms of all available types (technical, organizational, human-oriented and legal) in order to keep information in all its locations (within and outside the organization's perimeter) and, consequently, information systems, where information is created, processed, stored, transmitted and destroyed, free from threats. Threats to information and information systems may be categorized and a corresponding security goal may be defined for each category of threats. A set of security goals, identified as a result of a threat analysis, should be revised periodically to ensure its adequacy and conformance with the evolving environment. The currently relevant set of security goals may include: confidentiality, integrity, availability, privacy, authenticity &amp; trustworthiness, non-repudiation, accountability and auditability." (Cherdantseva and Hilton, 2013) 
+       Information and information resource security using telecommunication system or devices means protecting information, information systems or books from unauthorized access, damage, theft, or destruction (Kurose and Ross, 2010).
+       
+      Overview 
+      At the core of information security is information assurance, the act of maintaining the confidentiality, integrity, and availability (CIA) of information, ensuring that information is not compromised in any way when critical issues arise. These issues include but are not limited to natural disasters, computer/server malfunction, and physical theft. While paper-based business operations are still prevalent, requiring their own set of information security practices, enterprise digital initiatives are increasingly being emphasized, with information assurance now typically being dealt with by information technology (IT) security specialists. These specialists apply information security to technology (most often some form of computer system). It is worthwhile to note that a computer does not necessarily mean a home desktop. A computer is any device with a processor and some memory. Such devices can range from non-networked standalone devices as simple as calculators, to networked mobile computing devices such as smartphones and tablet computers. IT security specialists are almost always found in any major enterprise/establishment due to the nature and value of the data within larger businesses. They are responsible for keeping all of the technology within the company secure from malicious cyber attacks that often attempt to acquire critical private information or gain control of the internal systems. 
+      The field of information security has grown and evolved significantly in recent years. It offers many areas for specialization, including securing networks and allied infrastructure, securing applications and databases, security testing, information systems auditing, business continuity planning, electronic record discovery, and digital forensics. Information security professionals are very stable in their employment. As of 2013 more than 80 percent of professionals had no change in employer or employment over a period of a year, and the number of professionals is projected to continuously grow more than 11 percent annually from 2014 to 2019.  
+      Threats 
+      Information security threats come in many different forms. Some of the most common threats today are software attacks, theft of intellectual property, theft of identity, theft of equipment or information, sabotage, and information extortion. Most people have experienced software attacks of some sort. Viruses, worms, phishing attacks, and Trojan horses are a few common examples of software attacks. The theft of intellectual property has also been an extensive issue for many businesses in the information technology (IT) field. Identity theft is the attempt to act as someone else usually to obtain that person's personal information or to take advantage of their access to vital information through social engineering. Theft of equipment or information is becoming more prevalent today due to the fact that most devices today are mobile, are prone to theft and have also become far more desirable as the amount of data capacity increases. Sabotage usually consists of the destruction of an organization's website in an attempt to cause loss of confidence on the part of its customers. Information extortion consists of theft of a company's property or information as an attempt to receive a payment in exchange for returning the information or property back to its owner, as with ransomware. There are many ways to help protect yourself from some of these attacks but one of the most functional precautions is conduct periodical user awareness. The number one threat to any organisation are users or internal employees, they are also called insider threats. 
+      Governments, military, corporations, financial institutions, hospitals, non-profit organisations, and private businesses amass a great deal of confidential information about their employees, customers, products, research, and financial status. Should confidential information about a business' customers or finances or new product line fall into the hands of a competitor or a black hat hacker, a business and its customers could suffer widespread, irreparable financial loss, as well as damage to the company's reputation. From a business perspective, information security must be balanced against cost; the Gordon-Loeb Model provides a mathematical economic approach for addressing this concern. 
+      For the individual, information security has a significant effect on privacy, which is viewed very differently in various cultures.  
+      Responses to threats 
+      Possible responses to a security threat or risk are:  
+      
+       reduce/mitigate – implement safeguards and countermeasures to eliminate vulnerabilities or block threats 
+       assign/transfer – place the cost of the threat onto another entity or organization such as purchasing insurance or outsourcing 
+       accept – evaluate if the cost of the countermeasure outweighs the possible cost of loss due to the threat
+       
+      History 
+      Since the early days of communication, diplomats and military commanders understood that it was necessary to provide some mechanism to protect the confidentiality of correspondence and to have some means of detecting tampering. Julius Caesar is credited with the invention of the Caesar cipher c. 50 B.C., which was created in order to prevent his secret messages from being read should a message fall into the wrong hands. However, for the most part protection was achieved through the application of procedural handling controls. Sensitive information was marked up to indicate that it should be protected and transported by trusted persons, guarded and stored in a secure environment or strong box. As postal services expanded, governments created official organizations to intercept, decipher, read, and reseal letters (e.g., the U.K.'s Secret Office, founded in 1653). 
+      In the mid-nineteenth century more complex classification systems were developed to allow governments to manage their information according to the degree of sensitivity. For example, the British Government codified this, to some extent, with the publication of the Official Secrets Act in 1889. Section 1 of the law concerned espionage and unlawful disclosures of information, while Section 2 dealt with breaches of official trust. A public interest defense was soon added to defend disclosures in the interest of the state. A similar law was passed in India in 1889, The Indian Official Secrets Act, which was associated with the British colonial era and used to crack down on newspapers that opposed the Raj's policies. A newer version was passed in 1923 that extended to all matters of confidential or secret information for governance. By the time of the First World War, multi-tier classification systems were used to communicate information to and from various fronts, which encouraged greater use of code making and breaking sections in diplomatic and military headquarters. Encoding became more sophisticated between the wars as machines were employed to scramble and unscramble information. 
+      The establishment of computer security inaugurated the history of information security. The need for such appeared during World War II. The volume of information shared by the Allied countries during the Second World War necessitated formal alignment of classification systems and procedural controls. An arcane range of markings evolved to indicate who could handle documents (usually officers rather than enlisted troops) and where they should be stored as increasingly complex safes and storage facilities were developed. The Enigma Machine, which was employed by the Germans to encrypt the data of warfare and was successfully decrypted by Alan Turing, can be regarded as a striking example of creating and using secured information. Procedures evolved to ensure documents were destroyed properly, and it was the failure to follow these procedures which led to some of the greatest intelligence coups of the war (e.g., the capture of U-570). 
+      Various Mainframe computers were connected online during the Cold War to complete more sophisticated tasks, in a communication process easier than mailing magnetic tapes back and forth by computer centers. As such, the Advanced Research Projects Agency (ARPA), of the United States Department of Defense, started researching the feasibility of a networked system of communication to trade information within the United States Armed Forces. In 1968, the ARPANET project was formulated by Dr. Larry Roberts, which would later evolve into what is known as the internet. 
+      In 1973, important elements of ARPANET security were found by internet pioneer Robert Metcalfe to have many flaws such as the: "vulnerability of password structure and formats; lack of safety procedures for dial-up connections; and nonexistent user identification and authorizations", aside from the lack of controls and safeguards to keep data safe from unauthorized access. Hackers had effortless access to ARPANET, as phone numbers were known by the public. Due to these problems, coupled with the constant violation of computer security, as well as the exponential increase in the number of hosts and users of the system, "network security" was often alluded to as "network insecurity". 
+      The end of the twentieth century and the early years of the twenty-first century saw rapid advancements in telecommunications, computing hardware and software, and data encryption. The availability of smaller, more powerful, and less expensive computing equipment made electronic data processing within the reach of small business and home users. The establishment of Transfer Control Protocol/Internetwork Protocol (TCP/IP) in the early 1980s enabled different types of computers to communicate. These computers quickly became interconnected through the internet. 
+      The rapid growth and widespread use of electronic data processing and electronic business conducted through the internet, along with numerous occurrences of international terrorism, fueled the need for better methods of protecting the computers and the information they store, process, and transmit. The academic disciplines of computer security and information assurance emerged along with numerous professional organizations, all sharing the common goals of ensuring the security and reliability of information systems.  
+      Basic principles 
+      Key concepts 
+      
+       
+         
+        
+         
+          
+         Poster promoting information security by the Russian Ministry of Defence
+        
+       
+       
+      The CIA triad of confidentiality, integrity, and availability is at the heart of information security. (The members of the classic InfoSec triad—confidentiality, integrity, and availability—are interchangeably referred to in the literature as security attributes, properties, security goals, fundamental aspects, information criteria, critical information characteristics and basic building blocks.) However, debate continues about whether or not this CIA triad is sufficient to address rapidly changing technology and business requirements, with recommendations to consider expanding on the intersections between availability and confidentiality, as well as the relationship between security and privacy. Other principles such as "accountability" have sometimes been proposed; it has been pointed out that issues such as non-repudiation do not fit well within the three core concepts. 
+      The triad seems to have first been mentioned in a NIST publication in 1977. 
+      In 1992 and revised in 2002, the OECD's Guidelines for the Security of Information Systems and Networks proposed the nine generally accepted principles: awareness, responsibility, response, ethics, democracy, risk assessment, security design and implementation, security management, and reassessment. Building upon those, in 2004 the NIST's Engineering Principles for Information Technology Security proposed 33 principles. From each of these derived guidelines and practices. 
+      In 1998, Donn Parker proposed an alternative model for the classic CIA triad that he called the six atomic elements of information. The elements are confidentiality, possession, integrity, authenticity, availability, and utility. The merits of the Parkerian Hexad are a subject of debate amongst security professionals. 
+      In 2011, The Open Group published the information security management standard O-ISM3. This standard proposed an operational definition of the key concepts of security, with elements called "security objectives", related to access control (9), availability (3), data quality (1), compliance, and technical (4). In 2009, DoD Software Protection Initiative released the Three Tenets of Cybersecurity which are System Susceptibility, Access to the Flaw, and Capability to Exploit the Flaw. Neither of these models are widely adopted.  
+      Confidentiality 
+      In information security, confidentiality "is the property, that information is not made available or disclosed to unauthorized individuals, entities, or processes." While similar to "privacy," the two words are not interchangeable. Rather, confidentiality is a component of privacy that implements to protect our data from unauthorized viewers. Examples of confidentiality of electronic data being compromised include laptop theft, password theft, or sensitive emails being sent to the incorrect individuals.  
+      Integrity 
+      In IT security, data integrity means maintaining and assuring the accuracy and completeness of data over its entire lifecycle. This means that data cannot be modified in an unauthorized or undetected manner. This is not the same thing as referential integrity in databases, although it can be viewed as a special case of consistency as understood in the classic ACID model of transaction processing. Information security systems typically incorporate controls to ensure their own integrity, in particular protecting the kernel or core functions against both deliberate and accidental threats. Multi-purpose and multi-user computer systems aim to compartmentalize the data and processing such that no user or process can adversely impact another: the controls may not succeed however, as we see in incidents such as malware infections, hacks, data theft, fraud, and privacy breaches. 
+      More broadly, integrity is an information security principle that involves human/social, process, and commercial integrity, as well as data integrity. As such it touches on aspects such as credibility, consistency, truthfulness, completeness, accuracy, timeliness, and assurance.  
+      Availability 
+      For any information system to serve its purpose, the information must be available when it is needed. This means the computing systems used to store and process the information, the security controls used to protect it, and the communication channels used to access it must be functioning correctly. High availability systems aim to remain available at all times, preventing service disruptions due to power outages, hardware failures, and system upgrades. Ensuring availability also involves preventing denial-of-service attacks, such as a flood of incoming messages to the target system, essentially forcing it to shut down. 
+      In the realm of information security, availability can often be viewed as one of the most important parts of a successful information security program. Ultimately end-users need to be able to perform job functions; by ensuring availability an organization is able to perform to the standards that an organization's stakeholders expect. This can involve topics such as proxy configurations, outside web access, the ability to access shared drives and the ability to send emails. Executives oftentimes do not understand the technical side of information security and look at availability as an easy fix, but this often requires collaboration from many different organizational teams, such as network operations, development operations, incident response, and policy/change management. A successful information security team involves many different key roles to mesh and align for the CIA triad to be provided effectively.  
+      Non-repudiation 
+      In law, non-repudiation implies one's intention to fulfill their obligations to a contract. It also implies that one party of a transaction cannot deny having received a transaction, nor can the other party deny having sent a transaction. 
+      It is important to note that while technology such as cryptographic systems can assist in non-repudiation efforts, the concept is at its core a legal concept transcending the realm of technology. It is not, for instance, sufficient to show that the message matches a digital signature signed with the sender's private key, and thus only the sender could have sent the message, and nobody else could have altered it in transit (data integrity). The alleged sender could in return demonstrate that the digital signature algorithm is vulnerable or flawed, or allege or prove that his signing key has been compromised. The fault for these violations may or may not lie with the sender, and such assertions may or may not relieve the sender of liability, but the assertion would invalidate the claim that the signature necessarily proves authenticity and integrity. As such, the sender may repudiate the message (because authenticity and integrity are pre-requisites for non-repudiation).  
+      Risk management 
+      
+      
+       Main article: Risk management
+       
+      Broadly speaking, risk is the likelihood that something bad will happen that causes harm to an informational asset (or the loss of the asset). A vulnerability is a weakness that could be used to endanger or cause harm to an informational asset. A threat is anything (man-made or act of nature) that has the potential to cause harm. The likelihood that a threat will use a vulnerability to cause harm creates a risk. When a threat does use a vulnerability to inflict harm, it has an impact. In the context of information security, the impact is a loss of availability, integrity, and confidentiality, and possibly other losses (lost income, loss of life, loss of real property). 
+      The Certified Information Systems Auditor (CISA) Review Manual 2006 defines risk management as "the process of identifying vulnerabilities and threats to the information resources used by an organization in achieving business objectives, and deciding what countermeasures, if any, to take in reducing risk to an acceptable level, based on the value of the information resource to the organization." 
+      There are two things in this definition that may need some clarification. First, the process of risk management is an ongoing, iterative process. It must be repeated indefinitely. The business environment is constantly changing and new threats and vulnerabilities emerge every day. Second, the choice of countermeasures (controls) used to manage risks must strike a balance between productivity, cost, effectiveness of the countermeasure, and the value of the informational asset being protected. Furthermore, these processes have limitations as security breaches are generally rare and emerge in a specific context which may not be easily duplicated. Thus, any process and countermeasure should itself be evaluated for vulnerabilities. It is not possible to identify all risks, nor is it possible to eliminate all risk. The remaining risk is called "residual risk." 
+      A risk assessment is carried out by a team of people who have knowledge of specific areas of the business. Membership of the team may vary over time as different parts of the business are assessed. The assessment may use a subjective qualitative analysis based on informed opinion, or where reliable dollar figures and historical information is available, the analysis may use quantitative analysis. 
+      Research has shown that the most vulnerable point in most information systems is the human user, operator, designer, or other human. The ISO/IEC 27002:2005 Code of practice for information security management recommends the following be examined during a risk assessment:  
+      
+       security policy, 
+       organization of information security, 
+       asset management, 
+       human resources security, 
+       physical and environmental security, 
+       communications and operations management, 
+       access control, 
+       information systems acquisition, development, and maintenance, 
+       information security incident management, 
+       business continuity management 
+       regulatory compliance.
+       
+      In broad terms, the risk management process consists of:  
+      
+       Identification of assets and estimating their value. Include: people, buildings, hardware, software, data (electronic, print, other), supplies. 
+       Conduct a threat assessment. Include: Acts of nature, acts of war, accidents, malicious acts originating from inside or outside the organization. 
+       Conduct a vulnerability assessment, and for each vulnerability, calculate the probability that it will be exploited. Evaluate policies, procedures, standards, training, physical security, quality control, technical security. 
+       Calculate the impact that each threat would have on each asset. Use qualitative analysis or quantitative analysis. 
+       Identify, select and implement appropriate controls. Provide a proportional response. Consider productivity, cost effectiveness, and value of the asset. 
+       Evaluate the effectiveness of the control measures. Ensure the controls provide the required cost effective protection without discernible loss of productivity.
+       
+      For any given risk, management can choose to accept the risk based upon the relative low value of the asset, the relative low frequency of occurrence, and the relative low impact on the business. Or, leadership may choose to mitigate the risk by selecting and implementing appropriate control measures to reduce the risk. In some cases, the risk can be transferred to another business by buying insurance or outsourcing to another business. The reality of some risks may be disputed. In such cases leadership may choose to deny the risk.  
+      Security controls 
+      
+      
+       Main article: security controls
+       
+      Selecting and implementing proper security controls will initially help an organization bring down risk to acceptable levels. Control selection should follow and should be based on the risk assessment. Controls can vary in nature, but fundamentally they are ways of protecting the confidentiality, integrity or availability of information. ISO/IEC 27001 has defined controls in different areas. Organizations can implement additional controls according to requirement of the organization. ISO/IEC 27002 offers a guideline for organizational information security standards.  
+      Administrative 
+      Administrative controls (also called procedural controls) consist of approved written policies, procedures, standards, and guidelines. Administrative controls form the framework for running the business and managing people. They inform people on how the business is to be run and how day-to-day operations are to be conducted. Laws and regulations created by government bodies are also a type of administrative control because they inform the business. Some industry sectors have policies, procedures, standards, and guidelines that must be followed – the Payment Card Industry Data Security Standard (PCI DSS) required by Visa and MasterCard is such an example. Other examples of administrative controls include the corporate security policy, password policy, hiring policies, and disciplinary policies. 
+      Administrative controls form the basis for the selection and implementation of logical and physical controls. Logical and physical controls are manifestations of administrative controls, which are of paramount importance.  
+      Logical 
+      Logical controls (also called technical controls) use software and data to monitor and control access to information and computing systems. Passwords, network and host-based firewalls, network intrusion detection systems, access control lists, and data encryption are examples of logical controls. 
+      An important logical control that is frequently overlooked is the principle of least privilege, which requires that an individual, program or system process not be granted any more access privileges than are necessary to perform the task. A blatant example of the failure to adhere to the principle of least privilege is logging into Windows as user Administrator to read email and surf the web. Violations of this principle can also occur when an individual collects additional access privileges over time. This happens when employees' job duties change, employees are promoted to a new position, or employees are transferred to another department. The access privileges required by their new duties are frequently added onto their already existing access privileges, which may no longer be necessary or appropriate.  
+      Physical 
+      Physical controls monitor and control the environment of the work place and computing facilities. They also monitor and control access to and from such facilities and include doors, locks, heating and air conditioning, smoke and fire alarms, fire suppression systems, cameras, barricades, fencing, security guards, cable locks, etc. Separating the network and workplace into functional areas are also physical controls. 
+      An important physical control that is frequently overlooked is separation of duties, which ensures that an individual can not complete a critical task by himself. For example, an employee who submits a request for reimbursement should not also be able to authorize payment or print the check. An applications programmer should not also be the server administrator or the database administrator; these roles and responsibilities must be separated from one another.  
+      Defense in depth 
+      
+       
+         
+        
+         
+          
+         The onion model of defense in depth
+        
+       
+       
+      
+      
+       Main article: Defense in depth (computing)
+       
+      Information security must protect information throughout its lifespan, from the initial creation of the information on through to the final disposal of the information. The information must be protected while in motion and while at rest. During its lifetime, information may pass through many different information processing systems and through many different parts of information processing systems. There are many different ways the information and information systems can be threatened. To fully protect the information during its lifetime, each component of the information processing system must have its own protection mechanisms. The building up, layering on, and overlapping of security measures is called "defense in depth." In contrast to a metal chain, which is famously only as strong as its weakest link, the defense in depth strategy aims at a structure where, should one defensive measure fail, other measures will continue to provide protection. 
+      Recall the earlier discussion about administrative controls, logical controls, and physical controls. The three types of controls can be used to form the basis upon which to build a defense in depth strategy. With this approach, defense in depth can be conceptualized as three distinct layers or planes laid one on top of the other. Additional insight into defense in depth can be gained by thinking of it as forming the layers of an onion, with data at the core of the onion, people the next outer layer of the onion, and network security, host-based security, and application security forming the outermost layers of the onion. Both perspectives are equally valid, and each provides valuable insight into the implementation of a good defense in depth strategy.  
+      Classification 
+      An important aspect of information security and risk management is recognizing the value of information and defining appropriate procedures and protection requirements for the information. Not all information is equal and so not all information requires the same degree of protection. This requires information to be assigned a security classification. The first step in information classification is to identify a member of senior management as the owner of the particular information to be classified. Next, develop a classification policy. The policy should describe the different classification labels, define the criteria for information to be assigned a particular label, and list the required security controls for each classification. 
+      Some factors that influence which classification information should be assigned include how much value that information has to the organization, how old the information is and whether or not the information has become obsolete. Laws and other regulatory requirements are also important considerations when classifying information. The Information Systems Audit and Control Association (ISACA) and its Business Model for Information Security also serves as a tool for security professionals to examine security from a systems perspective, creating an environment where security can be managed holistically, allowing actual risks to be addressed. 
+      The type of information security classification labels selected and used will depend on the nature of the organization, with examples being:  
+      
+       In the business sector, labels such as: Public, Sensitive, Private, Confidential. 
+       In the government sector, labels such as: Unclassified, Unofficial, Protected, Confidential, Secret, Top Secret, and their non-English equivalents. 
+       In cross-sectoral formations, the Traffic Light Protocol, which consists of: White, Green, Amber, and Red.
+       
+      All employees in the organization, as well as business partners, must be trained on the classification schema and understand the required security controls and handling procedures for each classification. The classification of a particular information asset that has been assigned should be reviewed periodically to ensure the classification is still appropriate for the information and to ensure the security controls required by the classification are in place and are followed in their right procedures.  
+      Access control 
+      Access to protected information must be restricted to people who are authorized to access the information. The computer programs, and in many cases the computers that process the information, must also be authorized. This requires that mechanisms be in place to control the access to protected information. The sophistication of the access control mechanisms should be in parity with the value of the information being protected; the more sensitive or valuable the information the stronger the control mechanisms need to be. The foundation on which access control mechanisms are built start with identification and authentication. 
+      Access control is generally considered in three steps: identification, authentication, and authorization.  
+      Identification 
+      Identification is an assertion of who someone is or what something is. If a person makes the statement "Hello, my name is John Doe" they are making a claim of who they are. However, their claim may or may not be true. Before John Doe can be granted access to protected information it will be necessary to verify that the person claiming to be John Doe really is John Doe. Typically the claim is in the form of a username. By entering that username you are claiming "I am the person the username belongs to".  
+      Authentication 
+      Authentication is the act of verifying a claim of identity. When John Doe goes into a bank to make a withdrawal, he tells the bank teller he is John Doe, a claim of identity. The bank teller asks to see a photo ID, so he hands the teller his driver's license. The bank teller checks the license to make sure it has John Doe printed on it and compares the photograph on the license against the person claiming to be John Doe. If the photo and name match the person, then the teller has authenticated that John Doe is who he claimed to be. Similarly, by entering the correct password, the user is providing evidence that he/she is the person the username belongs to. 
+      There are three different types of information that can be used for authentication:  
+      
+       Something you know: things such as a PIN, a password, or your mother's maiden name 
+       Something you have: a driver's license or a magnetic swipe card 
+       Something you are: biometrics, including palm prints, fingerprints, voice prints, and retina (eye) scans
+       
+      Strong authentication requires providing more than one type of authentication information (two-factor authentication). The username is the most common form of identification on computer systems today and the password is the most common form of authentication. Usernames and passwords have served their purpose, but they are increasingly inadequate. Usernames and passwords are slowly being replaced or supplemented with more sophisticated authentication mechanisms such as Time-based One-time Password algorithms.  
+      Authorization 
+      After a person, program or computer has successfully been identified and authenticated then it must be determined what informational resources they are permitted to access and what actions they will be allowed to perform (run, view, create, delete, or change). This is called authorization. Authorization to access information and other computing services begins with administrative policies and procedures. The policies prescribe what information and computing services can be accessed, by whom, and under what conditions. The access control mechanisms are then configured to enforce these policies. Different computing systems are equipped with different kinds of access control mechanisms. Some may even offer a choice of different access control mechanisms. The access control mechanism a system offers will be based upon one of three approaches to access control, or it may be derived from a combination of the three approaches. 
+      The non-discretionary approach consolidates all access control under a centralized administration. The access to information and other resources is usually based on the individuals function (role) in the organization or the tasks the individual must perform. The discretionary approach gives the creator or owner of the information resource the ability to control access to those resources. In the mandatory access control approach, access is granted or denied basing upon the security classification assigned to the information resource. 
+      Examples of common access control mechanisms in use today include role-based access control, available in many advanced database management systems; simple file permissions provided in the UNIX and Windows operating systems; Group Policy Objects provided in Windows network systems; and Kerberos, RADIUS, TACACS, and the simple access lists used in many firewalls and routers. 
+      To be effective, policies and other security controls must be enforceable and upheld. Effective policies ensure that people are held accountable for their actions. The U.S. Treasury's guidelines for systems processing sensitive or proprietary information, for example, states that all failed and successful authentication and access attempts must be logged, and all access to information must leave some type of audit trail. 
+      Also, the need-to-know principle needs to be in effect when talking about access control. This principle gives access rights to a person to perform their job functions. This principle is used in the government when dealing with difference clearances. Even though two employees in different departments have a top-secret clearance, they must have a need-to-know in order for information to be exchanged. Within the need-to-know principle, network administrators grant the employee the least amount of privilege to prevent employees from accessing more than what they are supposed to. Need-to-know helps to enforce the confidentiality-integrity-availability triad. Need-to-know directly impacts the confidential area of the triad.  
+      Cryptography 
+      
+      
+       Main article: Cryptography
+       
+      Information security uses cryptography to transform usable information into a form that renders it unusable by anyone other than an authorized user; this process is called encryption. Information that has been encrypted (rendered unusable) can be transformed back into its original usable form by an authorized user who possesses the cryptographic key, through the process of decryption. Cryptography is used in information security to protect information from unauthorized or accidental disclosure while the information is in transit (either electronically or physically) and while information is in storage. 
+      Cryptography provides information security with other useful applications as well, including improved authentication methods, message digests, digital signatures, non-repudiation, and encrypted network communications. Older, less secure applications such as Telnet and File Transfer Protocol (FTP) are slowly being replaced with more secure applications such as Secure Shell (SSH) that use encrypted network communications. Wireless communications can be encrypted using protocols such as WPA/WPA2 or the older (and less secure) WEP. Wired communications (such as ITU‑T G.hn) are secured using AES for encryption and X.1035 for authentication and key exchange. Software applications such as GnuPG or PGP can be used to encrypt data files and email. 
+      Cryptography can introduce security problems when it is not implemented correctly. Cryptographic solutions need to be implemented using industry-accepted solutions that have undergone rigorous peer review by independent experts in cryptography. The length and strength of the encryption key is also an important consideration. A key that is weak or too short will produce weak encryption. The keys used for encryption and decryption must be protected with the same degree of rigor as any other confidential information. They must be protected from unauthorized disclosure and destruction, and they must be available when needed. Public key infrastructure (PKI) solutions address many of the problems that surround key management.  
+      Process 
+      The terms "reasonable and prudent person", "due care", and "due diligence" have been used in the fields of finance, securities, and law for many years. In recent years these terms have found their way into the fields of computing and information security. U.S. Federal Sentencing Guidelines now make it possible to hold corporate officers liable for failing to exercise due care and due diligence in the management of their information systems. 
+      In the business world, stockholders, customers, business partners, and governments have the expectation that corporate officers will run the business in accordance with accepted business practices and in compliance with laws and other regulatory requirements. This is often described as the "reasonable and prudent person" rule. A prudent person takes due care to ensure that everything necessary is done to operate the business by sound business principles and in a legal, ethical manner. A prudent person is also diligent (mindful, attentive, ongoing) in their due care of the business. 
+      In the field of information security, Harris offers the following definitions of due care and due diligence:  
+      
+       "Due care are steps that are taken to show that a company has taken responsibility for the activities that take place within the corporation and has taken the necessary steps to help protect the company, its resources, and employees." And,  "continual activities that make sure the protection mechanisms are continually maintained and operational." 
+       
+      Attention should be made to two important points in these definitions. First, in due care, steps are taken to show; this means that the steps can be verified, measured, or even produce tangible artifacts. Second, in due diligence, there are continual activities; this means that people are actually doing things to monitor and maintain the protection mechanisms, and these activities are ongoing. 
+      Organizations have a responsibility with practicing duty of care when applying information security. The Duty of Care Risk Analysis Standard (DoCRA) provides principles and practices for evaluating risk. It considers all parties that could be affected by those risks. DoCRA helps evaluate safeguards if they are appropriate in protecting others from harm while presenting a reasonable burden. With increased data breach litigation, companies must balance security controls, compliance, and its mission.  
+      Security governance 
+      
+      
+       See also: Information Security Governance
+       
+      The Software Engineering Institute at Carnegie Mellon University, in a publication titled Governing for Enterprise Security (GES) Implementation Guide, defines characteristics of effective security governance. These include:  
+      
+       An enterprise-wide issue 
+       Leaders are accountable 
+       Viewed as a business requirement 
+       Risk-based 
+       Roles, responsibilities, and segregation of duties defined 
+       Addressed and enforced in policy 
+       Adequate resources committed 
+       Staff aware and trained 
+       A development life cycle requirement 
+       Planned, managed, measurable, and measured 
+       Reviewed and audited
+       
+      Incident response plans 
+      
+       
+        
+         
+         
+          
+           This section needs expansion. You can help by adding to it. (January 2018)
+          
+        
+       
+       
+      An incident response plan (IRP) is a group of policies that dictate an organizations reaction to a cyber attack. Once an security breach has been identified the plan is initiated. It is important to note that there can be legal implications to a data breach. Knowing local and federal laws is critical. Every plan is unique to the needs of the organization, and it can involve skill sets that are not part of an IT team. For example, a lawyer may be included in the response plan to help navigate legal implications to a data breach. 
+      As mentioned above every plan is unique but most plans will include the following:  
+      Preparation 
+      Good preparation includes the development of an Incident Response Team (IRT). Skills need to be used by this team would be, penetration testing, computer forensics, network security, etc. This team should also keep track of trends in cybersecurity and modern attack strategies. A training program for end users is important as well as most modern attack strategies target users on the network.  
+      Identification 
+      This part of the incident response plan identifies if there was a security event. When an end user reports information or an admin notices irregularities, an investigation is launched. An incident log is a crucial part of this step. All of the members of the team should be updating this log to ensure that information flows as fast as possible. If it has been identified that a security breach has occurred the next step should be activated.  
+      Containment 
+      In this phase, the IRT works to isolate the areas that the breach took place to limit the scope of the security event. During this phase it is important to preserve information forensically so it can be analyzed later in the process. Containment could be as simple as physically containing a server room or as complex as segmenting a network to not allow the spread of a virus.  
+      Eradication 
+      This is where the threat that was identified is removed from the affected systems. This could include using deleting malicious files, terminating compromised accounts, or deleting other components. Some events do not require this step, however it is important to fully understand the event before moving to this step. This will help to ensure that the threat is completely removed.  
+      Recovery 
+      This stage is where the systems are restored back to original operation. This stage could include the recovery of data, changing user access information, or updating firewall rules or policies to prevent a breach in the future. Without executing this step, the system could still be vulnerable to future security threats.  
+      Lessons Learned 
+      In this step information that has been gathered during this process is used to make future decisions on security. This step is crucial to the ensure that future events are prevented. Using this information to further train admins is critical to the process. This step can also be used to process information that is distributed from other entities who have experienced a security event.  
+      Change management 
+      
+      
+       Main article: Change Management (ITSM)
+       
+      Change management is a formal process for directing and controlling alterations to the information processing environment. This includes alterations to desktop computers, the network, servers, and software. The objectives of change management are to reduce the risks posed by changes to the information processing environment and improve the stability and reliability of the processing environment as changes are made. It is not the objective of change management to prevent or hinder necessary changes from being implemented. 
+      Any change to the information processing environment introduces an element of risk. Even apparently simple changes can have unexpected effects. One of management's many responsibilities is the management of risk. Change management is a tool for managing the risks introduced by changes to the information processing environment. Part of the change management process ensures that changes are not implemented at inopportune times when they may disrupt critical business processes or interfere with other changes being implemented. 
+      Not every change needs to be managed. Some kinds of changes are a part of the everyday routine of information processing and adhere to a predefined procedure, which reduces the overall level of risk to the processing environment. Creating a new user account or deploying a new desktop computer are examples of changes that do not generally require change management. However, relocating user file shares, or upgrading the Email server pose a much higher level of risk to the processing environment and are not a normal everyday activity. The critical first steps in change management are (a) defining change (and communicating that definition) and (b) defining the scope of the change system. 
+      Change management is usually overseen by a change review board composed of representatives from key business areas, security, networking, systems administrators, database administration, application developers, desktop support, and the help desk. The tasks of the change review board can be facilitated with the use of automated work flow application. The responsibility of the change review board is to ensure the organization's documented change management procedures are followed. The change management process is as follows  
+      
+       Request: Anyone can request a change. The person making the change request may or may not be the same person that performs the analysis or implements the change. When a request for change is received, it may undergo a preliminary review to determine if the requested change is compatible with the organizations business model and practices, and to determine the amount of resources needed to implement the change. 
+       Approve: Management runs the business and controls the allocation of resources therefore, management must approve requests for changes and assign a priority for every change. Management might choose to reject a change request if the change is not compatible with the business model, industry standards or best practices. Management might also choose to reject a change request if the change requires more resources than can be allocated for the change. 
+       Plan: Planning a change involves discovering the scope and impact of the proposed change; analyzing the complexity of the change; allocation of resources and, developing, testing, and documenting both implementation and back-out plans. Need to define the criteria on which a decision to back out will be made. 
+       Test: Every change must be tested in a safe test environment, which closely reflects the actual production environment, before the change is applied to the production environment. The backout plan must also be tested. 
+       Schedule: Part of the change review board's responsibility is to assist in the scheduling of changes by reviewing the proposed implementation date for potential conflicts with other scheduled changes or critical business activities. 
+       Communicate: Once a change has been scheduled it must be communicated. The communication is to give others the opportunity to remind the change review board about other changes or critical business activities that might have been overlooked when scheduling the change. The communication also serves to make the help desk and users aware that a change is about to occur. Another responsibility of the change review board is to ensure that scheduled changes have been properly communicated to those who will be affected by the change or otherwise have an interest in the change. 
+       Implement: At the appointed date and time, the changes must be implemented. Part of the planning process was to develop an implementation plan, testing plan and, a back out plan. If the implementation of the change should fail or, the post implementation testing fails or, other "drop dead" criteria have been met, the back out plan should be implemented. 
+       Document: All changes must be documented. The documentation includes the initial request for change, its approval, the priority assigned to it, the implementation, testing and back out plans, the results of the change review board critique, the date/time the change was implemented, who implemented it, and whether the change was implemented successfully, failed or postponed. 
+       Post-change review: The change review board should hold a post-implementation review of changes. It is particularly important to review failed and backed out changes. The review board should try to understand the problems that were encountered, and look for areas for improvement.
+       
+      Change management procedures that are simple to follow and easy to use can greatly reduce the overall risks created when changes are made to the information processing environment. Good change management procedures improve the overall quality and success of changes as they are implemented. This is accomplished through planning, peer review, documentation, and communication. 
+      ISO/IEC 20000, The Visible OPS Handbook: Implementing ITIL in 4 Practical and Auditable Steps (Full book summary), and ITIL all provide valuable guidance on implementing an efficient and effective change management program information security.  
+      Business continuity 
+      Business continuity management (BCM) concerns arrangements aiming to protect an organization's critical business functions from interruption due to incidents, or at least minimize the effects. BCM is essential to any organization to keep technology and business in line with current threats to the continuation of business as usual. The BCM should be included in an organizations risk analysis plan to ensure that all of the necessary business functions have what they need to keep going in the event of any type of threat to any business function. 
+      It encompasses:  
+      
+       Analysis of requirements, e.g., identifying critical business functions, dependencies and potential failure points, potential threats and hence incidents or risks of concern to the organization; 
+       Specification, e.g., maximum tolerable outage periods; recovery point objectives (maximum acceptable periods of data loss); 
+       Architecture and design, e.g., an appropriate combination of approaches including resilience (e.g. engineering IT systems and processes for high availability, avoiding or preventing situations that might interrupt the business), incident and emergency management (e.g., evacuating premises, calling the emergency services, triage/situation assessment and invoking recovery plans), recovery (e.g., rebuilding) and contingency management (generic capabilities to deal positively with whatever occurs using whatever resources are available); 
+       Implementation, e.g., configuring and scheduling backups, data transfers, etc., duplicating and strengthening critical elements; contracting with service and equipment suppliers; 
+       Testing, e.g., business continuity exercises of various types, costs and assurance levels; 
+       Management, e.g., defining strategies, setting objectives and goals; planning and directing the work; allocating funds, people and other resources; prioritization relative to other activities; team building, leadership, control, motivation and coordination with other business functions and activities (e.g., IT, facilities, human resources, risk management, information risk and security, operations); monitoring the situation, checking and updating the arrangements when things change; maturing the approach through continuous improvement, learning and appropriate investment; 
+       Assurance, e.g., testing against specified requirements; measuring, analyzing, and reporting key parameters; conducting additional tests, reviews and audits for greater confidence that the arrangements will go to plan if invoked.
+       
+      Whereas BCM takes a broad approach to minimizing disaster-related risks by reducing both the probability and the severity of incidents, a disaster recovery plan (DRP) focuses specifically on resuming business operations as quickly as possible after a disaster. A disaster recovery plan, invoked soon after a disaster occurs, lays out the steps necessary to recover critical information and communications technology (ICT) infrastructure. Disaster recovery planning includes establishing a planning group, performing risk assessment, establishing priorities, developing recovery strategies, preparing inventories and documentation of the plan, developing verification criteria and procedure, and lastly implementing the plan.  
+      Laws and regulations 
+      
+       
+         
+        
+         
+          
+         Privacy International 2007 privacy ranking
+         green: Protections and safeguards
+         red: Endemic surveillance societies
+        
+       
+       
+      Below is a partial listing of governmental laws and regulations in various parts of the world that have, had, or will have, a significant effect on data processing and information security. Important industry sector regulations have also been included when they have a significant impact on information security.  
+      
+       The UK Data Protection Act 1998 makes new provisions for the regulation of the processing of information relating to individuals, including the obtaining, holding, use or disclosure of such information. The European Union Data Protection Directive (EUDPD) requires that all E.U. members adopt national regulations to standardize the protection of data privacy for citizens throughout the E.U. 
+       The Computer Misuse Act 1990 is an Act of the U.K. Parliament making computer crime (e.g., hacking) a criminal offense. The act has become a model upon which several other countries, including Canada and the Republic of Ireland, have drawn inspiration from when subsequently drafting their own information security laws. 
+       The E.U.'s Data Retention Directive (annulled) required internet service providers and phone companies to keep data on every electronic message sent and phone call made for between six months and two years. 
+       The Family Educational Rights and Privacy Act (FERPA) (20&nbsp;U.S.C.&nbsp;§&nbsp;1232 g; 34 CFR Part 99) is a U.S. Federal law that protects the privacy of student education records. The law applies to all schools that receive funds under an applicable program of the U.S. Department of Education. Generally, schools must have written permission from the parent or eligible student in order to release any information from a student's education record. 
+       The Federal Financial Institutions Examination Council's (FFIEC) security guidelines for auditors specifies requirements for online banking security. 
+       The Health Insurance Portability and Accountability Act (HIPAA) of 1996 requires the adoption of national standards for electronic health care transactions and national identifiers for providers, health insurance plans, and employers. Additionally, it requires health care providers, insurance providers and employers to safeguard the security and privacy of health data. 
+       The Gramm–Leach–Bliley Act of 1999 (GLBA), also known as the Financial Services Modernization Act of 1999, protects the privacy and security of private financial information that financial institutions collect, hold, and process. 
+       Section 404 of the Sarbanes–Oxley Act of 2002 (SOX) requires publicly traded companies to assess the effectiveness of their internal controls for financial reporting in annual reports they submit at the end of each fiscal year. Chief information officers are responsible for the security, accuracy, and the reliability of the systems that manage and report the financial data. The act also requires publicly traded companies to engage with independent auditors who must attest to, and report on, the validity of their assessments. 
+       The Payment Card Industry Data Security Standard (PCI DSS) establishes comprehensive requirements for enhancing payment account data security. It was developed by the founding payment brands of the PCI Security Standards Council — including American Express, Discover Financial Services, JCB, MasterCard Worldwide, and Visa International — to help facilitate the broad adoption of consistent data security measures on a global basis. The PCI DSS is a multifaceted security standard that includes requirements for security management, policies, procedures, network architecture, software design, and other critical protective measures. 
+       State security breach notification laws (California and many others) require businesses, nonprofits, and state institutions to notify consumers when unencrypted "personal information" may have been compromised, lost, or stolen. 
+       The Personal Information Protection and Electronics Document Act (PIPEDA) of Canada supports and promotes electronic commerce by protecting personal information that is collected, used or disclosed in certain circumstances, by providing for the use of electronic means to communicate or record information or transactions and by amending the Canada Evidence Act, the Statutory Instruments Act and the Statute Revision Act. 
+       Greece's Hellenic Authority for Communication Security and Privacy (ADAE) (Law 165/2011) establishes and describes the minimum information security controls that should be deployed by every company which provides electronic communication networks and/or services in Greece in order to protect customers' confidentiality. These include both managerial and technical controls (e.g., log records should be stored for two years). 
+       Greece's Hellenic Authority for Communication Security and Privacy (ADAE) (Law 205/2013) concentrates around the protection of the integrity and availability of the services and data offered by Greek telecommunication companies. The law forces these and other related companies to build, deploy, and test appropriate business continuity plans and redundant infrastructures.
+       
+      Culture 
+      Describing more than simply how security aware employees are, information security culture is the ideas, customs, and social behaviors of an organization that impact information security in both positive and negative ways. Cultural concepts can help different segments of the organization work effectively or work against effectiveness towards information security within an organization. The way employees think and feel about security and the actions they take can have a big impact on information security in organizations. Roer &amp; Petric (2017) identify seven core dimensions of information security culture in organizations:  
+      
+       Attitudes: Employees’ feelings and emotions about the various activities that pertain to the organizational security of information. 
+       Behaviors: Actual or intended activities and risk-taking actions of employees that have direct or indirect impact on information security. 
+       Cognition: Employees' awareness, verifiable knowledge, and beliefs regarding practices, activities, and self-efficacy relation that are related to information security. 
+       Communication: Ways employees communicate with each other, sense of belonging, support for security issues, and incident reporting. 
+       Compliance: Adherence to organizational security policies, awareness of the existence of such policies and the ability to recall the substance of such policies. 
+       Norms: Perceptions of security-related organizational conduct and practices that are informally deemed either normal or deviant by employees and their peers, e.g. hidden expectations regarding security behaviors and unwritten rules regarding uses of information-communication technologies. 
+       Responsibilities: Employees' understanding of the roles and responsibilities they have as a critical factor in sustaining or endangering the security of information, and thereby the organization.
+       
+      Andersson and Reimers (2014) found that employees often do not see themselves as part of the organization Information Security "effort" and often take actions that ignore organizational information security best interests. Research shows information security culture needs to be improved continuously. In Information Security Culture from Analysis to Change, authors commented, "It's a never ending process, a cycle of evaluation and change or maintenance." To manage the information security culture, five steps should be taken: pre-evaluation, strategic planning, operative planning, implementation, and post-evaluation.  
+      
+       Pre-Evaluation: to identify the awareness of information security within employees and to analyze current security policy 
+       Strategic Planning: to come up a better awareness-program, we need to set clear targets. Clustering people is helpful to achieve it 
+       Operative Planning: create a good security culture based on internal communication, management buy-in, security awareness, and training programs 
+       Implementation: should feature commitment of management, communication with organizational members, courses for all organizational members, and commitment of the employees 
+       Post-evaluation: to better gauge the effectiveness of the prior steps and build on continuous improvement
+       
+      Sources of standards 
+      
+      
+       Main article: Cyber Security Standards
+       
+      The International Organization for Standardization (ISO) is a consortium of national standards institutes from 157 countries, coordinated through a secretariat in Geneva, Switzerland. ISO is the world's largest developer of standards. ISO 15443: "Information technology – Security techniques – A framework for IT security assurance", ISO/IEC 27002: "Information technology – Security techniques – Code of practice for information security management", ISO-20000: "Information technology – Service management", and ISO/IEC 27001: "Information technology – Security techniques – Information security management systems – Requirements" are of particular interest to information security professionals. 
+      The US National Institute of Standards and Technology (NIST) is a non-regulatory federal agency within the U.S. Department of Commerce. The NIST Computer Security Division develops standards, metrics, tests, and validation programs as well as publishes standards and guidelines to increase secure IT planning, implementation, management, and operation. NIST is also the custodian of the U.S. Federal Information Processing Standard publications (FIPS). 
+      The Internet Society is a professional membership society with more than 100 organizations and over 20,000 individual members in over 180 countries. It provides leadership in addressing issues that confront the future of the internet, and it is the organizational home for the groups responsible for internet infrastructure standards, including the Internet Engineering Task Force (IETF) and the Internet Architecture Board (IAB). The ISOC hosts the Requests for Comments (RFCs) which includes the Official Internet Protocol Standards and the RFC-2196 Site Security Handbook. 
+      The Information Security Forum (ISF) is a global nonprofit organization of several hundred leading organizations in financial services, manufacturing, telecommunications, consumer goods, government, and other areas. It undertakes research into information security practices and offers advice in its biannual Standard of Good Practice and more detailed advisories for members. 
+      The Institute of Information Security Professionals (IISP) is an independent, non-profit body governed by its members, with the principal objective of advancing the professionalism of information security practitioners and thereby the professionalism of the industry as a whole. The institute developed the IISP Skills Framework. This framework describes the range of competencies expected of information security and information assurance professionals in the effective performance of their roles. It was developed through collaboration between both private and public sector organizations, world-renowned academics, and security leaders. 
+      The German Federal Office for Information Security (in German Bundesamt für Sicherheit in der Informationstechnik (BSI)) BSI-Standards 100–1 to 100-4 are a set of recommendations including "methods, processes, procedures, approaches and measures relating to information security". The BSI-Standard 100-2 IT-Grundschutz Methodology describes how information security management can be implemented and operated. The standard includes a very specific guide, the IT Baseline Protection Catalogs (also known as IT-Grundschutz Catalogs). Before 2005, the catalogs were formerly known as "IT Baseline Protection Manual". The Catalogs are a collection of documents useful for detecting and combating security-relevant weak points in the IT environment (IT cluster). The collection encompasses as of September 2013 over 4,400 pages with the introduction and catalogs. The IT-Grundschutz approach is aligned with to the ISO/IEC 2700x family. 
+      The European Telecommunications Standards Institute standardized a catalog of information security indicators, headed by the Industrial Specification Group (ISG) ISI.  
+      See also 
+      
+       
+       
+        Backup 
+        Capability-based security 
+        Data breach 
+        Data-centric security 
+        Enterprise information security architecture 
+        Identity-based security 
+        Information infrastructure 
+        Information security audit 
+        Information security indicators 
+        Information security management 
+        Information security standards 
+        Information technology 
+        Information technology security audit 
+        IT risk 
+        ITIL security management 
+        Kill chain 
+        List of computer security certifications 
+        Mobile security 
+        Network Security Services 
+        Privacy engineering 
+        Privacy software 
+        Privacy-enhancing technologies 
+        Security bug 
+        Security convergence 
+        Security information management 
+        Security level management 
+        Security of Information Act 
+        Security service (telecommunication) 
+        Single sign-on 
+        Verification and validation
+        
+       
+      References 
+      
+       
+       
+         
+         ^ Joshi, Chanchala; Singh, Umesh Kumar (August 2017). "Information security risks management framework – A step towards mitigating security risks in university network". Journal of Information Security and Applications. 35: 128–137. doi:10.1016/j.jisa.2017.06.006. ISSN&nbsp;2214-2126.  
+         ^ 
+           "SANS Institute: Information Security Resources". www.sans.org. Retrieved 2020-10-31.  
+         ^ 
+           Daniel, Kent D.; Titman, Sheridan (2001). "Market Reactions to Tangible and Intangible Information". SSRN Electronic Journal. doi:10.2139/ssrn.274204. ISSN&nbsp;1556-5068. S2CID&nbsp;154366253.  
+         ^ 
+           Kerstin., Fink (2004). Knowledge Potential Measurement and Uncertainty. Deutscher Universitätsverlag. ISBN&nbsp;978-3-322-81240-7. OCLC&nbsp;851734708.  
+         ^ 
+           Keyser, Tobias (2018-04-19), "Security policy", The Information Governance Toolkit, CRC Press, pp.&nbsp;57–62, doi:10.1201/9781315385488-13, ISBN&nbsp;978-1-315-38548-8, retrieved 2021-05-28  
+         ^ 
+           Danzig, Richard (1995-06-01). "The Big Three: Our Greatest Security Risks and How to Address Them". Fort Belvoir, VA. Retrieved 18 January 2022.  
+         ^ 
+           Lyu, M.R.; Lau, L.K.Y. (2000). "Firewall security: policies, testing and performance evaluation". Proceedings 24th Annual International Computer Software and Applications Conference. COMPSAC2000. IEEE Comput. Soc: 116–121. doi:10.1109/cmpsac.2000.884700. ISBN&nbsp;0-7695-0792-1. S2CID&nbsp;11202223.  
+         ^ 
+           "How the Lack of Data Standardization Impedes Data-Driven Healthcare", Data-Driven Healthcare, Hoboken, NJ, USA: John Wiley &amp; Sons, Inc., p.&nbsp;29, 2015-10-17, doi:10.1002/9781119205012.ch3, ISBN&nbsp;978-1-119-20501-2, retrieved 2021-05-28  
+         ^ 
+           Lent, Tom; Walsh, Bill (2009), "Rethinking Green Building Standards for Comprehensive Continuous Improvement", Common Ground, Consensus Building and Continual Improvement: International Standards and Sustainable Building, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959: ASTM International, pp.&nbsp;1–1–10, doi:10.1520/stp47516s, ISBN&nbsp;978-0-8031-4507-8, retrieved 2021-05-28}: CS1 maint: location (link)  
+         ^ a b Cherdantseva Y. and Hilton J.: "Information Security and Information Assurance. The Discussion about the Meaning, Scope and Goals". In: Organizational, Legal, and Technological Dimensions of Information System Administrator. Almeida F., Portela, I. (eds.). IGI Global Publishing. (2013)  
+         ^ ISO/IEC 27000:2009 (E). (2009). Information technology – Security techniques – Information security management systems – Overview and vocabulary. ISO/IEC.  
+         ^ Committee on National Security Systems: National Information Assurance (IA) Glossary, CNSS Instruction No. 4009, 26 April 2010.  
+         ^ ISACA. (2008). Glossary of terms, 2008. Retrieved from http://www.isaca.org/Knowledge-Center/Documents/Glossary/glossary.pdf  
+         ^ Pipkin, D. (2000). Information security: Protecting the global enterprise. New York: Hewlett-Packard Company.  
+         ^ B., McDermott, E., &amp; Geer, D. (2001). Information security is information risk management. In Proceedings of the 2001 Workshop on New Security Paradigms NSPW ‘01, (pp. 97 – 104). ACM. doi:10.1145/508171.508187  
+         ^ 
+           Anderson, J. M. (2003). "Why we need a new definition of information security". Computers &amp; Security. 22 (4): 308–313. doi:10.1016/S0167-4048(03)00407-3.  
+         ^ 
+           Venter, H. S.; Eloff, J. H. P. (2003). "A taxonomy for information security technologies". Computers &amp; Security. 22 (4): 299–307. doi:10.1016/S0167-4048(03)00406-1.  
+         ^ 
+           GOLD, S (December 2004). "Threats looming beyond the perimeter". Information Security Technical Report. 9 (4): 12–14. doi:10.1016/s1363-4127(04)00047-0. ISSN&nbsp;1363-4127.  
+         ^ 
+           Parker, Donn B. (January 1993). "A Comprehensive List of Threats To Information". Information Systems Security. 2 (2): 10–14. doi:10.1080/19393559308551348. ISSN&nbsp;1065-898X.  
+         ^ 
+           Sullivant, John (2016), "The Evolving Threat Environment", Building a Corporate Culture of Security, Elsevier, pp.&nbsp;33–50, doi:10.1016/b978-0-12-802019-7.00004-3, ISBN&nbsp;978-0-12-802019-7, retrieved 2021-05-28  
+         ^ 
+           Бучик, С. С.; Юдін, О. К.; Нетребко, Р. В. (2016-12-21). "The analysis of methods of determination of functional types of security of the information-telecommunication system from an unauthorized access". Problems of Informatization and Management. 4 (56). doi:10.18372/2073-4751.4.13135. ISSN&nbsp;2073-4751.  
+         ^ a b 
+           Samonas, S.; Coss, D. (2014). "The CIA Strikes Back: Redefining Confidentiality, Integrity and Availability in Security". Journal of Information System Security. 10 (3): 21–45. Archived from the original on 2018-09-22. Retrieved 2018-01-25.  
+         ^ 
+           "Gartner Says Digital Disruptors Are Impacting All Industries; Digital KPIs Are Crucial to Measuring Success". Gartner. 2 October 2017. Retrieved 25 January 2018.  
+         ^ 
+           "Gartner Survey Shows 42 Percent of CEOs Have Begun Digital Business Transformation". Gartner. 24 April 2017. Retrieved 25 January 2018.  
+         ^ 
+           Forte, Dario; Power, Richard (December 2007). "Baseline controls in some vital but often-overlooked areas of your information protection programme". Computer Fraud &amp; Security. 2007 (12): 17–20. doi:10.1016/s1361-3723(07)70170-7. ISSN&nbsp;1361-3723.  
+         ^ 
+           Low-voltage switchgear and controlgear. Device profiles for networked industrial devices, BSI British Standards, doi:10.3403/bsen61915, retrieved 2021-05-28  
+         ^ 
+           Fetzer, James; Highfill, Tina; Hossiso, Kassu; Howells, Thomas; Strassner, Erich; Young, Jeffrey (November 2018). "Accounting for Firm Heterogeneity within U.S. Industries: Extended Supply-Use Tables and Trade in Value Added using Enterprise and Establishment Level Data". Cambridge, MA. doi:10.3386/w25249. S2CID&nbsp;169324096. }: Cite journal requires |journal= (help)  
+         ^ 
+           "Secure estimation subject to cyber stochastic attacks", Cloud Control Systems, Emerging Methodologies and Applications in Modelling, Elsevier: 373–404, 2020, doi:10.1016/b978-0-12-818701-2.00021-4, ISBN&nbsp;978-0-12-818701-2, S2CID&nbsp;240746156, retrieved 2021-05-28  
+         ^ 
+           1955-, Nijmeijer, H. (Hendrik) (2003). Synchronization of mechanical systems. World Scientific. ISBN&nbsp;978-981-279-497-0. OCLC&nbsp;262846185.}: CS1 maint: numeric names: authors list (link)  
+         ^ 
+           "Chapter 1. How students' use of computers has evolved in recent years". dx.doi.org. doi:10.1787/888933277851. Retrieved 2021-05-28.  
+         ^ 
+           Information technology. Security techniques. Competence requirements for information security management systems professionals, BSI British Standards, doi:10.3403/30342674, retrieved 2021-05-29  
+         ^ 
+           "Information Security Qualifications Fact Sheet" (PDF). IT Governance. Retrieved 16 March 2018.  
+         ^ 
+           Ma, Ruiqing Ray (March 2016). "Flexible Displays Come in Many Forms". Information Display. 32 (2): 4–49. doi:10.1002/j.2637-496x.2016.tb00883.x. ISSN&nbsp;0362-0972.  
+         ^ 
+           H., Rahim, Noor (March 2006). Human Rights and Internal Security in Malaysia: Rhetoric and Reality. Defense Technical Information Center. OCLC&nbsp;74288358.  
+         ^ 
+           Aut, Kramer David Author (2018-09-14). "Nuclear theft and sabotage threats remain high, report warns". Physics Today. doi:10.1063/pt.6.2.20180914a. ISSN&nbsp;1945-0699. S2CID&nbsp;240223415. }: |first1= has generic name (help)  
+         ^ 
+           Edward., Wilding (2 March 2017). Information risk and security&nbsp;: preventing and investigating workplace computer crime. ISBN&nbsp;978-1-351-92755-0. OCLC&nbsp;1052118207.  
+         ^ 
+           Stewart, James (2012). CISSP Study Guide. Canada: John Wiley &amp; Sons, Inc. pp.&nbsp;255–257. ISBN&nbsp;978-1-118-31417-3.  
+         ^ 
+           "2.2. Productivity growth has been trending down in many sectors". dx.doi.org. doi:10.1787/734700048756. Retrieved 2021-05-28.  
+         ^ 
+           "Identity Theft: The Newest Digital Attackking Industry Must Take Seriously". Issues in Information Systems. 2007. doi:10.48009/2_iis_2007_297-302. ISSN&nbsp;1529-7314.  
+         ^ 
+           Anna, Wendel-Persson, Fredrik Ronnhed (2017). IT-säkerhet och människan&nbsp;: De har världens starkaste mur men porten står alltid på glänt. Umeå universitet, Institutionen för informatik. OCLC&nbsp;1233659973.  
+         ^ 
+           Enge, Eric (5 April 2017). "Stone Temple". Cell phones  
+         ^ 
+           Shao, Ruodan; Skarlicki, Daniel P. (2014). "Sabotage toward the Customers who Mistreated Employees Scale". PsycTESTS Dataset. doi:10.1037/t31653-000. Retrieved 2021-05-28.  
+         ^ 
+           Kitchen, Julie (June 2008). "7side – Company Information, Company Formations and Property Searches". Legal Information Management. 8 (2): 146. doi:10.1017/s1472669608000364. ISSN&nbsp;1472-6696. S2CID&nbsp;144325193.  
+         ^ 
+           Young, Courtenay (2018-05-08), "Working with panic attacks", Help Yourself Towards Mental Health, Routledge, pp.&nbsp;209–214, doi:10.4324/9780429475474-32, ISBN&nbsp;978-0-429-47547-4, retrieved 2021-05-28  
+         ^ 
+           "Introduction: Inside the Insider Threat", Insider Threats, Cornell University Press, pp.&nbsp;1–9, 2017-12-31, doi:10.7591/9781501705946-003, ISBN&nbsp;978-1-5017-0594-6, retrieved 2021-05-28  
+         ^ 
+           "Table 7.7 France: Comparison of the profit shares of non-financial corporations and non-financial corporations plus unincorporated enterprises". dx.doi.org. doi:10.1787/888933144055. Retrieved 2021-05-28.  
+         ^ 
+           "How Did it All Come About?", The Compliance Business and Its Customers, Basingstoke: Palgrave Macmillan, 2012, doi:10.1057/9781137271150.0007, ISBN&nbsp;978-1-137-27115-0, retrieved 2021-05-28  
+         ^ 
+           Gordon, Lawrence; Loeb, Martin (November 2002). "The Economics of Information Security Investment". ACM Transactions on Information and System Security. 5 (4): 438–457. doi:10.1145/581271.581274. S2CID&nbsp;1500788.  
+         ^ 
+           Cho Kim, Byung; Khansa, Lara; James, Tabitha (July 2011). "Individual Trust and Consumer Risk Perception". Journal of Information Privacy and Security. 7 (3): 3–22. doi:10.1080/15536548.2011.10855915. ISSN&nbsp;1553-6548. S2CID&nbsp;144643691.  
+         ^ 
+           Stewart, James (2012). CISSP Certified Information Systems Security Professional Study Guide Sixth Edition. Canada: John Wiley &amp; Sons, Inc. pp.&nbsp;255–257. ISBN&nbsp;978-1-118-31417-3.  
+         ^ 
+           Gillett, John (March 1994). "The cost-benefit of outsourcing: assessing the true cost of your outsourcing strategy". European Journal of Purchasing &amp; Supply Management. 1 (1): 45–47. doi:10.1016/0969-7012(94)90042-6. ISSN&nbsp;0969-7012.  
+         ^ 
+           "2.1. Despite strong growth, Austria has lost some ground since the early 1990s". dx.doi.org. doi:10.1787/645173688502. Retrieved 2021-05-29.  
+         ^ 
+           "Introduction&nbsp;: Caesar Is Dead. Long Live Caesar!", Julius Caesar’s Self-Created Image and Its Dramatic Afterlife, Bloomsbury Academic, 2018, doi:10.5040/9781474245784.0005, ISBN&nbsp;978-1-4742-4578-4, retrieved 2021-05-29  
+         ^ 
+           Suetonius Tranquillus, Gaius (2008). Lives of the Caesars (Oxford World's Classics). New York: Oxford University Press. p.&nbsp;28. ISBN&nbsp;978-0-19-953756-3.  
+         ^ 
+           Singh, Simon (2000). The Code Book. Anchor. pp.&nbsp;289–290. ISBN&nbsp;978-0-385-49532-5.  
+         ^ 
+           Tan, Heng Chuan. Towards trusted and secure communications in a vehicular environment (Thesis). Nanyang Technological University. doi:10.32657/10356/72758.  
+         ^ 
+           Johnson, John (1997). The Evolution of British Sigint: 1653–1939. Her Majesty's Stationery Office. ASIN&nbsp;B00GYX1GX2.  
+         ^ 
+           Willison, Matthew (2018). "Were Banks Special? Contrasting Viewpoints in Mid-Nineteenth Century Britain". SSRN Electronic Journal. doi:10.2139/ssrn.3249510. ISSN&nbsp;1556-5068. S2CID&nbsp;169606130.  
+         ^ 
+           Ruppert, K. (2011). "Official Secrets Act (1889; New 1911; Amended 1920, 1939, 1989)". In Hastedt, G.P. (ed.). Spies, Wiretaps, and Secret Operations: An Encyclopedia of American Espionage. Vol.&nbsp;2. ABC-CLIO. pp.&nbsp;589–590. ISBN&nbsp;9781851098088.  
+         ^ 
+           "2. THE CLAYTON ACT: A consideration of section 2, defining unlawful price discrimination.", The Federal Anti-Trust Law, Columbia University Press, pp.&nbsp;18–28, 1930-12-31, doi:10.7312/dunn93452-003, ISBN&nbsp;978-0-231-89377-0, retrieved 2021-05-29  
+         ^ 
+           Maer, Lucinda; Gay (30 December 2008). "Official Secrecy" (PDF). Federation of American Scientists.  
+         ^ 
+           "The Official Secrets Act 1989 which replaced section 2 of the 1911 Act", Espionage and Secrecy (Routledge Revivals), Routledge, pp.&nbsp;267–282, 2016-06-10, doi:10.4324/9781315542515-21, ISBN&nbsp;978-1-315-54251-5, retrieved 2021-05-29  
+         ^ 
+           "Official Secrets Act: what it covers; when it has been used, questioned". The Indian Express. 2019-03-08. Retrieved 2020-08-07.  
+         ^ 
+           Singh, Gajendra (November 2015). ""Breaking the Chains with Which We were Bound": The Interrogation Chamber, the Indian National Army and the Negation of Military Identities, 1941–1947". Brill's Digital Library of World War I. doi:10.1163/2352-3786_dlws1_b9789004211452_019. Retrieved 2021-05-28.  
+         ^ 
+           Duncanson, Dennis (June 1982). "The scramble to unscramble French Indochina". Asian Affairs. 13 (2): 161–170. doi:10.1080/03068378208730070. ISSN&nbsp;0306-8374.  
+         ^ Whitman et al. 2017, pp.&nbsp;3.  
+         ^ 
+           "Allied Power. Mobilizing Hydro-Electricity During Canada'S Second World War", Allied Power, University of Toronto Press, pp.&nbsp;1–2, 2015-12-31, doi:10.3138/9781442617117-003, ISBN&nbsp;978-1-4426-1711-7, retrieved 2021-05-29  
+         ^ 
+           Glatthaar, Joseph T. (2011-06-15), "Officers and Enlisted Men", Soldiering in the Army of Northern Virginia, University of North Carolina Press, pp.&nbsp;83–96, doi:10.5149/9780807877869_glatthaar.11, ISBN&nbsp;978-0-8078-3492-3, retrieved 2021-05-28  
+         ^ a b 
+           Sebag–Montefiore, H. (2011). Enigma: The Battle for the Code. Orion. p.&nbsp;576. ISBN&nbsp;9781780221236.  
+         ^ Whitman et al. 2017, pp.&nbsp;4–5.  
+         ^ a b Whitman et al. 2017, p.&nbsp;5.  
+         ^ 
+           "Twentieth-Century Wisdom for Twenty-First-Century Communities", Thomas Merton, The Lutterworth Press, pp.&nbsp;160–184, 2012-04-26, doi:10.2307/j.ctt1cg4k28.13, ISBN&nbsp;978-0-7188-4069-3, retrieved 2021-05-29  
+         ^ 
+           Murphy, Richard C. (2009-09-01). "Building more powerful less expensive supercomputers using Processing-In-Memory (PIM) LDRD final report". doi:10.2172/993898. }: Cite journal requires |journal= (help)  
+         ^ 
+           "A Brief History of the Internet". www.usg.edu. Retrieved 2020-08-07.  
+         ^ 
+           "Walking through the view of Delft - on Internet". Computers &amp; Graphics. 25 (5): 927. October 2001. doi:10.1016/s0097-8493(01)00149-2. ISSN&nbsp;0097-8493.  
+         ^ 
+           DeNardis, L. (2007). "Chapter 24: A History of Internet Security". In de Leeuw, K.M.M.; Bergstra, J. (eds.). The History of Information Security: A Comprehensive Handbook. Elsevier. pp.&nbsp;681–704. ISBN&nbsp;9780080550589.  
+         ^ 
+           Perrin, Chad. "The CIA Triad". Retrieved 31 May 2012.  
+         ^ 
+           Sandhu, Ravi; Jajodia, Sushil (2000-10-20), "Relational Database Security", Information Security Management Handbook, Four Volume Set, Auerbach Publications, doi:10.1201/9780203325438.ch120, ISBN&nbsp;978-0-8493-1068-3, retrieved 2021-05-29  
+         ^ a b 
+           Stoneburner, G.; Hayden, C.; Feringa, A. (2004). "Engineering Principles for Information Technology Security" (PDF). csrc.nist.gov. doi:10.6028/NIST.SP.800-27rA. }: Cite journal requires |journal= (help)  
+         ^ 
+           A. J. Neumann, N. Statland and R. D. Webb (1977). "Post-processing audit tools and techniques" (PDF). US Department of Commerce, National Bureau of Standards. pp.&nbsp;11-3--11-4.  
+         ^ 
+           "oecd.org" (PDF). Archived from the original (PDF) on May 16, 2011. Retrieved 2014-01-17.  
+         ^ 
+           "GSSP (Generally-Accepted system Security Principles): A trip to abilene". Computers &amp; Security. 15 (5): 417. January 1996. doi:10.1016/0167-4048(96)82630-7. ISSN&nbsp;0167-4048.  
+         ^ 
+           Slade, Rob. "(ICS)2 Blog".  
+         ^ 
+           Aceituno, Vicente. "Open Information Security Maturity Model". Retrieved 12 February 2017.  
+         ^ 
+           "George Cybenko – George Cybenko's Personal Home Page" (PDF).  
+         ^ 
+           Hughes, Jeff; Cybenko, George (21 June 2018). "Quantitative Metrics and Risk Assessment: The Three Tenets Model of Cybersecurity". Technology Innovation Management Review. 3 (8).  
+         ^ 
+           Teplow, Lily. "Are Your Clients Falling for These IT Security Myths? ". continuum.net.  
+         ^ 
+           Beckers, K. (2015). Pattern and Security Requirements: Engineering-Based Establishment of Security Standards. Springer. p.&nbsp;100. ISBN&nbsp;9783319166643.  
+         ^ 
+           "Data Privacy and Confidentiality", SpringerReference, Berlin/Heidelberg: Springer-Verlag, 2011, doi:10.1007/springerreference_205286, retrieved 2021-05-29  
+         ^ a b c d e 
+           Andress, J. (2014). The Basics of Information Security: Understanding the Fundamentals of InfoSec in Theory and Practice. Syngress. p.&nbsp;240. ISBN&nbsp;9780128008126.  
+         ^ 
+           Boritz, J. Efrim (2005). "IS Practitioners' Views on Core Concepts of Information Integrity". International Journal of Accounting Information Systems. Elsevier. 6 (4): 260–279. doi:10.1016/j.accinf.2005.07.001.  
+         ^ 
+           Hryshko, I. (2020). "Unauthorized Occupation of Land and Unauthorized Construction: Concepts and Types of Tactical Means of Investigation". International Humanitarian University Herald. Jurisprudence (43): 180–184. doi:10.32841/2307-1745.2020.43.40. ISSN&nbsp;2307-1745.  
+         ^ 
+           Kim, Bonn-Oh (2000-09-21), "Referential Integrity for Database Design", High-Performance Web Databases, Auerbach Publications, pp.&nbsp;427–434, doi:10.1201/9781420031560-34, ISBN&nbsp;978-0-429-11600-1, retrieved 2021-05-29  
+         ^ 
+           Pevnev, V. (2018). "Model Threats and Ensure the Integrity of Information". Systems and Technologies. 2 (56): 80–95. doi:10.32836/2521-6643-2018.2-56.6. ISSN&nbsp;2521-6643.  
+         ^ 
+           Fan, Lejun; Wang, Yuanzhuo; Cheng, Xueqi; Li, Jinming; Jin, Shuyuan (2013-02-26). "Privacy theft malware multi-process collaboration analysis". Security and Communication Networks. 8 (1): 51–67. doi:10.1002/sec.705. ISSN&nbsp;1939-0114.  
+         ^ 
+           "Completeness, Consistency, and Integrity of the Data Model". Measuring Data Quality for Ongoing Improvement. MK Series on Business Intelligence. Elsevier. 2013. pp.&nbsp;e11–e19. doi:10.1016/b978-0-12-397033-6.00030-4. ISBN&nbsp;978-0-12-397033-6. Retrieved 2021-05-29.  
+         ^ 
+           "Video from SPIE - the International Society for Optics and Photonics". dx.doi.org. doi:10.1117/12.2266326.5459349132001. Retrieved 2021-05-29.  
+         ^ 
+           "Communication Skills Used by Information Systems Graduates". Issues in Information Systems. 2005. doi:10.48009/1_iis_2005_311-317. ISSN&nbsp;1529-7314.  
+         ^ 
+           "Outages of electric power supply resulting from cable failures Boston Edison Company system". 1980-07-01. doi:10.2172/5083196. OSTI&nbsp;5083196. Retrieved 18 January 2022. }: Cite journal requires |journal= (help)  
+         ^ 
+           Loukas, G.; Oke, G. (September 2010) . "Protection Against Denial of Service Attacks: A Survey" (PDF). Comput. J. 53 (7): 1020–1037. doi:10.1093/comjnl/bxp078. Archived from the original (PDF) on 2012-03-24. Retrieved 2015-08-28.  
+         ^ 
+           "Be Able To Perform a Clinical Activity", Definitions, Qeios, 2020-02-02, doi:10.32388/dine5x, S2CID&nbsp;241238722, retrieved 2021-05-29  
+         ^ 
+           Ohta, Mai; Fujii, Takeo (May 2011). "Iterative cooperative sensing on shared primary spectrum for improving sensing ability". 2011 IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN). IEEE: 623–627. doi:10.1109/dyspan.2011.5936257. ISBN&nbsp;978-1-4577-0177-1. S2CID&nbsp;15119653.  
+         ^ 
+           Information technology. Information security incident management, BSI British Standards, doi:10.3403/30387743, retrieved 2021-05-29  
+         ^ 
+           Blum, Dan (2020), "Identify and Align Security-Related Roles", Rational Cybersecurity for Business, Berkeley, CA: Apress, pp.&nbsp;31–60, doi:10.1007/978-1-4842-5952-8_2, ISBN&nbsp;978-1-4842-5951-1, S2CID&nbsp;226626983, retrieved 2021-05-29  
+         ^ 
+           McCarthy, C. (2006). "Digital Libraries: Security and Preservation Considerations". In Bidgoli, H. (ed.). Handbook of Information Security, Threats, Vulnerabilities, Prevention, Detection, and Management. Vol.&nbsp;3. John Wiley &amp; Sons. pp.&nbsp;49–76. ISBN&nbsp;9780470051214.  
+         ^ 
+           Information technology. Open systems interconnection. Security frameworks for open systems, BSI British Standards, doi:10.3403/01110206u, retrieved 2021-05-29  
+         ^ 
+           Christofori, Ralf (2014-01-01), "Thus could it have been", Julio Rondo - O.k., Meta Memory, Wilhelm Fink Verlag, doi:10.30965/9783846757673_003, ISBN&nbsp;978-3-7705-5767-7, retrieved 2021-05-29  
+         ^ 
+           Atkins, D. (May 2021). "Use of the Walnut Digital Signature Algorithm with CBOR Object Signing and Encryption (COSE)". doi:10.17487/rfc9021. S2CID&nbsp;182252627. Retrieved 18 January 2022. }: Cite journal requires |journal= (help)  
+         ^ 
+           Le May, I. (2003), "Structural Integrity in the Petrochemical Industry", Comprehensive Structural Integrity, Elsevier, pp.&nbsp;125–149, doi:10.1016/b0-08-043749-4/01001-6, ISBN&nbsp;978-0-08-043749-1, retrieved 2021-05-29  
+         ^ 
+           Sodjahin, Amos; Champagne, Claudia; Coggins, Frank; Gillet, Roland (2017-01-11). "Leading or lagging indicators of risk? The informational content of extra-financial performance scores". Journal of Asset Management. 18 (5): 347–370. doi:10.1057/s41260-016-0039-y. ISSN&nbsp;1470-8272. S2CID&nbsp;157485290.  
+         ^ 
+           Reynolds, E H (1995-07-22). "Folate has potential to cause harm". BMJ. 311 (6999): 257. doi:10.1136/bmj.311.6999.257. ISSN&nbsp;0959-8138. PMC&nbsp;2550299. PMID&nbsp;7503870.  
+         ^ 
+           Randall, Alan (2011), "Harm, risk, and threat", Risk and Precaution, Cambridge: Cambridge University Press, pp.&nbsp;31–42, doi:10.1017/cbo9780511974557.003, ISBN&nbsp;978-0-511-97455-7, retrieved 2021-05-29  
+         ^ 
+           Grama, J.L. (2014). Legal Issues in Information Security. Jones &amp; Bartlett Learning. p.&nbsp;550. ISBN&nbsp;9781284151046.  
+         ^ 
+           Cannon, David L. (2016-03-04). "Audit Process". CISA: Certified Information Systems Auditor Study Guide (Fourth&nbsp;ed.). pp.&nbsp;139–214. doi:10.1002/9781119419211.ch3. ISBN&nbsp;9781119056249.  
+         ^ 
+           ISACA (2006). CISA Review Manual 2006. Information Systems Audit and Control Association. p.&nbsp;85. ISBN&nbsp;978-1-933284-15-6.  
+         ^ 
+           Kadlec, Jaroslav (2012-11-02). "Two‐dimensional process modeling (2DPM)". Business Process Management Journal. 18 (6): 849–875. doi:10.1108/14637151211283320. ISSN&nbsp;1463-7154.  
+         ^ 
+           "All Countermeasures Have Some Value, But No Countermeasure Is Perfect", Beyond Fear, New York: Springer-Verlag, pp.&nbsp;207–232, 2003, doi:10.1007/0-387-21712-6_14, ISBN&nbsp;0-387-02620-7, retrieved 2021-05-29  
+         ^ 
+           "Data breaches: Deloitte suffers serious hit while more details emerge about Equifax and Yahoo". Computer Fraud &amp; Security. 2017 (10): 1–3. October 2017. doi:10.1016/s1361-3723(17)30086-6. ISSN&nbsp;1361-3723.  
+         ^ 
+           Spagnoletti, Paolo; Resca A. (2008). "The duality of Information Security Management: fighting against predictable and unpredictable threats". Journal of Information System Security. 4 (3): 46–62.  
+         ^ 
+           Yusoff, Nor Hashim; Yusof, Mohd Radzuan (2009-08-04). "Managing HSE Risk in Harsh Environment". All Days. SPE. doi:10.2118/122545-ms.  
+         ^ 
+           Baxter, Wesley. Sold out: how Ottawa's downtown business improvement areas have secured and valorized urban space (Thesis). Carleton University. doi:10.22215/etd/2010-09016.  
+         ^ 
+           de Souza, André; Lynch, Anthony (June 2012). "Does Mutual Fund Performance Vary over the Business Cycle?". Cambridge, MA. doi:10.3386/w18137. }: Cite journal requires |journal= (help)  
+         ^ 
+           Kiountouzis, E.A.; Kokolakis, S.A. (1996-05-31). Information systems security: facing the information society of the 21st century. London: Chapman &amp; Hall, Ltd. ISBN&nbsp;978-0-412-78120-9.  
+         ^ 
+           Newsome, B. (2013). A Practical Introduction to Security and Risk Management. SAGE Publications. p.&nbsp;208. ISBN&nbsp;9781483324852.  
+         ^ a b 
+           Whitman, M.E.; Mattord, H.J. (2016). Management of Information Security (5th&nbsp;ed.). Cengage Learning. p.&nbsp;592. ISBN&nbsp;9781305501256.  
+         ^ 
+           "Hardware, Fabrics, Adhesives, and Other Theatrical Supplies", Illustrated Theatre Production Guide, Routledge, pp.&nbsp;203–232, 2013-03-20, doi:10.4324/9780080958392-20, ISBN&nbsp;978-0-08-095839-2, retrieved 2021-05-29  
+         ^ 
+           Reason, James (2017-03-02), "Perceptions of Unsafe Acts", The Human Contribution, CRC Press, pp.&nbsp;69–103, doi:10.1201/9781315239125-7, ISBN&nbsp;978-1-315-23912-5, retrieved 2021-05-29  
+         ^ 
+           "Information Security Procedures and Standards", Information Security Policies, Procedures, and Standards, Boca Raton, FL&nbsp;: CRC Press, 2016.: Auerbach Publications, pp.&nbsp;81–92, 2017-03-27, doi:10.1201/9781315372785-5, ISBN&nbsp;978-1-315-37278-5, retrieved 2021-05-29}: CS1 maint: location (link)  
+         ^ 
+           Zhuang, Haifeng; Chen, Yu; Sheng, Xianfu; Hong, Lili; Gao, Ruilan; Zhuang, Xiaofen (25 June 2020). "Figure S1: Analysis of the prognostic impact of each single signature gene". PeerJ. 8: e9437. doi:10.7717/peerj.9437/supp-1. Retrieved 2021-05-29.  
+         ^ 
+           Standaert, B.; Ethgen, O.; Emerson, R.A. (June 2012). "CO4 Cost-Effectiveness Analysis - Appropriate for All Situations?". Value in Health. 15 (4): A2. doi:10.1016/j.jval.2012.03.015. ISSN&nbsp;1098-3015.  
+         ^ 
+           "GRP canopies provide cost-effective over-door protection". Reinforced Plastics. 40 (11): 8. November 1996. doi:10.1016/s0034-3617(96)91328-4. ISSN&nbsp;0034-3617.  
+         ^ 
+           "Figure 2.3. Relative risk of being a low performer depending on personal circumstances (2012)". dx.doi.org. doi:10.1787/888933171410. Retrieved 2021-05-29.  
+         ^ 
+           Stoneburner, Gary; Goguen, Alice; Feringa, Alexis (2002). "NIST SP 800-30 Risk Management Guide for Information Technology Systems". doi:10.6028/NIST.SP.800-30. Retrieved 18 January 2022. }: Cite journal requires |journal= (help)  
+         ^ 
+           "May I Choose? Can I Choose? Oppression and Choice", A Theory of Freedom, Palgrave Macmillan, 2012, doi:10.1057/9781137295026.0007, ISBN&nbsp;978-1-137-29502-6, retrieved 2021-05-29  
+         ^ 
+           Parker, Donn B. (January 1994). "A Guide to Selecting and Implementing Security Controls". Information Systems Security. 3 (2): 75–86. doi:10.1080/10658989409342459. ISSN&nbsp;1065-898X.  
+         ^ 
+           Zoccali, Carmine; Mallamaci, Francesca; Tripepi, Giovanni (2007-09-25). "Guest Editor: Rajiv Agarwal: Cardiovascular Risk Profile Assessment and Medication Control Should Come First". Seminars in Dialysis. 20 (5): 405–408. doi:10.1111/j.1525-139x.2007.00317.x. ISSN&nbsp;0894-0959. PMID&nbsp;17897245. S2CID&nbsp;33256127.  
+         ^ 
+           Guide to the Implementation and Auditing of ISMS Controls based on ISO/IEC 27001. London: BSI British Standards. 2013-11-01. doi:10.3403/9780580829109. ISBN&nbsp;978-0-580-82910-9.  
+         ^ 
+           Johnson, L. (2015). Security Controls Evaluation, Testing, and Assessment Handbook. Syngress. p.&nbsp;678. ISBN&nbsp;9780128025642.  
+         ^ 
+           Information technology. Security techniques. Mapping the revised editions of ISO/IEC 27001 and ISO/IEC 27002, BSI British Standards, doi:10.3403/30310928, retrieved 2021-05-29  
+         ^ a b c 
+           "Administrative Controls", Occupational Ergonomics, CRC Press, pp.&nbsp;443–666, 2003-03-26, doi:10.1201/9780203507933-6, ISBN&nbsp;978-0-429-21155-3, retrieved 2021-05-29  
+         ^ 
+           Chen, J.; Demers, E.A.; Lev, B. (June 2013). "How Time of Day Impacts on Business Conversations". doi:10.13007/141. Retrieved 18 January 2022. }: Cite journal requires |journal= (help)CS1 maint: multiple names: authors list (link)  
+         ^ 44&nbsp;U.S.C.&nbsp;§&nbsp;3542(b)(1)  
+         ^ 
+           "Appendix D", Information Security Policy Development for Compliance, Auerbach Publications, pp.&nbsp;117–136, 2013-03-22, doi:10.1201/b13922-12, ISBN&nbsp;978-1-4665-8058-9, retrieved 2021-05-29  
+         ^ 
+           "Firewalls, Intrusion Detection Systems and Vulnerability Assessment: A Superior Conjunction?". Network Security. 2002 (9): 8–11. September 2002. doi:10.1016/s1353-4858(02)09009-8. ISSN&nbsp;1353-4858.  
+         ^ 
+           Ransome, J.; Misra, A. (2013). Core Software Security: Security at the Source. CRC Press. pp.&nbsp;40–41. ISBN&nbsp;9781466560956.  
+         ^ 
+           "least privilege principle", SpringerReference, Berlin/Heidelberg: Springer-Verlag, 2011, doi:10.1007/springerreference_17456, retrieved 2021-05-29  
+         ^ 
+           Emir, Astra (September 2018). "19. Duties of Ex-employees". Law Trove. doi:10.1093/he/9780198814849.003.0019. ISBN&nbsp;978-0-19-185251-0.  
+         ^ 
+           Guide for Information Access Privileges to Health Information, ASTM International, doi:10.1520/e1986-09, retrieved 2021-05-29  
+         ^ 
+           Drury, Bill (2009-01-01), "Physical environment", Control Techniques, Drives and Controls Handbook, Institution of Engineering and Technology: 355–381, doi:10.1049/pbpo057e_chb3, ISBN&nbsp;978-1-84919-013-8, retrieved 2021-05-29  
+         ^ 
+           Fire detection and fire alarms systems, BSI British Standards, doi:10.3403/30266863, retrieved 2021-05-29  
+         ^ 
+           Silverman, Arnold B. (November 2001). "Employee exit interviews—An important but frequently overlooked procedure". JOM. 53 (11): 48. Bibcode:2001JOM....53k..48S. doi:10.1007/s11837-001-0195-4. ISSN&nbsp;1047-4838. S2CID&nbsp;137528079.  
+         ^ 
+           "Many employee pharmacists should be able to benefit". The Pharmaceutical Journal. 2013. doi:10.1211/pj.2013.11124182. ISSN&nbsp;2053-6186.  
+         ^ 
+           "Segregation of Duties Control matrix". ISACA. 2008. Archived from the original on 3 July 2011. Retrieved 2008-09-30.  
+         ^ 
+           "Residents Must Protect Their Private Information". JAMA. 279 (17): 1410B. 1998-05-06. doi:10.1001/jama.279.17.1410. ISSN&nbsp;0098-7484.  
+         ^ 
+           "Group Wisdom Support Systems: Aggregating the Insights of Many Through Information Technology". Issues in Information Systems. 2008. doi:10.48009/2_iis_2008_343-350. ISSN&nbsp;1529-7314.  
+         ^ 
+           "INTERDEPENDENCIES OF INFORMATION SYSTEMS", Lessons Learned: Critical Information Infrastructure Protection, IT Governance Publishing, pp.&nbsp;34–37, 2018, doi:10.2307/j.ctt1xhr7hq.13, ISBN&nbsp;978-1-84928-958-0, retrieved 2021-05-29  
+         ^ 
+           "Managing Network Security", Network Perimeter Security, Auerbach Publications, pp.&nbsp;17–66, 2003-10-27, doi:10.1201/9780203508046-3, ISBN&nbsp;978-0-429-21157-7, retrieved 2021-05-29  
+         ^ 
+           Kakareka, A. (2013). "Chapter 31: What is Vulnerability Assessment?". In Vacca, J.R. (ed.). Computer and Information Security Handbook (2nd&nbsp;ed.). Elsevier. pp.&nbsp;541–552. ISBN&nbsp;9780123946126.  
+         ^ 
+           Duke, P. A.; Howard, I. P. (2012-08-17). "Processing vertical size disparities in distinct depth planes". Journal of Vision. 12 (8): 10. doi:10.1167/12.8.10. ISSN&nbsp;1534-7362. PMID&nbsp;22904355.  
+         ^ 
+           "Security Onion Control Scripts". Applied Network Security Monitoring. Elsevier. 2014. pp.&nbsp;451–456. doi:10.1016/b978-0-12-417208-1.09986-4. ISBN&nbsp;978-0-12-417208-1. Retrieved 2021-05-29.  
+         ^ 
+           "Metabolomics Provides Valuable Insight for the Study of Durum Wheat: A Review". dx.doi.org. doi:10.1021/acs.jafc.8b07097.s001. Retrieved 2021-05-29.  
+         ^ 
+           "Overview", Information Security Policies, Procedures, and Standards, Auerbach Publications, 2001-12-20, doi:10.1201/9780849390326.ch1, ISBN&nbsp;978-0-8493-1137-6, retrieved 2021-05-29  
+         ^ 
+           Electrical protection relays. Information and requirements for all protection relays, BSI British Standards, doi:10.3403/bs142-1, retrieved 2021-05-29  
+         ^ 
+           Dibattista, Joseph D.; Reimer, James D.; Stat, Michael; Masucci, Giovanni D.; Biondi, Piera; Brauwer, Maarten De; Bunce, Michael (6 February 2019). "Supplemental Information 4: List of all combined families in alphabetical order assigned in MEGAN vers. 5.11.3". PeerJ. 7: e6379. doi:10.7717/peerj.6379/supp-4. Retrieved 2021-05-29.  
+         ^ 
+           Kim, Sung-Won (2006-03-31). "A Quantitative Analysis of Classification Classes and Classified Information Resources of Directory". Journal of Information Management. 37 (1): 83–103. doi:10.1633/jim.2006.37.1.083. ISSN&nbsp;0254-3621.  
+         ^ a b 
+           Bayuk, J. (2009). "Chapter 4: Information Classification". In Axelrod, C.W.; Bayuk, J.L.; Schutzer, D. (eds.). Enterprise Information Security and Privacy. Artech House. pp.&nbsp;59–70. ISBN&nbsp;9781596931916.  
+         ^ 
+           "Welcome to the Information Age", Overload!, Hoboken, NJ, USA: John Wiley &amp; Sons, Inc., pp.&nbsp;43–65, 2015-09-11, doi:10.1002/9781119200642.ch5, ISBN&nbsp;978-1-119-20064-2, retrieved 2021-05-29  
+         ^ 
+           Crooks, S. (2006). "102. Case Study: When Exposure Control Efforts Override Other Important Design Considerations". AIHce 2006. AIHA. doi:10.3320/1.2759009.  
+         ^ 
+           "Business Model for Information Security (BMIS)". ISACA. Retrieved 25 January 2018.  
+         ^ 
+           McAuliffe, Leo (January 1987). "Top secret/trade secret: Accessing and safeguarding restricted information". Government Information Quarterly. 4 (1): 123–124. doi:10.1016/0740-624x(87)90068-2. ISSN&nbsp;0740-624X.  
+         ^ 
+           Khairuddin, Ismail Mohd; Sidek, Shahrul Naim; Abdul Majeed, Anwar P.P.; Razman, Mohd Azraai Mohd; Puzi, Asmarani Ahmad; Yusof, Hazlina Md (25 February 2021). "Figure 7: Classification accuracy for each model for all features". PeerJ Computer Science. 7: e379. doi:10.7717/peerj-cs.379/fig-7. Retrieved 2021-05-29.  
+         ^ 
+           "Asset Classification", Information Security Fundamentals, Auerbach Publications, pp.&nbsp;327–356, 2013-10-16, doi:10.1201/b15573-18, ISBN&nbsp;978-0-429-13028-1, retrieved 2021-06-01  
+         ^ a b 
+           Almehmadi, Abdulaziz; El-Khatib, Khalil (2013). "Authorized! access denied, unauthorized! access granted". Proceedings of the 6th International Conference on Security of Information and Networks - SIN '13. Sin '13. New York, New York, USA: ACM Press: 363–367. doi:10.1145/2523514.2523612. ISBN&nbsp;978-1-4503-2498-4. S2CID&nbsp;17260474.  
+         ^ a b 
+           Peiss, Kathy (2020), "The Country of the Mind Must Also Attack", Information Hunters, Oxford University Press, pp.&nbsp;16–39, doi:10.1093/oso/9780190944612.003.0003, ISBN&nbsp;978-0-19-094461-2, retrieved 2021-06-01  
+         ^ 
+           Fugini, M.G.; Martella, G. (January 1988). "A petri-net model of access control mechanisms". Information Systems. 13 (1): 53–63. doi:10.1016/0306-4379(88)90026-9. ISSN&nbsp;0306-4379.  
+         ^ 
+           Information technology. Personal identification. ISO-compliant driving licence, BSI British Standards, doi:10.3403/30170670u, retrieved 2021-06-01  
+         ^ 
+           OMAR., SANTOS (2015). Ccna security 210-260 official cert guide. Cisco press. ISBN&nbsp;978-1-58720-566-8. OCLC&nbsp;951897116.  
+         ^ 
+           "What is Assertion?", ASSERTION TRAINING, Abingdon, UK: Taylor &amp; Francis, pp.&nbsp;1–7, 1991, doi:10.4324/9780203169186_chapter_one, ISBN&nbsp;978-0-203-28556-5, retrieved 2021-06-01  
+         ^ 
+           Doe, John (1960). "Field Season In Illinois Begins May 2". Soil Horizons. 1 (2): 10. doi:10.2136/sh1960.2.0010. ISSN&nbsp;2163-2812.  
+         ^ 
+           Leech, M. (March 1996). "Username/Password Authentication for SOCKS V5". doi:10.17487/rfc1929. Retrieved 18 January 2022. }: Cite journal requires |journal= (help)  
+         ^ 
+           Kirk, John; Wall, Christine (2011), "Teller, Seller, Union Activist: Class Formation and Changing Bank Worker Identities", Work and Identity, London: Palgrave Macmillan UK, pp.&nbsp;124–148, doi:10.1057/9780230305625_6, ISBN&nbsp;978-1-349-36871-6, retrieved 2021-06-01  
+         ^ 
+           Dewi, Mila Nurmala (2020-12-23). "Perbandingan Kinerja Teller Kriya Dan Teller Organik Pt. Bank Syariah Mandiri". Nisbah: Jurnal Perbankan Syariah. 6 (2): 75. doi:10.30997/jn.v6i2.1932. ISSN&nbsp;2528-6633. S2CID&nbsp;234420571.  
+         ^ 
+           Vile, John (2013), "License Checks", Encyclopedia of the Fourth Amendment, 2300 N Street, NW, Suite 800, Washington DC 20037 United States: CQ Press, doi:10.4135/9781452234243.n462, ISBN&nbsp;978-1-60426-589-7, retrieved 2021-06-01}: CS1 maint: location (link)  
+         ^ 
+           "He Said/She Said", My Ghost Has a Name, University of South Carolina Press, pp.&nbsp;17–32, doi:10.2307/j.ctv6wgjjv.6, ISBN&nbsp;978-1-61117-827-2, retrieved 2021-05-29  
+         ^ 
+           Bacigalupo, Sonny A.; Dixon, Linda K.; Gubbins, Simon; Kucharski, Adam J.; Drewe, Julian A. (26 October 2020). "Supplemental Information 8: Methods used to monitor different types of contact". PeerJ. 8: e10221. doi:10.7717/peerj.10221/supp-8. Retrieved 2021-06-01.  
+         ^ 
+           M., Igelnik, Boris, 1940- Zurada, Jacek (2013). Efficiency and scalability methods for computational intellect. ISBN&nbsp;978-1-4666-3942-3. OCLC&nbsp;833130899.  
+         ^ 
+           "The Insurance Superbill Must Have Your Name as the Provider", Before You See Your First Client, Routledge, pp.&nbsp;37–38, 2005-01-01, doi:10.4324/9780203020289-11, ISBN&nbsp;978-0-203-02028-9, retrieved 2021-06-01  
+         ^ 
+           Joe., Kissell. Take Control of Your Passwords. ISBN&nbsp;978-1-4920-6638-5. OCLC&nbsp;1029606129.  
+         ^ 
+           "New smart Queensland driver license announced". Card Technology Today. 21 (7): 5. July 2009. doi:10.1016/s0965-2590(09)70126-4. ISSN&nbsp;0965-2590.  
+         ^ 
+           Information., Lawrence Livermore National Laboratory. United States. Department of Energy. United States. Department of Energy. Office of Scientific and Technical (1995). A human engineering and ergonomic evaluation of the security access panel interface. United States. Dept. of Energy. OCLC&nbsp;727181384.  
+         ^ 
+           Lee, Paul (April 2017). "Prints charming: how fingerprints are trailblazing mainstream biometrics". Biometric Technology Today. 2017 (4): 8–11. doi:10.1016/s0969-4765(17)30074-7. ISSN&nbsp;0969-4765.  
+         ^ 
+           "Two-Factor Authentication", SpringerReference, Berlin/Heidelberg: Springer-Verlag, 2011, doi:10.1007/springerreference_546, retrieved 2021-06-01  
+         ^ 
+           "Figure 1.5. Marriage remains the most common form of partnership among couples, 2000-07". dx.doi.org. doi:10.1787/888932392533. Retrieved 2021-06-01.  
+         ^ 
+           Akpeninor, James Ohwofasa (2013). Modern Concepts of Security. Bloomington, IN: AuthorHouse. p.&nbsp;135. ISBN&nbsp;978-1-4817-8232-6. Retrieved 18 January 2018.  
+         ^ 
+           Richards, G. (April 2012). "One-Time Password (OTP) Pre-Authentication". doi:10.17487/rfc6560. }: Cite journal requires |journal= (help)  
+         ^ 
+           Schumacher, Dietmar (2016-04-03). "Surface geochemical exploration after 85 years: What has been accomplished and what more must be done". International Conference and Exhibition, Barcelona, Spain, 3–6 April 2016. SEG Global Meeting Abstracts. Society of Exploration Geophysicists and American Association of Petroleum Geologists: 100. doi:10.1190/ice2016-6522983.1.  
+         ^ 
+           "Authorization And Approval Program", Internal Controls Policies and Procedures, Hoboken, NJ, USA: John Wiley &amp; Sons, Inc., pp.&nbsp;69–72, 2015-10-23, doi:10.1002/9781119203964.ch10, ISBN&nbsp;978-1-119-20396-4, retrieved 2021-06-01  
+         ^ 
+           "What responses under what conditions?", Local Policies and the European Social Fund, Policy Press, pp.&nbsp;81–102, 2019-10-02, doi:10.2307/j.ctvqc6hn1.12, ISBN&nbsp;978-1-4473-4652-4, S2CID&nbsp;241438707, retrieved 2021-06-01  
+         ^ 
+           Cheng, Liang; Zhang, Yang; Han, Zhihui (June 2013). "Quantitatively Measure Access Control Mechanisms across Different Operating Systems". 2013 IEEE 7th International Conference on Software Security and Reliability. IEEE: 50–59. doi:10.1109/sere.2013.12. ISBN&nbsp;978-1-4799-0406-8. S2CID&nbsp;13261344.  
+         ^ a b 
+           "discretionary access control", SpringerReference, Berlin/Heidelberg: Springer-Verlag, 2011, doi:10.1007/springerreference_12629, retrieved 2021-06-01  
+         ^ 
+           "Individual Subunits of the Glutamate Transporter EAAC1 Homotrimer Function Independently of Each Other". dx.doi.org. doi:10.1021/bi050987n.s001. Retrieved 2021-06-01.  
+         ^ 
+           Ellis., Ormrod, Jeanne (2012). Essentials of educational psychology&nbsp;: big ideas to guide effective teaching. Pearson. ISBN&nbsp;978-0-13-136727-2. OCLC&nbsp;663953375.  
+         ^ 
+           Belim, S. V.; Bogachenko, N. F.; Kabanov, A. N. (November 2018). "Severity Level of Permissions in Role-Based Access Control". 2018 Dynamics of Systems, Mechanisms and Machines (Dynamics). IEEE: 1–5. arXiv:1812.11404. doi:10.1109/dynamics.2018.8601460. ISBN&nbsp;978-1-5386-5941-0. S2CID&nbsp;57189531.  
+         ^ 
+           "Configuring TACACS and Extended TACACS", Securing and Controlling Cisco Routers, Auerbach Publications, 2002-05-15, doi:10.1201/9781420031454.ch11, ISBN&nbsp;978-0-8493-1290-8, retrieved 2021-06-01  
+         ^ 
+           "Developing Effective Security Policies", Risk Analysis and Security Countermeasure Selection, CRC Press, pp.&nbsp;261–274, 2009-12-18, doi:10.1201/9781420078718-18, ISBN&nbsp;978-0-429-24979-2, retrieved 2021-06-01  
+         ^ 
+           "The Use of Audit Trails to Monitor Key Networks and Systems Should Remain Part of the Computer Security Material Weakness". www.treasury.gov. Retrieved 2017-10-06.  
+         ^ 
+           "fixing-canadas-access-to-medicines-regime-what-you-need-to-know-about-bill-c398". Human Rights Documents online. doi:10.1163/2210-7975_hrd-9902-0152. Retrieved 2021-06-01.  
+         ^ 
+           Salazar, Mary K. (January 2006). "Dealing with Uncertain Risks—When to Apply the Precautionary Principle". AAOHN Journal. 54 (1): 11–13. doi:10.1177/216507990605400102. ISSN&nbsp;0891-0162. S2CID&nbsp;87769508.  
+         ^ 
+           "We Need to Know More About How the Government Censors Its Employees". Human Rights Documents Online. doi:10.1163/2210-7975_hrd-9970-2016117. Retrieved 2021-06-01.  
+         ^ 
+           Pournelle, Jerry (2004-04-22), "1001 Computer Words You Need to Know", Oxford University Press, doi:10.1093/oso/9780195167757.003.0007, ISBN&nbsp;978-0-19-516775-7, retrieved 2021-07-30 }: Missing or empty |title= (help)  
+         ^ 
+           Easttom, William (2021), "Elliptic Curve Cryptography", Modern Cryptography, Cham: Springer International Publishing, pp.&nbsp;245–256, doi:10.1007/978-3-030-63115-4_11, ISBN&nbsp;978-3-030-63114-7, S2CID&nbsp;234106555, retrieved 2021-06-01  
+         ^ 
+           Follman, Rebecca (2014-03-01). From Someone Who Has Been There: Information Seeking in Mentoring. IConference 2014 Proceedings (Thesis). iSchools. doi:10.9776/14322. hdl:1903/14292. ISBN&nbsp;978-0-9884900-1-7.  
+         ^ 
+           Weiss, Jason (2004), "Message Digests, Message Authentication Codes, and Digital Signatures", Java Cryptography Extensions, Elsevier, pp.&nbsp;101–118, doi:10.1016/b978-012742751-5/50012-8, ISBN&nbsp;978-0-12-742751-5, retrieved 2021-06-05  
+         ^ 
+           Bider, D. (March 2018). "Use of RSA Keys with SHA-256 and SHA-512 in the Secure Shell (SSH) Protocol". doi:10.17487/rfc8332. }: Cite journal requires |journal= (help)  
+         ^ 
+           Noh, Jaewon; Kim, Jeehyeong; Kwon, Giwon; Cho, Sunghyun (October 2016). "Secure key exchange scheme for WPA/WPA2-PSK using public key cryptography". 2016 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia). IEEE: 1–4. doi:10.1109/icce-asia.2016.7804782. ISBN&nbsp;978-1-5090-2743-9. S2CID&nbsp;10595698.  
+         ^ 
+           Van Buren, Roy F. (May 1990). "How you can use the data encryption standard to encrypt your files and data bases". ACM SIGSAC Review. 8 (2): 33–39. doi:10.1145/101126.101130. ISSN&nbsp;0277-920X.  
+         ^ 
+           Bonneau, Joseph (2016), "Why Buy When You Can Rent?", Financial Cryptography and Data Security, Lecture Notes in Computer Science, Berlin, Heidelberg: Springer Berlin Heidelberg, vol.&nbsp;9604, pp.&nbsp;19–26, doi:10.1007/978-3-662-53357-4_2, ISBN&nbsp;978-3-662-53356-7, retrieved 2021-06-05  
+         ^ 
+           Coleman, Heather; Andron, Jeff (2015-08-01), "What GIS Experts and Policy Professionals Need to Know about Using Marxan in Multiobjective Planning Processes", Ocean Solutions, Earth Solutions, Esri Press, doi:10.17128/9781589483651_2, ISBN&nbsp;978-1-58948-365-1, retrieved 2021-06-05  
+         ^ a b 
+           "Key Encryption Key", SpringerReference, Berlin/Heidelberg: Springer-Verlag, 2011, doi:10.1007/springerreference_323, retrieved 2021-06-05  
+         ^ 
+           Giri, Debasis; Barua, Prithayan; Srivastava, P. D.; Jana, Biswapati (2010), "A Cryptosystem for Encryption and Decryption of Long Confidential Messages", Communications in Computer and Information Science, Berlin, Heidelberg: Springer Berlin Heidelberg, vol.&nbsp;76, pp.&nbsp;86–96, Bibcode:2010isa..conf...86G, doi:10.1007/978-3-642-13365-7_9, ISBN&nbsp;978-3-642-13364-0, retrieved 2021-06-05  
+         ^ 
+           "Video from SPIE - the International Society for Optics and Photonics". dx.doi.org. doi:10.1117/12.2266326.5459349132001. Retrieved 2021-06-05.  
+         ^ 
+           Vallabhaneni, S.R. (2008). Corporate Management, Governance, and Ethics Best Practices. John Wiley &amp; Sons. p.&nbsp;288. ISBN&nbsp;9780470255803.  
+         ^ 
+           Shon Harris (2003). All-in-one CISSP Certification Exam Guide (2nd&nbsp;ed.). Emeryville, California: McGraw-Hill/Osborne. ISBN&nbsp;978-0-07-222966-0.  
+         ^ 
+           Boncardo, Robert (2018-09-20). "Jean-Claude Milner's Mallarmé: Nothing Has Taken Place". Edinburgh University Press. 1. doi:10.3366/edinburgh/9781474429528.003.0005. S2CID&nbsp;172045429.  
+         ^ 
+           "The Importance of Operational Due Diligence", Hedge Fund Operational Due Diligence, Hoboken, NJ, USA: John Wiley &amp; Sons, Inc., pp.&nbsp;49–67, 2015-10-16, doi:10.1002/9781119197485.ch2, ISBN&nbsp;978-1-119-19748-5, retrieved 2021-06-05  
+         ^ 
+           Hall, Gaylord C. (March 1917). "Some Important Diagnostic Points the General Practioner  Should Know About the Nose". Southern Medical Journal. 10 (3): 211. doi:10.1097/00007611-191703000-00007. ISSN&nbsp;0038-4348.  
+         ^ 
+           J., Renes (1999). Landschappen van Maas en Peel&nbsp;: een toegepast historisch-geografisch onderzoek in het streekplangebied Noord- en Midden-Limburg. Eisma. ISBN&nbsp;90-74252-84-2. OCLC&nbsp;782897414.  
+         ^ 
+           Thomas, Brook (2017-06-22). "Minding Previous Steps Taken". Oxford Scholarship Online. doi:10.1093/acprof:oso/9780190456368.003.0002. ISBN&nbsp;978-0-19-045639-9.  
+         ^ 
+           author., Lundgren, Regina E., 1959- (2018). Risk communication&nbsp;: a handbook for communicating environmental, safety, and health risks. ISBN&nbsp;978-1-119-45613-1. OCLC&nbsp;1043389392. }: |last= has generic name (help)  
+         ^ 
+           Jensen, Eric Talbot (2020-12-03), "Due Diligence in Cyber Activities", Due Diligence in the International Legal Order, Oxford University Press, pp.&nbsp;252–270, doi:10.1093/oso/9780198869900.003.0015, ISBN&nbsp;978-0-19-886990-0, retrieved 2021-06-05  
+         ^ 
+           "The Duty of Care Risk Analysis Standard". DoCRA. Archived from the original on 2018-08-14. Retrieved 2018-08-15.  
+         ^ 
+           Sutton, Adam; Cherney, Adrian; White, Rob (2008), "Evaluating crime prevention", Crime Prevention, Cambridge: Cambridge University Press, pp.&nbsp;70–90, doi:10.1017/cbo9780511804601.006, ISBN&nbsp;978-0-511-80460-1, retrieved 2021-06-05  
+         ^ 
+           Check, Erika (2004-09-15). "FDA considers antidepressant risks for kids". Nature. doi:10.1038/news040913-15. ISSN&nbsp;0028-0836.  
+         ^ 
+           Auckland, Cressida (2017-08-16). "Protecting me from my Directive: Ensuring Appropriate Safeguards for Advance Directives in Dementia". Medical Law Review. 26 (1): 73–97. doi:10.1093/medlaw/fwx037. ISSN&nbsp;0967-0742. PMID&nbsp;28981694.  
+         ^ 
+           Takach, George S. (2016), "Preparing for Breach Litigation", Data Breach Preparation and Response, Elsevier, pp.&nbsp;217–230, doi:10.1016/b978-0-12-803451-4.00009-5, ISBN&nbsp;978-0-12-803451-4, retrieved 2021-06-05  
+         ^ 
+           Westby, J.R.; Allen, J.H. (August 2007). "Governing for Enterprise Security (GES) Implementation Guide" (PDF). Software Engineering Institute. Retrieved 25 January 2018.  
+         ^ 
+           Fowler, Kevvie (2016), "Developing a Computer Security Incident Response Plan", Data Breach Preparation and Response, Elsevier, pp.&nbsp;49–77, doi:10.1016/b978-0-12-803451-4.00003-4, ISBN&nbsp;978-0-12-803451-4, retrieved 2021-06-05  
+         ^ 
+           Bisogni, Fabio (2015). "Proving Limits of State Data Breach Notification Laws: Is a Federal Law the Most Adequate Solution?". SSRN Electronic Journal. doi:10.2139/ssrn.2584655. ISSN&nbsp;1556-5068.  
+         ^ 
+           "Understanding Plan for Every Part", Turbo Flow, Productivity Press, pp.&nbsp;21–30, 2017-07-27, doi:10.1201/b10336-5, ISBN&nbsp;978-0-429-24603-6, retrieved 2021-06-05  
+         ^ 
+           "Iltanget.org". iltanet.org. 2015.  
+         ^ a b 
+           Leonard, Wills (2019). A Brief Guide to Handling a Cyber Incident. pp.&nbsp;17–18.  
+         ^ 
+           Johnson, Leighton R. (2014), "Part 1. Incident Response Team", Computer Incident Response and Forensics Team Management, Elsevier, pp.&nbsp;17–19, doi:10.1016/b978-1-59749-996-5.00038-8, ISBN&nbsp;978-1-59749-996-5, retrieved 2021-06-05  
+         ^ 
+           "Computer Incident Response and Forensics Team Management". Network Security. 2014 (2): 4. February 2014. doi:10.1016/s1353-4858(14)70018-2. ISSN&nbsp;1353-4858.  
+         ^ 
+           "Cybersecurity Threat Landscape and Future Trends", Cybersecurity, Routledge, pp.&nbsp;304–343, 2015-04-16, doi:10.1201/b18335-12, ISBN&nbsp;978-0-429-25639-4, retrieved 2021-06-05  
+         ^ 
+           Information technology. Security techniques. Information security incident management, BSI British Standards, doi:10.3403/30268878u, retrieved 2021-06-05  
+         ^ 
+           "Investigation of a Flow Step Clogging Incident: A Precautionary Note on the Use of THF in Commercial-Scale Continuous Process". dx.doi.org. doi:10.1021/acs.oprd.9b00366.s001. Retrieved 2021-06-05.  
+         ^ 
+           Turner, Tim (2011-09-07), "Our Beginning: Team Members Who Began the Success Story", One Team on All Levels, Productivity Press, pp.&nbsp;9–36, doi:10.4324/9781466500020-2, ISBN&nbsp;978-0-429-25314-0, retrieved 2021-06-05  
+         ^ 
+           Erlanger, Leon (2002). Defensive Strategies. PC Magazine. p.&nbsp;70.  
+         ^ 
+           "of Belgrade's main street. The event took place in absolute", Radical Street Performance, Routledge, pp.&nbsp;81–83, 2013-11-05, doi:10.4324/9781315005140-28, ISBN&nbsp;978-1-315-00514-0, retrieved 2021-06-05  
+         ^ 
+           "Why Choice Matters So Much and What Can be Done to Preserve It". The Manipulation of Choice. Palgrave Macmillan. 2013. doi:10.1057/9781137313577.0010. ISBN&nbsp;978-1-137-31357-7. Retrieved 2021-06-05.  
+         ^ a b c 
+           "Computer Security Incident Handling Guide" (PDF). Nist.gov. 2012.  
+         ^ 
+           Borgström, Pernilla; Strengbom, Joachim; Viketoft, Maria; Bommarco, Riccardo (4 April 2016). "Table S3: Results from linear-mixed models where non-signficant  parameters have not been removed". PeerJ. 4: e1867. doi:10.7717/peerj.1867/supp-3. Retrieved 2021-06-05.  
+         ^ 
+           Penfold, David (2000), "Selecting, Copying, Moving and Deleting Files and Directories", ECDL Module 2: Using the Computer and Managing Files, London: Springer London, pp.&nbsp;86–94, doi:10.1007/978-1-4471-0491-9_6, ISBN&nbsp;978-1-85233-443-7, retrieved 2021-06-05  
+         ^ 
+           Onur., Gumus (2018). ASP. NET Core 2 Fundamentals&nbsp;: Build Cross-Platform Apps and Dynamic Web Services with This Server-side Web Application Framework. Packt Publishing Ltd. ISBN&nbsp;978-1-78953-355-2. OCLC&nbsp;1051139482.  
+         ^ 
+           "Do the Students Understand What They Are Learning?", Trouble-shooting Your Teaching, Routledge, pp.&nbsp;36–40, 2005-02-25, doi:10.4324/9780203416907-8, ISBN&nbsp;978-0-203-41690-7, retrieved 2021-06-05  
+         ^ 
+           "Where Are Films Restored, Where Do They Come From and Who Restores Them?", Film Restoration, Palgrave Macmillan, 2013, doi:10.1057/9781137328724.0006, ISBN&nbsp;978-1-137-32872-4, retrieved 2021-06-05  
+         ^ 
+           Liao, Qi; Li, Zhen; Striegel, Aaron (2011-01-24). "Could firewall rules be public - a game theoretical perspective". Security and Communication Networks. 5 (2): 197–210. doi:10.1002/sec.307. ISSN&nbsp;1939-0114.  
+         ^ 
+           Nilufer., Boeckman, Philip. Greenwald, David J. Von Bismarck (2013). Twelfth annual institute on securities regulation in Europe&nbsp;: overcoming deal-making challenges in the current markets. Practising Law Institute. ISBN&nbsp;978-1-4024-1932-4. OCLC&nbsp;825824220.  
+         ^ 
+           "Figure 1.8. Spending of social security has been growing, while self-financing has been falling". dx.doi.org. doi:10.1787/888932459242. Retrieved 2021-06-05.  
+         ^ 
+           "Information Governance: The Crucial First Step", Safeguarding Critical E-Documents, Hoboken, NJ, USA: John Wiley &amp; Sons, Inc., pp.&nbsp;13–24, 2015-09-19, doi:10.1002/9781119204909.ch2, ISBN&nbsp;978-1-119-20490-9, retrieved 2021-06-05  
+         ^ 
+           He, Ying (December 1, 2017). "Challenges of Information Security Incident Learning: An Industrial Case Study in a Chinese Healthcare Organization" (PDF). Informatics for Health and Social Care. 42 (4): 394–395. doi:10.1080/17538157.2016.1255629. PMID&nbsp;28068150. S2CID&nbsp;20139345.  
+         ^ 
+           Kampfner, Roberto R. (1985). "Formal specification of information systems requirements". Information Processing &amp; Management. 21 (5): 401–414. doi:10.1016/0306-4573(85)90086-x. ISSN&nbsp;0306-4573.  
+         ^ 
+           1948-, Jenner, H.A. (Henk Arnold) (1995). Assessment of ecotoxicological risks of element leaching from pulverized coal ashes. s.n.] OCLC&nbsp;905474381.}: CS1 maint: numeric names: authors list (link)  
+         ^ 
+           "Desktop Computers: Software", Practical Pathology Informatics, New York: Springer-Verlag, pp.&nbsp;51–82, 2006, doi:10.1007/0-387-28058-8_3, ISBN&nbsp;0-387-28057-X, retrieved 2021-06-05  
+         ^ 
+           Wilby, R.L.; Orr, H.G.; Hedger, M.; Forrow, D.; Blackmore, M. (December 2006). "Risks posed by climate change to the delivery of Water Framework Directive objectives in the UK". Environment International. 32 (8): 1043–1055. doi:10.1016/j.envint.2006.06.017. ISSN&nbsp;0160-4120. PMID&nbsp;16857260.  
+         ^ 
+           Campbell, T. (2016). "Chapter 14: Secure Systems Development". Practical Information Security Management: A Complete Guide to Planning and Implementation. Apress. p.&nbsp;218. ISBN&nbsp;9781484216859.  
+         ^ 
+           L., Koppelman, Kent (2011). Understanding human differences&nbsp;: multicultural education for a diverse America. Pearson/Allyn &amp; Bacon. OCLC&nbsp;1245910610.  
+         ^ 
+           "POST-PROCESSING", Simple Scene, Sensational Shot, Routledge, pp.&nbsp;128–147, 2013-04-12, doi:10.4324/9780240821351-9, ISBN&nbsp;978-0-240-82135-1, retrieved 2021-06-05  
+         ^ 
+           Kumar, Binay; Mahto, Tulsi; Kumari, Vinita; Ravi, Binod Kumar; Deepmala (2016). "Quackery: How It Can Prove Fatal Even in Apparently Simple Cases-A Case Report". Medico-Legal Update. 16 (2): 75. doi:10.5958/0974-1283.2016.00063.3. ISSN&nbsp;0971-720X.  
+         ^ 
+           Priest, Sally (2019-02-22). "Shared roles and responsibilities in flood risk management". Journal of Flood Risk Management. 12 (1): e12528. doi:10.1111/jfr3.12528. ISSN&nbsp;1753-318X. S2CID&nbsp;133789858.  
+         ^ 
+           Information., United States. Department of Energy. United States. Department of Energy. Office of Inspector General. United States. Department of Energy. Office of Scientific and Technical (2009). Audit Report, "Fire Protection Deficiencies at Los Alamos National Laboratory.". United States. Dept. of Energy. OCLC&nbsp;727225166.  
+         ^ 
+           Toms, Elaine G. (January 1992). "Managing change in libraries and information services; A systems approach". Information Processing &amp; Management. 28 (2): 281–282. doi:10.1016/0306-4573(92)90052-2. ISSN&nbsp;0306-4573.  
+         ^ 
+           Abolhassan, Ferri (2003), "The Change Management Process Implemented at IDS Scheer", Business Process Change Management, Berlin, Heidelberg: Springer Berlin Heidelberg, pp.&nbsp;15–22, doi:10.1007/978-3-540-24703-6_2, ISBN&nbsp;978-3-642-05532-4, retrieved 2021-06-05  
+         ^ 
+           Dawson, Chris (2020-07-01). Leading Culture Change. doi:10.1515/9780804774673. ISBN&nbsp;9780804774673. S2CID&nbsp;242348822.  
+         ^ 
+           McCormick, Douglas P. (22 March 2016). Family Inc.&nbsp;: using business principles to maximize your family's wealth. ISBN&nbsp;978-1-119-21976-7. OCLC&nbsp;945632737.  
+         ^ 
+           Schuler, Rainer (August 1995). "Some properties of sets tractable under every polynomial-time computable distribution". Information Processing Letters. 55 (4): 179–184. doi:10.1016/0020-0190(95)00108-o. ISSN&nbsp;0020-0190.  
+         ^ 
+           "Figure 12.2. Share of own-account workers who generally do not have more than one client" (Excel). dx.doi.org. doi:10.1787/888933881610. Retrieved 2021-06-05.  
+         ^ 
+           "Multi-user file server for DOS LANs". Computer Communications. 10 (3): 153. June 1987. doi:10.1016/0140-3664(87)90353-7. ISSN&nbsp;0140-3664.  
+         ^ 
+           "Defining Organizational Change", Organizational Change, Oxford, UK: Wiley-Blackwell, pp.&nbsp;21–51, 2011-04-19, doi:10.1002/9781444340372.ch1, ISBN&nbsp;978-1-4443-4037-2, retrieved 2021-06-05  
+         ^ 
+           Kirchmer, Mathias; Scheer, August-Wilhelm (2003), "Change Management — Key for Business Process Excellence", Business Process Change Management, Berlin, Heidelberg: Springer Berlin Heidelberg, pp.&nbsp;1–14, doi:10.1007/978-3-540-24703-6_1, ISBN&nbsp;978-3-642-05532-4, retrieved 2021-06-05  
+         ^ 
+           More, Josh; Stieber, Anthony J.; Liu, Chris (2016), "Tier 2—Advanced Help Desk—Help Desk Supervisor", Breaking Into Information Security, Elsevier, pp.&nbsp;111–113, doi:10.1016/b978-0-12-800783-9.00029-x, ISBN&nbsp;978-0-12-800783-9, retrieved 2021-06-05  
+         ^ 
+           "An Application of Bayesian Networks in Automated Scoring of Computerized Simulation Tasks", Automated Scoring of Complex Tasks in Computer-Based Testing, Routledge, pp.&nbsp;212–264, 2006-04-04, doi:10.4324/9780415963572-10, ISBN&nbsp;978-0-415-96357-2, retrieved 2021-06-05  
+         ^ 
+           Kavanagh, Michael J. (June 1994). "Change, Change, Change". Group &amp; Organization Management. 19 (2): 139–140. doi:10.1177/1059601194192001. ISSN&nbsp;1059-6011. S2CID&nbsp;144169263.  
+         ^ 
+           Taylor, J. (2008). "Chapter 10: Understanding the Project Change Process". Project Scheduling and Cost Control: Planning, Monitoring and Controlling the Baseline. J. Ross Publishing. pp.&nbsp;187–214. ISBN&nbsp;9781932159110.  
+         ^ 
+           "17. Innovation and Change: Can Anyone Do This?", Backstage in a Bureaucracy, University of Hawaii Press, pp.&nbsp;87–96, 2017-12-31, doi:10.1515/9780824860936-019, ISBN&nbsp;978-0-8248-6093-6, retrieved 2021-06-05  
+         ^ 
+           author., Braun, Adam (3 February 2015). Promise of a pencil&nbsp;: how an ordinary person can create extraordinary change. ISBN&nbsp;978-1-4767-3063-9. OCLC&nbsp;902912775. }: |last= has generic name (help)  
+         ^ 
+           "Describing Within-Person Change Over Time", Longitudinal Analysis, Routledge, pp.&nbsp;235–306, 2015-01-30, doi:10.4324/9781315744094-14, ISBN&nbsp;978-1-315-74409-4, retrieved 2021-06-05  
+         ^ 
+           Carolyn., Ingraham, Patricia W. Ban (1984). Legislating bureaucratic change&nbsp;: the Civil Service Reform Act of 1978. State University of New York Press. ISBN&nbsp;0-87395-886-1. OCLC&nbsp;10300171.  
+         ^ 
+           Wei, J. (2000-05-04). "Preliminary Change Request for the SNS 1.3 GeV-Compatible Ring". doi:10.2172/1157253. OSTI&nbsp;1157253. Retrieved 18 January 2022. }: Cite journal requires |journal= (help)  
+         ^ 
+           Chen Liang (May 2011). "Allocation priority management of agricultural water resources based on the theory of virtual water". 2011 International Conference on Business Management and Electronic Information. IEEE. 1: 644–647. doi:10.1109/icbmei.2011.5917018. ISBN&nbsp;978-1-61284-108-3. S2CID&nbsp;29137725.  
+         ^ 
+           "Change risks and best practices in Business Change Management Unmanaged change risk leads to problems for change management", Leading and Implementing Business Change Management, Routledge, pp.&nbsp;32–74, 2013-07-18, doi:10.4324/9780203073957-9, ISBN&nbsp;978-0-203-07395-7, retrieved 2021-06-05  
+         ^ 
+           M., Bragg, Steven (2016). Accounting Best Practices. Wiley. ISBN&nbsp;978-1-118-41780-5. OCLC&nbsp;946625204.  
+         ^ 
+           "Successful change requires more than change management". Human Resource Management International Digest. 16 (7). 2008-10-17. doi:10.1108/hrmid.2008.04416gad.005. ISSN&nbsp;0967-0734.  
+         ^ 
+           "Planning for water resources under climate change", Spatial Planning and Climate Change, Routledge, pp.&nbsp;287–313, 2010-09-13, doi:10.4324/9780203846537-20, ISBN&nbsp;978-0-203-84653-7, retrieved 2021-06-05  
+         ^ 
+           ROWAN, JOHN (January 1967). "Answering the computer back". Management Decision. 1 (1): 51–54. doi:10.1108/eb000776. ISSN&nbsp;0025-1747.  
+         ^ 
+           Biswas, Margaret R.; Biswas, Asit K. (February 1981). "Climatic change and food production". Agriculture and Environment. 5 (4): 332. doi:10.1016/0304-1131(81)90050-3. ISSN&nbsp;0304-1131.  
+         ^ 
+           "backout", SpringerReference, Berlin/Heidelberg: Springer-Verlag, 2011, doi:10.1007/springerreference_8663, retrieved 2021-06-05  
+         ^ 
+           "Editorial Advisory and Review Board", Business and Sustainability: Concepts, Strategies and Changes, Critical Studies on Corporate Responsibility, Governance and Sustainability, Emerald Group Publishing Limited, vol.&nbsp;3, pp.&nbsp;xv–xvii, 2011-12-06, doi:10.1108/s2043-9059(2011)0000003005, ISBN&nbsp;978-1-78052-438-2, retrieved 2021-06-05  
+         ^ 
+           "Where a Mirage Has Once Been, Life Must Be", New and Selected Poems, University of South Carolina Press, p.&nbsp;103, 2014, doi:10.2307/j.ctv6sj8d1.65, ISBN&nbsp;978-1-61117-323-9, retrieved 2021-06-05  
+         ^ 
+           Bell, Marvin (1983). "Two, When There Might Have Been Three". The Antioch Review. 41 (2): 209. doi:10.2307/4611230. ISSN&nbsp;0003-5769. JSTOR&nbsp;4611230.  
+         ^ 
+           "We can also make change". Human Rights Documents Online. doi:10.1163/2210-7975_hrd-0148-2015175. Retrieved 2021-06-05.  
+         ^ 
+           Mazikana, Anthony Tapiwa (2020). "'Change Is the Law of Life. and Those Who Look only to the past or Present Are Certain to Miss the Future- John F. Kennedy' Assessing This Statement with References to Organizations in Zimbabwe Who Have Been Affected by Change". SSRN Electronic Journal. doi:10.2139/ssrn.3725707. ISSN&nbsp;1556-5068. S2CID&nbsp;238964905.  
+         ^ 
+           editor., Ramanadham, V. V. (Venkata Vemuri), 1920-. Privatisation in the UK. ISBN&nbsp;978-0-429-19973-8. OCLC&nbsp;1085890184. }: |last= has generic name (help)  
+         ^ 
+           Anonymous (2020-09-22). "More complex/realistic rheology must be implemented; Numerical convergence tests must be performed". dx.doi.org. doi:10.5194/gmd-2020-107-rc2. S2CID&nbsp;241597573. Retrieved 2021-06-05.  
+         ^ 
+           1936-, Stone, Edward. Edward C. Stone Collection. OCLC&nbsp;733102101.}: CS1 maint: numeric names: authors list (link)  
+         ^ 
+           LIENTZ, B (2002), "Develop Your Improvement Implementation Plan", Achieve Lasting Process Improvement, Elsevier, pp.&nbsp;151–171, doi:10.1016/b978-0-12-449984-3.50011-8, ISBN&nbsp;978-0-12-449984-3, retrieved 2021-06-05  
+         ^ 
+           (P.J.A.M.), Smeets, Peter (2009). Expeditie agroparken&nbsp;: ontwerpend onderzoek naar metropolitane landbouw en duurzame ontwikkeling. s.n.] ISBN&nbsp;978-90-8585-515-6. OCLC&nbsp;441821141.  
+         ^ 
+           "Figure 1.3. About 50 percent of the Going for Growth recommendations have been implemented or are in process of implementation". dx.doi.org. doi:10.1787/888933323735. Retrieved 2021-06-05.  
+         ^ 
+           Kekes, John (2019-02-21), "Must Justice Be Done at All Costs?", Hard Questions, Oxford University Press, pp.&nbsp;98–126, doi:10.1093/oso/9780190919986.003.0005, ISBN&nbsp;978-0-19-091998-6, retrieved 2021-06-05  
+         ^ 
+           author., Forrester, Kellie (2014). Macroeconomic implications of changes in the composition of the labor force. ISBN&nbsp;978-1-321-34938-2. OCLC&nbsp;974418780. }: |last= has generic name (help)  
+         ^ 
+           Choudhury, Gagan L.; Rappaport, Stephen S. (October 1981). "Demand assigned multiple access systems using collision type request channels". ACM SIGCOMM Computer Communication Review. 11 (4): 136–148. doi:10.1145/1013879.802667. ISSN&nbsp;0146-4833.  
+         ^ 
+           Crinson, Mark (2013). ""Certain Old and Lovely Things, Whose Signified Is Abstract, Out of Date": James Stirling and Nostalgia". Change over Time. 3 (1): 116–135. doi:10.1353/cot.2013.0000. ISSN&nbsp;2153-0548.  
+         ^ 
+           Ahwidy, Mansour; Pemberton, Lyn (2016). "What Changes Need to be Made within the LNHS for Ehealth Systems to be Successfully Implemented?". Proceedings of the International Conference on Information and Communication Technologies for Ageing Well and E-Health. SCITEPRESS - Science and Technology Publications: 71–79. doi:10.5220/0005620400710079. ISBN&nbsp;978-989-758-180-9.  
+         ^ 
+           author., Mortimer, John, 1923-2009 (April 2010). Paradise postponed. ISBN&nbsp;978-0-14-104952-6. OCLC&nbsp;495596392. }: |last= has generic name (help)  
+         ^ a b 
+           Soriani, Marco (2021-04-08). "Faculty Opinions recommendation of Concerns about SARS-CoV-2 evolution should not hold back efforts to expand vaccination". Nature Reviews. Immunology. 21 (5). doi:10.3410/f.739855011.793584529. S2CID&nbsp;242286470. Retrieved 2021-06-05.  
+         ^ 
+           Frampton, Michael (2014-12-26), "Processing Data with Map Reduce", Big Data Made Easy, Berkeley, CA: Apress, pp.&nbsp;85–120, doi:10.1007/978-1-4842-0094-0_4, ISBN&nbsp;978-1-4842-0095-7, retrieved 2021-06-05  
+         ^ 
+           "Good study overall, but several procedures need fixing" (PDF). 2016-02-23. doi:10.5194/hess-2015-520-rc2. Retrieved 18 January 2022. }: Cite journal requires |journal= (help)  
+         ^ 
+           Harrison, Kent; Craft, Walter M.; Hiller, Jack; McCluskey, Michael R. (1996-07-01). "Peer Review Coordinating Draft. Task Analysis for Conduct Intelligence Planning (Critical Combat Function 1): As Accomplished by a Battalion Task Force". Fort Belvoir, VA. Retrieved 18 January 2022.  
+         ^ itpi.org Archived December 10, 2013, at the Wayback Machine  
+         ^ 
+           "book summary of The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps". wikisummaries.org. Retrieved 2016-06-22.  
+         ^ 
+           Bigelow, Michelle (2020-09-23), "Change Control and Change Management", Implementing Information Security in Healthcare, HIMSS Publishing, pp.&nbsp;203–214, doi:10.4324/9781003126294-17, ISBN&nbsp;978-1-003-12629-4, S2CID&nbsp;224866307, retrieved 2021-06-05  
+         ^ 
+           Business continuity management. Guidance on organization recovery following disruptive incidents, BSI British Standards, doi:10.3403/30194308, retrieved 2021-06-05  
+         ^ 
+           1949-, Hoanh, (Chu Thai) (1996). Development of a computerized aid to integrated land use planning (cailup) at regional level in irrigated areas&nbsp;: a case study for the Quan Lo Phung Hiep region in the Mekong Delta, Vietnam. ITC. ISBN&nbsp;90-6164-120-9. OCLC&nbsp;906763535.}: CS1 maint: numeric names: authors list (link)  
+         ^ 1
+           Hibberd, Gary (2015-09-11), "Developing a BCM Strategy in Line with Business Strategy", The Definitive Handbook of Business Continuity Management, Hoboken, NJ, USA: John Wiley &amp; Sons, Inc., pp.&nbsp;23–30, doi:10.1002/9781119205883.ch2, ISBN&nbsp;978-1-119-20588-3, retrieved 2021-06-05  
+         ^ Hotchkiss, Stuart. Business Continuity Management&nbsp;: In Practice, British Informatics Society Limited, 2010. ProQuest Ebook Central, https://ebookcentral.proquest.com/lib/pensu/detail.action?docID=634527.  
+         ^ 
+           "Identifying Potential Failure Causes", Systems Failure Analysis, ASM International, pp.&nbsp;25–33, 2009, doi:10.31399/asm.tb.sfa.t52780025, ISBN&nbsp;978-1-62708-268-6, retrieved 2021-06-05  
+         ^ 
+           author., Clemens, Jeffrey. Risks to the returns to medical innovation&nbsp;: the case of myriad genetics. OCLC&nbsp;919958196. }: |last= has generic name (help)  
+         ^ 
+           Goatcher, Genevieve (2013), "Maximum Acceptable Outage", Encyclopedia of Crisis Management, 2455 Teller Road, Thousand Oaks California 91320 United States: SAGE Publications, Inc., doi:10.4135/9781452275956.n204, ISBN&nbsp;978-1-4522-2612-5, retrieved 2021-06-05}: CS1 maint: location (link)  
+         ^ 
+           "Segment Design Tradeoffs", Software Radio Architecture, New York, USA: John Wiley &amp; Sons, Inc., pp.&nbsp;236–243, 2002-01-17, doi:10.1002/047121664x.ch6, ISBN&nbsp;978-0-471-21664-3, retrieved 2021-06-05  
+         ^ 
+           Blundell, S. (1998). "IN-EMERGENCY - integrated incident management, emergency healthcare and environmental monitoring in road networks". IEE Seminar Using ITS in Public Transport and in Emergency Services. IEE. 1998: 9. doi:10.1049/ic:19981090.  
+         ^ 
+           King, Jonathan R. (January 1993). "Contingency Plans and Business Recovery". Information Systems Management. 10 (4): 56–59. doi:10.1080/10580539308906959. ISSN&nbsp;1058-0530.  
+         ^ 
+           Phillips, Brenda D.; Landahl, Mark (2021), "Strengthening and testing your business continuity plan", Business Continuity Planning, Elsevier, pp.&nbsp;131–153, doi:10.1016/b978-0-12-813844-1.00001-4, ISBN&nbsp;978-0-12-813844-1, S2CID&nbsp;230582246, retrieved 2021-06-05  
+         ^ 
+           Schnurr, Stephanie (2009), "The 'Other' Side of Leadership Discourse: Humour and the Performance of Relational Leadership Activities", Leadership Discourse at Work, London: Palgrave Macmillan UK, pp.&nbsp;42–60, doi:10.1057/9780230594692_3, ISBN&nbsp;978-1-349-30001-3, retrieved 2021-06-05  
+         ^ 
+           Specified time relays for industrial use, BSI British Standards, doi:10.3403/02011580u, retrieved 2021-06-05  
+         ^ 
+           "Sample Generic Plan and Procedure: Disaster Recovery Plan (DRP) for Operations/Data Center". Workplace Violence. Elsevier. 2010. pp.&nbsp;253–270. doi:10.1016/b978-1-85617-698-9.00025-4. ISBN&nbsp;978-1-85617-698-9. Retrieved 2021-06-05.  
+         ^ 
+           "Information Technology Disaster Recovery Plan". Disaster Planning for Libraries. Chandos Information Professional Series. Elsevier. 2015. pp.&nbsp;187–197. doi:10.1016/b978-1-84334-730-9.00019-3. ISBN&nbsp;978-1-84334-730-9. Retrieved 2021-06-05.  
+         ^ 
+           "The Disaster Recovery Plan". Sans Institute. Retrieved 7 February 2012.  
+         ^ a b 
+           "Figure 1.10. Regulations in non-manufacturing sector have significant impact on the manufacturing sector". dx.doi.org. doi:10.1787/888933323807. Retrieved 2021-06-05.  
+         ^ 
+           Hawaii), World Environmental and Water Resources Congress (2008&nbsp;: Honolulu (2008). Ahupuaʻa &nbsp;: World Environmental and Water Resources Congress 2008, May 12-16, 2008, Honolulu, Hawaiʻi. American Society of Civil Engineers. ISBN&nbsp;978-0-7844-0976-3. OCLC&nbsp;233033926.  
+         ^ 
+           Commons., Great Britain. Parliament. House of (2007). Data protection  A bill  intituled an act to make new provision for the regulation of the processing of information relating to individuals, including the obtaining, holding, use or disclosure of such information. Proquest LLC. OCLC&nbsp;877574826.  
+         ^ 
+           "Data protection, access to personal information and privacy protection", Government and Information Rights: The Law Relating to Access, Disclosure and their Regulation, Bloomsbury Professional, 2019, doi:10.5040/9781784518998.chapter-002, ISBN&nbsp;978-1-78451-896-7, S2CID&nbsp;239376648, retrieved 2021-06-05  
+         ^ 
+           Lehtonen, Lasse A. (2017-07-05), "Genetic Information and the Data Protection Directive of the European Union", The Data Protection Directive and Medical Research Across Europe, Routledge, pp.&nbsp;103–112, doi:10.4324/9781315240350-8, ISBN&nbsp;978-1-315-24035-0, retrieved 2021-06-05  
+         ^ 
+           "Data Protection Act 1998". legislation.gov.uk. The National Archives. Retrieved 25 January 2018.  
+         ^ 
+           "Computer Misuse Act 1990", Criminal Law Statutes 2011-2012, Routledge, pp.&nbsp;114–118, 2013-06-17, doi:10.4324/9780203722763-42, ISBN&nbsp;978-0-203-72276-3, retrieved 2021-06-05  
+         ^ 
+           Dharmapala, Dhammika; Hines, James (December 2006). "Which Countries Become Tax Havens?". Cambridge, MA. doi:10.3386/w12802. }: Cite journal requires |journal= (help)  
+         ^ 
+           "Figure 1.14. Participation rates have risen but labour force growth has slowed in several countries". dx.doi.org. doi:10.1787/888933367391. Retrieved 2021-06-05.  
+         ^ 
+           "Computer Misuse Act 1990". legislation.gov.uk. The National Archives. Retrieved 25 January 2018.  
+         ^ 
+           "Directive 2006/24/EC of the European Parliament and of the Council of 15 March 2006". EUR-Lex. European Union. Retrieved 25 January 2018.  
+         ^ 
+           "Defamation, Student Records, and the Federal Family Education Rights and Privacy Act", Higher Education Law, Routledge, pp.&nbsp;361–394, 2010-12-14, doi:10.4324/9780203846940-22, ISBN&nbsp;978-0-203-84694-0, retrieved 2021-06-05  
+         ^ a b 
+           "Alabama Schools Receive NCLB Grant To Improve Student Achievement". PsycEXTRA Dataset. 2004. doi:10.1037/e486682006-001. Retrieved 2021-06-05.  
+         ^ 
+           Karen., Turner-Gottschang (1987). China bound&nbsp;: a guide to academic life and work in the PRC&nbsp;: for the Committee on Scholarly Communication with the People's Republic of China, National Academy of Sciences, American Council of Learned Societies, Social Science Research Council. National Academy Press. ISBN&nbsp;0-309-56739-4. OCLC&nbsp;326709779.  
+         ^ Codified at 20&nbsp;U.S.C.&nbsp;§&nbsp;1232g, with implementing regulations in title 34, part 99 of the Code of Federal Regulations  
+         ^ 
+           "Audit Booklet". Information Technology Examination Handbook. FFIEC. Retrieved 25 January 2018.  
+         ^ 
+           Ray, Amy W. (2004), "Health Insurance Portability and Accountability Act (HIPAA)", Encyclopedia of Health Care Management, 2455 Teller Road, Thousand Oaks California 91320 United States: SAGE Publications, Inc., doi:10.4135/9781412950602.n369, ISBN&nbsp;978-0-7619-2674-0, retrieved 2021-06-05}: CS1 maint: location (link)  
+         ^ 
+           "Public Law 104 - 191 - Health Insurance Portability and Accountability Act of 1996". U.S. Government Publishing Office. Retrieved 25 January 2018.  
+         ^ 
+           "Public Law 106 - 102 - Gramm–Leach–Bliley Act of 1999" (PDF). U.S. Government Publishing Office. Retrieved 25 January 2018.  
+         ^ 
+           Alase, Abayomi Oluwatosin. The impact of the Sarbanes-Oxley Act (SOX) on small-sized publicly traded companies and their communities (Thesis). Northeastern University Library. doi:10.17760/d20204801.  
+         ^ 
+           Solis, Lupita. Educational and Professional Trends of Chief Financial Officers (Thesis). Portland State University Library. doi:10.15760/honors.763.  
+         ^ 
+           "Public Law 107 - 204 - Sarbanes-Oxley Act of 2002". U.S. Government Publishing Office. Retrieved 25 January 2018.  
+         ^ 
+           "Pci Dss Glossary, Abbreviations, and Acronyms", Payment Card Industry Data Security Standard Handbook, Hoboken, NJ, USA: John Wiley &amp; Sons, Inc., pp.&nbsp;185–199, 2015-09-18, doi:10.1002/9781119197218.gloss, ISBN&nbsp;978-1-119-19721-8, retrieved 2021-06-05  
+         ^ 
+           "PCI Breakdown (Control Objectives and Associated Standards)", Payment Card Industry Data Security Standard Handbook, Hoboken, NJ, USA: John Wiley &amp; Sons, Inc., p.&nbsp;61, 2015-09-18, doi:10.1002/9781119197218.part2, ISBN&nbsp;978-1-119-19721-8, retrieved 2021-06-05  
+         ^ 
+           Ravallion, Martin; Chen, Shaohua (August 2017). "Welfare-Consistent Global Poverty Measures". doi:10.3386/w23739. Retrieved 18 January 2022. }: Cite journal requires |journal= (help)  
+         ^ 
+           "Payment Card Industry (PCI) Data Security Standard: Requirements and Security Assessment Procedures - Version 3.2" (PDF). Security Standards Council. April 2016. Retrieved 25 January 2018.  
+         ^ 
+           "Security Breach Notification Laws". National Conference of State Legislatures. 12 April 2017. Retrieved 25 January 2018.  
+         ^ 
+           editor., Stein, Stuart G., editor. Schaberg, Richard A., editor. Biddle, Laura R. (23 June 2015). Financial institutions answer book, 2015&nbsp;: law, governance, compliance. ISBN&nbsp;978-1-4024-2405-2. OCLC&nbsp;911952833. }: |last= has generic name (help)  
+         ^ 
+           "Personal Information and Data Protection", Protecting Personal Information, Hart Publishing, 2019, doi:10.5040/9781509924882.ch-002, ISBN&nbsp;978-1-5099-2485-1, S2CID&nbsp;239275871, retrieved 2021-06-05  
+         ^ 
+           Canada. (2000). Chapter 5. An Act to support and promote electronic commerce by protecting personal information that is collected, used or disclosed in certain circumstances, by providing for the use of electronic means to communicate or record information or transactions and by amending the Canada Evidence Act, the Statutory Instruments Act and the Statute Revision Act. Queen's Printer for Canada. OCLC&nbsp;61417862.  
+         ^ 
+           "Comments". Statute Law Review. 5 (1): 184–188. 1984. doi:10.1093/slr/5.1.184. ISSN&nbsp;0144-3593.  
+         ^ 
+           "Personal Information Protection and Electronic Documents Act" (PDF). Canadian Minister of Justice. Retrieved 25 January 2018.  
+         ^ 
+           Werner, Martin (2011-05-11). "Privacy-protected communication for location-based services". Security and Communication Networks. 9 (2): 130–138. doi:10.1002/sec.330. ISSN&nbsp;1939-0114.  
+         ^ 
+           "Regulation for the Assurance of Confidentiality in Electronic Communications" (PDF). Government Gazette of the Hellenic Republic. Hellenic Authority for Communication Security and Privacy. 17 November 2011. Retrieved 25 January 2018.  
+         ^ 
+           de Guise, Preston (2020-04-29), "Security, Privacy, Ethical, and Legal Considerations", Data Protection, Auerbach Publications, pp.&nbsp;91–108, doi:10.1201/9780367463496-9, ISBN&nbsp;978-0-367-46349-6, S2CID&nbsp;219013948, retrieved 2021-06-05  
+         ^ 
+           "Αριθμ. απόφ. 205/2013" (PDF). Government Gazette of the Hellenic Republic. Hellenic Authority for Communication Security and Privacy. 15 July 2013. Retrieved 25 January 2018.  
+         ^ 
+           https://securitycultureframework.net (9 April 2014). "Definition of Security Culture". The Security Culture Framework. }: External link in |last= (help)  
+         ^ 
+           Roer, Kai; Petric, Gregor (2017). The 2017 Security Culture Report - In depth insights into the human factor. CLTRe North America, Inc. pp.&nbsp;42–43. ISBN&nbsp;978-1544933948.  
+         ^ 
+           Akhtar, Salman, ed. (2018-03-21). Good Feelings. Routledge. doi:10.4324/9780429475313. ISBN&nbsp;9780429475313.  
+         ^ Anderson, D., Reimers, K. and Barretto, C. (March 2014). Post-Secondary Education Network Security: Results of Addressing the End-User Challenge.publication date Mar 11, 2014 publication description INTED2014 (International Technology, Education, and Development Conference)  
+         ^ a b 
+           Schlienger, Thomas; Teufel, Stephanie (December 2003). "Information security culture - from analysis to change". South African Computer Society (SAICSIT). 2003 (31): 46–52. hdl:10520/EJC27949.  
+         ^ 
+           "IISP Skills Framework".  
+         ^ 
+           "BSI-Standards". BSI. Retrieved 29 November 2013.  
+        
+       
+       
+      Further reading 
+      
+       
+       
+        Anderson, K., "IT Security Professionals Must Evolve for Changing Market", SC Magazine, October 12, 2006. 
+        Aceituno, V., "On Information Security Paradigms", ISSA Journal, September 2005. 
+        Dhillon, G., Principles of Information Systems Security: text and cases, John Wiley &amp; Sons, 2007. 
+        Easttom, C., Computer Security Fundamentals (2nd Edition) Pearson Education, 2011. 
+        Lambo, T., "ISO/IEC 27001: The future of infosec certification", ISSA Journal, November 2006. 
+        Dustin, D., " Awareness of How Your Data is Being Used and What to Do About It", "CDR Blog", May 2017.
+        
+       Bibliography 
+       
+        
+         Allen, Julia H. (2001). The CERT Guide to System and Network Security Practices. Boston, MA: Addison-Wesley. ISBN&nbsp;978-0-201-73723-3. 
+        
+         Krutz, Ronald L.; Russell Dean Vines (2003). The CISSP Prep Guide (Gold&nbsp;ed.). Indianapolis, IN: Wiley. ISBN&nbsp;978-0-471-26802-4. 
+        
+         Layton, Timothy P. (2007). Information Security: Design, Implementation, Measurement, and Compliance. Boca Raton, FL: Auerbach publications. ISBN&nbsp;978-0-8493-7087-8. 
+        
+         McNab, Chris (2004). Network Security Assessment. Sebastopol, CA: O'Reilly. ISBN&nbsp;978-0-596-00611-2. 
+        
+         Peltier, Thomas R. (2001). Information Security Risk Analysis. Boca Raton, FL: Auerbach publications. ISBN&nbsp;978-0-8493-0880-2. 
+        
+         Peltier, Thomas R. (2002). Information Security Policies, Procedures, and Standards: guidelines for effective information security management. Boca Raton, FL: Auerbach publications. ISBN&nbsp;978-0-8493-1137-6. 
+        
+         White, Gregory (2003). All-in-one Security+ Certification Exam Guide. Emeryville, CA: McGraw-Hill/Osborne. ISBN&nbsp;978-0-07-222633-1. 
+        
+         Dhillon, Gurpreet (2007). Principles of Information Systems Security: text and cases. NY: John Wiley &amp; Sons. ISBN&nbsp;978-0-471-45056-6. 
+        
+         Whitman, Michael; Mattord, Herbert (2017). Principles of Information Security. Cengage. ISBN&nbsp;978-1337102063.
+        
+       
+      External links 
+       
+       
+         
+          
+         Wikimedia Commons has media related to Information security.
+         
+       
+       
+      
+       DoD IA Policy Chart on the DoD Information Assurance Technology Analysis Center web site. 
+       patterns &amp; practices Security Engineering Explained 
+       Open Security Architecture- Controls and patterns to secure IT systems 
+       IWS – Information Security Chapter 
+       Ross Anderson's book "Security Engineering"
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Computer science
+           
+         
+         
+          
+           
+            Note: This template roughly follows the 2012 ACM Computing Classification System.
+           
+         
+         
+          Hardware
+          
+            
+            
+             Printed circuit board 
+             Peripheral 
+             Integrated circuit 
+             Very Large Scale Integration 
+             Systems on Chip (SoCs) 
+             Energy consumption (Green computing) 
+             Electronic design automation 
+             Hardware acceleration
+             
+           
+          
+           
+            
+           
+         
+         
+          Computer systems organization
+          
+            
+            
+             Computer architecture 
+             Embedded system 
+             Real-time computing 
+             Dependability
+             
+           
+         
+         
+          Networks
+          
+            
+            
+             Network architecture 
+             Network protocol 
+             Network components 
+             Network scheduler 
+             Network performance evaluation 
+             Network service
+             
+           
+         
+         
+          Software organization
+          
+            
+            
+             Interpreter 
+             Middleware 
+             Virtual machine 
+             Operating system 
+             Software quality
+             
+           
+         
+         
+          Software notations and tools
+          
+            
+            
+             Programming paradigm 
+             Programming language 
+             Compiler 
+             Domain-specific language 
+             Modeling language 
+             Software framework 
+             Integrated development environment 
+             Software configuration management 
+             Software library 
+             Software repository
+             
+           
+         
+         
+          Software development
+          
+            
+            
+             Control variable 
+             Software development process 
+             Requirements analysis 
+             Software design 
+             Software construction 
+             Software deployment 
+             Software maintenance 
+             Programming team 
+             Open-source model
+             
+           
+         
+         
+          Theory of computation
+          
+            
+            
+             Model of computation 
+             Formal language 
+             Automata theory 
+             Computability theory 
+             Computational complexity theory 
+             Logic 
+             Semantics
+             
+           
+         
+         
+          Algorithms
+          
+            
+            
+             Algorithm design 
+             Analysis of algorithms 
+             Algorithmic efficiency 
+             Randomized algorithm 
+             Computational geometry
+             
+           
+         
+         
+          Mathematics of computing
+          
+            
+            
+             Discrete mathematics 
+             Probability 
+             Statistics 
+             Mathematical software 
+             Information theory 
+             Mathematical analysis 
+             Numerical analysis 
+             Theoretical computer science
+             
+           
+         
+         
+          Information systems
+          
+            
+            
+             Database management system 
+             Information storage systems 
+             Enterprise information system 
+             Social information systems 
+             Geographic information system 
+             Decision support system 
+             Process control system 
+             Multimedia information system 
+             Data mining 
+             Digital library 
+             Computing platform 
+             Digital marketing 
+             World Wide Web 
+             Information retrieval
+             
+           
+         
+         
+          Security
+          
+            
+            
+             Cryptography 
+             Formal methods 
+             Security services 
+             Intrusion detection system 
+             Hardware security 
+             Network security 
+             Information security 
+             Application security
+             
+           
+         
+         
+          Human–computer interaction
+          
+            
+            
+             Interaction design 
+             Social computing 
+             Ubiquitous computing 
+             Visualization 
+             Accessibility
+             
+           
+         
+         
+          Concurrency
+          
+            
+            
+             Concurrent computing 
+             Parallel computing 
+             Distributed computing 
+             Multithreading 
+             Multiprocessing
+             
+           
+         
+         
+          Artificial intelligence
+          
+            
+            
+             Natural language processing 
+             Knowledge representation and reasoning 
+             Computer vision 
+             Automated planning and scheduling 
+             Search methodology 
+             Control method 
+             Philosophy of artificial intelligence 
+             Distributed artificial intelligence
+             
+           
+         
+         
+          Machine learning
+          
+            
+            
+             Supervised learning 
+             Unsupervised learning 
+             Reinforcement learning 
+             Multi-task learning 
+             Cross-validation
+             
+           
+         
+         
+          Graphics
+          
+            
+            
+             Animation 
+             Rendering 
+             Image manipulation 
+             Graphics processing unit 
+             Mixed reality 
+             Virtual reality 
+             Image compression 
+             Solid modeling
+             
+           
+         
+         
+          Applied computing
+          
+            
+            
+             E-commerce 
+             Enterprise software 
+             Computational mathematics 
+             Computational physics 
+             Computational chemistry 
+             Computational biology 
+             Computational social science 
+             Computational engineering 
+             Computational healthcare 
+             Digital art 
+             Electronic publishing 
+             Cyberwarfare 
+             Electronic voting 
+             Video games 
+             Word processing 
+             Operations research 
+             Educational technology 
+             Document management
+             
+           
+         
+         
+          
+            
+            
+              Category 
+              Outline 
+             WikiProject 
+              Commons
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Information_security&amp;oldid=1070773441"
+     
+     
+    
+     
+      Categories: 
+      
+       Data security
+       Security
+       Crime prevention
+       National security
+       Cryptography
+       Information governance
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 maint: location
+       CS1 errors: missing periodical
+       CS1 maint: numeric names: authors list
+       CS1 errors: generic name
+       CS1 maint: multiple names: authors list
+       CS1 errors: missing title
+       Webarchive template wayback links
+       CS1 errors: external links
+       Articles with short description
+       Short description is different from Wikidata
+       All articles with unsourced statements
+       Articles with unsourced statements from June 2021
+       Articles containing potentially dated statements from 2013
+       All articles containing potentially dated statements
+       Articles to be expanded from January 2018
+       All articles to be expanded
+       Articles using small message boxes
+       Commons category link from Wikidata
+       AC with 0 elements
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       Wikiversity
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       Asturianu
+       Azərbaycanca
+       বাংলা
+       Български
+       Català
+       Čeština
+       Dansk
+       Deutsch
+       Eesti
+       Ελληνικά
+       Español
+       Euskara
+       فارسی
+       Français
+       한국어
+       Հայերեն
+       हिन्दी
+       Bahasa Indonesia
+       עברית
+       Қазақша
+       Latviešu
+       Magyar
+       Македонски
+       Bahasa Melayu
+       Монгол
+       Nederlands
+       日本語
+       Norsk bokmål
+       ଓଡ଼ିଆ
+       ਪੰਜਾਬੀ
+       Português
+       Română
+       Русский
+       Shqip
+       Simple English
+       Slovenščina
+       Српски / srpski
+       Suomi
+       Svenska
+       தமிழ்
+       ไทย
+       Türkçe
+       Українська
+       Tiếng Việt
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 9 February 2022, at 06:20&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

@@ -1,0 +1,729 @@
+
+
+ 
+   
+   
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+  Information seeking behavior of academic scientists - Hemminger - 2007 - Journal of the American Society for Information Science and Technology - Wiley Online Library 
+   
+  
+  
+  
+  
+   
+   
+   
+   
+   
+   
+   
+    
+    
+    
+    
+    
+    
+   
+    
+   
+   
+   
+   
+   
+   
+   
+  
+  
+        
+   
+   
+   
+  
+  
+  
+  
+   
+    
+    Skip to Article Content 
+    Skip to Article Information 
+    
+   
+   
+    
+     
+      
+       
+        
+        
+         
+           
+            
+             
+              
+              Working off-campus? Learn about our remote access options 
+              
+             
+            
+          
+         
+         
+        
+       
+        
+          
+           
+             
+            
+             
+            
+          
+           
+            
+            
+             
+             
+              
+               
+                Search withinThis JournalAnywhere
+                
+                 
+                  
+                   
+                    Search term
+                    
+                    
+                    
+                      Advanced Search Citation Search
+                    
+                   
+                  
+                 
+                  
+                   
+                    Search term
+                    
+                    
+                      Advanced Search Citation Search
+                    
+                   
+                  
+                
+               
+              
+             
+             
+            
+            
+             
+              
+               
+               
+              
+            
+             
+              
+                 Login / Register  
+               
+              
+             
+            
+           
+         
+        
+        
+       
+      
+     
+     
+       
+       
+        
+         
+          
+           
+            
+             
+               
+                 
+              
+             
+            
+           
+          
+          
+         
+         
+         
+          
+            
+             
+             
+              
+               
+                 
+                
+                
+                  
+                  
+                   
+                    Journal of the American Society for Information Science and Technology
+                   Volume 58, Issue 14 p. 2205-2225
+                   
+                   
+                  
+                   Research Article
+                   
+                  Information seeking behavior of academic scientists 
+                   
+                   
+                    Bradley M. Hemminger, 
+                      
+                      Bradley M. Hemminger 
+                       
+                       bmh@ils.unc.edu 
+                       
+                      206A Manning Hall, SILS, School of Information and Library Science, University of North Carolina at Chapel Hill, NC. 27599-3360Search for more papers by this author
+                     Dihui Lu, 
+                      
+                      Dihui Lu 
+                      School of Information and Library Science, University of North Carolina at Chapel HillSearch for more papers by this author
+                     K.T.L. Vaughan, 
+                      
+                      K.T.L. Vaughan 
+                      Health Sciences Library, University of North Carolina at Chapel HillSearch for more papers by this author
+                     Stephanie J. Adams, 
+                      
+                      Stephanie J. Adams 
+                      School of Information and Library Science, University of North Carolina at Chapel HillSearch for more papers by this author
+                     
+                    
+                   
+                   
+                    
+                     
+                     
+                      Bradley M. Hemminger, 
+                        
+                        Bradley M. Hemminger 
+                         
+                         bmh@ils.unc.edu 
+                         
+                        206A Manning Hall, SILS, School of Information and Library Science, University of North Carolina at Chapel Hill, NC. 27599-3360Search for more papers by this author
+                       Dihui Lu, 
+                        
+                        Dihui Lu 
+                        School of Information and Library Science, University of North Carolina at Chapel HillSearch for more papers by this author
+                       K.T.L. Vaughan, 
+                        
+                        K.T.L. Vaughan 
+                        Health Sciences Library, University of North Carolina at Chapel HillSearch for more papers by this author
+                       Stephanie J. Adams, 
+                        
+                        Stephanie J. Adams 
+                        School of Information and Library Science, University of North Carolina at Chapel HillSearch for more papers by this author
+                       
+                      
+                     
+                    
+                   
+                  
+                   
+                    First published: 21 December 2007
+                    
+                   
+                    https://doi.org/10.1002/asi.20686
+                   
+                   
+                    Citations: 97
+                   
+                  
+                 
+                
+                
+                 
+                  
+                   
+                    
+                     Read the full text
+                    
+                    
+                     About
+                     
+                      
+                     
+                    
+                   
+                   
+                    
+                     PDF
+                     
+                    
+                     Tools
+                     
+                      
+                       Request permission
+                       Export citation
+                       Add to favorites
+                       Track citation
+                      
+                     
+                     
+                    
+                    
+                     ShareShare
+                      
+                      
+                       Give accessShare full text access
+                      
+                      
+                       
+                        
+                         
+                          
+                          Share full-text access
+                         
+                         
+                          
+                           
+                            Please review our Terms and Conditions of Use and check box below to share full-text version of article.
+                            
+                             I have read and accept the Wiley Online Library Terms and Conditions of Use
+                            
+                           
+                           
+                           
+                            Shareable Link
+                            Use the link below to share a full-text version of this article with your friends and colleagues. Learn more.
+                            
+                             
+                              
+                              
+                              
+                             Copy URL
+                            
+                            
+                           
+                          
+                         
+                        
+                       
+                       
+                      Share a linkShare on
+                      
+                       Facebook
+                       Twitter
+                       Linked In
+                       Reddit
+                       Wechat
+                      
+                     
+                     
+                   
+                  
+                 
+                
+                
+                
+                  
+                   
+                   Abstract 
+                    
+                    The information seeking behavior of academic scientists is being transformed by the availability of electronic resources for searching, retrieving, and reading scholarly materials. A census survey was conducted of academic science researchers at the University of North Carolina at Chapel Hill to capture their current information seeking behavior. Nine hundred two subjects (26%) completed responses to a 15-minute Web-based survey. The survey questions were designed to quantify the transition to electronic communications and how this affects different aspects of information seeking. Significant changes in information seeking behavior were found, including increased reliance on web based resources, fewer visits to the library, and almost entirely electronic communication of information. The results can guide libraries and other information service organizations as they adapt to meet the needs of today's information searchers. Simple descriptive statistics are reported for the individual questions. Additionally, analysis of results is broken out by basic science and medical science departments. The survey tool and protocol used in this study have been adopted for use in a nationwide survey of the information seeking behavior of academic scientists. 
+                    
+                   
+                 
+                 
+                  
+                 
+                 
+                  
+                   
+                    
+                     
+                      Citing Literature
+                     
+                    
+                     
+                    
+                   
+                  
+                 
+                
+               
+               
+                 
+                 
+                  
+                 
+                 
+                  Volume58, Issue14
+                  December 2007
+                  Pages 2205-2225 
+                  
+                 
+                 
+                  
+                    
+                      
+                   
+                  
+                 
+                
+                 
+                  
+                   Related
+                   Information
+                  
+                  
+                   
+                   
+                    
+                   
+                   
+                    
+                     
+                    
+                   
+                  
+                 
+                
+                 
+                  
+                   
+                    
+                      
+                        
+                     
+                    
+                   
+                  
+                
+               
+              
+             
+             
+             
+              
+               
+                Close Figure Viewer
+               
+               
+                Return to Figure
+               
+              
+              
+               
+                
+                 
+                Previous FigureNext Figure
+                
+               
+               
+                
+                 Caption
+                
+                
+               
+              
+              
+             
+            
+             Download PDF
+             
+           
+          
+          
+         
+        
+       
+      
+     
+     
+      
+       
+        
+         
+         
+          Additional links  
+         
+          
+            
+             
+             About Wiley Online Library 
+              
+              Privacy Policy 
+              Terms of Use 
+              Cookies 
+              Accessibility 
+              Publishing Policies 
+              
+             
+           
+            
+             
+             Help &amp; Support 
+              
+              Contact Us 
+              Training and Support 
+              DMCA &amp; Reporting Piracy 
+              
+             
+           
+            
+             
+             Opportunities 
+              
+              Subscription Agents 
+              Advertisers &amp; Corporate Partners 
+              
+             
+           
+            
+             
+             Connect with Wiley 
+              
+              The Wiley Network 
+              Wiley Press Room 
+              
+             
+           
+          
+          
+         
+         
+         
+          
+            
+             
+             
+              Copyright © 1999-2022 John Wiley &amp; Sons, Inc. All rights reserved
+              
+             
+              
+             
+           
+          
+          
+         
+        
+       
+      
+      
+     
+     The full text of this article hosted at iucr.org is unavailable due to technical difficulties.  
+     
+     
+         
+       
+        
+         
+        
+       
+       
+        
+        
+       Log in to Wiley Online Library 
+        
+        
+          
+          
+          
+          
+          
+          
+           Email or Customer ID 
+           
+           
+           
+           
+          
+          
+           Password 
+           
+            
+          
+           Forgot password?  
+          
+          
+          
+             
+         
+         
+         
+         
+        
+         NEW USER &gt;   INSTITUTIONAL LOGIN &gt;  
+        
+       
+      
+     
+     
+       
+       
+        
+         
+        
+       Change Password 
+       
+       
+        
+        
+          
+          
+          
+           Old Password 
+           
+            
+          
+          
+           New Password 
+           
+            
+           Too Short Weak Medium Strong Very Strong Too Long 
+           
+          
+         
+          
+        
+        
+        Password Changed Successfully 
+        Your password has been changed 
+        
+       
+      
+     
+     
+       
+       
+        
+        
+       Create a new account 
+       
+       
+       
+         
+         
+          Email or Customer ID 
+          
+          
+         
+         
+          
+        
+        
+         Returning user  
+        
+       
+      
+     
+     
+      
+        
+        
+         
+        
+       Forgot your password? 
+       Enter your email address below.  
+       
+       
+        
+       
+         
+         
+          
+           Email or Customer ID 
+           
+           
+          
+         
+         
+         
+         
+          
+        
+        
+        
+        Please check your email for instructions on resetting your password. If you do not receive an email within 10 minutes, your email address may not be registered, and you may need to create a new Wiley Online Library account. 
+        
+       
+      
+     
+    
+     
+     
+      
+      
+      Request Username 
+       
+       Can't sign in? Forgot your username? 
+       Enter your email address below and we will send you your username 
+        
+       
+         
+         
+          Email or Customer ID 
+          
+          
+         
+         
+         
+         
+         Close 
+        
+        
+       
+       
+       If the address matches an existing account you will receive an email with instructions to retrieve your username 
+       
+      
+      
+     
+    
+   
+  
+   
+   
+   
+   
+  
+    
+ 

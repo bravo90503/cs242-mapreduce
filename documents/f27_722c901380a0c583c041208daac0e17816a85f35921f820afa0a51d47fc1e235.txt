@@ -1,0 +1,380 @@
+
+ 
+  
+   
+  Template talk:Information science - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Template talk:Information science 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+       
+       
+         
+         WikiProject Libraries  
+         (Rated Template-class)  
+         
+         
+          
+           
+           
+             
+             
+             This template is within the scope of WikiProject Libraries, a collaborative effort to improve the coverage of Libraries on Wikipedia. If you would like to participate, please visit the project page, where you can join the discussion and see a list of open tasks.LibrariesWikipedia:WikiProject LibrariesTemplate:WikiProject LibrariesLibraries articles
+             
+            
+             
+             &nbsp;Template&nbsp; 
+             This template does not require a rating on the project's quality scale. 
+             
+            
+              &nbsp;
+             
+              
+            
+           
+           
+        
+       
+       
+       
+       
+         
+         WikiProject Computer science  
+         (Rated Template-class)  
+         
+         
+          
+           
+           
+             
+             
+             This template is within the scope of WikiProject Computer science, a collaborative effort to improve the coverage of Computer science related articles on Wikipedia. If you would like to participate, please visit the project page, where you can join the discussion and see a list of open tasks.Computer scienceWikipedia:WikiProject Computer scienceTemplate:WikiProject Computer scienceComputer science articles
+             
+            
+             
+             &nbsp;Template&nbsp; 
+             This template does not require a rating on the project's quality scale. 
+             
+            
+              &nbsp;
+             
+              
+            
+            
+              
+               
+               
+                
+                 Things you can help WikiProject Computer science with:
+                 
+                
+                  
+                   
+                   
+                     
+                      
+                        
+                      
+                      
+                       Here are some tasks awaiting attention: 
+                        
+                        Article requests : 
+                          
+                          
+                           Requested articles/Applied arts and sciences/Computer science, computing, and Internet
+                           
+                         
+                        Cleanup : 
+                          
+                          
+                           Computer science articles needing attention 
+                           Computer science articles needing expert attention
+                           
+                         
+                        Copyedit : 
+                          
+                          
+                           Computing
+                           
+                         
+                        Expand : 
+                          
+                          
+                           Computer science
+                           
+                         
+                        Infobox : 
+                          
+                          
+                           Computer science articles without infoboxes
+                           
+                         
+                        Maintain : 
+                          
+                          
+                           Timeline of computing 2020–present
+                           
+                         
+                        Photo : 
+                          
+                          
+                           Find pictures for the biographies of computer scientists (see List of computer scientists) 
+                           Computing articles needing images
+                           
+                         
+                        Stubs : 
+                          
+                          
+                           Computer science stubs
+                           
+                         
+                        Unreferenced : 
+                          
+                          
+                           WikiProject Computer science/Unreferenced BLPs
+                           
+                         
+                        Project-related : 
+                          
+                          
+                           Tag all relevant articles in Category:Computer science and sub-categories with }
+                           
+                          
+                        
+                       
+                    
+                   
+                   
+                
+               
+               
+            
+           
+           
+        
+       
+       
+      One title per line 
+      I already changed the "list" to show only one title per line. Sorry for not discussing first. The reason why I changed it:  
+      
+       Where this template appeared, in an article, it took too much width of the article. 
+       With one title per line it is easier readable.
+       
+      The only thing I did not know: how to adapt the width of the frame. I had expected, that the frame adapts itself that is: gets adapted automatically, but this did not happen. I don't mind, if someone who knows how to, does it. Otherwise: once I have studied Template:Sidebar, I shall do it. Steue (talk) 08:30, 18 May 2019 (UTC)     
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Template_talk:Information_science&amp;oldid=897621948"
+     
+     
+    
+     
+      Categories: 
+      
+       Template-Class Libraries articles
+       NA-importance Libraries articles
+       WikiProject Libraries articles
+       Template-Class Computer science articles
+       NA-importance Computer science articles
+       WikiProject Computer science articles
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Template
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        New section
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+       
+      
+       
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 18 May 2019, at 08:30&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+    
+ 

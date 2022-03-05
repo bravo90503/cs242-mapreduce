@@ -1,0 +1,1276 @@
+
+ 
+  
+   
+  Search engine - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Search engine 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+    
+     &nbsp;&nbsp;(Redirected from Search engines)
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Software system that is designed to search for information on the World Wide Web
+       
+      
+      
+       For other uses, see Search engine (disambiguation).
+       
+      
+      
+       For a tutorial on using search engines for researching Wikipedia articles, see Wikipedia:Search engine test.
+       
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           
+            This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages) 
+             
+             
+              
+               
+                
+                 
+                  
+                 
+                
+                 
+                  It has been suggested that Search engine (computing) be merged into this article. (Discuss) Proposed since July 2021.
+                 
+               
+              
+              
+             
+              
+               
+                
+                 
+                  
+                 
+                
+                 
+                  This article needs more complete citations for verification. Please help improve this article by adding missing citation information so that sources are clearly identifiable. Citations should include title, publication, author, date, and (for paginated material) the page number(s). Several templates are available to assist in formatting. Improperly sourced material may be challenged and removed. (July 2021) (Learn how and when to remove this template message)
+                 
+               
+              
+              
+             
+            (Learn how and when to remove this template message)
+          
+        
+       
+       
+      
+       
+         
+        
+         
+          
+         The results of a search for the term "lunar eclipse" in a web-based image search engine
+        
+       
+       
+      A search engine is a software system that is designed to carry out web searches. They search the World Wide Web in a systematic way for particular information specified in a textual web search query. The search results are generally presented in a line of results, often referred to as search engine results pages (SERPs) The information may be a mix of links to web pages, images, videos, infographics, articles, research papers, and other types of files. Some search engines also mine data available in databases or open directories. Unlike web directories, which are maintained only by human editors, search engines also maintain real-time information by running an algorithm on a web crawler. Internet content that is not capable of being searched by a web search engine is generally described as the deep web.  
+      
+       
+       
+        Contents
+        
+        
+        1 History 
+          
+          1.1 Pre-1990s 
+          1.2 1990s: Birth of search engines 
+          1.3 2000s–present: Post dot-com bubble 
+           
+        2 Approach 
+          
+          2.1 Local search 
+           
+        3 Market share 
+          
+          3.1 Russia and East Asia 
+          3.2 Europe 
+           
+        4 Search engine bias 
+        5 Customized results and filter bubbles 
+        6 Religious search engines 
+        7 Search engine submission 
+        8 See also 
+        9 References 
+        10 Further reading 
+        11 External links 
+        
+       
+      History 
+      
+      
+       Further information: Timeline of web search engines
+       
+       
+       
+        Timeline (full list) 
+        
+       
+         
+         Year  
+         Engine  
+         Current status 
+         
+         
+         1993  
+         W3Catalog  
+         Active 
+         
+         
+         Aliweb  
+         Active 
+         
+         
+         JumpStation  
+         Inactive 
+         
+         
+         WWW Worm  
+         Inactive 
+         
+         
+         1994  
+         WebCrawler  
+         Active 
+         
+         
+         Go.com  
+         Inactive, redirects to Disney 
+         
+         
+         Lycos  
+         Active 
+         
+         
+         Infoseek  
+         Inactive, redirects to Disney 
+         
+         
+         1995  
+         Yahoo! Search  
+         Active, initially a search function for Yahoo! Directory 
+         
+         
+         Daum  
+         Active 
+         
+         
+         Magellan  
+         Inactive 
+         
+         
+         Excite  
+         Active 
+         
+         
+         SAPO  
+         Active 
+         
+         
+         MetaCrawler  
+         Active 
+         
+         
+         AltaVista  
+         Inactive, acquired by Yahoo! in 2003, since 2013 redirects to Yahoo! 
+         
+         
+         1996  
+         RankDex  
+         Inactive, incorporated into Baidu in 2000 
+         
+         
+         Dogpile  
+         Active, Aggregator 
+         
+         
+         Inktomi  
+         Inactive, acquired by Yahoo! 
+         
+         
+         HotBot  
+         Active 
+         
+         
+         Ask Jeeves  
+         Active (rebranded ask.com) 
+         
+         
+         1997  
+         AOL NetFind  
+         Active (rebranded AOL Search since 1999) 
+         
+         
+         Northern Light  
+         Inactive 
+         
+         
+         Yandex  
+         Active 
+         
+         
+         1998  
+         Google  
+         Active 
+         
+         
+         Ixquick  
+         Active as Startpage.com 
+         
+         
+         MSN Search  
+         Active as Bing 
+         
+         
+         empas  
+         Inactive (merged with NATE) 
+         
+         
+         1999  
+         AlltheWeb  
+         Inactive (URL redirected to Yahoo!) 
+         
+         
+         GenieKnows  
+         Active, rebranded Yellowee (redirection to justlocalbusiness.com) 
+         
+         
+         Naver  
+         Active 
+         
+         
+         Teoma  
+         Active (© APN, LLC) 
+         
+         
+         2000  
+         Baidu  
+         Active 
+         
+         
+         Exalead  
+         Inactive 
+         
+         
+         Gigablast  
+         Active 
+         
+         
+         2001  
+         Kartoo  
+         Inactive 
+         
+         
+         2003  
+         Info.com  
+         Active 
+         
+         
+         2004  
+         A9.com  
+         Inactive 
+         
+         
+         Clusty  
+         Active (as Yippy) 
+         
+         
+         Mojeek  
+         Active 
+         
+         
+         Sogou  
+         Active 
+         
+         
+         2005  
+         SearchMe  
+         Inactive 
+         
+         
+         KidzSearch  
+         Active, Google Search 
+         
+         
+         2006  
+         Soso  
+         Inactive, merged with Sogou 
+         
+         
+         Quaero  
+         Inactive 
+         
+         
+         Search.com  
+         Active 
+         
+         
+         ChaCha  
+         Inactive 
+         
+         
+         Ask.com  
+         Active 
+         
+         
+         Live Search  
+         Active as Bing, rebranded MSN Search 
+         
+         
+         2007  
+         wikiseek  
+         Inactive 
+         
+         
+         Sproose  
+         Inactive 
+         
+         
+         Wikia Search  
+         Inactive 
+         
+         
+         Blackle.com  
+         Active, Google Search 
+         
+         
+         2008  
+         Powerset  
+         Inactive (redirects to Bing) 
+         
+         
+         Picollator  
+         Inactive 
+         
+         
+         Viewzi  
+         Inactive 
+         
+         
+         Boogami  
+         Inactive 
+         
+         
+         LeapFish  
+         Inactive 
+         
+         
+         Forestle  
+         Inactive (redirects to Ecosia) 
+         
+         
+         DuckDuckGo  
+         Active 
+         
+         
+         2009  
+         Bing  
+         Active, rebranded Live Search 
+         
+         
+         Yebol  
+         Inactive 
+         
+         
+         Mugurdy  
+         Inactive due to a lack of funding 
+         
+         
+         Scout (Goby)  
+         Active 
+         
+         
+         NATE  
+         Active 
+         
+         
+         Ecosia  
+         Active 
+         
+         
+         Startpage.com  
+         Active, sister engine of Ixquick 
+         
+         
+         2010  
+         Blekko  
+         Inactive, sold to IBM 
+         
+         
+         Cuil  
+         Inactive 
+         
+         
+         Yandex (English)  
+         Active 
+         
+         
+         Parsijoo  
+         Active 
+         
+         
+         2011  
+         YaCy  
+         Active, P2P 
+         
+         
+         2012  
+         Volunia  
+         Inactive 
+         
+         
+         2013  
+         Qwant  
+         Active 
+         
+         
+         2014  
+         Egerin  
+         Active, Kurdish / Sorani 
+         
+         
+         Swisscows  
+         Active 
+         
+         
+         Searx  
+         Active 
+         
+         
+         2015  
+         Yooz  
+         Active 
+         
+         
+         Cliqz  
+         Inactive 
+         
+         
+         2016  
+         Kiddle  
+         Active, Google Search 
+         
+         
+         2020  
+         Petal Search  
+         Active 
+        
+       
+       
+      Pre-1990s 
+      A system for locating published information intended to overcome the ever increasing difficulty of locating information in ever-growing centralized indices of scientific work was described in 1945 by Vannevar Bush, who wrote an article in The Atlantic Monthly titled "As We May Think" in which he envisioned libraries of research with connected annotations not unlike modern hyperlinks. Link analysis would eventually become a crucial component of search engines through algorithms such as Hyper Search and PageRank.  
+      1990s: Birth of search engines 
+      The first internet search engines predate the debut of the Web in December 1990: WHOIS user search dates back to 1982, and the Knowbot Information Service multi-network user search was first implemented in 1989. The first well documented search engine that searched content files, namely FTP files, was Archie, which debuted on 10 September 1990. 
+      Prior to September 1993, the World Wide Web was entirely indexed by hand. There was a list of webservers edited by Tim Berners-Lee and hosted on the CERN webserver. One snapshot of the list in 1992 remains, but as more and more web servers went online the central list could no longer keep up. On the NCSA site, new servers were announced under the title "What's New!" 
+      The first tool used for searching content (as opposed to users) on the Internet was Archie. The name stands for "archive" without the "v"., It was created by Alan Emtage computer science student at McGill University in Montreal, Quebec, Canada. The program downloaded the directory listings of all the files located on public anonymous FTP (File Transfer Protocol) sites, creating a searchable database of file names; however, Archie Search Engine did not index the contents of these sites since the amount of data was so limited it could be readily searched manually. 
+      The rise of Gopher (created in 1991 by Mark McCahill at the University of Minnesota) led to two new search programs, Veronica and Jughead. Like Archie, they searched the file names and titles stored in Gopher index systems. Veronica (Very Easy Rodent-Oriented Net-wide Index to Computerized Archives) provided a keyword search of most Gopher menu titles in the entire Gopher listings. Jughead (Jonzy's Universal Gopher Hierarchy Excavation And Display) was a tool for obtaining menu information from specific Gopher servers. While the name of the search engine "Archie Search Engine" was not a reference to the Archie comic book series, "Veronica" and "Jughead" are characters in the series, thus referencing their predecessor. 
+      In the summer of 1993, no search engine existed for the web, though numerous specialized catalogues were maintained by hand. Oscar Nierstrasz at the University of Geneva wrote a series of Perl scripts that periodically mirrored these pages and rewrote them into a standard format. This formed the basis for W3Catalog, the web's first primitive search engine, released on September 2, 1993. 
+      In June 1993, Matthew Gray, then at MIT, produced what was probably the first web robot, the Perl-based World Wide Web Wanderer, and used it to generate an index called "Wandex". The purpose of the Wanderer was to measure the size of the World Wide Web, which it did until late 1995. The web's second search engine Aliweb appeared in November 1993. Aliweb did not use a web robot, but instead depended on being notified by website administrators of the existence at each site of an index file in a particular format. 
+      JumpStation (created in December 1993 by Jonathon Fletcher) used a web robot to find web pages and to build its index, and used a web form as the interface to its query program. It was thus the first WWW resource-discovery tool to combine the three essential features of a web search engine (crawling, indexing, and searching) as described below. Because of the limited resources available on the platform it ran on, its indexing and hence searching were limited to the titles and headings found in the web pages the crawler encountered. 
+      One of the first "all text" crawler-based search engines was WebCrawler, which came out in 1994. Unlike its predecessors, it allowed users to search for any word in any webpage, which has become the standard for all major search engines since. It was also the search engine that was widely known by the public. Also in 1994, Lycos (which started at Carnegie Mellon University) was launched and became a major commercial endeavor. 
+      The first popular search engine on the Web was Yahoo! Search. The first product from Yahoo!, founded by Jerry Yang and David Filo in January 1994, was a Web directory called Yahoo! Directory. In 1995, a search function was added, allowing users to search Yahoo! Directory! It became one of the most popular ways for people to find web pages of interest, but its search function operated on its web directory, rather than its full-text copies of web pages. 
+      Soon after, a number of search engines appeared and vied for popularity. These included Magellan, Excite, Infoseek, Inktomi, Northern Light, and AltaVista. Information seekers could also browse the directory instead of doing a keyword-based search. 
+      In 1996, Robin Li developed the RankDex site-scoring algorithm for search engines results page ranking and received a US patent for the technology. It was the first search engine that used hyperlinks to measure the quality of websites it was indexing, predating the very similar algorithm patent filed by Google two years later in 1998. Larry Page referenced Li's work in some of his U.S. patents for PageRank. Li later used his Rankdex technology for the Baidu search engine, which was founded by Robin Li in China and launched in 2000. 
+      In 1996, Netscape was looking to give a single search engine an exclusive deal as the featured search engine on Netscape's web browser. There was so much interest that instead Netscape struck deals with five of the major search engines: for $5 million a year, each search engine would be in rotation on the Netscape search engine page. The five engines were Yahoo!, Magellan, Lycos, Infoseek, and Excite. 
+      Google adopted the idea of selling search terms in 1998, from a small search engine company named goto.com. This move had a significant effect on the search engine business, which went from struggling to one of the most profitable businesses in the Internet. 
+      Search engines were also known as some of the brightest stars in the Internet investing frenzy that occurred in the late 1990s. Several companies entered the market spectacularly, receiving record gains during their initial public offerings. Some have taken down their public search engine, and are marketing enterprise-only editions, such as Northern Light. Many search engine companies were caught up in the dot-com bubble, a speculation-driven market boom that peaked in 1990 and ended in 2000.  
+      2000s–present: Post dot-com bubble 
+      Around 2000, Google's search engine rose to prominence. The company achieved better results for many searches with an algorithm called PageRank, as was explained in the paper Anatomy of a Search Engine written by Sergey Brin and Larry Page, the later founders of Google. This iterative algorithm ranks web pages based on the number and PageRank of other web sites and pages that link there, on the premise that good or desirable pages are linked to more than others. Larry Page's patent for PageRank cites Robin Li's earlier RankDex patent as an influence. Google also maintained a minimalist interface to its search engine. In contrast, many of its competitors embedded a search engine in a web portal. In fact, the Google search engine became so popular that spoof engines emerged such as Mystery Seeker. 
+      By 2000, Yahoo! was providing search services based on Inktomi's search engine. Yahoo! acquired Inktomi in 2002, and Overture (which owned AlltheWeb and AltaVista) in 2003. Yahoo! switched to Google's search engine until 2004, when it launched its own search engine based on the combined technologies of its acquisitions. 
+      Microsoft first launched MSN Search in the fall of 1998 using search results from Inktomi. In early 1999 the site began to display listings from Looksmart, blended with results from Inktomi. For a short time in 1999, MSN Search used results from AltaVista instead. In 2004, Microsoft began a transition to its own search technology, powered by its own web crawler (called msnbot). 
+      Microsoft's rebranded search engine, Bing, was launched on June 1, 2009. On July 29, 2009, Yahoo! and Microsoft finalized a deal in which Yahoo! Search would be powered by Microsoft Bing technology. 
+      As of 2019, active search engine crawlers include those of Google, Petal, Sogou, Baidu, Bing, Gigablast, Mojeek, DuckDuckGo and Yandex.  
+      Approach 
+        
+      
+      
+       Main article: Search engine technology
+       
+      A search engine maintains the following processes in near real time:  
+      
+       Web crawling 
+       Indexing 
+       Searching
+       
+      Web search engines get their information by web crawling from site to site. The "spider" checks for the standard filename robots.txt, addressed to it. The robots.txt file contains directives for search spiders, telling it which pages to crawl and which pages not to crawl. After checking for robots.txt and either finding it or not, the spider sends certain information back to be indexed depending on many factors, such as the titles, page content, JavaScript, Cascading Style Sheets (CSS), headings, or its metadata in HTML meta tags. After a certain number of pages crawled, amount of data indexed, or time spent on the website, the spider stops crawling and moves on. "o web crawler may actually crawl the entire reachable web. Due to infinite websites, spider traps, spam, and other exigencies of the real web, crawlers instead apply a crawl policy to determine when the crawling of a site should be deemed sufficient. Some websites are crawled exhaustively, while others are crawled only partially". 
+      Indexing means associating words and other definable tokens found on web pages to their domain names and HTML-based fields. The associations are made in a public database, made available for web search queries. A query from a user can be a single word, multiple words or a sentence. The index helps find information relating to the query as quickly as possible. Some of the techniques for indexing, and caching are trade secrets, whereas web crawling is a straightforward process of visiting all sites on a systematic basis. 
+      Between visits by the spider, the cached version of the page (some or all the content needed to render it) stored in the search engine working memory is quickly sent to an inquirer. If a visit is overdue, the search engine can just act as a web proxy instead. In this case, the page may differ from the search terms indexed. The cached page holds the appearance of the version whose words were previously indexed, so a cached version of a page can be useful to the website when the actual page has been lost, but this problem is also considered a mild form of linkrot.  
+      
+       
+         
+        
+         
+          
+         High-level architecture of a standard Web crawler
+        
+       
+       
+      Typically when a user enters a query into a search engine it is a few keywords. The index already has the names of the sites containing the keywords, and these are instantly obtained from the index. The real processing load is in generating the web pages that are the search results list: Every page in the entire list must be weighted according to information in the indexes. Then the top search result item requires the lookup, reconstruction, and markup of the snippets showing the context of the keywords matched. These are only part of the processing each search results web page requires, and further pages (next to the top) require more of this post-processing. 
+      Beyond simple keyword lookups, search engines offer their own GUI- or command-driven operators and search parameters to refine the search results. These provide the necessary controls for the user engaged in the feedback loop users create by filtering and weighting while refining the search results, given the initial pages of the first search results. For example, from 2007 the Google.com search engine has allowed one to filter by date by clicking "Show search tools" in the leftmost column of the initial search results page, and then selecting the desired date range. It's also possible to weight by date because each page has a modification time. Most search engines support the use of the boolean operators AND, OR and NOT to help end users refine the search query. Boolean operators are for literal searches that allow the user to refine and extend the terms of the search. The engine looks for the words or phrases exactly as entered. Some search engines provide an advanced feature called proximity search, which allows users to define the distance between keywords. There is also concept-based searching where the research involves using statistical analysis on pages containing the words or phrases you search for. 
+      The usefulness of a search engine depends on the relevance of the result set it gives back. While there may be millions of web pages that include a particular word or phrase, some pages may be more relevant, popular, or authoritative than others. Most search engines employ methods to rank the results to provide the "best" results first. How a search engine decides which pages are the best matches, and what order the results should be shown in, varies widely from one engine to another. The methods also change over time as Internet usage changes and new techniques evolve. There are two main types of search engine that have evolved: one is a system of predefined and hierarchically ordered keywords that humans have programmed extensively. The other is a system that generates an "inverted index" by analyzing texts it locates. This first form relies much more heavily on the computer itself to do the bulk of the work. 
+      Most Web search engines are commercial ventures supported by advertising revenue and thus some of them allow advertisers to have their listings ranked higher in search results for a fee. Search engines that do not accept money for their search results make money by running search related ads alongside the regular search engine results. The search engines make money every time someone clicks on one of these ads.  
+      Local search 
+      Local search is the process that optimizes the efforts of local businesses. They focus on change to make sure all searches are consistent. It's important because many people determine where they plan to go and what to buy based on their searches.  
+      Market share 
+      As of January&nbsp;2022, Google is by far the world's most used search engine, with a market share of 91.9%, and the world's other most used search engines were Bing, Yahoo!, Yandex, Baidu, and DuckDuckGo.  
+       
+      Russia and East Asia 
+      In Russia, Yandex has a market share of 61.9%, compared to Google's 28.3%. In China, Baidu is the most popular search engine. South Korea's homegrown search portal, Naver, is used for 70% of online searches in the country. Yahoo! Japan and Yahoo! Taiwan are the most popular avenues for Internet searches in Japan and Taiwan, respectively. China is one of few countries where Google is not in the top three web search engines for market share. Google was previously a top search engine in China, but withdrew after a disagreement with the government over censorship, and a cyberattack.  
+      Europe 
+      Most countries' markets in the European Union are dominated by Google, except for the Czech Republic, where Seznam is a strong competitor. 
+      The search engine Qwant is based in Paris, France, where it attracts most of its 50 million monthly registered users from.  
+      Search engine bias 
+      Although search engines are programmed to rank websites based on some combination of their popularity and relevancy, empirical studies indicate various political, economic, and social biases in the information they provide and the underlying assumptions about the technology. These biases can be a direct result of economic and commercial processes (e.g., companies that advertise with a search engine can become also more popular in its organic search results), and political processes (e.g., the removal of search results to comply with local laws). For example, Google will not surface certain neo-Nazi websites in France and Germany, where Holocaust denial is illegal. 
+      Biases can also be a result of social processes, as search engine algorithms are frequently designed to exclude non-normative viewpoints in favor of more "popular" results. Indexing algorithms of major search engines skew towards coverage of U.S.-based sites, rather than websites from non-U.S. countries. 
+      Google Bombing is one example of an attempt to manipulate search results for political, social or commercial reasons. 
+      Several scholars have studied the cultural changes triggered by search engines, and the representation of certain controversial topics in their results, such as terrorism in Ireland, climate change denial, and conspiracy theories.  
+      Customized results and filter bubbles 
+      Many search engines such as Google and Bing provide customized results based on the user's activity history. This leads to an effect that has been called a filter bubble. The term describes a phenomenon in which websites use algorithms to selectively guess what information a user would like to see, based on information about the user (such as location, past click behaviour and search history). As a result, websites tend to show only information that agrees with the user's past viewpoint. This puts the user in a state of intellectual isolation without contrary information. Prime examples are Google's personalized search results and Facebook's personalized news stream. According to Eli Pariser, who coined the term, users get less exposure to conflicting viewpoints and are isolated intellectually in their own informational bubble. Pariser related an example in which one user searched Google for "BP" and got investment news about British Petroleum while another searcher got information about the Deepwater Horizon oil spill and that the two search results pages were "strikingly different". The bubble effect may have negative implications for civic discourse, according to Pariser. Since this problem has been identified, competing search engines have emerged that seek to avoid this problem by not tracking or "bubbling" users, such as DuckDuckGo. Other scholars do not share Pariser's view, finding the evidence in support of his thesis unconvincing.  
+      Religious search engines 
+      The global growth of the Internet and electronic media in the Arab and Muslim World during the last decade has encouraged Islamic adherents in the Middle East and Asian sub-continent, to attempt their own search engines, their own filtered search portals that would enable users to perform safe searches. More than usual safe search filters, these Islamic web portals categorizing websites into being either "halal" or "haram", based on interpretation of the "Law of Islam". ImHalal came online in September 2011. Halalgoogling came online in July 2013. These use haram filters on the collections from Google and Bing (and others). 
+      While lack of investment and slow pace in technologies in the Muslim World has hindered progress and thwarted success of an Islamic search engine, targeting as the main consumers Islamic adherents, projects like Muxlim, a Muslim lifestyle site, did receive millions of dollars from investors like Rite Internet Ventures, and it also faltered. Other religion-oriented search engines are Jewogle, the Jewish version of Google, and SeekFind.org, which is Christian. SeekFind filters sites that attack or degrade their faith.  
+      Search engine submission 
+      Web search engine submission is a process in which a webmaster submits a website directly to a search engine. While search engine submission is sometimes presented as a way to promote a website, it generally is not necessary because the major search engines use web crawlers that will eventually find most web sites on the Internet without assistance. They can either submit one web page at a time, or they can submit the entire site using a sitemap, but it is normally only necessary to submit the home page of a web site as search engines are able to crawl a well designed website. There are two remaining reasons to submit a web site or web page to a search engine: to add an entirely new web site without waiting for a search engine to discover it, and to have a web site's record updated after a substantial redesign. 
+      Some search engine submission software not only submits websites to multiple search engines, but also adds links to websites from their own pages. This could appear helpful in increasing a website's ranking, because external links are one of the most important factors determining a website's ranking. However, John Mueller of Google has stated that this "can lead to a tremendous number of unnatural links for your site" with a negative impact on site ranking.  
+      See also 
+      
+       
+       
+        Comparison of web search engines 
+        Filter bubble 
+        Google effect 
+        Information retrieval 
+        Use of web search engines in libraries 
+        List of search engines 
+        Question answering 
+        Search engine manipulation effect 
+        Search engine privacy 
+        Semantic Web 
+        Spell checker 
+        Web development tools
+       
+       
+      References 
+      
+       
+       
+         
+         ^ "Search Engine History.com". www.searchenginehistory.com. Retrieved 2020-07-02.  
+         ^ 
+           "Penn State WebAccess Secure Login". webaccess.psu.edu. Retrieved 2020-07-02.  
+         ^ 
+           Marchiori, Massimo (1997). "The Quest for Correct Information on the Web: Hyper Search Engines". Proceedings of the Sixth International World Wide Web Conference (WWW6). Retrieved 2021-01-10.  
+         ^ a b 
+           Brin, Sergey; Page, Larry (1998). "The Anatomy of a Large-Scale Hypertextual Web Search Engine" (PDF). Proceedings of the Seventh International World Wide Web Conference (WWW7). Retrieved 2021-01-10.  
+         ^ 
+           "RFC 812 - NICNAME/WHOIS". ietf.org.  
+         ^ 
+           "Knowbot programming: System support for mobile agents". cnri.reston.va.us.  
+         ^ 
+           Deutsch, Peter (September 11, 1990). " An Internet archive server server (was about Lisp)". groups.google.com. Retrieved 2017-12-29.  
+         ^ 
+           "World-Wide Web Servers". W3.org. Retrieved 2012-05-14.  
+         ^ 
+           "What's New! February 1994". Home.mcom.com. Retrieved 2012-05-14.  
+         ^ "Internet History - Search Engines" (from Search Engine Watch), Universiteit Leiden, Netherlands, September 2001, web: LeidenU-Archie.  
+         ^ a b 
+           pcmag. "Archie". pcmag.com. Retrieved 2020-09-20.  
+         ^ 
+           Alexandra Samuel. "Meet Alan Emtage, the Black Technologist Who Invented ARCHIE, the First Internet Search Engine". ITHAKA. Retrieved 2020-09-20.  
+         ^ 
+           loop news barbados. "Alan Emtage- a Barbadian you should know". loopnewsbarbados.com. Retrieved 2020-09-21.  
+         ^ 
+           Dino Grandoni, Alan Emtage. "Alan Emtage: The Man Who Invented The World's First Search Engine (But Didn't Patent It)". huffingtonpost.co.uk. Retrieved 2020-09-21.  
+         ^ 
+           Oscar Nierstrasz (2 September 1993). "Searchable Catalog of WWW Resources (experimental)".  
+         ^ 
+           "Archive of NCSA what's new in December 1993 page". 2001-06-20. Archived from the original on 2001-06-20. Retrieved 2012-05-14.  
+         ^ 
+           "What is first mover?". SearchCIO. TechTarget. September 2005. Retrieved 5 September 2019.  
+         ^ 
+           Oppitz, Marcus; Tomsu, Peter (2017). Inventing the Cloud Century: How Cloudiness Keeps Changing Our Life, Economy and Technology. Springer. p.&nbsp;238. ISBN&nbsp;9783319611617.  
+         ^ 
+           "Yahoo! Search". Yahoo!. 28 November 1996. Archived from the original on 28 November 1996. Retrieved 5 September 2019.  
+         ^ Greenberg, Andy, "The Man Who's Beating Google", Forbes magazine, October 5, 2009  
+         ^ Yanhong Li, "Toward a Qualitative Search Engine," IEEE Internet Computing, vol. 2, no. 4, pp. 24–29, July/Aug. 1998, doi:10.1109/4236.707687  
+         ^ "About: RankDex", rankdex.com  
+         ^ USPTO, "Hypertext Document Retrieval System and Method", US Patent number: 5920859, Inventor: Yanhong Li, Filing date: Feb 5, 1997, Issue date: Jul 6, 1999  
+         ^ 
+           "Baidu Vs Google: The Twins Of Search Compared". FourWeekMBA. 18 September 2018. Retrieved 16 June 2019.  
+         ^ 
+           Altucher, James (March 18, 2011). "10 Unusual Things About Google". Forbes. Retrieved 16 June 2019.  
+         ^ a b 
+           "Method for node ranking in a linked database". Google Patents. Archived from the original on 15 October 2015. Retrieved 19 October 2015.  
+         ^ 
+           "Yahoo! And Netscape Ink International Distribution Deal" (PDF). Archived from the original (PDF) on 2013-11-16. Retrieved 2009-08-12.  
+         ^ 
+           "Browser Deals Push Netscape Stock Up 7.8%". Los Angeles Times. 1 April 1996.  
+         ^ 
+           Pursel, Bart. Search Engines. Penn State Pressbooks. Retrieved February 20, 2018.  
+         ^ 
+           Gandal, Neil (2001). "The dynamics of competition in the internet search engine market". International Journal of Industrial Organization. 19 (7): 1103–1117. doi:10.1016/S0167-7187(01)00065-0.  
+         ^ 
+           "Our History in depth". W3.org. Retrieved 2012-10-31.  
+         ^ a b c d e f 
+           Jawadekar, Waman S (2011), "8. Knowledge Management: Tools and Technology", Knowledge Management: Text &amp; Cases, New Delhi: Tata McGraw-Hill Education Private Ltd, p.&nbsp;278, ISBN&nbsp;978-0-07-07-0086-4, retrieved November 23, 2012  
+         ^ Dasgupta, Anirban; Ghosh, Arpita; Kumar, Ravi; Olston, Christopher; Pandey, Sandeep; and Tomkins, Andrew. The Discoverability of the Web. http://www.arpitaghosh.com/papers/discoverability.pdf  
+         ^ Jansen, B. J., Spink, A., and Saracevic, T. 2000. Real life, real users, and real needs: A study and analysis of user queries on the web. Information Processing &amp; Management. 36(2), 207-227.  
+         ^ 
+           Chitu, Alex (August 30, 2007). "Easy Way to Find Recent Web Pages". Google Operating System. Retrieved 22 February 2015.  
+         ^ 
+           "how search engine works?". GFO = 26 June 2018.  
+         ^ 
+           "What Is Local SEO &amp; Why Local Search Is Important". Search Engine Journal. Retrieved 2020-04-26.  
+         ^ 
+           "Search Engine Market Share Worldwide". StatCounter GlobalStats. Retrieved February 3, 2022.  
+         ^ 
+           "Live Internet - Site Statistics". Live Internet. Retrieved 2014-06-04.  
+         ^ 
+           Arthur, Charles (2014-06-03). "The Chinese technology companies poised to dominate the world". The Guardian. Retrieved 2014-06-04.  
+         ^ 
+           "How Naver Hurts Companies' Productivity". The Wall Street Journal. 2014-05-21. Retrieved 2014-06-04.  
+         ^ 
+           "Age of Internet Empires". Oxford Internet Institute. Retrieved 15 August 2019.  
+         ^ 
+           Waddell, Kaveh (2016-01-19). "Why Google Quit China—and Why It's Heading Back". The Atlantic. Retrieved 2020-04-26.  
+         ^ Seznam Takes on Google in the Czech Republic. Doz.  
+         ^ Segev, El (2010). Google and the Digital Divide: The Biases of Online Knowledge, Oxford: Chandos Publishing.  
+         ^ a b 
+           Vaughan, Liwen; Mike Thelwall (2004). "Search engine coverage bias: evidence and possible causes". Information Processing &amp; Management. 40 (4): 693–707. CiteSeerX&nbsp;10.1.1.65.5130. doi:10.1016/S0306-4573(03)00063-3.  
+         ^ Jansen, B. J. and Rieh, S. (2010) The Seventeen Theoretical Constructs of Information Searching and Information Retrieval. Journal of the American Society for Information Sciences and Technology. 61(8), 1517-1534.  
+         ^ Berkman Center for Internet &amp; Society (2002), "Replacement of Google with Alternative Search Systems in China: Documentation and Screen Shots", Harvard Law School.  
+         ^ 
+           Introna, Lucas; Helen Nissenbaum (2000). "Shaping the Web: Why the Politics of Search Engines Matters". The Information Society. 16 (3): 169–185. CiteSeerX&nbsp;10.1.1.24.8051. doi:10.1080/01972240050133634. S2CID&nbsp;2111039.  
+         ^ 
+           Hillis, Ken; Petit, Michael; Jarrett, Kylie (2012-10-12). Google and the Culture of Search. Routledge. ISBN&nbsp;9781136933066.  
+         ^ 
+           Reilly, P. (2008-01-01). Spink, Prof Dr Amanda; Zimmer, Michael (eds.). 'Googling' Terrorists: Are Northern Irish Terrorists Visible on Internet Search Engines?. Information Science and Knowledge Management. Vol.&nbsp;14. Springer Berlin Heidelberg. pp.&nbsp;151–175. Bibcode:2008wsis.book..151R. doi:10.1007/978-3-540-75829-7_10. ISBN&nbsp;978-3-540-75828-0. S2CID&nbsp;84831583.  
+         ^ Hiroko Tabuchi, "How Climate Change Deniers Rise to the Top in Google Searches", The New York Times, Dec. 29, 2017. Retrieved November 14, 2018.  
+         ^ 
+           Ballatore, A (2015). "Google chemtrails: A methodology to analyze topic representation in search engines". First Monday. 20 (7). doi:10.5210/fm.v20i7.5597.  
+         ^ 
+           Parramore, Lynn (10 October 2010). "The Filter Bubble". The Atlantic. Retrieved 2011-04-20. Since Dec. 4, 2009, Google has been personalized for everyone. So when I had two friends this spring Google "BP," one of them got a set of links that was about investment opportunities in BP. The other one got information about the oil spill....  
+         ^ 
+           Weisberg, Jacob (10 June 2011). "Bubble Trouble: Is Web personalization turning us into solipsistic twits?". Slate. Retrieved 2011-08-15.  
+         ^ 
+           Gross, Doug (May 19, 2011). "What the Internet is hiding from you". CNN. Retrieved 2011-08-15. I had friends Google BP when the oil spill was happening. These are two women who were quite similar in a lot of ways. One got a lot of results about the environmental consequences of what was happening and the spill. The other one just got investment information and nothing about the spill at all.  
+         ^ 
+           Zhang, Yuan Cao; Séaghdha, Diarmuid Ó; Quercia, Daniele; Jambor, Tamas (February 2012). "Auralist: Introducing Serendipity into Music Recommendation" (PDF). ACM WSDM. doi:10.1145/2124295.2124300. S2CID&nbsp;2956587.  
+         ^ 
+           O'Hara, K. (2014-07-01). "In Worship of an Echo". IEEE Internet Computing. 18 (4): 79–83. doi:10.1109/MIC.2014.71. ISSN&nbsp;1089-7801. S2CID&nbsp;37860225.  
+         ^ 
+           "New Islam-approved search engine for Muslims". News.msn.com. Archived from the original on 2013-07-12. Retrieved 2013-07-11.  
+         ^ 
+           "Jewogle - FAQ".  
+         ^ 
+           "Halalgoogling: Muslims Get Their Own "sin free" Google; Should Christians Have Christian Google? - Christian Blog". Christian Blog. 2013-07-25.  
+         ^ 
+           Schwartz, Barry (2012-10-29). "Google: Search Engine Submission Services Can Be Harmful". Search Engine Roundtable. Retrieved 2016-04-04.  
+        
+       
+       
+      Further reading 
+      
+       
+        Steve Lawrence; C. Lee Giles (1999). "Accessibility of information on the web". Nature. 400 (6740): 107–9. Bibcode:1999Natur.400..107L. doi:10.1038/21987. PMID&nbsp;10428673. S2CID&nbsp;4347646.}: CS1 maint: multiple names: authors list (link) 
+       Bing Liu (2007), Web Data Mining: Exploring Hyperlinks, Contents and Usage Data. Springer,
+        ISBN&nbsp;3-540-37881-2 
+       Bar-Ilan, J. (2004). The use of Web search engines in information science research. ARIST, 38, 231–288. 
+       
+        Levene, Mark (2005). An Introduction to Search Engines and Web Navigation. Pearson. 
+       
+        Hock, Randolph (2007). The Extreme Searcher's Handbook.
+        ISBN&nbsp;978-0-910965-76-7 
+       
+        Javed Mostafa (February 2005). "Seeking Better Web Searches". Scientific American. 292 (2): 66–73. Bibcode:2005SciAm.292b..66M. doi:10.1038/scientificamerican0205-66. 
+       
+        Ross, Nancy; Wolfram, Dietmar (2000). "End user searching on the Internet: An analysis of term pair topics submitted to the Excite search engine". Journal of the American Society for Information Science. 51 (10): 949–958. doi:10.1002/1097-4571(2000)51:10&lt;949::AID-ASI70&gt;3.0.CO;2-5. 
+       
+        Xie, M.; et&nbsp;al. (1998). "Quality dimensions of Internet search engines". Journal of Information Science. 24 (5): 365–372. doi:10.1177/016555159802400509. S2CID&nbsp;34686531. 
+       
+        Information Retrieval: Implementing and Evaluating Search Engines. MIT Press. 2010.
+       
+      External links 
+       
+       
+         
+          
+         Wikimedia Commons has media related to Internet Search Engines.
+         
+       
+       
+       
+       
+         
+          
+         Wikiversity has learning resources about Search Engines
+         
+       
+       
+      
+       Search Engines at Curlie
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Internet search
+           
+         
+         
+          Types
+          
+            
+            
+             Web search engine (List) 
+             Metasearch engine 
+             Multimedia search 
+             Collaborative search engine 
+             Cross-language search 
+             Local search 
+             Vertical search 
+             Social search 
+             Image search 
+             Audio search 
+             Video search engine 
+             Enterprise search 
+             Semantic search 
+             Natural language search engine 
+             Voice search
+             
+           
+         
+         
+          Tools
+          
+            
+            
+             Search by sound 
+             Search engine marketing 
+             Search engine optimization 
+             Evaluation measures 
+             Search oriented architecture 
+             Selection-based search
+             
+            
+             Document retrieval 
+             Text mining 
+             Web crawler 
+             Multisearch 
+             Federated search 
+             Search aggregator 
+             Index/Web indexing 
+             Focused crawler 
+             Spider trap 
+             Robots exclusion standard 
+             Distributed web crawling 
+             Web archiving 
+             Website mirroring software 
+             Web query 
+             Web query classification
+             
+           
+         
+         
+          Protocolsand standards
+          
+            
+            
+             Z39.50 
+             Search/Retrieve Web Service 
+             Search/Retrieve via URL 
+             OpenSearch 
+             Representational State Transfer 
+             Website Parse Template 
+             Wide area information server
+             
+           
+         
+         
+          See also
+          
+            
+            
+             Search engine 
+             Desktop search 
+             Online search
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Web search engines
+           
+         
+         
+          Active
+          
+            
+            
+             AOL 
+             Ahmia 
+             Ask.com 
+             Baidu 
+             Bing 
+             Blackle 
+             Dogpile 
+             DuckDuckGo 
+             Ecosia 
+             Exalead 
+             Excite 
+             Fireball 
+             Gigablast 
+             Google 
+             Info.com 
+             Kiddle 
+             KidRex 
+             KidzSearch 
+             Lycos 
+             MetaCrawler 
+             MetaGer 
+             Mojeek 
+             Naver 
+             Parsijoo 
+             Petal 
+             Qwant 
+             SAPO 
+             Searx 
+             Seznam.cz 
+             Sogou 
+             Startpage 
+             Swisscows 
+             WebCrawler 
+             YaCy 
+             Yahoo! 
+             Yandex 
+             Yippy 
+             Youdao
+             
+           
+         
+         
+          Inactive
+          
+            
+            
+             123people 
+             A9.com 
+             Aliweb 
+             AlltheWeb 
+             AltaVista 
+             Blekko 
+             Boogami 
+             Cuil 
+             Empas 
+             Forestle 
+             GenieKnows 
+             Go.com 
+             HotBot 
+             Infoseek 
+             Inktomi 
+             Ixquick 
+             JumpStation 
+             LeapFish 
+             Mugurdy 
+             Northern Light 
+             Pipilika 
+             Powerset 
+             Scroogle 
+             SearchMe 
+             Soso 
+             Sputnik 
+             Teoma 
+             Viewzi 
+             Vivisimo 
+             Volunia 
+             W3Catalog 
+             Wikiseek 
+             Yebol 
+             Yooz
+             
+           
+         
+         
+          
+            
+            
+             Comparison 
+             Complete list
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          Authority control: National libraries 
+          
+            
+            
+             United States
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Search_engine&amp;oldid=1071244077"
+     
+     
+    
+     
+      Categories: 
+      
+       Internet search engines
+       History of the Internet
+       Internet terminology
+       Computer-related introductions in 1993
+       Canadian inventions
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with short description
+       Short description matches Wikidata
+       Articles to be merged from July 2021
+       All articles to be merged
+       Articles with incomplete citations from July 2021
+       All articles with incomplete citations
+       All pages needing cleanup
+       Articles with multiple maintenance issues
+       Articles containing potentially dated statements from January 2022
+       All articles containing potentially dated statements
+       CS1 maint: multiple names: authors list
+       Commons category link is locally defined
+       Articles with Curlie links
+       Articles with LCCN identifiers
+       Pages using the Graph extension
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       Wikibooks
+       Wikiversity
+       
+      
+     
+     
+      Languages  
+      
+      
+       Адыгабзэ
+       العربية
+       Azərbaycanca
+       বাংলা
+       Bân-lâm-gú
+       Беларуская
+       भोजपुरी
+       Bosanski
+       Català
+       Čeština
+       Cymraeg
+       Español
+       فارسی
+       Français
+       Gaeilge
+       한국어
+       Հայերեն
+       हिन्दी
+       Hrvatski
+       Bahasa Indonesia
+       Íslenska
+       ಕನ್ನಡ
+       Latina
+       Lietuvių
+       Magyar
+       मराठी
+       Bahasa Melayu
+       Minangkabau
+       မြန်မာဘာသာ
+       नेपाली
+       Norsk bokmål
+       Олык марий
+       Oʻzbekcha/ўзбекча
+       Polski
+       Русский
+       සිංහල
+       Simple English
+       سنڌي
+       Slovenčina
+       Slovenščina
+       کوردی
+       Српски / srpski
+       Srpskohrvatski / српскохрватски
+       Suomi
+       தமிழ்
+       Taclḥit
+       తెలుగు
+       Türkçe
+       Українська
+       اردو
+       Tiếng Việt
+       粵語
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 11 February 2022, at 15:50&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

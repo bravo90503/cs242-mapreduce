@@ -1,0 +1,530 @@
+
+ 
+  
+   
+  Lawrence J. Rosenblum - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Lawrence J. Rosenblum 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       American mathematician
+       
+      
+       
+         
+        
+         
+          
+         Larry Rosenblum, National Science Foundation.
+        
+       
+       
+      Lawrence Jay Rosenblum (born 1944) is an American mathematician, and Program Director for Graphics and Visualization at the National Science Foundation.  
+      
+       
+       
+        Contents
+        
+        
+        1 Work 
+        2 Work 
+          
+          2.1 The emergence of scientific visualization 
+          2.2 Research trends in Visualization 
+          2.3 Foundations of Data and Visual Analytics 
+           
+        3 Publications 
+        4 References 
+        5 External links 
+        
+       
+      Work 
+      Rosenblum received his Ph.D. in Mathematics from the Ohio State University in 1971. From 1992 to 1994, he was Liaison Scientist for Computer Science at the Office of Naval Research European Office. From 1994 he has been Director of Virtual Reality (VR) Systems and Research at the Information Technology Division of the Naval Research Laboratory (NRL) and Program Officer for Visualization and Computer Graphics at the Office of Naval Research (ONR) for ten years. Since 2004 he is Program Director for Graphics and Visualization at the National Science Foundation. 
+      Rosenblum is on the editorial boards of IEEE CG&amp;A and Virtual Reality. He has guest edited special issues/sections of IEEE Computer Graphics and Applications (CG&amp;A), Computer, and Presence on visualization, VR, and ARHe. He also has served on both the editorial board and advisory board of the IEEE Transactions on Visualization and Computer Graphics. He was the elected Chairman of the IEEE Technical Committee on Computer Graphics from 1994–1996 and is currently Director of the IEEE Visualization and Graphics Technical Committee. 
+      Rosenblum received an IEEE Outstanding Contribution Certificate for initiating and co-founding the  IEEE Visualization conference. He serves on the program, conference, and steering committees of numerous international conferences. He is a senior member of the IEEE and a member of the IEEE Computer Society, ACM, and Siggraph.  
+      Work 
+      Rosenblum's research interests include mobile augmented reality (AR), scientific and uncertainty visualization, VR displays, and applications of VR/AR systems. His research group has produced advances in mobile augmented reality (AR), scientific and uncertainty visualization, VR displays, applications of VR/AR systems, and understanding human performance in graphics systems.  
+      The emergence of scientific visualization 
+      In the 1990s scientific visualization developed as an emerging research discipline. According to Rosenblum (1994) "new algorithms are just beginning to effectively handle the recurring scientific problem of data collected at nonuniform intervals. Volume visualization today is being extended from examining scientific data to reconstructing scattered data and representing geometrical objects without mathematically describing surfaces. Fluid dynamics visualization affects numerous scientific and engineering disciplines. It has taken its place with molecular modeling, imaging remote-sensing data, and medical imaging as a domain-specific visualization research area". 
+      Much of the progress in the field of scientific modeling, according to Rosenblum (1994), came "from using algorithms with roots in both computer graphics and computer vision. One important research thread has been the topological representation of important features. Volume and hybrid visualization now produce 3D animations of complex flows. However, while impressive 3D visualizations have been generated for scalar parameters associated with fluid dynamics, vector and especially tensor portrayal has proven more difficult. Seminal methods have appeared, but much remains to do. Great strides have also occurred in visualization systems. The area of automated selection of visualizations especially requires more work. Nonetheless, the situation has much improved, with these tools increasingly accessible to scientists and engineers".  
+      Research trends in Visualization 
+      The field of visualization has undergone considerable changes since its founding in the late 1980s. From its origins in scientific visualization, new areas have arisen in the new Millennium . These include information visualization and, more recently, mobile visualization including location-aware computing, and visual analytics. Several new trends are emerging. The most important is the fusion of visualization techniques with other areas such as computer vision, data mining and data bases to promote broad-based advances. Another trend, which has not been well met to date by visualization researchers, is for algorithms to be combined with usability studies to assure that techniques and systems are well designed and that their value is quantified. This presentation will discuss current research trends in visualization as well as briefly discuss trends in U.S. research funding.  
+      Foundations of Data and Visual Analytics 
+      Rosenblum current program responsibilities at the NSF in 2008 is "Foundations of Data and Visual Analytics (FODAVA)" project. Those involved with science, engineering, commerce, health, and national security all increasingly face the challenge of synthesizing information and deriving insight from massive, dynamic, ambiguous and possibly conflicting digital data. The goal of collecting and examining these data is not to merely acquire information, but to derive increased understanding from it and to facilitate effective decision-making. 
+      To capitalize on the opportunities provided by these data sets, a new, interdisciplinary field of science is emerging called "Data and Visual Analytics", which is defined as the science of analytical reasoning facilitated by interactive visual interfaces. Data and Visual Analytics requires interdisciplinary science, going beyond traditional scientific and information visualization to include statistics, mathematics, knowledge representation, management and discovery technologies, cognitive and perceptual sciences, decision sciences, and more. This solicitation is concerned only with a subset of the overall problem, namely the creation of the mathematical and computational sciences foundations required to transform data in ways that permit visual-based understanding. 
+      To facilitate visual-based data exploration, it is necessary to discover new algorithms that will represent and transform all types of digital data into mathematical formulations and computational models that will subsequently enable efficient, effective visualization and analytic reasoning techniques.  
+      Publications 
+      Rosenblum has published over eighty scientific articles and has edited two books, including Scientific Visualization: Advances &amp; Challenges.  
+      
+       1990. Visualization in scientific computing. Edited with Gregory M. Nielson and Bruce Shriver. 
+       1991. Visualization '91, October 22–25, 1991, San Diego, California&nbsp;: proceedings / sponsored by IEEE Computer Society Technical Committee on Computer Graphics,in cooperation with ACM/SIGGRAPH. Edited with Gregory M. Nielson. 
+       1994. Scientific Visualization&nbsp;: Advances and challenges. Academic Press. 
+       1999. IEEE virtual reality&nbsp;: March 13–17, 1999, Houston, Texas&nbsp;: proceedings. Edited with Peter Astheimer, and Detlef Teichmann&nbsp;; sponsored by IEEE Computer Society Technical Committee on Visualization and Graphics.
+       
+      References 
+      
+       
+       
+         
+         ^ a b Lawrence J. Rosenblum at the Mathematics Genealogy Project  
+         ^ a b c d CGI 05 announces two conference panels Archived 2011-07-16 at the Wayback Machine Wednesday, June 22, 2005. Retrieved 8 July 2008.  
+         ^ a b Lawrence J. Rosenblum (1994). "Research issues in scientific visualization". In: Computer Graphics and Applications, IEEE. Volume 14, Issue 2, March 1994 Page(s):61 - 63.  
+         ^ a b c Foundations of Data and Visual Analytics (FODAVA) Program SYNOPSIS. Last Updated: November 1, 2007. Retrieved 8 July 2008.  
+        
+       
+       
+      External links 
+      
+       Lawrence Rosenblum homepage at the NSF.
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          General
+          
+            
+            
+             ISNI 
+              
+               1
+               
+             VIAF 
+              
+               1
+               
+             WorldCat
+             
+           
+         
+         
+          National libraries
+          
+            
+            
+             United States
+             
+           
+         
+         
+          Scientific databases
+          
+            
+            
+             Mathematics Genealogy Project
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Lawrence_J._Rosenblum&amp;oldid=1063249912"
+     
+     
+    
+     
+      Categories: 
+      
+       1949 births
+       20th-century American mathematicians
+       21st-century American mathematicians
+       Living people
+       Information visualization experts
+       United States National Science Foundation officials
+       Ohio State University Graduate School alumni
+       Senior Members of the IEEE
+       Virtual reality pioneers
+      
+     
+     
+      Hidden categories: 
+      
+       Webarchive template wayback links
+       Articles with short description
+       Short description matches Wikidata
+       Articles with ISNI identifiers
+       Articles with VIAF identifiers
+       Articles with WORLDCATID identifiers
+       Articles with LCCN identifiers
+       Articles with MGP identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+       
+      
+       Add links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 2 January 2022, at 01:30&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

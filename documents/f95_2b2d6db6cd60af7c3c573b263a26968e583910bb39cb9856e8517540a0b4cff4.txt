@@ -1,0 +1,438 @@
+
+ 
+  
+   
+  File:Information-Retrieval-Models.png - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+     
+     
+    
+   File:Information-Retrieval-Models.png 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      File 
+      File history 
+      File usage 
+      Global file usage
+     
+     
+      
+      
+       Size of this preview: 800 × 413 pixels. Other resolutions: 320 × 165 pixels | 640 × 331 pixels | 1,024 × 529 pixels | 1,280 × 661 pixels | 2,131 × 1,101 pixels.
+      
+      
+     
+      Original file ‎(2,131 × 1,101 pixels, file size: 55 KB, MIME type: image/png) 
+     
+      
+      
+       
+        
+         
+         This is a file from the Wikimedia Commons. Information from its description page there is shown below.Commons is a freely licensed media file repository. You can help.
+        
+       
+       
+      
+     
+      
+       Summary 
+       Adaption of the picture in the German article on "Information Retrieval": http://de.wikipedia.org/wiki/Information_Retrieval#Klassifikation_von_Modellen_zur_Repr.C3.A4sentation_nat.C3.BCrlichsprachlicher_Dokumente There it is stated that the source of that image is: Dominik Kuropka: Modelle zur Repräsentation natürlichsprachlicher Dokumente. Ontologie-basiertes Information-Filtering und -Retrieval mit relationalen Datenbanken, ISBN&nbsp;3-8325-0514-8  
+       Licensing 
+       
+        
+         
+           
+          Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled GNU Free Documentation License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue 
+         
+        
+       
+       
+        
+         
+            
+          This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.  
+           
+         
+         
+           
+         
+         
+           
+           
+            
+             You are free: 
+             
+              to share – to copy, distribute and transmit the work 
+              to remix – to adapt the work
+             
+             
+            
+             Under the following conditions: 
+             
+              attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. 
+              share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original.
+             
+            
+           
+         
+         
+          This licensing tag was added to this file as part of the GFDL licensing update.http://creativecommons.org/licenses/by-sa/3.0/CC-BY-SA-3.0Creative Commons Attribution-Share Alike 3.0truetrue 
+         
+        
+       
+       
+        
+        
+         
+          Captions
+          
+           English
+           
+            Add a one-line explanation of what this file represents
+           
+          
+         
+        
+        
+         
+          
+           
+            
+             
+              Items portrayed in this file
+              depicts
+             
+            
+           
+           
+          
+         
+         copyright status&quot;}},&quot;text\/plain&quot;:}},&quot;,\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:},&quot;text\/plain&quot;:}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P6216 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed">
+          
+           
+            
+             
+              copyright status
+             
+            
+           
+           
+            
+             
+              
+               
+                
+                 copyrighted
+                
+               
+              
+             
+            
+           
+          
+         
+         copyright license&quot;}},&quot;text\/plain&quot;:}},&quot;,\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:},&quot;text\/plain&quot;:}},&quot;,\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:},&quot;text\/plain&quot;:}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P275 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed">
+          
+           
+            
+             
+              copyright license
+             
+            
+           
+           
+            
+             
+              
+               
+                
+                 GNU Free Documentation License, version 1.2 or later
+                
+               
+              
+             
+            
+            
+             
+              
+               
+                
+                 Creative Commons Attribution-ShareAlike 3.0 Unported
+                
+               
+              
+             
+            
+           
+          
+         
+        
+       
+      
+      
+     File history 
+      
+      Click on a date/time to view the file as it appeared at that time.  
+       
+       
+        
+         
+         Date/Time
+         Thumbnail
+         Dimensions
+         User
+         Comment
+         
+        
+         current
+         12:11, 17 January 2006
+         
+         2,131 × 1,101 (55 KB)
+         ThomasHofmann
+         Adaption of the picture in the German article on "Information Retrieval": http://de.wikipedia.org/wiki/Information_Retrieval#Klassifikation_von_Modellen_zur_Repr.C3.A4sentation_nat.C3.BCrlichsprachlicher_Dokumente There it is state that the source of that
+         
+       
+       
+      
+     File usage 
+      
+      
+       The following pages on the English Wikipedia use this file (pages on other projects are not listed):
+      
+       
+       Information retrieval 
+       
+      
+     Global file usage 
+     
+      The following other wikis use this file: 
+       
+       Usage on en.wikiquote.org 
+         
+         Information retrieval 
+         
+       Usage on fr.wikipedia.org 
+         
+         Recherche d'information 
+         
+       Usage on hi.wikipedia.org 
+         
+         सूचना पुनर्प्राप्ति 
+         
+       Usage on it.wikipedia.org 
+         
+         Information retrieval 
+         
+       Usage on mn.wikipedia.org 
+         
+         Мэдээлэл хайх 
+         Мэдээлэл гаргаж авах 
+         Хэрэглэгч:Sodkhuudalaikhuu/Мэдээлэл гаргаж авах 
+         
+       Usage on nl.wikipedia.org 
+         
+         Information retrieval 
+         
+       
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/wiki/File:Information-Retrieval-Models.png"
+     
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        File
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        View on Commons
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Upload file
+       Special pages
+       Printable version
+       Page information
+       
+      
+     
+     
+      Languages  
+      
+       
+      
+       
+       
+      
+     
+    
+   
+   
+    
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+    
+ 

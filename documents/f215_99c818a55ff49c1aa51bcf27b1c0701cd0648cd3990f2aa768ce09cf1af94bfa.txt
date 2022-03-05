@@ -1,0 +1,1644 @@
+
+ 
+  
+   
+  Category:Information retrieval - Wikimedia Commons 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+     Help
+     
+    
+   Category:Information retrieval 
+    
+    
+     From Wikimedia Commons, the free media repository
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+      
+       búsqueda y recuperación de información (es); Informazioa eskuratzea (eu); dapatan kembali maklumat (ms); Information Retrieval (de); Aisfháil faisnéise (ga); بازیابی اطلاعات (fa); Извличане на информация (bg); Informationssøgning (da); recuperarea informațiilor (ro); 情報検索 (ja); informationssökning (sv); Інформаційний пошук (uk); 資訊檢索 (zh-hant); सूचना पुनर्प्राप्ति (hi); 정보 검색 (ko); informo-rehavigo (eo); získávání informací (cs); Çustuçūi informatsionī (tg-latn); information retrieval (it); recherche d'information (fr); інфармацыйны пошук (be-tarask); Recuperación de información (gl); 信息检索 (zh-hans); bilgi çekme (tr); אחזור מידע (he); Ανάκτηση Πληροφοριών (el); recuperação de informação (pt); 資訊檢索 (zh-hk); informācijas izguve (lv); tiedonhaku (fi); Pretraživanje informacija (sr); Ҷустуҷӯи информатсионӣ (tg); information retrieval (nl); temu balik informasi (id); informasjonsattfinning (nn); Мэдээлэл гаргаж авах (mn); wyszukiwanie informacji (pl); informasjonsgjenfinning (nb); İnformasiya axtarışı (az); информационный поиск (ru); 信息检索 (zh); truy hồi thông tin (vi); recuperació d'informació (ca); information retrieval (en); استرجاع المعلومات (ar); klask stlenn (br); пребарување на информации (mk) bir bilgi kaynakları koleksiyonundan, bilgi ihtiyacıyla ilgili bilgi kaynaklarını elde etme etkinliği (tr); 大量のデータあるいは分析結果を必要に応じて取り出すこと (ja); terme (fr); kegiatan mengambil sumber informasi yang terkait dengan informasi yang dibutuhkan dari kumpulan sumber informasi (id); činnost (cs); termine (it); Begriff (de); 집합적인 정보로부터 원하는 내용과 관련이 있는 부분을 얻어 내는 행위 (ko); activity of obtaining information resources relevant to an information need from a collection of information resources (en); تحميل Chrome (ar); 活动 (zh); ciencia de la búsqueda de información en colecciones digitales (es) reperimento dell'informazione (it); information retrieval, recherches d'information, recherche d’information, recherche d'informations, recherche documentaire, recherches d'informations (fr); пошук інфармацыі (be-tarask); Informazioa eskuratze (eu); dapatan semula maklumat, penerimaan informasi (ms); Informationswiedergewinnung, Informationretrieval, Informationsrückgewinnung, Informationsabruf, Information-Retrieval, Informationsgewinnung (de); Recuperação de informações (pt); ذخیره سازی و بازیابی اطلاعات, ذخیرهٔ سازی و بازیابی اطلاعات, ریکاوری, ذخیره و بازیابی اطلاعات (fa); 资讯检索, 資訊檢索 (zh); Pretrazivanje informacija (sr); bilgi alma, bilgi depolama ve erişim (tr); поиск информации, information retrieval, извлечение информации, IR (ru); vyhledávání informací (cs); إسترجاع المعلومات, انظمة استرجاع المعلومات, نظم استرجاع المعلومات, استعادة المعلومات (ar); informācijas meklēšana (lv); Пошук інформації (uk); informatiewinning, informatieverzorging (nl); Бозёбии иттилоот, Гирифтани информатсия, Аниқ (tg); איחזור מידע (he); busqueda y recuperacion de informacion (es); 정보검색 (ko); IR, information storage and retrieval, info retrieval (en); IR (eo); klask titouroù (br); Informationsøgning (da)
+       
+       
+       
+        information retrieval&nbsp;
+       
+       
+        
+         
+          
+           activity of obtaining information resources relevant to an information need from a collection of information resources
+          
+          
+        
+        
+         Upload media
+        
+        
+         &nbsp; Wikipedia&nbsp; Wikiquote
+        
+        
+         Instance of
+         activity
+        
+        
+         Subclass of
+         search,taking (information)
+        
+        
+         Different from
+         
+          
+           
+            recall
+           
+          
+        
+        
+         
+          
+           
+            
+             Authority control
+            
+            
+             
+              
+               &nbsp;Q816826GND ID: 4072803-1Library of Congress authority ID: sh85066148Bibliothèque nationale de France ID: 122132635National Diet Library ID: 00575010BNCF Thesaurus ID: 46118Biblioteca Nacional de España ID: XX535604BabelNet ID: 00744700n
+              
+            
+           
+          
+        
+        
+          
+            
+            
+             Reasonator 
+             PetScan 
+             Scholia 
+             Statistics 
+             OpenStreetMap 
+             Locator tool 
+             Search&nbsp;depicted
+             
+           
+         
+        
+         
+         
+       
+          
+     
+     
+       
+       Subcategories 
+       This category has the following 19 subcategories, out of 19 total. 
+       
+        
+         
+          B 
+          
+           
+            
+             
+               Bibliothèque de la communauté assomptionniste : saisie informatique et classement Dewey‎ (3 F)
+             
+             
+            
+          
+         
+         
+          D 
+          
+           
+            
+             
+                Data management‎ (36 C, 175 F)
+             
+             
+            
+          
+         
+         
+          E 
+          
+           
+            
+             
+                Electronic documents‎ (2 C)
+             
+             
+            
+          
+         
+         
+          G 
+          
+           
+            
+             
+               General Architecture for Text Engineering‎ (5 F)
+             
+             
+             
+           
+            
+             
+                Information retrieval genres‎ (2 C)
+             
+             
+            
+          
+         
+         
+          I 
+          
+           
+            
+             
+                Information retrieval systems‎ (2 C)
+             
+             
+             
+           
+            
+             
+               Inventaire du centre de documentation de l'Agence d’urbanisme et de développement de la région nîmoise et alésienne‎ (1 F)
+             
+             
+            
+          
+         
+         
+          M 
+          
+           
+            
+             
+               Augustin Merta‎ (4 F)
+             
+             
+             
+           
+            
+             
+                Music information retrieval‎ (2 C)
+             
+             
+            
+          
+         
+         
+          P 
+          
+           
+            
+             
+               Precision and recall‎ (12 F)
+             
+             
+            
+          
+         
+         
+          S 
+          
+           
+            
+             
+                Search algorithms‎ (16 C, 96 F)
+             
+             
+             
+           
+            
+             
+                Search engines‎ (12 C, 2 P, 123 F)
+             
+             
+             
+           
+            
+             
+                Search trees‎ (4 C, 14 F)
+             
+             
+             
+           
+            
+             
+                Sound production technology‎ (11 C, 10 F)
+             
+             
+            
+          
+         
+         
+          T 
+          
+           
+            
+             
+               Table de correspondance du T. VI des Inventaires et Documents‎ (1 F)
+             
+             
+             
+           
+            
+             
+                Information retrieval techniques‎ (3 C, 1 F)
+             
+             
+            
+          
+         
+         
+          U 
+          
+           
+            
+             
+               Unpaywall‎ (7 F)
+             
+             
+            
+          
+         
+         
+          V 
+          
+           
+            
+             
+                Videos of information retrieval‎ (1 C, 1 F)
+             
+             
+            
+          
+         
+         
+          W 
+          
+           
+            
+             
+               WikiConvention francophone 2017/Les liens entre OSM et les projets Wikimédia‎ (1 F)
+             
+             
+            
+          
+         
+        
+        
+      
+       
+       Media in category "Information retrieval" 
+       The following 97 files are in this category, out of 97 total. 
+        
+        
+          
+          
+           
+            
+           
+           
+           2D Extended Boolean model AND example.png 416 × 505; 15 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           2D Extended Boolean model OR example.png 416 × 505; 16 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           AB pruning.svg 1,212 × 615; 43 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Acuracia.png 700 × 400; 24 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Allin1-title.png 689 × 453; 5 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Allin1-wlsplus-help.png 841 × 429; 7 KB
+            
+           
+          
+        
+          
+          
+           
+            ">
+             Play media
+            
+           
+           
+           Annotating the Schrödinger equation.webm 5 min 2 s, 1,280 × 720; 33.46 MB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Binary-classification-file ccr.svg 180 × 180; 32 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Binary-classification-file fallout.svg 180 × 180; 32 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Binary-classification-file false negative rate.svg 180 × 180; 32 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Binary-classification-file fcr.svg 180 × 180; 32 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Binary-classification-file npv.svg 180 × 180; 32 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Binary-classification-file precision.svg 180 × 180; 32 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Binary-classification-file sensitivity.svg 180 × 180; 32 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Binary-classification-file specifity.svg 180 × 180; 32 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Binary-classification-labeled.svg 180 × 180; 63 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Binary-classification-measures.svg 180 × 180; 40 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Binary-classification.svg 180 × 180; 32 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           BOSCH 2 ZOLL QUADRUPLEX BCM 40.jpg 1,784 × 2,376; 2.62 MB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Clair logo.jpg 142 × 186; 3 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Classification of Plagiarism Detection Methods.svg 621 × 238; 11 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           DARPA Big Data.jpg 1,500 × 968; 976 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Design and development of Information retrieval system.pdf 1,275 × 1,650, 3 pages; 213 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Deskbar-applet.png 1,280 × 1,024; 821 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Dicoogle CBIR components.png 1,458 × 1,954; 574 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Entity Linking - Breve Esempio.png 5,763 × 2,149; 211 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Entity Linking - Esempio di algoritmo.png 14,696 × 2,943; 833 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Entity Linking - Example of pipeline.png 12,051 × 2,943; 695 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Entity Linking - Example of pipeline.svg 512 × 125; 13 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Entity Linking - Short Example.svg 512 × 265; 2 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Entropie 16 11 2004.png 804 × 421; 19 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Esquema ASR.jpg 844 × 326; 31 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Experement Small World (possible option).gif 500 × 500; 64 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Fallout.svg 180 × 180; 33 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           GKDStruktur.png 756 × 265; 11 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Haku kaanteistiedostosta.jpg 941 × 351; 93 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           HighDefShare6.svg 450 × 480; 6 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Information-Retrieval-Models.png 2,131 × 1,101; 55 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Information-Retrieval.png 686 × 570; 15 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           InformationRetrieval.png 355 × 140; 11 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           IVDOC.png 565 × 293; 16 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           JCoreAdmin.jpg 200 × 203; 41 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           JumperInputScreen1.jpg 988 × 1,167; 146 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Kaanteistiedoston ja sanakirjan paivitys.jpg 835 × 366; 94 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Kerry suche.png 700 × 667; 84 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Klassifizierung.svg 180 × 180; 34 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Koru-search-engine.png 1,454 × 574; 71 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           KWAC.png 587 × 352; 28 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           KWIC.png 804 × 461; 39 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           KWOC.png 652 × 434; 30 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Linkstruct2.GIF 507 × 466; 12 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           LSI - WP.jpg 575 × 94; 12 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Mam ass 1.pdf 1,239 × 1,752, 7 pages; 150 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Mean-avg-prec.png 547 × 415; 23 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Meta-search-de.svg 496 × 461; 137 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Meta-search.svg 496 × 461; 52 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           MIR Disziplinen.png 939 × 583; 84 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Muster (rot-blaue Balken).png 59 × 43; 25 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Negative-prediction-value.svg 180 × 180; 34 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           NetworkOperations.jpg 358 × 240; 39 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           OMFICA Logo.png 152 × 118; 2 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           PD Methods Detection Performance zh t.png 3,426 × 1,689; 453 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           PD Methods Detection Performance.gif 549 × 271; 26 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           PD Methods Detection Performance.png 3,426 × 1,689; 485 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           PDS Classification zh t.png 3,839 × 1,282; 114 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           PDS Classification.png 3,839 × 1,282; 189 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           PDS Classification.svg 853 × 378; 58 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Plsi.svg 478 × 206; 11 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Precision.svg 180 × 180; 34 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Principe cbir.png 929 × 349; 91 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Principe cbir.svg 512 × 362; 187 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           ProcesamientoDatos.svg 577 × 76; 5 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Protege-3.2.1.jpg 1,021 × 770; 204 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Protégé 3.4.3.png 1,024 × 819; 52 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Query formulation process.pdf 1,239 × 1,752, 8 pages; 605 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Recall.svg 180 × 180; 34 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Recherche document.png 1,007 × 417; 64 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Resultat segmentation plan LOTR.png 946 × 463; 7 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           ROCCurve.png 552 × 421; 19 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Search-engine-diagram-de.svg 744 × 638; 112 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Search-engine-diagram-en.svg 512 × 433; 112 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Search-engine-diagram-he.svg 512 × 433; 84 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Semantic Mirror.png 1,120 × 751; 210 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Small dv and hdv cassettes front.jpg 1,040 × 680; 147 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Stakeholders of a search engine and their interactions.svg 764 × 455; 32 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Vector processing information retrieval model.pdf 1,275 × 1,650, 2 pages; 86 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Vector space model.jpg 427 × 420; 30 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           VRM Abb 3.jpg 800 × 495; 66 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           WebCrawlerArchitecture-ru.svg 500 × 382; 16 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           WebCrawlerArchitecture.svg 500 × 382; 14 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Wikimania2009-WikiWord-Paper.pdf 1,239 × 1,754, 14 pages; 1.53 MB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Wikimania2009-WikiWord.pdf 1,654 × 1,239, 25 pages; 382 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Архітектура CBIR-систем.PNG 742 × 526; 47 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Методы выявления плагиата.png 1,032 × 393; 6 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Мир Тесен.png 1,284 × 618; 263 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Програмні засоби добування інформації123123.jpg 1,926 × 1,618; 179 KB
+            
+           
+          
+        
+          
+          
+           
+            
+           
+           
+           Технічні засоби добування 1інформації.jpg 2,306 × 998; 143 KB
+            
+           
+          
+        
+      
+     
+     
+      
+      
+     
+      Retrieved from "https://commons.wikimedia.org/w/index.php?title=Category:Information_retrieval&amp;oldid=310487187"
+     
+     
+    
+     
+      Categories: 
+      
+       Data visualization
+       Information management
+       Information security
+       Natural language processing
+       Information science
+      
+     
+     
+      Non-topical/index: 
+      
+       Uses of Wikidata Infobox
+       Uses of Wikidata Infobox providing interwiki links
+       Uses of Wikidata Infobox with no image
+      
+     
+     
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       English
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Category
+        Discussion
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        View
+        Edit
+        History
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigate  
+      
+      
+       Main page
+       Welcome
+       Community portal
+       Village pump
+       Help center
+       
+      
+     
+     
+      Participate  
+      
+      
+       Upload file
+       Recent changes
+       Latest files
+       Random file
+       Contact us
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Special pages
+       Permanent link
+       Page information
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Create a book
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikipedia
+       
+      
+     
+     
+      In Wikipedia  
+      
+      
+       العربية
+       Azərbaycanca
+       Башҡортса
+       Boarisch
+       Беларуская
+       Беларуская (тарашкевіца)
+       Български
+       বাংলা
+       Bosanski
+       Català
+       Čeština
+       Cymraeg
+       Dansk
+       Deutsch
+       Ελληνικά
+       English
+       Esperanto
+       Español
+       Euskara
+       فارسی
+       Suomi
+       Français
+       Gaeilge
+       Galego
+       हिन्दी
+       Bahasa Indonesia
+       Italiano
+       日本語
+       ქართული
+       한국어
+       Latviešu
+       Македонски
+       Монгол
+       Bahasa Melayu
+       Nederlands
+       Norsk nynorsk
+       Norsk
+       Polski
+       Português
+       Română
+       Русский
+       Scots
+       Slovenčina
+       Српски / srpski
+       Svenska
+       Тоҷикӣ
+       Türkçe
+       Українська
+       اردو
+       Tiếng Việt
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 10 July 2018, at 16:20. 
+    Files are available under licenses specified on their description page. All structured data from the file namespace is available under the Creative Commons CC0 License; all unstructured text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and the Privacy Policy. 
+    
+    
+    Privacy policy 
+    About Wikimedia Commons 
+    Disclaimers 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+    
+ 

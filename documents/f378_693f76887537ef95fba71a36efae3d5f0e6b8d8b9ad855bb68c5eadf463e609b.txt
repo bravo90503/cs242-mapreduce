@@ -1,0 +1,359 @@
+
+ 
+  
+   
+  Domain of discourse - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Domain of discourse 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Type of abstract object
+       
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources:&nbsp;"Domain of discourse"&nbsp;–&nbsp;news&nbsp;· newspapers&nbsp;· books&nbsp;· scholar&nbsp;· JSTOR (September 2013) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      
+       
+         
+        
+         
+          
+         A symbol for the set of domain of discourse
+        
+       
+       
+      In the formal sciences, the domain of discourse, also called the universe of discourse, universal set, or simply universe, is the set of entities over which certain variables of interest in some formal treatment may range.  
+      
+       
+       
+        Contents
+        
+        
+        1 Overview 
+        2 Examples 
+        3 Universe of discourse 
+        4 Boole’s 1854 definition 
+        5 See also 
+        6 References 
+        
+       
+      Overview 
+      
+       
+         
+        
+         
+          
+         Giuseppe Peano
+        
+       
+       
+      The domain of discourse is usually identified in the preliminaries, so that there is no need in the further treatment to specify each time the range of the relevant variables. Many logicians distinguish, sometimes only tacitly, between the domain of a science and the universe of discourse of a formalization of the science.  
+      Examples 
+      For example, in an interpretation of first-order logic, the domain of discourse is the set of individuals over which the quantifiers range. A proposition such as ∀x (x2 ≠ 2) is ambiguous, if no domain of discourse has been identified. In one interpretation, the domain of discourse could be the set of real numbers; in another interpretation, it could be the set of natural numbers. If the domain of discourse is the set of real numbers, the proposition is false, with x = √2 as counterexample; if the domain is the set of natural numbers, the proposition is true, since 2 is not the square of any natural number.  
+      Universe of discourse 
+      The term "universe of discourse" generally refers to the collection of objects being discussed in a specific discourse. In model-theoretical semantics, a universe of discourse is the set of entities that a model is based on. The concept universe of discourse is generally attributed to Augustus De&nbsp;Morgan (1846) but the name was used for the first time by George Boole (1854) on page 42 of his Laws of Thought. Boole's definition is quoted below. The concept, probably discovered independently by Boole in 1847, played a crucial role in his philosophy of logic especially in his principle of wholistic reference.  
+      Boole’s 1854 definition 
+      
+       
+         
+        
+         
+          
+         George Boole
+        
+       
+       
+      
+      
+       In every discourse, whether of the mind conversing with its own thoughts, or of the individual in his intercourse with others, there is an assumed or expressed limit within which the subjects of its operation are confined. The most unfettered discourse is that in which the words we use are understood in the widest possible application, and for them the limits of discourse are co-extensive with those of the universe itself. But more usually we confine ourselves to a less spacious field. Sometimes, in discoursing of men we imply (without expressing the limitation) that it is of men only under certain circumstances and conditions that we speak, as of civilized men, or of men in the vigour of life, or of men under some other condition or relation. Now, whatever may be the extent of the field within which all the objects of our discourse are found, that field may properly be termed the universe of discourse. Furthermore, this universe of discourse is in the strictest sense the ultimate subject of the discourse.
+       
+        — George Boole, The Laws of Thought. 1854/2003. p. 42.
+       
+       
+      See also 
+       
+       
+         
+          
+         Look up domain of discourse in Wiktionary, the free dictionary.
+         
+       
+       
+      
+       Domain of a function 
+       Domain theory 
+       Quantifier (logic) 
+       Interpretation (logic) 
+       Term algebra 
+       Universe (mathematics)
+       
+       
+      References 
+      
+       
+       
+         
+         ^ Corcoran, John. Universe of discourse. Cambridge Dictionary of Philosophy, Cambridge University Press, 1995, p. 941.  
+         ^ José Miguel Sagüillo, Domains of sciences, universe of discourse, and omega arguments, History and philosophy of logic, vol. 20 (1999), pp. 267–280.  
+         ^ Facsimile of 1854 edition, with an introduction by J. Corcoran. Buffalo: Prometheus Books (2003). Reviewed by James van Evra in Philosophy in Review 24 (2004): 167–169.  
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Domain_of_discourse&amp;oldid=1071184728"
+     
+     
+    
+     
+      Categories: 
+      
+       Semantics
+       Predicate logic
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with short description
+       Short description matches Wikidata
+       Articles needing additional references from September 2013
+       All articles needing additional references
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Català
+       Deutsch
+       Español
+       فارسی
+       Français
+       한국어
+       日本語
+       Português
+       Simple English
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 11 February 2022, at 08:17&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

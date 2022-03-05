@@ -1,0 +1,363 @@
+
+ 
+  
+  Information retrieval - LC Linked Data Service: Authorities and Vocabularies | Library of Congress 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+    
+   
+      
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+  skip navigation
+  
+    
+     
+     
+      
+       
+        Library of Congress
+       
+       
+        Search
+         
+         
+           Everything Audio Recordings Books/Printed Material Films, Videos Legislation Manuscripts/Mixed Material Maps Notated Music Newspapers Periodicals Personal Narratives Photos, Prints, Drawings Software, E-Resources Archived Web Sites Web Pages 3D Objects 
+          
+         
+          
+          
+           
+            Suggestions enabled.
+            
+           
+          
+          
+           
+          
+          Search 
+          
+        Search toggle
+       
+       
+        menu 
+         
+          
+          Discover 
+          Services 
+          Visit 
+          Education 
+          Connect 
+          About 
+          
+          
+          Ask a Librarian 
+          Help 
+          Contact 
+          
+          
+          Search Online Catalog 
+          Copyright.gov 
+          Congress.gov 
+          
+        
+       
+      
+      
+     
+   
+   
+    The Library of Congress &gt; Linked Data Service &gt; LC Subject Headings (LCSH)
+   
+   
+    
+     
+      
+     
+     
+      
+       Information retrieval
+      
+      
+       
+       
+        
+         URI(s)
+           
+           http://id.loc.gov/authorities/subjects/sh85066148 
+           info:lc/authorities/sh85066148 
+           http://id.loc.gov/authorities/sh85066148#concept 
+          
+         Instance Of
+           
+           MADS/RDF Topic 
+           MADS/RDF Authority 
+           SKOS Concept  
+          
+         Scheme Membership(s)
+           
+           Library of Congress Subject Headings 
+          
+         Collection Membership(s)
+           
+           LCSH Collection - Authorized Headings 
+           LCSH Collection - General Collection 
+           LCSH Collection - May Subdivide Geographically 
+          
+         Variants
+           
+           
+            
+             Data retrieval
+             
+           
+            
+             Data storage
+             
+           
+            
+             Discovery, Information
+             
+           
+            
+             Information discovery
+             
+           
+            
+             Information storage and retrieval
+             
+           
+            
+             Retrieval of information
+             
+          
+         Broader Terms
+           
+           Documentation 
+           Information science 
+          
+         Narrower Terms
+           
+           Authority files (Information retrieval) 
+           Clumps (Information retrieval) 
+           Content-based image retrieval 
+           Cross references (Information retrieval) 
+           Cross-language information retrieval 
+           Electronic information resource searching 
+           Information services 
+           Library research 
+           Metadata harvesting 
+           Searching, Bibliographical 
+           Web browsing 
+          
+         Related Terms
+           
+           Information storage and retrieval systems 
+          
+         Closely Matching Concepts from Other Schemes
+           
+           information retrieval Label from public data source Wikidata 
+           Information retrieval  
+           tiedonhaku  
+          
+         Narrower Concepts from Other Schemes
+           
+           Information retrieval--Ability testing  
+           Information retrieval--Data processing  
+           Information retrieval--Evaluation  
+           Information retrieval--Mathematical models  
+           Information retrieval--Psychological aspects  
+           Information retrieval--Research  
+           Information retrieval--Social aspects  
+           Information retrieval--Software  
+           Information retrieval--Study and teaching (Elementary)  
+           Information retrieval--Study and teaching (Higher)  
+           Information retrieval--Study and teaching (Middle school)  
+           Information retrieval--Study and teaching (Secondary)  
+           Information retrieval--Study and teaching--Evaluation  
+           Information retrieval--Technological innovations  
+           Information retrieval--Vocational guidance  
+          
+         Change Notes
+            
+           
+            
+             1986-02-11: new
+              
+           
+            
+             2016-07-07: revised
+             
+          
+         
+         Alternate Formats
+           
+           RDF/XML (MADS and SKOS) 
+           N-Triples (MADS and SKOS) 
+           JSON (MADS/RDF and SKOS/RDF) 
+           MADS - RDF/XML 
+           MADS - N-Triples 
+           MADS/RDF - JSON 
+           SKOS - RDF/XML 
+           SKOS - N-Triples 
+           SKOS - JSON 
+           MADS/XML 
+           MARC/XML 
+          
+        
+        
+         
+         
+          
+           
+            Subject Of Works
+           
+           
+            Looking for related works...
+           
+           
+          
+         
+         
+          
+           
+            Contributor To Works
+           
+           
+            Looking for related works...
+           
+           
+          
+         
+         
+          Suggest Alternative Terminology
+         
+        
+        
+      
+     
+     
+      
+       Suggest terminology
+       
+       The LC Linked Data Service welcomes any suggestions you might have about terminology used for a given heading or concept.
+       Would you like to suggest a change to this heading?
+       
+         
+         Information retrieval 
+        
+       
+       Please provide your name, email, and your suggestion so that we can begin assessing any terminology changes.
+      
+      Fields denoted with an asterisk (*) are required.
+       
+       
+        
+        * Name
+        
+        
+        
+        * E-mail
+        
+        
+        
+        * Suggested terminology
+        I recommend changing the terminology for http://id.loc.gov/authorities/subjects/sh85066148 from "Information retrieval" to:
+
+
+        
+        
+        
+        * 
+         
+          How many bedrooms in a three bedroom house?
+         
+        
+        
+        
+        
+        
+        
+      
+      
+       Privacy policy
+      
+     
+     
+    
+   
+    
+    
+     
+      Follow Us
+       
+        Email 
+        Facebook 
+        Twitter 
+        Youtube 
+        Pinterest 
+        Flickr 
+        Instagram 
+        iTunes 
+       Take our survey External 
+      
+     
+     
+      
+        
+        Accessibility 
+        Legal 
+        Inspector General 
+        External Link Disclaimer 
+        USA.gov 
+        Careers 
+        Contact 
+        Media 
+        Donate 
+        Shop 
+       
+      
+      
+        
+        Congress.gov 
+        United States Copyright Office 
+       
+      
+     
+     
+   
+   
+    
+   
+  
+   
+ 

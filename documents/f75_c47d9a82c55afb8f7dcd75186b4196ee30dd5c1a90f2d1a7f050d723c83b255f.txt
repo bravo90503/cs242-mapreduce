@@ -1,0 +1,521 @@
+
+ 
+  
+   
+  Compound-term processing - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Compound-term processing 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+    
+     &nbsp;&nbsp;(Redirected from Compound term processing)
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      Compound-term processing, in information-retrieval, is search result matching on the basis of compound terms. Compound terms are built by combining two or more simple terms; for example, "triple" is a single word term, but "triple heart bypass" is a compound term. 
+      Compound-term processing is a new approach to an old problem: how can one improve the relevance of search results while maintaining ease of use? Using this technique, a search for survival rates following a triple heart bypass in elderly people will locate documents about this topic even if this precise phrase is not contained in any document. This can be performed by a concept search, which itself uses compound-term processing. This will extract the key concepts automatically (in this case "survival rates", "triple heart bypass" and "elderly people") and use these concepts to select the most relevant documents.  
+      
+       
+       
+        Contents
+        
+        
+        1 Techniques 
+        2 History 
+        3 Adaptability 
+        4 Applications 
+        5 See also 
+        6 References 
+        
+       
+      Techniques 
+      In August 2003, Concept Searching Limited introduced the idea of using statistical compound-term processing. 
+      CLAMOUR is a European collaborative project which aims to find a better way to classify when collecting and disseminating industrial information and statistics. CLAMOUR appears to use a linguistic approach, rather than one based on statistical modelling.  
+      History 
+      Techniques for probabilistic weighting of single word terms date back to at least 1976 in the landmark publication by Stephen E. Robertson and Karen Spärck Jones. Robertson stated that the assumption of word independence is not justified and exists as a matter of mathematical convenience. His objection to the term independence is not a new idea, dating back to at least 1964 when H. H. Williams stated that "he assumption of independence of words in a document is usually made as a matter of mathematical convenience". 
+      In 2004, Anna Lynn Patterson filed patents on "phrase-based searching in an information retrieval system" to which Google subsequently acquired the rights.  
+      Adaptability 
+      Statistical compound-term processing is more adaptable than the process described by Patterson. Her process is targeted at searching the World Wide Web where an extensive statistical knowledge of common searches can be used to identify candidate phrases. Statistical compound term processing is more suited to enterprise search applications where such a priori knowledge is not available. 
+      Statistical compound-term processing is also more adaptable than the linguistic approach taken by the CLAMOUR project, which must consider the syntactic properties of the terms (i.e. part of speech, gender, number, etc.) and their combinations. CLAMOUR is highly language-dependent, whereas the statistical approach is language-independent.  
+      Applications 
+      Compound-term processing allows information-retrieval applications, such as search engines, to perform their matching on the basis of multi-word concepts, rather than on single words in isolation which can be highly ambiguous. 
+      Early search engines looked for documents containing the words entered by the user into the search box . These are known as keyword search engines. Boolean search engines add a degree of sophistication by allowing the user to specify additional requirements. For example, "Tiger NEAR Woods AND (golf OR golfing) NOT Volkswagen" uses the operators "NEAR", "AND", "OR" and "NOT" to specify that these words must follow certain requirements. A phrase search is simpler to use, but requires that the exact phrase specified appear in the results.  
+      See also 
+      
+       Concept Searching Limited 
+       Enterprise search 
+       Information retrieval
+       
+      References 
+      
+       
+        
+        ^ "Lateral Thinking in Information Retrieval" (PDF). Information Management and Technology. 36 PART 4. Archived from the original (PDF) on 2017-11-15. Retrieved 2008-06-20. The British Library Direct catalogue entry can be found here: Archived 2012-02-10 at the Wayback Machine  
+        ^  National Statistics CLAMOUR project  
+        ^ 
+          Robertson, S. E.; Spärck Jones, K. (1976). "Relevance weighting of search terms". Journal of the American Society for Information Science. 27 (3): 129. doi:10.1002/asi.4630270302.  
+        ^ 
+          WILLIAMS, J.H. (1965). "Results of classifying documents with multiple discriminant functions". Statistical Association Methods for Mechanized Documentation, National Bureau of Standards. Washington: 217–224. Archived from the original on 2011-07-17. Retrieved 2015-05-21.  
+        ^ US 20060031195&nbsp;  
+        ^ Google Acquires Cuil Patent Applications  
+       
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Natural language processing
+           
+         
+         
+          General terms
+          
+            
+            
+             AI-complete 
+             Bag-of-words 
+             n-gram 
+              
+               Bigram 
+               Trigram
+               
+             Computational linguistics 
+             Natural-language understanding 
+             Stop words 
+             Text processing
+             
+           
+         
+         
+          Text analysis
+          
+            
+            
+             Collocation extraction 
+             Concept mining 
+             Coreference resolution 
+             Deep linguistic processing 
+             Distant reading 
+             Information extraction 
+             Named-entity recognition 
+             Ontology learning 
+             Parsing 
+             Part-of-speech tagging 
+             Semantic role labeling 
+             Semantic similarity 
+             Sentiment analysis 
+             Terminology extraction 
+             Text mining 
+             Textual entailment 
+             Truecasing 
+             Word-sense disambiguation 
+             Word-sense induction
+             
+           
+           
+            
+             
+              Text segmentation
+              
+                
+                
+                 Compound-term processing 
+                 Lemmatisation 
+                 Lexical analysis 
+                 Text chunking 
+                 Stemming 
+                 Sentence segmentation 
+                 Word segmentation
+                 
+               
+             
+            
+           
+            
+           
+         
+         
+          Automatic summarization
+          
+            
+            
+             Multi-document summarization 
+             Sentence extraction 
+             Text simplification
+             
+           
+         
+         
+          Machine translation
+          
+            
+            
+             Computer-assisted 
+             Example-based 
+             Rule-based 
+             Statistical 
+             Transfer-based 
+             Neural
+             
+           
+         
+         
+          Distributional semantics models
+          
+            
+            
+             BERT 
+             Document-term matrix 
+             Explicit semantic analysis 
+             fastText 
+             GloVe 
+             Latent semantic analysis 
+             Word embedding 
+             Word2vec
+             
+           
+         
+         
+          Language resources, datasets and corpora
+          
+           
+           
+            
+             
+              Types and standards
+              
+                
+                
+                 Corpus linguistics 
+                 Lexical resource 
+                 Linguistic Linked Open Data 
+                 Machine-readable dictionary 
+                 Parallel text 
+                 PropBank 
+                 Semantic network 
+                 Simple Knowledge Organization System 
+                 Speech corpus 
+                 Text corpus 
+                 Thesaurus (information retrieval) 
+                 Treebank 
+                 Universal Dependencies
+                 
+               
+             
+             
+              Data
+              
+                
+                
+                 BabelNet 
+                 Bank of English 
+                 DBpedia 
+                 FrameNet 
+                 Google Ngram Viewer 
+                 ThoughtTreasure 
+                 UBY 
+                 WordNet
+                 
+               
+             
+            
+           
+           
+         
+         
+          Automatic identificationand data capture
+          
+            
+            
+             Speech recognition 
+             Speech segmentation 
+             Speech synthesis 
+             Natural language generation 
+             Optical character recognition
+             
+           
+         
+         
+          Topic model
+          
+            
+            
+             Document classification 
+             Latent Dirichlet allocation 
+             Pachinko allocation
+             
+           
+         
+         
+          Computer-assistedreviewing
+          
+            
+            
+             Automated essay scoring 
+             Concordancer 
+             Grammar checker 
+             Predictive text 
+             Spell checker 
+             Syntax guessing
+             
+           
+         
+         
+          Natural languageuser interface
+          
+            
+            
+             Chatbot 
+             Interactive fiction 
+             Question answering 
+             Virtual assistant 
+             Voice user interface
+             
+           
+         
+         
+          Other software
+          
+            
+            
+             Natural Language Toolkit 
+             spaCy
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Compound-term_processing&amp;oldid=997530676"
+     
+     
+    
+     
+      Categories: 
+      
+       Information retrieval techniques
+      
+     
+     
+      Hidden categories: 
+      
+       CS1: long volume value
+       Webarchive template wayback links
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Español
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 1 January 2021, at 00:05&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

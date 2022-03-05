@@ -1,0 +1,1716 @@
+
+ 
+  
+   
+  Macroeconomics - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Macroeconomics 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Study of an economy as a whole
+       
+      
+      
+       
+        
+         Part of a series on
+        
+        
+         Macroeconomics
+        
+        
+         
+        
+        
+          
+          
+           
+            Basic concepts
+           
+            
+            
+             Aggregate demand 
+             Aggregate supply 
+             Business cycle 
+             Deflation 
+             Demand shock 
+             Disinflation 
+             Effective demand 
+             Expectations 
+              
+               Adaptive 
+               Rational
+               
+             Financial crisis 
+             Growth 
+             Inflation 
+              
+               Demand-pull 
+               Cost-push
+               
+             Interest rate 
+             Investment 
+             Liquidity trap 
+             Measures of national income and output 
+              
+               GDP 
+               GNI 
+               NNI
+               
+             Microfoundations 
+             Money 
+              
+               Endogenous
+               
+             Money creation 
+             Demand for money 
+              
+               Liquidity preference
+               
+             Money supply 
+             National accounts 
+              
+               SNA
+               
+             Nominal rigidity 
+             Price level 
+             Recession 
+             Shrinkflation 
+             Stagflation 
+             Supply shock 
+             Saving 
+             Unemployment
+            
+           
+           
+        
+        
+          
+          
+           
+            Policies
+           
+            
+            
+             Fiscal 
+             Monetary 
+             Commercial 
+             Central bank
+            
+           
+           
+        
+        
+          
+          
+           
+            Models
+           
+            
+            
+             IS–LM 
+             AD–AS 
+             Keynesian cross 
+             Multiplier 
+             Accelerator 
+             Phillips curve 
+             Arrow–Debreu 
+             Harrod–Domar 
+             Solow–Swan 
+             Ramsey–Cass–Koopmans 
+             Overlapping generations 
+             General equilibrium 
+              
+               DSGE
+               
+             Endogenous growth 
+             Matching theory 
+             Mundell–Fleming 
+             Overshooting 
+             NAIRU
+            
+           
+           
+        
+        
+          
+          
+           
+            Related fields
+           
+            
+            
+             Econometrics 
+             Economic statistics 
+             Monetary economics 
+             Development economics 
+             International economics
+            
+           
+           
+        
+        
+          
+          
+           
+            Schools
+           
+           
+            Mainstream 
+            
+             Keynesian 
+              
+               Neo- 
+               New
+               
+             Monetarism 
+             New classical 
+              
+               Real business-cycle theory
+               
+             Stockholm 
+             Supply-side 
+             New neoclassical synthesis 
+             Saltwater and freshwater
+             
+            Heterodox  
+            
+             Austrian 
+             Chartalism 
+              
+               Modern Monetary Theory
+               
+             Ecological 
+             Post-Keynesian 
+              
+               Circuitism
+               
+             Disequilibrium 
+             Marxian 
+             Market monetarism
+            
+           
+           
+        
+        
+          
+          
+           
+            People
+           
+            
+            
+             François Quesnay 
+             Adam Smith 
+             Thomas Robert Malthus 
+             Karl Marx 
+             Léon Walras 
+             Knut Wicksell 
+             Irving Fisher 
+             Wesley Clair Mitchell 
+             John Maynard Keynes 
+             Alvin Hansen 
+             Michał Kalecki 
+             Gunnar Myrdal 
+             Simon Kuznets 
+             Joan Robinson 
+             Friedrich Hayek 
+             John Hicks 
+             Richard Stone 
+             Hyman Minsky 
+             Milton Friedman 
+             Paul Samuelson 
+             Lawrence Klein 
+             Edmund Phelps 
+             Robert Lucas Jr. 
+             Edward C. Prescott 
+             Peter Diamond 
+             William Nordhaus 
+             Joseph Stiglitz 
+             Thomas J. Sargent 
+             Paul Krugman 
+             N. Gregory Mankiw
+            
+           
+           
+        
+        
+          
+          
+           
+            See also
+           
+            
+            
+             Macroeconomic model 
+             Publications in macroeconomics 
+             Economics 
+              
+               Applied
+               
+             Microeconomics 
+             Political economy 
+             Mathematical economics
+            
+           
+           
+        
+        
+          
+          
+           &nbsp;Money portal 
+           &nbsp;Business portal
+          
+        
+        
+         
+          
+           
+            v
+            t
+            e
+           
+          
+        
+       
+       
+      
+       
+         
+        
+         
+          
+         (Production cycle and national income) macrleconomicstakes a big-picture view of the entire economy, including examining the roles of, and relationships between, corporations, governments and households, and the different types of markets, such as the financial market and the labour market. However, the use of natural resources and the generation of waste (like greenhouse gases) are often forgotten in macroeconomic thinking and excluded in its models.
+        
+       
+       
+      Macroeconomics (from the Greek prefix makro- meaning "large" + economics) is a branch of economics dealing with performance, structure, behavior, and decision-making of an economy as a whole. For example, using interest rates, taxes, and government spending to regulate an economy’s growth and stability. This includes regional, national, and global economies. According to a 2018 assessment by economists Emi Nakamura and Jón Steinsson, economic "evidence regarding the consequences of different macroeconomic policies is still highly imperfect and open to serious criticism." 
+      Macroeconomists study topics such as GDP(Gross Domestic Product), unemployment (including unemployment rates), national income, price indices, output, consumption, inflation, saving, investment, energy, international trade, and international finance. 
+      Macroeconomics and microeconomics are the two most general fields in economics. The United Nations Sustainable Development Goal 17 has a target to enhance global macroeconomic stability through policy coordination and coherence as part of the 2030 Agenda.  
+      
+       
+       
+        Contents
+        
+        
+        1 Development 
+          
+          1.1 Origins 
+          1.2 Austrian School 
+          1.3 Keynes and his followers 
+          1.4 Monetarism 
+          1.5 New classical 
+          1.6 New Keynesian response 
+           
+        2 Macroeconomic models 
+          
+          2.1 Aggregate demand–aggregate supply 
+          2.2 IS-LM 
+          2.3 Growth models 
+          2.4 Humanity's economic system as a subsystem of the global environment 
+           
+        3 Basic macroeconomic concepts 
+          
+          3.1 Output and income 
+          3.2 Unemployment 
+          3.3 Inflation and deflation 
+           
+        4 Macroeconomic policy 
+          
+          4.1 Monetary policy 
+          4.2 Fiscal policy 
+          4.3 Comparison 
+           
+        5 See also 
+        6 Notes 
+        7 References 
+        
+       
+      Development 
+      
+      
+       Main article: History of macroeconomic thought
+       
+      Origins 
+      Macroeconomics descended from the once divided fields of business cycle theory and monetary theory. The quantity theory of money was particularly influential prior to World War II. It took many forms, including the version based on the work of Irving Fisher:  
+      
+       
+        
+            
+             
+              
+              
+               M
+               
+              
+               ⋅
+               
+              
+               V
+               
+              
+               =
+               
+              
+               P
+               
+              
+               ⋅
+               
+              
+               Q
+               
+              
+             
+            
+             
+             
+            
+          
+       
+       
+      In the typical view of the quantity theory, money velocity (V) and the quantity of goods produced (Q) would be constant, so any increase in money supply (M) would lead to a direct increase in price level (P). The quantity theory of money was a central part of the classical theory of the economy that prevailed in the early twentieth century.  
+      Austrian School 
+      Ludwig Von Mises's work Theory of Money and Credit, published in 1912, was one of the first books from the Austrian School to deal with macroeconomic topics.  
+      Keynes and his followers 
+      Macroeconomics, at least in its modern form, began with the publication of General Theory of Employment, Interest and Money written by John Maynard Keynes. When the Great Depression struck, classical economists had difficulty in explaining how goods could go unsold and workers could be left unemployed. In classical theory, prices and wages would drop until the market cleared, and all goods and labor were sold. Keynes offered a new theory of economics that explained why markets might not clear, which would evolve (later in the 20th century) into a group of macroeconomic schools of thought known as Keynesian economics – also called Keynesianism or Keynesian theory. 
+      In Keynes' theory, the quantity theory broke down because people and businesses tend to hold on to their cash in tough economic times – a phenomenon he described in terms of liquidity preferences. Keynes also explained how the multiplier effect would magnify a small decrease in consumption or investment and cause declines throughout the economy. Keynes also noted the role uncertainty and animal spirits can play in the economy. 
+      The generation following Keynes combined the macroeconomics of the General Theory with neoclassical microeconomics to create the neoclassical synthesis. By the 1950s, most economists had accepted the synthesis view of the macroeconomy. Economists like Paul Samuelson, Franco Modigliani, James Tobin, and Robert Solow developed formal Keynesian models and contributed formal theories of consumption, investment, and money demand that fleshed out the Keynesian framework.  
+      Monetarism 
+      Milton Friedman updated the quantity theory of money to include a role for money demand. He argued that the role of money in the economy was sufficient to explain the Great Depression, and that aggregate demand oriented explanations were not necessary. Friedman also argued that monetary policy was more effective than fiscal policy; however, Friedman doubted the government's ability to "fine-tune" the economy with monetary policy. He generally favored a policy of steady growth in money supply instead of frequent intervention. 
+      Friedman also challenged the Phillips curve relationship between inflation and unemployment. Friedman and Edmund Phelps (who was not a monetarist) proposed an "augmented" version of the Phillips curve that excluded the possibility of a stable, long-run tradeoff between inflation and unemployment. When the oil shocks of the 1970s created a high unemployment and high inflation, Friedman and Phelps were vindicated. Monetarism was particularly influential in the early 1980s. Monetarism fell out of favor when central banks found it difficult to target money supply instead of interest rates as monetarists recommended. Monetarism also became politically unpopular when the central banks created recessions in order to slow inflation.  
+      New classical 
+      New classical macroeconomics further challenged the Keynesian school. A central development in new classical thought came when Robert Lucas introduced rational expectations to macroeconomics. Prior to Lucas, economists had generally used adaptive expectations where agents were assumed to look at the recent past to make expectations about the future. Under rational expectations, agents are assumed to be more sophisticated. A consumer will not simply assume a 2% inflation rate just because that has been the average the past few years; they will look at current monetary policy and economic conditions to make an informed forecast. When new classical economists introduced rational expectations into their models, they showed that monetary policy could only have a limited impact. 
+      Lucas also made an influential critique of Keynesian empirical models. He argued that forecasting models based on empirical relationships would keep producing the same predictions even as the underlying model generating the data changed. He advocated models based on fundamental economic theory that would, in principle, be structurally accurate as economies changed. Following Lucas's critique, new classical economists, led by Edward C. Prescott and Finn E. Kydland, created real business cycle (RB C) models of the macro economy. 
+      RB C models were created by combining fundamental equations from neo-classical microeconomics. In order to generate macroeconomic fluctuations, RB C models explained recessions and unemployment with changes in technology instead of changes in the markets for goods or money. Critics of RB C models argue that money clearly plays an important role in the economy, and the idea that technological regress can explain recent recessions is implausible. However, technological shocks are only the more prominent of a myriad of possible shocks to the system that can be modeled. Despite questions about the theory behind RB C models, they have clearly been influential in economic methodology.  
+      New Keynesian response 
+      New Keynesian economists responded to the new classical school by adopting rational expectations and focusing on developing micro-founded models that are immune to the Lucas critique. Stanley Fischer and John B. Taylor produced early work in this area by showing that monetary policy could be effective even in models with rational expectations when contracts locked in wages for workers. Other new Keynesian economists, including Olivier Blanchard, Julio Rotemberg, Greg Mankiw, David Romer, and Michael Woodford, expanded on this work and demonstrated other cases where inflexible prices and wages led to monetary and fiscal policy having real effects. 
+      Like classical models, new classical models had assumed that prices would be able to adjust perfectly and monetary policy would only lead to price changes. New Keynesian models investigated sources of sticky prices and wages due to imperfect competition, which would not adjust, allowing monetary policy to impact quantities instead of prices. 
+      By the late 1990s, economists had reached a rough consensus. The nominal rigidity of new Keynesian theory was combined with rational expectations and the RBC methodology to produce dynamic stochastic general equilibrium (DSGE) models. The fusion of elements from different schools of thought has been dubbed the new neoclassical synthesis. These models are now used by many central banks and are a core part of contemporary macroeconomics. 
+      New Keynesian economics, which developed partly in response to new classical economics, strives to provide microeconomic foundations to Keynesian economics by showing how imperfect markets can justify demand management.  
+      Macroeconomic models 
+      Aggregate demand–aggregate supply 
+      
+       
+         
+        
+         
+          
+         A traditional AS–AD diagram showing a shift in AD and the AS curve becoming inelastic beyond potential output.
+        
+       
+       
+      The AD-AS model has become the standard textbook model for explaining the macroeconomy. This model shows the price level and level of real output given the equilibrium in aggregate demand and aggregate supply. The aggregate demand curve's downward slope means that more output is demanded at lower price levels. The downward slope is the result of three effects: the Pigou or real balance effect, which states that as real prices fall, real wealth increases, resulting in higher consumer demand of goods; the Keynes or interest rate effect, which states that as prices fall, the demand for money decreases, causing interest rates to decline and borrowing for investment and consumption to increase; and the net export effect, which states that as prices rise, domestic goods become comparatively more expensive to foreign consumers, leading to a decline in exports. 
+      In the conventional Keynesian use of the AS-AD model, the aggregate supply curve is horizontal at low levels of output and becomes inelastic near the point of potential output, which corresponds with full employment. Since the economy cannot produce beyond the potential output, any AD expansion will lead to higher price levels instead of higher output. 
+      The AD–AS diagram can model a variety of macroeconomic phenomena, including inflation. Changes in the non-price level factors or determinants cause changes in aggregate demand and shifts of the entire aggregate demand (AD) curve. When demand for goods exceeds supply,there is an inflationary gap where demand-pull inflation occurs and the AD curve shifts upward to a higher price level. When the economy faces higher costs, cost-push inflation occurs and the AS curve shifts upward to higher price levels. The AS–AD diagram is also widely used as an instructive tool to model the effects of various macroeconomic policies.  
+      IS-LM 
+      
+       
+         
+        
+         
+          
+         In this example of an IS/LM chart, the IS curve moves to the right, causing higher interest rates (i) and expansion in the "real" economy (real GDP, or Y).
+        
+       
+       
+      The IS–LM model gives the underpinnings of aggregate demand (itself discussed above). It answers the question "At any given price level, what is the quantity of goods demanded?". This model shows what combination of interest rates and output will ensure equilibrium in both the goods and money markets. The goods market is modeled as giving equality between investment and public and private saving (IS), and the money market is modeled as giving equilibrium between the money supply and liquidity preference. 
+      The IS curve consists of the points (combinations of income and interest rate) where investment, given the interest rate, is equal to public and private saving, given output The IS curve is downward sloping because output and the interest rate have an inverse relationship in the goods market: as output increases, more income is saved, which means interest rates must be lower to spur enough investment to match saving. 
+      The LM curve is upward sloping because the interest rate and output have a positive relationship in the money market: as income (identically equal to output) increases, the demand for money increases, resulting in a rise in the interest rate in order to just offset the incipient rise in money demand. 
+      The IS-LM model is often used to demonstrate the effects of monetary and fiscal policy. Textbooks frequently use the IS-LM model, but it does not feature the complexities of most modern macroeconomic models. Nevertheless, these models still feature similar relationships to those in IS-LM.  
+      Growth models 
+      The neoclassical growth model of Robert Solow has become a common textbook model for explaining economic growth in the long-run. The model begins with a production function where national output is the product of two inputs: capital and labor. The Solow model assumes that labor and capital are used at constant rates without the fluctuations in unemployment and capital utilization commonly seen in business cycles. 
+      An increase in output, or economic growth, can only occur because of an increase in the capital stock, a larger population, or technological advancements that lead to higher productivity (total factor productivity). An increase in the savings rate leads to a temporary increase as the economy creates more capital, which adds to output. However, eventually the depreciation rate will limit the expansion of capital: savings will be used up replacing depreciated capital, and no savings will remain to pay for an additional expansion in capital. Solow's model suggests that economic growth in terms of output per capita depends solely on technological advances that enhance productivity. 
+      In the 1980s and 1990s endogenous growth theory arose to challenge neoclassical growth theory. This group of models explains economic growth through other factors, such as increasing returns to scale for capital and learning-by-doing, that are endogenously determined instead of the exogenous technological improvement used to explain growth in Solow's model.  
+      Humanity's economic system as a subsystem of the global environment 
+      
+       
+         
+        
+         
+          
+         Natural resources flow through the economy and end up as waste and pollution
+        
+       
+       
+      In the macroeconomic models in ecological economics, the economic system is a subsystem of the environment. In this model, the circular flow of income diagram is replaced in ecological economics by a more complex flow diagram reflecting the input of solar energy, which sustains natural inputs and environmental services which are then used as units of production. Once consumed, natural inputs pass out of the economy as pollution and waste. The potential of an environment to provide services and materials is referred to as an "environment's source function", and this function is depleted as resources are consumed or pollution contaminates the resources. The "sink function" describes an environment's ability to absorb and render harmless waste and pollution: when waste output exceeds the limit of the sink function, long-term damage occurs.: 8  Some persistent pollutants, such as some organic pollutants and nuclear waste are absorbed very slowly or not at all; ecological economists emphasize minimizing "cumulative pollutants".: 28  Pollutants affect human health and the health of the ecosystem.  
+      Basic macroeconomic concepts 
+      Macroeconomics encompasses a variety of concepts and variables, but there are three central topics for macroeconomic research. Macroeconomic theories usually relate the phenomena of output, unemployment, and inflation. Outside of macroeconomic theory, these topics are also important to all economic agents including workers, consumers, and producers.  
+      
+       
+         
+        
+         
+          
+         Circulation in macroeconomics.
+        
+       
+       
+      Output and income 
+      National output is the total amount of everything a country produces in a given period of time. Everything that is produced and sold generates an equal amount of income. The total output of the economy is measured GDP per person. The output and income are usually considered equivalent and the two terms are often used interchangeably, output changes into income. Output can be measured or it can be viewed from the production side and measured as the total value of final goods and services or the sum of all value added in the economy. 
+      Macroeconomic output is usually measured by gross domestic product (GDP) or one of the other national accounts. Economists interested in long-run increases in output, study economic growth. Advances in technology, accumulation of machinery and other capital, and better education and human capital, are all factors that lead to increase economic output over time. However, output does not always increase consistently over time. Business cycles can cause short-term drops in output called recessions. Economists look for macroeconomic policies that prevent economies from slipping into recessions, and that lead to faster long-term growth.  
+      Unemployment 
+      
+      
+       Main article: Unemployment
+       
+      
+       
+         
+        
+         
+          
+         A chart using US data showing the relationship between economic growth and unemployment expressed by Okun's law. The relationship demonstrates cyclical unemployment. Economic growth leads to a lower unemployment rate.
+        
+       
+       
+      The amount of unemployment in an economy is measured by the unemployment rate, i.e. the percentage of workers without jobs in the labor force. The unemployment rate in the labor force only includes workers actively looking for jobs. People who are retired, pursuing education, or discouraged from seeking work by a lack of job prospects are excluded. 
+      Unemployment can be generally broken down into several types that are related to different causes.  
+      
+       Classical unemployment theory suggests that unemployment occurs when wages are too high for employers to be willing to hire more workers. Other more modern economic theories suggest that increased wages actually decrease unemployment by creating more consumer demand. According to these more recent theories, unemployment results from reduced demand for the goods and services produced through labor and suggest that only in markets where profit margins are very low, and in which the market will not bear a price increase of product or service, will higher wages result in unemployment. 
+       Consistent with classical unemployment theory, frictional unemployment occurs when appropriate job vacancies exist for a worker, but the length of time needed to search for and find the job leads to a period of unemployment. 
+       Structural unemployment covers a variety of possible causes of unemployment including a mismatch between workers' skills and the skills required for open jobs. Large amounts of structural unemployment commonly occur when an economy shifts to focus on new industries and workers find their previous set of skills are no longer in demand. Structural unemployment is similar to frictional unemployment as both reflect the problem of matching workers with job vacancies, but structural unemployment also covers the time needed to acquire new skills in addition to the short-term search process. 
+       While some types of unemployment may occur regardless of the condition of the economy, cyclical unemployment occurs when growth stagnates. Okun's law represents the empirical relationship between unemployment and economic growth. The original version of Okun's law states that a 3% increase in output would lead to a 1% decrease in unemployment.
+       
+      Inflation and deflation 
+      
+       
+         
+        
+         
+          
+         The ten-year moving averages of changes in price level and growth in money supply (using the measure of M2, the supply of hard currency and money held in most types of bank accounts) in the US from 1875 to 2011. Over the long run, the two series show a close relationship.
+        
+       
+       
+      A general price increase across the entire economy is called inflation. When prices decrease, there is deflation. Economists measure these changes in prices with price indexes. Inflation can occur when an economy becomes overheated and grows too quickly. Similarly, a declining economy can lead to deflation. 
+      Central bankers, who manage a country's money supply, try to avoid changes in price level by using monetary policy. Raising interest rates or reducing the supply of money in an economy will reduce inflation. Inflation can lead to increased uncertainty and other negative consequences. Deflation can lower economic output. Central bankers try to stabilize prices to protect economies from the negative consequences of price changes. 
+      Changes in price level may be the result of several factors. The quantity theory of money holds that changes in price level are directly related to changes in the money supply. Most economists believe that this relationship explains long-run changes in the price level. Short-run fluctuations may also be related to monetary factors, but changes in aggregate demand and aggregate supply can also influence price level. For example, a decrease in demand due to a recession can lead to lower price levels and deflation. A negative supply shock, such as an oil crisis, lowers aggregate supply and can cause inflation.  
+      Macroeconomic policy 
+      Macroeconomic policy is usually implemented through two sets of tools: fiscal and monetary policy. Both forms of policy are used to stabilize the economy, which can mean boosting the economy to the level of GDP consistent with full employment. Macroeconomic policy focuses on limiting the effects of the business cycle to achieve the economic goals of price stability, full employment, and growth. 
+      According to a 2018 assessment by economists Emi Nakamura and Jón Steinsson, economic "evidence regarding the consequences of different macroeconomic policies is still highly imperfect and open to serious criticism." Nakamura and Steinsson write that macroeconomics struggles with long-term predictions, which is a result of the high complexity of the systems it studies.  
+      Monetary policy 
+      
+      
+       Further information: Monetary policy
+       
+      Central banks implement monetary policy by controlling the money supply through several mechanisms. Typically, central banks take action by issuing money to buy bonds (or other assets), which boosts the supply of money and lowers interest rates, or, in the case of contractionary monetary policy, banks sell bonds and take money out of circulation. Usually policy is not implemented by directly targeting the supply of money. 
+      Central banks continuously shift the money supply to maintain a targeted fixed interest rate. Some of them allow the interest rate to fluctuate and focus on targeting inflation rates instead. Central banks generally try to achieve high output without letting loose monetary policy that create large amounts of inflation. 
+      Conventional monetary policy can be ineffective in situations such as a liquidity trap. When interest rates and inflation are near zero, the central bank cannot loosen monetary policy through conventional means.  
+      
+       
+         
+        
+         
+          
+         An example of intervention strategy under different conditions
+        
+       
+       
+      Central banks can use unconventional monetary policy such as quantitative easing to help increase output. Instead of buying government bonds, central banks can implement quantitative easing by buying not only government bonds, but also other assets such as corporate bonds, stocks, and other securities. This allows lower interest rates for a broader class of assets beyond government bonds. In another example of unconventional monetary policy, the United States Federal Reserve recently made an attempt at such a policy with Operation Twist. Unable to lower current interest rates, the Federal Reserve lowered long-term interest rates by buying long-term bonds and selling short-term bonds to create a flat yield curve.  
+      Fiscal policy 
+      
+      
+       Further information: Fiscal policy
+       
+      Fiscal policy is the use of government's revenue and expenditure as instruments to influence the economy. Examples of such tools are expenditure, taxes, debt. 
+      For example, if the economy is producing less than potential output, government spending can be used to employ idle resources and boost output. Government spending does not have to make up for the entire output gap. There is a multiplier effect that boosts the impact of government spending. For instance, when the government pays for a bridge, the project not only adds the value of the bridge to output, but also allows the bridge workers to increase their consumption and investment, which helps to close the output gap. 
+      The effects of fiscal policy can be limited by crowding out. When the government takes on spending projects, it limits the amount of resources available for the private sector to use. Crowding out occurs when government spending simply replaces private sector output instead of adding additional output to the economy. Crowding out also occurs when government spending raises interest rates, which limits investment. Defenders of fiscal stimulus argue that crowding out is not a concern when the economy is depressed, plenty of resources are left idle, and interest rates are low. 
+      Fiscal policy can be implemented through automatic stabilizers. Automatic stabilizers do not suffer from the policy lags of discretionary fiscal policy. Automatic stabilizers use conventional fiscal mechanisms but take effect as soon as the economy takes a downturn: spending on unemployment benefits automatically increases when unemployment rises and, in a progressive income tax system, the effective tax rate automatically falls when incomes decline.  
+      Comparison 
+      Economists usually favor monetary over fiscal policy because it has two major advantages. First, monetary policy is generally implemented by independent central banks instead of the political institutions that control fiscal policy. Independent central banks are less likely to make decisions based on political motives. Second, monetary policy suffers shorter inside lags and outside lags than fiscal policy. Central banks can quickly make and implement decisions while the discretionary fiscal policy may take time to pass and even longer to carry out.  
+      See also 
+      
+       
+        
+        Business and economics portal
+       
+       
+      
+       Dynamic stochastic general equilibrium 
+       Economic development
+       
+      Notes 
+      
+       
+        
+        ^  Samuelson, Robert (2020), "Goodbye, readers, and good luck — you'll need it", The Washington Post This article was an opinion piece expressing despondency in the field shortly before his retirement, but it's still a good summary.  
+        ^ 
+          O'Sullivan, Arthur; Sheffrin, Steven M. (2003), Economics: Principles in Action, Upper Saddle River, New Jersey 07458: Pearson Prentice Hall, p.&nbsp;57, ISBN&nbsp;978-0-13-063085-8}: CS1 maint: location (link)  
+        ^ Steve Williamson, Notes on Macroeconomic Theory, 1999  
+        ^ a b c 
+          Nakamura, Emi; Steinsson, Jón (2018). "Identification in Macroeconomics". Journal of Economic Perspectives. 32 (3): 59–86. doi:10.1257/jep.32.3.59. ISSN&nbsp;0895-3309. S2CID&nbsp;44180952.  
+        ^ 
+          Blaug, Mark (1985), Economic theory in retrospect, Cambridge: Cambridge University Press, ISBN&nbsp;978-0-521-31644-6  
+        ^ 
+          "Goal 17 | Department of Economic and Social Affairs". sdgs.un.org. Retrieved 2020-09-26.  
+        ^ a b Dimand (2008).  
+        ^ a b c Blanchard (2011), 580.  
+        ^ 
+          Snowdon, Brian; Vane, Howard R. (2005). Modern Macroeconomics – Its origins, development and current state. Edward Elgar. ISBN&nbsp;1-84542-208-2.  
+        ^ Blanchard (2011), 581.  
+        ^ Blanchard (2011), 582–83.  
+        ^ 
+          "Phillips Curve: The Concise Encyclopedia of Economics | Library of Economics and Liberty". www.econlib.org. Retrieved 2018-01-23.  
+        ^ a b Blanchard (2011), 587.  
+        ^ Kariappa Bheemaiah, The Blockchain Alternative: Rethinking Macroeconomic Policy and Economic Theory (Dordrecht NL: Apress/Springer Nature, 2017), 169-70. 
+          ISBN&nbsp;1484226747, 9781484226742  
+        ^ The role of imperfect competition in new Keynesian economics, Chapter 4 of Surfing Economics by Huw Dixon  
+        ^ Blanchard (2011), 590.  
+        ^ a b Healey 2002, p.&nbsp;12.  
+        ^ a b Healey 2002, p.&nbsp;13.  
+        ^ Healey 2002, p.&nbsp;14.  
+        ^ Colander 1995, p.&nbsp;173. sfn error: no target: CITEREFColander1995 (help)  
+        ^ a b c d Durlauf &amp; Hester 2008.  
+        ^ Peston 2002, pp.&nbsp;386–87.  
+        ^ a b Peston 2002, p.&nbsp;387.  
+        ^ Peston 2002, pp.&nbsp;387–88.  
+        ^ 
+          Banton, Caroline. "The Neoclassical Growth Theory Explained". Investopedia. Retrieved 2020-09-21.  
+        ^ Solow 2002, pp.&nbsp;518–19.  
+        ^ Solow 2002, p.&nbsp;519.  
+        ^ Blaug 2002, pp.&nbsp;202–03.  
+        ^ a b Harris J. (2006). Environmental and Natural Resource Economics: A Contemporary Approach. Houghton Mifflin Company.  
+        ^ Blanchard (2011), 32.  
+        ^ Blanchard (2011), 22.  
+        ^ 
+          Pettinger, Tejvan. "Involuntary unemployment". Economics Help. Retrieved 2020-09-21.  
+        ^ Dwivedi, 443.  
+        ^ 
+          "Freeman (2008)".  
+        ^ Dwivedi, 444–45.  
+        ^ Dwivedi, 445–46.  
+        ^ 
+          "Neely, Christopher J. "Okun's Law: Output and Unemployment. Economic Synopses. Number 4. 2010".  
+        ^ Mankiw 2014, p.&nbsp;634.  
+        ^ a b c Mayer, 495.  
+        ^ 
+          "AP Macroeconomics Review".  
+        ^ 
+          Ye, Fred Y. (2017). Scientific Metrics: Towards Analytical and Quantitative Sciences. Springer. ISBN&nbsp;978-981-10-5936-0.  
+        ^ 
+          Arestis, Philip; Sawyer, Malcolm (2003). "Reinventing fiscal policy" (PDF). Levy Economics Institute of Bard College (Working Paper, No. 381). Retrieved 7 December 2018.  
+       
+       
+      References 
+      
+      
+       
+        
+         Library resources about  Macroeconomics 
+          
+        
+        
+          
+          
+           Resources in your library
+           
+        
+       
+       
+      
+       
+        Blanchard, Olivier (2000). Macroeconomics. Prentice Hall. ISBN&nbsp;978-0-13-013306-9. 
+       Blanchard, Olivier. (2009). "The State of Macro." Annual Review of Economics 1(1): 209-228. 
+       
+        Blanchard, Olivier (2011). Macroeconomics Updated (5th&nbsp;ed.). Englewood Cliffs: Prentice Hall. ISBN&nbsp;978-0-13-215986-9. 
+       Blaug, Mark (1986), Great Economists before Keynes, Brighton: Wheatsheaf. 
+       
+        Blaug, Mark (2002). "Endogenous growth theory". In Snowdon, Brian; Vane, Howard (eds.). An Encyclopedia of Macroeconomics. Northampton, Massachusetts: Edward Elgar Publishing. ISBN&nbsp;978-1-84542-180-9. 
+       
+        Boettke, Peter (2001). Calculation and Coordination: Essays on Socialism and Transitional Political Economy. Routledge. ISBN&nbsp;978-0-415-77109-2. 
+       Bouman, John: Principles of Macroeconomics – free fully comprehensive Principles of Microeconomics and Macroeconomics texts. Columbia, Maryland, 2011 
+       
+        Dimand, Robert W. (2008). "Macroeconomics, origins and history of". In Durlauf, Steven N.; Blume, Lawrence E. (eds.). The New Palgrave Dictionary of Economics. Palgrave Macmillan UK. pp.&nbsp;236–44. doi:10.1057/9780230226203.1009. ISBN&nbsp;978-0-333-78676-5 http://www.dictionaryofeconomics.com/article?id=pde2008_M000370. }: Missing or empty |title= (help) 
+       
+        Durlauf, Steven N.; Hester, Donald D. (2008). "IS–LM". In Durlauf, Steven N.; Blume, Lawrence E. (eds.). The New Palgrave Dictionary of Economics (2nd&nbsp;ed.). Palgrave Macmillan. pp.&nbsp;585–91. doi:10.1057/9780230226203.0855. ISBN&nbsp;978-0-333-78676-5. Retrieved 5 June 2012. 
+       
+        Dwivedi, D.N. (2001). Macroeconomics: theory and policy. New Delhi: Tata McGraw-Hill. ISBN&nbsp;978-0-07-058841-7. 
+       
+        Friedman, Milton (1953). Essays in Positive Economics. London: University of Chicago Press. ISBN&nbsp;978-0-226-26403-5. 
+       
+        Haberler, Gottfried (1937). Prosperity and depression. League of Nations. 
+       Leijonhufvud, Axel The Wicksell Connection: Variation on a Theme. UCLA. November, 1979. 
+       
+        Healey, Nigel M. (2002). "AD-AS model". In Snowdon, Brian; Vane, Howard (eds.). An Encyclopedia of Macroeconomics. Northampton, Massachusetts: Edward Elgar Publishing. pp.&nbsp;11–18. ISBN&nbsp;978-1-84542-180-9. 
+       
+        Heijdra, Ben J.; van der Ploeg, Frederick (2002). Foundations of Modern Macroeconomics. Oxford University Press. ISBN&nbsp;978-0-19-877617-8. 
+       
+        Mankiw, N. Gregory (2014). Principles of Economics. Cengage Learning. ISBN&nbsp;978-1-305-15604-3. 
+       
+        Mises, Ludwig Von (1912). Theory of Money and Credit. Yale University Press. 
+       
+        Mayer, Thomas (2002). "Monetary policy: role of". In Snowdon, Brian; Vane, Howard R. (eds.). An Encyclopedia of Macroeconomics. Northampton, Massachusetts: Edward Elgar Publishing. pp.&nbsp;495–99. ISBN&nbsp;978-1-84542-180-9. 
+       
+        Mishkin, Frederic S. (2004). The Economics of Money, Banking, and Financial Markets. Boston: Addison-Wesley. p.&nbsp;517. ISBN&nbsp;9780321122353. 
+       Nakamura, Emi and Jón Steinsson. (2018). "Identification in Macroeconomics." Journal of Economic Perspectives 32(3): 59-86. 
+       
+        Peston, Maurice (2002). "IS-LM model: closed economy". In Snowdon, Brian; Vane, Howard R. (eds.). An Encyclopedia of Macroeconomics. Edward Elgar. ISBN&nbsp;9781840643879. 
+       Reed, Jacob (2016). AP Economics Review, Macroeconomics. 
+       
+        Solow, Robert (2002). "Neoclassical growth model". In Snowdon, Brian; Vane, Howard (eds.). An Encyclopedia of Macroeconomics. Northampton, Massachusetts: Edward Elgar Publishing. ISBN&nbsp;1840643870. 
+       Snowdon, Brian, and Howard R. Vane, ed. (2002). An Encyclopedia of Macroeconomics, Description &amp; scroll to Contents-preview links. 
+       
+        Snowdon, Brian; Vane, Howard R. (2005). Modern Macroeconomics: Its Origins, Development And Current State. Edward Elgar Publishing. ISBN&nbsp;1845421809. 
+       
+        Gärtner, Manfred (2006). Macroeconomics. Pearson Education Limited. ISBN&nbsp;978-0-273-70460-7. 
+       
+        Warsh, David (2006). Knowledge and the Wealth of Nations. Norton. ISBN&nbsp;978-0-393-05996-0. 
+       
+        Levi, Maurice (2014). The Macroeconomic Environment of Business (Core Concepts and Curious Connections). New Jersey: World Scientific Publishing. ISBN&nbsp;978-981-4304-34-4.
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Macroeconomics
+           
+         
+         
+          Basic concepts
+          
+            
+            
+             Aggregate demand 
+             Aggregate supply 
+             Business cycle 
+             Consumption 
+             Deflation 
+             Demand shock 
+             Disinflation 
+             Effective demand 
+             Expectations 
+              
+               Adaptive 
+               Rational
+               
+             Net exports 
+             Financial crisis 
+             Government spending 
+             Growth 
+             Inflation 
+              
+               Demand-pull 
+               Cost-push
+               
+             Interest rate 
+             Investment 
+             Liquidity trap 
+             Measures of national income and output 
+              
+               GDP 
+               GNI 
+               NNI
+               
+             Microfoundations 
+             Money 
+              
+               Endogenous
+               
+             Money creation 
+             Demand for money 
+              
+               Liquidity preference
+               
+             Money supply 
+             National accounts 
+              
+               SNA
+               
+             Nominal rigidity 
+             Price level 
+             Recession 
+             Shrinkflation 
+             Stagflation 
+             Supply shock 
+             Saving 
+             Unemployment
+             
+           
+         
+         
+          Policies
+          
+            
+            
+             Fiscal 
+             Monetary 
+             Commercial 
+             Central bank
+             
+           
+         
+         
+          Models
+          
+            
+            
+             IS–LM 
+             AD–AS 
+             Keynesian cross 
+             Multiplier 
+             Accelerator 
+             Phillips curve 
+             Arrow–Debreu 
+             Harrod–Domar 
+             Solow–Swan 
+             Ramsey–Cass–Koopmans 
+             Overlapping generations 
+             General equilibrium 
+              
+               DSGE
+               
+             Endogenous growth 
+             Matching theory 
+             Mundell–Fleming 
+             Overshooting 
+             NAIRU
+             
+           
+         
+         
+          Related fields
+          
+            
+            
+             Econometrics 
+             Economic statistics 
+             Monetary economics 
+             Development economics 
+             International economics
+             
+           
+         
+         
+          Schools
+          
+           
+           
+            
+             
+              Mainstream
+              
+                
+                
+                 Keynesian 
+                  
+                   Neo- 
+                   New
+                   
+                 Monetarism 
+                 New classical 
+                  
+                   Real business-cycle theory
+                   
+                 Stockholm 
+                 Supply-side 
+                 New neoclassical synthesis 
+                 Saltwater and freshwater
+                 
+               
+             
+             
+              Heterodox
+              
+                
+                
+                 Austrian 
+                 Chartalism 
+                  
+                   Modern Monetary Theory
+                   
+                 Disequilibrium 
+                 Marxian 
+                 Post-Keynesian 
+                  
+                   Circuitism
+                   
+                 Market monetarism
+                 
+               
+             
+            
+           
+           
+         
+         
+          Notable macroeconomists
+          
+            
+            
+             François Quesnay 
+             Adam Smith 
+             Thomas Robert Malthus 
+             Karl Marx 
+             Léon Walras 
+             Knut Wicksell 
+             Irving Fisher 
+             Wesley Clair Mitchell 
+             John Maynard Keynes 
+             Alvin Hansen 
+             Michał Kalecki 
+             Gunnar Myrdal 
+             Simon Kuznets 
+             Joan Robinson 
+             Friedrich Hayek 
+             John Hicks 
+             Richard Stone 
+             Hyman Minsky 
+             Milton Friedman 
+             Paul Samuelson 
+             Lawrence Klein 
+             Edmund Phelps 
+             Robert Lucas Jr. 
+             Edward C. Prescott 
+             Peter Diamond 
+             William Nordhaus 
+             Joseph Stiglitz 
+             Thomas J. Sargent 
+             Paul Krugman 
+             N. Gregory Mankiw
+             
+           
+         
+         
+          Critique
+          
+           
+            Critique of political economy
+           
+         
+         
+          See also
+          
+            
+            
+             Macroeconomic model 
+             Publications in macroeconomics 
+             Economics 
+              
+               Applied
+               
+             Microeconomics 
+             Political economy 
+             Mathematical economics
+             
+           
+         
+         
+          
+           
+             Category
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Economics
+           
+         
+         
+          Theoretical economics
+          
+            
+            
+             Microeconomics 
+              
+               Decision theory 
+               Price theory 
+               Game theory 
+               Contract theory 
+               Mechanism design
+               
+             Macroeconomics 
+             Mathematical economics 
+             Computational economics 
+             Behavioral economics
+             
+           
+         
+         
+          Empirical economics
+          
+            
+            
+             Econometrics 
+              
+               Economic statistics
+               
+             Experimental economics 
+             Economic history
+             
+           
+         
+         
+          Applied economics
+          
+            
+            
+             Agricultural 
+             Business 
+             Demographic 
+             Development 
+             Economic geography 
+             Education 
+             Environmental 
+             Financial 
+             Health 
+             Industrial organization 
+             International 
+             Labour 
+             Law and economics 
+             Monetary 
+             Natural resource 
+             Economic policy 
+             Public economics 
+             Public choice 
+             Regional 
+             Socioeconomics 
+             Transportation 
+             Urban 
+             Welfare
+             
+           
+         
+         
+          
+           
+            Schools (history)
+            of economic thought
+           
+          
+            
+            
+             Mainstream 
+             Heterodox 
+             American (National) 
+             Ancient thought 
+             Anarchist 
+              
+               Mutualism
+               
+             Austrian 
+             Behavioral 
+             Buddhist 
+             Chartalism 
+              
+               Modern Monetary Theory
+               
+             Chicago 
+             Classical 
+             Critique of political economy 
+             Disequilibrium 
+             Ecological 
+             Evolutionary 
+             Feminist 
+             Georgism 
+             Historical 
+             Institutional 
+             Keynesian 
+              
+               Neo- (neoclassical–Keynesian synthesis) 
+               New 
+               Post- 
+                
+                 Circuitism
+                
+               
+             Malthusianism 
+             Marginalism 
+             Marxian 
+              
+               Neo-
+               
+             Mercantilism 
+             Neoclassical 
+              
+               Lausanne
+               
+             New classical 
+              
+               Real business-cycle theory
+               
+             New institutional 
+             Physiocracy 
+             Socialist 
+             Stockholm 
+             Supply-side 
+             Thermoeconomics
+             
+           
+         
+         
+          
+           
+            Notable economists
+            and thinkers
+            within economics
+           
+          
+            
+            
+             François Quesnay 
+             Adam Smith 
+             David Ricardo 
+             Thomas Robert Malthus 
+             Johann Heinrich von Thünen 
+             Friedrich List 
+             Hermann Heinrich Gossen 
+             Jules Dupuit 
+             Antoine Augustin Cournot 
+             John Stuart Mill 
+             Karl Marx 
+             William Stanley Jevons 
+             Henry George 
+             Léon Walras 
+             Alfred Marshall 
+             Georg Friedrich Knapp 
+             Francis Ysidro Edgeworth 
+             Vilfredo Pareto 
+             Friedrich von Wieser 
+             John Bates Clark 
+             Thorstein Veblen 
+             John R. Commons 
+             Irving Fisher 
+             Wesley Clair Mitchell 
+             John Maynard Keynes 
+             Joseph Schumpeter 
+             Arthur Cecil Pigou 
+             Frank Knight 
+             John von Neumann 
+             Alvin Hansen 
+             Jacob Viner 
+             Edward Chamberlin 
+             Ragnar Frisch 
+             Harold Hotelling 
+             Michał Kalecki 
+             Oskar R. Lange 
+             Jacob Marschak 
+             Gunnar Myrdal 
+             Abba P. Lerner 
+             Roy Harrod 
+             Piero Sraffa 
+             Simon Kuznets 
+             Joan Robinson 
+             E. F. Schumacher 
+             Friedrich Hayek 
+             John Hicks 
+             Tjalling Koopmans 
+             Nicholas Georgescu-Roegen 
+             Wassily Leontief 
+             John Kenneth Galbraith 
+             Hyman Minsky 
+             Herbert A. Simon 
+             Milton Friedman 
+             Paul Samuelson 
+             Kenneth Arrow 
+             William Baumol 
+             Gary Becker 
+             Elinor Ostrom 
+             Robert Solow 
+             Amartya Sen 
+             Robert Lucas Jr. 
+             Joseph Stiglitz 
+             Richard Thaler 
+             Paul Krugman 
+             Thomas Piketty 
+             more
+             
+           
+         
+         
+          
+            
+            
+             Category 
+             Index 
+             Lists 
+             Outline 
+             Publications 
+             Business portal
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Social sciences
+           
+         
+         
+          
+            
+            
+             Outline 
+             History 
+             Index
+             
+           
+         
+         
+          Primary
+          
+            
+            
+             Anthropology (archaeology 
+             cultural 
+             linguistics 
+             social) 
+             Economics (microeconomics 
+             macroeconomics 
+             econometrics 
+             mathematical) 
+             Geography (physical 
+             human 
+             integrated 
+             geomatics 
+             regional) 
+             History 
+              
+               cultural 
+               auxiliary sciences 
+               economic 
+               human 
+               military 
+               political 
+               social
+               
+             Law (jurisprudence 
+             legal history 
+             legal systems 
+             public law 
+             private law) 
+             Political science (international relations 
+             comparative 
+             theory 
+             public policy) 
+             Psychology (abnormal 
+             cognitive 
+             developmental 
+             personality 
+             social) 
+             Sociology (criminology 
+             demography 
+             internet 
+             rural 
+             urban)
+             
+           
+         
+         
+          Interdisciplinary
+          
+            
+            
+             Administration (business 
+             public) 
+             Anthrozoology 
+             Area studies 
+             Business studies 
+             Cognitive science 
+             Communication studies 
+             Community studies 
+             Cultural studies 
+             Development studies 
+             Education 
+             Environmental (social science 
+             studies) 
+             Food studies 
+             Gender studies 
+             Global studies 
+             Historical sociology 
+             History of technology 
+             Human ecology 
+             Information science 
+             International studies 
+             Linguistics 
+             Media studies 
+             Philosophy of science (economics 
+             history 
+             psychology 
+             social science) 
+             Planning (land use 
+             regional 
+             urban) 
+             Political ecology 
+             Political economy 
+             Political sociology 
+             Public health 
+             Regional science 
+             Science and technology studies 
+             Science studies 
+              
+               historical 
+               Quantum social science
+               
+             Social work 
+             Vegan studies
+             
+           
+         
+         
+          List
+          
+            
+            
+             List of social science journals
+             
+           
+         
+         
+          Other categorizations
+          
+            
+            
+             Humanities 
+             Geisteswissenschaft 
+             Human science
+             
+           
+         
+         
+          
+            
+            
+              Category 
+              Commons 
+             &nbsp;Society portal 
+              Wikiversity
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          National libraries
+          
+            
+            
+             Spain 
+             Ukraine 
+             Germany 
+             United States 
+             Japan
+             
+           
+         
+         
+          Other
+          
+            
+            
+             National Archives (US)
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Macroeconomics&amp;oldid=1070885814"
+     
+     
+    
+     
+      Categories: 
+      
+       Macroeconomics
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 maint: location
+       Harv and Sfn no-target errors
+       Articles with short description
+       Short description is different from Wikidata
+       All articles with specifically marked weasel-worded phrases
+       Articles with specifically marked weasel-worded phrases from May 2016
+       CS1 errors: missing title
+       CS1 errors: bare URL
+       Articles with BNE identifiers
+       Articles with EMU identifiers
+       Articles with GND identifiers
+       Articles with LCCN identifiers
+       Articles with NDL identifiers
+       Articles with NARA identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       Wikibooks
+       Wikiquote
+       
+      
+     
+     
+      Languages  
+      
+      
+       Afrikaans
+       العربية
+       Asturianu
+       Azərbaycanca
+       تۆرکجه
+       বাংলা
+       Bân-lâm-gú
+       Беларуская
+       Беларуская (тарашкевіца)
+       भोजपुरी
+       Български
+       བོད་ཡིག
+       Bosanski
+       Català
+       Чӑвашла
+       Cebuano
+       Čeština
+       Dansk
+       Deutsch
+       Eesti
+       Ελληνικά
+       Español
+       Esperanto
+       Euskara
+       فارسی
+       Français
+       Galego
+       客家語/Hak-kâ-ngî
+       한국어
+       Հայերեն
+       हिन्दी
+       Hrvatski
+       Ido
+       Bahasa Indonesia
+       Ирон
+       Íslenska
+       Italiano
+       עברית
+       ಕನ್ನಡ
+       ქართული
+       Қазақша
+       Кыргызча
+       ລາວ
+       Latina
+       Latviešu
+       Lietuvių
+       Magyar
+       Македонски
+       മലയാളം
+       مصرى
+       Bahasa Melayu
+       Монгол
+       မြန်မာဘာသာ
+       Nederlands
+       नेपाल भाषा
+       日本語
+       Norsk bokmål
+       Norsk nynorsk
+       Occitan
+       ਪੰਜਾਬੀ
+       پښتو
+       ភាសាខ្មែរ
+       Tok Pisin
+       Polski
+       Português
+       Română
+       Русский
+       Саха тыла
+       Shqip
+       සිංහල
+       Simple English
+       Slovenčina
+       Slovenščina
+       کوردی
+       Српски / srpski
+       Srpskohrvatski / српскохрватски
+       Suomi
+       Svenska
+       Tagalog
+       தமிழ்
+       తెలుగు
+       ไทย
+       Тоҷикӣ
+       Türkçe
+       Тыва дыл
+       Українська
+       اردو
+       Tiếng Việt
+       Winaray
+       吴语
+       粵語
+       Zazaki
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 9 February 2022, at 19:50&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

@@ -1,0 +1,480 @@
+
+ 
+  
+   
+  Karl Wilhelm Pohlke - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Karl Wilhelm Pohlke 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       
+         
+        
+         
+          
+         Karl Wilhelm Pohlke
+        
+       
+       
+      Karl Wilhelm Pohlke (28 January 1810 in Berlin – 27 November 1876 in Berlin) was a German painter who established an important geometric statement, which is fundamental for axonometric projections. The statement is called Pohlke's theorem.  
+      
+       
+       
+        Contents
+        
+        
+        1 Life 
+        2 Selected works 
+          
+          2.1 Book 
+          2.2 Paintings 
+           
+        3 External links 
+        
+       
+      Life 
+      Karl Wilhelm Pohlke was taught painting by Wilhelm Hensel at the Königlich Preussischen Akademie der Künste in Berlin and participated in his first exhibition there in 1832. After finishing his studies he earned his living for some years painting landscapes and teaching perspective drawing privately. In 1835 Pohlke went to France and improved his abilities at the École des Beaux-Arts with Louis Étienne Watelet and Léon Cogniet. In 1843 he went to Italy. After 10 years he returned in 1845 to Berlin, where he got 1849 at the Königlichen Bauakademie an appointment as lecturer and in 1860 was promoted to Professor for Descriptive Geometry and Perspective. 
+      Between 1860 and 1876 he published a textbook on descriptive geometry, consisting of two volumes, where he introduced (in the 1st volume) his statement, later called "Pohlke's theorem" on axonometric projections: "Any three line segments 
+           
+            
+             
+              
+               
+               
+                O
+                
+               
+                ¯
+                
+               
+              
+              
+               
+               
+                U
+                
+               
+                ¯
+                
+               
+              
+             
+              ,
+              
+              
+               
+               
+                O
+                
+               
+                ¯
+                
+               
+              
+              
+               
+               
+                V
+                
+               
+                ¯
+                
+               
+              
+             
+              ,
+              
+              
+               
+               
+                O
+                
+               
+                ¯
+                
+               
+              
+              
+               
+               
+                W
+                
+               
+                ¯
+                
+               
+              
+             
+            
+           
+            }},}},}}}
+            
+           
+          in a plane but not on a line can be considered as the parallel projection of three edges 
+           
+            
+             
+             
+              O
+              
+             
+              U
+              
+             
+              ,
+              
+             
+              O
+              
+             
+              V
+              
+             
+              ,
+              
+             
+              O
+              
+             
+              W
+              
+             
+            
+           
+            
+            
+           
+          of a cube." This theorem is the mathematical justification of a commonly used drawing method and is a remarkable contribution of an artist to mathematics.  
+      Selected works 
+      
+       
+         
+        
+         
+          
+         Brunnen am Vierwaldstätter See
+        
+       
+       
+      Book 
+      
+       Zehn Tafeln zur darstellenden Geometrie. Gaertner-Verlag, Berlin 1876 (Google Books.) 
+        
+         1st volume: Darstellung der geraden Linien und ebenen Flächen,so wie der aus ihnen zusammengesetzten Gebilde, vermittelst der verschiedenen Projektionsarten 
+         2nd volume: Darstellung einiger krummer Linien und krummen Flächen
+        
+       
+      Paintings 
+      
+       Brunnen am Vierwaldstätter See, 
+       Blick auf Glienicke, at Glienicke Palace, Berlin
+       
+      External links 
+      
+       Pohlke's Theorem -- from Wolfram MathWorld 
+       Institut für Mathematik und Informatik der Universität Greifswald: Mathematik und Kunst: Karl Wilhelm Pohlke
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          General
+          
+            
+            
+             ISNI 
+              
+               1
+               
+             VIAF 
+              
+               1
+               
+             WorldCat
+             
+           
+         
+         
+          National libraries
+          
+            
+            
+             Germany 
+             Netherlands
+             
+           
+         
+         
+          Art research institutes
+          
+            
+            
+             Scientific illustrators
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Karl_Wilhelm_Pohlke&amp;oldid=988046518"
+     
+     
+    
+     
+      Categories: 
+      
+       1810 births
+       1876 deaths
+       Engineers from Berlin
+       Artists from Berlin
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with ISNI identifiers
+       Articles with VIAF identifiers
+       Articles with WORLDCATID identifiers
+       Articles with GND identifiers
+       Articles with NTA identifiers
+       Articles with DSI identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       Deutsch
+       Español
+       Italiano
+       Malagasy
+       مصرى
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 10 November 2020, at 18:55&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

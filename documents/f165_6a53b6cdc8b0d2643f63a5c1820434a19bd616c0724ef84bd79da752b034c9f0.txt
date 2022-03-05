@@ -1,0 +1,298 @@
+
+ 
+  
+   
+  Gerard Salton Award - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Gerard Salton Award 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources:&nbsp;"Gerard Salton Award"&nbsp;–&nbsp;news&nbsp;· newspapers&nbsp;· books&nbsp;· scholar&nbsp;· JSTOR (June 2020) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      The Gerard Salton Award is presented by the Association for Computing Machinery (ACM) Special Interest Group on Information Retrieval (SIGIR) every three years to an individual who has made "significant, sustained and continuing contributions to research in information retrieval". SIGIR also co-sponsors (with SIGWEB) the Vannevar Bush Award, for the best paper at the Joint Conference on Digital Libraries.  
+      
+       
+       
+        Contents
+        
+        
+        1 Chronological honorees and lectures 
+        2 See also 
+        3 References 
+        4 External links 
+        
+       
+      Chronological honorees and lectures 
+      Source: SIGIR  
+      
+       1983 - Gerard Salton, Cornell University&nbsp;: "About the future of automatic information retrieval." 
+       1988 - Karen Spärck Jones, University of Cambridge&nbsp;: "A look back and a look forward." 
+       1991 - Cyril Cleverdon, Cranfield Institute of Technology&nbsp;: "The significance of the Cranfield tests on index languages." 
+       1994 - William S. Cooper, University of California, Berkeley&nbsp;: "The formalism of probability theory in IR: a foundation or an encumbrance?" 
+       1997 - Tefko Saracevic&nbsp;, Rutgers University&nbsp;: "Users lost (summary): reflections on the past, future, and limits of information science." 
+       2000 - Stephen E. Robertson, City University London&nbsp;: "On theoretical argument in information retrieval."For ... "Thirty years of significant, sustained and continuing contributions to research in information retrieval. Of special importance are the theoretical and empirical contributions to the development, refinement, and evaluation of probabilistic models of information retrieval." 
+       2003 - W. Bruce Croft, University of Massachusetts Amherst&nbsp;: "Information retrieval and computer science: an evolving relationship."For ... "More than twenty years of significant, sustained and continuing contributions to research in information retrieval. His contributions to the theoretical development and practical use of Bayesian inference networks and language modelling for retrieval, and to their evaluation through extensive experiment and application, are particularly important. The Center for Intelligent Information Retrieval which he founded illustrates the strong synergies between fundamental research and its application to a wide range of practical information management problems." 
+       2006 - C. J. van Rijsbergen, University of Glasgow&nbsp;: "Quantum haystacks." 
+       2009 - Susan Dumais, Microsoft Research&nbsp;: "An Interdisciplinary Perspective on Information Retrieval." 
+       2012 - Norbert Fuhr, University of Duisburg-Essen: "Information Retrieval as Engineering Science." 
+       2015 - Nicholas J. Belkin, Rutgers University&nbsp;: “People, Interacting with Information” 
+       2018 - Kalervo Järvelin&nbsp;, University of Tampere&nbsp;: “Information Interaction in Context”
+       
+      See also 
+      
+       Information Retrieval Awards 
+       List of computer science awards
+       
+      References 
+      
+       
+       
+         
+         ^ "Gerard Salton Awards". Retrieved 2020-12-02.  
+         ^ 
+           "Vannevar Bush Best Paper Awards". Retrieved 2020-12-02.  
+        
+       
+       
+      External links 
+      
+       ACM SIGIR homepage 
+       ACM SIGIR awards
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Gerard_Salton_Award&amp;oldid=992655229"
+     
+     
+    
+     
+      Categories: 
+      
+       Association for Computing Machinery
+       Computer science awards
+      
+     
+     
+      Hidden categories: 
+      
+       Articles needing additional references from June 2020
+       All articles needing additional references
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Español
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 6 December 2020, at 12:14&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

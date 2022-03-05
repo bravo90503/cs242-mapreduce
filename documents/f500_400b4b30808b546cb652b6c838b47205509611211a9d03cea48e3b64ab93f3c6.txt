@@ -1,0 +1,308 @@
+
+ 
+  
+   
+  View source for Information science - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   View source for Information science 
+    
+    
+     ← Information science
+     
+     
+     Jump to navigation Jump to search 
+    
+     You do not have permission to edit this page, for the following reasons:  
+      
+       
+        
+        
+          
+           
+           
+            
+             You are currently unable to edit Wikipedia.
+             
+            Editing from your IP address range (185.242.5.0/24) has been blocked (disabled) on all Wikimedia wikis until 20:14, 15 August 2023 by Martin Urbanec (meta.wikimedia.org) for the following reason:  
+             
+            
+             No open proxies: please read the FAQ should you be affected
+             
+            This block began on 20:14, 15 August 2020 
+            Your current IP address is 185.242.5.178. Please include all above details in any queries you make. 
+            If you believe you were blocked by mistake, you can find additional information and instructions in the No open proxies global policy. Otherwise, to discuss the block post a request for review on Meta-Wiki or send an email to the stewards Volunteer Response Team queue at stewards@wikimedia.org including all above details.  
+            
+         
+        
+        
+       
+        
+        
+          You are currently unable to edit Wikipedia due to a block affecting this IP address.
+         This does not affect your ability to read Wikipedia pages.
+        
+         
+        Most people who see this message have done nothing wrong. Some kinds of blocks restrict editing from specific service providers or telecom companies in response to recent abuse or vandalism, and affect other users who are unrelated to that abuse. See below if you do not believe you have done anything wrong.
+         
+        Editing from 185.242.4.0/22 has been blocked (disabled) by ‪ST47‬ for the following reason(s):  
+         
+          
+          
+           
+          The IP address that you are currently using has been blocked because it is believed to be a web host provider or colocation provider. To prevent abuse, web hosts and colocation providers may be blocked from editing Wikipedia. 
+          
+           You will not be able to edit Wikipedia using a web host or colocation provider because it hides your IP address, much like a proxy or VPN. 
+           We recommend that you attempt to use another connection to edit. For example, if you use a proxy or VPN to connect to the internet, turn it off when editing Wikipedia. If you edit using a mobile connection, try using a Wi-Fi connection, and vice versa. If you have a Wikipedia account, please log in. If you do not have any other way to edit Wikipedia, you will need to request an IP block exemption. 
+           If you are confident that you are not using a web host, you may appeal this block by adding the following text on your talk page: }. You must fill in the blank with your IP address for this block to be investigated. Your IP address can be determined here. Alternatively, if you wish to keep your IP address private you can use the unblock ticket request system. There are several reasons you might be editing using the IP address of a web host or colocation provider (such as if you are using VPN software or a business network); please use this method of appeal only if you think your IP address is in fact not a web host or colocation provider. 
+           Administrators: The IP block exemption user right should only be applied to allow users to edit using web host in exceptional circumstances, and requests should usually be directed to the functionaries team via email. If you intend to give the IPBE user right, a CheckUser needs to take a look at the account. This can be requested most easily at SPI Quick Checkuser Requests. Unblocking an IP or IP range with this template is highly discouraged without at least contacting the blocking administrator.  
+          
+          
+         
+        This block has been set to expire: 21:09, 18 June 2023.  
+        
+        Even when blocked, you will usually still be able to edit your user talk page, and email administrators and other editors. 
+        For information on how to proceed, first see the FAQ for blocked users and the guideline on block appeals. The guide to appealing blocks may also be helpful. 
+        Other useful links: Blocking policy · Help:I have been blocked  
+        
+     
+      
+     
+      You can view and copy the source of this page:
+     == Research vectors and applications ==
+] articles. Information science includes studying how topics relate to each other, and how readers relate concepts to each other.]]
+The following areas are some of those that information science investigates and develops.
+
+===Information access===
+Information access is an area of research at the intersection of ], Information Science, ], ], and ]. The objectives of information access research are to automate the processing of large and unwieldy amounts of information and to simplify users' access to it. What about assigning privileges and restricting access to unauthorized users? The extent of access should be defined in the level of clearance granted for the information. Applicable technologies include ], ], ], ], and ]. In discussion, information access is often defined as concerning the insurance of free and closed or public access to information and is brought up in discussions on ], ], and ]. Public libraries need resources to provide knowledge of information assurance.
+
+===Information architecture===
+}
+
+Information architecture (IA) is the art and science of organizing and labelling ]s, ]s, ] and software to support usability.&lt;ref&gt;‘What is IA?’ Information Architecture Institute. &lt;/ref&gt; It is an emerging discipline and ''community of practice'' focused on bringing together principles of ] and ] to the ''digital landscape''.&lt;ref&gt;}&lt;/ref&gt; Typically it involves a ] or ] of ] which is used and applied to activities that require explicit details of complex ]s. These activities include ] systems and ] development.
+
+===Information management===
+}
+
+Information management (IM) is the collection and management of information from one or more sources and the distribution of that information to one or more audiences. This sometimes involves those who have a stake in, or a right to that information. Management means the organization of and control over the structure, processing and delivery of information. Throughout the 1970s this was largely limited to files, file maintenance, and the life cycle management of paper-based files, other media and records. With the proliferation of information technology starting in the 1970s, the job of information management took on a new light and also began to include the field of data maintenance.
+
+===Information retrieval===
+}
+
+Information retrieval (IR) is the area of study concerned with searching for documents, for ] within documents, and for ] about documents, as well as that of searching ], ]s, and the ]. Automated information retrieval systems are used to reduce what has been called "]". Many universities and ] use IR systems to provide access to books, journals and other documents. ]s are the most visible ].
+
+An information retrieval process begins when a user enters a ] into the system. Queries are formal statements of ]s, for example search strings in web search engines. In information retrieval a query does not uniquely identify a single object in the collection. Instead, several objects may match the query, perhaps with different degrees of ].
+
+An object is an entity that is represented by information in a ]. User queries are matched against the database information. Depending on the ] the data objects may be, for example, text documents, images,&lt;ref name=goodron2000&gt;}&lt;/ref&gt; audio,&lt;ref name=Foote99&gt;}&lt;/ref&gt; ]&lt;ref name=Beel2009&gt;}&lt;/ref&gt; or videos. Often the documents themselves are not kept or stored directly in the IR system, but are instead represented in the system by document surrogates or metadata.
+
+Most IR systems compute a numeric score on how well each object in the database match the query, and rank the objects according to this value. The top ranking objects are then shown to the user. The process may then be iterated if the user wishes to refine the query.&lt;ref name="Frakes1992"&gt;}&lt;/ref&gt;
+
+===Information seeking===
+}
+
+Information seeking is the process or activity of attempting to obtain information in both human and technological contexts. Information seeking is related to, but different from, information retrieval (IR).
+
+Much library and information science (LIS) research has focused on the information-seeking practices of practitioners within various fields of professional work. Studies have been carried out into the information-seeking behaviors of librarians,&lt;ref&gt;}&lt;/ref&gt; academics,&lt;ref&gt;}&lt;/ref&gt; medical professionals,&lt;ref&gt;}&lt;/ref&gt; engineers&lt;ref&gt;}&lt;/ref&gt; and lawyers&lt;ref&gt;}&lt;/ref&gt; (among others). Much of this research has drawn on the work done by Leckie, Pettigrew (now Fisher) and Sylvain, who in 1996 conducted an extensive review of the LIS literature (as well as the literature of other academic fields) on professionals' information seeking. The authors proposed an analytic model of professionals' information seeking behaviour, intended to be generalizable across the professions, thus providing a platform for future research in the area. The model was intended to "prompt new insights... and give rise to more refined and applicable theories of information seeking" (1996, p.&amp;nbsp;188). The model has been adapted by Wilkinson (2001) who proposes a model of the information seeking of lawyers. Recent studies in this topic address the concept of information-gathering that "provides a broader perspective that adheres better to professionals’ work-related reality and desired skills."&lt;ref&gt;}&lt;/ref&gt; (Solomon &amp; Bronstein, 2021).
+
+===Information society===
+}
+
+An information society is a ] where the creation, distribution, diffusion, uses, integration and manipulation of ] is a significant economic, political, and cultural activity. The aim of an information society is to gain competitive advantage internationally, through using ] in a creative and productive way.  The ] is its economic counterpart, whereby wealth is created through the economic exploitation of understanding. People who have the means to partake in this form of society are sometimes called ].
+
+Basically, an information society is the means of getting information from one place to another (Wark, 1997, p.&amp;nbsp;22). As technology has become more advanced over time so too has the way we have adapted in sharing this information with each other.
+
+Information society theory discusses the role of information and information technology in society, the question of which key concepts should be used for characterizing contemporary society, and how to define such concepts. It has become a specific branch of contemporary sociology.
+
+=== Knowledge representation and reasoning ===
+}
+
+Knowledge representation (KR) is an area of ] research aimed at representing knowledge in symbols to facilitate ] from those ] elements, creating new elements of knowledge. The KR can be made to be independent of the underlying knowledge model or knowledge base system (KBS) such as a ].&lt;ref name="martin" &gt;, Philippe Martin, Distributed System Technology Centre, QLD, Australia, July 15–19, 2002&lt;/ref&gt;
+
+Knowledge Representation (KR) research involves analysis of how to reason accurately and effectively and how best to use a set of symbols to represent a set of facts within a knowledge domain. A symbol vocabulary and a system of logic are combined to enable ]s about elements in the KR to create new KR sentences. Logic is used to supply formal ] of how reasoning functions should be applied to the symbols in the KR system. Logic is also used to define how operators can process and reshape the knowledge. Examples of operators and operations include, negation, conjunction, adverbs, adjectives, quantifiers and modal operators. The logic is interpretation theory. These elements—symbols, operators, and interpretation theory—are what give sequences of symbols meaning within a KR.
+
+     
+     Return to Information science. 
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/wiki/Information_science"
+     
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Page information
+       Wikidata item
+       
+      
+     
+     
+      Languages  
+      
+       
+      
+       
+       
+      
+     
+    
+   
+   
+    
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+    
+ 

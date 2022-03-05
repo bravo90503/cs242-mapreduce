@@ -1,0 +1,2967 @@
+
+ 
+  
+   
+  Graph of a function - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Graph of a function 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Mathematical representation of a function
+       
+      
+      
+       For graphical representation, see Plot (graphics). For the combinatorial structure, see Graph (discrete mathematics). For the graph-theoretic representation of a function from a set to itself, see Functional graph.
+       
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources:&nbsp;"Graph of a function"&nbsp;–&nbsp;news&nbsp;· newspapers&nbsp;· books&nbsp;· scholar&nbsp;· JSTOR (August 2014) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      
+       
+         
+        
+         
+          
+         Graph of the function 
+             
+              
+               
+               
+                f
+                
+               
+                (
+                
+               
+                x
+                
+               
+                )
+                
+               
+                =
+                
+                
+                
+                 x
+                 
+                 
+                 
+                  3
+                  
+                 
+                
+               
+                −
+                
+               
+                9
+                
+               
+                x
+                
+               
+                .
+                
+               
+              
+             
+              -9x.}
+              
+             
+           
+        
+       
+       
+      In mathematics, the graph of a function 
+           
+            
+             
+             
+              f
+              
+             
+            
+           
+            
+            
+           
+          is the set of ordered pairs 
+           
+            
+             
+             
+              (
+              
+             
+              x
+              
+             
+              ,
+              
+             
+              y
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+         , where 
+           
+            
+             
+             
+              f
+              
+             
+              (
+              
+             
+              x
+              
+             
+              )
+              
+             
+              =
+              
+             
+              y
+              
+             
+              .
+              
+             
+            
+           
+            
+            
+           
+          In the common case where 
+           
+            
+             
+             
+              x
+              
+             
+            
+           
+            
+            
+           
+          and 
+           
+            
+             
+             
+              f
+              
+             
+              (
+              
+             
+              x
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          are real numbers, these pairs are Cartesian coordinates of points in two-dimensional space and thus form a subset of this plane. 
+      In the case of functions of two variables, that is functions whose domain consists of pairs 
+           
+            
+             
+             
+              (
+              
+             
+              x
+              
+             
+              ,
+              
+             
+              y
+              
+             
+              )
+              
+             
+              ,
+              
+             
+            
+           
+            
+            
+           
+          the graph usually refers to the set of ordered triples 
+           
+            
+             
+             
+              (
+              
+             
+              x
+              
+             
+              ,
+              
+             
+              y
+              
+             
+              ,
+              
+             
+              z
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          where 
+           
+            
+             
+             
+              f
+              
+             
+              (
+              
+             
+              x
+              
+             
+              ,
+              
+             
+              y
+              
+             
+              )
+              
+             
+              =
+              
+             
+              z
+              
+             
+              ,
+              
+             
+            
+           
+            
+            
+           
+          instead of the pairs 
+           
+            
+             
+             
+              (
+              
+             
+              (
+              
+             
+              x
+              
+             
+              ,
+              
+             
+              y
+              
+             
+              )
+              
+             
+              ,
+              
+             
+              z
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          as in the definition above. This set is a subset of three-dimensional space; for a continuous real-valued function of two real variables, it is a surface. 
+       A graph of a function is a special case of a relation. 
+      In science, engineering, technology, finance, and other areas, graphs are tools used for many purposes. In the simplest case one variable is plotted as a function of another, typically using rectangular axes; see Plot (graphics) for details. 
+      In the modern foundations of mathematics, and, typically, in set theory, a function is actually equal to its graph. However, it is often useful to see functions as mappings, which consist not only of the relation between input and output, but also which set is the domain, and which set is the codomain. For example, to say that a function is onto (surjective) or not the codomain should be taken into account. The graph of a function on its own doesn't determine the codomain. It is common to use both terms function and graph of a function since even if considered the same object, they indicate viewing it from a different perspective.  
+      
+       
+         
+        
+         
+          
+         Graph of the function 
+             
+              
+               
+               
+                f
+                
+               
+                (
+                
+               
+                x
+                
+               
+                )
+                
+               
+                =
+                
+                
+                
+                 x
+                 
+                 
+                 
+                  4
+                  
+                 
+                
+               
+                −
+                
+                
+                
+                 4
+                 
+                 
+                 
+                  x
+                  
+                 
+                
+               
+              
+             
+              -4^}
+              
+             
+            over the interval . Also shown are the two real roots and the local minimum that are in the interval.
+        
+       
+       
+      
+       
+       
+        Contents
+        
+        
+        1 Definition 
+        2 Examples 
+          
+          2.1 Functions of one variable 
+          2.2 Functions of two variables 
+           
+        3 Generalizations 
+        4 See also 
+        5 References 
+        6 External links 
+        
+       
+      Definition 
+      Given a mapping 
+           
+            
+             
+             
+              f
+              
+             
+              :
+              
+             
+              X
+              
+             
+              →
+              
+             
+              Y
+              
+             
+              ,
+              
+             
+            
+           
+            
+            
+           
+          in other words a function 
+           
+            
+             
+             
+              f
+              
+             
+            
+           
+            
+            
+           
+          together with its domain 
+           
+            
+             
+             
+              X
+              
+             
+            
+           
+            
+            
+           
+          and codomain 
+           
+            
+             
+             
+              Y
+              
+             
+              ,
+              
+             
+            
+           
+            
+            
+           
+          the graph of the mapping is the set 
+      
+       
+          
+           
+            
+            
+             G
+             
+            
+             (
+             
+            
+             f
+             
+            
+             )
+             
+            
+             =
+             
+            
+             {
+             
+            
+             (
+             
+            
+             x
+             
+            
+             ,
+             
+            
+             f
+             
+            
+             (
+             
+            
+             x
+             
+            
+             )
+             
+            
+             )
+             
+            
+             :
+             
+            
+             x
+             
+            
+             ∈
+             
+            
+             X
+             
+            
+             }
+             
+            
+             ,
+             
+            
+           
+          
+           ,}
+           
+          
+        
+       
+       
+       
+      
+      which is a subset of 
+           
+            
+             
+             
+              X
+              
+             
+              ×
+              
+             
+              Y
+              
+             
+            
+           
+            
+            
+           
+         . In the abstract definition of a function, 
+           
+            
+             
+             
+              G
+              
+             
+              (
+              
+             
+              f
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          is actually equal to 
+           
+            
+             
+             
+              f
+              
+             
+              .
+              
+             
+            
+           
+            
+            
+           
+          
+      One can observe that, if, 
+           
+            
+             
+             
+              f
+              
+             
+              :
+              
+              
+               
+               
+                R
+                
+               
+               
+               
+                n
+                
+               
+              
+             
+              →
+              
+              
+               
+               
+                R
+                
+               
+               
+               
+                m
+                
+               
+              
+             
+              ,
+              
+             
+            
+           
+             ^\to \mathbb  ^,}
+            
+           
+          then the graph 
+           
+            
+             
+             
+              G
+              
+             
+              (
+              
+             
+              f
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          is a subset of 
+           
+            
+             
+              
+               
+               
+                R
+                
+               
+               
+               
+                n
+                
+               
+                +
+                
+               
+                m
+                
+               
+              
+             
+            
+           
+             ^}
+            
+           
+          (strictly speaking it is 
+           
+            
+             
+              
+               
+               
+                R
+                
+               
+               
+               
+                n
+                
+               
+              
+             
+              ×
+              
+              
+               
+               
+                R
+                
+               
+               
+               
+                m
+                
+               
+              
+             
+              ,
+              
+             
+            
+           
+             ^\times \mathbb  ^,}
+            
+           
+          but one can embed it with the natural isomorphism).  
+      Examples 
+      Functions of one variable 
+      
+       
+         
+        
+         
+          
+         Graph of the function 
+             
+              
+               
+               
+                f
+                
+               
+                (
+                
+               
+                x
+                
+               
+                ,
+                
+               
+                y
+                
+               
+                )
+                
+               
+                =
+                
+               
+                sin
+                
+               
+                ⁡
+                
+                
+                
+                 (
+                 
+                 
+                 
+                  x
+                  
+                  
+                  
+                   2
+                   
+                  
+                 
+                
+                 )
+                 
+                
+               
+                ⋅
+                
+               
+                cos
+                
+               
+                ⁡
+                
+                
+                
+                 (
+                 
+                 
+                 
+                  y
+                  
+                  
+                  
+                   2
+                   
+                  
+                 
+                
+                 )
+                 
+                
+               
+                .
+                
+               
+              
+             
+              \right)\cdot \cos \left(y^\right).}
+              
+             
+           
+        
+       
+       
+      The graph of the function 
+           
+            
+             
+             
+              f
+              
+             
+              :
+              
+             
+              {
+              
+             
+              1
+              
+             
+              ,
+              
+             
+              2
+              
+             
+              ,
+              
+             
+              3
+              
+             
+              }
+              
+             
+              →
+              
+             
+              {
+              
+             
+              a
+              
+             
+              ,
+              
+             
+              b
+              
+             
+              ,
+              
+             
+              c
+              
+             
+              ,
+              
+             
+              d
+              
+             
+              }
+              
+             
+            
+           
+            \to \}
+            
+           
+          defined by 
+      
+       
+          
+           
+            
+            
+             f
+             
+            
+             (
+             
+            
+             x
+             
+            
+             )
+             
+            
+             =
+             
+             
+              
+              
+               {
+               
+               
+                
+                 
+                 
+                  a
+                  
+                 
+                  ,
+                  
+                 
+                 
+                  
+                  
+                   if&nbsp;
+                   
+                  
+                 
+                  x
+                  
+                 
+                  =
+                  
+                 
+                  1
+                  
+                 
+                  ,
+                  
+                 
+                
+                
+                 
+                 
+                  d
+                  
+                 
+                  ,
+                  
+                 
+                 
+                  
+                  
+                   if&nbsp;
+                   
+                  
+                 
+                  x
+                  
+                 
+                  =
+                  
+                 
+                  2
+                  
+                 
+                  ,
+                  
+                 
+                
+                
+                 
+                 
+                  c
+                  
+                 
+                  ,
+                  
+                 
+                 
+                  
+                  
+                   if&nbsp;
+                   
+                  
+                 
+                  x
+                  
+                 
+                  =
+                  
+                 
+                  3
+                  
+                 
+                  ,
+                  
+                 
+                
+               
+               
+              
+             
+            
+           
+          
+           a,&amp;}x=1,\\d,&amp;}x=2,\\c,&amp;}x=3,\end}}
+           
+          
+        
+       
+       
+       is the subset of the set 
+          
+           
+            
+            
+             {
+             
+            
+             1
+             
+            
+             ,
+             
+            
+             2
+             
+            
+             ,
+             
+            
+             3
+             
+            
+             }
+             
+            
+             ×
+             
+            
+             {
+             
+            
+             a
+             
+            
+             ,
+             
+            
+             b
+             
+            
+             ,
+             
+            
+             c
+             
+            
+             ,
+             
+            
+             d
+             
+            
+             }
+             
+            
+           
+          
+           \times \}
+           
+          
+         
+      
+       
+          
+           
+            
+            
+             G
+             
+            
+             (
+             
+            
+             f
+             
+            
+             )
+             
+            
+             =
+             
+            
+             {
+             
+            
+             (
+             
+            
+             1
+             
+            
+             ,
+             
+            
+             a
+             
+            
+             )
+             
+            
+             ,
+             
+            
+             (
+             
+            
+             2
+             
+            
+             ,
+             
+            
+             d
+             
+            
+             )
+             
+            
+             ,
+             
+            
+             (
+             
+            
+             3
+             
+            
+             ,
+             
+            
+             c
+             
+            
+             )
+             
+            
+             }
+             
+            
+             .
+             
+            
+           
+          
+           .}
+           
+          
+        
+       
+       
+       
+      
+      From the graph, the domain 
+           
+            
+             
+             
+              {
+              
+             
+              1
+              
+             
+              ,
+              
+             
+              2
+              
+             
+              ,
+              
+             
+              3
+              
+             
+              }
+              
+             
+            
+           
+            }
+            
+           
+          is recovered as the set of first component of each pair in the graph 
+           
+            
+             
+             
+              {
+              
+             
+              1
+              
+             
+              ,
+              
+             
+              2
+              
+             
+              ,
+              
+             
+              3
+              
+             
+              }
+              
+             
+              =
+              
+             
+              {
+              
+             
+              x
+              
+             
+              :
+              
+             
+              &nbsp;
+              
+              
+              
+               there exists&nbsp;
+               
+              
+             
+              y
+              
+             
+              ,
+              
+              
+              
+               &nbsp;such that&nbsp;
+               
+              
+             
+              (
+              
+             
+              x
+              
+             
+              ,
+              
+             
+              y
+              
+             
+              )
+              
+             
+              ∈
+              
+             
+              G
+              
+             
+              (
+              
+             
+              f
+              
+             
+              )
+              
+             
+              }
+              
+             
+            
+           
+            =\}y,}(x,y)\in G(f)\}}
+            
+           
+         . Similarly, the range can be recovered as 
+           
+            
+             
+             
+              {
+              
+             
+              a
+              
+             
+              ,
+              
+             
+              c
+              
+             
+              ,
+              
+             
+              d
+              
+             
+              }
+              
+             
+              =
+              
+             
+              {
+              
+             
+              y
+              
+             
+              :
+              
+              
+              
+               there exists&nbsp;
+               
+              
+             
+              x
+              
+             
+              ,
+              
+              
+              
+               &nbsp;such that&nbsp;
+               
+              
+             
+              (
+              
+             
+              x
+              
+             
+              ,
+              
+             
+              y
+              
+             
+              )
+              
+             
+              ∈
+              
+             
+              G
+              
+             
+              (
+              
+             
+              f
+              
+             
+              )
+              
+             
+              }
+              
+             
+            
+           
+            =\}x,}(x,y)\in G(f)\}}
+            
+           
+         . The codomain 
+           
+            
+             
+             
+              {
+              
+             
+              a
+              
+             
+              ,
+              
+             
+              b
+              
+             
+              ,
+              
+             
+              c
+              
+             
+              ,
+              
+             
+              d
+              
+             
+              }
+              
+             
+            
+           
+            }
+            
+           
+         , however, cannot be determined from the graph alone. 
+      The graph of the cubic polynomial on the real line 
+      
+       
+          
+           
+            
+            
+             f
+             
+            
+             (
+             
+            
+             x
+             
+            
+             )
+             
+            
+             =
+             
+             
+             
+              x
+              
+              
+              
+               3
+               
+              
+             
+            
+             −
+             
+            
+             9
+             
+            
+             x
+             
+            
+           
+          
+           -9x}
+           
+          
+        
+       
+       
+       is 
+      
+       
+          
+           
+            
+            
+             {
+             
+            
+             (
+             
+            
+             x
+             
+            
+             ,
+             
+             
+             
+              x
+              
+              
+              
+               3
+               
+              
+             
+            
+             −
+             
+            
+             9
+             
+            
+             x
+             
+            
+             )
+             
+            
+             :
+             
+            
+             x
+             
+             
+             
+              &nbsp;is a real number
+              
+             
+            
+             }
+             
+            
+             .
+             
+            
+           
+          
+           -9x):x}\}.}
+           
+          
+        
+       
+       
+       
+      
+      If this set is plotted on a Cartesian plane, the result is a curve (see figure).  
+       
+      Functions of two variables 
+      
+       
+         
+        
+         
+          
+         Plot of the graph of 
+             
+              
+               
+               
+                f
+                
+               
+                (
+                
+               
+                x
+                
+               
+                ,
+                
+               
+                y
+                
+               
+                )
+                
+               
+                =
+                
+               
+                −
+                
+                
+                 
+                 
+                  (
+                  
+                  
+                  
+                   cos
+                   
+                  
+                   ⁡
+                   
+                   
+                   
+                    (
+                    
+                    
+                    
+                     x
+                     
+                     
+                     
+                      2
+                      
+                     
+                    
+                   
+                    )
+                    
+                   
+                  
+                   +
+                   
+                  
+                   cos
+                   
+                  
+                   ⁡
+                   
+                   
+                   
+                    (
+                    
+                    
+                    
+                     y
+                     
+                     
+                     
+                      2
+                      
+                     
+                    
+                   
+                    )
+                    
+                   
+                  
+                 
+                  )
+                  
+                 
+                 
+                 
+                  2
+                  
+                 
+                
+               
+                ,
+                
+               
+              
+             
+              \right)+\cos \left(y^\right)\right)^,}
+              
+             
+            also showing its gradient projected on the bottom plane.
+        
+       
+       
+      The graph of the trigonometric function 
+      
+       
+          
+           
+            
+            
+             f
+             
+            
+             (
+             
+            
+             x
+             
+            
+             ,
+             
+            
+             y
+             
+            
+             )
+             
+            
+             =
+             
+            
+             sin
+             
+            
+             ⁡
+             
+            
+             (
+             
+             
+             
+              x
+              
+              
+              
+               2
+               
+              
+             
+            
+             )
+             
+            
+             cos
+             
+            
+             ⁡
+             
+            
+             (
+             
+             
+             
+              y
+              
+              
+              
+               2
+               
+              
+             
+            
+             )
+             
+            
+           
+          
+           )\cos(y^)}
+           
+          
+        
+       
+       
+       is 
+      
+       
+          
+           
+            
+            
+             {
+             
+            
+             (
+             
+            
+             x
+             
+            
+             ,
+             
+            
+             y
+             
+            
+             ,
+             
+            
+             sin
+             
+            
+             ⁡
+             
+            
+             (
+             
+             
+             
+              x
+              
+              
+              
+               2
+               
+              
+             
+            
+             )
+             
+            
+             cos
+             
+            
+             ⁡
+             
+            
+             (
+             
+             
+             
+              y
+              
+              
+              
+               2
+               
+              
+             
+            
+             )
+             
+            
+             )
+             
+            
+             :
+             
+            
+             x
+             
+             
+             
+              &nbsp;and&nbsp;
+              
+             
+            
+             y
+             
+             
+             
+              &nbsp;are real numbers
+              
+             
+            
+             }
+             
+            
+             .
+             
+            
+           
+          
+           )\cos(y^)):x}y}\}.}
+           
+          
+        
+       
+       
+       
+      
+      If this set is plotted on a three dimensional Cartesian coordinate system, the result is a surface (see figure). 
+      Oftentimes it is helpful to show with the graph, the gradient of the function and several level curves. The level curves can be mapped on the function surface or can be projected on the bottom plane. The second figure shows such a drawing of the graph of the function: 
+      
+       
+          
+           
+            
+            
+             f
+             
+            
+             (
+             
+            
+             x
+             
+            
+             ,
+             
+            
+             y
+             
+            
+             )
+             
+            
+             =
+             
+            
+             −
+             
+            
+             (
+             
+            
+             cos
+             
+            
+             ⁡
+             
+            
+             (
+             
+             
+             
+              x
+              
+              
+              
+               2
+               
+              
+             
+            
+             )
+             
+            
+             +
+             
+            
+             cos
+             
+            
+             ⁡
+             
+            
+             (
+             
+             
+             
+              y
+              
+              
+              
+               2
+               
+              
+             
+            
+             )
+             
+             
+             
+              )
+              
+              
+              
+               2
+               
+              
+             
+            
+             .
+             
+            
+           
+          
+           )+\cos(y^))^.}
+           
+          
+        
+       
+       
+       
+       
+      Generalizations 
+      The graph of a function is contained in a Cartesian product of sets. An 
+           
+            
+             
+             
+              X
+              
+             
+            
+           
+            
+            
+           
+         –
+           
+            
+             
+             
+              Y
+              
+             
+            
+           
+            
+            
+           
+          plane is a Cartesian product of two lines, called 
+           
+            
+             
+             
+              X
+              
+             
+            
+           
+            
+            
+           
+          and 
+           
+            
+             
+             
+              Y
+              
+             
+              ,
+              
+             
+            
+           
+            
+            
+           
+          while a cylinder is a cartesian product of a line and a circle, whose height, radius, and angle assign precise locations of the points. Fibre bundles are not Cartesian products, but appear to be up close. There is a corresponding notion of a graph on a fibre bundle called a section. 
+      The graph of a multifunction, say the multifunction 
+           
+            
+             
+              
+               
+               
+                R
+                
+               
+              
+             
+              :
+              
+             
+              X
+              
+             
+              ⇉
+              
+             
+              Y
+              
+             
+              ,
+              
+             
+            
+           
+            }:X\rightrightarrows Y,}
+            
+           
+          is the set 
+           
+            
+             
+             
+              gr
+              
+             
+              ⁡
+              
+              
+               
+               
+                R
+                
+               
+              
+             
+              :=
+              
+              
+              
+               {
+               
+               
+               
+                (
+                
+               
+                x
+                
+               
+                ,
+                
+               
+                y
+                
+               
+                )
+                
+               
+                ∈
+                
+               
+                X
+                
+               
+                ×
+                
+               
+                Y
+                
+               
+                :
+                
+               
+                y
+                
+               
+                ∈
+                
+                
+                 
+                 
+                  R
+                  
+                 
+                
+               
+                (
+                
+               
+                x
+                
+               
+                )
+                
+               
+              
+               }
+               
+              
+             
+              .
+              
+             
+            
+           
+             }:=\left\}(x)\right\}.}
+            
+           
+           
+      See also 
+      
+       
+       
+        Asymptote 
+        Chart 
+        Concave function 
+        Convex function 
+        Contour plot 
+        Critical point 
+        Derivative 
+        Epigraph 
+        Normal to a graph 
+        Slope 
+        Stationary point 
+        Tetraview 
+        Vertical translation 
+        y-intercept
+        
+       
+      References 
+      
+       
+       
+         
+         ^ Charles C Pinter (2014) . A Book of Set Theory. Dover Publications. p.&nbsp;49. ISBN&nbsp;978-0-486-79549-2.  
+         ^ 
+           T. M. Apostol (1981). Mathematical Analysis. Addison-Wesley. p.&nbsp;35.  
+         ^ 
+           P. R. Halmos (1982). A Hilbert Space Problem Book. Springer-Verlag. p.&nbsp;31. ISBN&nbsp;0-387-90685-1.  
+         ^ 
+           D. S. Bridges (1991). Foundations of Real and Abstract Analysis. Springer. p.&nbsp;285. ISBN&nbsp;0-387-98239-6.  
+        
+       
+       
+      
+       
+        Zălinescu, Constantin (30 July 2002). Convex Analysis in General Vector Spaces. River Edge, N.J. London: World Scientific Publishing. ISBN&nbsp;978-981-4488-15-0. MR&nbsp;1921556. OCLC&nbsp;285163112 – via Internet Archive.
+       
+      External links 
+       
+       
+         
+          
+         Wikimedia Commons has media related to Function plots.
+         
+       
+       
+      
+       Weisstein, Eric W. "Function Graph." From MathWorld—A Wolfram Web Resource.
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Calculus
+           
+         
+         
+          Precalculus
+          
+            
+            
+             Binomial theorem 
+             Concave function 
+             Continuous function 
+             Factorial 
+             Finite difference 
+             Free variables and bound variables 
+             Graph of a function 
+             Linear function 
+             Radian 
+             Rolle's theorem 
+             Secant 
+             Slope 
+             Tangent
+             
+           
+         
+         
+          Limits
+          
+            
+            
+             Indeterminate form 
+             Limit of a function 
+              
+               One-sided limit
+               
+             Limit of a sequence 
+             Order of approximation 
+             (ε, δ)-definition of limit
+             
+           
+         
+         
+          Differential calculus
+          
+            
+            
+             Derivative 
+             Differential 
+             Differential equation 
+             Differential operator 
+             Mean value theorem 
+             Notation 
+              
+               Leibniz's notation 
+               Newton's notation
+               
+             Rules of differentiation 
+              
+               linearity 
+               Power 
+               Sum 
+               Chain 
+               L'Hôpital's 
+               Product 
+                
+                 General Leibniz's rule
+                 
+               Quotient
+               
+             Other techniques 
+              
+               Implicit differentiation 
+               Inverse functions and differentiation 
+               Logarithmic derivative 
+               Related rates
+               
+             Stationary points 
+              
+               First derivative test 
+               Second derivative test 
+               Extreme value theorem 
+               Maxima and minima
+               
+             Further applications 
+              
+               Newton's method 
+               Taylor's theorem
+              
+             
+           
+         
+         
+          Integral calculus
+          
+            
+            
+             Antiderivative 
+             Arc length 
+             Basic properties 
+             Constant of integration 
+             Fundamental theorem of calculus 
+              
+               Differentiating under the integral sign
+               
+             Integration by parts 
+             Integration by substitution 
+              
+               trigonometric 
+               Euler 
+               Weierstrass
+               
+             Partial fractions in integration 
+              
+               Quadratic integral
+               
+             Trapezoidal rule 
+             Volumes 
+              
+               Washer method 
+               Shell method
+              
+             
+           
+         
+         
+          Vector calculus
+          
+            
+            
+             Derivatives 
+              
+               Curl 
+               Directional derivative 
+               Divergence 
+               Gradient 
+               Laplacian
+               
+             Basic theorems 
+              
+               Line integrals 
+               Green's 
+               Stokes' 
+               Gauss'
+              
+             
+           
+         
+         
+          Multivariable calculus
+          
+            
+            
+             Divergence theorem 
+             Geometric 
+             Hessian matrix 
+             Jacobian matrix and determinant 
+             Lagrange multiplier 
+             Line integral 
+             Matrix 
+             Multiple integral 
+             Partial derivative 
+             Surface integral 
+             Volume integral 
+             Advanced topics 
+              
+               Differential forms 
+               Exterior derivative 
+               Generalized Stokes' theorem 
+               Tensor calculus
+              
+             
+           
+         
+         
+          Sequences and series
+          
+            
+            
+             Arithmetico–geometric sequence 
+             Types of series 
+              
+               Alternating 
+               Binomial 
+               Fourier 
+               Geometric 
+               Harmonic 
+               Infinite 
+               Power 
+                
+                 Maclaurin 
+                 Taylor
+                 
+               Telescoping
+               
+             Tests of convergence 
+              
+               Abel's 
+               Alternating series 
+               Cauchy condensation 
+               Direct comparison 
+               Dirichlet's 
+               Integral 
+               Limit comparison 
+               Ratio 
+               Root 
+               Term
+              
+             
+           
+         
+         
+          Special functionsand numbers
+          
+            
+            
+             Bernoulli numbers 
+             e (mathematical constant) 
+             Exponential function 
+             Natural logarithm 
+             Stirling's approximation
+             
+           
+         
+         
+          History of calculus
+          
+            
+            
+             Adequality 
+             Brook Taylor 
+             Colin Maclaurin 
+             Generality of algebra 
+             Gottfried Wilhelm Leibniz 
+             Infinitesimal 
+             Infinitesimal calculus 
+             Isaac Newton 
+             Fluxion 
+             Law of Continuity 
+             Leonhard Euler 
+             Method of Fluxions 
+             The Method of Mechanical Theorems
+             
+           
+         
+         
+          Lists
+          
+            
+            
+             Differentiation rules 
+             List of integrals of exponential functions 
+             List of integrals of hyperbolic functions 
+             List of integrals of inverse hyperbolic functions 
+             List of integrals of inverse trigonometric functions 
+             List of integrals of irrational functions 
+             List of integrals of logarithmic functions 
+             List of integrals of rational functions 
+             List of integrals of trigonometric functions 
+              
+               Secant 
+               Secant cubed
+               
+             List of limits 
+             Lists of integrals
+             
+           
+         
+         
+          Miscellaneous topics
+          
+            
+            
+             Differential geometry 
+              
+               curvature 
+               of curves 
+               of surfaces
+               
+             Euler–Maclaurin formula 
+             Gabriel's Horn 
+             Integration Bee 
+             Proof that 22/7 exceeds π 
+             Regiomontanus' angle maximization problem 
+             Steinmetz solid
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Graph_of_a_function&amp;oldid=1067009380"
+     
+     
+    
+     
+      Categories: 
+      
+       Charts
+       Functions and mappings
+       Numerical function drawing
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with short description
+       Short description is different from Wikidata
+       Articles needing additional references from August 2014
+       All articles needing additional references
+       Commons category link is on Wikidata
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       Azərbaycanca
+       Беларуская
+       Български
+       Bosanski
+       Català
+       Чӑвашла
+       Čeština
+       Deutsch
+       Ελληνικά
+       Español
+       Esperanto
+       Euskara
+       فارسی
+       Français
+       Gaeilge
+       Galego
+       한국어
+       Հայերեն
+       Hrvatski
+       IsiXhosa
+       Íslenska
+       Italiano
+       עברית
+       ລາວ
+       Latina
+       Lombard
+       Magyar
+       Македонски
+       മലയാളം
+       Nederlands
+       日本語
+       Norsk bokmål
+       Norsk nynorsk
+       پنجابی
+       Polski
+       Română
+       Русский
+       Simple English
+       Slovenčina
+       Slovenščina
+       کوردی
+       Српски / srpski
+       Svenska
+       Tagalog
+       தமிழ்
+       ไทย
+       Тоҷикӣ
+       Türkçe
+       Українська
+       اردو
+       Tiếng Việt
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 21 January 2022, at 06:58&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

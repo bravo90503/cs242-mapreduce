@@ -1,0 +1,953 @@
+
+ 
+  
+   
+  Value sensitive design - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Value sensitive design 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Design method that accounts for human values
+       
+      Value sensitive design (VSD) is a theoretically grounded approach to the design of technology that accounts for human values in a principled and comprehensive manner. VSD originated within the field of information systems design and human-computer interaction to address design issues within the fields by emphasizing the ethical values of direct and indirect stakeholders. It was developed by Batya Friedman and Peter Kahn at the University of Washington starting in the late 1980s and early 1990s. Later, in 2019, Batya Friedman and David G. Hendry wrote a book on this topic called "Value Sensitive Design: Shaping Technology with Moral Imagination". Value Sensitive Design takes human values into account in a well-defined matter throughout the whole process. Designs are developed using an investigation consisting of three phases: conceptual, empirical and technological. These investigations are intended to be iterative, allowing the designer to modify the design continuously. 
+      The VSD approach is often described as an approach that is fundamentally predicated its ability to be modified depending on the technology, value(s), or context of use. Some examples of modified VSD approaches are Privacy by Design which is concerned with respecting the privacy of personally identifiable information in systems and processes. Care-Centered Value Sensitive Design (CCVSD) proposed by Aimee van Wynsberghe is another example of how the VSD approach is modified to account for the values central to care for the design and development of care robots.  
+      
+       
+       
+        Contents
+        
+        
+        1 Design process 
+        2 Criticisms 
+        3 See also 
+        4 References 
+        5 External links 
+        
+       
+      Design process
+       VSD uses an iterative design process that involves three types of investigations: conceptual, empirical and technical. Conceptual investigations aim at understanding and articulating the various stakeholders of the technology, as well as their values and any values conflicts that might arise for these stakeholders through the use of the technology. Empirical investigations are qualitative or quantitative design research studies used to inform the designers' understanding of the users' values, needs, and practices. Technical investigations can involve either analysis of how people use related technologies, or the design of systems to support values identified in the conceptual and empirical investigations. Friedman and Hendry account seventeen methods, including their main purpose, an overview of its function as well as key references: 
+       
+       
+        Stakeholder Analysis (Purpose: Stakeholder identification and legitimation): Identification of individuals, groups, organizations, institutions, and societies that might reasonably be affected by the technology under investigation and in what ways. Two overarching stakeholder categories: (1) those who interact directly with the technology, direct stakeholders; and (2) those indirectly affected by the technology, indirect stakeholders. 
+        Stakeholder Tokens (Purpose: Stakeholder identification and interaction): Playful and versatile toolkit for identifying stakeholders and their interactions. Stakeholder tokens facilitate identifying stakeholders, distinguishing core from peripheral stakeholders, surfacing excluded stakeholders, and articulating relationships among stakeholders. 
+        Value Source Analysis (Purpose: Identify value sources): Distinguish among the explicitly supported project values, designers’ personal values, and values held by other direct and indirect stakeholders. 
+        Co-evolution of Technology and Social Structure (Purpose: Expand design space): Expanding the design space to include social structures integrated with technology may yield new solutions not possible when considering the technology alone. As appropriate, engage with the design of both technology and social structure as part of the solution space. Social structures may include policy, law, regulations, organizational practices, social norms, and others. 
+        Value Scenario (Purpose: Values representation and elicitation): Narratives, comprising stories of use, intended to surface human and technical aspects of technology and context. Value scenarios emphasize implications for direct and indirect stakeholders, related key values, widespread use, indirect impacts, longer-term use, and similar systemic effects. 
+        Value Sketch (Purpose: Values representation and elicitation): Sketching activities as a way to tap into stakeholders’ non-verbal understandings, views, and values about a technology. 
+        Value-oriented Semi-structured Interview (Purpose: Values elicitation): Semi-structured interview questions as a way to tap into stakeholders’ understandings, views and values about a technology. Questions typically emphasize stakeholders’ evaluative judgments (e.g., all right or not all right) about a technology as well as rationale (e.g., why?). Additional considerations introduced by the stakeholder are pursued. 
+        Scalable Information Dimensions (Purpose: Values elicitation): Sets of questions constructed to tease apart the impact of pervasiveness, proximity, granularity of information, and other scalable dimensions. Can be used in interview or survey formats. 
+        Value-oriented Coding Manual (Purpose: Values analysis): Hierarchically structured categories for coding qualitative responses to the value representation and elicitation methods. Coding categories are generated from the data and a conceptualization of the domain. Each category contains a label, definition, and typically up to three sample responses from empirical data. Can be applied to oral, written, and visual responses. 
+        Value-oriented Mockup, Prototype or Field Deployment (Purpose: Values representation and elicitation): Development, analysis, and co-design of mockups, prototypes and field deployments to scaffold the investigation of value implications of technologies that are yet to be built or widely adopted. Mock-ups, prototypes or field deployments emphasize implications for direct and indirect stakeholders, value tensions, and technology situated in human contexts. 
+        Ethnographically Informed Inquiry regarding Values and Technology (Purpose: Values, technology and social structure framework and analysis): Framework and approach for data collection and analysis to uncover the complex relationships among values, technology and social structure as those relationships unfold. Typically involves indepth engagement in situated contexts over longer periods of time. 
+        Model for Informed Consent Online (Purpose: Design principles and values analysis): Model with corresponding design principles for considering informed consent in online contexts. The construct of informed encompasses disclosure and comprehension; that of consent encompasses voluntariness, competence, and agreement. Furthermore, implementations of informed consent. 
+        Value Dams and Flows (Purpose: Values analysis): Analytic method to reduce the solution space and resolve value tensions among design choices. First, design options that even a small percentage of stakeholders strongly object to are removed from the design space—the value dams. Then of the remaining design options, those that a good percentage of stakeholders find appealing are foregrounded in the design—the value flows. Can be applied to the design of both technology and social structures. 
+        Value Sensitive Action-Reflection Model (Purpose: Values representation and elicitation): Reflective process for introducing value sensitive prompts into a co-design activity. Prompts can be designer or stakeholder generated. 
+        Multi-lifespan timeline (Purpose: Priming longer-term and multi-generational design thinking): Priming activity for longer-term design thinking. Multi-lifespan timelines prompt individuals to situate themselves in a longer time frame relative to the present, with attention to both societal and technological change. 
+        Multi-lifespan co-design (Purpose: Longer-term design thinking and envisioning): Co-design activities and processes that emphasize longer-term anticipatory futures with implications for multiple and future generations. 
+        Envisioning Cards (Purpose: Value sensitive design toolkit for industry, research, and educational practice): Value sensitive envisioning toolkit. A set of 32 cards, the Envisioning Cards build on four criteria: stakeholders, time, values, and pervasiveness. Each card contains on one side a title and an evocative image related to the card theme; on the flip side, the envisioning criterion, card theme, and a focused design activity. Envisioning Cards can be used for ideation, co-design, heuristic critique, and evaluation.
+        
+       
+      Criticisms 
+      VSD is not without its criticisms. Two commonly cited criticisms are critiques of the heuristics of values on which VSD is built. These critiques have been forwarded by Le Dantec et al. and Manders-Huits. Le Dantec et al. argue that formulating a pre-determined list of implicated values runs the risk of ignoring important values that can be elicited from any given empirical case by mapping those value a priori. Manders-Huits instead takes on the concept of ‘values’ itself with VSD as the central issue. She argues that the traditional VSD definition of values as “what a person or group of people consider important in life” is nebulous and runs the risk of conflating stakeholders preferences with moral values. 
+      Wessel Reijers and Bert Gordijn have built upon the criticisms of Le Dantec et alia and Manders-Huits that the value heuristics of VSD are insufficient given their lack of moral commitment. They propose that a heuristic of virtues stemming from a virtue ethics approach to technology design, mostly influenced by the works of Shannon Vallor, provides a more holistic approach to technology design. Steven Umbrello has criticized this approach arguing that not only can the heuristic of values be reinforced but that VSD does make moral commitments to at least three universal values: human well-being,&nbsp;justice&nbsp;and&nbsp;dignity. Batya Friedman and David Hendry, in "Value Sensitive Design: Shaping Technology with Moral Imagination", argue that although earlier iterations of the VSD approach did not make explicit moral commitments, it has since evolved over the past two decades to commit to at least those three fundamental values. 
+      VSD as a standalone approach has also been criticized as being insufficient for the ethical design of artificial intelligence. This criticism is predicated on the self-learning and opaque artificial intelligence techniques like those stemming from machine learning and, as a consequence, the unforeseen or unforeseeable values or disvalues that may emerge after the deployment of an AI system. Steven Umbrello and Ibo van de Poel propose a modified VSD approach that uses the Artificial Intelligence for Social Good (AI4SG) factors as norms to translate abstract philosophical values into tangible design requirements. What they propose is that full-lifecycle monitoring is necessary to encourage redesign in the event that unwanted values manifest themselves during the deployment of a system.  
+      See also 
+      
+       UrbanSim 
+       Batya Friedman 
+       Jeroen van den Hoven 
+       Ibo van de Poel 
+       Aimee van Wynsberghe 
+       Alan Borning 
+       Behnam Taebi 
+       Steven Umbrello 
+       Values-based innovation 
+       Positive computing
+       
+      References 
+      
+       
+       
+         
+         ^ Himma, Kenneth Einar; Tavani, Herman T., eds. (2008). The Handbook of Information and Computer Ethics (PDF). John Wiley &amp; Sons Inc. ISBN&nbsp;978-0-471-79959-7. Retrieved 8 July 2016.  
+         ^ 
+           Friedman, Batya; Hendry, David G.; Borning, Alan (2017-11-21). "A Survey of Value Sensitive Design Methods". Foundations and Trends in Human–Computer Interaction. 11 (2): 63–125. doi:10.1561/1100000015. ISSN&nbsp;1551-3955.  
+         ^ 
+           Friedman, Batya; Kahn, Peter H.; Borning, Alan; Huldtgren, Alina (2013), Doorn, Neelke; Schuurbiers, Daan; van de Poel, Ibo; Gorman, Michael E. (eds.), "Value Sensitive Design and Information Systems", Early engagement and new technologies: Opening up the laboratory, Philosophy of Engineering and Technology, Springer Netherlands, pp.&nbsp;55–95, doi:10.1007/978-94-007-7844-3_4, ISBN&nbsp;9789400778443, S2CID&nbsp;8176837  
+         ^ 
+           Borning, Alan; Muller, Michael (2012). "Next Steps for Value Sensitive Design". Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. CHI '12. New York, NY, USA: ACM: 1125–1134. doi:10.1145/2207676.2208560. ISBN&nbsp;9781450310154.  
+         ^ a b c d 
+           Friedman, Batya; Hendry, David G. (2019-05-03). Value Sensitive Design: Shaping Technology with Moral Imagination. MIT Press. ISBN&nbsp;9780262351706.  
+         ^ 
+           Friedman, Batya; Kahn, Peter H.; Jr (2002). "Value Sensitive Design: Theory and Methods". CiteSeerX&nbsp;10.1.1.11.8020. }: Cite journal requires |journal= (help)  
+         ^ 
+           Philosophy, Engineering &amp; Technology (18 May 2010). "Value Sensitive Design: Four Challenges". slideshare.net. Archived from the original on 7 March 2016. Retrieved 24 April 2018.  
+         ^ 
+           Umbrello, Steven (2020-04-01). "Imaginative Value Sensitive Design: Using Moral Imagination Theory to Inform Responsible Technology Design". Science and Engineering Ethics. 26 (2): 575–595. doi:10.1007/s11948-019-00104-4. hdl:2318/1699361. ISSN&nbsp;1471-5546. PMID&nbsp;30972629. S2CID&nbsp;108295110.  
+         ^ 
+           van den Hoven, Jeroen (2007). Goujon, Philippe; Lavelle, Sylvian; Duquenoy, Penny; Kimppa, Kai; Laurent, Véronique (eds.). "ICT and Value Sensitive Design". The Information Society: Innovation, Legitimacy, Ethics and Democracy in Honor of Professor Jacques Berleur S.j. IFIP International Federation for Information Processing. Boston, MA: Springer US. 233: 67–72. doi:10.1007/978-0-387-72381-5_8. ISBN&nbsp;978-0-387-72381-5.  
+         ^ a b 
+           Longo, Francesco; Padovano, Antonio; Umbrello, Steven (January 2020). "Value-Oriented and Ethical Technology Engineering in Industry 5.0: A Human-Centric Perspective for the Design of the Factory of the Future". Applied Sciences. 10 (12): 4182. doi:10.3390/app10124182.  
+         ^ 
+           Spiekermann, Sarah (July 2012). "The challenges of privacy by design". Communications of the ACM. 55 (7): 38–40. doi:10.1145/2209249.2209263. ISSN&nbsp;0001-0782. S2CID&nbsp;3023111.  
+         ^ 
+           van Wynsberghe, Aimee (2013-06-01). "Designing Robots for Care: Care Centered Value-Sensitive Design". Science and Engineering Ethics. 19 (2): 407–433. doi:10.1007/s11948-011-9343-6. ISSN&nbsp;1471-5546. PMC&nbsp;3662860. PMID&nbsp;22212357.  
+         ^ Friedman, B., Kahn Jr, P. H., Borning, A., &amp; Kahn, P. H. (2006). Value Sensitive Design and information systems. Human-Computer Interaction and Management Information Systems: Foundations. ME Sharpe, New York, 348–372.  
+         ^ a b 
+           Friedman, Batya; Jr, Peter H. Kahn; Hagman, Jennifer; Severson, Rachel L.; Gill, Brian (2006-05-01). "The Watcher and the Watched: Social Judgments About Privacy in a Public Place". Human–Computer Interaction. 21 (2): 235–272. doi:10.1207/s15327051hci2102_3. ISSN&nbsp;0737-0024. S2CID&nbsp;54165089.  
+         ^ a b 
+           Nathan, Lisa P.; Friedman, Batya; Klasnja, Predrag; Kane, Shaun K.; Miller, Jessica K. (2008-02-25). "Envisioning systemic effects on persons and society throughout interactive system design". Proceedings of the 7th ACM Conference on Designing Interactive Systems. DIS '08. Cape Town, South Africa: Association for Computing Machinery: 1–10. doi:10.1145/1394445.1394446. ISBN&nbsp;978-1-60558-002-9. S2CID&nbsp;2412766.  
+         ^ a b c d e 
+           Czeskis, Alexei; Dermendjieva, Ivayla; Yapit, Hussein; Borning, Alan; Friedman, Batya; Gill, Brian; Kohno, Tadayoshi (2010-07-14). "Parenting from the pocket: value tensions and technical directions for secure and private parent-teen mobile safety". Proceedings of the Sixth Symposium on Usable Privacy and Security. SOUPS '10. Redmond, Washington, USA: Association for Computing Machinery: 1–15. doi:10.1145/1837110.1837130. ISBN&nbsp;978-1-4503-0264-7. S2CID&nbsp;13951473.  
+         ^ 
+           Watkins, Kari Edison; Ferris, Brian; Malinovskiy, Yegor; Borning, Alan (2013-11-27). "Beyond Context-Sensitive Solutions: Using Value-Sensitive Design to Identify Needed Transit Information Tools". Urban Public Transportation Systems 2013. pp.&nbsp;296–308. doi:10.1061/9780784413210.026. ISBN&nbsp;9780784413210.  
+         ^ 
+           Yoo, Daisy (2018-08-04). "Stakeholder Tokens: a constructive method for value sensitive design stakeholder analysis". Ethics and Information Technology. 23: 63–67. doi:10.1007/s10676-018-9474-4. ISSN&nbsp;1572-8439. S2CID&nbsp;52048390.  
+         ^ a b 
+           Borning, Alan; Friedman, Batya; Davis, Janet; Lin, Peyina (2005). Gellersen, Hans; Schmidt, Kjeld; Beaudouin-Lafon, Michel; Mackay, Wendy (eds.). "Informing Public Deliberation: Value Sensitive Design of Indicators for a Large-Scale Urban Simulation". Ecscw 2005. Dordrecht: Springer Netherlands: 449–468. doi:10.1007/1-4020-4023-7_23. ISBN&nbsp;978-1-4020-4023-8.  
+         ^ 
+           Friedman, Batya; Smith, Ian; H. Kahn, Peter; Consolvo, Sunny; Selawski, Jaina (2006). Dourish, Paul; Friday, Adrian (eds.). "Development of a Privacy Addendum for Open Source Licenses: Value Sensitive Design in Industry". UbiComp 2006: Ubiquitous Computing. Lecture Notes in Computer Science. Berlin, Heidelberg: Springer. 4206: 194–211. doi:10.1007/11853565_12. ISBN&nbsp;978-3-540-39635-2.  
+         ^ a b c 
+           Miller, Jessica K.; Friedman, Batya; Jancke, Gavin; Gill, Brian (2007-11-04). "Value tensions in design: the value sensitive design, development, and appropriation of a corporation's groupware system". Proceedings of the 2007 International ACM Conference on Supporting Group Work. GROUP '07. Sanibel Island, Florida, USA: Association for Computing Machinery: 281–290. doi:10.1145/1316624.1316668. ISBN&nbsp;978-1-59593-845-9. S2CID&nbsp;2633485.  
+         ^ 
+           Friedman, Batya; Hurley, David; Howe, Daniel C.; Felten, Edward; Nissenbaum, Helen (2002-04-20). "Users' conceptions of web security: a comparative study". CHI '02 Extended Abstracts on Human Factors in Computing Systems. CHI EA '02. Minneapolis, Minnesota, USA: Association for Computing Machinery: 746–747. doi:10.1145/506443.506577. ISBN&nbsp;978-1-58113-454-4. S2CID&nbsp;27784060.  
+         ^ 
+           Woelfer, Jill Palzkill; Iverson, Amy; Hendry, David G.; Friedman, Batya; Gill, Brian T. (2011-05-07). "Improving the safety of homeless young people with mobile phones: values, form and function". Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. CHI '11. Vancouver, BC, Canada: Association for Computing Machinery: 1707–1716. doi:10.1145/1978942.1979191. ISBN&nbsp;978-1-4503-0228-9. S2CID&nbsp;41591259.  
+         ^ a b 
+           Friedman, Batya (1997-08-01). "Social Judgments and technological innovation: Adolescents' understanding of property, privacy, and electronic information". Computers in Human Behavior. 13 (3): 327–351. doi:10.1016/S0747-5632(97)00013-7. ISSN&nbsp;0747-5632.  
+         ^ a b 
+           Freier, Nathan G. (2008-04-06). "Children attribute moral standing to a personified agent". Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. CHI '08. Florence, Italy: Association for Computing Machinery: 343–352. doi:10.1145/1357054.1357113. ISBN&nbsp;978-1-60558-011-1. S2CID&nbsp;15580819.  
+         ^ 
+           Umbrello, Steven; van de Poel, Ibo (2021). "Mapping value sensitive design onto AI for social good principles". AI and Ethics. Springer Nature. 1 (3): 283–296. doi:10.1007/s43681-021-00038-3. S2CID&nbsp;231744217.  
+         ^ 
+           Munson, Sean A.; Avrahami, Daniel; Consolvo, Sunny; Fogarty, James; Friedman, Batya; Smith, Ian (2011-06-12). "Attitudes toward online availability of US public records". Proceedings of the 12th Annual International Digital Government Research Conference: Digital Government Innovation in Challenging Times. dg.o '11. College Park, Maryland, USA: Association for Computing Machinery: 2–9. doi:10.1145/2037556.2037558. ISBN&nbsp;978-1-4503-0762-8. S2CID&nbsp;10276344.  
+         ^ 
+           Woelfer, Jill Palzkill; Hendry, David G. (2009). "Stabilizing homeless young people with information and place". Journal of the American Society for Information Science and Technology. 60 (11): 2300–2312. doi:10.1002/asi.21146. ISSN&nbsp;1532-2890.  
+         ^ a b 
+           Denning, Tamara; Borning, Alan; Friedman, Batya; Gill, Brian T.; Kohno, Tadayoshi; Maisel, William H. (2010-04-10). "Patients, pacemakers, and implantable defibrillators: human values and security for wireless implantable medical devices". Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. CHI '10. Atlanta, Georgia, USA: Association for Computing Machinery: 917–926. doi:10.1145/1753326.1753462. ISBN&nbsp;978-1-60558-929-9. S2CID&nbsp;16571765.  
+         ^ a b c 
+           Yoo, Daisy; Huldtgren, Alina; Woelfer, Jill Palzkill; Hendry, David G.; Friedman, Batya (2013-04-27). "A value sensitive action-reflection model: evolving a co-design space with stakeholder and designer prompts". Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. CHI '13. Paris, France: Association for Computing Machinery: 419–428. doi:10.1145/2470654.2470715. ISBN&nbsp;978-1-4503-1899-0. S2CID&nbsp;2603883.  
+         ^ 
+           Nathan, Lisa P. (2012). "Sustainable information practice: An ethnographic investigation". Journal of the American Society for Information Science and Technology. 63 (11): 2254–2268. doi:10.1002/asi.22726. ISSN&nbsp;1532-2890.  
+         ^ 
+           Millett, Lynette I.; Friedman, Batya; Felten, Edward (2001-03-01). "Cookies and Web browser design: toward realizing informed consent online". Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. CHI '01. Seattle, Washington, USA: Association for Computing Machinery: 46–52. doi:10.1145/365024.365034. ISBN&nbsp;978-1-58113-327-1. S2CID&nbsp;1596706.  
+         ^ a b 
+           Yoo, Daisy; Derthick, Katie; Ghassemian, Shaghayegh; Hakizimana, Jean; Gill, Brian; Friedman, Batya (2016-05-07). "Multi-lifespan Design Thinking: Two Methods and a Case Study with the Rwandan Diaspora". Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems. CHI '16. San Jose, California, USA: Association for Computing Machinery: 4423–4434. doi:10.1145/2858036.2858366. ISBN&nbsp;978-1-4503-3362-7. S2CID&nbsp;2148594.  
+         ^ 
+           Kaptein, Maurits; Eckles, Dean; Davis, Janet (2011-09-01). "Envisioning persuasion profiles: challenges for public policy and ethical practice". Interactions. 18 (5): 66–69. doi:10.1145/2008176.2008191. ISSN&nbsp;1072-5520. S2CID&nbsp;11099713.  
+         ^ 
+           Friedman, Batya; Hendry, David (2012-05-05). "The envisioning cards: a toolkit for catalyzing humanistic and technical imaginations". Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. CHI '12. Austin, Texas, USA: Association for Computing Machinery: 1145–1148. doi:10.1145/2207676.2208562. ISBN&nbsp;978-1-4503-1015-4. S2CID&nbsp;24059203.  
+         ^ a b 
+           Umbrello, Steven (2020-10-30). "Combinatory and Complementary Practices of Values and Virtues in Design: A Reply to Reijers and Gordijn". Filosofia (in Italian) (65): 107–121 Paginazione. doi:10.13135/2704-8195/5236.  
+         ^ a b 
+           Reijers, Wessel; Gordijn, Bert (2019-05-13). "Moving from value sensitive design to virtuous practice design". Journal of Information, Communication and Ethics in Society. 17 (2): 196–209. doi:10.1108/JICES-10-2018-0080. hdl:1814/63270. ISSN&nbsp;1477-996X.  
+         ^ a b 
+           Le Dantec, Christopher A.; Poole, Erika Shehan; Wyche, Susan P. (2009). "Values as lived experience". Proceedings of the 27th International Conference on Human Factors in Computing Systems - CHI 09. New York, New York, USA: ACM Press: 1141. doi:10.1145/1518701.1518875. ISBN&nbsp;978-1-60558-246-7. S2CID&nbsp;13933217.  
+         ^ a b 
+           Manders-Huits, Noëmi (2011-06-01). "What Values in Design? The Challenge of Incorporating Moral Values into Design". Science and Engineering Ethics. 17 (2): 271–287. doi:10.1007/s11948-010-9198-2. ISSN&nbsp;1471-5546. PMC&nbsp;3124645. PMID&nbsp;20224927.  
+         ^ 
+           Umbrello, Steven (2018-05-04). "The moral psychology of value sensitive design: the methodological issues of moral intuitions for responsible innovation". Journal of Responsible Innovation. 5 (2): 186–200. doi:10.1080/23299460.2018.1457401. hdl:2318/1685524. ISSN&nbsp;2329-9460.  
+         ^ 
+           van de Poel, Ibo (September 2020). "Embedding Values in Artificial Intelligence (AI) Systems". Minds and Machines. 30 (3): 385–409. doi:10.1007/s11023-020-09537-4. ISSN&nbsp;0924-6495. S2CID&nbsp;222354603.  
+         ^ 
+           Floridi, Luciano; Cowls, Josh; King, Thomas C.; Taddeo, Mariarosaria (June 2020). "How to Design AI for Social Good: Seven Essential Factors". Science and Engineering Ethics. 26 (3): 1771–1796. doi:10.1007/s11948-020-00213-5. ISSN&nbsp;1353-3452. PMC&nbsp;7286860. PMID&nbsp;32246245.  
+         ^ 
+           Umbrello, Steven; van de Poel, Ibo (2021-02-01). "Mapping value sensitive design onto AI for social good principles". AI and Ethics. 1 (3): 283–296. doi:10.1007/s43681-021-00038-3. ISSN&nbsp;2730-5953. PMC&nbsp;7848675.  
+        
+       
+       
+      External links 
+      
+       Value Sensitive Design Research Lab 
+       Blackwell Reference Online: Value Sensitive Design
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Design
+           
+         
+         
+          
+            
+            
+             Outline 
+             Designer
+             
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Disciplines
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Communicationdesign
+                  
+                    
+                    
+                     Advertising 
+                     Book design 
+                     Brand design 
+                     Exhibit design 
+                     Film title design 
+                     Graphic design 
+                      
+                       Motion 
+                       Postage stamp design 
+                       Print design
+                       
+                     Illustration 
+                     Information design 
+                     Instructional design 
+                     News design 
+                     Photography 
+                     Retail design 
+                     Signage&nbsp;/ Traffic sign design 
+                     Typography&nbsp;/ Type design 
+                     Video design 
+                     Visual merchandising
+                     
+                   
+                 
+                 
+                  Environmentaldesign
+                  
+                    
+                    
+                     Architecture 
+                     Architectural lighting design 
+                     Building design 
+                      
+                       Passive solar
+                       
+                     Ecological design 
+                     Environmental impact design 
+                     Garden design 
+                      
+                       Computer-aided
+                       
+                     Healthy community design 
+                     Hotel design 
+                     Interior architecture 
+                     Interior design 
+                      
+                       EID
+                       
+                     Keyline design 
+                     Landscape architecture 
+                      
+                       Sustainable
+                       
+                     Landscape design 
+                     Spatial design 
+                     Urban design
+                     
+                   
+                 
+                 
+                  Industrialdesign
+                  
+                    
+                    
+                     Automotive design 
+                     Automotive suspension design 
+                     CMF design 
+                     Corrugated box design 
+                     Electric guitar design 
+                     Furniture design 
+                      
+                       Sustainable
+                       
+                     Hardware interface design 
+                     Motorcycle design 
+                     Packaging and labeling 
+                     Photographic lens design 
+                     Product design 
+                     Production design 
+                     Sensory design 
+                     Service design
+                     
+                   
+                 
+                 
+                  Interactiondesign
+                  
+                    
+                    
+                     Experience design 
+                      
+                       EED
+                       
+                     Game design 
+                      
+                       Level design 
+                       Video game design
+                       
+                     Hardware interface design 
+                     Icon design 
+                     Immersive design 
+                     Information design 
+                     Sonic interaction design 
+                     User experience design 
+                     User interface design 
+                     Web design
+                     
+                   
+                 
+                 
+                  Otherapplied arts
+                  
+                    
+                    
+                     Public art design 
+                     Ceramic&nbsp;/ glass design 
+                     Fashion design 
+                      
+                       Costume design 
+                       Jewellery design
+                       
+                     Floral design 
+                     Game art design 
+                     Property design 
+                     Scenic design 
+                     Sound design 
+                     Stage/set lighting design 
+                     Textile design
+                     
+                   
+                 
+                 
+                  Otherdesign&amp; engineering
+                  
+                    
+                    
+                     Algorithm design 
+                     Behavioural design 
+                     Boiler design 
+                     Database design 
+                     Drug design 
+                     Electrical system design 
+                     Experimental design 
+                     Filter design 
+                     Geometric design 
+                     Work design 
+                     Integrated circuit design 
+                      
+                       Circuit design 
+                       Physical design 
+                       Power network design
+                       
+                     Mechanism design 
+                     Nuclear weapon design 
+                     Nucleic acid design 
+                     Organization design 
+                     Process design 
+                     Processor design 
+                     Protein design 
+                     Research design 
+                     Social design 
+                     Software design 
+                     Spacecraft design 
+                     Strategic design 
+                     Systems design
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Approaches
+               
+             
+             
+              
+                
+                
+                 Activity-centered 
+                 Adaptive web 
+                 Affective 
+                 Brainstorming 
+                 By committee 
+                 By contract 
+                 C-K theory 
+                 Closure 
+                 Co-design 
+                 Concept-oriented 
+                 Configuration 
+                 Contextual 
+                 Continuous 
+                 Cradle-to-cradle 
+                 Creative problem-solving 
+                 Creativity techniques 
+                 Critical 
+                  
+                   Design fiction
+                   
+                 Defensive 
+                 Design–bid–build 
+                 Design–build 
+                  
+                   architect-led
+                   
+                 Diffuse 
+                 Domain-driven 
+                 Ecological design 
+                 Energy neutral 
+                 Engineering design process 
+                  
+                   Probabilistic design
+                   
+                 Error-tolerant 
+                 Fault-tolerant 
+                 Framework-oriented 
+                 For assembly 
+                 For behaviour change 
+                 For manufacturability 
+                 For Six Sigma 
+                 For testing 
+                 For X 
+                 Functional 
+                 Generative 
+                 Geodesign 
+                 HCD 
+                 High-level 
+                 Inclusive 
+                 Integrated 
+                 Integrated topside 
+                 Intelligence-based 
+                 Iterative 
+                 KISS principle 
+                 Low-level 
+                 Metadesign 
+                 Mind mapping 
+                 Modular 
+                 New Wave 
+                 Object-oriented 
+                 Open 
+                 Parametric 
+                 Participatory 
+                 Platform-based 
+                 Policy-based 
+                 Process-centered 
+                 Public interest 
+                 Rational 
+                 Regenerative 
+                 Reliability engineering 
+                 Research-based 
+                 Responsibility-driven 
+                 RWD 
+                 Safe-life 
+                 Sustainable 
+                 Systemic 
+                  
+                   SOD
+                   
+                 Tableless web 
+                 Theory of constraints 
+                 Top-down and bottom-up 
+                 Transformation 
+                 Transgenerational 
+                 TRIZ 
+                 Universal 
+                  
+                   Design for All
+                   
+                 Usage-centered 
+                 Use-centered 
+                 User-centered 
+                  
+                   Empathic
+                   
+                 User innovation 
+                 Value-driven 
+                 Value sensitive 
+                  
+                   Privacy by
+                  
+                 
+                
+                 Design choice 
+                 computing 
+                 controls 
+                 culture 
+                 flow 
+                 leadership 
+                 management 
+                 marker 
+                 methods 
+                 pattern 
+                 research 
+                 science 
+                 sprint 
+                 strategy 
+                 theory 
+                 thinking
+                 
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                
+                 
+                  Tools
+                  Intellectual property
+                  Organizations
+                  Awards
+                 
+                
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Tools
+                  
+                    
+                    
+                     AAD 
+                     Architectural model 
+                     Blueprint 
+                     Comprehensive layout 
+                     CAD 
+                      
+                       CAID 
+                       Virtual home design software
+                       
+                     CAutoD 
+                     Design quality indicator 
+                     Electronic design automation 
+                     Flowchart 
+                     Mockup 
+                     Design specification 
+                     Prototype 
+                     Sketch 
+                     Storyboard 
+                     Technical drawing 
+                     HTML editor 
+                     Website wireframe
+                     
+                   
+                 
+                 
+                  Intellectualproperty
+                  
+                    
+                    
+                     Community design 
+                     Design around 
+                     Design infringement 
+                     Design patent 
+                     Fashion design copyright 
+                     Geschmacksmuster 
+                     Industrial design rights 
+                      
+                       European Union
+                      
+                     
+                   
+                 
+                 
+                  Organizations
+                  
+                    
+                    
+                     American Institute of Graphic Arts 
+                     Chartered Society of Designers 
+                     Design and Industries Association 
+                     Design Council 
+                     International Forum Design 
+                     The Design Society 
+                     Design Research Society
+                     
+                   
+                 
+                 
+                  Awards
+                  
+                    
+                    
+                     European Design Award 
+                     German Design Award 
+                     Good Design Award (Museum of Modern Art) 
+                     Good Design Award (Chicago Athenaeum) 
+                     Graphex 
+                     IF Product Design Award 
+                     James Dyson Award 
+                     Prince Philip Designers Prize
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Related topics
+               
+             
+             
+              
+                
+                
+                 Aesthetics 
+                 Agile 
+                 Concept art 
+                 Conceptual design 
+                 Creative industries 
+                 Cultural icon 
+                 .design 
+                 Enterprise architecture 
+                 Form factor 
+                 Futures studies 
+                 Indie design 
+                 Innovation management 
+                 Intelligent design 
+                 Lean startup 
+                 New product development 
+                 OODA loop 
+                 Philosophy of design 
+                 Process simulation 
+                 Slow design 
+                 STEAM fields 
+                 Unintelligent design 
+                 Visualization 
+                 Wicked problem
+                 
+                
+                 Design brief 
+                 change 
+                 classic 
+                 competition 
+                  
+                   architectural 
+                   student
+                   
+                 director 
+                 education 
+                 elements and principles 
+                 engineer 
+                 firm 
+                 history 
+                 knowledge 
+                 language 
+                 life 
+                 load 
+                 museum 
+                 paradigm 
+                 rationale 
+                 review 
+                 specification 
+                 studies 
+                 studio 
+                 technology
+                 
+               
+             
+            
+           
+           
+         
+         
+          
+            
+            
+              Commons  
+              Wikibooks  
+              Wikinews  
+              Wikiquote  
+              Wikisource  
+              Wiktionary 
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Value_sensitive_design&amp;oldid=1053240209"
+     
+     
+    
+     
+      Categories: 
+      
+       Information systems
+       Architectural design
+       Human–computer interaction
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 errors: missing periodical
+       CS1 Italian-language sources (it)
+       Articles with short description
+       Short description is different from Wikidata
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+       
+      
+       Add links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 2 November 2021, at 19:09&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

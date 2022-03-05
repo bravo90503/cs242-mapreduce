@@ -1,0 +1,540 @@
+
+ 
+  
+   
+  Michael D. Maltz - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Michael D. Maltz 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+    
+     &nbsp;&nbsp;(Redirected from Michael Maltz)
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This biography of a living person needs additional citations for verification. Please help by adding reliable sources. Contentious material about living persons that is unsourced or poorly sourced must be removed immediately, especially if potentially libelous or harmful.Find sources:&nbsp;"Michael D. Maltz"&nbsp;–&nbsp;news&nbsp;· newspapers&nbsp;· books&nbsp;· scholar&nbsp;· JSTOR (February 2013) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      Michael D. Maltz (born 1938) is an American electrical engineer, criminologist and Emeritus Professor at University of Illinois at Chicago in criminal justice, and adjunct professor and researcher at Ohio State University.  
+      
+       
+       
+        Contents
+        
+        
+        1 Biography 
+        2 Work 
+        3 Publications 
+        4 References 
+        5 External links 
+        
+       
+      Biography 
+      Michael Maltz was born in Brooklyn, New York on December 18, 1938. He attended Stuyvesant High School in New York City, graduating in 1955, and Rensselaer Polytechnic Institute, graduating with a degree in electrical engineering in 1959. In 1963, Maltz earned a Ph.D. in electrical engineering from Stanford University. 
+      In 1967, his son David Maltz was born. 
+      Maltz was a professor (1972–2002) at University of Illinois at Chicago in criminal justice and in Information and Decision Sciences, and is currently an adjunct professor of sociology and researcher at Ohio State University. He was also the editor of the Journal of Quantitative Criminology from 1996 to 2000. In addition he was a Visiting Fellow for Research and Policy Studies at the US Bureau of Justice Statistics, from 1995 to 2000. 
+      In 1985 Maltz was awarded the prestigious Lanchester Prize by the Operations Research Society of America, recognizing his book Recidivism as that year's "best contribution to operations research and the management sciences published in English". This book also won the Leslie T. Wilkins Award for the Outstanding Book in the Fields of Criminology and Criminal Justice. In 1996 Maltz had a Fulbright Scholarship at El Colegio de Michoacán in Mexico.  
+      Work 
+      Michael Maltz's research focuses on the application of operations research and data visualization to the field of criminology. In addition to authoring books on recidivism and crime mapping, he has been a strong advocate of ensuring that inferences made from data are not attributable to biases in the data used, nor to the way they were collected, nor to the methods used to analyze them. This interest has surfaced most publicly in his critique of John Lott's More Guns, Less Crime (see "A Note on the Use of County-Level Crime Data" and "Measurement and Other Errors in County-Level UCR Data: A reply to Lott and Whitley" below) based primarily on a detailed analysis of the validity of the Uniform Crime Reports data set that Lott used to draw his conclusions. A further critique, of the way Lott responded to his analysis, was contained in a blog entry. 
+      He led an effort to clean the FBI-collected Uniform Crime Reports crime data, which is available in a zip file on the web from the Historical Violence Database, housed at Ohio State University. 
+      A particularly lucid explanation of the pitfalls of improper use of statistics in social science (and, in particular, criminology) is contained in his article "Deviating from the Mean: The Declining Significance of Significance".  
+      Publications 
+      Maltz has published numerous books and articles on techniques for making valid and useful inferences from data. Among his books are two which are available on his academia.edu website (see below):  
+      
+       1984. Recidivism. Orlando, Florida: Academic Press, Inc. 
+       1991 Mapping Crime in Its Community Setting: Event Geography Analysis. With Andrew C. Gordon and Warren Friedman. New York&nbsp;: Springer-Verlag Inc. 
+       Envisioning Criminology, coedited with Steven K. Rice, Springer 2015. 
+       Envisioning Criminology, coedited with Steven K. Rice, Springer 2018.
+       
+      Articles and book chapters, a selection:  
+      
+       1994. "Deviating from the Mean: The Declining Significance of Significance". In: Journal of research in crime and delinquency, Vol. 31 No. 4, November 1994 434-463. 
+       1996. "Power to the People: Crime Mapping and Information Sharing in the Chicago Police Department". Paper with Marc Buslik. 
+       1999. "Bridging Gaps in Police Crime Data". Report published by the Bureau of Justice Statistics. 
+       1999. "Displaying Violent Crime Trends Using Estimates from the National Crime Victimization Survey" With Marianne Zawitz. Published by the Bureau of Justice Statistics. 
+       2000. "Crime and Justice". With Arnold Barnett and Jonathan Caulkins. In: Encyclopedia of Operations Research and Management Science. Saul I. Gass and Carl M. Harris (Editor). Springer. 
+       2002. "A Note on the Use of County-Level UCR Data". With Joseph Targonski. In: Journal of Quantitatiûe Criminology, Vol. 18, No. 3, September 2002. 
+       2006. "Some p-baked thoughts (p &gt; 0.5) on experiments and statistical significance". Journal of Experimental Criminology, 1, 2, 211-226. 
+       2009. "Waves, particles, and crime", in Putting Crime in Its Place:Units of Analysis in Geographic Criminology, W. Bernasco, G. Bruinsma, and D. Weisburd, Eds., Springer-Verlag. 
+       2009. "Look before you analyze: Visualizing data in criminal justice," in the Handbook of Quantitative Criminology, A. Piquero and D. Weisburd, Eds., Springer-Verlag. 
+       2011. "Homicide rates in the Old West" (with Randolph Roth and Douglas L. Eckberg), Western Historical Quarterly, 42, 2. 
+       2019. "Can We Trust the FBI's Crime Estimation Procedures?" The Criminologist, American Society of Criminology.
+       
+      These and other papers can be found on his academia.edu website.  
+      References 
+      
+       
+       
+         
+         ^ Lanchester Prize Archived 2005-12-20 at the Wayback Machine  
+         ^ Recidivism  
+        
+       
+       
+      External links 
+      
+       Michael Maltz’s homepage on academia.edu. 
+       Criminal Justice Research Center at The Ohio State University. 
+       El Colegio de Michoacán 
+       Journal of Quantitative Criminology
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          General
+          
+            
+            
+             ISNI 
+              
+               1
+               
+             VIAF 
+              
+               1
+               
+             WorldCat
+             
+           
+         
+         
+          National libraries
+          
+            
+            
+             Norway 
+             France (data) 
+             United States 
+             Netherlands
+             
+           
+         
+         
+          Other
+          
+            
+            
+             SUDOC (France) 
+              
+               1
+              
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Michael_D._Maltz&amp;oldid=1052552395"
+     
+     
+    
+     
+      Categories: 
+      
+       1938 births
+       American criminologists
+       Living people
+       Ohio State University faculty
+       American operations researchers
+       Stanford University alumni
+       Information visualization experts
+       University of Illinois at Chicago faculty
+      
+     
+     
+      Hidden categories: 
+      
+       Webarchive template wayback links
+       BLP articles lacking sources from February 2013
+       All BLP articles lacking sources
+       Articles with ISNI identifiers
+       Articles with VIAF identifiers
+       Articles with WORLDCATID identifiers
+       Articles with BIBSYS identifiers
+       Articles with BNF identifiers
+       Articles with LCCN identifiers
+       Articles with NTA identifiers
+       Articles with SUDOC identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       فارسی
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 29 October 2021, at 20:58&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

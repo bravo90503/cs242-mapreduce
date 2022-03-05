@@ -1,0 +1,567 @@
+
+ 
+  
+   
+  Communications of the ACM - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Communications of the ACM 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Academic journal
+      
+      
+      
+      
+       
+        Communications of the ACM
+       
+       
+        
+         Language
+         English
+        
+        
+         Edited&nbsp;by
+         Andrew A. Chien
+        
+        
+         Publication details
+        
+        
+         History
+         1958–present
+        
+        
+         Publisher
+         
+          
+           Association for Computing Machinery&nbsp;(United States)
+          
+        
+        
+         Frequency
+         Monthly
+        
+        
+         
+          
+           Open access
+          
+         No
+        
+        
+         Standard abbreviationsISO 4 (alt)&nbsp;· Bluebook (alt1&nbsp;· alt2)NLM (alt)&nbsp;· MathSciNet (alt )
+        
+        
+         ISO 4
+         Commun. ACM
+        
+        
+         IndexingCODEN&nbsp;· JSTOR (alt)&nbsp;· LCCN (alt)MIAR&nbsp;· NLM (alt)&nbsp;· Scopus
+        
+        
+         ISSN
+         0001-0782
+        
+        
+         Links
+        
+        
+          
+          
+           Journal homepage
+           
+        
+       
+       
+      Communications of the ACM is the monthly journal of the Association for Computing Machinery (ACM). It was established in 1958, with Saul Rosen as its first managing editor. It is sent to all ACM members. Articles are intended for readers with backgrounds in all areas of computer science and information systems. The focus is on the practical implications of advances in information technology and associated management issues; ACM also publishes a variety of more theoretical journals. The magazine straddles the boundary of a science magazine, trade magazine, and a scientific journal. While the content is subject to peer review, the articles published are often summaries of research that may also be published elsewhere. Material published must be accessible and relevant to a broad readership. 
+      From 1960 onward, CACM also published algorithms, expressed in ALGOL. The collection of algorithms later became known as the Collected Algorithms of the ACM.  
+      See also 
+      
+       Journal of the ACM
+       
+      References 
+      
+       
+       
+         
+         ^ Gotlieb, Calvin C. (1 January 2008). "A time to retrospect and prospect". Communications of the ACM. 51 (1): 26–29. doi:10.1145/1327452.1327469. ISSN&nbsp;0001-0782. S2CID&nbsp;40048120.  
+         ^  
+           Alain Chesnais (2013). "ACM's Annual Report for FY12". Communications of the ACM. 56 (1): 11–15. doi:10.1145/2398356.2398362.  
+         ^ Rosen's vita at history.computer.org  
+         ^ 
+           "Publications". Association for Computing Machinery. Retrieved 2011-12-05.  
+         ^ 
+           Boisvert, Ronald F. (2000). "Mathematical software: past, present, and future". Mathematics and Computers in Simulation. 54 (4): 227–241. arXiv:cs/0004004. Bibcode:2000cs........4004B. doi:10.1016/s0378-4754(00)00185-3. S2CID&nbsp;15157725.  
+        
+       
+       
+      External links 
+      
+       Official website 
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Association for Computing Machinery
+           
+         
+         
+          Special Interest Groups
+          
+            
+            
+             SIGACCESS 
+             SIGACT 
+             SIGAda 
+             SIGAI 
+             SIGAPP 
+             SIGARCH 
+             SIGBED 
+             SIGBio 
+             SIGCAS 
+             SIGCHI 
+             SIGCOMM 
+             SIGCSE 
+             SIGDA 
+             SIGDOC 
+             SIGecom 
+             SIGEVO 
+             SIGGRAPH 
+             SIGHPC 
+             SIGIR 
+             SIGITE 
+             SIGKDD 
+             SIGLOG 
+             SIGMETRICS 
+             SIGMICRO 
+             SIGMIS 
+             SIGMM 
+             SIGMOBILE 
+             SIGMOD 
+             SIGOPS 
+             SIGPLAN 
+             SIGSAC 
+             SIGSAM 
+             SIGSIM 
+             SIGSOFT 
+             SIGSPATIAL 
+             SIGUCCS 
+             SIGWEB
+             
+           
+         
+         
+          Awards
+          
+           
+           
+            
+             
+              ACM
+              
+                
+                
+                 Turing Award 
+                 ACM Fellowship 
+                 ACM-AAAI Allen Newell Award 
+                 Athena Lecturer Award 
+                 Eckert–Mauchly Award 
+                 Eugene L. Lawler Award 
+                 ACM Doctoral Dissertation Award 
+                 Gordon Bell Prize 
+                 Grace Murray Hopper Award 
+                 Ken Kennedy Award 
+                 Paris Kanellakis Theory and Practice Award 
+                 ACM Prize in Computing 
+                 ACM Software System Award 
+                 SIAM/ACM Prize in Computational Science and Engineering
+                 
+               
+             
+             
+              SIGs
+              
+                
+                
+                 CHI Academy 
+                 Gödel Prize 
+                 Knuth Prize 
+                 Steven A. Coons Award
+                 
+               
+             
+            
+           
+           
+         
+         
+          Publications
+          
+            
+            
+             Journal of the ACM 
+             Communications of the ACM 
+             RISKS Digest 
+             ACM Digital Library 
+             ACM Computing Surveys 
+             Computers in Entertainment 
+             ACM Interactions 
+             ACM Queue 
+             ACM XRDS
+             
+           
+         
+         
+          Conferences
+          
+            
+            
+             ACM-MM 
+             ASPLOS 
+             CHI 
+             CIKM 
+             DAC 
+             DEBS 
+             FAccT 
+             FCRC 
+             GECCO 
+             GHC 
+             HOPL 
+             Hot Chips 
+             Hypertext 
+             SenSys 
+             ISCA 
+             ISMM 
+             ISPD 
+             ISSAC 
+             JCDL 
+             MobiCom 
+             PLDI 
+             PODC 
+             PODS 
+             POPL 
+             PPoPP 
+             SC 
+             SIGCOMM 
+             SIGCSE 
+             SIGGRAPH 
+             SoCG 
+             SODA 
+             SOSP 
+             SPAA 
+             SPLASH 
+             STOC 
+             TAPIA 
+             UIST 
+             VRIC
+             
+           
+         
+         
+          Educational programs
+          
+            
+            
+             ACM-W 
+             ACM International Collegiate Programming Contest 
+             ACM Student Research Competition 
+             Upsilon Pi Epsilon
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          National libraries
+          
+            
+            
+             Australia
+             
+           
+         
+         
+          Other
+          
+            
+            
+             Trove (Australia) 
+              
+               1
+              
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Communications_of_the_ACM&amp;oldid=1032820892"
+     
+     
+    
+     
+      Categories: 
+      
+       Computer magazines published in the United States
+       Monthly magazines published in the United States
+       Association for Computing Machinery magazines
+       Computer science journals
+       Information systems journals
+       English-language magazines
+       Magazines established in 1958
+       Magazines published in New York City
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with short description
+       Short description is different from Wikidata
+       Monthly journals (infobox)
+       Articles with NLA identifiers
+       Articles with Trove identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Deutsch
+       Français
+       Italiano
+       Norsk bokmål
+       Polski
+       Português
+       Русский
+       Українська
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 9 July 2021, at 21:45&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

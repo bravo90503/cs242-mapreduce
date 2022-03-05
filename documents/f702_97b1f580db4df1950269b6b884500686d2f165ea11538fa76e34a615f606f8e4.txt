@@ -1,0 +1,949 @@
+
+ 
+  
+   
+  Skeletal formula - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Skeletal formula 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+      
+       "Skeletal structure" redirects here. For other uses, see Skeleton.
+       
+      
+       
+         
+        
+         
+          
+         The skeletal formula of the antidepressant drug escitalopram, featuring skeletal representations of heteroatoms, a triple bond, phenyl groups and stereochemistry
+        
+       
+       
+      The skeletal formula, also called line-angle formula or shorthand formula, of an organic compound is a type of molecular structural formula that serves as a shorthand representation of a molecule's bonding and some details of its molecular geometry. A skeletal formula shows the skeletal structure or skeleton of a molecule, which is composed of the skeletal atoms that make up the molecule. It is represented in two dimensions, as on a piece of paper. It employs certain conventions to represent carbon and hydrogen atoms, which are the most common in organic chemistry. 
+      An early form of this representation was first developed by the organic chemist Friedrich August Kekulé von Stradonitz, while the modern form is closely related to and influenced by the Lewis (dot) structure of molecules and their valence electrons. For this reason, they are sometimes termed Kekulé structures or Lewis-Kekulé structures. Skeletal formulae have become ubiquitous in organic chemistry, partly because they are relatively quick and simple to draw, and also because the curved arrow notation used for discussions of reaction mechanism and/or delocalization can be readily superimposed. 
+      Several other methods for depicting chemical structures are also commonly used in organic chemistry (though less frequently than skeletal formulae). For example, conformational structures look similar to skeletal formulae and are used to depict the approximate positions of the atoms of a molecule in three-dimensional space, as a perspective drawing. Other types of representations, e.g., Newman projections, Haworth projections and Fischer projections, also look somewhat similar to skeletal formulae. However, there are slight differences in the conventions used, and the reader needs to be aware of them in order to understand the structural details that are encoded in these depictions. While skeletal and conformational structures are also used in organometallic and inorganic chemistry, the conventions employed also differ somewhat.  
+      
+       
+       
+        Contents
+        
+        
+        1 The skeleton 
+          
+          1.1 Terminology 
+          1.2 Basic structure 
+          1.3 Contemporary graphical conventions 
+           
+        2 Implicit carbon and hydrogen atoms 
+        3 Explicit heteroatoms and hydrogen atoms 
+        4 Pseudoelement symbols 
+          
+          4.1 General symbols 
+          4.2 Alkyl groups 
+          4.3 Aromatic and unsaturated substituents 
+          4.4 Functional groups 
+          4.5 Sulfonyl/sulfonate groups 
+          4.6 Protecting groups 
+           
+        5 Multiple bonds 
+        6 Benzene rings 
+        7 Stereochemistry 
+        8 Hydrogen bonds 
+        9 References 
+        10 External links 
+        
+       
+      The skeleton 
+      Terminology 
+      The skeletal structure of an organic compound is the series of atoms bonded together that form the essential structure of the compound. The skeleton can consist of chains, branches and/or rings of bonded atoms. Skeletal atoms other than carbon or hydrogen are called heteroatoms. 
+      The skeleton has hydrogen and/or various substituents bonded to its atoms. Hydrogen is the most common non-carbon atom that is bonded to carbon and, for simplicity, is not explicitly drawn. In addition, carbon atoms are not generally labelled as such directly (i.e. with a "C"), whereas heteroatoms are always explicitly noted as such (i.e. using "N" for nitrogen, "O" for oxygen, etc.) 
+      Heteroatoms and other groups of atoms that give rise to relatively high rates of chemical reactivity, or introduce specific and interesting characteristics in the spectra of compounds are called functional groups, as they give the molecule a function. Heteroatoms and functional groups are known collectively as "substituents", as they are considered to be a substitute for the hydrogen atom that would be present in the parent hydrocarbon of the organic compound in question.  
+      Basic structure 
+      As in Lewis structures, covalent bonds are indicated by line segments, with a doubled or tripled line segment indicating double or triple bonding, respectively. Likewise, skeletal formulae indicate formal charges associated with each atom (although lone pairs are usually optional, see below). In fact, skeletal formulae can be thought of as abbreviated Lewis structures that observe the following simplifications:  
+      
+       Carbon atoms are represented by the vertices (intersections or termini) of line segments. For clarity, methyl groups are often explicitly written out as Me or CH3, while (hetero)cumulene carbons are frequently represented by a heavy center dot. 
+       Hydrogen atoms attached to carbon are implied. An unlabeled vertex is understood to represent a carbon attached to the number of hydrogens required to satisfy the octet rule, while a vertex labeled with a formal charge and/or nonbonding electron(s) is understood to have the number of hydrogen atoms required to give the carbon atom these indicated properties. Optionally, acetylenic and formyl hydrogens can be shown explicitly for the sake of clarity. 
+       Hydrogen atoms attached to a heteroatom are shown explicitly. The heteroatom and hydrogen atoms attached thereto are usually shown as a single group (e.g., OH, NH2) without explicitly showing the hydrogen–heteroatom bond. Heteroatoms with simple alkyl or aryl substituents, like methoxy (OMe) or dimethylamino (NMe2), are sometimes shown in the same way, by analogy. 
+       Lone pairs on carbene carbons must be indicated explicitly while lone pairs in other cases are optional and are shown only for emphasis. In contrast, formal charges and unpaired electrons on main-group elements are always explicitly shown.
+       
+      In the standard depiction of a molecule, the canonical form (resonance structure) with the greatest contribution is drawn. However, the skeletal formula is understood to represent the "real molecule"&nbsp;– that is, the weighted average of all contributing canonical forms. Thus, in cases where two or more canonical forms contribute with equal weight (e.g., in benzene, or a carboxylate anion) and one of the canonical forms is selected arbitrarily, the skeletal formula is understood to depict the true structure, containing equivalent bonds of fractional order, even though the delocalized bonds are depicted as nonequivalent single and double bonds.  
+      Contemporary graphical conventions
+       Since skeletal structures were introduced in the latter half of the 19th century, their appearance has undergone considerable evolution. The graphical conventions in use today date to the 1980s. Thanks to the adoption of the ChemDraw software package as a de facto industry standard (by American Chemical Society, Royal Society of Chemistry, and Gesellschaft Deutscher Chemiker publications, for instance), these conventions have been nearly universal in the chemical literature since the late 1990s. A few minor conventional variations, especially with respect to the use of stereobonds, continue to exist as a result of differing US and UK and Continental European practice, or as a matter of personal preference. As another minor variation between authors, formal charges can be shown with the plus or minus sign in a circle or without the circle. The set of conventions that are followed by most authors is given below, along with illustrative examples.
+      
+       (1) Bonds between sp2 and/or sp3 hybridized carbon or heteroatoms are conventionally represented using 120° angles whenever possible, with the longest chain of atoms following a zigzag pattern unless interrupted by a cis double bond. Unless all four substituents are explicit, this is true even when stereochemistry is being depicted using wedged or dashed bonds (see below).
+       
+      
+       
+        
+       
+       
+      
+       (2) If all four substituents to a tetrahedral carbon are explicitly shown, bonds to the two in-plane substituents still meet at 120°; the other two substituents, however, are usually shown with wedged and dashed bonds (to depict stereochemistry) and subtend a smaller angle of 60–90°.
+       
+      
+       
+        
+       
+       
+      
+       (3) The linear geometry at sp hybridized atoms is normally depicted by line segments meeting at 180°.
+       
+      
+       
+        
+       
+       
+      
+       (4) Carbo- and heterocycles (3- to 8-membered) are generally represented as regular polygons; larger ring sizes tend to be represented by concave polygons.
+       
+      
+       
+        
+       
+       
+      
+       (5) Atoms in a group are ordered so that the bond emanates from the atom that is directly attached to the skeleton. For example, the nitro group (NO2), is denoted —NO2 or O2N—, depending on the placement of the bond. In contrast, the isomeric nitrite group is denoted ONO, with the bond appearing on either side. 
+       
+      
+       
+        
+       
+       
+      Implicit carbon and hydrogen atoms 
+      For example, in the image below, the skeletal formula of hexane is shown. The carbon atom labeled C1 appears to have only one bond, so there must also be three hydrogens bonded to it, in order to make its total number of bonds four. The carbon atom labelled C3 has two bonds to other carbons and is therefore bonded to two hydrogen atoms as well. A ball-and-stick model of the actual molecular structure of hexane, as determined by X-ray crystallography, is shown for comparison, in which carbon atoms are depicted as black balls and hydrogen atoms as white ones.  
+      
+       
+        
+       
+       
+      
+       
+        
+       
+       
+      It does not matter which end of the chain one starts numbering from, as long as consistency is maintained when drawing diagrams. The condensed formula or the IUPAC name will confirm the orientation. Some molecules will become familiar regardless of the orientation.  
+      Explicit heteroatoms and hydrogen atoms 
+      All atoms that are not carbon or hydrogen are signified by their chemical symbol, for instance Cl for chlorine, O for oxygen, Na for sodium, and so forth. In the context of organic chemistry, these atoms are commonly known as heteroatoms (where the prefix hetero- comes from the Greek word ἕτερος , meaning "other"). 
+      Any hydrogen atoms bonded to heteroatoms are drawn explicitly. In ethanol, C2H5OH, for instance, the hydrogen atom bonded to oxygen is denoted by the symbol H, whereas the hydrogen atoms which are bonded to carbon atoms are not shown directly. 
+      Lines representing heteroatom-hydrogen bonds are usually omitted for clarity and compactness, so a functional group like the hydroxyl group is most often written −OH instead of −O−H. These bonds are sometimes drawn out in full in order to accentuate their presence when they participate in reaction mechanisms. 
+      Shown below for comparison are a ball-and-stick model (top) of the actual three-dimensional structure of the ethanol molecule in the gas phase, as determined by microwave spectroscopy, its Lewis structure (centre) and its skeletal formula (bottom).  
+      
+       
+        
+       
+       
+      
+       
+        
+       
+       
+      
+       
+        
+       
+       
+      Pseudoelement symbols 
+      There are also symbols that appear to be chemical element symbols, but represent certain very common substituents or indicate an unspecified member of a group of elements. These are known as pseudoelement symbols or organic elements and are treated like univalent "elements" in skeletal formulae. A list of pseudoelement symbols in common use is shown below:  
+      General symbols 
+      
+       X for any (pseudo)halogen atom (in the related MLXZ notation, X represents a one-electron donor ligand) 
+       L or Ln for a ligand or ligands (in the related MLXZ notation, L represents a two-electron donor ligand) 
+       M or Met for any metal atom ( is used to indicate a ligated metal, MLn, when the identities of the ligands are unknown or irrelevant) 
+       E or El for any electrophile (in some contexts, E is also used to indicate any p-block element) 
+       Nu for any nucleophile 
+       Z for conjugating electron-withdrawing groups (in the related MLXZ notation, Z represents a zero-electron donor ligand; in unrelated usage, Z is also an abbreviation for the carboxybenzyl group.) 
+       D for a deuterium (2H) atom 
+       T for a tritium (3H) atom
+       
+      Alkyl groups 
+      
+       R for any alkyl group or even any organyl group (Alk can be used to unambiguously indicate an alkyl group) 
+       Me for the methyl group 
+       Et for the ethyl group 
+       Pr, n-Pr, or nPr for the (normal) propyl group (Pr is also the symbol for the element praseodymium. However, since the propyl group is monovalent, while praseodymium is nearly always trivalent, ambiguity rarely, if ever, arises in practice.) 
+       i-Pr or iPr for the isopropyl group 
+       All for the allyl group (uncommon) 
+       Bu, n-Bu or nBu for the (normal) butyl group 
+       i-Bu or iBu (i often italicized) for the isobutyl group 
+       s-Bu or sBu for the secondary butyl group 
+       t-Bu or tBu for the tertiary butyl group 
+       Pn for the pentyl group (or Am for the synonymous amyl group, although Am is also the symbol for americium.) 
+       Np or Neo for the neopentyl group (Warning: Organometallic chemists often use Np for the related neophyl group, PhMe2C–. Np is also the symbol for the element neptunium.) 
+       Cy or Chx for the cyclohexyl group 
+       Ad for the 1-adamantyl group 
+       Tr or Trt for the trityl group
+       
+      Aromatic and unsaturated substituents 
+      
+       Ar for any aromatic substituent (Ar is also the symbol for the element argon. However, argon is inert under all usual conditions encountered in organic chemistry, so the use of Ar to represent an aryl substituent never causes confusion.) 
+       Het for any heteroaromatic substituent 
+       Bn or Bzl for the benzyl group (not to be confused with Bz for benzoyl group; However, old literature may use Bz for benzyl group.) 
+       Dipp for the 2,6-diisopropylphenyl group 
+       Mes for the mesityl group 
+       Ph, Φ, or φ for the phenyl group (The use of phi for phenyl has been in decline) 
+       Tol for the tolyl group 
+       Is or Tipp for the 2,4,6-triisopropylphenyl group (the former symbol is derived from the synonym isityl) 
+       Cp for the cyclopentadienyl group (Cp was the symbol for cassiopeium, a former name for lutetium) 
+       Cp* for the pentamethylcyclopentadienyl group 
+       Vi for the vinyl group (uncommon)
+       
+      Functional groups 
+      
+       Ac for the acetyl group (Ac is also the symbol for the element actinium. However, actinium is almost never encountered in organic chemistry, so the use of Ac to represent the acetyl group never causes confusion); 
+       Bz for the benzoyl group; OBz is the benzoate group 
+       Piv for the pivalyl (t-butylcarbonyl) group; OPiv is the pivalate group 
+       Bt for the 1-benzotriazolyl group 
+       Im for the 1-imidazolyl group 
+       NPhth for the phthalimide-1-yl group
+       
+      Sulfonyl/sulfonate groups 
+      Sulfonate esters are often leaving groups in nucleophilic substitution reactions. See the articles on sulfonyl and sulfonate groups for further information.  
+      
+       Bs for the brosyl (p-bromobenzenesulfonyl) group; OBs is the brosylate group 
+       Ms for the mesyl (methanesulfonyl) group; OMs is the mesylate group 
+       Ns for the nosyl (p-nitrobenzenesulfonyl) group (Ns was the former chemical symbol for bohrium, then called nielsbohrium); ONs is the nosylate group 
+       Tf for the triflyl (trifluoromethanesulfonyl) group; OTf is the triflate group 
+       Nf for the nonaflyl (nonafluorobutanesulfonyl) group, CF3(CF2)3SO2; ONf is the nonaflate group 
+       Ts for tosyl (p-toluenesulfonyl) group (Ts is also the symbol for the element tennessine. However, tennessine is never encountered in organic chemistry, so the use of Ts to represent the tosyl group never causes confusion); OTs is the tosylate group
+       
+      Protecting groups 
+      A protecting group or protective group is introduced into a molecule by chemical modification of a functional group to obtain chemoselectivity in a subsequent chemical reaction, facilitating multistep organic synthesis.  
+      
+       Boc for the t-butoxycarbonyl group 
+       Cbz or Z for the carboxybenzyl group 
+       Fmoc for the fluorenylmethoxycarbonyl group 
+       Alloc for the allyloxycarbonyl group 
+       Troc for the trichloroethoxycarbonyl group 
+       TMS, TBDMS, TES, TBDPS, TIPS, ... for various silyl ether groups 
+       PMB for the 4-methoxybenzyl group 
+       MOM for the methoxymethyl group 
+       THP for the 2-tetrahydropyranyl group
+       
+      Multiple bonds 
+      Two atoms can be bonded by sharing more than one pair of electrons. The common bonds to carbon are single, double and triple bonds. Single bonds are most common and are represented by a single, solid line between two atoms in a skeletal formula. Double bonds are denoted by two parallel lines, and triple bonds are shown by three parallel lines. 
+      In more advanced theories of bonding, non-integer values of bond order exist. In these cases, a combination of solid and dashed lines indicate the integer and non-integer parts of the bond order, respectively.  
+       
+       
+         
+         
+          
+           
+          
+          
+          
+          
+           Hex-3-ene has an internal carbon-carbon double bond
+           
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          
+           Hex-1-ene has a terminal double bond
+           
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          
+           Hex-3-yne has an internal carbon-carbon triple bond
+           
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          
+           Hex-1-yne has a terminal carbon-carbon triple bond
+           
+          
+         
+       
+      Note: in the gallery above, double bonds have been shown in red and triple bonds in blue. This was added for clarity - multiple bonds are not normally coloured in skeletal formulae.  
+      Benzene rings 
+      
+      
+       
+        
+         
+          
+           
+          
+          
+           Thiele style: unified circle
+          
+         
+         
+          
+           
+          
+          
+           Kekulé style: alternating double bonds
+          
+         
+        
+        
+         
+          Represenatations of aromatic benzene ring
+         
+        
+       
+       
+      In recent years, benzene is generally depicted as a hexagon with alternating single and double bonds, much like the structure originally proposed by Kekulé in 1872. As mentioned above, the alternating single and double bonds of "1,3,5-cyclohexatriene" are understood to be a drawing of one of the two equivalent canonical forms of benzene, in which all carbon-carbon bonds are of equivalent length and have a bond order of 1.5. For aryl rings in general, the two analogous canonical forms are almost always the primary contributors to the structure, but they are nonequivalent, so one structure may make a slightly greater contribution than the other, and bond orders may differ somewhat from 1.5. 
+      An alternative representation that emphasizes this delocalization uses a circle, drawn inside the regular hexagon of single bonds. This style, based on one proposed by Johannes Thiele, used to be very common in introductory organic chemistry textbooks and is still frequently used in informal settings. However, because this depiction does not keep track of electron pairs and is unable to show the precise movement of electrons, it has largely been superseded by the Kekuléan depiction in pedagogical and formal academic contexts.  
+       
+      Stereochemistry 
+      
+       
+         
+        
+         
+          
+         Different depictions of chemical bonds in skeletal formulae
+        
+       
+       
+      Stereochemistry is conveniently denoted in skeletal formulae:  
+       
+       
+         
+         
+          
+           
+          
+          
+          
+          
+           Ball-and-stick model of 
+            (R)-2-chloro-2-fluoropentane
+           
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          
+           Skeletal formula of 
+            (R)-2-chloro-2-fluoropentane
+           
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          
+           Skeletal formula of 
+            (S)-2-chloro-2-fluoropentane
+           
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          
+           Skeletal formula of amphetamine, indicating a mixture of two stereoisomers: (R)- and (S)-
+           
+          
+         
+       
+      The relevant chemical bonds can be depicted in several ways:  
+      
+       Solid lines represent bonds in the plane of the paper or screen. 
+       Solid wedges represent bonds that point out of the plane of the paper or screen, towards the observer. 
+       Hashed wedges or dashed lines (thick or thin) represent bonds that point into the plane of the paper or screen, away from the observer. 
+       Wavy lines represent either unknown stereochemistry or a mixture of the two possible stereoisomers at that point. 
+       An obsolescent depiction of hydrogen stereochemistry that used to be common in steroid chemistry is the use of a filled circle centered on a vertex (sometimes called H-dot/H-dash/H-circle, respectively) for an upward pointing hydrogen atom and two hash marks next to vertex or a hollow circle for a downward pointing hydrogen atom. 
+        
+         
+          
+            
+           
+            
+             
+            A small filled circle represented an upward pointing hydrogen, while two hash marks represented a downward pointing one.
+           
+          
+         
+        
+       
+       
+      An early use of this notation can be traced back to Richard Kuhn who in 1932 used solid thick lines and dotted lines in a publication. The modern solid and hashed wedges were introduced in the 1940s by Giulio Natta to represent the structure of high polymers, and extensively popularised in the 1959 textbook Organic Chemistry by Donald J. Cram and George S. Hammond. 
+      Skeletal formulae can depict cis and trans isomers of alkenes. Wavy single bonds are the standard way to represent unknown or unspecified stereochemistry or a mixture of isomers (as with tetrahedral stereocenters). A crossed double-bond has been used sometimes; is no longer considered an acceptable style for general use, but may still be required by computer software.  
+      
+       
+        
+          
+         
+          
+           
+          Alkene stereochemistry
+         
+        
+       
+       
+      Hydrogen bonds 
+      
+       
+         
+        
+         
+          
+         Using dashed lines (green) to show hydrogen bonding in acetic acid.
+        
+       
+       
+      Hydrogen bonds are generally denoted by dotted or dashed lines. In other contexts, dashed lines may also represent partially formed or broken bonds in a transition state.  
+       
+      References 
+      
+       
+       
+         
+         ^ Stoker, H. Stephen (2012). General, Organic, and Biological Chemistry (6th&nbsp;ed.). Cengage. ISBN&nbsp;978-1133103943.  
+         ^ This term is ambiguous, because "Kekulé structure" also refers to Kekulé's famous proposal of hexagonal, alternating double-bonds for the structure of benzene.  
+         ^ IUPAC Recommendations 1999, Revised Section F: Replacement of Skeletal Atoms  
+         ^ 
+           Brecher, Jonathan (2008). "Graphical representation standards for chemical structure diagrams (IUPAC Recommendations 2008)". Pure and Applied Chemistry. 80 (2): 277–410. doi:10.1351/pac200880020277. ISSN&nbsp;1365-3075.  
+         ^ To prevent a 'kink' from emerging and causing a structure to take up too much vertical space on a page, the IUPAC (Brecher, 2008, p. 352) makes an exception for long chain cis-olefins (e.g., oleic acid), allowing the cis double bond within them to be depicted with 150° angles, so that the zigzags on either side of the double bond can propagate horizontally.  
+         ^ 
+           Clayden, Jonathan; Greeves, Nick; Warren, Stuart; Wothers, Peter (2001). Organic Chemistry (1st&nbsp;ed.). Oxford University Press. p.&nbsp;27. ISBN&nbsp;978-0-19-850346-0.  
+         ^ For instance, the acclaimed 1959 textbook by Morrison and Boyd (6th edition, 1992) uses the Thiele notation as its standard depiction of the aryl ring, while the 2001 textbook by Clayden, Greeves, Warren, and Wothers (2nd edition, 2012) uses the Kekulé notation throughout and warns students to avoid using the Thiele notation when writing mechanisms (p. 144, 2nd ed.).  
+         ^ a b 
+           Brecher, Jonathan (2006). "Graphical representation of stereochemical configuration (IUPAC Recommendations 2006)" (PDF). Pure Appl. Chem. 78 (10): 1897–1970. doi:10.1351/pac200678101897. S2CID&nbsp;97528124.  
+         ^ American and European chemists use slightly different conventions for a hashed bond. Whereas most American chemists draw hashed bonds with short hash marks close to the stereocenter and long hash marks further away (in analogy to wedged bonds), most European chemists start with long hash marks close to the stereocenter that gradually become shorter moving away (in analogy to perspective drawing). In the past, the IUPAC has suggested the use of a hashed bond with hash marks of equal length throughout as a compromise but now prefers the American-style hashed bonds (Brecher, 2006, p. 1905). Some chemists use a thick bond and dotted bond (or hashed bond with equal length hashes) to depict relative stereochemistry and a wedged bond and hashed bond with unequal hashes to depict absolute stereochemistry; most others do not make this distinction.   
+         ^ The IUPAC now strongly deprecates this notation.  
+         ^ 
+           Jensen, William B. (2013). "The Historical Origins of Stereochemical Line and Wedge Symbolism". Journal of Chemical Education. 90 (5): 676–677. Bibcode:2013JChEd..90..676J. doi:10.1021/ed200177u.  
+        
+       
+       
+      External links 
+      
+       Drawing organic molecules from chemguide.co.uk
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Molecular visualization
+           
+         
+         
+          Chemical formulas
+          
+           
+           
+            
+             
+              Non-structural formulas
+              
+                
+                
+                 Empirical formula 
+                 Molecular formula
+                 
+               
+             
+             
+              Structural formulas
+              
+                
+                
+                 Lewis structure 
+                 Condensed formula 
+                 Skeletal formula
+                 
+               
+             
+            
+           
+           
+         
+         
+          Molecular models
+          
+            
+            
+             Ball-and-stick model 
+             Space-filling model 
+             CPK coloring
+             
+           
+         
+         
+          Other ways
+          
+            
+            
+             Molecular graph 
+             SMILES 
+             InChl
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Skeletal_formula&amp;oldid=1060358462"
+     
+     
+    
+     
+      Categories: 
+      
+       Organic chemistry
+       Chemical formulas
+       Chemical structures
+      
+     
+     
+      Hidden categories: 
+      
+       Wikipedia articles needing page number citations from September 2018
+       Pages using multiple image with auto scaled images
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       Afrikaans
+       العربية
+       Bosanski
+       Català
+       Dansk
+       Deutsch
+       Eesti
+       Español
+       فارسی
+       Français
+       Português
+       Русский
+       Slovenščina
+       Српски / srpski
+       Suomi
+       Svenska
+       Українська
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 15 December 2021, at 01:16&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

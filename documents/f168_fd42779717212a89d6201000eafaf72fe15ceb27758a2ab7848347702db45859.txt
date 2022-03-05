@@ -1,0 +1,300 @@
+
+ 
+  
+   
+  Human–computer information retrieval - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Human–computer information retrieval 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      Human–computer information retrieval (HCIR) is the study and engineering of information retrieval techniques that bring human intelligence into the search process. It combines the fields of human-computer interaction (HCI) and information retrieval (IR) and creates systems that improve search by taking into account the human context, or through a multi-step search process that provides the opportunity for human feedback.  
+      
+       
+       
+        Contents
+        
+        
+        1 History 
+        2 Description 
+        3 Goals 
+        4 Techniques 
+        5 Related areas 
+        6 References 
+        7 External links 
+        
+       
+      History 
+      This term human–computer information retrieval was coined by Gary Marchionini in a series of lectures delivered between 2004 and 2006. Marchionini's main thesis is that "HCIR aims to empower people to explore large-scale information bases but demands that people also take responsibility for this control by expending cognitive and physical energy." 
+      In 1996 and 1998, a pair of workshops at the University of Glasgow on information retrieval and human–computer interaction sought to address the overlap between these two fields. Marchionini notes the impact of the World Wide Web and the sudden increase in information literacy – changes that were only embryonic in the late 1990s. 
+      A few workshops have focused on the intersection of IR and HCI. The Workshop on Exploratory Search, initiated by the University of Maryland Human-Computer Interaction Lab in 2005, alternates between the Association for Computing Machinery Special Interest Group on Information Retrieval (SIGIR) and Special Interest Group on Computer-Human Interaction (CHI) conferences. Also in 2005, the European Science Foundation held an Exploratory Workshop on Information Retrieval in Context. Then, the first Workshop on Human Computer Information Retrieval was held in 2007 at the Massachusetts Institute of Technology.  
+      Description 
+      HCIR includes various aspects of IR and HCI. These include exploratory search, in which users generally combine querying and browsing strategies to foster learning and investigation; information retrieval in context (i.e., taking into account aspects of the user or environment that are typically not reflected in a query); and interactive information retrieval, which Peter Ingwersen defines as "the interactive communication processes that occur during the retrieval of information by involving all the major participants in information retrieval (IR), i.e. the user, the intermediary, and the IR system." 
+      A key concern of HCIR is that IR systems intended for human users be implemented and evaluated in a way that reflects the needs of those users. 
+      Most modern IR systems employ a ranked retrieval model, in which the documents are scored based on the probability of the document's relevance to the query. In this model, the system only presents the top-ranked documents to the user. This systems are typically evaluated based on their mean average precision over a set of benchmark queries from organizations like the Text Retrieval Conference (TREC). 
+      Because of its emphasis in using human intelligence in the information retrieval process, HCIR requires different evaluation models – one that combines evaluation of the IR and HCI components of the system. A key area of research in HCIR involves evaluation of these systems. Early work on interactive information retrieval, such as Juergen Koenemann and Nicholas J. Belkin's 1996 study of different levels of interaction for automatic query reformulation, leverage the standard IR measures of precision and recall but apply them to the results of multiple iterations of user interaction, rather than to a single query response. Other HCIR research, such as Pia Borlund's IIR evaluation model, applies a methodology more reminiscent of HCI, focusing on the characteristics of users, the details of experimental design, etc.  
+      Goals 
+      HCIR researchers have put forth the following goals towards a system where the user has more control in determining relevant results. 
+      Systems should  
+      
+       no longer only deliver the relevant documents, but must also provide semantic information along with those documents 
+       increase user responsibility as well as control; that is, information systems require human intellectual effort 
+       have flexible architectures so they may evolve and adapt to increasingly more demanding and knowledgeable user bases 
+       aim to be part of information ecology of personal and shared memories and tools rather than discrete standalone services 
+       support the entire information life cycle (from creation to preservation) rather than only the dissemination or use phase 
+       support tuning by end users and especially by information professionals who add value to information resources 
+       be engaging and fun to use
+       
+      In short, information retrieval systems are expected to operate in the way that good libraries do. Systems should help users to bridge the gap between data or information (in the very narrow, granular sense of these terms) and knowledge (processed data or information that provides the context necessary to inform the next iteration of an information seeking process). That is, good libraries provide both the information a patron needs as well as a partner in the learning process — the information professional — to navigate that information, make sense of it, preserve it, and turn it into knowledge (which in turn creates new, more informed information needs).  
+      Techniques 
+      The techniques associated with HCIR emphasize representations of information that use human intelligence to lead the user to relevant results. These techniques also strive to allow users to explore and digest the dataset without penalty, i.e., without expending unnecessary costs of time, mouse clicks, or context shift. 
+      Many search engines have features that incorporate HCIR techniques. Spelling suggestions and automatic query reformulation provide mechanisms for suggesting potential search paths that can lead the user to relevant results. These suggestions are presented to the user, putting control of selection and interpretation in the user's hands. 
+      Faceted search enables users to navigate information hierarchically, going from a category to its sub-categories, but choosing the order in which the categories are presented. This contrasts with traditional taxonomies in which the hierarchy of categories is fixed and unchanging. Faceted navigation, like taxonomic navigation, guides users by showing them available categories (or facets), but does not require them to browse through a hierarchy that may not precisely suit their needs or way of thinking. 
+      Lookahead provides a general approach to penalty-free exploration. For example, various web applications employ AJAX to automatically complete query terms and suggest popular searches. Another common example of lookahead is the way in which search engines annotate results with summary information about those results, including both static information (e.g., metadata about the objects) and "snippets" of document text that are most pertinent to the words in the search query. 
+      Relevance feedback allows users to guide an IR system by indicating whether particular results are more or less relevant. 
+      Summarization and analytics help users digest the results that come back from the query. Summarization here is intended to encompass any means of aggregating or compressing the query results into a more human-consumable form. Faceted search, described above, is one such form of summarization. Another is clustering, which analyzes a set of documents by grouping similar or co-occurring documents or terms. Clustering allows the results to be partitioned into groups of related documents. For example, a search for "java" might return clusters for Java (programming language), Java (island), or Java (coffee). 
+      Visual representation of data is also considered a key aspect of HCIR. The representation of summarization or analytics may be displayed as tables, charts, or summaries of aggregated data. Other kinds of information visualization that allow users access to summary views of search results include tag clouds and treemapping.  
+      Related areas 
+      
+       Exploratory video search 
+       Information foraging
+       
+      References 
+      
+        
+        ^ a b Marchionini, G. (2006). Toward Human-Computer Information Retrieval Bulletin, in June/July 2006 Bulletin of the American Society for Information Science  
+        ^ "Ingwersen, P. (1992). Information Retrieval Interaction. London: Taylor Graham". Archived from the original on 2007-11-25. Retrieved 2007-11-28.  
+        ^ 
+          "Mira working group (1996). Evaluation Frameworks for Interactive Multimedia Information Retrieval Applications". Archived from the original on 2008-02-01.  
+        ^ Grossman, D. and Frieder, O. (2004). Information Retrieval Algorithms and Heuristics.  
+        ^ Koenemann, J. and Belkin, N. J. (1996). A case for interaction: a study of interactive information retrieval behavior and effectiveness. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems: Common Ground (Vancouver, British Columbia, Canada, April 13–18, 1996). M. J. Tauber, Ed. CHI '96. ACM Press, New York, NY, 205-212  
+        ^ Borlund, P. (2003). The IIR evaluation model: a framework for evaluation of interactive information retrieval systems. Information Research, 8(3), Paper 152  
+        ^ White, R., Capra, R., Golovchinsky, G., Kules, B., Smith, C., and Tunkelang, D. (2013). Introduction to Special Issue on Human-computer Information Retrieval. Journal of Information Processing and Management 49(5), 1053-1057  
+        ^ Hearst, M. (1999). User Interfaces and Visualization, Chapter 10 of Baeza-Yates, R. and Ribeiro-Neto, B., Modern Information Retrieval.  
+        ^ Rocchio, J. (1971). Relevance feedback in information retrieval. In: Salton, G (ed), The SMART Retrieval System.  
+       
+       
+      External links 
+      
+       
+        "Workshops on Human Computer Information Retrieval". 
+       
+        "ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR)".
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Human–computer_information_retrieval&amp;oldid=1053533799"
+     
+     
+    
+     
+      Categories: 
+      
+       Information retrieval genres
+       Human–computer interaction
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Français
+       Hrvatski
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 4 November 2021, at 13:41&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

@@ -1,0 +1,356 @@
+
+ 
+  
+   
+  Information engineering - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Information engineering 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+        
+      
+      
+       This article is about the software engineering approach. For the engineering discipline, see Information engineering (field).
+       
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources:&nbsp;"Information engineering"&nbsp;–&nbsp;news&nbsp;· newspapers&nbsp;· books&nbsp;· scholar&nbsp;· JSTOR (July 2015) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      Information engineering (IE), also known as information technology engineering (ITE), information engineering methodology (IEM) or data engineering, is a software engineering approach to designing and developing information systems. 
+      A data engineer is someone who creates big data ETL pipelines, and makes it possible to take huge amounts of data and translate it into insights. They are focused on the production readiness of data and things like formats, resilience, scaling, and security. Data engineers usually hail from a software engineering background and are proficient in programming languages like Java, Python and Scala.  
+      
+       
+       
+        Contents
+        
+        
+        1 History 
+        2 The phases of information engineering 
+        3 Software tools 
+        4 See also 
+        5 References 
+        6 Further reading 
+        7 External links 
+        
+       
+      History 
+      Information technology engineering used to be known more commonly as information engineering; this changed in the early 21st century, and information engineering took on a new meaning. 
+      Information technology engineering has a somewhat checkered history that follows two very distinct threads. It originated in Australia between 1976 and 1980, and appears first in the literature in a series of Six InDepth articles by the same name published by US Computerworld in May – June 1981. Information technology engineering first provided data analysis and database design techniques that could be used by database administrators (DBAs) and by systems analysts to develop database designs and systems based upon an understanding of the operational processing needs of organizations for the 1980s. 
+      Clive Finkelstein is acknowledged as the "Father" of information technology engineering, having developed its concepts from 1976 to 1980 based on original work carried out by him to bridge from strategic business planning to information systems. He wrote the first publication on information technology engineering: a series of six in depth articles of the same name published by US Computerworld in May – June 1981. He also co-authored with James Martin the influential Savant Institute Report titled: "Information Engineering", published in Nov 1981. The Finkelstein thread evolved from 1976 as the business driven variant of ITE. The Martin thread evolved into the data processing-driven (DP) variant of ITE. From 1983 till 1986 ITE evolved further into a stronger business-driven variant of ITE, which was intended to address a rapidly changing business environment. The then technical director, Charles M. Richter, from 1983 to 1987, guided by Clive Finkelstein, played a significant role by revamping the ITE methodology as well as helping to design the ITE software product (user-data) which helped automate the ITE methodology, opening the way to next generation Information Architecture.  
+      The phases of information engineering 
+      
+       
+        Strategic business planning
+        
+       
+        Business objectives that executives set for what's to come are characterized in key business plans, with their more noteworthy definition in tactical business plans and implementation in operational business plans. Most businesses today recognize the fundamental need to grow a business plan that follows this strategy. It is often difficult to implement these plans because of the lack of transparency at the tactical and operational degrees of organizations. This kind of planning requires feedback to allow for early correction of problems that are due to miscommunication and misinterpretation of their business plan.
+        
+       
+        Data modelling
+        
+       
+        The ideal basis for data models is to be based on directions made by management for the future of the business. These directions are defined within business plans. Data models can provide a clear insight into future business needs, when business plans become unavailable or out of date. Data models can be developed from any statement of a policy, goal, objective, or strategy for a business and its needs. Data that has been consistently updated over time can be useful within a business to see how things have changed and how the needs of the business are different going forward.
+        
+       
+        Process modelling
+        
+       
+        Process modelling is similar to data modelling in the sense that it is taking a broad look at the processes a business has required outlined by its business plan. Using an information engineering approach, processes can be linked to data and needs, to get a better sense of why the process exists and how it must be carried out. This allows for a business to get an overview of what it is currently doing, why it is doing the things it is doing, the importance of each thing, and how these things are being done.
+        
+       
+        Systems design and implementation
+        
+       
+        The fourth and last phase of information engineering is systems design and implementation. After setting a business plan, data models are used to create process models, which are then used to design systems so they are ready for implementation. This phase is the finishing phase. The systems design and implementation phase takes what has been created by the previous three phases of information engineering and wraps it all into one final product, so that it is available to be implemented. This is where businesses can see the culmination of their information engineering phases and efforts. 
+       
+       
+      Software tools 
+      There are several tools supporting information technology engineering such as Bachman's Data Analyst, Excelerator, and more.  
+      See also 
+      
+       Information technology 
+       Software engineering 
+       Computer science
+       
+      References 
+      
+       
+        
+        ^ Tamir, Mike; Miller, Steven; Gagliardi, Alessandro (December 11, 2015). "The Data Engineer". Rochester, NY. doi:10.2139/ssrn.2762013. S2CID&nbsp;113342650. SSRN&nbsp;2762013. }: Cite journal requires |journal= (help)  
+        ^ 
+          "Data Engineer vs. Data Scientist". Springboard Blog. February 7, 2019. Retrieved March 14, 2021.  
+        ^ "Information engineering," part 3, part 4, part 5, Part 6" by Clive Finkelstein. In Computerworld, In depths, appendix. May 25 – June 15, 1981.  
+        ^ Christopher Allen, Simon Chatwin, Catherine Creary (2003). Introduction to Relational Databases and SQL Programming.  
+        ^ Terry Halpin, Tony Morgan (2010). Information Modeling and Relational Databases. p. 343  
+        ^ 
+          Finkelstein, Clive. What are The Phases of Information Engineering.  
+        ^ 
+          "Ie (information Engineering)". Gartner. Retrieved December 13, 2019.  
+       
+       
+      Further reading 
+      
+       
+       
+        John Hares (1992). "Information engineering for the Advanced Practitioner", Wiley. 
+        Clive Finkelstein (1989). An Introduction to Information engineering&nbsp;: From Strategic Planning to Information Systems. Sydney: Addison-Wesley. 
+        Clive Finkelstein (1992). "Information Engineering: Strategic Systems Development". Sydney: Addison-Wesley. 
+        Ian Macdonald (1986). "Information engineering". in: Information Systems Design Methodologies. T.W. Olle et al. (ed.). North-Holland. 
+        Ian Macdonald (1988). "Automating the Information engineering methodology with the Information engineering Facility". In: Computerized Assistance during the Information Systems Life Cycle. T.W. Olle et al. (ed.). North-Holland. 
+        James Martin and Clive Finkelstein. (1981). Information engineering. Technical Report (2 volumes), Savant Institute, Carnforth, Lancs, UK. 
+        James Martin (1989). Information engineering. (3 volumes), Prentice-Hall Inc. 
+        Clive Finkelstein (2006) "Enterprise Architecture for Integration: Rapid Delivery Methods and Technologies". First Edition, Artech House, Norwood MA in hardcover. 
+        Clive Finkelstein (2011) "Enterprise Architecture for Integration: Rapid Delivery Methods and Technologies". Second Edition in PDF at www.ies.aust.com and as an ibook on the Apple iPad and ebook on the Amazon Kindle.
+        
+       
+      External links 
+       
+       
+         
+          
+         Wikimedia Commons has media related to Information Engineering.
+         
+       
+       
+      
+       The Complex Method IEM 
+       Rapid Application Development 
+       Enterprise Engineering and Rapid Delivery of Enterprise Architecture
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Information_engineering&amp;oldid=1068959475"
+     
+     
+    
+     
+      Categories: 
+      
+       Software development process
+       Information systems
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 errors: missing periodical
+       Use mdy dates from August 2021
+       Articles needing additional references from July 2015
+       All articles needing additional references
+       Commons category link is locally defined
+       AC with 0 elements
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+       
+      
+       Add links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 31 January 2022, at 00:27&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

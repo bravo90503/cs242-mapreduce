@@ -1,0 +1,980 @@
+
+ 
+  
+   
+  Website - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+     
+     
+    
+   Website 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+      
+       This article is about websites in general. For the Internet domain .website, see List of Internet top-level domains.
+       
+      
+      
+       Not to be confused with WebCite.
+       
+        
+      
+       Set of related web pages served from a single web domain
+       
+      
+       
+         
+        
+         
+          
+         The usap.gov website
+        
+       
+       
+      A website (also written as web site) is a collection of web pages and related content that is identified by a common domain name and published on at least one web server. Notable examples are wikipedia.org, google.com, and amazon.com. 
+      All publicly accessible websites collectively constitute the World Wide Web. There are also private websites that can only be accessed on a private network, such as a company's internal website for its employees. 
+      Websites are typically dedicated to a particular topic or purpose, such as news, education, commerce, entertainment, or social networking. Hyperlinking between web pages guides the navigation of the site, which often starts with a home page. 
+      Users can access websites on a range of devices, including desktops, laptops, tablets, and smartphones. The app used on these devices is called a web browser.  
+      
+       
+       
+        Contents
+        
+        
+        1 History 
+        2 Overview 
+        3 Static website 
+        4 Dynamic website 
+        5 Multimedia and interactive content 
+        6 Types 
+        7 Internet Users 
+        8 See also 
+        9 References 
+        10 External links 
+        
+       
+      History 
+      
+      
+       Main article: History of the World Wide Web
+       
+      
+       
+         
+        
+         
+          
+         The nasa.gov home page in 2015
+        
+       
+       
+      The World Wide Web (WWW) was created in 1989 by the British CERN physicist Tim Berners-Lee. On 30 April 1993, CERN announced that the World Wide Web would be free to use for anyone, contributing to the immense growth of the Web. Before the introduction of the Hypertext Transfer Protocol (HTTP), other protocols such as File Transfer Protocol and the gopher protocol were used to retrieve individual files from a server. These protocols offer a simple directory structure which the user navigates and where they choose files to download. Documents were most often presented as plain text files without formatting or were encoded in word processor formats.  
+      Overview 
+      Websites can be used in various fashions: a personal website, a corporate website for a company, a government website, an organization website, etc. Websites can be the work of an individual, a business or other organization, and are typically dedicated to a particular topic or purpose. Any website can contain a hyperlink to any other website, so the distinction between individual sites, as perceived by the user, can be blurred. 
+      Some websites require user registration or subscription to access content. Examples of subscription websites include many business sites, news websites, academic journal websites, gaming websites, file-sharing websites, message boards, web-based email, social networking websites, websites providing real-time stock market data, as well as sites providing various other services. 
+      While "web site" was the original spelling (sometimes capitalized "Web site", since "Web" is a proper noun when referring to the World Wide Web), this variant has become rarely used, and "website" has become the standard spelling. All major style guides, such as The Chicago Manual of Style and the AP Stylebook, have reflected this change.  
+      Static website 
+      
+      
+       Main article: Static web page
+       
+      A static website is one that has web pages stored on the server in the format that is sent to a client web browser. It is primarily coded in Hypertext Markup Language (HTML); Cascading Style Sheets (CSS) are used to control appearance beyond basic HTML. Images are commonly used to create the desired appearance and as part of the main content. Audio or video might also be considered "static" content if it plays automatically or is generally non-interactive. This type of website usually displays the same information to all visitors. Similar to handing out a printed brochure to customers or clients, a static website will generally provide consistent, standard information for an extended period of time. Although the website owner may make updates periodically, it is a manual process to edit the text, photos, and other content and may require basic website design skills and software. Simple forms or marketing examples of websites, such as classic website, a five-page website or a brochure website are often static websites, because they present pre-defined, static information to the user. This may include information about a company and its products and services through text, photos, animations, audio/video, and navigation menus. 
+      Static websites may still use server side includes (SSI) as an editing convenience, such as sharing a common menu bar across many pages. As the site's behavior to the reader is still static, this is not considered a dynamic site.  
+      Dynamic website 
+      
+       
+         
+        
+         
+          
+         Server-side programming language usage in 2016.
+        
+       
+       
+      
+      
+       Main articles: Dynamic web page, Web application, and Progressive web application
+       
+      A dynamic website is one that changes or customizes itself frequently and automatically. Server-side dynamic pages are generated "on the fly" by computer code that produces the HTML (CSS are responsible for appearance and thus, are static files). There are a wide range of software systems, such as CGI, Java Servlets and Java Server Pages (JSP), Active Server Pages and ColdFusion (CFML) that are available to generate dynamic web systems and dynamic sites. Various web application frameworks and web template systems are available for general-use programming languages like Perl, PHP, Python and Ruby to make it faster and easier to create complex dynamic websites. 
+      A site can display the current state of a dialogue between users, monitor a changing situation, or provide information in some way personalized to the requirements of the individual user. For example, when the front page of a news site is requested, the code running on the webserver might combine stored HTML fragments with news stories retrieved from a database or another website via RSS to produce a page that includes the latest information. Dynamic sites can be interactive by using HTML forms, storing and reading back browser cookies, or by creating a series of pages that reflect the previous history of clicks. Another example of dynamic content is when a retail website with a database of media products allows a user to input a search request, e.g. for the keyword Beatles. In response, the content of the web page will spontaneously change the way it looked before, and will then display a list of Beatles products like CDs, DVDs, and books. Dynamic HTML uses JavaScript code to instruct the web browser how to interactively modify the page contents. One way to simulate a certain type of dynamic website while avoiding the performance loss of initiating the dynamic engine on a per-user or per-connection basis is to periodically automatically regenerate a large series of static pages.  
+      Multimedia and interactive content 
+      Early websites had only text, and soon after, images. Web browser plug ins were then used to add audio, video, and interactivity (such as for a rich web application that mirrors the complexity of a desktop application like a word processor). Examples of such plug-ins are Microsoft Silverlight, Adobe Flash Player, Adobe Shockwave Player, and Java SE. HTML 5 includes provisions for audio and video without plugins. JavaScript is also built into most modern web browsers, and allows for website creators to send code to the web browser that instructs it how to interactively modify page content and communicate with the web server if needed. The browser's internal representation of the content is known as the Document Object Model (DOM). 
+      WebGL (Web Graphics Library) is a modern JavaScript API for rendering interactive 3D graphics without the use of plug-ins. It allows interactive content such as 3D animations, visualizations and video explainers to presented users in the most intuitive way. 
+      A 2010-era trend in websites called "responsive design" has given the best viewing experience as it provides a device based layout for users. These websites change their layout according to the device or mobile platform, thus giving a rich user experience.  
+      Types 
+      Websites can be divided into two broad categories—static and interactive. Interactive sites are part of the Web 2.0 community of sites and allow for interactivity between the site owner and site visitors or users. Static sites serve or capture information but do not allow engagement with the audience or users directly. Some websites are informational or produced by enthusiasts or for personal use or entertainment. Many websites do aim to make money, using one or more business models, including:  
+      
+       Posting interesting content and selling contextual advertising either through direct sales or through an advertising network. 
+       E-commerce: products or services are purchased directly through the website 
+       Advertising products or services available at a brick and mortar business 
+       Freemium: basic content is available for free but premium content requires a payment (e.g., WordPress website, it is an open-source platform to build a blog or website.)
+       
+      There are many varieties of websites, each specializing in a particular type of content or use, and they may be arbitrarily classified in any number of ways. A few such classifications might include:  
+       
+       
+         
+         Click "show" or "hide" to toggle this table 
+         
+         
+         Type of Website  
+         Description  
+         Examples 
+         
+         
+         Affiliate network  
+         A site, typically few in pages, whose purpose is to sell a third party's product. The seller receives a commission for facilitating the sale.  
+          
+         
+         
+         Affiliate agency  
+         Enabled portal that renders not only its custom CMS but also syndicated content from other content providers for an agreed fee. There are usually three relationship tiers (see Affiliate Agencies).  
+         Commission Junction, advertisers like eBay, or a consumer like Yahoo!. 
+         
+         
+         Archive site  
+         Used to preserve valuable electronic content threatened with extinction. Two examples are: Internet Archive, which since 1996 has preserved billions of old (and new) web pages; and Google Groups, which in early 2005 was archiving over 845,000,000 messages posted to Usenet news/discussion groups.  
+         Internet Archive, Google Groups 
+         
+         
+         Malware website  
+         A site created specifically to attack visitors' computers on their first visit to a website by downloading a file (usually a trojan horse). These websites rely on unsuspecting users with poor anti-virus protection in their computers.  
+          
+         
+         
+         Blog (weblog)  
+         Sites generally used to post online diaries which may include discussion forums. Many bloggers use blogs like an editorial section of a newspaper to express their ideas on anything ranging from politics to religion to video games to parenting, along with anything in between. Some bloggers are professional bloggers and they are paid to blog about a certain subject, and they are usually found on news sites.  
+         WordPress 
+         
+         
+         Brand-building site  
+         A site with the purpose of creating an experience of a brand online. These sites usually do not sell anything, but focus on building the brand. Brand building sites are most common for low-value, high-volume fast-moving consumer goods (FMCG).  
+          
+         
+         
+         Celebrity website  
+         A website the information in which revolves around a celebrity or public figure. These sites can be official (endorsed by the celebrity) or fan-made (run by a fan or fans of the celebrity without implicit endorsement).  
+         jimcarrey.com 
+         
+         
+         Comparison shopping website  
+         A website providing a vertical search engine that shoppers use to filter and compare products based on price, features, reviews, and other criteria.  
+         Shopping.com 
+         
+         
+         Crowdfunding website  
+         Platform to fund projects by the pre-purchase of products or by asking audience members to make a donation.  
+         Kickstarter 
+         
+         
+         Click-to-donate site  
+         A website that allows the visitor to donate to charity simply by clicking on a button or answering a question correctly. An advertiser usually donates to the charity for each correct answer generated.  
+         The Hunger Site, Freerice 
+         
+         
+         Content site  
+         A site the business of which is the creation and distribution of original content  
+         wikiHow.com, About.com 
+         
+         
+         Classified ads site  
+         A site publishing classified advertisements  
+         gumtree.com, Craigslist 
+         
+         
+         Corporate website  
+         Used to provide background information about a business, organization, or service.  
+          
+         
+         
+         Online dating service  
+         A site where users can find other single people looking for long-term relationships, dating, short encounters, or friendship. Many of them are pay per services, but there are many free or partially free dating sites. Most dating sites in the 2010s have the functionality of social networking websites.  
+         eHarmony, Match.com 
+         
+         
+         E-commerce website  
+         A site offering goods and services for online sale and enabling online transactions for such sales.  
+         Amazon.com 
+         
+         
+         Fake news website  
+         A site publishing fake news stories, intending to deceive visitors, and profit from advertising.  
+         BFNN, The Daily Stormer 
+         
+         
+         Internet forum  
+         A site where people can hold conversations in the form of posted messages.  
+         SkyscraperCity, 4chan 
+         
+         
+         Gallery website  
+         A website designed specifically for use as a gallery; these may be an art gallery or photo gallery and of commercial or non-commercial nature.  
+          
+         
+         
+         Government website  
+         A website made by the local, state, department, or national government of a country. Usually, these sites also operate websites that are intended to inform tourists or support tourism.  
+         USA.gov, Naenara, GOV.UK 
+         
+         
+         Gripe site  
+         A site devoted to the criticism of a person, place, corporation, government, or institution.  
+          
+         
+         
+         Online game website  
+         Websites where users can play online games  
+         Browser games, OGame, Travian, 
+         
+         
+         Online gambling website  
+         A site that lets users play online games such as gambling.  
+          
+         
+         
+         Humor site  
+         Satirizes, parodies, or amuses the audience.  
+         The Onion, National Lampoon digital archive, Encyclopedia Dramatica 
+         
+         
+         Information site  
+         Most websites fit in this category to some extent. They do not necessarily have commercial purposes.  
+         Most government, educational and nonprofit institutions have an informational site. 
+         
+         
+         Media-sharing site  
+         A site that enables users to upload and view media such as pictures, music, and videos  
+         YouTube, DeviantArt 
+         
+         
+         Mirror site  
+         A website that is the replication of another website. This type of website is used as a response to spikes in user visitors. Mirror sites are most commonly used to provide multiple sources of the same information and are of particular value as a way of providing reliable access to large downloads.  
+          
+         
+         
+         Microblog website  
+         A short and simple form of blogging. Microblogs are limited to certain numbers of characters and work similarly to a status update on Facebook.  
+         Twitter 
+         
+         
+         News site  
+         Similar to an information site, but dedicated to dispensing news, politics, and commentary.  
+         cnn.com bbc.com/news  
+         
+         
+         Personal website  
+         Websites about an individual or a small group (such as a family) that contains information or any content that the individual wishes to include. Such a personal website is different from a celebrity website, which can be very expensive and run by a publicist or agency.  
+          
+         
+         
+         Phishing website  
+         A website created to fraudulently acquire sensitive information, such as passwords and credit card details, by masquerading as a trustworthy person or business (such as Social Security Administration, PayPal, a bank) in an electronic communication (see Phishing).  
+          
+         
+         
+         Photo sharing website  
+         A website created to share digital photos with the online community. (see Photo sharing).  
+         Flickr, Instagram, Imgur 
+         
+         
+         p2p/Torrents website  
+         Websites that index torrent files. This type of website is different from a BitTorrent client which is usually a stand-alone software.  
+         Mininova, The Pirate Bay, IsoHunt 
+         
+         
+         Political site  
+         A site on which people may voice political views, provide political humor, campaign for elections, or provide information about a certain candidate, political party or ideology.  
+         Rhino Party of Canada website 
+         
+         
+         Question and Answer (Q&amp;A) site  
+         Answer site is a site where people can ask questions &amp; get answers.  
+         Quora, Yahoo! Answers, Stack Exchange Network (including Stack Overflow) 
+         
+         
+         Religious site  
+         A site in which people may advertise a place of worship, or provide inspiration or seek to encourage the faith of a follower of that religion.  
+          
+         
+         
+         Review site  
+         A site on which people can post reviews for products or services.  
+         Yelp, Rotten Tomatoes 
+         
+         
+         School website  
+         a site on which teachers, students, or administrators can post information about current events at or involving their school. U.S. elementary-high school websites generally use k12 in the URL  
+          
+         
+         
+         Scraper site  
+         a site that largely duplicates the content of another site without permission, without actually pretending to be that site, in order to capture some of that site's traffic (especially from search engines) and profit from advertising revenue or in other ways.  
+          
+         
+         
+         Search engine  
+         A website that indexes material on the Internet or an intranet (and lately on traditional media such as books and newspapers) and provides links to information as a response to a query.  
+         Google Search, Bing, DuckDuckGo, Ecosia 
+         
+         
+         Shock site  
+         Includes images or other material that is intended to be offensive to most viewers  
+         Goatse.cx, rotten.com 
+         
+         
+         Showcase website  
+         Web portals used by individuals and organisations to showcase things of interest or value  
+          
+         
+         
+         Social bookmarking site  
+         A site where users share other content from the Internet and rate and comment on the content.  
+         StumbleUpon, Digg 
+         
+         
+         Social networking service  
+         A site where users could communicate with one another and share media, such as pictures, videos, music, blogs, etc. with other users. These may include games and web applications.  
+         YouTube, Facebook, Instagram, Pinterest, LinkedIn 
+         
+         
+         Social news  
+         A social news website features user-posted stories that are ranked based on popularity. Users can comment on these posts, and these comments may also be ranked. Since their emergence with the birth of web 2.0, these sites are used to link many types of information including news, humor, support, and discussion. Social news sites allegedly facilitate democratic participation on the web.  
+         Reddit, Digg, SlashDot 
+         
+         
+         Warez  
+         A site designed to host or link to materials such as music, movies, and software for the user to download.  
+         The Pirate Bay 
+         
+         
+         Webcomic  
+         An online comic, ranging in various styles and genres unique to the World Wide Web.  
+         Penny Arcade, xkcd, Gunnerkrigg Court 
+         
+         
+         Webmail  
+         A site that provides a webmail service.  
+         Hotmail, Gmail, Protonmail, Yahoo! Mail 
+         
+         
+         Web portal  
+         A site that provides a starting point or a gateway to other resources on the Internet or an intranet.  
+         msn.com, msnbc.com, Newgrounds, Yahoo! 
+         
+         
+         Wiki site  
+         A site in which users collaboratively edit its content.  
+         Wikipedia, wikiHow, Wikia 
+        
+       
+       
+      Some websites may be included in one or more of these categories. For example, a business website may promote the business's products, but may also host informative documents, such as white papers. There are also numerous sub-categories to the ones listed above. For example, a porn site is a specific type of e-commerce site or business site (that is, it is trying to sell memberships for access to its site) or have social networking capabilities. A fansite may be a dedication from the owner to a particular celebrity. Websites are constrained by architectural limits (e.g., the computing power dedicated to the website). Very large websites, such as Facebook, Yahoo!, Microsoft, and Google employ many servers and load balancing equipment such as Cisco Content Services Switches to distribute visitor loads over multiple computers at multiple locations. As of early 2011, Facebook utilized 9 data centers with approximately 63,000 servers. 
+      In February 2009, Netcraft, an Internet monitoring company that has tracked Web growth since 1995, reported that there were 215,675,903 websites with domain names and content on them in 2009, compared to just 19,732 websites in August 1995. After reaching 1 billion websites in September 2014, a milestone confirmed by NetCraft in its October 2014 Web Server Survey and that Internet Live Stats was the first to announce—as attested by this tweet from the inventor of the World Wide Web himself, Tim Berners-Lee—the number of websites in the world have subsequently declined, reverting to a level below 1 billion. This is due to the monthly fluctuations in the count of inactive websites. The number of websites continued growing to over 1 billion by March 2016 and has continued growing since. Netcraft Web Server Survey in January 2020 reported that there are 1,295,973,827 websites and in April 2021 reported that there are 1,212,139,815 sites across 10,939,637 web facing computers, and 264,469,666 unique domains. However, 85 percent of all websites are reportedly inactive and only 10-15 percent are in use.  
+      Internet Users 
+      In 2009 there were reportedly 1.73 billion users worldwide with Asia taking leading with 738,257,230 users. Other internet users by region and continent include;  
+      
+       Europe - 418,029,796 users. 
+       North America - 252,908,000 users. 
+       Caribbean and Latin America - 179,031,479 users. 
+       Africa - 67,371,700 users. 
+       Middle East - 57,425,046 users. 
+       Australia and Oceania - 20,970,490 users.
+       
+      Following modernization, better access to computers, growth in smartphones technology and use, social media popularity, and cheaper access to the internet, the number of internet users worldwide increased tremendously to 3.97 in 2019.  This represents over 51 percent of the global population, with Asia remaining the continent with the most internet users as it accounts for 50 percent of the total number of internet users worldwide. China has the most internet users in the Asian continent, accounting for 25 percent of users in Asia. Also, China has more internet users than any other country in the world with over 934 million monthly users as at 2020. This number is more than double the number of internet users in the US which ranked third with 284 million monthly online users. India ranked second with about 687 million internet users accessing the internet either through mobile devices or computers.  One of the most popular activities online is social networking. In 2020, Facebook, a social networking site founded by Mark Zuckerberg recorded over 2.7 billion monthly active users. This number accounts for over half of global internet users, making Facebook the most popular online social network.  
+      See also 
+      
+       
+        
+        Internet portal 
+        Computer programming portal
+       
+       
+      
+       
+       
+        Link rot 
+        Lists of websites 
+        Site map 
+        Web content management system 
+        Web design 
+        Web development 
+        Web development tools 
+        Web hosting service 
+        Web template 
+        Website governance 
+        Website monetization 
+        World Wide Web Consortium (Web standards)
+        
+       
+      References 
+      
+       
+        
+        ^ "Tim Berners-Lee". www.w3.org. Retrieved 17 November 2021.  
+        ^ 
+          "The website of the world's first-ever web server". Retrieved 30 August 2008.  
+        ^ 
+          Cailliau, Robert. "A Little History of the World Wide Web". Retrieved 16 February 2007.  
+        ^ 
+          "Internet, Web, and Other Post-Watergate Concerns". University of Chicago. Retrieved 18 September 2010.  
+        ^ 
+          AP Stylebook  (16 April 2010). "Responding to reader input, we are changing Web site to website. This appears on Stylebook Online today and in the 2010 book next month" (Tweet). Retrieved 18 March 2019 – via Twitter.  
+        ^ 
+          "OpenGL ES for the Web". khronos.org. 19 July 2011. Retrieved 1 April 2019.  
+        ^ 
+          Pete LePage. "Responsive Web Design Basics | Web". Google Developers. Retrieved 13 March 2017.  
+        ^ 
+          Perrin, Andrew; Anderson, Monica (10 April 2019). "Social media usage in the U.S. in 2019 | Pew Research Center". PewResearch.Org. Pew Research. Retrieved 20 July 2019. graphic *Study was quoted in Forbes. }: External link in |quote= (help)  
+        ^ 
+          "Web Server Survey". Netcraft. Retrieved 13 March 2017.  
+        ^ A total number of Websites | Internet live stats. internetlivestats.com. Retrieved on 14 April 2015.  
+        ^ 
+          "Web Server Survey". Netcraft News. Retrieved 17 May 2021.  
+        ^ 
+          Deon (26 May 2020). "How Many Websites Are There Around the World? ". Siteefy. Retrieved 17 May 2021.  
+        ^ 
+          "Internet 2009 in numbers". Pingdom. Retrieved 17 May 2021.  
+        ^ 
+          "Number of internet users worldwide". Statista. Retrieved 17 May 2021.  
+        ^ 
+          "Internet audiences worldwide 2020". Statista. Retrieved 17 May 2021.  
+        ^ 
+          "Facebook MAU worldwide 2020". Statista. Retrieved 17 May 2021.  
+       
+       
+      External links 
+       
+       
+         
+          
+         Look up website in Wiktionary, the free dictionary.
+         
+       
+       
+      
+      
+       
+        
+         Library resources about  Website 
+          
+        
+        
+          
+          
+           Resources in your library
+           
+        
+       
+       
+      
+       Internet Corporation For Assigned Names and Numbers (ICANN) 
+       World Wide Web Consortium (W3C) 
+       The Internet Society (ISOC)
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Website topics
+           
+         
+         
+          By type
+          
+            
+            
+             Audition website 
+             Cashback website 
+             Fansite 
+             Gripe site 
+             Health website 
+             Lab website 
+             Library website 
+             Microsite 
+             Mirror site 
+             Personal wedding website 
+             School website
+             
+           
+          
+           
+            
+           
+         
+         
+          Lists by type
+          
+            
+            
+             Academic databases 
+             BitTorrent sites 
+             Blogs 
+             Chat websites 
+             Dating websites 
+             Deal of the day services 
+             Dictionaries 
+             Employment websites 
+             Encyclopedias 
+             Fake news websites 
+             Image-sharing websites 
+             Internet forums 
+             Marketplaces 
+             Microcredit lending websites 
+             Online databases 
+             Online video platforms 
+             Q&amp;A sites 
+             Satirical news websites 
+             Search engines 
+             Social bookmarking websites 
+             Social networking services 
+              
+               defunct
+               
+             Tor hidden services 
+             Web directories 
+             Webcomics 
+             Wikis
+             
+           
+         
+         
+          Lists by subject
+          
+            
+            
+             Astronomy websites 
+             Biodiversity databases 
+             Biology websites 
+             Educational websites 
+             Environmental websites 
+             Food and drink websites 
+             Video game websites 
+             Professional wrestling websites
+             
+           
+         
+         
+          Other
+          
+            
+            
+             Founded before 1995 
+             Most popular websites 
+             Websites blocked in mainland China 
+             Websites blocked in Russia 
+             Websites blocked in the United Kingdom 
+             Websites with country access restrictions
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          Authority control: National libraries 
+          
+            
+            
+             Spain 
+             France (data) 
+             Germany 
+             United States 
+             Latvia
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Website&amp;oldid=1062643666"
+     
+     
+    
+     
+      Categories: 
+      
+       Websites
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 errors: external links
+       Wikipedia indefinitely semi-protected pages
+       Use dmy dates from May 2020
+       Articles with short description
+       Short description matches Wikidata
+       Articles with BNE identifiers
+       Articles with BNF identifiers
+       Articles with GND identifiers
+       Articles with LCCN identifiers
+       Articles with LNB identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        <a href="/w/index.php?title=Website&amp;action=edit" title="This page is protected.
+You can view its source " accesskey="e">View source
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       Wikibooks
+       Wikiversity
+       
+      
+     
+     
+      Languages  
+      
+      
+       Afrikaans
+       Alemannisch
+       አማርኛ
+       Ænglisc
+       العربية
+       Arpetan
+       অসমীয়া
+       Asturianu
+       Azərbaycanca
+       تۆرکجه
+       বাংলা
+       Bân-lâm-gú
+       Башҡортса
+       Беларуская
+       Беларуская (тарашкевіца)
+       भोजपुरी
+       Bikol Central
+       Български
+       Bosanski
+       Brezhoneg
+       Català
+       Cebuano
+       Čeština
+       Cymraeg
+       Dansk
+       Deutsch
+       Eesti
+       Ελληνικά
+       Español
+       Esperanto
+       Euskara
+       فارسی
+       Français
+       Frysk
+       Gaeilge
+       Gaelg
+       Gàidhlig
+       Galego
+       ગુજરાતી
+       한국어
+       Հայերեն
+       हिन्दी
+       Bahasa Indonesia
+       Interlingua
+       Italiano
+       עברית
+       Jawa
+       ಕನ್ನಡ
+       ქართული
+       Қазақша
+       Kiswahili
+       Kurdî
+       Кыргызча
+       ລາວ
+       Latina
+       Latviešu
+       Lëtzebuergesch
+       Lietuvių
+       Limburgs
+       Lombard
+       Magyar
+       Македонски
+       മലയാളം
+       Malti
+       मराठी
+       მარგალური
+       مصرى
+       Bahasa Melayu
+       Монгол
+       မြန်မာဘာသာ
+       Nederlands
+       Nedersaksies
+       नेपाली
+       日本語
+       Norsk bokmål
+       Norsk nynorsk
+       Олык марий
+       Oʻzbekcha/ўзбекча
+       ਪੰਜਾਬੀ
+       Pälzisch
+       پنجابی
+       ភាសាខ្មែរ
+       Polski
+       Português
+       Română
+       Русский
+       Саха тыла
+       Scots
+       Shqip
+       Sicilianu
+       සිංහල
+       Simple English
+       سنڌي
+       Slovenčina
+       Slovenščina
+       Soomaaliga
+       کوردی
+       Српски / srpski
+       Srpskohrvatski / српскохрватски
+       Sunda
+       Suomi
+       Svenska
+       Tagalog
+       தமிழ்
+       Taclḥit
+       Татарча/tatarça
+       తెలుగు
+       Tetun
+       ไทย
+       Тоҷикӣ
+       Türkçe
+       Українська
+       اردو
+       Vèneto
+       Tiếng Việt
+       Walon
+       West-Vlams
+       Winaray
+       Wolof
+       吴语
+       ייִדיש
+       粵語
+       Zazaki
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 29 December 2021, at 17:54&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

@@ -1,0 +1,2298 @@
+
+ 
+  
+   
+  Social psychology - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Social psychology 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Study of social effects on people's thoughts, feelings, and behaviors
+       
+      
+      
+       This article is about the subfield of psychology. For the subfield of sociology, see Social psychology (sociology). For the journal, see Social Psychology (journal).
+       
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This article contains wording that promotes the subject in a subjective manner without imparting real information. Please remove or replace such wording and instead of making proclamations about a subject's importance, use facts and attribution to demonstrate that importance. (March 2021) (Learn how and when to remove this template message)
+          
+        
+       
+       
+        
+      
+      
+       
+        
+         Part of a series on
+        
+        
+         Psychology
+        
+        
+         
+        
+        
+          
+          
+           Outline 
+           History 
+           Subfields
+          
+        
+        
+          
+          
+           
+            Basic types
+           
+            
+            
+             Abnormal 
+             Behavioral 
+             Behavioral genetics 
+             Biological 
+             Cognitive/Cognitivism 
+             Comparative 
+             Cross-cultural 
+             Cultural 
+             Differential 
+             Developmental 
+             Evolutionary 
+             Experimental 
+             Mathematical 
+             Neuropsychology 
+             Personality 
+             Positive 
+             Psychodynamic 
+             Quantitative 
+             Social
+            
+           
+           
+        
+        
+          
+          
+           
+            Applied psychology
+           
+            
+            
+             Applied behavior analysis 
+             Clinical 
+             Community 
+             Consumer 
+             Counseling 
+             Critical 
+             Educational 
+             Environmental 
+             Ergonomics 
+             Forensic 
+             Health 
+             Humanistic 
+             Industrial and organizational 
+             Psychometrics 
+             Legal 
+             Medical 
+             Military 
+             Music 
+             Occupational health 
+             Political 
+             Religion 
+             School 
+             Sport 
+             Traffic
+            
+           
+           
+        
+        
+          
+          
+           
+            Lists
+           
+            
+            
+             Disciplines 
+             Organizations 
+             Psychologists 
+             Psychotherapies 
+             Publications 
+             Research methods 
+             Theories 
+             Timeline 
+             Topics
+            
+           
+           
+        
+        
+          
+          
+           &nbsp;Psychology portal
+          
+        
+        
+         
+          
+           
+            v
+            t
+            e
+           
+          
+        
+       
+       
+      Social psychology is the scientific study of how the thoughts, feelings, and behaviors of individuals are influenced by the actual, imagined, and implied presence of others, 'imagined' and 'implied presences' referring to the internalized social norms that humans are influenced by even when they are alone. 
+      Social psychologists typically explain human behavior as being a result of the relationship between mental state and social situation, studying the conditions under which thoughts, feelings, and behaviors occur and how these variables influence social interactions. 
+      Social psychology has bridged the gap between psychology and sociology to an extent, but a divide still exists between the two fields. Nevertheless, sociological approaches to psychology remain an important counterpart to conventional psychological research. In addition to the split between psychology and sociology, there is a difference in emphasis between American and European social psychologists, as the former traditionally have focused more on the individual, whereas the latter have generally paid more attention to group-level phenomena.  
+      
+       
+       
+        Contents
+        
+        
+        1 History 
+          
+          1.1 19th century 
+          1.2 Early 20th century 
+          1.3 Late 20th century and modernity 
+           
+        2 Intrapersonal phenomena 
+          
+          2.1 Attitudes 
+          2.2 Persuasion 
+          2.3 Social cognition 
+            
+            2.3.1 Heuristics 
+            2.3.2 Schemas 
+             
+          2.4 Self-concept 
+           
+        3 Interpersonal phenomena 
+          
+          3.1 Social influence 
+          3.2 Group dynamics 
+          3.3 Interpersonal attraction 
+           
+        4 Research 
+          
+          4.1 Methods 
+          4.2 Famous experiments 
+            
+            4.2.1 Asch conformity experiments 
+            4.2.2 Festinger (cognitive dissonance) 
+            4.2.3 Milgram experiment 
+            4.2.4 Stanford prison experiment 
+            4.2.5 Robber's cave experiment 
+            4.2.6 Bandura's Bobo doll 
+             
+          4.3 Ethics 
+          4.4 Adolescents 
+          4.5 Replication crisis 
+          4.6 Academic journals 
+           
+        5 See also 
+        6 Notes 
+        7 References 
+        8 External links 
+        
+       
+      History 
+      Although issues in social psychology already had been discussed in philosophy for much of human history—such as the writings of the Islamic philosopher Al-Farabi, which dealt with similar issues—the modern, scientific discipline began in the United States when the American Sociological Association (ASA) was founded in 1905.  
+      19th century 
+      In the 19th century, social psychology was an emerging field from the larger field of psychology. At the time, many psychologists were concerned with developing concrete explanations for the different aspects of human nature. They attempted to discover concrete cause-and-effect relationships that explained social interactions. In order to do so, they applied the scientific method to human behavior. The first published study in the field was Norman Triplett's 1898 experiment on the phenomenon of social facilitation. These psychological experiments later went on to form the foundation of much of 20th century social psychological findings.  
+      Early 20th century 
+      During the 1930s, many Gestalt psychologists, most notably Kurt Lewin, fled to the United States from Nazi Germany. They were instrumental in developing the field as an area separate from the dominant behavioral and psychoanalytic schools of that time. Attitudes and small group phenomena were the topics most commonly studied in this era. 
+      During World War II, social psychologists were mostly concerned with studies of persuasion and propaganda for the U.S. military (see also psychological warfare). Following the war, researchers became interested in a variety of social problems, including issues of gender and racial prejudice. Most notable and contentious of these were the Milgram experiments. During the years immediately following World War II, there were frequent collaborations between psychologists and sociologists. The two disciplines, however, have become increasingly specialized and isolated from each other in recent years, with sociologists generally focusing on macro features whereas psychologists generally focusing on more micro features.  
+      Late 20th century and modernity 
+      In the 1960s, there was growing interest in topics such as cognitive dissonance, bystander intervention, and aggression. By the 1970s, however, social psychology in America had reached a crisis, as heated debates emerged over issues such as ethical concerns about laboratory experimentation, whether attitude could actually predict behavior, and how much science could be done in a cultural context. This was also a time when situationism came to challenge the relevance of self and personality in psychology. 
+      Throughout the 1980s and 1990s, social psychology reached a more mature level, especially in regard to theory and methodology. Now, careful ethical standards regulate research, and pluralistic and multicultural perspectives have emerged. Modern researchers are interested in many phenomena, though attribution, social cognition, and the self-concept are perhaps the areas of greatest growth in recent years. Social psychologists have also maintained their applied interests with contributions in the social psychology of health, education, law, and the workplace.  
+      Intrapersonal phenomena 
+      Attitudes 
+      
+      
+       Main article: Attitude (psychology)
+       
+      In social psychology, attitude is defined as learned, global evaluations (e.g. of people or issues) that influence thought and action. Attitudes are basic expressions of approval and disapproval, or as Bem (1970) suggests, likes and dislikes (e.g. enjoying chocolate ice cream, or endorsing the values of a particular political party). Because people are influenced by other factors in any given situation, general attitudes are not always good predictors of specific behavior. For example, a person may value the environment but may not recycle a plastic bottle on a particular day. 
+      Research on attitudes has examined the distinction between traditional, self-reported attitudes and implicit, unconscious attitudes. Experiments using the implicit association test, for instance, have found that people often demonstrate implicit bias against other races, even when their explicit responses profess equal mindedness. Likewise, one study found that in interracial interactions, explicit attitudes correlate with verbal behavior while implicit attitudes correlate with nonverbal behavior. 
+      One hypothesis on how attitudes are formed, first proposed in 1983 by Abraham Tesser, is that strong likes and dislikes are ingrained in our genetic make-up. Tesser speculated that individuals are disposed to hold certain strong attitudes as a result of inborn personality traits and physical, sensory, and cognitive skills. Attitudes are also formed as a result of exposure to different experiences, environments, and the learning process. Numerous studies have shown that people can form strong attitudes toward neutral objects that are in some way linked to emotionally charged stimuli.: 185–186  
+      Attitudes are also involved in several other areas of the discipline, such as conformity, interpersonal attraction, social perception, and prejudice.  
+      Persuasion 
+      
+      
+       Main article: Persuasion
+       
+      Persuasion is an active method of influencing that attempts to guide people toward the adoption of an attitude, idea, or behavior by rational or emotive means. Persuasion relies on appeals rather than strong pressure or coercion. The process of persuasion has been found to be influenced by numerous variables that generally fall into one of five major categories:  
+      
+       Communicator: includes credibility, expertise, trustworthiness, and attractiveness. 
+       Message: includes varying degrees of reason, emotion (e.g. fear), one-sided or two-sided arguments, and other types of informational content. 
+       Audience: includes a variety of demographics, personality traits, and preferences. 
+       Channel/medium: includes printed word, radio, television, the internet, or face-to-face interactions. 
+       Context: includes environment, group dynamics, and preliminary information to that of Message (category #2).
+       
+      Dual-process theories of persuasion (such as the elaboration likelihood model) maintain that persuasion is mediated by two separate routes: central and peripheral. The central route of persuasion is more fact-based and results in longer-lasting change, but requires motivation to process. The peripheral route is more superficial and results in shorter-lasting change, but does not require as much motivation to process. An example of peripheral persuasion is a politician using a flag lapel pin, smiling, and wearing a crisp, clean shirt. This does not require motivation to be persuasive, but should not last as long as central persuasion. If that politician were to outline what they believe and their previous voting record, he would be centrally persuasive, resulting in longer-lasting change at the expense of greater motivation required for processing.  
+      Social cognition 
+      
+      
+       Main article: Social cognition
+       
+      Social cognition studies how people perceive, think about, and remember information about others. Much research rests on the assertion that people think about other people differently from non-social targets. This assertion is supported by the social-cognitive deficits exhibited by people with Williams syndrome and autism. Person perception is the study of how people form impressions of others. The study of how people form beliefs about each other while interacting is interpersonal perception. 
+      A major research topic in social cognition is attribution. Attributions are how we explain people's behavior, either our own behavior or the behavior of others. One element of attribution ascribes the cause of behavior to internal and external factors. An internal, or dispositional, attribution reasons that behavior is caused by inner traits such as personality, disposition, character, and ability. An external, or situational, attribution reasons that behaviour is caused by situational elements such as the weather.: 111  A second element of attribution ascribes the cause of behavior to stable and unstable factors (i.e. whether the behavior will be repeated or changed under similar circumstances). Individuals also attribute causes of behavior to controllable and uncontrollable factors (i.e. how much control one has over the situation at hand). 
+      Numerous biases in the attribution process have been discovered. For instance, the fundamental attribution error is the tendency to make dispositional attributions for behavior, overestimating the influence of personality and underestimating the influence of the situational.: 724  The actor-observer bias is a refinement of this; it is the tendency to make dispositional attributions for other people's behavior and situational attributions for our own.: 107  The self-serving bias is the tendency to attribute dispositional causes for successes, and situational causes for failure, particularly when self-esteem is threatened. This leads to assuming one's successes are from innate traits, and one's failures are due to situations.: 109  Other ways people protect their self-esteem are by believing in a just world, blaming victims for their suffering, and making defensive attributions that explain our behavior in ways that defend us from feelings of vulnerability and mortality.: 111  Researchers have found that mildly depressed individuals often lack this bias and actually have more realistic perceptions of reality as measured by the opinions of others.  
+      Heuristics 
+      Heuristics are cognitive shortcuts. Instead of weighing all the evidence when making a decision, people rely on heuristics to save time and energy. The availability heuristic occurs when people estimate the probability of an outcome based on how easy that outcome is to imagine. As such, vivid or highly memorable possibilities will be perceived as more likely than those that are harder to picture or difficult to understand, resulting in a corresponding cognitive bias. The representativeness heuristic is a shortcut people use to categorize something based on how similar it is to a prototype they know of.: 63  Numerous other biases have been found by social cognition researchers. The hindsight bias is a false memory of having predicted events, or an exaggeration of actual predictions, after becoming aware of the outcome. The confirmation bias is a type of bias leading to the tendency to search for or interpret information in a way that confirms one's preconceptions.  
+      Schemas 
+      Another key concept in social cognition is the assumption that reality is too complex to easily discern. As a result, we tend to see the world according to simplified schemas or images of reality. Schemas are generalized mental representations that organize knowledge and guide information processing. Schemas often operate automatically and unintentionally and can lead to biases in perception and memory. Schemas may induce expectations that lead us to see something that is not there. One experiment found that people are more likely to misperceive a weapon in the hands of a black man than a white man. This type of schema is a stereotype, a generalized set of beliefs about a particular group of people (when incorrect, an ultimate attribution error). Stereotypes are often related to negative or preferential attitudes (prejudice) and behavior (discrimination). Schemas for behaviors (e.g., going to a restaurant, doing laundry) are known as scripts.  
+      Self-concept 
+      
+      
+       Main article: Self-concept
+       
+      Self-concept is the whole sum of beliefs that people have about themselves. The self-concept is made up of cognitive aspects called self-schemas—beliefs that people have about themselves and that guide the processing of self-referential information. For example, an athlete at a university would have multiple selves that would process different information pertinent to each self: the student would be oneself, who would process information pertinent to a student (taking notes in class, completing a homework assignment, etc.); the athlete would be the self who processes information about things related to being an athlete (recognizing an incoming pass, aiming a shot, etc.). These selves are part of one's identity and the self-referential information is that which relies on the appropriate self to process and react to it. If a self is not part of one's identity, then it is much more difficult for one to react. For example, a civilian may not know how to handle a hostile threat as well as a trained Marine would. The Marine contains a self that would enable him/her to process the information about the hostile threat and react accordingly, whereas a civilian may not contain that self, lessening the civilian's ability to properly assess the threat and act accordingly. 
+      The self-concept comprises multiple self-schemas. For example, people whose body image is a significant self-concept aspect are considered schematics with respect to weight. In contrast, people who do not regard their weight as an important part of their lives are aschematic with respect to that attribute. For individuals, a range of otherwise mundane events—grocery shopping, new clothes, eating out, or going to the beach—can trigger thoughts about the self. 
+      The self is a special object of our attention. Whether one is mentally focused on a memory, a conversation, a foul smell, the song that is stuck in one's head, or this sentence, consciousness is like a spotlight. This spotlight can shine on only one object at a time, but it can switch rapidly from one object to another. In this spotlight the self is front and center: things relating to the self have the spotlight more often. 
+      The ABCs of self are:: 53   
+      
+       Affect (i.e. emotion): How do people evaluate themselves, enhance their self-image, and maintain a secure sense of identity? 
+       Behavior: How do people regulate their own actions and present themselves to others according to interpersonal demands? 
+       Cognition: How do individuals become themselves, build a self-concept, and uphold a stable sense of identity?
+       
+      Affective forecasting is the process of predicting how one would feel in response to future emotional events. Studies done in 2003 by Timothy Wilson and Daniel Gilbert have shown that people overestimate the strength of their reactions to anticipated positive and negative life events, more than they actually feel when the event does occur. 
+      There are many theories on the perception of our own behavior. Leon Festinger's 1954 social comparison theory is that people evaluate their own abilities and opinions by comparing themselves to others when they are uncertain of their own ability or opinions. Daryl Bem's 1972 self-perception theory claims that when internal cues are difficult to interpret, people gain self-insight by observing their own behavior. There is also the facial feedback hypothesis: changes in facial expression can lead to corresponding changes in emotion.: 56  
+      The self-concept is often divided into a cognitive component, known as the self-schema, and an evaluative component, the self-esteem. The need to maintain a healthy self-esteem is recognized as a central human motivation. 
+      Self-efficacy beliefs are associated with the self-schema. These are expectations that performance of some task will be effective and successful. Social psychologists also study such self-related processes as self-control and self-presentation. 
+      People develop their self-concepts by various means, including introspection, feedback from others, self-perception, and social comparison. By comparing themselves to others, people gain information about themselves, and they make inferences that are relevant to self-esteem. Social comparisons can be either upward or downward, that is, comparisons to people who are either higher or lower in status or ability. Downward comparisons are often made in order to elevate self-esteem. 
+      Self-perception is a specialized form of attribution that involves making inferences about oneself after observing one's own behavior. Psychologists have found that too many extrinsic rewards (e.g. money) tend to reduce intrinsic motivation through the self-perception process, a phenomenon known as overjustification. People's attention is directed to the reward, and they lose interest in the task when the reward is no longer offered. This is an important exception to reinforcement theory.  
+      Interpersonal phenomena 
+      Social influence 
+      
+      
+       Main article: Social influence
+       
+      Social influence is an overarching term that denotes the persuasive effects people have on each other. It is seen as a fundamental value in social psychology. The study of it overlaps considerably with research into attitudes and persuasion. The three main areas of social influence include conformity, compliance, and obedience. Social influence is also closely related to the study of group dynamics, as most effects of influence are strongest when they take place in social groups. 
+      The first major area of social influence is conformity. Conformity is defined as the tendency to act or think like other members of a group. The identity of members within a group (i.e. status), similarity, expertise, as well as cohesion, prior commitment, and accountability to the group help to determine the level of conformity of an individual. Individual variations among group members play a key role in the dynamic of how willing people will be to conform.: 27  Conformity is usually viewed as a negative tendency in American culture, but a certain amount of conformity is adaptive in some situations, as is nonconformity in other situations.: 15   
+      
+       
+         
+        
+         
+          
+         Which line matches the first line, A, B, or C? In the Asch conformity experiments, people frequently followed the majority judgment, even when the majority was objectively wrong.
+        
+       
+       
+      The second major area of social influence research is compliance, which refers to any change in behavior that is due to a request or suggestion from another person. The foot-in-the-door technique is a compliance method in which the persuader requests a small favor and then follows up with requesting a larger favor, e.g., asking for the time and then asking for ten dollars. A related trick is the bait and switch. 
+      The third major form of social influence is obedience; this is a change in behavior that is the result of a direct order or command from another person. Obedience as a form of compliance was dramatically highlighted by the Milgram study, wherein people were ready to administer shocks to a person in distress on a researcher's command.: 41  
+      An unusual kind of social influence is the self-fulfilling prophecy. This is a prediction that, in being made, causes itself to become true. For example, in the stock market, if it is widely believed that a crash is imminent, investors may lose confidence, sell most of their stock, and thus cause a crash. Similarly, people may expect hostility in others and induce this hostility by their own behavior.: 18  
+      Psychologists have spent decades studying the power of social influence, and the way in which it manipulates people's opinions and behavior. Specifically, social influence refers to the way in which individuals change their ideas and actions to meet the demands of a social group, received authority, social role, or a minority within a group wielding influence over the majority.  
+       
+      Group dynamics 
+      
+      
+       Main article: Group dynamics
+       
+      A group can be defined as two or more individuals who are connected to each other by social relationships. Groups tend to interact, influence each other, and share a common identity. They have a number of emergent qualities that distinguish them from coincidental, temporary gatherings, which are termed social aggregates:  
+      
+       Norms: Implicit rules and expectations for group members to follow (e.g. saying thank you, shaking hands). 
+       Roles: Implicit rules and expectations for specific members within the group (e.g. the oldest sibling, who may have additional responsibilities in the family). 
+       Relations: Patterns of liking within the group, and also differences in prestige or status (e.g. leaders, popular people).
+       
+      Temporary groups and aggregates share few or none of these features and do not qualify as true social groups. People waiting in line to get on a bus, for example, do not constitute a group. 
+      Groups are important not only because they offer social support, resources, and a feeling of belonging, but because they supplement an individual's self-concept. To a large extent, humans define themselves by the group memberships which form their social identity. The shared social identity of individuals within a group influences intergroup behavior, which denotes the way in which groups behave towards and perceive each other. These perceptions and behaviors in turn define the social identity of individuals within the interacting groups. The tendency to define oneself by membership in a group may lead to intergroup discrimination, which involves favorable perceptions and behaviors directed towards the in-group, but negative perceptions and behaviors directed towards the out-group. On the other hand, such discrimination and segregation may sometimes exist partly to facilitate a diversity that strengthens society. Intergroup discrimination leads to prejudicial stereotyping, while the processes of social facilitation and group polarization encourage extreme behaviors towards the out-group. 
+      Groups often moderate and improve decision making, and are frequently relied upon for these benefits, such as in committees and juries. A number of group biases, however, can interfere with effective decision making. For example, group polarization, formerly known as the "risky shift", occurs when people polarize their views in a more extreme direction after group discussion. More problematic is the phenomenon of groupthink, which is a collective thinking defect that is characterized by a premature consensus or an incorrect assumption of consensus, caused by members of a group failing to promote views that are not consistent with the views of other members. Groupthink occurs in a variety of situations, including isolation of a group and the presence of a highly directive leader. Janis offered the 1961 Bay of Pigs Invasion as a historical case of groupthink. 
+      Groups also affect performance and productivity. Social facilitation, for example, is a tendency to work harder and faster in the presence of others. Social facilitation increases the dominant response's likelihood, which tends to improve performance on simple tasks and reduce it on complex tasks. In contrast, social loafing is the tendency of individuals to slack off when working in a group. Social loafing is common when the task is considered unimportant and individual contributions are not easy to see. 
+      Social psychologists study group-related (collective) phenomena such as the behavior of crowds. An important concept in this area is deindividuation, a reduced state of self-awareness that can be caused by feelings of anonymity. Deindividuation is associated with uninhibited and sometimes dangerous behavior. It is common in crowds and mobs, but it can also be caused by a disguise, a uniform, alcohol, dark environments, or online anonymity.  
+      
+       
+         
+        
+         
+          
+         Social psychologists study interactions within groups, and between both groups and individuals.
+        
+       
+       
+      Interpersonal attraction 
+      
+      
+       Main article: Interpersonal attraction
+       
+      A major area of study of people's relations to each other is interpersonal attraction, which refers to all forces that lead people to like each other, establish relationships, and (in some cases) fall in love. Several general principles of attraction have been discovered by social psychologists. One of the most important factors in interpersonal attraction is how similar two particular people are. The more similar two people are in general attitudes, backgrounds, environments, worldviews, and other traits, the more likely they will be attracted to each other. 
+      Physical attractiveness is an important element of romantic relationships, particularly in the early stages characterized by high levels of passion. Later on, similarity and other compatibility factors become more important, and the type of love people experience shifts from passionate to companionate. In 1986, Robert Sternberg suggested that there are actually three components of love: intimacy, passion, and commitment. When two (or more) people experience all three, they are said to be in a state of consummate love. 
+      According to social exchange theory, relationships are based on rational choice and cost-benefit analysis. A person may leave a relationship if their partner's "costs" begin to outweigh their benefits, especially if there are good alternatives available. This theory is similar to the minimax principle proposed by mathematicians and economists (despite the fact that human relationships are not zero-sum games). With time, long-term relationships tend to become communal rather than simply based on exchange.  
+      Research 
+      Methods 
+      Social psychology is an empirical science that attempts to answer questions about human behavior by testing hypotheses, both in the laboratory and in the field. Careful attention to research design, sampling, and statistical analysis is important; results are published in peer-reviewed journals such as the Journal of Experimental Social Psychology, Personality and Social Psychology Bulletin and the Journal of Personality and Social Psychology. Social psychology studies also appear in general science journals such as Psychological Science and Science. 
+      Experimental methods involve the researcher altering a variable in the environment and measuring the effect on another variable. An example would be allowing two groups of children to play violent or nonviolent video games and then observing their subsequent level of aggression during the free-play period. A valid experiment is controlled and uses random assignment. 
+      Correlational methods examine the statistical association between two naturally occurring variables. For example, one could correlate the number of violent television shows children watch at home with the number of violent incidents the children participate in at school. Note that this study would not prove that violent TV causes aggression in children: it is quite possible that aggressive children choose to watch more violent TV. 
+      Observational methods are purely descriptive and include naturalistic observation, contrived observation, participant observation, and archival analysis. These are less common in social psychology but are sometimes used when first investigating a phenomenon. An example would be to unobtrusively observe children on a playground (with a videocamera, perhaps) and record the number and types of aggressive actions displayed. 
+      Whenever possible, social psychologists rely on controlled experimentation, which requires the manipulation of one or more independent variables in order to examine the effect on a dependent variable. Experiments are useful in social psychology because they are high in internal validity, meaning that they are free from the influence of confounding or extraneous variables, and so are more likely to accurately indicate a causal relationship. However, the small samples used in controlled experiments are typically low in external validity, or the degree to which the results can be generalized to the larger population. There is usually a trade-off between experimental control (internal validity) and being able to generalize to the population (external validity). 
+      Because it is usually impossible to test everyone, research tends to be conducted on a sample of persons from the wider population. Social psychologists frequently use survey research when they are interested in results that are high in external validity. Surveys use various forms of random sampling to obtain a sample of respondents that is representative of a population. This type of research is usually descriptive or correlational because there is no experimental control over variables. Some psychologists have raised concerns for social psychological research relying too heavily on studies conducted on university undergraduates in academic settings, or participants from crowdsourcing labor markets such as Amazon Mechanical Turk. In a 1986 study by David O. Sears, over 70% of experiments used North American undergraduates as subjects, a subset of the population that is unrepresentative of the population as a whole. 
+      Regardless of which method has been chosen, the significance of the results is reviewed before accepting them in evaluating an underlying hypothesis. There are two different types of tests that social psychologists use to review their results. Statistics and probability testing define what constitutes a significant finding, which can be as low as 5% or less, that is unlikely due to chance. Replications testing is important in ensuring that the results are valid and not due to chance. False positive conclusions, often resulting from the pressure to publish or the author's own confirmation bias, are a hazard in the field.  
+      Famous experiments 
+      Asch conformity experiments 
+      
+      
+       Main articles: Asch conformity experiments and Solomon Asch
+       
+      The Asch conformity experiments demonstrated the power of the impulse to conform within small groups, by the use of a line-length estimation task that was designed to be easy to assess but where deliberately wrong answers were given by at least some, oftentimes most, of the other participants. In well over a third of the trials, participants conformed to the majority, even though the majority judgment was clearly wrong. Seventy-five percent of the participants conformed at least once during the experiment. Additional manipulations of the experiment showed that participant conformity decreased when at least one other individual failed to conform but increased when the individual began conforming or withdrew from the experiment. Also, participant conformity increased substantially as the number of "incorrect" individuals increased from one to three, and remained high as the incorrect majority grew. Participants with three other, incorrect participants made mistakes 31.8% of the time, while those with one or two incorrect participants made mistakes only 3.6% and 13.6% of the time, respectively.  
+      Festinger (cognitive dissonance) 
+      
+      
+       Main article: Leon Festinger §&nbsp;Cognitive Dissonance
+       
+      In Leon Festinger's cognitive dissonance experiment, after being divided into two groups participants were asked to perform a boring task and later asked to dishonestly give their opinion of the task, afterwards being rewarded according to two different pay scales. At the study's end, some participants were paid $1 to say that they enjoyed the task and another group of participants were paid $20 to tell the same lie. The first group ($1) later reported liking the task better than the second group ($20). Festinger's explanation was that for people in the first group being paid only $1 is not sufficient incentive for lying and those who were paid $1 experienced dissonance. They could only overcome that dissonance by justifying their lies by changing their previously unfavorable attitudes about the task. Being paid $20 provides a reason for doing the boring task resulting in no dissonance.  
+      
+       
+         
+        
+         
+          
+         The Milgram experiment: The experimenter (E) persuades the participant (T) to give what the participant believes are painful electric shocks to another participant (L), who is actually an actor. Many participants continued to give shocks despite pleas for mercy from the actor.
+        
+       
+       
+      Milgram experiment 
+      
+      
+       Main articles: Milgram experiment, Obedience to Authority, and Stanley Milgram
+       
+      The Milgram experiment was designed to study how far people would go in obeying an authority figure. Following the events of The Holocaust in World War II, the experiment showed that normal American citizens were capable of following orders even when they believed they were causing an innocent person to suffer or even apparently die.  
+      Stanford prison experiment 
+      
+      
+       Main articles: Stanford prison experiment and Philip Zimbardo
+       
+      Philip Zimbardo's Stanford prison study, a simulated exercise involving students playing at being prison guards and inmates, ostensibly showed how far people would go in such role playing. In just a few days, the guards became brutal and cruel, and the prisoners became miserable and compliant. This was initially argued to be an important demonstration of the power of the immediate social situation and its capacity to overwhelm normal personality traits. Subsequent research has contested the initial conclusions of the study. For example, it has been pointed out that participant self-selection may have affected the participants' behavior, and that the participants' personalities influenced their reactions in a variety of ways, including how long they chose to remain in the study. The 2002 BBC prison study, designed to replicate the conditions in the Stanford study, produced conclusions that were drastically different from the initial findings.  
+      Robber's cave experiment 
+      Muzafer Sherif's robbers' cave study divided boys into two competing groups to explore how much hostility and aggression would emerge. Sherif's explanation of the results became known as realistic group conflict theory, because the intergroup conflict was induced through competition for resources. Inducing cooperation and superordinate goals later reversed this effect.  
+      Bandura's Bobo doll 
+      Albert Bandura's Bobo doll experiment demonstrated how aggression is learned by imitation.  
+      Ethics 
+      The goal of social psychology is to understand cognition and behavior as they naturally occur in a social context, but the very act of observing people can influence and alter their behavior. For this reason, many social psychology experiments utilize deception to conceal or distort certain aspects of the study. Deception may include false cover stories, false participants (known as confederates or stooges), false feedback given to the participants, and so on. 
+      The practice of deception has been challenged by psychologists who maintain that deception under any circumstances is unethical and that other research strategies (e.g., role-playing) should be used instead. Unfortunately, research has shown that role-playing studies do not produce the same results as deception studies, and this has cast doubt on their validity. In addition to deception, experimenters have at times put people into potentially uncomfortable or embarrassing situations (e.g., the Milgram experiment and Stanford prison experiment), and this has also been criticized for ethical reasons. 
+      To protect the rights and well-being of research participants, and at the same time discover meaningful results and insights into human behavior, virtually all social psychology research must pass an ethical review. At most colleges and universities, this is conducted by an ethics committee or Institutional Review Board, which examines the proposed research to make sure that no harm is likely to come to the participants, and that the study's benefits outweigh any possible risks or discomforts to people taking part. 
+      Furthermore, a process of informed consent is often used to make sure that volunteers know what will be asked of them in the experiment and understand that they are allowed to quit the experiment at any time. A debriefing is typically done at the experiment's conclusion in order to reveal any deceptions used and generally make sure that the participants are unharmed by the procedures. Today, most research in social psychology involves no more risk of harm than can be expected from routine psychological testing or normal daily activities.  
+      Adolescents 
+      Social psychology studies what plays key roles in a child's development. During this time, teens are faced with many issues and decisions that can impact their social development. They are faced with self-esteem issues, peer pressure, drugs, alcohol, tobacco, sex, and social media. 
+      Psychologists today are not fully aware of the effect of social media. Social media is worldwide, so one can be influenced by something they will never encounter in real life. In 2019, social media became the single most important activity in adolescents' and even some older adults' lives.  
+      Replication crisis 
+      
+      
+       Main article: Replication crisis
+       
+      Many social psychological research findings have proven difficult to replicate, leading some to argue that social psychology is undergoing a replication crisis. Replication failures are not unique to social psychology and are found in all fields of science. Some factors have been identified in social psychological research that has led the field to undergo its current crisis. 
+      Firstly, questionable research practices have been identified as common. Such practices, while not necessarily intentionally fraudulent, involve converting undesired statistical outcomes into desired outcomes via the manipulation of statistical analyses, sample sizes, or data management systems, typically to convert non-significant findings into significant ones. Some studies have suggested that at least mild versions of these practices are prevalent. One of the criticisms of Daryl Bem in the feeling the future controversy is that the evidence for precognition in the study could be attributed to questionable practices. 
+      Secondly, some social psychologists have published fraudulent research that has entered into mainstream academia, most notably the admitted data fabrication by Diederik Stapel as well as allegations against others. Fraudulent research is not the main contributor to the replication crisis. 
+      Several effects in social psychology have been found to be difficult to replicate even before the current replication crisis. For example, the scientific journal Judgment and Decision Making has published several studies over the years that fail to provide support for the unconscious thought theory. Replications appear particularly difficult when research trials are pre-registered and conducted by research groups not highly invested in the theory under questioning. 
+      These three elements together have resulted in renewed attention to replication supported by Daniel Kahneman. Scrutiny of many effects have shown that several core beliefs are hard to replicate. A 2014 special edition of Social Psychology focused on replication studies, and a number of previously held beliefs were found to be difficult to replicate. Likewise, a 2012 special edition of Perspectives on Psychological Science focused on issues ranging from publication bias to null-aversion that contribute to the replication crisis in psychology. 
+      It is important to note that this replication crisis does not mean that social psychology is unscientific. Rather, this reexamination is a healthy if sometimes acrimonious part of the scientific process in which old ideas or those that cannot withstand careful scrutiny are pruned. The consequence is that some areas of social psychology once considered solid, such as social priming, have come under increased scrutiny due to failure to replicate findings.  
+      Academic journals 
+      
+       
+       
+        Asian Journal of Social Psychology 
+        Basic and Applied Social Psychology 
+        British Journal of Social Psychology 
+        European Journal of Social Psychology 
+        Journal of Applied Social Psychology 
+        Journal of Experimental Social Psychology 
+        Journal of Personality and Social Psychology 
+        Journal of Social Psychology 
+        Personality and Social Psychology Bulletin 
+        Personality and Social Psychology Review 
+        Social Psychology
+        
+       
+      See also 
+      
+       
+        
+        Psychology portal
+       
+       
+      
+       
+       
+        Association of Psychological and Social Studies 
+        Crowd psychology 
+        Intergroup relations 
+        European Association of Social Psychology 
+        Fuzzy-trace theory 
+        List of biases in judgment and decision making 
+        List of publications in social psychology 
+        List of social psychologists 
+        Sociological approach to social psychology 
+        Society for Personality and Social Psychology 
+        Society of Experimental Social Psychology 
+        Socionics
+        
+       
+      Notes 
+      
+       
+       
+         
+         ^ "Thus Interpersonal attraction and attitude similarity have a direct correlation. More so than those with dissimilar attitudes and views, who tend to not be as successful in the attraction department." (Byrne 1961).  
+        
+       
+       
+      References 
+      
+       
+       
+         
+         ^ Allport, G. W (1985). "The Historical Background of Social Psychology". In G. Lindzey and E. Aronson (ed.). The Handbook of Social Psychology. New York: McGraw Hill. p.&nbsp;5.  
+         ^ a b 
+           Sewell, W. H (1989). "Some reflections on the golden age of interdisciplinary social psychology". Annual Review of Sociology. 15: 1–17. doi:10.1146/annurev.so.15.080189.000245. S2CID&nbsp;143901573.  
+         ^ 
+           Moscovici, S; Markova, I (2006). The Making of Modern Social Psychology. Cambridge, UK: Polity Press.  
+         ^ 
+           Amber Haque (2004). "Psychology from Islamic Perspective: Contributions of Early Muslim Scholars and Challenges to Contemporary Muslim Psychologists". Journal of Religion and Health. 43 (4): 357–377. doi:10.1007/s10943-004-4302-z. JSTOR&nbsp;27512819. S2CID&nbsp;38740431.  
+         ^ 
+           Cartwright, Dorwin (March 1979). "Contemporary Social Psychology in Historical Perspective". Social Psychology Quarterly. 42 (1): 82–93. doi:10.2307/3033880. ISSN&nbsp;0190-2725. JSTOR&nbsp;3033880.  
+         ^ 
+           Gergen, K. J. (1973). "Social Psychology as History". Journal of Personality and Social Psychology. 26 (2): 309–320. doi:10.1037/h0034436.  
+         ^ 
+           Triplett, Norman (1898). "The dynamogenic factors in pacemaking and competition". American Journal of Psychology. 9 (4): 507–533. doi:10.2307/1412188. JSTOR&nbsp;1412188. S2CID&nbsp;54217799.  
+         ^ 
+           Gergen, Kenneth J (1973). "Social psychology as history". Journal of Personality and Social Psychology. 26 (2): 309–320. doi:10.1037/h0034436.  
+         ^ a b 
+           "Social Psychology". Psychology. iResearchNet. 2020.  
+         ^ 
+           Gecas, Viktor (1982). "The Self-Concept". Annual Review of Sociology. 8: 1–33. doi:10.1146/annurev.so.08.080182.000245. ISSN&nbsp;0360-0572. JSTOR&nbsp;2945986.  
+         ^ Kassin, Saul, Steven Fein, and Hazel R. Markus, (2017). Social Psychology (10th ed.). Belmont, CA: Cengage Learning. 
+           ISBN&nbsp;978-1-305-58022-0. Lay summary via NELSONBrain.  
+         ^ 
+           Sison, Erick Louie A. (2008). The Dynamics of Persuasion. New York: Lawrence Erlbaum.  
+         ^ 
+           Bem, D. (1970). Beliefs, Attitudes, and Human Affairs. Belmont, CA: Brooks/Cole.  
+         ^ 
+           McConnell, Allen (September 2001). "Relations among the Implicit Association Test, Discriminatory Behavior, and Explicit Measures of Racial Attitudes". Journal of Experimental Social Psychology. 37 (5): 435–442. doi:10.1006/jesp.2000.1470. S2CID&nbsp;31010334.  
+         ^ 
+           Heider, J. D; Skowronski, J. J (2007). "Improving the Predictive Validity of the Implicit Association Test". North American Journal of Psychology. 9: 53–76.  
+         ^ a b c Kassin, Saul, Steven Fein, and Hazel R. Markus, (2008). 
+            Kassin, Saul M.; Fein, Steven; Markus, Hazel Rose (2008), Social Psychology, ISBN&nbsp;9780618868469 (7th ed.). Belmont, CA: Wadsworth Cengage Learning. 
+          ISBN&nbsp;9780618868469. LCCN&nbsp;2007-926779.  
+         ^ 
+           "Social Psychology". Psynso. Retrieved 21 November 2021.  
+         ^ 
+           Myers, David (2010). Social Psychology (10th&nbsp;ed.). New York: McGraw-Hill. pp.&nbsp;234–253. ISBN&nbsp;978-0-07-337066-8.  
+         ^ 
+           Austen, Jane (1919). Northanger Abbey &amp; Persuasion. J.M. Dent. ISBN&nbsp;0-665-83283-4. OCLC&nbsp;1111908588.  
+         ^ 
+           DeLamater, John D.; et&nbsp;al. (8 July 2014). Social Psychology. ISBN&nbsp;978-0-8133-4951-0. OCLC&nbsp;883566075.  
+         ^ 
+           Moskowitz, Gordon B (2005). Social Cognition: Understanding Self and Others. Texts in Social Psychology. Guilford. ISBN&nbsp;978-1-59385-085-2.  
+         ^ 
+           Dobbs, Davis (8 July 2007). "The Gregarious Brain". The New York Times Magazine.  
+         ^ 
+           Reisenzein, Rainer; Rudolph, Udo (2008). "50 Years of Attribution Research". Social Psychology. 39 (3): 123–124. doi:10.1027/1864-9335.39.3.123. ISSN&nbsp;1864-9335.  
+         ^ a b c d e f  
+           Aronson, Elliot; Wilson, Timothy D.; Akert, Robin M. (2010). Social Psychology (7&nbsp;ed.). Prentice Hall.  
+         ^  
+           Myers, David G. (2007). Psychology (8&nbsp;ed.). New York: Worth Publishers – via Internet Archive.  
+         ^ 
+           Andrews, P. W. (2001). "The psychology of social chess and the evolution of attribution mechanisms: Explaining the fundamental attribution error" (PDF). Evolution and Human Behavior. 22 (1): 11–29. doi:10.1016/S1090-5138(00)00059-3. PMID&nbsp;11182572.  
+         ^ 
+           "Availability Bias, Source Bias, and Publication Bias in Meta-Analysis", Methods of Meta-Analysis: Correcting Error and Bias in Research Findings, SAGE Publications, Ltd, pp.&nbsp;513–551, 2015, doi:10.4135/9781483398105.n13, ISBN&nbsp;978-1-4522-8689-1  
+         ^ 
+           Correll, Joshua; Park, Bernadette; Judd, Charles M; Wittenbrink, Bernd (2002). "The police officer's dilemma: Using ethnicity to disambiguate potentially threatening individuals". Journal of Personality and Social Psychology. 83 (6): 1, 314–1, 329. CiteSeerX&nbsp;10.1.1.466.7243. doi:10.1037/0022-3514.83.6.1314. ISSN&nbsp;0022-3514. PMID&nbsp;12500813.  
+         ^ 
+           Sternberg, Robert J.; Funke, Joachim (22 August 2019). The Psychology of Human Thought: An Introduction. BoD – Books on Demand. ISBN&nbsp;978-3-947732-35-7.  
+         ^ a b 
+           Markus, Hazel (1977). "Self-Schemata and Processing Information". Journal of Personality and Social Psychology. 35 (2): 63–78. doi:10.1037/0022-3514.35.2.63. S2CID&nbsp;16756658.  
+         ^ 
+           Forgas, Scientia Professor of Psychology Joseph P.; Forgas, Joseph P.; Williams, Kipling D.; PhD, Professor of Psychological Sciences Kipling D. Williams (2002). The Social Self: Cognitive, Interpersonal, and Intergroup Perspectives. Psychology Press. ISBN&nbsp;978-1-84169-062-9.  
+         ^ 
+           Wilson, Timothy D.; Gilbert, Daniel T (2003). "Affective Forecasting". Advances in Experimental Psychology. Vol.&nbsp;35. Academic Press. pp.&nbsp;345–411. doi:10.1016/S0065-2601(03)01006-2. ISBN&nbsp;9780120152353 – via Elsevier Science.  
+         ^ 
+           Festinger, Leon (1954). "A theory of social comparison process". Human Relations. 7 (2): 117–40. doi:10.1177/001872675400700202. S2CID&nbsp;18918768 – via SAGE Journals.  
+         ^ 
+           Bem, Daryl J. (1972). "Self-Perception Theory". Self Perception Theory. Advances in Experimental Social Psychology. Vol.&nbsp;6. Academic Press. pp.&nbsp;1–62. doi:10.1016/S0065-2601(08)60024-6. ISBN&nbsp;978-0-12-015206-3.  
+         ^ 
+           Weiner, Irving B.; Craighead, W. Edward (19 January 2010). The Corsini Encyclopedia of Psychology, Volume 4. John Wiley &amp; Sons. ISBN&nbsp;978-0-470-17023-6.  
+         ^ 
+           Gecas, Viktor (1989). "The Social Psychology of Self-Efficacy". Annual Review of Sociology. 15: 291–316. doi:10.1146/annurev.so.15.080189.001451. ISSN&nbsp;0360-0572. JSTOR&nbsp;2083228.  
+         ^ 
+           Baron, Robert A.; Branscombe, Nyla R. (2012). Social Psychology. United States of America: Pearson Education, Inc. pp.&nbsp;127–28. ISBN&nbsp;978-0-205-20558-5.  
+         ^ Stangor, Charles. 2014 . "The Social Self: The Role of the Social Situation ." Ch. 3 in Principles of Social Psychology (1st intl. ed.), adapted by R. Jhangiani and H. Tarry. BCcampus. . 
+           ISBN&nbsp;978-1-77420-015-5.  
+         ^ Deci, Edward L., Richard Koestner, and Richard M. Ryan. 2001. "Extrinsic Rewards and Intrinsic Motivation in Education: Reconsidered Once Again." Review of Educational Research 71(1):1–27. doi:10.3102/00346543071001001. Retrieved 24 April 2020.  
+         ^ a b c  
+           Aronson, Elliot (2008) . The Social Animal (10th&nbsp;ed.). Worth Publishers. ISBN&nbsp;978-1-4292-0316-6.  
+         ^ 
+           Cialdini, R.B (2000). Influence: Science and Practice. Allyn and Bacon.  
+         ^ 
+           Waude, Adam (20 July 2017). "Social Influence | Psychology of Influence". Psychologist World. Retrieved 8 April 2019.  
+         ^ a b 
+           Forsyth, Donelson R. (2006). Group Dynamics (4th&nbsp;ed.). Belmont, CA: Thomson-Wadworth. ISBN&nbsp;9780495007296. OCLC&nbsp;1035146459.  
+         ^ 
+           "Social Groups and Organizations: Groups, Aggregates, and Categories". SparkNotes. Retrieved 12 May 2021.  
+         ^ 
+           Tajfel, H.; J. C. Turner (1986). "The Social Identity Theory of Intergroup Behavior". In S. Worchel and W.G. Austin (ed.). Psychology of Intergroup Relations. Chicago: Nelson-Hall.  
+         ^ Haidt, Jonathan, Evan Rosenberg, and Holly Hom. 2003. "Differentiating Diversities: Moral Diversity Is Not Like Other Kinds ." Journal of Applied Social Psychology 33(1):1–36. doi:10.1111/j.1559-1816.2003.tb02071.x. S2CID&nbsp;15255936. Retrieved 24 April 2020 – via CiteSeerX.  
+         ^ 
+           "Group Decision Making | Principles of Social Psychology". courses.lumenlearning.com. Retrieved 12 May 2021.  
+         ^ 
+           Janis, Irving L. (1972). Victims of Groupthink. Boston: Houghton Mifflin. ISBN&nbsp;9780395140024 – via Internet Archive.  
+         ^ 
+           Zajonc, R. B. (16 July 1965). "Social Facilitation". Science. 149 (3681): 269–274. Bibcode:1965Sci...149..269Z. doi:10.1126/science.149.3681.269. ISSN&nbsp;0036-8075. PMID&nbsp;14300526.  
+         ^ Dean, Jeremy. 2009. "Social Loafing: When Groups Are Bad for Productivity." PsyBlog.  
+         ^ 
+           Baron, R. S.; Norbert L. Kerr (2003). N. L. Kerr (ed.). Group Process, Group Decision, Group Action. Mapping Social Psychology (2nd&nbsp;ed.). Buckingham: Open University Press. ISBN&nbsp;9780335206988. S2CID&nbsp;142783727.  
+         ^ In the online domain, (e.g., see Rosen, Larry D., Nancy A. Cheever, and L. Mark Carrier. 2015. The Wiley Handbook of Psychology, Technology and Society. Oxford: Wiley Blackwell. 
+           ISBN&nbsp;9781118771952. doi:10.1002/9781118771952.)  
+         ^ Byrne, Donn. (1961). "Interpersonal attraction and attitude similarity  ." Journal of Abnormal and Social Psychology 62(3):713–15. doi:10.1037/h0044721. 
+           PMID&nbsp;13875334 – via APA PsycArticles.  
+         ^ 
+           Sternberg, Robert J (1986). "A Triangular Theory of Love" (PDF). Psychological Review. APA. 93 (2): 119–35. doi:10.1037/0033-295X.93.2.119. S2CID&nbsp;7047234. Archived from the original (PDF) on 27 February 2021.  
+         ^ 
+           Mills, Judson; Margaret S. Clark (1994). "Communal and Exchange Relationships: Controversies and Research". In Erber, Ralph; Robin Gilmour (eds.). Theoretical Frameworks for Personal Relationships. Hillsdale, NJ: Psychology Press. p. 33. ISBN&nbsp;978-0805805734.  
+         ^ a b 
+           Henrich, Joseph; Heine, Steven J.; Norenzayan, Ara (15 June 2010). "The weirdest people in the world?" (PDF). Behavioral and Brain Sciences. Cambridge University Press. 33 (2–3): 61–83. doi:10.1017/S0140525X0999152X. hdl:11858/00-001M-0000-0013-26A1-6. PMID&nbsp;20550733.  
+         ^ a b 
+           Sears, David O. (1986). "College Sophomores in the Laboratory: Influences of a Narrow Data Base on Social Psychology's View of Human Nature" (PDF). Journal of Personality and Social Psychology. APA. 51 (3): 515–530. doi:10.1037/0022-3514.51.3.515. S2CID&nbsp;14408635. Archived from the original (PDF) on 25 February 2021.  
+         ^ 
+           Anderson, Craig A.; Allen, Johnie J.; Plante, Courtney; Quigley-McBride, Adele; Lovett, Alison; Rokkum, Jeffrey N. (2018). "The MTurkification of Social and Personality Psychology" (PDF). Personality and Social Psychology Bulletin. 45 (6): 842–50. doi:10.1177/0146167218798821. PMID&nbsp;30317918. S2CID&nbsp;52981138. Retrieved 24 April 2020.  
+         ^ Anderson, Craig A., Johnie J. Allen, Courtney Plante, et al. 2019 . "The MTurkification of Social and Personality Psychology." Personality and Social Psychology Bulletin 45(6):842–50. doi:10.1177/0146167218798821. 
+           PMID&nbsp;30317918. Retrieved 24 April 2020.  
+         ^ 
+           "Social Psychology: Definition, History, Methods, Applications - IResearchNet".  
+         ^ a b 
+           Simmons, Joseph; Nelson, Leif; Simonsohn, Uri (2011). "False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant". Psychological Science. 22 (11): 1359–1366. doi:10.1177/0956797611417632. PMID&nbsp;22006061.  
+         ^ a b c 
+           Asch, Solomon E. (1955). "Opinions and Social Pressure" (PDF). Scientific American. 193 (5): 31–35. Bibcode:1955SciAm.193e..31A. doi:10.1038/scientificamerican1155-31.  
+         ^ 
+           McLeod, Saul (5 February 2018). "Cognitive Dissonance". Simply Psychology.  
+         ^ 
+           Festinger, Leon; Carlsmith, James M. (1959). "Cognitive consequences of forced compliance". Journal of Abnormal and Social Psychology. 58 (2): 203–11. CiteSeerX&nbsp;10.1.1.497.2779. doi:10.1037/h0041593. PMID&nbsp;13640824.  
+         ^ 
+           Milgram, Stanley (1975). Obedience to Authority: An Experimental View. New York: Harper &amp; Row. ISBN&nbsp;9780060904753. Limited preview at the Internet Archive.  
+         ^ 
+           Haney, Craig; Banks, Curtis; Zimbardo, Philip G. (1973). "Interpersonal Dynamics in a Simulated Prison". International Journal of Criminology and Penology. 1: 69–97 – via ResearchGate.  
+         ^ Haney, Craig, Curtis Banks, and Philip Zimbardo. 1972 "Interpersonal Dynamics in a Simulated Prison" . Z-09. Springfield, VA: National Technical Information Service. doi:10.21236/ad0751041. S2CID&nbsp;143041401.  
+         ^ 
+           Carnahan, Thomas; McFarland, Sam (2007). "Revisiting the Stanford prison experiment: Could participant self-selection have led to the cruelty?" (PDF). Personality and Social Psychology Bulletin. 33 (5): 603–14. doi:10.1177/0146167206292689. PMID&nbsp;17440210. S2CID&nbsp;15946975.  
+         ^ 
+           Reicher, S; Haslam, S. A. (2006). "Rethinking the Psychology of Tyranny: The BBC Prison Study". British Journal of Social Psychology. 45 (1): 1–40. CiteSeerX&nbsp;10.1.1.510.9231. doi:10.1348/014466605X48998. PMID&nbsp;16573869.  
+         ^ 
+           Sherif, Muzafer (1954). "Experiments in group conflict". Scientific American. 195 (5): 54–58. doi:10.1038/scientificamerican1156-54.  
+         ^ 
+           Bandura, Albert; Ross, D; Ross, S.A (1961). "Transmission of aggression through imitation of aggressive models" (PDF). Journal of Abnormal and Social Psychology. 63 (3): 575–82. doi:10.1037/h0045925. PMID&nbsp;13864605. S2CID&nbsp;18361226. Archived from the original (PDF) on 6 March 2018.  
+         ^ 
+           Miller, Arthur G. (1972). "Role Playing: An Alternative to Deception? A Review of the Evidence". ResearchGate. 27 (7): 623–636. doi:10.1037/h0033257.  
+         ^ Committee on Associate and Baccalaureate Education. 2016 . "The Institutional Review Board (IRB): A College Planning Guide" (revised ed.). American Psychological Association via PDF Slide.  
+         ^ 
+           Cleveland Clinic Health Library (2014). "Social Development During the Teen Years". Cleveland Clinic. Retrieved 8 April 2019.  
+         ^ 
+           Griffiths, Mark D. (4 January 2019). "Adolescent Social Media Use". Psychology Today (In Excess blog). Sussex Publishers. Retrieved 8 April 2019.  
+         ^ 
+           Open Science Collaboration (2015). "Estimating the reproducibility of psychological science" (PDF). Science. American Association for the Advancement of Science. 349 (6251): aac4716. doi:10.1126/science.aac4716. hdl:10722/230596. PMID&nbsp;26315443. S2CID&nbsp;218065162 – via HKU Scholars Hub.  
+         ^ 
+           "Questionable Research Practices Surprisingly Common | News". Association for Psychological Science. 2012.  
+         ^ 
+           Shea, Christopher (13 November 2011). "Fraud Scandal Fuels Debate Over Practices of Social Psychology". The Chronicle of Higher Education. Retrieved 24 April 2020.  
+         ^ Social Psychology 45(3)  . Hogrefe Publishing (2014). 
+           ISSN&nbsp;1864-9335.  
+         ^ Perspectives on Psychological Science 7(6) . Association for Psychological Science (2012). 
+           ISSN&nbsp;1745-6924. – via SAGE Journals.  
+         ^ 
+           Coyne, J. C. (2016). "Replication initiatives will not salvage the trustworthiness of psychology". BMC Psychology. 4 (1): 28. doi:10.1186/s40359-016-0134-3. PMC&nbsp;4886400. PMID&nbsp;27245324 – via ProQuest Central.  
+         ^ 
+           Etchells, Pete (28 May 2014). "Psychology's replication drive: it's not about you". The Guardian.  
+         ^ 
+           Bartlett, Tom (30 January 2013). "Power of Suggestion". The Chronicle of Higher Education.  
+        
+       
+       
+      External links 
+      
+      
+       
+        
+         Library resources about  Social psychology 
+          
+        
+        
+          
+          
+           Resources in your library 
+           Resources in other libraries
+           
+        
+       
+       
+       
+       
+         
+          
+         Wikimedia Commons has media related to Social psychology.
+         
+       
+       
+       
+       
+         
+          
+         Wikiversity has learning resources about Social psychology
+         
+       
+       
+       
+       
+         
+          
+         Wikiquote has quotations related to: Social psychology
+         
+       
+       
+      
+       Social Psychology Network 
+       Social Psychology — basics 
+       Social psychology on PLOS — subject area page 
+       Social psychology on All About Psychology — information and resources page 
+       What is Social Psychology? on YouTube
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Psychology
+           
+         
+         
+          
+            
+            
+             History 
+             Philosophy 
+             Portal 
+             Psychologist
+             
+           
+         
+         
+          Basic psychology
+          
+            
+            
+             Abnormal 
+             Affective science 
+             Affective neuroscience 
+             Behavioral genetics 
+             Behavioral neuroscience 
+             Behaviorism 
+             Cognitive/Cognitivism 
+             Cognitive neuroscience 
+              
+               Social
+               
+             Comparative 
+             Cross-cultural 
+             Cultural 
+             Developmental 
+             Differential 
+             Ecological 
+             Evolutionary 
+             Experimental 
+             Gestalt 
+             Intelligence 
+             Mathematical 
+             Moral 
+             Neuropsychology 
+             Perception 
+             Personality 
+             Positive 
+             Psycholinguistics 
+             Psychophysiology 
+             Quantitative 
+             Social 
+             Theoretical
+             
+           
+         
+         
+          Applied psychology
+          
+            
+            
+             Anomalistic 
+             Applied behavior analysis 
+             Assessment 
+             Clinical 
+             Coaching 
+             Community 
+             Consumer 
+             Counseling 
+             Critical 
+             Educational 
+             Ergonomics 
+             Feminist 
+             Forensic 
+             Health 
+             Industrial and organizational 
+             Legal 
+             Media 
+             Medical 
+             Military 
+             Music 
+             Occupational health 
+             Pastoral 
+             Political 
+             Psychometrics 
+             Psychotherapy 
+             Religion 
+             School 
+             Sport and exercise 
+             Suicidology 
+             Systems 
+             Traffic
+             
+           
+         
+         
+          Methodologies
+          
+            
+            
+             Animal testing 
+             Archival research 
+             Behavior epigenetics 
+             Case study 
+             Content analysis 
+             Experiments 
+             Human subject research 
+             Interviews 
+             Neuroimaging 
+             Observation 
+             Psychophysics 
+             Qualitative research 
+             Quantitative research 
+             Self-report inventory 
+             Statistical surveys
+             
+           
+         
+         
+          
+           
+            Psychologists
+           
+          
+            
+            
+             Wilhelm Wundt&nbsp;(1832–1920) 
+             William James&nbsp;(1842–1910) 
+             Ivan Pavlov&nbsp;(1849–1936) 
+             Sigmund Freud&nbsp;(1856–1939) 
+             Edward Thorndike&nbsp;(1874–1949) 
+             Carl Jung&nbsp;(1875–1961) 
+             John B. Watson&nbsp;(1878–1958) 
+             Clark L. Hull&nbsp;(1884–1952) 
+             Kurt Lewin&nbsp;(1890–1947) 
+             Jean Piaget&nbsp;(1896–1980) 
+             Gordon Allport&nbsp;(1897–1967) 
+             J. P. Guilford&nbsp;(1897–1987) 
+             Carl Rogers&nbsp;(1902–1987) 
+             Erik Erikson&nbsp;(1902–1994) 
+             B. F. Skinner&nbsp;(1904–1990) 
+             Donald O. Hebb&nbsp;(1904–1985) 
+             Ernest Hilgard&nbsp;(1904–2001) 
+             Harry Harlow&nbsp;(1905–1981) 
+             Raymond Cattell&nbsp;(1905–1998) 
+             Abraham Maslow&nbsp;(1908–1970) 
+             Neal E. Miller&nbsp;(1909–2002) 
+             Jerome Bruner&nbsp;(1915–2016) 
+             Donald T. Campbell&nbsp;(1916–1996) 
+             Hans Eysenck&nbsp;(1916–1997) 
+             Herbert A. Simon&nbsp;(1916–2001) 
+             David McClelland&nbsp;(1917–1998) 
+             Leon Festinger&nbsp;(1919–1989) 
+             George A. Miller&nbsp;(1920–2012) 
+             Richard Lazarus&nbsp;(1922–2002) 
+             Stanley Schachter&nbsp;(1922–1997) 
+             Robert Zajonc&nbsp;(1923–2008) 
+             Albert Bandura&nbsp;(1925–2021) 
+             Roger Brown&nbsp;(1925–1997) 
+             Endel Tulving&nbsp;(b.&nbsp;1927) 
+             Lawrence Kohlberg&nbsp;(1927–1987) 
+             Noam Chomsky&nbsp;(b.&nbsp;1928) 
+             Ulric Neisser&nbsp;(1928–2012) 
+             Jerome Kagan&nbsp;(1929–2021) 
+             Walter Mischel&nbsp;(1930–2018) 
+             Elliot Aronson&nbsp;(b.&nbsp;1932) 
+             Daniel Kahneman&nbsp;(b.&nbsp;1934) 
+             Paul Ekman&nbsp;(b.&nbsp;1934) 
+             Michael Posner&nbsp;(b.&nbsp;1936) 
+             Amos Tversky&nbsp;(1937–1996) 
+             Bruce McEwen&nbsp;(1938–2020) 
+             Larry Squire&nbsp;(b.&nbsp;1941) 
+             Richard E. Nisbett&nbsp;(b.&nbsp;1941) 
+             Martin Seligman&nbsp;(b.&nbsp;1942) 
+             Ed Diener&nbsp;(1946–2021) 
+             Shelley E. Taylor&nbsp;(b.&nbsp;1946) 
+             John Anderson&nbsp;(b.&nbsp;1947) 
+             Ronald C. Kessler&nbsp;(b.&nbsp;1947) 
+             Joseph E. LeDoux&nbsp;(b.&nbsp;1949) 
+             Richard Davidson&nbsp;(b.&nbsp;1951) 
+             Susan Fiske&nbsp;(b.&nbsp;1952) 
+             Roy Baumeister&nbsp;(b.&nbsp;1953)
+             
+           
+         
+         
+          Lists
+          
+            
+            
+             Counseling topics 
+             Disciplines 
+             Important publications 
+             Organizations 
+             Outline 
+             Psychologists 
+             Psychotherapies 
+             Research methods 
+             Schools of thought 
+             Timeline 
+             Topics
+             
+           
+         
+         
+          
+            
+            
+             Wiktionary definition 
+             Wiktionary category 
+             Wikisource 
+             Wikimedia Commons 
+             Wikiquote 
+             Wikinews 
+             Wikibooks
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Social sciences
+           
+         
+         
+          
+            
+            
+             Outline 
+             History 
+             Index
+             
+           
+         
+         
+          Primary
+          
+            
+            
+             Anthropology (archaeology 
+             cultural 
+             linguistics 
+             social) 
+             Economics (microeconomics 
+             macroeconomics 
+             econometrics 
+             mathematical) 
+             Geography (physical 
+             human 
+             integrated 
+             geomatics 
+             regional) 
+             History 
+              
+               cultural 
+               auxiliary sciences 
+               economic 
+               human 
+               military 
+               political 
+               social
+               
+             Law (jurisprudence 
+             legal history 
+             legal systems 
+             public law 
+             private law) 
+             Political science (international relations 
+             comparative 
+             theory 
+             public policy) 
+             Psychology (abnormal 
+             cognitive 
+             developmental 
+             personality 
+             social) 
+             Sociology (criminology 
+             demography 
+             internet 
+             rural 
+             urban)
+             
+           
+         
+         
+          Interdisciplinary
+          
+            
+            
+             Administration (business 
+             public) 
+             Anthrozoology 
+             Area studies 
+             Business studies 
+             Cognitive science 
+             Communication studies 
+             Community studies 
+             Cultural studies 
+             Development studies 
+             Education 
+             Environmental (social science 
+             studies) 
+             Food studies 
+             Gender studies 
+             Global studies 
+             Historical sociology 
+             History of technology 
+             Human ecology 
+             Information science 
+             International studies 
+             Linguistics 
+             Media studies 
+             Philosophy of science (economics 
+             history 
+             psychology 
+             social science) 
+             Planning (land use 
+             regional 
+             urban) 
+             Political ecology 
+             Political economy 
+             Political sociology 
+             Public health 
+             Regional science 
+             Science and technology studies 
+             Science studies 
+              
+               historical 
+               Quantum social science
+               
+             Social work 
+             Vegan studies
+             
+           
+         
+         
+          List
+          
+            
+            
+             List of social science journals
+             
+           
+         
+         
+          Other categorizations
+          
+            
+            
+             Humanities 
+             Geisteswissenschaft 
+             Human science
+             
+           
+         
+         
+          
+            
+            
+              Category 
+              Commons 
+             &nbsp;Society portal 
+              Wikiversity
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Public health
+           
+         
+         
+          General
+          
+            
+            
+             Auxology 
+             Biological hazard 
+             Chief Medical Officer 
+             Cultural competence 
+             Deviance 
+             Environmental health 
+             Euthenics 
+             Genomics 
+             Globalization and disease 
+             Health economics 
+             Health literacy 
+             Health policy 
+              
+               Health system 
+               Health care reform 
+               Public health law 
+               National public health institute
+               
+             Health politics 
+             Maternal health 
+             Medical anthropology 
+             Medical sociology 
+             Mental health (Ministers) 
+             Pharmaceutical policy 
+             Pollution 
+              
+               Air pollution 
+               Water pollution 
+               Soil pollution 
+               Radiation pollution 
+               Light pollution
+               
+             Public health intervention 
+             Public health laboratory 
+             Sexual and reproductive health 
+             Social psychology 
+             Sociology of health and illness
+             
+           
+         
+         
+          Preventive healthcare
+          
+            
+            
+             Behavior change 
+              
+               Theories
+               
+             Family planning 
+             Health promotion 
+             Human nutrition 
+              
+               Healthy diet 
+               Preventive nutrition
+               
+             Hygiene 
+              
+               Food safety 
+               Hand washing 
+               Infection control 
+               Oral hygiene
+               
+             Occupational safety and health 
+              
+               Human factors and ergonomics 
+               Hygiene 
+               Controlled Drugs 
+               Injury prevention 
+               Medicine 
+               Nursing
+               
+             Patient safety 
+              
+               Organization
+               
+             Pharmacovigilance 
+             Safe sex 
+             Sanitation 
+              
+               Emergency 
+               Fecal–oral transmission 
+               Open defecation 
+               Sanitary sewer 
+               Waterborne diseases
+               
+             School hygiene 
+             Smoking cessation 
+             Vaccination 
+             Vector control
+             
+           
+         
+         
+          Population health
+          
+            
+            
+             Biostatistics 
+             Child mortality 
+             Community health 
+             Epidemiology 
+             Global health 
+             Health impact assessment 
+             Health system 
+             Infant mortality 
+             Open-source healthcare software 
+             Public health informatics 
+             Social determinants of health 
+              
+               Health equity 
+               Race and health
+               
+             Social medicine
+             
+           
+         
+         
+          Biological andepidemiological statistics
+          
+            
+            
+             Case–control study 
+             Randomized controlled trial 
+             Relative risk 
+             Statistical hypothesis testing 
+              
+               Analysis of variance (ANOVA) 
+               Regression analysis 
+               ROC curve 
+               Student's t-test 
+               Z-test
+               
+             Statistical software
+             
+           
+         
+         
+          Infectious and epidemicdisease prevention
+          
+            
+            
+             Asymptomatic carrier 
+             Epidemics 
+              
+               List
+               
+             Notifiable diseases 
+              
+               List
+               
+             Public health surveillance 
+              
+               Disease surveillance
+               
+             Quarantine 
+             Sexually transmitted infection 
+             Social distancing 
+             Tropical disease 
+             Vaccine trial
+             
+           
+         
+         
+          Food hygiene andsafety management
+          
+            
+            
+             Food 
+              
+               Additive 
+               Chemistry 
+               Engineering 
+               Microbiology 
+               Processing 
+               Safety 
+               Safety scandals
+               
+             Genetically modified food 
+             Good agricultural practice 
+             Good manufacturing practice 
+              
+               HACCP 
+               ISO 22000
+              
+             
+           
+         
+         
+          Health behavioralsciences
+          
+            
+            
+             Diffusion of innovations 
+             Health belief model 
+             Health communication 
+             Health psychology 
+             Positive deviance 
+             PRECEDE-PROCEED model 
+             Social cognitive theory 
+             Social norms approach 
+             Theory of planned behavior 
+             Transtheoretical model
+             
+           
+         
+         
+          Organizations,educationand history
+          
+           
+           
+            
+             
+              Organizations
+              
+                
+                
+                 Caribbean 
+                  
+                   Caribbean Public Health Agency
+                   
+                 China 
+                  
+                   Center for Disease Control and Prevention
+                   
+                 Europe 
+                  
+                   Centre for Disease Prevention and Control 
+                   Committee on the Environment, Public Health and Food Safety
+                   
+                 India 
+                  
+                   Ministry of Health and Family Welfare
+                   
+                 Canada 
+                  
+                   Health Canada 
+                   Public Health Agency
+                   
+                 U.S. 
+                  
+                   Centers for Disease Control and Prevention 
+                   City and county health departments 
+                   Council on Education for Public Health 
+                   Public Health Service
+                   
+                 World Health Organization 
+                 World Toilet Organization 
+                 (Full list)
+                 
+               
+             
+             
+              Education
+              
+                
+                
+                 Health education 
+                 Higher education 
+                  
+                   Bachelor of Science in Public Health 
+                   Doctor of Public Health 
+                   Professional degrees of public health 
+                   Schools of public health
+                  
+                 
+               
+             
+             
+              History
+              
+                
+                
+                 Sara Josephine Baker 
+                 Samuel Jay Crumbine 
+                 Carl Rogers Darnall 
+                 Joseph Lister 
+                 Margaret Sanger 
+                 John Snow 
+                 Typhoid Mary 
+                 Radium Girls 
+                 Germ theory of disease 
+                 Social hygiene movement
+                 
+               
+             
+            
+           
+           
+         
+         
+          
+            
+            
+              Category 
+              Commons 
+              WikiProject
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Social psychology
+           
+         
+         
+          Interpersonal relationships
+          
+            
+            
+             Attachment theory 
+             Falling in love 
+              
+               Mere-exposure effect 
+               Similarity 
+               Physical attractiveness 
+               Triangular theory of love
+               
+             Parenting style 
+             Divorce 
+             Adoption
+             
+           
+          
+           
+            
+           
+         
+         
+          Conflict
+          
+            
+            
+             Prejudice 
+             Stereotype 
+              
+               Outgroup homogeneity effect 
+               Stereotype threat 
+               Implicit association test
+               
+             Minimal group paradigm 
+             Realistic conflict theory 
+             Discrimination 
+             Social dominance orientation
+             
+           
+         
+         
+          Social influence
+          
+            
+            
+             Conformity 
+              
+               Autokinetic effect 
+               Asch conformity experiments
+               
+             Compliance 
+              
+               Foot-in-the-door technique 
+               Door-in-the-face technique
+               
+             Obedience 
+              
+               Milgram experiment
+               
+             Authority 
+              
+               Stanford prison experiment 
+               Honesty
+               
+             Reciprocity 
+             Social proof 
+             Persuasion 
+              
+               Elaboration likelihood model
+               
+             Pluralistic ignorance
+             
+           
+         
+         
+          Group dynamics
+          
+            
+            
+             Belongingness 
+             Social identity theory 
+             Social facilitation 
+             Social loafing 
+             Social cohesion 
+             Group development 
+             Group polarization 
+             Groupthink 
+             False-consensus effect 
+             Diffusion of responsibility 
+             Social comparison theory 
+             Self-enhancement 
+              
+               Frog pond effect
+              
+             
+           
+         
+         
+          Aggression
+          
+            
+            
+             Violence 
+             Deindividuation 
+              
+               Anonymity
+               
+             Frustration-aggression hypothesis
+             
+           
+         
+         
+          Altruism
+          
+            
+            
+             Bystander effect 
+             Prosocial behavior 
+              
+               Reciprocal altruism 
+               Negative-state relief model 
+               Empathy-altruism
+               
+             Cooperation 
+             Prisoner's dilemma
+             
+           
+         
+         
+          Culture
+          
+            
+            
+             Enculturation 
+              
+               Culture shock 
+               Cultural relativism
+               
+             Individualism 
+             Collectivism
+             
+           
+         
+         
+          Self-concept
+          
+            
+            
+             Spotlight effect 
+             Cognitive dissonance 
+              
+               Choice-supportive bias
+              
+             
+           
+         
+         
+          Attribution
+          
+            
+            
+             Explanatory style 
+             Counterfactual thinking 
+             Framing effect 
+             Confirmation bias 
+             Observer-expectancy effect 
+             Heuristic 
+              
+               Representative heuristic 
+               Availability heuristic
+               
+             Fundamental attribution error 
+             Self-serving bias
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Evolutionary psychology
+           
+         
+         
+          
+            
+            
+             History 
+             Theoretical foundations 
+             Criticism
+             
+           
+         
+         
+          Processes
+          
+            
+            
+             Adaptations 
+             By-products 
+             Cognitive module 
+             Cultural/Sociocultural evolution 
+             Evolutionarily stable strategy 
+             Kin selection 
+             Mismatch 
+             Natural selection 
+             Parental investment 
+             Reciprocal altruism 
+             Sexual selection 
+              
+               Male/Female intrasexual competition 
+               Mate choice
+               
+             Social selection
+             
+           
+         
+         
+          Areas
+          
+            
+            
+             Aesthetics 
+             Anthropology 
+              
+               Biological
+               
+             Crime 
+             Culture 
+              
+               Universals
+               
+             Development 
+             Education 
+             Emotion 
+             Intelligence 
+              
+               Wason selection task
+               
+             Language 
+              
+               Origin 
+               Psychology
+               
+             Literary criticism 
+             Mental health 
+              
+               Depression 
+               Schizophrenia
+               
+             Morality 
+              
+               Moral foundations
+               
+             Musicology 
+             Religion 
+              
+               Origin
+               
+             Sex differences 
+              
+               Variability hypothesis
+               
+             Sexuality 
+              
+               Male/Female 
+               Activity 
+               Attraction 
+               Coolidge effect 
+               Jealousy 
+               Mate guarding 
+               Mating preferences 
+               Mating strategies 
+               Orientation 
+               Sexy son hypothesis 
+               Westermarck effect
+              
+             
+           
+         
+         
+          People
+          
+           
+           
+            
+             
+              Biologists /neuroscientists
+              
+                
+                
+                 John Crook 
+                 Charles Darwin 
+                 Richard Dawkins 
+                 Jared Diamond 
+                 W. D. Hamilton 
+                 Peter Kropotkin 
+                 Gordon Orians 
+                 Jaak Panksepp 
+                 Margie Profet 
+                 Peter Richerson 
+                 Giacomo Rizzolatti 
+                 Randy Thornhill 
+                 Robert Trivers 
+                 Carel van Schaik 
+                 Claus Wedekind 
+                 Mary Jane West-Eberhard 
+                 Wolfgang Wickler 
+                 George C. Williams 
+                 David Sloan Wilson 
+                 E. O. Wilson 
+                 Richard Wrangham
+                 
+               
+             
+             
+              Anthropologists
+              
+                
+                
+                 Jerome H. Barkow 
+                 Christopher Boehm 
+                 Robert Boyd 
+                 Napoleon Chagnon 
+                 Robin Dunbar 
+                 Daniel Fessler 
+                 Mark Flinn 
+                 John D. Hawks 
+                 Joseph Henrich 
+                 Ruth Mace 
+                 Daniel Nettle 
+                 Stephen Shennan 
+                 Donald Symons 
+                 John Tooby 
+                 Pierre van den Berghe
+                 
+               
+             
+             
+              Behavioral economists&nbsp;/political scientists
+              
+                
+                
+                 Samuel Bowles 
+                 Ernst Fehr 
+                 Herbert Gintis 
+                 Dominic D. P. Johnson 
+                 Gad Saad
+                 
+               
+             
+             
+              Literary theorists&nbsp;/philosophers
+              
+                
+                
+                 Edmund Burke 
+                 Joseph Carroll 
+                 Daniel Dennett 
+                 Denis Dutton 
+                 Thomas Hobbes 
+                 David Hume
+                 
+               
+             
+             
+              Psychologists&nbsp;/cognitive scientists
+              
+                
+                
+                 Simon Baron-Cohen 
+                 Justin L. Barrett 
+                 Jay Belsky 
+                 David F. Bjorklund 
+                 Paul Bloom 
+                 Pascal Boyer 
+                 Joseph Bulbulia 
+                 David Buss 
+                 Josep Call 
+                 Anne Campbell 
+                 Peter Carruthers 
+                 Noam Chomsky 
+                 Leda Cosmides 
+                 Martin Daly 
+                 Paul Ekman 
+                 Anne Fernald 
+                 Aurelio José Figueredo 
+                 Uta Frith 
+                 David C. Geary 
+                 Gerd Gigerenzer 
+                 Jonathan Haidt 
+                 Judith Rich Harris 
+                 Stephen Kaplan 
+                 Douglas T. Kenrick 
+                 Simon M. Kirby 
+                 Robert Kurzban 
+                 Michael T. McGuire 
+                 Geoffrey Miller 
+                 Darcia Narvaez 
+                 Randolph M. Nesse 
+                 Steven Neuberg 
+                 David Perrett 
+                 Steven Pinker 
+                 Paul Rozin 
+                 Mark Schaller 
+                 David P. Schmitt 
+                 Todd K. Shackelford 
+                 Roger Shepard 
+                 Peter K. Smith 
+                 Dan Sperber 
+                 Anthony Stevens 
+                 Frank Sulloway 
+                 Michael Tomasello 
+                 Mark van Vugt 
+                 Andrew Whiten 
+                 Glenn Wilson 
+                 Margo Wilson
+                 
+               
+             
+            
+           
+           
+         
+         
+          Research centers/organizations
+          
+            
+            
+             Center for Evolutionary Psychology 
+             Human Behavior and Evolution Society 
+             Max Planck Institute for Evolutionary Anthropology 
+             Max Planck Institute for Human Cognitive and Brain Sciences 
+             New England Complex Systems Institute
+             
+           
+         
+         
+          Publications
+          
+            
+            
+             The Adapted Mind 
+             Evolution and Human Behavior 
+             The Evolution of Human Sexuality 
+             Evolutionary Psychology
+             
+           
+         
+         
+          Related subjects
+          
+            
+            
+             Evolutionary medicine 
+              
+               Criticism of Facebook 
+               Digital media use and mental health 
+               Screen time 
+               Social aspects of television
+               
+             Evolutionary neuroscience 
+             Memetics 
+             Modularity of mind 
+             Primatology 
+             Sociobiology 
+             Standard social science model 
+             Unit of selection 
+              
+               Coevolution 
+               Cultural group selection 
+               Dual inheritance theory 
+               Gene-centered view of evolution 
+               Group selection
+              
+             
+           
+         
+         
+          
+            
+            
+             &nbsp;Evolutionary psychology 
+             &nbsp;Psychology portal 
+             &nbsp;Evolutionary biology portal
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          National libraries
+          
+            
+            
+             France (data) 
+             Germany 
+             United States 
+             Japan
+             
+           
+         
+         
+          Other
+          
+            
+            
+             National Archives (US)
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Social_psychology&amp;oldid=1070864852"
+     
+     
+    
+     
+      Categories: 
+      
+       Social psychology
+       Behavioural sciences
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with Internet Archive links
+       Articles with short description
+       Short description is different from Wikidata
+       Articles with peacock terms from March 2021
+       All articles with peacock terms
+       Use dmy dates from March 2021
+       All articles with unsourced statements
+       Articles with unsourced statements from March 2012
+       Wikipedia articles needing page number citations from March 2012
+       Wikipedia articles needing clarification from January 2021
+       Articles contradicting other articles
+       All articles lacking reliable references
+       Articles lacking reliable references from March 2012
+       Wikipedia articles needing clarification from March 2012
+       Articles with unsourced statements from December 2021
+       Articles with unsourced statements from September 2016
+       Commons category link is on Wikidata
+       Articles with BNF identifiers
+       Articles with GND identifiers
+       Articles with LCCN identifiers
+       Articles with NDL identifiers
+       Articles with NARA identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       Wikiquote
+       Wikiversity
+       
+      
+     
+     
+      Languages  
+      
+      
+       Afrikaans
+       Alemannisch
+       العربية
+       অসমীয়া
+       Asturianu
+       Azərbaycanca
+       Беларуская
+       Беларуская (тарашкевіца)
+       Български
+       Bosanski
+       Català
+       Čeština
+       Dansk
+       Deutsch
+       Eesti
+       Ελληνικά
+       Español
+       Esperanto
+       Euskara
+       فارسی
+       Français
+       Galego
+       한국어
+       Հայերեն
+       हिन्दी
+       Hrvatski
+       Bahasa Indonesia
+       Íslenska
+       Italiano
+       עברית
+       Kabɩyɛ
+       ქართული
+       Қазақша
+       Kurdî
+       Latina
+       Latviešu
+       Lietuvių
+       Magyar
+       Македонски
+       مصرى
+       Bahasa Melayu
+       Nederlands
+       日本語
+       Norsk bokmål
+       Oʻzbekcha/ўзбекча
+       ਪੰਜਾਬੀ
+       Polski
+       Português
+       Română
+       Русский
+       ᱥᱟᱱᱛᱟᱲᱤ
+       Scots
+       Shqip
+       සිංහල
+       Simple English
+       Slovenčina
+       Slovenščina
+       کوردی
+       Српски / srpski
+       Srpskohrvatski / српскохрватски
+       Suomi
+       Svenska
+       Tagalog
+       தமிழ்
+       ไทย
+       Türkçe
+       Українська
+       Tiếng Việt
+       吴语
+       粵語
+       Zazaki
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 9 February 2022, at 17:42&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

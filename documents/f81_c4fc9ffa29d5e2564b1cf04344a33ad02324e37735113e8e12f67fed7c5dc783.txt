@@ -1,0 +1,1913 @@
+
+ 
+  
+   
+  Boolean model of information retrieval - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Boolean model of information retrieval 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+    
+     &nbsp;&nbsp;(Redirected from Standard Boolean model)
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This article may be too technical for most readers to understand. Please help improve it to make it understandable to non-experts, without removing the technical details. (June 2018) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      The (standard) Boolean model of information retrieval (BIR) is a classical information retrieval (IR) model and, at the same time, the first and most-adopted one. It is used by many IR systems to this day. The BIR is based on Boolean logic and classical set theory in that both the documents to be searched and the user's query are conceived as sets of terms (a bag-of-words model). Retrieval is based on whether or not the documents contain the query terms.  
+      
+       
+       
+        Contents
+        
+        
+        1 Definitions 
+        2 Example 
+        3 Advantages 
+        4 Disadvantages 
+        5 Data structures and algorithms 
+          
+          5.1 Hash sets 
+          5.2 Signature file 
+          5.3 Inverted file 
+           
+        6 References 
+        
+       
+      Definitions 
+      An index term is a word or expression, which may be stemmed, describing or characterizing a document, such as a keyword given for a journal article. Let
+      
+       
+          
+           
+            
+            
+             T
+             
+            
+             =
+             
+            
+             {
+             
+             
+             
+              t
+              
+              
+              
+               1
+               
+              
+             
+            
+             ,
+             
+             
+             
+              t
+              
+              
+              
+               2
+               
+              
+             
+            
+             ,
+             
+            
+             &nbsp;
+             
+            
+             …
+             
+            
+             ,
+             
+            
+             &nbsp;
+             
+             
+             
+              t
+              
+              
+              
+               m
+               
+              
+             
+            
+             }
+             
+            
+           
+          
+           ,t_,\ \ldots ,\ t_\}}
+           
+          
+        
+       
+       
+      be the set of all such index terms. 
+      
+      A document is any subset of 
+           
+            
+             
+             
+              T
+              
+             
+            
+           
+            
+            
+           
+         . Let
+      
+       
+          
+           
+            
+            
+             D
+             
+            
+             =
+             
+            
+             {
+             
+             
+             
+              D
+              
+              
+              
+               1
+               
+              
+             
+            
+             ,
+             
+            
+             &nbsp;
+             
+            
+             …
+             
+            
+             &nbsp;
+             
+            
+             ,
+             
+             
+             
+              D
+              
+              
+              
+               n
+               
+              
+             
+            
+             }
+             
+            
+           
+          
+           ,\ \ldots \ ,D_\}}
+           
+          
+        
+       
+       
+      be the set of all documents. 
+      
+      A query is a Boolean expression 
+           
+            
+             
+             
+              Q
+              
+             
+            
+           
+            
+            
+           
+          in normal form:
+      
+       
+          
+           
+            
+            
+             Q
+             
+            
+             =
+             
+            
+             (
+             
+             
+             
+              W
+              
+              
+              
+               1
+               
+              
+             
+            
+             &nbsp;
+             
+            
+             ∨
+             
+            
+             &nbsp;
+             
+             
+             
+              W
+              
+              
+              
+               2
+               
+              
+             
+            
+             &nbsp;
+             
+            
+             ∨
+             
+            
+             &nbsp;
+             
+            
+             ⋯
+             
+            
+             )
+             
+            
+             ∧
+             
+            
+             &nbsp;
+             
+            
+             ⋯
+             
+            
+             &nbsp;
+             
+            
+             ∧
+             
+            
+             &nbsp;
+             
+            
+             (
+             
+             
+             
+              W
+              
+              
+              
+               i
+               
+              
+             
+            
+             &nbsp;
+             
+            
+             ∨
+             
+            
+             &nbsp;
+             
+             
+             
+              W
+              
+              
+              
+               i
+               
+              
+               +
+               
+              
+               1
+               
+              
+             
+            
+             &nbsp;
+             
+            
+             ∨
+             
+            
+             &nbsp;
+             
+            
+             ⋯
+             
+            
+             )
+             
+            
+           
+          
+           \ \lor \ W_\ \lor \ \cdots )\land \ \cdots \ \land \ (W_\ \lor \ W_\ \lor \ \cdots )}
+           
+          
+        
+       
+       
+      where 
+          
+           
+            
+             
+             
+              W
+              
+              
+              
+               i
+               
+              
+             
+            
+           
+          
+           }
+           
+          
+         is true for 
+          
+           
+            
+             
+             
+              D
+              
+              
+              
+               j
+               
+              
+             
+            
+           
+          
+           }
+           
+          
+         when 
+          
+           
+            
+             
+             
+              t
+              
+              
+              
+               i
+               
+              
+             
+            
+             ∈
+             
+             
+             
+              D
+              
+              
+              
+               j
+               
+              
+             
+            
+           
+          
+           \in D_}
+           
+          
+        . (Equivalently, 
+          
+           
+            
+            
+             Q
+             
+            
+           
+          
+           
+           
+          
+         could be expressed in disjunctive normal form.) 
+      
+      We seek to find the set of documents that satisfy 
+           
+            
+             
+             
+              Q
+              
+             
+            
+           
+            
+            
+           
+         . This operation is called retrieval and consists of the following two steps:  
+      
+       
+        1. For each 
+            
+             
+              
+               
+               
+                W
+                
+                
+                
+                 j
+                 
+                
+               
+              
+             
+            
+             }
+             
+            
+           in 
+            
+             
+              
+              
+               Q
+               
+              
+             
+            
+             
+             
+            
+          , find the set 
+            
+             
+              
+               
+               
+                S
+                
+                
+                
+                 j
+                 
+                
+               
+              
+             
+            
+             }
+             
+            
+           of documents that satisfy 
+            
+             
+              
+               
+               
+                W
+                
+                
+                
+                 j
+                 
+                
+               
+              
+             
+            
+             }
+             
+            
+          :
+        
+         
+            
+             
+              
+               
+               
+                S
+                
+                
+                
+                 j
+                 
+                
+               
+              
+               =
+               
+              
+               {
+               
+               
+               
+                D
+                
+                
+                
+                 i
+                 
+                
+               
+              
+               ∣
+               
+               
+               
+                W
+                
+                
+                
+                 j
+                 
+                
+               
+              
+               }
+               
+              
+             
+            
+             =\\mid W_\}}
+             
+            
+          
+         
+         
+        2. Then the set of documents that satisfy Q is given by:
+        
+         
+            
+             
+              
+              
+               (
+               
+               
+               
+                S
+                
+                
+                
+                 1
+                 
+                
+               
+              
+               ∪
+               
+               
+               
+                S
+                
+                
+                
+                 2
+                 
+                
+               
+              
+               ∪
+               
+              
+               ⋯
+               
+              
+               )
+               
+              
+               ∩
+               
+              
+               ⋯
+               
+              
+               ∩
+               
+              
+               (
+               
+               
+               
+                S
+                
+                
+                
+                 i
+                 
+                
+               
+              
+               ∪
+               
+               
+               
+                S
+                
+                
+                
+                 i
+                 
+                
+                 +
+                 
+                
+                 1
+                 
+                
+               
+              
+               ∪
+               
+              
+               ⋯
+               
+              
+               )
+               
+              
+             
+            
+             \cup S_\cup \cdots )\cap \cdots \cap (S_\cup S_\cup \cdots )}
+             
+            
+          
+         
+         
+        
+       
+       
+      Example 
+      Let the set of original (real) documents be, for example  
+      
+       
+        
+            
+             
+              
+              
+               O
+               
+              
+               =
+               
+              
+               {
+               
+               
+               
+                O
+                
+                
+                
+                 1
+                 
+                
+               
+              
+               ,
+               
+              
+               &nbsp;
+               
+               
+               
+                O
+                
+                
+                
+                 2
+                 
+                
+               
+              
+               ,
+               
+              
+               &nbsp;
+               
+               
+               
+                O
+                
+                
+                
+                 3
+                 
+                
+               
+              
+               }
+               
+              
+             
+            
+             ,\ O_,\ O_\}}
+             
+            
+          
+       
+       
+      where 
+      
+           
+            
+             
+              
+              
+               O
+               
+               
+               
+                1
+                
+               
+              
+             
+            
+           
+            }
+            
+           
+          = "Bayes' principle: The principle that, in estimating a parameter, one should initially assume that each possible value has equal probability (a uniform prior distribution)." 
+      
+           
+            
+             
+              
+              
+               O
+               
+               
+               
+                2
+                
+               
+              
+             
+            
+           
+            }
+            
+           
+          = "Bayesian decision theory: A mathematical theory of decision-making which presumes utility and probability functions, and according to which the act to be chosen is the Bayes act, i.e. the one with highest subjective expected utility. If one had unlimited time and calculating power with which to make every decision, this procedure would be the best way to make any decision." 
+      
+           
+            
+             
+              
+              
+               O
+               
+               
+               
+                3
+                
+               
+              
+             
+            
+           
+            }
+            
+           
+          = "Bayesian epistemology: A philosophical theory which holds that the epistemic status of a proposition (i.e. how well proven or well established it is) is best measured by a probability and that the proper way to revise this probability is given by Bayesian conditionalisation or similar procedures. A Bayesian epistemologist would use probability to define, and explore the relationship between, concepts such as epistemic status, support or explanatory power." 
+      Let the set 
+           
+            
+             
+             
+              T
+              
+             
+            
+           
+            
+            
+           
+          of terms be: 
+      
+      
+       
+          
+           
+            
+            
+             T
+             
+            
+             =
+             
+            
+             {
+             
+             
+             
+              t
+              
+              
+              
+               1
+               
+              
+             
+            
+             =
+             
+             
+             
+              Bayes' principle
+              
+             
+            
+             ,
+             
+             
+             
+              t
+              
+              
+              
+               2
+               
+              
+             
+            
+             =
+             
+             
+             
+              probability
+              
+             
+            
+             ,
+             
+             
+             
+              t
+              
+              
+              
+               3
+               
+              
+             
+            
+             =
+             
+             
+             
+              decision-making
+              
+             
+            
+             ,
+             
+             
+             
+              t
+              
+              
+              
+               4
+               
+              
+             
+            
+             =
+             
+             
+             
+              Bayesian epistemology
+              
+             
+            
+             }
+             
+            
+           
+          
+           =},t_=},t_=},t_=}\}}
+           
+          
+        
+       
+       
+       
+      
+      Then, the set 
+           
+            
+             
+             
+              D
+              
+             
+            
+           
+            
+            
+           
+          of documents is as follows:  
+      
+       
+        
+         
+            
+             
+              
+              
+               D
+               
+              
+               =
+               
+              
+               {
+               
+               
+               
+                D
+                
+                
+                
+                 1
+                 
+                
+               
+              
+               ,
+               
+              
+               &nbsp;
+               
+               
+               
+                D
+                
+                
+                
+                 2
+                 
+                
+               
+              
+               ,
+               
+              
+               &nbsp;
+               
+               
+               
+                D
+                
+                
+                
+                 3
+                 
+                
+               
+              
+               }
+               
+              
+             
+            
+             ,\ D_,\ D_\}}
+             
+            
+          
+         
+         
+        
+       
+       
+      where 
+      
+       
+          
+           
+            
+             
+              
+               
+                
+                 
+                 
+                  D
+                  
+                  
+                  
+                   1
+                   
+                  
+                 
+                
+                
+                 
+                
+                 =
+                 
+                
+                 {
+                 
+                 
+                 
+                  probability
+                  
+                 
+                
+                 ,
+                 
+                
+                 &nbsp;
+                 
+                 
+                 
+                  Bayes' principle
+                  
+                 
+                
+                 }
+                 
+                
+               
+               
+                
+                 
+                 
+                  D
+                  
+                  
+                  
+                   2
+                   
+                  
+                 
+                
+                
+                 
+                
+                 =
+                 
+                
+                 {
+                 
+                 
+                 
+                  probability
+                  
+                 
+                
+                 ,
+                 
+                
+                 &nbsp;
+                 
+                 
+                 
+                  decision-making
+                  
+                 
+                
+                 }
+                 
+                
+               
+               
+                
+                 
+                 
+                  D
+                  
+                  
+                  
+                   3
+                   
+                  
+                 
+                
+                
+                 
+                
+                 =
+                 
+                
+                 {
+                 
+                 
+                 
+                  probability
+                  
+                 
+                
+                 ,
+                 
+                
+                 &nbsp;
+                 
+                 
+                 
+                  Bayesian epistemology
+                  
+                 
+                
+                 }
+                 
+                
+               
+              
+             
+            
+           
+          
+           D_&amp;=\},\ }\}\\D_&amp;=\},\ }\}\\D_&amp;=\},\ }\}\end}}
+           
+          
+        
+       
+       
+       
+      
+      Let the query 
+           
+            
+             
+             
+              Q
+              
+             
+            
+           
+            
+            
+           
+          be: 
+      
+      
+       
+          
+           
+            
+            
+             Q
+             
+            
+             =
+             
+             
+             
+              probability
+              
+             
+            
+             ∧
+             
+             
+             
+              decision-making
+              
+             
+            
+           
+          
+           }\land }}
+           
+          
+        
+       
+       
+      Then to retrieve the relevant documents: 
+       
+      
+       Firstly, the following sets 
+            
+             
+              
+               
+               
+                S
+                
+                
+                
+                 1
+                 
+                
+               
+              
+             
+            
+             }
+             
+            
+           and 
+            
+             
+              
+               
+               
+                S
+                
+                
+                
+                 2
+                 
+                
+               
+              
+             
+            
+             }
+             
+            
+           of documents 
+            
+             
+              
+               
+               
+                D
+                
+                
+                
+                 i
+                 
+                
+               
+              
+             
+            
+             }
+             
+            
+           are obtained (retrieved):
+        
+         
+            
+             
+              
+               
+                
+                 
+                  
+                   
+                   
+                    S
+                    
+                    
+                    
+                     1
+                     
+                    
+                   
+                  
+                  
+                   
+                  
+                   =
+                   
+                  
+                   {
+                   
+                   
+                   
+                    D
+                    
+                    
+                    
+                     1
+                     
+                    
+                   
+                  
+                   ,
+                   
+                  
+                   &nbsp;
+                   
+                   
+                   
+                    D
+                    
+                    
+                    
+                     2
+                     
+                    
+                   
+                  
+                   ,
+                   
+                  
+                   &nbsp;
+                   
+                   
+                   
+                    D
+                    
+                    
+                    
+                     3
+                     
+                    
+                   
+                  
+                   }
+                   
+                  
+                 
+                 
+                  
+                   
+                   
+                    S
+                    
+                    
+                    
+                     2
+                     
+                    
+                   
+                  
+                  
+                   
+                  
+                   =
+                   
+                  
+                   {
+                   
+                   
+                   
+                    D
+                    
+                    
+                    
+                     2
+                     
+                    
+                   
+                  
+                   }
+                   
+                  
+                 
+                
+               
+              
+             
+            
+             S_&amp;=\,\ D_,\ D_\}\\S_&amp;=\\}\end}}
+             
+            
+          
+         
+         
+         
+       Finally, the following documents 
+            
+             
+              
+               
+               
+                D
+                
+                
+                
+                 i
+                 
+                
+               
+              
+             
+            
+             }
+             
+            
+           are retrieved in response to 
+            
+             
+              
+              
+               Q
+               
+              
+             
+            
+             
+             
+            
+           
+        
+         
+            
+             
+              
+              
+               Q
+               
+              
+               :
+               
+              
+               {
+               
+               
+               
+                D
+                
+                
+                
+                 1
+                 
+                
+               
+              
+               ,
+               
+              
+               &nbsp;
+               
+               
+               
+                D
+                
+                
+                
+                 2
+                 
+                
+               
+              
+               ,
+               
+              
+               &nbsp;
+               
+               
+               
+                D
+                
+                
+                
+                 3
+                 
+                
+               
+              
+               }
+               
+              
+               &nbsp;
+               
+              
+               ∩
+               
+              
+               &nbsp;
+               
+              
+               {
+               
+               
+               
+                D
+                
+                
+                
+                 2
+                 
+                
+               
+              
+               }
+               
+              
+               &nbsp;
+               
+              
+               =
+               
+              
+               &nbsp;
+               
+              
+               {
+               
+               
+               
+                D
+                
+                
+                
+                 2
+                 
+                
+               
+              
+               }
+               
+              
+             
+            
+             ,\ D_,\ D_\}\ \cap \ \\}\ =\ \\}}
+             
+            
+          
+         
+         
+        
+       
+      This means that the original document 
+           
+            
+             
+              
+              
+               O
+               
+               
+               
+                2
+                
+               
+              
+             
+            
+           
+            }
+            
+           
+          (corresponding to 
+           
+            
+             
+              
+              
+               D
+               
+               
+               
+                2
+                
+               
+              
+             
+            
+           
+            }
+            
+           
+         ) is the answer to 
+           
+            
+             
+             
+              Q
+              
+             
+            
+           
+            
+            
+           
+         . 
+      Obviously, if there is more than one document with the same representation, every such document is retrieved. Such documents are indistinguishable in the BIR (in other words, equivalent).  
+      Advantages 
+      
+       Clean formalism 
+       Easy to implement 
+       Intuitive concept 
+       If the resulting document set is either too small or too big, it is directly clear which operators will produce respectively a bigger or smaller set. 
+       It gives (expert) users a sense of control over the system. It is immediately clear why a document has been retrieved given a query.
+       
+      Disadvantages 
+      
+       Exact matching may retrieve too few or too many documents 
+       Hard to translate a query into a Boolean expression 
+       All terms are equally weighted 
+       More like data retrieval than information retrieval 
+       Retrieval based on binary decision criteria with no notion of partial matching 
+       No ranking of the documents is provided (absence of a grading scale) 
+       Information need has to be translated into a Boolean expression, which most users find awkward 
+       The Boolean queries formulated by the users are most often too simplistic 
+       The model frequently returns either too few or too many documents in response to a user query
+       
+      Data structures and algorithms 
+      From a pure formal mathematical point of view, the BIR is straightforward. From a practical point of view, however, several further problems should be solved that relate to algorithms and data structures, such as, for example, the choice of terms (manual or automatic selection or both), stemming, hash tables, inverted file structure, and so on.  
+      Hash sets 
+      
+      
+       Main article: feature hashing
+       
+      Another possibility is to use hash sets. Each document is represented by a hash table which contains every single term of that document. Since hash table size increases and decreases in real time with the addition and removal of terms, each document will occupy much less space in memory. However, it will have a slowdown in performance because the operations are more complex than with bit vectors. On the worst-case performance can degrade from O(n) to O(n2). On the average case, the performance slowdown will not be that much worse than bit vectors and the space usage is much more efficient.  
+      Signature file 
+      Each document can be summarized by Bloom filter representing the set of words in that document, stored in a fixed-length bitstring, called a signature. The signature file contains one such superimposed code bitstring for every document in the collection. Each query can also be summarized by a Bloom filter representing the set of words in the query, stored in a bitstring of the same fixed length. The query bitstring is tested against each signature. 
+      The signature file approached is used in BitFunnel.  
+      Inverted file 
+      
+      
+       Main article: inverted index
+       
+      An inverted index file contains two parts: a vocabulary containing all the terms used in the collection, and for each distinct term an inverted index that lists every document that mentions that term.  
+      References 
+      
+       
+       
+         
+         ^ Lancaster, F.W.; Fayen, E.G. (1973), Information Retrieval On-Line, Melville Publishing Co., Los Angeles, California  
+         ^ 
+           Wartik, Steven (1992). "Boolean operations". Information Retrieval Data Structures &amp; Algorithms. Prentice-Hall, Inc. ISBN&nbsp;0-13-463837-9. Archived from the original on 2013-09-28.  
+         ^ a b  Justin Zobel; Alistair Moffat; and Kotagiri Ramamohanarao. "Inverted Files Versus Signature Files for Text Indexing".  
+         ^ a b  Bob Goodwin; et. al. "BitFunnel: Revisiting Signatures for Search". 2017.  
+         ^  Richard Startin. "Bit-Sliced Signatures and Bloom Filters".  
+        
+       
+       
+      
+       
+        Lashkari, A.H.; Mahdavi, F.; Ghomi, V. (2009), "A Boolean Model in Information Retrieval for Search Engines", 2009 International Conference on Information Management and Engineering, pp.&nbsp;385–389, doi:10.1109/ICIME.2009.101, ISBN&nbsp;978-0-7695-3595-1
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Boolean_model_of_information_retrieval&amp;oldid=1043894312"
+     
+     
+    
+     
+      Categories: 
+      
+       Mathematical modeling
+       Information retrieval techniques
+      
+     
+     
+      Hidden categories: 
+      
+       Wikipedia articles that are too technical from June 2018
+       All articles that are too technical
+       All articles with unsourced statements
+       Articles with unsourced statements from November 2010
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Català
+       Deutsch
+       Español
+       Français
+       한국어
+       Italiano
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 12 September 2021, at 14:57&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

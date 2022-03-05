@@ -1,0 +1,600 @@
+
+ 
+  
+   
+  Jacques Bertin - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Jacques Bertin 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+        
+      
+      
+       
+        
+         
+          
+           Jacques Bertin
+          
+        
+        
+         
+        
+        
+         Born
+         (1918-07-27)27 July 1918
+          
+           Maisons-Laffitte, Yvelines
+          
+        
+        
+         Died
+         3 May 2010(2010-05-03) (aged&nbsp;91)
+          
+           Paris, France
+          
+        
+        
+         Occupation
+         Cartographer, Theorist
+        
+       
+       
+      Jacques Bertin (27 July 1918 – 3 May 2010) was a French cartographer and theorist, known from his book Semiologie Graphique (Semiology of Graphics), published in 1967. This monumental work, based on his experience as a cartographer and geographer, represents the first and widest intent to provide a theoretical foundation to Information Visualization, with his most lasting contribution being his set of visual variables that can be used to construct  map symbols and other graphical techniques one of then being the Bertin Projection, an innovative map projection type.  
+      
+       
+       
+        Contents
+        
+        
+        1 Biography 
+        2 Publications 
+        3 References 
+        4 External links 
+        
+       
+      Biography 
+      Jacques Bertin was born in 1918 in Maisons-Laffitte, Yvelines. When he was 10, he received the first prize of cartography at primary school. He never had problems with drawing, and pursued interests including architecture, the teaching of drawing and cartography. Finally he ended up studying geography and cartography at the Sorbonne. 
+      He became founder and director of the Cartographic Laboratory of the École pratique des hautes études (EPHE) in 1954 and director of studies (directeur d'études) in 1957. In 1967 he became professor of the Sorbonne, and in 1974 he became director of studies and director of the Geographical Laboratory of the École des hautes études en sciences sociales (EHESS), which is part of the École pratique des hautes études (EPHE, VIe Section). Later in the 1970s he became head of research at the Centre national de la recherche scientifique (CNRS). 
+      In 1993 Bertin received the "Mercator-Medaille der Deutschen Gesellschaft für Kartographie" and in 1999 the Carl Mannerfelt Gold Medal from the International Cartographic Association. 
+      Bertin died in Paris on 3 May 2010.  
+      Publications 
+      Jacques Bertin has published numerous scientific maps, papers and articles on map making, semiology, graphical information and graphic processing.  
+      
+       1967. Sémiologie Graphique. Les diagrammes, les réseaux, les cartes. With Marc Barbut . Paris&nbsp;: Gauthier-Villars. (Translation 1983. Semiology of Graphics by William J. Berg.) 
+       1969. Etude et réalisation d'un dispositif de goniométrie et d'observation de formes d'onde, en large bande. 
+       1976. Experimental and Theoretical Aspects of Induced Polarization. 2 vol. With J. Loes. Berlin&nbsp;: Gebruder. Borntraeger. 
+       1977. Graphique et le traitement graphique de l'information. With Serge Bonin . 
+       1977. La graphique et le traitement graphique de l'information. Paris&nbsp;: Flammarion, 1977, 273 p. (translation 1981. Graphics and graphic information-processing by William J. Berg and Paul Scott). 
+       1992. Harper atlas of world history. with Pierre Vidal-Naquet. N.Y.&nbsp;: Harper Collins. 
+       1997. Atlas historique universel. Panorama de l'histoire du monde. With J. Devisse, D. Lavallée and J. Népote. Genève&nbsp;: Éd. Minerve, 180 p. 
+       2006. Nuovo atlante storico Zanichelli / sotto la direzione di Pierre Vidal-Naquet&nbsp;; direzione della cartografia.
+       
+      References 
+      
+       
+       
+         
+         ^ a b c "Archived copy". Archived from the original on 13 June 2010. Retrieved 23 July 2010.}: CS1 maint: archived copy as title (link)  
+         ^ a b Juan C. Dürsteler (2000-08). Interview with Jacques Bertin. Retrieved 23 June 2008.  
+         ^ David P. Bickmore (1969). "Sémiologie Graphique: les diagrammes, les réseaux, les cartes by Jacques Bertin." In: The Geographical Journal, Vol. 135, No. 1 (Mar., 1969), pp. 144-146.  
+         ^ David Ruxton Fraser Taylor (1985). "Education and Training in Contemporary Cartography". p. viii  
+         ^ Ron Bergquist (2006). "Graphic Portrayal of Information". Presentation at ils.unc.edu. Retrieved 1 July 2008.  
+         ^ Satzung der Deutschen Gesellschaft für Kartographie e.V. Archived 26 February 2007 at the Wayback Machine. Retrieved 1 July 2008.  
+        
+       
+       
+      External links 
+       
+       
+         
+          
+         Wikiquote has quotations related to: Jacques Bertin
+         
+       
+       
+      
+       Interview with Jacques Bertin 
+       Jacques Bertin's Semiology of Graphics 
+       Graphische Variablen im UMN MapServer (in German) 
+       Ecole des Hautes Etudes en Sciences Sociales page for Bertin (in French)
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          General
+          
+            
+            
+             ISNI 
+              
+               1
+               
+             VIAF 
+              
+               1
+               
+             WorldCat
+             
+           
+         
+         
+          National libraries
+          
+            
+            
+             Spain 
+             France (data) 
+             Catalonia 
+             Germany 
+             United States 
+             Japan 
+             Czech Republic 
+             Netherlands 
+             Poland 
+             Sweden
+             
+           
+         
+         
+          Other
+          
+            
+            
+             SUDOC (France) 
+              
+               1
+              
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Jacques_Bertin&amp;oldid=1001147772"
+     
+     
+    
+     
+      Categories: 
+      
+       1918 births
+       2010 deaths
+       People from Maisons-Laffitte
+       University of Paris alumni
+       École pratique des hautes études faculty
+       French cartographers
+       French geographers
+       Information graphic designers
+       Information visualization experts
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 maint: archived copy as title
+       All articles with dead external links
+       Articles with dead external links from November 2017
+       Articles with permanently dead external links
+       Webarchive template wayback links
+       Use dmy dates from July 2013
+       Articles with hCards
+       Articles with German-language sources (de)
+       Articles with French-language sources (fr)
+       Articles with ISNI identifiers
+       Articles with VIAF identifiers
+       Articles with WORLDCATID identifiers
+       Articles with BNE identifiers
+       Articles with BNF identifiers
+       Articles with CANTIC identifiers
+       Articles with GND identifiers
+       Articles with LCCN identifiers
+       Articles with NDL identifiers
+       Articles with NKC identifiers
+       Articles with NTA identifiers
+       Articles with PLWABN identifiers
+       Articles with SELIBR identifiers
+       Articles with SUDOC identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikiquote
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       Deutsch
+       فارسی
+       Français
+       한국어
+       Bahasa Indonesia
+       Italiano
+       ქართული
+       مصرى
+       日本語
+       Polski
+       Português
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 18 January 2021, at 12:46&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

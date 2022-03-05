@@ -1,0 +1,637 @@
+
+ 
+  
+   
+  Information visualization - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Information visualization 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Study of visual representations of data
+       
+      
+       
+         
+        
+         
+          
+         Graphic representation of a minute fraction of the WWW, demonstrating hyperlinks
+        
+       
+       
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           It has been suggested that this article be merged with Data visualization&nbsp;to Data and information visualization. (Discuss) Proposed since February 2021.
+          
+        
+       
+       
+      Information visualization (or visualisation) is the study of visual representations of abstract data to reinforce human cognition. The abstract data include both numerical and non-numerical data, such as text and geographic information. It is related to data visualization, infographics, and scientific visualization. One definition is that it's information visualization when the spatial representation (e.g., the page layout of a graphic design) is chosen, whereas it's scientific visualization when the spatial representation is given.  
+      
+       
+       
+        Contents
+        
+        
+        1 Overview 
+        2 History 
+        3 Techniques 
+        4 Applications 
+        5 Organization 
+        6 See also 
+        7 References 
+        8 Further reading 
+        9 External links 
+        
+       
+      Overview 
+      
+       
+         
+        
+         
+          
+         Partial map of the Internet early 2005 represented as a graph, each line represents two IP addresses, and some delay between those two nodes.
+        
+       
+       
+      The field of information visualization has emerged "from research in human–computer interaction, computer science, graphics, visual design, psychology, and business methods. It is increasingly applied as a critical component in scientific research, digital libraries, data mining, financial data analysis, market studies, manufacturing production control, and drug discovery". 
+      Information visualization presumes that "visual representations and interaction techniques take advantage of the human eye’s broad bandwidth pathway into the mind to allow users to see, explore, and understand large amounts of information at once. Information visualization focused on the creation of approaches for conveying abstract information in intuitive ways." 
+      Data analysis is an indispensable part of all applied research and problem solving in industry. The most fundamental data analysis approaches are visualization (histograms, scatter plots, surface plots, tree maps, parallel coordinate plots, etc.), statistics (hypothesis test, regression, PCA, etc.), data mining (association mining, etc.), and machine learning methods (clustering, classification, decision trees, etc.). Among these approaches, information visualization, or visual data analysis, is the most reliant on the cognitive skills of human analysts, and allows the discovery of unstructured actionable insights that are limited only by human imagination and creativity. The analyst does not have to learn any sophisticated methods to be able to interpret the visualizations of the data. Information visualization is also a hypothesis generation scheme, which can be, and is typically followed by more analytical or formal analysis, such as statistical hypothesis testing.  
+      History 
+      
+      
+       See also: Infographics §&nbsp;History, and Data visualization §&nbsp;History
+       
+      The modern study of visualization started with computer graphics, which "has from its beginning been used to study scientific problems. However, in its early days the lack of graphics power often limited its usefulness. The recent emphasis on visualization started in 1987 with the special issue of Computer Graphics on Visualization in Scientific Computing. Since then there have been several conferences and workshops, co-sponsored by the IEEE Computer Society and ACM SIGGRAPH". They have been devoted to the general topics of data visualization, information visualization and scientific visualization, and more specific areas such as volume visualization.  
+      
+       
+         
+        
+         
+          
+         Product Space Localization, intended to show the Economic Complexity of a given economy
+        
+       
+       
+      
+       
+         
+        
+         
+          
+         Tree Map of Benin Exports (2009) by product category. The Product Exports Treemaps are one of the most recent applications of these kind of visualizations, developed by the Harvard-MIT Observatory of Economic Complexity
+        
+       
+       
+      In 1786, William Playfair published the first presentation graphics.  
+      Techniques 
+      
+      
+       See also: Data visualization §&nbsp;Techniques
+       
+      
+       Cartogram 
+       Cladogram (phylogeny) 
+       Concept Mapping 
+       Dendrogram (classification) 
+       Information visualization reference model 
+       Graph drawing 
+       Heatmap 
+       HyperbolicTree 
+       Multidimensional scaling 
+       Parallel coordinates 
+       Problem solving environment 
+       Treemapping
+       
+      Applications 
+      Information visualization insights are being applied in areas such as:  
+      
+       Scientific research 
+       Digital libraries 
+       Data mining 
+       Information graphics 
+       Financial data analysis 
+       Health care 
+       Market studies 
+       Manufacturing production control 
+       Crime mapping 
+       eGovernance and Policy Modeling
+       
+      Organization 
+      Notable academic and industry laboratories in the field are:  
+      
+       Adobe Research 
+       IBM Research 
+       Google Research 
+       Microsoft Research 
+       Panopticon Software 
+       Scientific Computing and Imaging Institute 
+       Tableau Software 
+       University of Maryland Human-Computer Interaction Lab 
+       Vvi
+       
+      Conferences in this field, ranked by significance in data visualization research, are:  
+      
+       IEEE Visualization: An annual international conference on scientific visualization, information visualization, and visual analytics. Conference is held in October. 
+       ACM SIGGRAPH: An annual international conference on computer graphics, convened by the ACM SIGGRAPH organization. Conference dates vary. 
+       EuroVis: An annual Europe-wide conference on data visualization, organized by the Eurographics Working Group on Data Visualization and supported by the IEEE Visualization and Graphics Technical Committee (IEEE VGTC). Conference is usually held in June. 
+       Conference on Human Factors in Computing Systems (CHI): An annual international conference on human–computer interaction, hosted by ACM SIGCHI. Conference is usually held in April or May. 
+       Eurographics: An annual Europe-wide computer graphics conference, held by the European Association for Computer Graphics. Conference is usually held in April or May. 
+       PacificVis: An annual visualization symposium held in the Asia-Pacific region, sponsored by the IEEE Visualization and Graphics Technical Committee (IEEE VGTC). Conference is usually held in March or April.
+       
+      For further examples, see: Category:Computer graphics organizations  
+      See also 
+      
+       Color coding technology for visualization 
+       Computational visualistics 
+       Data art 
+       Data Presentation Architecture 
+       Data visualization 
+       Geovisualization 
+       imc FAMOS (1987)]], graphical data analysis 
+       Infographics 
+       Patent visualisation 
+       Software visualization 
+       Visual analytics 
+       List of information graphics software 
+       List of countries by economic complexity, example of Treemapping
+       
+      References 
+      
+       
+        
+        ^ Tamara Munzner. "Process and Pitfalls in Writing Information Visualization Research Papers". www.cs.ubc.ca. Retrieved 9 April 2018.  
+        ^ a b Benjamin B. Bederson and Ben Shneiderman (2003). The Craft of Information Visualization: Readings and Reflections, Morgan Kaufmann 
+          ISBN&nbsp;1-55860-915-6.  
+        ^ James J. Thomas and Kristin A. Cook (Ed.) (2005). Illuminating the Path: The R&amp;D Agenda for Visual Analytics Archived 2008-09-29 at the Wayback Machine. National Visualization and Analytics Center. p.30  
+        ^ G. Scott Owen (1999). History of Visualization Archived 2012-10-08 at the Wayback Machine. Accessed Jan 19, 2010.  
+        ^ 
+          Faisal, Sarah; Blandford, Ann; Potts, Henry WW (2013). "Making sense of personal health information: Challenges for information visualization" (PDF). Health Informatics Journal. 19 (3): 198–217. doi:10.1177/1460458212465213. PMID&nbsp;23981395. S2CID&nbsp;3825148.  
+        ^ 
+          Kosara, Robert (11 November 2013). "A Guide to the Quality of Different Visualization Venues". eagereyes. Retrieved 7 April 2017.  
+       
+       
+      Further reading 
+      
+       Ben Bederson and Ben Shneiderman (2003). The Craft of Information Visualization: Readings and Reflections. Morgan Kaufmann. 
+       Stuart K. Card, Jock D. Mackinlay and Ben Shneiderman (1999). Readings in Information Visualization: Using Vision to Think, Morgan Kaufmann Publishers. 
+       Jeffrey Heer, Stuart K. Card, James Landay (2005). "Prefuse: a toolkit for interactive information visualization". In: ACM Human Factors in Computing Systems CHI 2005. 
+       Andreas Kerren, John T. Stasko, Jean-Daniel Fekete, and Chris North (2008). Information Visualization&nbsp;– Human-Centered Issues and Perspectives. Volume 4950 of LNCS State-of-the-Art Survey, Springer. 
+       Riccardo Mazza (2009). Introduction to Information Visualization, Springer. 
+       Spence, Robert Information Visualization: Design for Interaction (2nd Edition), Prentice Hall, 2007, 
+        ISBN&nbsp;0-13-206550-9. 
+       Colin Ware (2000). Information Visualization: Perception for design. San Francisco, CA: Morgan Kaufmann. 
+       Kawa Nazemi (2014). Adaptive Semantics Visualization Eurographics Association.
+       
+      External links 
+      
+        Media related to Information visualization at Wikimedia Commons 
+       Information Visualization at Curlie
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          Authority control: National libraries 
+          
+            
+            
+             United States
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Information_visualization&amp;oldid=1067137520"
+     
+     
+    
+     
+      Categories: 
+      
+       Information visualization
+       Computational science
+       Computer graphics
+       Infographics
+       Scientific visualization
+      
+     
+     
+      Hidden categories: 
+      
+       Webarchive template wayback links
+       Articles with short description
+       Short description matches Wikidata
+       Articles to be merged from February 2021
+       All articles to be merged
+       Commons category link from Wikidata
+       Articles with Curlie links
+       Articles with LCCN identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       Deutsch
+       فارسی
+       Français
+       Italiano
+       עברית
+       Монгол
+       Norsk bokmål
+       Polski
+       Português
+       Русский
+       தமிழ்
+       Українська
+       粵語
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 21 January 2022, at 23:11&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

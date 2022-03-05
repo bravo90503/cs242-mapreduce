@@ -1,0 +1,557 @@
+
+ 
+  
+   
+  Library consortium - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Library consortium 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      A library consortium is any cooperative association of libraries that coordinates resources and/or activities on behalf of its members, whether they are school, public, academic, special libraries and/or information centers. Consortia exist on a variety of levels, e.g., local, state, regional, national or international. Libraries commonly belong to multiple consortia. The goal of a library consortium is to amplify the capabilities and effectiveness of its member libraries through collective action, including, but not limited to, print or electronic resource sharing, reductions in costs through group purchases of resources, and professional development opportunities. The “bedrock principle upon which consortia operate is that libraries can accomplish more together than alone.”  
+      
+       
+       
+        Contents
+        
+        
+        1 Types of library consortia 
+          
+          1.1 Geographic regions 
+          1.2 Membership participation 
+          1.3 Governance frameworks 
+           
+        2 Types of consortial work 
+          
+          2.1 Licensing and content negotiation 
+          2.2 Shared technology infrastructure 
+          2.3 Professional development 
+          2.4 Shared print programs 
+           
+        3 History in the United States 
+        4 Further reading 
+        5 See also 
+        6 References 
+        
+       
+      Types of library consortia 
+      “Library consortia are as varied as the libraries they serve” and can vary in almost all aspects, including scope, organizational structure, membership size, and mission. Broadly, library consortia can be classified using three categories: geographic region, membership participation, and governance framework.  
+      Geographic regions 
+      Library consortia exist globally, with a majority of consortia located in the United States and Europe. Library consortia are also established in Canada, Asia, United Kingdom, South America, Middle East, Australia, Africa, and New Zealand. Geographically, consortia can represent state, regional, national, or international interests. 
+      North America, including the United States and Canada, accounts for nearly 60% of consortia registered with the International Coalition of Library Consortia (ICOLC). North American consortia typically exist at the local, state/province, and regional level. While a few consortia exist at the national level, groups are often initially formed to address concerns within a network of geographically-associated libraries. 
+      In Europe and other regions of the world, consortia usually represent libraries at the national level. For example, Couperin negotiates for electronic resources on behalf of academic library organizations in France. Japan’s Alliance of University Library Consortia for E-Resources (JUSTICE) provides similar services for libraries in Japan. 
+      Internationally, multi-country consortia represent libraries cooperating across the globe to develop specific services, such as technology-driven AMICAL, or to pool resources for specialized organization types, such as international law library consortium NELLCO.  
+      Membership participation 
+      Participation in a library consortium can differ by library type and library activity, and, in some instances, level of membership. Membership is not always restricted, and libraries can belong to one or more consortia. 
+      A consortium can represent the interests of a single type of library, which include academic libraries, special libraries, and public libraries, while a multi-type consortium represents multiple library types and often serves all libraries in a central region. 
+      A consortium may also serve specific library interests or activities, such as electronic resource licensing or resource sharing.  
+      Governance frameworks 
+      Library consortia can be established informally or formally, with few or many staff, and with widely differing procedures, funding models, and strategic mandates. The most prevalent governance frameworks can be classified by the underlying funding model of the consortium, which commonly include:  
+      
+       Membership fees 
+       Government or public sponsorship 
+       Administrative surcharges 
+       Private funding
+       
+      Types of consortial work 
+      Library consortia perform a variety of functions, typically focused on a few key activities, intended to serve their members and the wider community.  
+      Licensing and content negotiation 
+      The most traditional function of a library consortium is content negotiation. As publishers increasingly offer digital packages of content, such as scholarly databases, ebooks, electronic journals, streaming video and other digital content, library consortia provide negotiation power to ensure better agreements for their members. When negotiating with publishers, consortia staff focus both on obtaining a better price for their content and better licensing terms that are agreeable to the libraries. Libraries choose to work through consortia because they receive more resources for their money while expending less staff time in vendor negotiations. Publishers are incentivized to work with consortia because they receive more guaranteed income from increased participation. 
+      In recent years, a major focus of consortial content negotiation is Open Access (OA). Many national consortia set and/or enforce national mandates for open scholarship, which dictate what types of scholarship must be published as OA. This is often done through licensing negotiations with major publishers. For example, the Danish National Library Authority's licensing negotiations “include price, conditions of use, open access in accordance with the support of the National Strategy For Open Access.” 
+      Many of the agreements consortia make on behalf of institutions and researchers are called “transformative agreements,” meaning that they are transforming formerly paywalled content into open content. In the US, for example, the California Digital Library negotiated a deal with scientific publisher Elsevier in 2021 to ensure that all research produced by scholars working in the University of California system would be published as OA over a four-year period.  
+      Shared technology infrastructure 
+      A newer, but no less important function of the library consortium centers around technology resource sharing. For some consortia, this means centralized hosting of shared information systems. For example, consortia often host integrated library systems on behalf of networks of libraries, so that no single institution is responsible for the technical demands of the software. Other consortia host centralized repositories of digital materials, which could be themed around geographic regions (such as the Kentucky Digital Library devoted to digital archives from the Commonwealth of Kentucky) or subject matter (such as the Inter-university Consortium for Political and Social Research, a self-publishing repository for social, behavioral, and health sciences research data). 
+      Some consortia are also hubs for software development, directly working with their library constituents to identify technological gaps in their institutions. These projects are often community-led and/or open source. For example, Jisc, based in the UK, developed IRUS, an Institutional Repository Usage Statistics software service, which calculates standards-based usage statistics for institutional repositories of university publishing. In an example of cross-consortial work in the US, the Pennsylvania Academic Library Consortium (PALCI) partnered with the Private Academic Library Network of Indiana (PALNI) to develop and pilot an open source, multi-tenant institutional repository specifically for consortia (Hyku for Consortia). 
+      Other shared technology infrastructure initiatives might include open source software hosting, joint digitization services,&nbsp;and digital content accessibility testing.  
+      Professional development 
+      Many consortia provide professional development opportunities for their members. Different consortia provide paid or free opportunities for librarians to learn new skills, introduce new technologies, and learn about trends in the field. Many consortia internally develop in-person or online programming, and often host their own regular meetings and/or conferences to encourage networking and skill sharing amongst their members. The Professional Development Alliance is an effort to share professional development content amongst consortia.  
+      Shared print programs 
+      Library consortia help coordinate shared print programs, allowing institutions within certain geographic regions to maintain a practical number of copies of scholarly monographs. These programs “protect against the loss of resources as pressure grows to reduce and repurpose space in library buildings.” Shared print programs can be regional or national in scale. 
+      Library consortia often cover many different activities not mentioned above, including, but not limited to: consulting services, grant funding, and industry research.  
+      History in the United States 
+      Library cooperation in the United States has been documented as early as 1867 with the American Library Association (ALA)’s Committee on Cooperation in Indexing and Cataloguing College Libraries. Despite the early cooperative activity, the earliest example of a formally established consortium would not arise until 1933 with the Triangle Research Libraries Network (TRLN), which was founded to serve the major academic libraries of North Carolina. 
+      The 1960s and 1970s are considered the “heyday of consortia development” with many consortia established during this time period.  However, several significant developments in the United States between the late 1940s to the mid-1990s marked the current evolution of library consortia. 
+      An early form of "shared print", now a widespread consortial activity, began in 1949 when the Center for Research Libraries (CRL) was founded as a consortium of ten major research libraries “…to conduct and maintain a place or places for the deposit, storage, care, delivery and exchange of books ... and other articles containing written, printed, or recorded matter". 
+      In 1967, OCLC was formed for the purposes of shared library cataloging. As a focus of library activity, shared cataloging was accompanied by the spread of online catalog systems, and many new statewide and regional consortia coalesced around shared online catalog systems, particularly in the 1970s and continuing through the 1990s. Some of these consortia were associated with OCLC as “OCLC networks,” and these consortia often crossed state lines to cover broad regions of the United States. 
+      By the mid-1990s, a new consortial activity rose to prominence: the collaborative licensing of electronic resources. Consortial licensing became a primary activity for many consortia as libraries transitioned from print-focused collection development to providing access to a growing number of online indices, databases and encyclopedias. The market of consortial licensing has continued unabated to the present, as content providers provide new content or new services, such as research support and publishing metrics.  
+      Further reading 
+      
+       Dempsey, Lorcan (2018-02-28). "The powers of library consortia 1: how consortia scale capacity, learning, innovation and influence". *Orweblog. Retrieved 2022-01-13.}: CS1 maint: url-status (link)
+       
+      See also 
+      
+       International Coalition of Library Consortia (ICOLC) 
+       Project DEAL
+       
+      References 
+      
+       
+       
+         
+         ^ 
+           "Library Consortia". Universal Service Administrative Company. Retrieved 2021-10-29.  
+         ^ 
+           "Frequently Asked Questions - Library Consortium Management FAQ's | EIFL". www.eifl.net. Retrieved 2021-10-29.  
+         ^ 
+           Grogg, Jill; Rosen, Hannah (2020-10-21). "Consortia: An Evolving Landscape". Collaborative Librarianship. 12 (2). ISSN&nbsp;1943-7528.  
+         ^ a b Horton, V. and Pronevitz, G. Library Consortia: Models for Collaboration and Sustainability. American Library Association (ALA), 2014. p. 8. ISBN 9780838912492.   
+         ^ 
+           "Participating Consortia | ICOLC Website". icolc.net. Retrieved 2021-10-29.  
+         ^ 
+           "Participating Consortia | ICOLC Website". icolc.net. Retrieved 2021-10-29.  
+         ^ a b c Burke, R. “Cooperation and Consortia”. Reference and Information Services: An Introduction, 5th Edition. ABC-CLIO, 2016. p.138-154. ISBN 9781440836978.   
+         ^ 
+           "COUPERIN". www.couperin.org. Retrieved 2021-10-29.  
+         ^ 
+           "大学図書館コンソーシアム連合：JUSTICE". contents.nii.ac.jp. Retrieved 2021-10-29.  
+         ^ 
+           "AMICAL Consortium". AMICAL Consortium. Retrieved 2021-10-29.}: CS1 maint: url-status (link)  
+         ^ 
+           "NELLCO: Mission &amp; Values". NELLCO Law Library Consortium, Inc.}: CS1 maint: url-status (link)  
+         ^ Grogg, Jill (17 Apr. 2019). "Strategies for Cross-Boundary Consortial Collaboration". The Power of Library Consortia: How Publishers and Libraries Can Successfully Negotiate. https://www.niso.org/events/2019/04/power-library-consortia-how-publishers-and-libraries-can-successfully-negotiate. Retrieved 2019-10-29.  
+         ^ 
+           "A Snapshot of Priorities &amp; Perspectives: U.S. Library Consortia" (PDF). OCLC.org. Retrieved 2021-10-29.}: CS1 maint: url-status (link)  
+         ^ 
+           "Library consortia purchasing power | Emerald Publishing". www.emeraldgrouppublishing.com. Retrieved 2021-10-29.  
+         ^ 
+           Turner, Christine N. (2014-01-30). "E-Resource Acquisitions in Academic Library Consortia". Library Resources &amp; Technical Services. 58 (1): 33–48. doi:10.5860/lrts.58n1.33. ISSN&nbsp;2159-9610.  
+         ^ 
+           tag. "Danmarks Nationale Strategi for Open Access — Uddannelses- og Forskningsministeriet". ufm.dk (in Danish). Retrieved 2021-10-29.  
+         ^ 
+           "UC secures landmark open access deal with world's largest scientific publisher". California Digital Library. 2021-03-16. Retrieved 2021-10-29.  
+         ^ 
+           "Buscador Timbó Foco". foco.timbo.org.uy. Retrieved 2021-10-29.  
+         ^ 
+           "KYVL: KDL - Kentucky Digital Library: About". kyvl.org. Retrieved 2021-10-29.}: CS1 maint: url-status (link)  
+         ^ 
+           "About openICPSR". www.openicpsr.org. Retrieved 2021-10-29.  
+         ^ 
+           "IRUS | Jisc". irus.jisc.ac.uk. Retrieved 2021-10-29.  
+         ^ 
+           "About the Project – Scaling Up a Collaborative Consortial Institutional Repository". Retrieved 2021-10-29.  
+         ^ 
+           "Hosting-Client-Services". www.lyrasis.org. Retrieved 2021-10-29.  
+         ^ 
+           "Professional Development Services". CAUL. 2017-11-10. Retrieved 2021-10-29.  
+         ^ 
+           "Eğitimler – ANKOS" (in Turkish). Retrieved 2021-10-29.  
+         ^ 
+           "Professional Development Alliance | SCELC". www.scelc.org. Retrieved 2021-10-29.  
+         ^ 
+           "Shared Print Program". Atla. Retrieved 2021-10-29.  
+         ^ Horton, V. and Pronevitz, G. Library Consortia: Models for Collaboration and Sustainability. American Library Association (ALA), 2014. p. 9. ISBN 9780838912492.   
+         ^ Horton, V. and Pronevitz, G. Library Consortia: Models for Collaboration and Sustainability. American Library Association (ALA), 2014. p. 10. ISBN 9780838912492  
+         ^ 
+           "History of CRL | CRL". www.crl.edu. Retrieved 2021-10-29.  
+         ^ 
+           "Frederick G. Kilgour Begins Development of OCLC&nbsp;: History of Information". www.historyofinformation.com. Retrieved 2021-10-29.  
+         ^ Bailey-Hainer, Brenda (October 19, 2009). "The OCLC Network of Regional Service Providers: The Last 10 Years". Journal of Library Administration. 49 (6): 621–629. doi:10.1080/01930820903238792. ISSN 0193-0826. S2CID 61936408.  
+         ^ 
+           Anderson, Kent (2018-02-06). "Focusing on Value — 102 Things Journal Publishers Do (2018 Update)". The Scholarly Kitchen. Retrieved 2021-10-29.}: CS1 maint: url-status (link)  
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Libraries and library science
+           
+         
+         
+          Types of library
+          
+            
+            
+             Academic 
+             Archive 
+             Branch 
+             Children's 
+             Christian 
+             Consortium 
+             Digital 
+              
+               Shadow
+               
+             Hybrid 
+             Law 
+             Lending 
+             Map 
+             Medicine 
+             Mobile 
+             Music 
+             National 
+             Presidential 
+             Prison 
+             Private 
+             Public 
+              
+               Carnegie
+               
+             Research 
+             School 
+              
+               Learning Resource Centre 
+               Virtual
+               
+             Special collections 
+             Special library 
+             Subscription 
+             Traveling
+             
+           
+         
+         
+          Types of librarian
+          
+            
+            
+             Distance education 
+             E-science 
+             Law 
+             Music 
+              
+               Ensemble
+               
+             Periodicals/serials 
+             School 
+             Information professional 
+             Informationist 
+             Library and information scientist
+             
+           
+         
+         
+          Library science
+          
+            
+            
+             Five laws 
+             Library and information science 
+             Education for librarianship 
+             Acquisitions 
+             Archival science 
+             Assessment 
+             Cataloging 
+              
+               Catalog 
+               OPAC
+               
+             Circulation 
+             Classification 
+             Collection development 
+             Collective collection 
+             Conservation 
+             Discovery system 
+             Electronic resource management 
+             Information literacy 
+             Inventory 
+             Legal deposit 
+             Library history 
+             Library instruction 
+             Library management 
+             Library publishing 
+             Preservation 
+             Readers' advisory 
+             Reference 
+              
+               Virtual 
+               Roving
+               
+             Technical services 
+             Weeding
+             
+           
+         
+         
+          History
+          
+            
+            
+             History of libraries 
+             History of library science
+             
+           
+         
+         
+          Lists
+          
+            
+            
+             Libraries 
+              
+               by country 
+               by size 
+               ancient 
+               destroyed 
+               medical 
+               national
+               
+             Library associations 
+             Library schools 
+             Librarians 
+              
+               women 
+               fictional
+               
+             Archivists 
+              
+               women
+              
+             
+           
+         
+         
+          
+            
+            
+              Category:Libraries 
+              Category:Library science 
+              Commons 
+              Glossary 
+              Outline 
+              WikiProject
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Library_consortium&amp;oldid=1065346669"
+     
+     
+    
+     
+      Categories: 
+      
+       Library consortia
+       Consortia
+       Library-related organizations
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 maint: url-status
+       CS1 Danish-language sources (da)
+       CS1 Turkish-language sources (tr)
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Türkçe
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 13 January 2022, at 02:48&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

@@ -1,0 +1,544 @@
+
+ 
+  
+   
+  Thomas A. DeFanti - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Thomas A. DeFanti 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       American computer graphics researcher
+       
+      Thomas Albert "Tom" DeFanti (born September 18, 1948) is an American computer graphics researcher and pioneer. His work has ranged from early computer animation, to scientific visualization, virtual reality, and grid computing. He is a distinguished professor of Computer Science at the University of Illinois at Chicago, and a research scientist at the California Institute for Telecommunications and Information Technology (Calit2).  
+      
+       
+       
+        Contents
+        
+        
+        1 Education and early life 
+        2 Work 
+        3 Publications 
+          
+          3.1 Select books 
+          3.2 Select articles and papers 
+           
+        4 References 
+        5 External links 
+        
+       
+      Education and early life 
+      Born September 18, 1948 in Queens, New York City, New York and attended Stuyvesant High School. In 1969, DeFanti received a B.A. in Mathematics from Queens College, and in 1970 he received a M.S. in Computer Information Science from Ohio State University. In 1973 he received a Ph.D. in Computer Information Science from Ohio State University, studying under Charles Csuri in the Computer Graphics Research Group. For his dissertation, he created the GRASS programming language, a three-dimensional, real-time animation system usable by computer novices.  
+      Work 
+      In 1972, he joined the faculty of the University of Illinois at Chicago (UIC) and with Daniel J. Sandin, he founded the Circle Graphics Habitat, now known as the Electronic Visualization Laboratory (EVL). 
+      At UIC, DeFanti further developed the GRASS language, and later created an improved version, ZGRASS, implemented on the low-cost Datamax UV-1. The GRASS and ZGRASS languages have been used by a number of computer artists, including Larry Cuba, in his film 3/78 and the animated Death Star sequence for Star Wars. Later significant work done at EVL includes development of the graphics system for the Bally Technologies home computer, invention of the first data glove, co-editing the 1987 NSF-sponsored report Visualization in Scientific Computing that outlined the emerging discipline of scientific visualization, invention of PHSColograms, and invention of the CAVE Automatic Virtual Environment. DeFanti's current work includes heading the TransLight/StarLight international multi-gigabit networking project and co-directing the OptIPuter optical networking and visualization project. 
+      DeFanti contributed greatly to the growth of the SIGGRAPH organization and conference. He served as Chair of the group from 1981 to 1985, co-organized early film and video presentations (which became the Electronic Theatre), and in 1979 started the SIGGRAPH Video Review, a video archive of computer graphics research. 
+      DeFanti is a Fellow of the Association for Computing Machinery. He has received the 1988 ACM Outstanding Contribution Award, the 2000 SIGGRAPH Outstanding Service Award, and the UIC Inventor of the Year Award. 
+      In 2018 DeFanti's work and contribution were included in the Chicago New Media 1973-1992 exhibition, curated by jonCates.  
+      Publications 
+      Select books 
+      
+       Brown, Maxine; McCormick, Bruce H.; DeFanti, Thomas A. (1987), Visualization in Scientific Computing (PDF), ACM (published July 1987)
+       
+      Select articles and papers 
+      
+       
+        DeFanti, T. A.; Sandin, D. J.; Ainsworth, R. A. (1976). "Control structures for performance graphics". The papers of the ACM symposium on Graphic languages. ACM. pp.&nbsp;79–84. 
+       
+        DeFanti, T. (June 1976). "The Digital Component of the Circle Graphics Habitat". AFIPS '76: Proceedings of the national computer conference and exposition. pp.&nbsp;195–203. 
+       
+        Campbell, Graham; DeFanti, Thomas A.; Frederiksen, Jeff; Joyce, Stephen A.; Leske, Lawrence A. (August 1986). "Two bit/pixel full color encoding". SIGGRAPH '86: Proceedings of the 13th annual conference on Computer graphics and interactive techniques. ACM. pp.&nbsp;215–223. 
+       
+        DeFanti, Thomas A.; Brown, Maxine D.; McCormick, Bruce H. (August 1989). "Visualization: Expanding Scientific and Engineering Research Opportunities". Computer. IEEE. 22 (8): 12–25. doi:10.1109/2.35195. S2CID&nbsp;17357523. 
+       
+        Hart, John C.; DeFanti, Thomas A. (July 1991). "Efficient antialiased rendering of 3-D linear fractals". SIGGRAPH '91: Proceedings of the 18th annual conference on Computer graphics and interactive techniques. ACM. pp.&nbsp;91–1008. 
+       Cruz-Neira, Caroline; Sandin, Daniel; DeFanti, Thomas; R.V. Kenyon and J.C. Hart, "The CAVE: Audio Visual Experience Automatic Virtual Environment," Communications of the ACM, Vol. 35, No. 6, pp.&nbsp;65–72, June, 1992. 
+       
+        DeFanti, Thomas A.; Sandin, Daniel J.; Cruz-Neira, Carolina (October 1993). "A 'Room' with a 'View'". Spectrum. IEEE. 30 (10): 30–33, 39. doi:10.1109/6.237582. S2CID&nbsp;40023851. 
+       
+        DeFanti, Tom; Stevens, Rick (1999), "Teleimmersion", in Foster, Ian; Kesselman, Carl (eds.), The Grid: Blueprint for a New Computing Infrastructure, Morgan Kaufmann, pp.&nbsp;131–155, ISBN&nbsp;978-1-55860-475-9
+       
+      References 
+      
+       
+       
+         
+         ^ 
+           "People &gt; Staff and Academic Personnel &gt; Tom DeFanti". Retrieved 13 October 2009.  
+         ^ 
+           Jones, Steve (2002). Encyclopedia of New Media: An Essential Reference to Communication and Technology. SAGE Publishing. p.&nbsp;125. ISBN&nbsp;978-1452265285 – via Google Books.  
+         ^ a b 
+           "Future of VR Conference". UCSD. 2015.  
+         ^ a b 
+           Magnenat-Thalmann, Nadia; Thalmann, Daniel (1985). Computer Animation: Theory and Practice. Spring-Verlag Tokyo. pp.&nbsp;26–33. ISBN&nbsp;978-4-431-70005-0.  
+         ^ 
+           Jones, Steve (2002). Encyclopedia of New Media: An Essential Reference to Communication and Technology. SAGE Publishing. p.&nbsp;398. ISBN&nbsp;978-1452265285 – via Google Books.  
+         ^ 
+           Masson, Terrence (1999). CG 101: A Computer Graphics Industry Reference. New Riders. pp.&nbsp;410–412. ISBN&nbsp;978-0-7357-0046-8.  
+         ^ 
+           Sturman, D.J., Zeltzer, D. (January 1994). "A survey of glove-based input". IEEE Computer Graphics and Applications. 14 (1): 30–39. doi:10.1109/38.250916. S2CID&nbsp;7119184.}: CS1 maint: multiple names: authors list (link)  
+         ^ 
+           Nielson, Gregory M.; Shriver, Bruce; Rosenblum, Lawrence J. (1990). Visualization in Scientific Computing. IEEE Computer Society Press. pp.&nbsp;3, 19. ISBN&nbsp;978-0-8186-8979-6.  
+         ^ 
+           Sherman, William R.; Craig, Alan B. (2003). Understanding Virtual Reality: Interface, Application, and Design. Morgan Kaufmann. p.&nbsp;14. ISBN&nbsp;978-1-55860-353-0.  
+         ^ 
+           "TransLight/Starlight: About". Retrieved 13 October 2009.  
+         ^ 
+           "OptIPuter". Retrieved 13 October 2009.  
+         ^ a b 
+           "2000 ACM SIGGRAPH Awards". Archived from the original on 22 November 2009. Retrieved 13 October 2009.  
+         ^ 
+           Picard, Caroline (November 28, 2018). "'Chicago New Media 1973-1992' pays tribute to the city's contribution to video games and digital art". Chicago Reader. Retrieved September 26, 2018.  
+         ^ 
+           Cates, Jon (2018). Chicago New Media, 1973-1992. Illinois, United States: University of Illinois Press. pp.&nbsp;9, 21. ISBN&nbsp;978-0-252-08407-2.  
+        
+       
+       
+      External links 
+      
+       Thomas A. DeFanti website at uic.edu
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          General
+          
+            
+            
+             VIAF 
+              
+               1
+               
+             WorldCat
+             
+           
+         
+         
+          Scientific databases
+          
+            
+            
+             Association for Computing Machinery 
+             DBLP (computer science)
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Thomas_A._DeFanti&amp;oldid=1007789721"
+     
+     
+    
+     
+      Categories: 
+      
+       Computer graphics professionals
+       Virtual reality pioneers
+       Fellows of the Association for Computing Machinery
+       University of Illinois at Chicago faculty
+       Living people
+       People from Queens, New York
+       Ohio State University College of Engineering alumni
+       Stuyvesant High School alumni
+       Queens College, City University of New York alumni
+       1948 births
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 maint: multiple names: authors list
+       Articles with short description
+       Short description matches Wikidata
+       Articles with VIAF identifiers
+       Articles with WORLDCATID identifiers
+       Articles with ACM-DL identifiers
+       Articles with DBLP identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       한국어
+       Italiano
+       Malagasy
+       日本語
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 19 February 2021, at 23:13&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

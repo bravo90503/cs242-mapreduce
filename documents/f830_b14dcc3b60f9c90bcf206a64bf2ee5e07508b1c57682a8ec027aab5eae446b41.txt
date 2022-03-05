@@ -1,0 +1,411 @@
+
+ 
+  
+   
+  Informatiekunde - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Informatiekunde 
+    
+    
+     Uit Wikipedia, de vrije encyclopedie
+     
+     
+     
+     Naar navigatie springen Naar zoeken springen 
+    
+     
+      Informatiekunde is de wetenschap die zich richt op de wisselwerking van informatie en communicatie en de invloed van informatietechnologie (ICT) hierbij. De informatie-uitwisseling tussen individuen en organisaties worden hierbij vanuit verschillende invalshoeken bezien, zoals technisch, cognitief, sociaal en bedrijfskundig. Zo legt informatiekunde zich toe op het verwerven, structureren, ordenen, doorgeven, opslaan en ontsluiten van informatie, of dit nu binnen een bedrijfscontext te situeren is dan wel in wetenschappelijk onderzoek. 
+      Het Engelse equivalent van informatiekunde is Information Science of Information Studies. Information Science sluit nauw aan bij humane wetenschappen, en is vaak onderdeel van bibliotheekwetenschap. Informatiekunde sluit deels zeer sterk aan bij de problematiek van de digitale bibliotheek, maar heeft ook aspecten van informatiemanagement. Er komt zeker ook software en ontwikkeling van systemen bij te pas, maar het is geen informatica of computerwetenschap als zodanig. Het streeft niet naar de studie of het ontwerp van machines om informatie te verwerken, maar focust eerder op de structuren, systemen, procedures die men opzet om informatie zo effectief mogelijk te verwerken.  
+      
+       
+       
+        Inhoud
+        
+        
+        1 Overzicht 
+        2 Geschiedenis 
+        3 Deelgebieden 
+        4 Voorbeeld 
+        5 Universitaire opleidingen informatiekunde in Nederland 
+        6 Informatiekundigen 
+        
+       
+      Overzicht 
+      Mede afhankelijk van de opleiding kunnen we de volgende typen informatiekundigen onderscheiden:  
+      
+       informatiekundig modelleur 
+       informatiekundig ontwerper en constructeur 
+       informatiekundig adviseur en manager
+       
+      Bij informatiekunde valt te denken aan het ontwerpen van databases, het ontwerpen van gebruiksvriendelijke websites, verwerken van natuurlijke taal, visualiseren van informatie en information retrieval. De informatiekunde houdt zich ook bezig met mens-computerinteractie, waarbij de interactie tussen de gebruiker en de computer wordt geoptimaliseerd, en met de gebruiksvriendelijkheid van computer programma’s. 
+      Er wordt verder veel onderzoek op het gebied van het wereldwijde web en XML gedaan. Informatiekunde is een multidisciplinaire wetenschap. en raakt aan de informatica, taalkunde, logica, kunstmatige intelligentie, wiskunde, geografie, enzovoort. 
+      Informatiekunde wordt vaak uitgelegd aan de hand van de helicopterview: een informatiekundige hangt als het ware boven een organisatie en heeft het totaaloverzicht. Hierdoor kan deze communiceren met alle partijen, zoals managers, gebruikers, programmeurs et cetera. Informatiemanagement is het deelgebied van de informatiekunde is, die het economische aspect van informatie bestudeert. Een andere tak van informatiekunde richt zich vooral op het toepassen van de computer in andere wetenschappelijke disciplines. 
+      Zo kan worden gesproken van historische informatiekunde, waar vooral wordt ingegaan op het gebruik van digitale gegevensbestanden en bronnencollecties voor het historisch onderzoek, of medische informatiekunde, waar vooral medische beeldverwerking aan bod komt. In disciplines waar het opzetten van de onderzoeksvraag, aflijnen van het steekproefkader en het verzamelen van de brongegevens veel voorbereiding vraagt is informatiekunde vaak een hulpwetenschap voor de statistiek, en onderdeel van een vorming kwantitatieve methoden. In de informatiekunde gaat vaak ook om het opzetten van gegevensbanken en het voorbereiden van databases voor kwantitatief onderzoek, alsook om het grafisch representeren van onderzoeksresultaten.  
+      Geschiedenis 
+      Sinds het begin van de formele opleidingen Informatica aan universiteiten in Nederland in 1982 is er veel gediscussieerd over de wenselijkheid om naast informaticaopleidingen ook opleidingen te introduceren onder de titel "informatiekunde". In 1984 kreeg de Universiteit van Tilburg als eerste toestemming om met een experimentele studierichting op dit gebied te starten. Een van de initiatiefnemers daar was Gert Nielen. Sinds die tijd zijn er op vele plaatsen soortgelijke initiatieven ontplooid, resulterend in ofwel afstudeerspecialisaties binnen reeds bestaande studierichtingen ofwel in afzonderlijke studierichtingen met een geheel eigen curriculum. 
+      Dit maakt dat in Nederland volledige opleidingen informatiekunde te volgen zijn. In Vlaanderen is dit niet het geval. Daar is het onderwerp opgenomen onder informatie- en bibliotheekwetenschappen, of bestaat het als vak binnen andere opleidingen. In dat geval gaat het bijna altijd om een vak toegespitst op een specifieke discipline, zoals medische informatiekunde of informatiekunde voor taalstudenten. Het meer bedrijfsgerichte Informatiekunde zoals dit aan een aantal Nederlandse universiteiten wordt aangeboden vindt men in Vlaanderen eerder onder de noemer Beleidsinformatica.  
+      Deelgebieden 
+      Hoewel er geen uitputtende lijst bekend is, kunnen de volgende deelgebieden tot de informatiekunde worden gerekend.  
+      
+       Administratieve organisatie 
+       Bedrijfsprocessen 
+       Bruikbaarheid 
+       Computationele taalkunde 
+       Computernetwerken 
+       Datamining 
+       Decision support systems, beslissingsondersteunende systemen 
+       Electronic commerce en e-business 
+       Enterprisearchitectuur 
+       ERP-systemen 
+       GIS 
+       Groupware 
+       Informatie-auditing en informatiekwaliteit 
+       Informatiemanagement 
+       Information retrieval 
+       Informatietechnologie 
+       Kennismanagement, -acquisitie en -modelleren 
+       Kunstmatige intelligentie 
+       Mens-computerinteractie 
+       Statistiek 
+       Systeemontwerp en -|architectuur 
+       Textmining 
+       Webtechnologie
+       
+      Voorbeeld 
+      Informatiekunde heeft data nodig, wat vaak in het jargon wordt aangeduid als 'datasets'. Een zeer belangrijke bron van data is het internet. Het web is tegenwoordig zo uitgebreid dat het antwoord op veel vragen met een antwoord er op staat. Maar waar? Hoe vind je in die enorme berg pagina's het antwoord op simpele vragen als "Wanneer stierf Kurt Cobain?" en "Hoe lang is Bill Clinton?" Bij informatiekunde wordt van 'data' gemakkelijk toegankelijke 'informatie' gemaakt. Bijvoorbeeld door het maken van systemen die informatie op een intelligente manier ontsluiten, zoals met vraag en antwoord systemen.  
+      Universitaire opleidingen informatiekunde in Nederland 
+      De volgende universiteiten in Nederland bieden de opleiding informatiekunde aan:  
+      
+       Radboud Universiteit Nijmegen, master 
+       Rijksuniversiteit Groningen 
+       Universiteit van Amsterdam 
+       Universiteit Utrecht 
+       Open Universiteit
+       
+      Daarnaast worden vergelijkbare opleidingen aangeboden door andere universiteiten:  
+      
+       Universiteit van Amsterdam: medische informatiekunde 
+       Tilburg University: economie en informatica 
+       Universiteit Twente: bedrijfsinformatietechnologie 
+       Vrije Universiteit Amsterdam: informatie, multimedia en management) 
+       Wageningen University &amp; Research: geo-informatiekunde
+       
+      Informatiekundigen 
+      
+       Theo Bemelmans 
+       Jan Dietz 
+       Wolfgang Glänzel 
+       Wim Hartman 
+       Wouter Keller
+       
+       
+       
+         
+         
+           
+          
+           
+            voetnoten
+           
+           
+          
+            
+            ↑ a b VSNU. Informatiekunde, december 2002.  gearchiveerd. Rapport waarin de visitatiecommissie haar bevindingen over het onderwijs aan de opleidingen Informatiekunde heeft vastgelegd. ISBN 90 5588 2682  
+            ↑ NVAO. Het Hogeronderwijsregister  
+            ↑ Radboud Universiteit Nijmegen. Masteropleiding over Informatiekunde  
+           
+           
+          
+           
+            websites
+           
+           
+          
+           (en)  Universiteit van Arizona. DLIST 1562. Digital Library of Information Science and Technology 
+           Universiteit van Amsterdam. Informatiekunde studeren, gearchiveerd 
+           Universiteit Utrecht. Bachelor Informatiekunde 
+           Universiteit Twente. Bacheloropleiding Business &amp; IT 
+           Vrije Universiteit Amsterdam. Informatie, Multimedia en Management 
+           Wageningen University &amp; Research. Master's Geo-Information Science.
+           
+        
+       
+          
+     
+     
+      
+      
+     
+      Overgenomen van "https://nl.wikipedia.org/w/index.php?title=Informatiekunde&amp;oldid=61067624"
+     
+     
+    
+     
+      Categorieën: 
+      
+       Informatiewetenschap
+       Informatie
+       Interdiscipline
+      
+     
+     
+      Verborgen categorie: 
+      
+       Wikipedia:Pagina's die ISBN magische links gebruiken
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigatiemenu 
+    
+     
+      Persoonlijke hulpmiddelen  
+      
+      
+       Niet aangemeld
+       Overleg
+       Bijdragen
+       Account aanmaken
+       Inloggen
+       
+      
+     
+     
+      
+       Naamruimten  
+       
+       
+        Artikel
+        Overleg
+        
+       
+      
+      
+       
+       Varianten uitgevouwen samenvouwen  
+       
+        
+       
+      
+     
+     
+      
+       Weergaven  
+       
+       
+        Lezen
+        Bewerken
+        Brontekst bewerken
+        Geschiedenis
+        
+       
+      
+      
+       
+       Meer uitgevouwen samenvouwen  
+       
+        
+       
+      
+      
+       
+        Zoeken  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigatie  
+      
+      
+       Hoofdpagina
+       Vind een artikel
+       Vandaag
+       Etalage
+       Categorieën
+       Recente wijzigingen
+       Nieuwe artikelen
+       Willekeurige pagina
+       
+      
+     
+     
+      Informatie  
+      
+      
+       Gebruikersportaal
+       Snelcursus
+       Hulp en contact
+       Doneren
+       
+      
+     
+     
+      Hulpmiddelen  
+      
+      
+       Links naar deze pagina
+       Gerelateerde wijzigingen
+       Bestand uploaden
+       Speciale pagina's
+       Permanente koppeling
+       Paginagegevens
+       Deze pagina citeren
+       Wikidata-item
+       
+      
+     
+     
+      Afdrukken/exporteren  
+      
+      
+       Boek aanmaken
+       Downloaden als PDF
+       Printvriendelijke versie
+       
+      
+     
+     
+      In andere projecten  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      In andere talen  
+      
+      
+       Afrikaans
+       العربية
+       Asturianu
+       Azərbaycanca
+       تۆرکجه
+       Башҡортса
+       Български
+       Català
+       Čeština
+       Cymraeg
+       Dansk
+       Deutsch
+       Ελληνικά
+       English
+       Español
+       Eesti
+       Euskara
+       فارسی
+       Suomi
+       Français
+       Galego
+       עברית
+       हिन्दी
+       Magyar
+       Bahasa Indonesia
+       日本語
+       ქართული
+       한국어
+       Lietuvių
+       Latviešu
+       Македонски
+       Bahasa Melayu
+       Norsk bokmål
+       ਪੰਜਾਬੀ
+       Polski
+       Português
+       Română
+       Русский
+       Srpskohrvatski / српскохрватски
+       Slovenčina
+       Slovenščina
+       Shqip
+       Српски / srpski
+       Svenska
+       தமிழ்
+       ไทย
+       Türkçe
+       Українська
+       اردو
+       Tiếng Việt
+       中文
+       粵語
+       
+      
+       Koppelingen bewerken
+       
+      
+     
+    
+   
+   
+    
+     Deze pagina is voor het laatst bewerkt op 10 feb 2022 om 11:37. 
+    De tekst is beschikbaar onder de licentie Creative Commons Naamsvermelding/Gelijk delen, er kunnen aanvullende voorwaarden van toepassing zijn. Zie de gebruiksvoorwaarden voor meer informatie. Wikipedia® is een geregistreerd handelsmerk van de Wikimedia Foundation, Inc., een organisatie zonder winstoogmerk. 
+    
+    
+    Privacybeleid 
+    Over Wikipedia 
+    Disclaimers 
+    Mobiele weergave 
+    Ontwikkelaars 
+    Statistieken 
+    Cookieverklaring 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

@@ -1,0 +1,1522 @@
+
+ 
+  
+   
+  Statistical graphics - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Statistical graphics 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+      
+       
+        
+         Part of a series on Statistics
+        
+        
+         Data visualization
+        
+        
+          Major dimensions
+        
+        
+          
+          
+           Exploratory data analysis 
+           Information design 
+           Interactive data visualization 
+           Descriptive statistics 
+           Inferential statistics 
+           Statistical graphics 
+           Plot 
+           Data analysis 
+           Infographic 
+           Data science
+           
+        
+        
+          Important figures
+        
+        
+          
+          
+           Tamara Munzner 
+           Ben Shneiderman 
+           John W. Tukey 
+           Edward Tufte 
+           Simon Wardley 
+           Hans Rosling 
+           David McCandless 
+           Alexander Osterwalder 
+           Ed Hawkins 
+           Hadley Wickham 
+           Leland Wilkinson 
+           Mike Bostock 
+           Jeffrey Heer 
+           Ihab Ilyas
+           
+        
+        
+          Information graphic types
+        
+        
+          
+          
+           Line chart 
+           Bar chart 
+           Histogram 
+           Scatterplot 
+           Boxplot 
+           Pareto chart 
+           Pie chart 
+           Area chart 
+           Tree map 
+           Bubble chart 
+           Stripe graphic 
+           Control chart 
+           Run chart 
+           Stem-and-leaf display 
+           Cartogram 
+           Small multiple 
+           Sparkline 
+           Table 
+           Marimekko chart
+           
+        
+        
+          Related topics
+        
+        
+          
+          
+           Data 
+           Information 
+           Big data 
+           Database 
+           Chartjunk 
+           Visual perception 
+           Regression analysis 
+           Statistical model 
+           Misleading graph
+           
+        
+        
+         
+          
+           
+            v
+            t
+            e
+           
+          
+        
+       
+       
+      Statistical graphics, also known as statistical graphical techniques, are graphics used in the field of statistics for data visualization.  
+      
+       
+       
+        Contents
+        
+        
+        1 Overview 
+        2 History 
+        3 Examples 
+        4 See also 
+        5 References 
+        6 Further reading 
+        7 External links 
+        
+       
+      Overview 
+      Whereas statistics and data analysis procedures generally yield their output in numeric or tabular form, graphical techniques allow such results to be displayed in some sort of pictorial form. They include plots such as scatter plots, histograms, probability plots, spaghetti plots, residual plots, box plots, block plots and biplots. 
+      Exploratory data analysis (EDA) relies heavily on such techniques. They can also provide insight into a data set to help with testing assumptions, model selection and regression model validation, estimator selection, relationship identification, factor effect determination, and outlier detection. In addition, the choice of appropriate statistical graphics can provide a convincing means of communicating the underlying message that is present in the data to others. 
+      Graphical statistical methods have four objectives:  
+      
+       The exploration of the content of a data set 
+       The use to find structure in data 
+       Checking assumptions in statistical models 
+       Communicate the results of an analysis.
+       
+      If one is not using statistical graphics, then one is forfeiting insight into one or more aspects of the underlying structure of the data.  
+      History 
+      Statistical graphics have been central to the development of science and date to the earliest attempts to analyse data. Many familiar forms, including bivariate plots, statistical maps, bar charts, and coordinate paper were used in the 18th century. Statistical graphics developed through attention to four problems:  
+      
+       Spatial organization in the 17th and 18th century 
+       Discrete comparison in the 18th and early 19th century 
+       Continuous distribution in the 19th century and 
+       Multivariate distribution and correlation in the late 19th and 20th century.
+       
+      Since the 1970s statistical graphics have been re-emerging as an important analytic tool with the revitalisation of computer graphics and related technologies.  
+      Examples 
+      
+       
+         
+        
+         
+          
+         William Playfair's trade-balance time-series chart, published in his Commercial and Political Atlas, 1786
+        
+       
+       
+      
+       
+         
+        
+         
+          
+         John Snow's Cholera map in dot style, 1854.
+        
+       
+       
+      Famous graphics were designed by:  
+      
+       William Playfair who produced what could be called the first line, bar, pie, and area charts. For example, in 1786 he published the well known diagram that depicts the evolution of England's imports and exports, 
+       Florence Nightingale, who used statistical graphics to persuade the British Government to improve army hygiene, 
+       John Snow who plotted deaths from cholera in London in 1854 to detect the source of the disease, and 
+       Charles Joseph Minard who designed a large portfolio of maps of which the one depicting Napoleon's campaign in Russia is the best known.
+       
+      See the plots page for many more examples of statistical graphics.  
+      See also 
+      
+       Data Presentation Architecture 
+       List of graphical methods 
+       Visual inspection 
+       Chart 
+       List of charting software
+       
+      References 
+      
+       
+        Citations
+       
+       
+      
+       
+       
+         
+         ^ a b "The Role of Graphics". NIST/SEMATECH e-Handbook of Statistical Methods. 2003–2010. Retrieved May 5, 2011.  
+         ^ 
+           Jacoby, William G. (1997). Statistical Graphics for Univariate and Bivariate Data: Statistical Graphics. pp.&nbsp;2–4.  
+         ^ a b James R. Beniger and Dorothy L. Robyn (1978). "Quantitative graphics in statistics: A brief history". In: The American Statistician. 32: pp. 1–11.  
+         ^ 
+           Tufte, Edward (1983). The Visual Display of Quantitative Information. Cheshire, Connecticut: Graphics Press. ISBN&nbsp;0961392142.  
+         ^ 
+           Small, Hugh. "Florence Nightingale's statistical diagrams".  
+         ^ 
+           Crosier, Scott. "John Snow: The London Cholera Epidemic of 1854". University of California, Santa Barbara.  
+         ^ 
+           Corbett, John. "Charles Joseph Minard: Mapping Napoleon's March, 1861". Center for Spatially Integrated Social Science. Retrieved 21 September 2014.  
+        
+       
+       
+      
+       
+        Attribution
+       
+       
+      &nbsp;This article incorporates&nbsp;public domain material from the National Institute of Standards and Technology website https://www.nist.gov.  
+      Further reading 
+      
+       
+        Cleveland, W. S. (1993). Visualizing Data. Summit, NJ, USA: Hobart Press. ISBN&nbsp;0-9634884-0-6. 
+       
+        Cleveland, W. S. (1994). The Elements of Graphing Data. Summit, NJ, USA: Hobart Press. ISBN&nbsp;0-9634884-1-4. 
+       
+        Lewi, Paul J. (2006). Speaking of Graphics. 
+       
+        Tufte, Edward R. (2001) . The Visual Display of Quantitative Information (2nd&nbsp;ed.). Cheshire, CT, USA: Graphics Press. ISBN&nbsp;0-9613921-4-2. 
+       
+        Tufte, Edward R. (1992) . Envisioning Information. Cheshire, CT, USA: Graphics Press. ISBN&nbsp;0-9613921-1-8.
+       
+      External links 
+       
+       
+         
+          
+         Wikimedia Commons has media related to Statistical charts.
+         
+       
+       
+      
+       Trend Compass 
+       Alphabetic gallery of graphical techniques 
+       DataScope a website devoted to data visualization and statistical graphics
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Statistics
+           
+         
+         
+          
+            
+            
+             Outline 
+             Index
+             
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Descriptive statistics
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Continuous data
+                  
+                   
+                   
+                    
+                     
+                      Center
+                      
+                        
+                        
+                         Mean 
+                          
+                           arithmetic 
+                           geometric 
+                           harmonic 
+                           cubic 
+                           generalized/power
+                           
+                         Median 
+                         Mode
+                         
+                       
+                     
+                     
+                      Dispersion
+                      
+                        
+                        
+                         Variance 
+                         Standard deviation 
+                         Average absolute deviation 
+                         Coefficient of variation 
+                         Percentile 
+                         Range 
+                         Interquartile range
+                         
+                       
+                     
+                     
+                      Shape
+                      
+                        
+                        
+                         Central limit theorem 
+                         Moments 
+                          
+                           Skewness 
+                           Kurtosis 
+                           L-moments
+                          
+                         
+                       
+                     
+                    
+                   
+                   
+                 
+                 
+                  Count data
+                  
+                    
+                    
+                     Index of dispersion
+                     
+                   
+                 
+                 
+                  Summary tables
+                  
+                    
+                    
+                     Grouped data 
+                     Frequency distribution 
+                     Contingency table
+                     
+                   
+                 
+                 
+                  Dependence
+                  
+                    
+                    
+                     Pearson product-moment correlation 
+                     Rank correlation 
+                      
+                       Spearman's ρ 
+                       Kendall's τ
+                       
+                     Partial correlation 
+                     Scatter plot
+                     
+                   
+                 
+                 
+                  Graphics
+                  
+                    
+                    
+                     Bar chart 
+                     Biplot 
+                     Box plot 
+                     Control chart 
+                     Correlogram 
+                     Fan chart 
+                     Forest plot 
+                     Histogram 
+                     Pie chart 
+                     Q–Q plot 
+                     Run chart 
+                     Scatter plot 
+                     Stem-and-leaf display 
+                     Radar chart 
+                     Violin plot
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Data collection
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Study design
+                  
+                    
+                    
+                     Population 
+                     Statistic 
+                     Effect size 
+                     Statistical power 
+                     Optimal design 
+                     Sample size determination 
+                     Replication 
+                     Missing data
+                     
+                   
+                 
+                 
+                  Survey methodology
+                  
+                    
+                    
+                     Sampling 
+                      
+                       stratified 
+                       cluster
+                       
+                     Standard error 
+                     Opinion poll 
+                     Questionnaire
+                     
+                   
+                 
+                 
+                  Controlled experiments
+                  
+                    
+                    
+                     Scientific control 
+                     Randomized experiment 
+                     Randomized controlled trial 
+                     Random assignment 
+                     Blocking 
+                     Interaction 
+                     Factorial experiment
+                     
+                   
+                 
+                 
+                  Adaptive Designs
+                  
+                    
+                    
+                     Adaptive clinical trial 
+                     Up-and-Down Designs 
+                     Stochastic approximation
+                     
+                   
+                 
+                 
+                  Observational Studies
+                  
+                    
+                    
+                     Cross-sectional study 
+                     Cohort study 
+                     Natural experiment 
+                     Quasi-experiment
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Statistical inference
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Statistical theory
+                  
+                    
+                    
+                     Population 
+                     Statistic 
+                     Probability distribution 
+                     Sampling distribution 
+                      
+                       Order statistic
+                       
+                     Empirical distribution 
+                      
+                       Density estimation
+                       
+                     Statistical model 
+                      
+                       Model specification 
+                       Lp space
+                       
+                     Parameter 
+                      
+                       location 
+                       scale 
+                       shape
+                       
+                     Parametric family 
+                      
+                       Likelihood&nbsp;(monotone) 
+                       Location–scale family 
+                       Exponential family
+                       
+                     Completeness 
+                     Sufficiency 
+                     Statistical functional 
+                      
+                       Bootstrap 
+                       U 
+                       V
+                       
+                     Optimal decision 
+                      
+                       loss function
+                       
+                     Efficiency 
+                     Statistical distance 
+                      
+                       divergence
+                       
+                     Asymptotics 
+                     Robustness
+                     
+                   
+                 
+                 
+                  Frequentist inference
+                  
+                   
+                   
+                    
+                     
+                      Point estimation
+                      
+                        
+                        
+                         Estimating equations 
+                          
+                           Maximum likelihood 
+                           Method of moments 
+                           M-estimator 
+                           Minimum distance
+                           
+                         Unbiased estimators 
+                          
+                           Mean-unbiased minimum-variance 
+                            
+                             Rao–Blackwellization 
+                             Lehmann–Scheffé theorem
+                             
+                           Median unbiased
+                           
+                         Plug-in
+                         
+                       
+                     
+                     
+                      Interval estimation
+                      
+                        
+                        
+                         Confidence interval 
+                         Pivot 
+                         Likelihood interval 
+                         Prediction interval 
+                         Tolerance interval 
+                         Resampling 
+                          
+                           Bootstrap 
+                           Jackknife
+                          
+                         
+                       
+                     
+                     
+                      Testing hypotheses
+                      
+                        
+                        
+                         1- &amp; 2-tails 
+                         Power 
+                          
+                           Uniformly most powerful test
+                           
+                         Permutation test 
+                          
+                           Randomization test
+                           
+                         Multiple comparisons
+                         
+                       
+                     
+                     
+                      Parametric tests
+                      
+                        
+                        
+                         Likelihood-ratio 
+                         Score/Lagrange multiplier 
+                         Wald
+                         
+                       
+                     
+                    
+                   
+                   
+                 
+                 
+                  Specific tests
+                  
+                   
+                   
+                    
+                     
+                      
+                        
+                        
+                         Z-test (normal) 
+                         Student's t-test 
+                         F-test
+                         
+                       
+                     
+                     
+                      Goodness of fit
+                      
+                        
+                        
+                         Chi-squared 
+                         G-test 
+                         Kolmogorov–Smirnov 
+                         Anderson–Darling 
+                         Lilliefors 
+                         Jarque–Bera 
+                         Normality (Shapiro–Wilk) 
+                         Likelihood-ratio test 
+                         Model selection 
+                          
+                           Cross validation 
+                           AIC 
+                           BIC
+                          
+                         
+                       
+                     
+                     
+                      Rank statistics
+                      
+                        
+                        
+                         Sign 
+                          
+                           Sample median
+                           
+                         Signed rank (Wilcoxon) 
+                          
+                           Hodges–Lehmann estimator
+                           
+                         Rank sum (Mann–Whitney) 
+                         Nonparametric anova 
+                          
+                           1-way (Kruskal–Wallis) 
+                           2-way (Friedman) 
+                           Ordered alternative (Jonckheere–Terpstra)
+                          
+                         
+                       
+                     
+                    
+                   
+                   
+                 
+                 
+                  Bayesian inference
+                  
+                    
+                    
+                     Bayesian probability 
+                      
+                       prior 
+                       posterior
+                       
+                     Credible interval 
+                     Bayes factor 
+                     Bayesian estimator 
+                      
+                       Maximum posterior estimator
+                      
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                
+                 
+                  Correlation
+                  Regression analysis
+                 
+                
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Correlation
+                  
+                    
+                    
+                     Pearson product-moment 
+                     Partial correlation 
+                     Confounding variable 
+                     Coefficient of determination
+                     
+                   
+                 
+                 
+                  Regression analysis
+                  
+                    
+                    
+                     Errors and residuals 
+                     Regression validation 
+                     Mixed effects models 
+                     Simultaneous equations models 
+                     Multivariate adaptive regression splines (MARS)
+                     
+                   
+                 
+                 
+                  Linear regression
+                  
+                    
+                    
+                     Simple linear regression 
+                     Ordinary least squares 
+                     General linear model 
+                     Bayesian regression
+                     
+                   
+                 
+                 
+                  Non-standard predictors
+                  
+                    
+                    
+                     Nonlinear regression 
+                     Nonparametric 
+                     Semiparametric 
+                     Isotonic 
+                     Robust 
+                     Heteroscedasticity 
+                     Homoscedasticity
+                     
+                   
+                 
+                 
+                  Generalized linear model
+                  
+                    
+                    
+                     Exponential families 
+                     Logistic (Bernoulli)&nbsp;/ Binomial&nbsp;/ Poisson regressions
+                     
+                   
+                 
+                 
+                  Partition of variance
+                  
+                    
+                    
+                     Analysis of variance (ANOVA, anova) 
+                     Analysis of covariance 
+                     Multivariate ANOVA 
+                     Degrees of freedom
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Categorical&nbsp;/ Multivariate&nbsp;/ Time-series&nbsp;/ Survival analysis
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Categorical
+                  
+                    
+                    
+                     Cohen's kappa 
+                     Contingency table 
+                     Graphical model 
+                     Log-linear model 
+                     McNemar's test 
+                     Cochran-Mantel-Haenszel statistics
+                     
+                   
+                 
+                 
+                  Multivariate
+                  
+                    
+                    
+                     Regression 
+                     Manova 
+                     Principal components 
+                     Canonical correlation 
+                     Discriminant analysis 
+                     Cluster analysis 
+                     Classification 
+                     Structural equation model 
+                      
+                       Factor analysis
+                       
+                     Multivariate distributions 
+                      
+                       Elliptical distributions 
+                        
+                         Normal
+                        
+                      
+                     
+                   
+                 
+                 
+                  Time-series
+                  
+                   
+                   
+                    
+                     
+                      General
+                      
+                        
+                        
+                         Decomposition 
+                         Trend 
+                         Stationarity 
+                         Seasonal adjustment 
+                         Exponential smoothing 
+                         Cointegration 
+                         Structural break 
+                         Granger causality
+                         
+                       
+                     
+                     
+                      Specific tests
+                      
+                        
+                        
+                         Dickey–Fuller 
+                         Johansen 
+                         Q-statistic (Ljung–Box) 
+                         Durbin–Watson 
+                         Breusch–Godfrey
+                         
+                       
+                     
+                     
+                      Time domain
+                      
+                        
+                        
+                         Autocorrelation (ACF) 
+                          
+                           partial (PACF)
+                           
+                         Cross-correlation (XCF) 
+                         ARMA model 
+                         ARIMA model (Box–Jenkins) 
+                         Autoregressive conditional heteroskedasticity (ARCH) 
+                         Vector autoregression (VAR)
+                         
+                       
+                     
+                     
+                      Frequency domain
+                      
+                        
+                        
+                         Spectral density estimation 
+                         Fourier analysis 
+                         Wavelet 
+                         Whittle likelihood
+                         
+                       
+                     
+                    
+                   
+                   
+                 
+                 
+                  Survival
+                  
+                   
+                   
+                    
+                     
+                      Survival function
+                      
+                        
+                        
+                         Kaplan–Meier estimator (product limit) 
+                         Proportional hazards models 
+                         Accelerated failure time (AFT) model 
+                         First hitting time
+                         
+                       
+                     
+                     
+                      Hazard function
+                      
+                        
+                        
+                         Nelson–Aalen estimator
+                         
+                       
+                     
+                     
+                      Test
+                      
+                        
+                        
+                         Log-rank test
+                         
+                       
+                     
+                    
+                   
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Applications
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Biostatistics
+                  
+                    
+                    
+                     Bioinformatics 
+                     Clinical trials&nbsp;/ studies 
+                     Epidemiology 
+                     Medical statistics
+                     
+                   
+                 
+                 
+                  Engineering statistics
+                  
+                    
+                    
+                     Chemometrics 
+                     Methods engineering 
+                     Probabilistic design 
+                     Process&nbsp;/ quality control 
+                     Reliability 
+                     System identification
+                     
+                   
+                 
+                 
+                  Social statistics
+                  
+                    
+                    
+                     Actuarial science 
+                     Census 
+                     Crime statistics 
+                     Demography 
+                     Econometrics 
+                     Jurimetrics 
+                     National accounts 
+                     Official statistics 
+                     Population statistics 
+                     Psychometrics
+                     
+                   
+                 
+                 
+                  Spatial statistics
+                  
+                    
+                    
+                     Cartography 
+                     Environmental statistics 
+                     Geographic information system 
+                     Geostatistics 
+                     Kriging
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+            
+            
+             Category 
+             &nbsp;Mathematics portal 
+             Commons 
+              WikiProject
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Statistical_graphics&amp;oldid=1007329576"
+     
+     
+    
+     
+      Categories: 
+      
+       Statistical charts and diagrams
+       Infographics
+      
+     
+     
+      Hidden categories: 
+      
+       Wikipedia articles incorporating text from the National Institute of Standards and Technology
+       Commons category link is locally defined
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       Български
+       Español
+       فارسی
+       Italiano
+       Norsk bokmål
+       Português
+       Українська
+       粵語
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 17 February 2021, at 15:40&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

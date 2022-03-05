@@ -1,0 +1,516 @@
+
+ 
+  
+   
+  Informationssökning – Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Informationssökning 
+    
+    
+     Från Wikipedia
+     
+     
+     
+     Hoppa till navigering Hoppa till sök 
+    
+     
+      Informationssökning (IR från engelska Information Retrieval) innebär inom informationsteknik att information i datorlagrad form söks ut med hjälp av olika tekniker och teknologier. 
+      Informationssökning levererar en mängd dokumentreferenser till användare för vidare urval. Sökmotorer är den kanske vanligaste tillämpningen av informationssökningsteknologi. 
+      Informationssökningssystem har traditionellt delats in i booleska system och probabilistiska system. Båda typerna av informationsökningssystem är byggda med algoritmer grundar sig på att ord i text är lätta att identifiera och räkna. De första någorlunda systematiska formella ansatserna att använda ordstatistik publicerades i slutet av 1950-talet av pionjärern Hans-Peter Luhn . Tanken är att ord som har rimlig förekomststatistik är mest informativa i en text: de vanligaste orden i en text är inte innehållsbärande ("och", "att", "det" "är") och de ovanliga mest slumpmässiga förekomster eller brus.  
+      
+       
+       
+        Innehåll
+        
+        
+        1 Modeller för informationssökning 
+          
+          1.1 Algebraiska modeller 
+           
+        2 Utvärdering av informationssökning 
+          
+          2.1 Täckning 
+          2.2 Precision 
+          2.3 Övriga mätetal 
+          2.4 Relevans som målbegrepp 
+           
+        3 Referenser 
+          
+          3.1 Noter 
+           
+        
+       
+      Modeller för informationssökning 
+      Vid digital informationssökning, representeras dokument enligt olika modeller. Modellerna kan delas upp baserat på underliggande matematisk grund i:  
+      
+       Mängdteoretiska modeller 
+       Algebraiska modeller 
+       Sannolikhetsbaserade modeller
+       
+      Algebraiska modeller 
+      Algebraiska modeller för informationssökning representerar vanligen på något plan dokument och söksträngar som vektorer i ett n-dimensionellt vektorrum. Varje dimension representerar en specifik term, alltså finns lika många dimensioner som det finns termer i de texter som representeras. En sökfråga som vanligen består av ett litet antal termer representeras som en vektorsumma av dessa termer och ett dokument likaså som en vektorsumma, ofta med viss dämpning av höga frekvenser för vanliga termer. Det finns flera sätt att vikta termer. Det mest grundläggande är tf-idf (termfrekvens-inverterad dokumentfrekvens). Med denna viktning värderas ovanliga termer i dokumentsamlingen högt. Mer sofistikerade modeller tar även hänsyn till dokumentets längd och till feedback från användaren. I den klassiska vektorrymdsmodellen beräknas likheten mellan dokument och söksträng som vinklar mellan vektorerna i vektorrummet, något som har använts sedan sjuttiotalet 
+      Ett sådant vektorrum har mycket hög dimensionalitet med många ganska oviktiga dimensioner som representerar termer som saknar betydelse i de flesta sammanhang. Det finns flera ansatser att hantera dimensionaliteten mer effektivt genom dimensionsreduktion av olika slag. En vanlig sådan ansats är latent semantisk indexering, LSI, en metod som använder singulärvärdesuppdelning för att hitta mönster i dokumentsamlingen. LSI bygger på antagandet att termer som används i samma kontext har liknande betydelser. Genom att jämföra de underliggande latenta semantiska strukturer som termernas bruk vittnar om kan metoden till viss del hantera synonymer och flertydighet.  
+      Utvärdering av informationssökning 
+      Flera olika mätetal för utvärdering av informationssökning har utvecklats, täckning och precision är de mest kända. Mätetalen värderar en söksträngs sökresultat i en dokumentsamling. De enklaste modellerna bygger på det förenklade antagandet att alla dokument antingen är relevanta eller irrelevanta för ett givet informationsbehov.  
+      Täckning 
+      Täckning är andelen relevanta dokument i dokumentsamlingen som hittades av söksträngen. Det kan tolkas som sannolikheten att ett relevant dokument finns bland sökresultaten.  
+      
+       
+        
+            
+             
+              
+               
+                
+                
+                 täckning
+                 
+                
+               
+              
+               =
+               
+               
+                
+                 
+                  
+                  
+                   |
+                   
+                  
+                 
+                  {
+                  
+                  
+                   
+                   
+                    relevanta dokument
+                    
+                   
+                  
+                 
+                  }
+                  
+                 
+                  ∩
+                  
+                 
+                  {
+                  
+                  
+                   
+                   
+                    funna dokument
+                    
+                   
+                  
+                 
+                  }
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                 
+                  
+                  
+                   |
+                   
+                  
+                 
+                  {
+                  
+                  
+                   
+                   
+                    relevanta dokument
+                    
+                   
+                  
+                 
+                  }
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                
+               
+              
+             
+            
+             }=}\}\cap \}\}|}}\}|}}}
+             
+            
+          
+       
+       
+      Man kan alltid uppnå 100&nbsp;% täckning genom att returnera samtliga dokument i samlingen oavsett söksträng, alltså krävs ytterligare mätetal för att utvärdera informationssökning.  
+      Precision 
+      Precision är andelen funna dokument som är relevanta.  
+      
+       
+        
+            
+             
+              
+               
+                
+                
+                 precision
+                 
+                
+               
+              
+               =
+               
+               
+                
+                 
+                  
+                  
+                   |
+                   
+                  
+                 
+                  {
+                  
+                  
+                   
+                   
+                    relevanta dokument
+                    
+                   
+                  
+                 
+                  }
+                  
+                 
+                  ∩
+                  
+                 
+                  {
+                  
+                  
+                   
+                   
+                    funna dokument
+                    
+                   
+                  
+                 
+                  }
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                 
+                  
+                  
+                   |
+                   
+                  
+                 
+                  {
+                  
+                  
+                   
+                   
+                    funna dokument
+                    
+                   
+                  
+                 
+                  }
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                
+               
+              
+             
+            
+             }=}\}\cap \}\}|}}\}|}}}
+             
+            
+          
+       
+       
+      Övriga mätetal 
+      
+       F-värdet är det harmoniska medelvärdet mellan precision och täckning. 
+       Avdragen kumulativ nytta, eng. discounted cumulative gain, används bland annat för sökmotorer. Tar hänsyn till rankningen av sökresultat.
+       
+      Relevans som målbegrepp 
+      Antagandet att dokument är antingen relevanta eller irrelevanta går dels att ifrågasätta för varje enskilt dokument: vissa är mer innehållsdigra än andra, men också för en samling dokument, där inte varje dokument i en serie är lika värdefullt som andra. Nyare modeller använder därför ofta flervärda relevansbedömningar, som till exempel irrelevant-marginellt relevant-ganska relevant-mycket relevant.   
+      Referenser 
+      
+       Ricardo Baeza-Yates, Berthier Ribeiro-Neto. Modern Information Retrieval. Addison-Wesley. 1999.
+       
+      Noter 
+      
+        
+        ^ Hans Peter Luhn. 1959. Auto-Encoding of Documents for Information Retrieval Systems. In Modern Trends in Documentation, M. Boaz (ed) London: Pergamon Press. (Reprinted in H.P.Luhn: Pioneer of Information Science, selected works. Claire K. Schultz (ed.) 1968. New York:Sparta.  
+        ^ Steven E. Robertson, Karen Spärck Jones. (1994). Simple Proven Approaches to text retrieval. Technical Report 356. University of Cambridge. Computer Laboratory  
+        ^ Gerard Salton, A. Wong, and C. S. Yang (1975). "A Vector Space Model for Automatic Indexing Arkiverad 5 juni 2011 hämtat från the Wayback Machine.," Communications of the ACM, vol. 18, nr. 11, pages 613–620.  
+        ^ Deerwester, S., et al, Improving Information Retrieval with Latent Semantic Indexing, Proceedings of the 51st Annual Meeting of the American Society for Information Science 25, 1988, pp. 36–40.  
+        ^ Eero Sormunen. (2002). Liberal relevance criteria of TREC—Counting on negligible documents? In M. Beaulieu, R. Baeza-Yates, &amp; S. H. Myaeng (Eds.), Proceedings of the 25th annual international ACM SIGIR conference on research and development in information retrieval (pp. 324–330). ACM, New York.]  
+       
+          
+     
+     
+      
+      
+     
+      Hämtad från "https://sv.wikipedia.org/w/index.php?title=Informationssökning&amp;oldid=45464589"
+     
+     
+    
+     
+      Kategorier: 
+      
+       Datavetenskap
+       Språkteknologi
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigeringsmeny 
+    
+     
+      Personliga verktyg  
+      
+      
+       Inte inloggad
+       Diskussion
+       Bidrag
+       Skapa konto
+       Logga in
+       
+      
+     
+     
+      
+       Namnrymder  
+       
+       
+        Artikel
+        Diskussion
+        
+       
+      
+      
+       
+       svenska utvidgad ihopfälld  
+       
+        
+       
+      
+     
+     
+      
+       Visningar  
+       
+       
+        Läs
+        Redigera
+        Redigera wikitext
+        Visa historik
+        
+       
+      
+      
+       
+       Mer utvidgad ihopfälld  
+       
+        
+       
+      
+      
+       
+        Sök  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigering  
+      
+      
+       Huvudsida
+       Introduktion
+       Deltagarportalen
+       Bybrunnen
+       Senaste ändringarna
+       Slumpartikel
+       Ladda upp filer
+       Stöd Wikipedia
+       Kontakta Wikipedia
+       Hjälp
+       
+      
+     
+     
+      På andra projekt  
+      
+      
+       Commons
+       
+      
+     
+     
+      Skriv ut/exportera  
+      
+      
+       Skapa en bok
+       Ladda ned som PDF
+       Utskriftsvänlig version
+       
+      
+     
+     
+      Verktyg  
+      
+      
+       Sidor som länkar hit
+       Relaterade ändringar
+       Specialsidor
+       Permanent länk
+       Sidinformation
+       Använd som referens
+       Wikidata-objekt
+       
+      
+     
+     
+      Språk  
+      
+      
+       العربية
+       Azərbaycanca
+       Български
+       Català
+       Čeština
+       Dansk
+       Deutsch
+       Ελληνικά
+       English
+       Español
+       Esperanto
+       Euskara
+       فارسی
+       Français
+       Gaeilge
+       Galego
+       한국어
+       हिन्दी
+       Bahasa Indonesia
+       Italiano
+       Bahasa Melayu
+       Монгол
+       Nederlands
+       日本語
+       Norsk bokmål
+       Norsk nynorsk
+       Polski
+       Português
+       Русский
+       Simple English
+       Српски / srpski
+       Suomi
+       Тоҷикӣ
+       Türkçe
+       Українська
+       Tiếng Việt
+       中文
+       
+      
+       Redigera länkar
+       
+      
+     
+    
+   
+   
+    
+     Sidan redigerades senast den 23 april 2019 kl. 22.31. 
+    Wikipedias text är tillgänglig under licensen Creative Commons Erkännande-dela-lika 3.0 Unported. För bilder, se respektive bildsida (klicka på bilden). Se vidare Wikipedia:Upphovsrätt och användarvillkor. 
+    
+    
+    Wikimedias integritetspolicy 
+    Om Wikipedia 
+    Förbehåll 
+    Mobil vy 
+    Utvecklare 
+    Statistik 
+    Information om kakor 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

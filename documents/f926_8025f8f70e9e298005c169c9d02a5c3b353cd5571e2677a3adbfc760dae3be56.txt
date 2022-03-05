@@ -1,0 +1,384 @@
+
+ 
+  
+   
+  Digital asset management - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Digital asset management 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+    
+     &nbsp;&nbsp;(Redirected from Digital Asset Management)
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources:&nbsp;"Digital asset management"&nbsp;–&nbsp;news&nbsp;· newspapers&nbsp;· books&nbsp;· scholar&nbsp;· JSTOR (January 2019) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This article cites its sources but does not provide page references. You can help to improve it by introducing citations that are more precise. (January 2019) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      Digital Asset Management (DAM) and the implementation of its use as a computer application is required in the collection of digital assets to ensure that the owner, and possibly their delegates, can perform operations on the data files.  
+      
+       
+       
+        Contents
+        
+        
+        1 Terminology 
+        2 Management 
+          
+          2.1 Creation 
+          2.2 Indexing 
+          2.3 Workflow 
+          2.4 Version control 
+          2.5 Access control 
+           
+        3 Categorization 
+        4 Media asset issues 
+        5 Types of systems 
+        6 See also 
+        7 References 
+        8 Further reading 
+        
+       
+      Terminology 
+      The term media asset management (MAM) may be used in reference to DAM when applied to the sub-set of digital objects commonly considered "media", namely audio recordings, photos, and videos. Any editing process that involves media, especially video, can make use of a MAM to access media components to be edited together, or to be combined with a live feed, in a fluent manner. A MAM typically offers at least one searchable index of the images, audio, and videos it contains constructed from metadata harvested from the images using pattern recognition, or input manually.  
+      Management 
+      Creation 
+      Applications implement digital asset management by importing it from the analog and/or digital domains (by encoding, scanning, optical character recognition, etc.) or by authoring it as new object.  
+      Indexing 
+      A primary function of a DAM system is to make assets easily available to its users by providing a searchable index that supports retrieval of assets by their content and/or metadata. The cataloging function is usually part of the ingestion process for new assets.  
+      Workflow 
+      Digital assets will typically have a lifecycle, which may include various states such as creation, approval, live, archived and deleted.  
+      Version control 
+      Often a DAM system will store earlier versions of a digital asset and allow those to be downloaded or reverted to. Therefore, a DAM system can operate as an advanced type of version control system.  
+      Access control 
+      Finally, a DAM system typically includes security controls ensuring relevant people have access to assets. This will often involve integration with existing directory services via a technology such as single sign-on.  
+      Categorization 
+      Smaller DAM systems are used in a particular operational context, for instance in video production systems. The key differentiators between them are the types of input encoders used for creating digital copies of assets to bring them under management, and the output decoders and/or formatters used to make them usable as documents and/or online resources. The metadata of a content item can serve as a guide to the selection of the codec(s) needed to handle the content during processing, and may be of use when applying access control rules to enforce authorization policy. 
+      Assets that require particular technology to be used in a workflow need to have their requirements for bandwidth, latency, and access control considered in the design of the tools that create or store them, and in the architecture of the system that distributes and archives them. When not being worked on assets can be held in a DAM in a variety of formats including blob (binary large object in a database) or as a file in a normal file system, that are "cheaper" to store than the form needed during operations on them. This makes it possible to implement a large scale DAM as an assembly of high performance processing systems in a network with a high density storage solution at its center.  
+      Media asset issues 
+      An asset can exist in several formats and in a sequence of versions. The digital version of the original asset is generally captured in as high a resolution, colour depth, and (if applicable) frame rate as will be needed to ensure that results are of acceptable quality for the end-use. There can also be thumbnail copies of lower quality for use in visual indexing. 
+      Metadata for an asset can include its packaging, encoding, provenance, ownership and access rights, and location of original creation. It is used to provide hints to the tools and systems used to work on, or with, the asset about how it should be handled and displayed.  
+      Types of systems 
+      Digital asset management systems fall into the following classifications:  
+      
+       Brand management system to enforce brand presentation within an organization by making the approved logos, fonts, and product images easily available. 
+       Library or archive for bulk storage of infrequently changing video or photo assets. 
+       Production management systems for handling assets being created on the fly for use in live media production or as visual effects for use in gaming applications, TV, or films. 
+       Streaming for on-demand delivery of digital content, like TV shows or movies, to end users on behalf of digital retailers.
+       
+      All of these types will include features for work-flow management, collaboration, project-management, and revision control.  
+      See also 
+      
+       Content management 
+       Digital asset 
+       Digital library 
+       Digital rights management 
+       Image organizer, possible presentation layer for a DAM 
+       Web content management system, may be a presentation layer for a DAM 
+       Enterprise content management
+       
+      References 
+      
+       
+       
+         
+         ^ Theresa Regli (2016). Digital and Marketing Asset Management. Rosenfeld. ISBN&nbsp;978-1-933820-12-5.  
+         ^ 
+           Jacobsen, Jens; Schlenker, Tilman; Edwards, Lisa (2005). Implementing a Digital Asset Management System: For Animation, Computer Games, and Web Development. Focal Press. ISBN&nbsp;0-240-80665-4.  
+         ^ 
+           Blanke, Tobias (2014). Digital Asset Ecosystems: Rethinking crowds and clouds. Elsevier. ISBN&nbsp;9781780633824.  
+         ^ 
+           "Digital asset management". www.ibm.com. Retrieved 2021-10-06.  
+         ^ 
+           Krogh, Peter (2009). The DAM Book, Second Edition. O'Reilly Media. ISBN&nbsp;978-0-596-52357-2.  
+         ^ * 
+           Mauthe, Andreas; Thomas, Peter (2004). Professional Content Management Systems: Handling Digital Media Assets. Wiley. ISBN&nbsp;0-470-85542-8.  
+         ^ 
+           Elizabeth Keathley (2014). Digital Asset Management: Content Architectures, Project Management, and Creating Order out of Media Chaos. APress. ISBN&nbsp;978-1430263777.  
+         ^ 
+           Diamond, David (2012). DAM Survival Guide: Digital Asset Management Initiative Planning. DAMSurvivalGuide.com. ISBN&nbsp;9781478287667.  
+         ^ 
+           Austerberry, David (2006). Digital Asset Management, Second Edition. Focal Press. ISBN&nbsp;0-240-80868-1.  
+         ^ 
+           "Business Management Magazine no 39- Optimizing Digital Asset Management (page 86)". Archived from the original on July 14, 2009. Retrieved July 25, 2019.  
+        
+       
+       
+      Further reading 
+      
+       
+        Diamond, David (2012). DAM Survival Guide: Digital Asset Management Initiative Planning. DAMSurvivalGuide.com. 
+       
+        Krogh, Peter (2009). The DAM Book, Second Edition. O'Reilly Media. ISBN&nbsp;978-0-596-52357-2. 
+       
+        Austerberry, David (2006). Digital Asset Management, Second Edition. Focal Press. ISBN&nbsp;0-240-80868-1. 
+       
+        Jacobsen, Jens; Schlenker, Tilman; Edwards, Lisa (2005). Implementing a Digital Asset Management System: For Animation, Computer Games, and Web Development. Focal Press. ISBN&nbsp;0-240-80665-4. 
+       
+        Mauthe, Andreas; Thomas, Peter (2004). Professional Content Management Systems: Handling Digital Media Assets. Wiley. ISBN&nbsp;0-470-85542-8. 
+       
+        Elizabeth Keathley (2014). Digital Asset Management: Content Architectures, Project Management, and Creating Order out of Media Chaos. APress. ISBN&nbsp;978-1430263777.
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Digital_asset_management&amp;oldid=1064231658"
+     
+     
+    
+     
+      Categories: 
+      
+       Information technology management
+       Content management systems
+       Document management systems
+       Records management
+       Asset management
+      
+     
+     
+      Hidden categories: 
+      
+       Articles needing additional references from January 2019
+       All articles needing additional references
+       Articles lacking page references from January 2019
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Català
+       Dansk
+       Deutsch
+       Español
+       Français
+       Italiano
+       Bahasa Melayu
+       Nederlands
+       日本語
+       Polski
+       Português
+       Türkçe
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 7 January 2022, at 08:37&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

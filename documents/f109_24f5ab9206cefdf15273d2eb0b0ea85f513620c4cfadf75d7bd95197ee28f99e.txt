@@ -1,0 +1,4596 @@
+
+ 
+  
+   
+  Evaluation measures (information retrieval) - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Evaluation measures (information retrieval) 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      Evaluation measures for an information retrieval system are used to assess how well the search results satisfied the user's query intent. Such metrics are often split into kinds: online metrics look at users' interactions with the search system, while offline metrics measure relevance, in other words how likely each result, or search engine results page (SERP) page as a whole, is to meet the information needs of the user.  
+      
+       
+       
+        Contents
+        
+        
+        1 Notation 
+        2 Online metrics 
+          
+          2.1 Session abandonment rate 
+          2.2 Click-through rate 
+          2.3 Session success rate 
+          2.4 Zero result rate 
+           
+        3 Offline metrics 
+          
+          3.1 Precision 
+          3.2 Recall 
+          3.3 Fall-out 
+          3.4 F-score / F-measure 
+          3.5 Average precision 
+          3.6 Precision at k 
+          3.7 R-precision 
+          3.8 Mean average precision 
+          3.9 Discounted cumulative gain 
+          3.10 Other measures 
+          3.11 Visualization 
+           
+        4 Non-metrics 
+          
+          4.1 Top queries list 
+           
+        5 Non-relevance metrics 
+          
+          5.1 Queries per time 
+           
+        6 See also 
+        7 References 
+        
+       
+      Notation 
+      The mathematical symbols used in the formulas below mean:  
+      
+       
+            
+             
+              
+              
+               X
+               
+              
+               ∩
+               
+              
+               Y
+               
+              
+             
+            
+             
+             
+            
+           - Intersection - in this case, specifying the documents in both sets X and Y 
+       
+            
+             
+              
+               
+               
+                |
+                
+               
+              
+               X
+               
+               
+               
+                |
+                
+               
+              
+             
+            
+             
+             
+            
+           - Cardinality - in this case, the number of documents in set X 
+       
+            
+             
+              
+              
+               ∫
+               
+              
+             
+            
+             
+             
+            
+           - Integral 
+       
+            
+             
+              
+              
+               ∑
+               
+              
+             
+            
+             
+             
+            
+           - Summation 
+       
+            
+             
+              
+              
+               Δ
+               
+              
+             
+            
+             
+             
+            
+           - Symmetric difference
+       
+      Online metrics 
+      Online metrics are generally created from search logs. The metrics are often used to determine the success of an A/B test.  
+      Session abandonment rate 
+      Session abandonment rate is a ratio of search sessions which do not result in a click.  
+      Click-through rate 
+      Click-through rate (CTR) is the ratio of users who click on a specific link to the number of total users who view a page, email, or advertisement. It is commonly used to measure the success of an online advertising campaign for a particular website as well as the effectiveness of email campaigns.  
+      Session success rate 
+      Session success rate measures the ratio of user sessions that lead to a success. Defining "success" is often dependent on context, but for search a successful result is often measured using dwell time as a primary factor along with secondary user interaction, for instance, the user copying the result URL is considered a successful result, as is copy/pasting from the snippet.  
+      Zero result rate 
+      Zero result rate (ZRR) is the ratio of Search Engine Results Pages (SERPs) which returned with zero results. The metric either indicates a recall issue, or that the information being searched for is not in the index.  
+      Offline metrics 
+      Offline metrics are generally created from relevance judgment sessions where the judges score the quality of the search results. Both binary (relevant/non-relevant) and multi-level (e.g., relevance from 0 to 5) scales can be used to score each document returned in response to a query. In practice, queries may be ill-posed, and there may be different shades of relevance. For instance, there is ambiguity in the query "mars": the judge does not know if the user is searching for the planet Mars, the Mars chocolate bar, or the singer Bruno Mars.  
+      Precision 
+      
+      
+       Main article: Precision and recall
+       
+      Precision is the fraction of the documents retrieved that are relevant to the user's information need.  
+      
+       
+        
+            
+             
+              
+               
+                
+                
+                 precision
+                 
+                
+               
+              
+               =
+               
+               
+                
+                 
+                  
+                  
+                   |
+                   
+                  
+                 
+                  {
+                  
+                  
+                   
+                   
+                    relevant documents
+                    
+                   
+                  
+                 
+                  }
+                  
+                 
+                  ∩
+                  
+                 
+                  {
+                  
+                  
+                   
+                   
+                    retrieved documents
+                    
+                   
+                  
+                 
+                  }
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                 
+                  
+                  
+                   |
+                   
+                  
+                 
+                  {
+                  
+                  
+                   
+                   
+                    retrieved documents
+                    
+                   
+                  
+                 
+                  }
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                
+               
+              
+             
+            
+             }=}\}\cap \}\}|}}\}|}}}
+             
+            
+          
+       
+       
+      In binary classification, precision is analogous to positive predictive value. Precision takes all retrieved documents into account. It can also be evaluated considering only the topmost results returned by the system using Precision@k. 
+      Note that the meaning and usage of "precision" in the field of information retrieval differs from the definition of accuracy and precision within other branches of science and statistics.  
+      Recall 
+      
+      
+       Main article: Precision and recall
+       
+      Recall is the fraction of the documents that are relevant to the query that are successfully retrieved.  
+      
+       
+        
+            
+             
+              
+               
+                
+                
+                 recall
+                 
+                
+               
+              
+               =
+               
+               
+                
+                 
+                  
+                  
+                   |
+                   
+                  
+                 
+                  {
+                  
+                  
+                   
+                   
+                    relevant documents
+                    
+                   
+                  
+                 
+                  }
+                  
+                 
+                  ∩
+                  
+                 
+                  {
+                  
+                  
+                   
+                   
+                    retrieved documents
+                    
+                   
+                  
+                 
+                  }
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                 
+                  
+                  
+                   |
+                   
+                  
+                 
+                  {
+                  
+                  
+                   
+                   
+                    relevant documents
+                    
+                   
+                  
+                 
+                  }
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                
+               
+              
+             
+            
+             }=}\}\cap \}\}|}}\}|}}}
+             
+            
+          
+       
+       
+      In binary classification, recall is often called sensitivity. So it can be looked at as the probability that a relevant document is retrieved by the query. 
+      It is trivial to achieve recall of 100% by returning all documents in response to any query. Therefore, recall alone is not enough but one needs to measure the number of non-relevant documents also, for example by computing the precision.  
+      Fall-out 
+      The proportion of non-relevant documents that are retrieved, out of all non-relevant documents available:  
+      
+       
+        
+            
+             
+              
+               
+                
+                
+                 fall-out
+                 
+                
+               
+              
+               =
+               
+               
+                
+                 
+                  
+                  
+                   |
+                   
+                  
+                 
+                  {
+                  
+                  
+                   
+                   
+                    non-relevant documents
+                    
+                   
+                  
+                 
+                  }
+                  
+                 
+                  ∩
+                  
+                 
+                  {
+                  
+                  
+                   
+                   
+                    retrieved documents
+                    
+                   
+                  
+                 
+                  }
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                 
+                  
+                  
+                   |
+                   
+                  
+                 
+                  {
+                  
+                  
+                   
+                   
+                    non-relevant documents
+                    
+                   
+                  
+                 
+                  }
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                
+               
+              
+             
+            
+             }=}\}\cap \}\}|}}\}|}}}
+             
+            
+          
+       
+       
+      In binary classification, fall-out is closely related to specificity and is equal to 
+           
+            
+             
+             
+              (
+              
+             
+              1
+              
+             
+              −
+              
+              
+               
+               
+                specificity
+                
+               
+              
+             
+              )
+              
+             
+            
+           
+            })}
+            
+           
+         . It can be looked at as the probability that a non-relevant document is retrieved by the query. 
+      It is trivial to achieve fall-out of 0% by returning zero documents in response to any query.  
+      F-score / F-measure 
+      
+      
+       Main article: F-score
+       
+      The weighted harmonic mean of precision and recall, the traditional F-measure or balanced F-score is:  
+      
+       
+        
+            
+             
+              
+              
+               F
+               
+              
+               =
+               
+               
+                
+                 
+                 
+                  2
+                  
+                 
+                  ⋅
+                  
+                  
+                  
+                   p
+                   
+                  
+                   r
+                   
+                  
+                   e
+                   
+                  
+                   c
+                   
+                  
+                   i
+                   
+                  
+                   s
+                   
+                  
+                   i
+                   
+                  
+                   o
+                   
+                  
+                   n
+                   
+                  
+                 
+                  ⋅
+                  
+                  
+                  
+                   r
+                   
+                  
+                   e
+                   
+                  
+                   c
+                   
+                  
+                   a
+                   
+                  
+                   l
+                   
+                  
+                   l
+                   
+                  
+                 
+                 
+                 
+                  (
+                  
+                  
+                  
+                   p
+                   
+                  
+                   r
+                   
+                  
+                   e
+                   
+                  
+                   c
+                   
+                  
+                   i
+                   
+                  
+                   s
+                   
+                  
+                   i
+                   
+                  
+                   o
+                   
+                  
+                   n
+                   
+                  
+                 
+                  +
+                  
+                  
+                  
+                   r
+                   
+                  
+                   e
+                   
+                  
+                   c
+                   
+                  
+                   a
+                   
+                  
+                   l
+                   
+                  
+                   l
+                   
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+             
+            
+              \cdot \mathrm  } +\mathrm  )}}}
+             
+            
+          
+       
+       
+      This is also known as the 
+           
+            
+             
+              
+              
+               F
+               
+               
+               
+                1
+                
+               
+              
+             
+            
+           
+            }
+            
+           
+          measure, because recall and precision are evenly weighted. 
+      The general formula for non-negative real 
+           
+            
+             
+             
+              β
+              
+             
+            
+           
+            
+            
+           
+          is:  
+      
+       
+        
+            
+             
+              
+               
+               
+                F
+                
+                
+                
+                 β
+                 
+                
+               
+              
+               =
+               
+               
+                
+                 
+                 
+                  (
+                  
+                 
+                  1
+                  
+                 
+                  +
+                  
+                  
+                  
+                   β
+                   
+                   
+                   
+                    2
+                    
+                   
+                  
+                 
+                  )
+                  
+                 
+                  ⋅
+                  
+                 
+                  (
+                  
+                  
+                  
+                   p
+                   
+                  
+                   r
+                   
+                  
+                   e
+                   
+                  
+                   c
+                   
+                  
+                   i
+                   
+                  
+                   s
+                   
+                  
+                   i
+                   
+                  
+                   o
+                   
+                  
+                   n
+                   
+                  
+                 
+                  ⋅
+                  
+                  
+                  
+                   r
+                   
+                  
+                   e
+                   
+                  
+                   c
+                   
+                  
+                   a
+                   
+                  
+                   l
+                   
+                  
+                   l
+                   
+                  
+                 
+                  )
+                  
+                 
+                 
+                 
+                  (
+                  
+                  
+                  
+                   β
+                   
+                   
+                   
+                    2
+                    
+                   
+                  
+                 
+                  ⋅
+                  
+                  
+                  
+                   p
+                   
+                  
+                   r
+                   
+                  
+                   e
+                   
+                  
+                   c
+                   
+                  
+                   i
+                   
+                  
+                   s
+                   
+                  
+                   i
+                   
+                  
+                   o
+                   
+                  
+                   n
+                   
+                  
+                 
+                  +
+                  
+                  
+                  
+                   r
+                   
+                  
+                   e
+                   
+                  
+                   c
+                   
+                  
+                   a
+                   
+                  
+                   l
+                   
+                  
+                   l
+                   
+                  
+                 
+                  )
+                  
+                 
+                
+               
+               
+              
+             
+            
+             =)\cdot (\mathrm  \cdot \mathrm  )}\cdot \mathrm  +\mathrm  )}}\,}
+             
+            
+          
+       
+       
+      Two other commonly used F measures are the 
+           
+            
+             
+              
+              
+               F
+               
+               
+               
+                2
+                
+               
+              
+             
+            
+           
+            }
+            
+           
+          measure, which weights recall twice as much as precision, and the 
+           
+            
+             
+              
+              
+               F
+               
+               
+               
+                0.5
+                
+               
+              
+             
+            
+           
+            }
+            
+           
+          measure, which weights precision twice as much as recall. 
+      The F-measure was derived by van Rijsbergen (1979) so that 
+           
+            
+             
+              
+              
+               F
+               
+               
+               
+                β
+                
+               
+              
+             
+            
+           
+            }
+            
+           
+          "measures the effectiveness of retrieval with respect to a user who attaches 
+           
+            
+             
+             
+              β
+              
+             
+            
+           
+            
+            
+           
+          times as much importance to recall as precision". It is based on van Rijsbergen's effectiveness measure 
+           
+            
+             
+             
+              E
+              
+             
+              =
+              
+             
+              1
+              
+             
+              −
+              
+              
+               
+               
+                1
+                
+                
+                 
+                  
+                  
+                   α
+                   
+                  
+                   P
+                   
+                  
+                 
+                
+                 +
+                 
+                 
+                  
+                   
+                   
+                    1
+                    
+                   
+                    −
+                    
+                   
+                    α
+                    
+                   
+                  
+                   R
+                   
+                  
+                 
+                
+               
+              
+             
+            
+           
+            }+}}}}
+            
+           
+         . Their relationship is:  
+      
+       
+        
+            
+             
+              
+               
+               
+                F
+                
+                
+                
+                 β
+                 
+                
+               
+              
+               =
+               
+              
+               1
+               
+              
+               −
+               
+              
+               E
+               
+              
+             
+            
+             =1-E}
+             
+            
+           where 
+            
+             
+              
+              
+               α
+               
+              
+               =
+               
+               
+                
+                
+                 1
+                 
+                 
+                 
+                  1
+                  
+                 
+                  +
+                  
+                  
+                  
+                   β
+                   
+                   
+                   
+                    2
+                    
+                   
+                  
+                 
+                
+               
+              
+             
+            
+             }}}
+             
+            
+          
+       
+       
+      F-measure can be a better single metric when compared to precision and recall; both precision and recall give different information that can complement each other when combined. If one of them excels more than the other, F-measure will reflect it.  
+      Average precision 
+      Precision and recall are single-value metrics based on the whole list of documents returned by the system. For systems that return a ranked sequence of documents, it is desirable to also consider the order in which the returned documents are presented. By computing a precision and recall at every position in the ranked sequence of documents, one can plot a precision-recall curve, plotting precision 
+           
+            
+             
+             
+              p
+              
+             
+              (
+              
+             
+              r
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          as a function of recall 
+           
+            
+             
+             
+              r
+              
+             
+            
+           
+            
+            
+           
+         . Average precision computes the average value of 
+           
+            
+             
+             
+              p
+              
+             
+              (
+              
+             
+              r
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          over the interval from 
+           
+            
+             
+             
+              r
+              
+             
+              =
+              
+             
+              0
+              
+             
+            
+           
+            
+            
+           
+          to 
+           
+            
+             
+             
+              r
+              
+             
+              =
+              
+             
+              1
+              
+             
+            
+           
+            
+            
+           
+         :  
+      
+       
+        
+            
+             
+              
+              
+               AveP
+               
+              
+               =
+               
+               
+               
+                ∫
+                
+                
+                
+                 0
+                 
+                
+                
+                
+                 1
+                 
+                
+               
+              
+               p
+               
+              
+               (
+               
+              
+               r
+               
+              
+               )
+               
+              
+               d
+               
+              
+               r
+               
+              
+             
+            
+              =\int _^p(r)dr}
+             
+            
+          
+       
+       
+      That is the area under the precision-recall curve. This integral is in practice replaced with a finite sum over every position in the ranked sequence of documents:  
+      
+       
+        
+            
+             
+              
+              
+               AveP
+               
+              
+               =
+               
+               
+               
+                ∑
+                
+                
+                
+                 k
+                 
+                
+                 =
+                 
+                
+                 1
+                 
+                
+                
+                
+                 n
+                 
+                
+               
+              
+               P
+               
+              
+               (
+               
+              
+               k
+               
+              
+               )
+               
+              
+               Δ
+               
+              
+               r
+               
+              
+               (
+               
+              
+               k
+               
+              
+               )
+               
+              
+             
+            
+              =\sum _^P(k)\Delta r(k)}
+             
+            
+          
+       
+       
+      where 
+           
+            
+             
+             
+              k
+              
+             
+            
+           
+            
+            
+           
+          is the rank in the sequence of retrieved documents, 
+           
+            
+             
+             
+              n
+              
+             
+            
+           
+            
+            
+           
+          is the number of retrieved documents, 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+             
+              k
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          is the precision at cut-off 
+           
+            
+             
+             
+              k
+              
+             
+            
+           
+            
+            
+           
+          in the list, and 
+           
+            
+             
+             
+              Δ
+              
+             
+              r
+              
+             
+              (
+              
+             
+              k
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          is the change in recall from items 
+           
+            
+             
+             
+              k
+              
+             
+              −
+              
+             
+              1
+              
+             
+            
+           
+            
+            
+           
+          to 
+           
+            
+             
+             
+              k
+              
+             
+            
+           
+            
+            
+           
+         . 
+      This finite sum is equivalent to:  
+      
+       
+        
+            
+             
+              
+              
+               AveP
+               
+              
+               =
+               
+               
+                
+                 
+                  
+                  
+                   ∑
+                   
+                   
+                   
+                    k
+                    
+                   
+                    =
+                    
+                   
+                    1
+                    
+                   
+                   
+                   
+                    n
+                    
+                   
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  k
+                  
+                 
+                  )
+                  
+                 
+                  ×
+                  
+                 
+                  rel
+                  
+                 
+                  ⁡
+                  
+                 
+                  (
+                  
+                 
+                  k
+                  
+                 
+                  )
+                  
+                 
+                 
+                 
+                  number of relevant documents
+                  
+                 
+                
+               
+               
+              
+             
+            
+              =^P(k)\times \operatorname  (k)}}}\!}
+             
+            
+          
+       
+       
+      where 
+           
+            
+             
+             
+              rel
+              
+             
+              ⁡
+              
+             
+              (
+              
+             
+              k
+              
+             
+              )
+              
+             
+            
+           
+             (k)}
+            
+           
+          is an indicator function equaling 1 if the item at rank 
+           
+            
+             
+             
+              k
+              
+             
+            
+           
+            
+            
+           
+          is a relevant document, zero otherwise. Note that the average is over all relevant documents and the relevant documents not retrieved get a precision score of zero. 
+      Some authors choose to interpolate the 
+           
+            
+             
+             
+              p
+              
+             
+              (
+              
+             
+              r
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          function to reduce the impact of "wiggles" in the curve. For example, the PASCAL Visual Object Classes challenge (a benchmark for computer vision object detection) until 2010 computed the average precision by averaging the precision over a set of evenly spaced recall levels :  
+      
+       
+        
+            
+             
+              
+              
+               AveP
+               
+              
+               =
+               
+               
+                
+                
+                 1
+                 
+                
+                 11
+                 
+                
+               
+               
+               
+                ∑
+                
+                
+                
+                 r
+                 
+                
+                 ∈
+                 
+                
+                 {
+                 
+                
+                 0
+                 
+                
+                 ,
+                 
+                
+                 0.1
+                 
+                
+                 ,
+                 
+                
+                 …
+                 
+                
+                 ,
+                 
+                
+                 1.0
+                 
+                
+                 }
+                 
+                
+               
+               
+               
+                p
+                
+                
+                
+                 interp
+                 
+                
+               
+              
+               (
+               
+              
+               r
+               
+              
+               )
+               
+              
+             
+            
+              =}\sum _}p_ }(r)}
+             
+            
+          
+       
+       
+      where 
+           
+            
+             
+              
+              
+               p
+               
+               
+               
+                interp
+                
+               
+              
+             
+              (
+              
+             
+              r
+              
+             
+              )
+              
+             
+            
+           
+             }(r)}
+            
+           
+          is an interpolated precision that takes the maximum precision over all recalls greater than 
+           
+            
+             
+             
+              r
+              
+             
+            
+           
+            
+            
+           
+         :  
+      
+       
+        
+            
+             
+              
+               
+               
+                p
+                
+                
+                
+                 interp
+                 
+                
+               
+              
+               (
+               
+              
+               r
+               
+              
+               )
+               
+              
+               =
+               
+               
+               
+                max
+                
+                
+                 
+                  
+                   
+                   
+                    r
+                    
+                   
+                    ~
+                    
+                   
+                  
+                 
+                
+                 :
+                 
+                 
+                  
+                   
+                   
+                    r
+                    
+                   
+                    ~
+                    
+                   
+                  
+                 
+                
+                 ≥
+                 
+                
+                 r
+                 
+                
+               
+              
+               ⁡
+               
+              
+               p
+               
+              
+               (
+               
+               
+                
+                 
+                 
+                  r
+                  
+                 
+                  ~
+                  
+                 
+                
+               
+              
+               )
+               
+              
+             
+            
+              }(r)=\operatorname  _}:}\geq r}p(})}
+             
+            
+          .
+       
+       
+      An alternative is to derive an analytical 
+           
+            
+             
+             
+              p
+              
+             
+              (
+              
+             
+              r
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          function by assuming a particular parametric distribution for the underlying decision values. For example, a binormal precision-recall curve can be obtained by assuming decision values in both classes to follow a Gaussian distribution.  
+      Precision at k 
+      For modern (web-scale) information retrieval, recall is no longer a meaningful metric, as many queries have thousands of relevant documents, and few users will be interested in reading all of them. Precision at k documents (P@k) is still a useful metric (e.g., P@10 or "Precision at 10" corresponds to the number of relevant results among the top 10 retrieved documents), but fails to take into account the positions of the relevant documents among the top k. Another shortcoming is that on a query with fewer relevant results than k, even a perfect system will have a score less than 1. It is easier to score manually since only the top k results need to be examined to determine if they are relevant or not.  
+      R-precision 
+      R-precision requires knowing all documents that are relevant to a query. The number of relevant documents, 
+           
+            
+             
+             
+              R
+              
+             
+            
+           
+            
+            
+           
+         , is used as the cutoff for calculation, and this varies from query to query. For example, if there are 15 documents relevant to "red" in a corpus (R=15), R-precision for "red" looks at the top 15 documents returned, counts the number that are relevant 
+           
+            
+             
+             
+              r
+              
+             
+            
+           
+            
+            
+           
+          turns that into a relevancy fraction: 
+           
+            
+             
+             
+              r
+              
+              
+              
+               /
+               
+              
+             
+              R
+              
+             
+              =
+              
+             
+              r
+              
+              
+              
+               /
+               
+              
+             
+              15
+              
+             
+            
+           
+            
+            
+           
+         . 
+      R-Precision is equal to recall at the R-th position. 
+      Empirically, this measure is often highly correlated to mean average precision.  
+      Mean average precision 
+      Mean average precision (MAP) for a set of queries is the mean of the average precision scores for each query.  
+      
+       
+        
+            
+             
+              
+              
+               MAP
+               
+              
+               =
+               
+               
+                
+                 
+                  
+                  
+                   ∑
+                   
+                   
+                   
+                    q
+                    
+                   
+                    =
+                    
+                   
+                    1
+                    
+                   
+                   
+                   
+                    Q
+                    
+                   
+                  
+                  
+                  
+                   A
+                   
+                  
+                   v
+                   
+                  
+                   e
+                   
+                  
+                   P
+                   
+                  
+                   (
+                   
+                  
+                   q
+                   
+                  
+                   )
+                   
+                  
+                 
+                
+                 Q
+                 
+                
+               
+               
+              
+             
+            
+              =^\operatorname  }}\!}
+             
+            
+          
+       
+       
+      where Q is the number of queries.  
+      Discounted cumulative gain 
+      
+      
+       Main article: Discounted cumulative gain
+       
+       
+       
+        Terminology and derivations
+        from a confusion matrix 
+        
+       
+         
+          
+          
+           
+            condition positive (P)
+            
+           
+            the number of real positive cases in the data
+            
+           
+            condition negative (N)
+            
+           
+            the number of real negative cases in the data
+           
+           
+           
+          
+           
+            true positive (TP)
+            
+           
+            A test result that correctly indicates the presence of a condition or characteristic
+            
+           
+            true negative (TN)
+            
+           
+            A test result that correctly indicates the absence of a condition or characteristic
+            
+           
+            false positive (FP)
+            
+           
+            A test result which wrongly indicates that a particular condition or attribute is present
+            
+           
+            false negative (FN)
+            
+           
+            A test result which wrongly indicates that a particular condition or attribute is absent
+           
+           
+           
+          
+           
+            sensitivity, recall, hit rate, or true positive rate (TPR)
+            
+           
+            
+                
+                 
+                  
+                   
+                   
+                    T
+                    
+                   
+                    P
+                    
+                   
+                    R
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      T
+                      
+                     
+                      P
+                      
+                     
+                     
+                     
+                      P
+                      
+                     
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      T
+                      
+                     
+                      P
+                      
+                     
+                     
+                      
+                      
+                       T
+                       
+                      
+                       P
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       F
+                       
+                      
+                       N
+                       
+                      
+                     
+                    
+                   
+                  
+                   =
+                   
+                  
+                   1
+                   
+                  
+                   −
+                   
+                   
+                   
+                    F
+                    
+                   
+                    N
+                    
+                   
+                    R
+                    
+                   
+                  
+                 
+                
+                  = } }}= } +\mathrm  }}=1-\mathrm  }
+                 
+                
+              
+            
+           
+            specificity, selectivity or true negative rate (TNR)
+            
+           
+            
+                
+                 
+                  
+                   
+                   
+                    T
+                    
+                   
+                    N
+                    
+                   
+                    R
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      T
+                      
+                     
+                      N
+                      
+                     
+                     
+                     
+                      N
+                      
+                     
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      T
+                      
+                     
+                      N
+                      
+                     
+                     
+                      
+                      
+                       T
+                       
+                      
+                       N
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       F
+                       
+                      
+                       P
+                       
+                      
+                     
+                    
+                   
+                  
+                   =
+                   
+                  
+                   1
+                   
+                  
+                   −
+                   
+                   
+                   
+                    F
+                    
+                   
+                    P
+                    
+                   
+                    R
+                    
+                   
+                  
+                 
+                
+                  = } }}= } +\mathrm  }}=1-\mathrm  }
+                 
+                
+              
+            
+           
+            precision or positive predictive value (PPV)
+            
+           
+            
+                
+                 
+                  
+                   
+                   
+                    P
+                    
+                   
+                    P
+                    
+                   
+                    V
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      T
+                      
+                     
+                      P
+                      
+                     
+                     
+                      
+                      
+                       T
+                       
+                      
+                       P
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       F
+                       
+                      
+                       P
+                       
+                      
+                     
+                    
+                   
+                  
+                   =
+                   
+                  
+                   1
+                   
+                  
+                   −
+                   
+                   
+                   
+                    F
+                    
+                   
+                    D
+                    
+                   
+                    R
+                    
+                   
+                  
+                 
+                
+                  = } +\mathrm  }}=1-\mathrm  }
+                 
+                
+              
+            
+           
+            negative predictive value (NPV)
+            
+           
+            
+                
+                 
+                  
+                   
+                   
+                    N
+                    
+                   
+                    P
+                    
+                   
+                    V
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      T
+                      
+                     
+                      N
+                      
+                     
+                     
+                      
+                      
+                       T
+                       
+                      
+                       N
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       F
+                       
+                      
+                       N
+                       
+                      
+                     
+                    
+                   
+                  
+                   =
+                   
+                  
+                   1
+                   
+                  
+                   −
+                   
+                   
+                   
+                    F
+                    
+                   
+                    O
+                    
+                   
+                    R
+                    
+                   
+                  
+                 
+                
+                  = } +\mathrm  }}=1-\mathrm  }
+                 
+                
+              
+            
+           
+            miss rate or false negative rate (FNR)
+            
+           
+            
+                
+                 
+                  
+                   
+                   
+                    F
+                    
+                   
+                    N
+                    
+                   
+                    R
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      F
+                      
+                     
+                      N
+                      
+                     
+                     
+                     
+                      P
+                      
+                     
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      F
+                      
+                     
+                      N
+                      
+                     
+                     
+                      
+                      
+                       F
+                       
+                      
+                       N
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       T
+                       
+                      
+                       P
+                       
+                      
+                     
+                    
+                   
+                  
+                   =
+                   
+                  
+                   1
+                   
+                  
+                   −
+                   
+                   
+                   
+                    T
+                    
+                   
+                    P
+                    
+                   
+                    R
+                    
+                   
+                  
+                 
+                
+                  = } }}= } +\mathrm  }}=1-\mathrm  }
+                 
+                
+              
+            
+           
+            fall-out or false positive rate (FPR)
+            
+           
+            
+                
+                 
+                  
+                   
+                   
+                    F
+                    
+                   
+                    P
+                    
+                   
+                    R
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      F
+                      
+                     
+                      P
+                      
+                     
+                     
+                     
+                      N
+                      
+                     
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      F
+                      
+                     
+                      P
+                      
+                     
+                     
+                      
+                      
+                       F
+                       
+                      
+                       P
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       T
+                       
+                      
+                       N
+                       
+                      
+                     
+                    
+                   
+                  
+                   =
+                   
+                  
+                   1
+                   
+                  
+                   −
+                   
+                   
+                   
+                    T
+                    
+                   
+                    N
+                    
+                   
+                    R
+                    
+                   
+                  
+                 
+                
+                  = } }}= } +\mathrm  }}=1-\mathrm  }
+                 
+                
+              
+            
+           
+            false discovery rate (FDR)
+            
+           
+            
+                
+                 
+                  
+                   
+                   
+                    F
+                    
+                   
+                    D
+                    
+                   
+                    R
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      F
+                      
+                     
+                      P
+                      
+                     
+                     
+                      
+                      
+                       F
+                       
+                      
+                       P
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       T
+                       
+                      
+                       P
+                       
+                      
+                     
+                    
+                   
+                  
+                   =
+                   
+                  
+                   1
+                   
+                  
+                   −
+                   
+                   
+                   
+                    P
+                    
+                   
+                    P
+                    
+                   
+                    V
+                    
+                   
+                  
+                 
+                
+                  = } +\mathrm  }}=1-\mathrm  }
+                 
+                
+              
+            
+           
+            false omission rate (FOR)
+            
+           
+            
+                
+                 
+                  
+                   
+                   
+                    F
+                    
+                   
+                    O
+                    
+                   
+                    R
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      F
+                      
+                     
+                      N
+                      
+                     
+                     
+                      
+                      
+                       F
+                       
+                      
+                       N
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       T
+                       
+                      
+                       N
+                       
+                      
+                     
+                    
+                   
+                  
+                   =
+                   
+                  
+                   1
+                   
+                  
+                   −
+                   
+                   
+                   
+                    N
+                    
+                   
+                    P
+                    
+                   
+                    V
+                    
+                   
+                  
+                 
+                
+                  = } +\mathrm  }}=1-\mathrm  }
+                 
+                
+              
+            
+           
+            Positive likelihood ratio (LR+)
+            
+           
+            
+                
+                 
+                  
+                   
+                   
+                    L
+                    
+                   
+                    R
+                    
+                   
+                    +
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      T
+                      
+                     
+                      P
+                      
+                     
+                      R
+                      
+                     
+                     
+                     
+                      F
+                      
+                     
+                      P
+                      
+                     
+                      R
+                      
+                     
+                    
+                   
+                  
+                 
+                
+                  = } }}}
+                 
+                
+              
+            
+           
+            Negative likelihood ratio (LR-)
+            
+           
+            
+                
+                 
+                  
+                   
+                   
+                    L
+                    
+                   
+                    R
+                    
+                   
+                    −
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      F
+                      
+                     
+                      N
+                      
+                     
+                      R
+                      
+                     
+                     
+                     
+                      T
+                      
+                     
+                      N
+                      
+                     
+                      R
+                      
+                     
+                    
+                   
+                  
+                 
+                
+                  = } }}}
+                 
+                
+              
+            
+           
+            prevalence threshold (PT)
+            
+           
+            
+                
+                 
+                  
+                   
+                   
+                    P
+                    
+                   
+                    T
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                      
+                       
+                        
+                        
+                         T
+                         
+                        
+                         P
+                         
+                        
+                         R
+                         
+                        
+                       
+                        (
+                        
+                       
+                        −
+                        
+                        
+                        
+                         T
+                         
+                        
+                         N
+                         
+                        
+                         R
+                         
+                        
+                       
+                        +
+                        
+                       
+                        1
+                        
+                       
+                        )
+                        
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       T
+                       
+                      
+                       N
+                       
+                      
+                       R
+                       
+                      
+                     
+                      −
+                      
+                     
+                      1
+                      
+                     
+                     
+                     
+                      (
+                      
+                      
+                      
+                       T
+                       
+                      
+                       P
+                       
+                      
+                       R
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       T
+                       
+                      
+                       N
+                       
+                      
+                       R
+                       
+                      
+                     
+                      −
+                      
+                     
+                      1
+                      
+                     
+                      )
+                      
+                     
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                      
+                      
+                       F
+                       
+                      
+                       P
+                       
+                      
+                       R
+                       
+                      
+                     
+                     
+                      
+                       
+                        
+                        
+                         T
+                         
+                        
+                         P
+                         
+                        
+                         R
+                         
+                        
+                       
+                      
+                     
+                      +
+                      
+                      
+                       
+                        
+                        
+                         F
+                         
+                        
+                         P
+                         
+                        
+                         R
+                         
+                        
+                       
+                      
+                     
+                    
+                   
+                  
+                 
+                
+                  = (-\mathrm  +1)}}+\mathrm  -1} +\mathrm  -1)}}= }} }}+ }}}}}
+                 
+                
+              
+            
+           
+            threat score (TS) or critical success index (CSI)
+            
+           
+            
+                
+                 
+                  
+                   
+                   
+                    T
+                    
+                   
+                    S
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      T
+                      
+                     
+                      P
+                      
+                     
+                     
+                      
+                      
+                       T
+                       
+                      
+                       P
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       F
+                       
+                      
+                       N
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       F
+                       
+                      
+                       P
+                       
+                      
+                     
+                    
+                   
+                  
+                 
+                
+                  = } +\mathrm  +\mathrm  }}}
+                 
+                
+              
+           
+           
+           
+          
+           
+            Prevalence
+            
+           
+            
+                
+                 
+                  
+                   
+                    
+                     
+                     
+                      P
+                      
+                     
+                     
+                      
+                      
+                       P
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       N
+                       
+                      
+                     
+                    
+                   
+                  
+                 
+                
+                  } +\mathrm  }}}
+                 
+                
+              
+            
+           
+            accuracy (ACC)
+            
+           
+            
+                
+                 
+                  
+                   
+                   
+                    A
+                    
+                   
+                    C
+                    
+                   
+                    C
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                      
+                      
+                       T
+                       
+                      
+                       P
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       T
+                       
+                      
+                       N
+                       
+                      
+                     
+                     
+                      
+                      
+                       P
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       N
+                       
+                      
+                     
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                      
+                      
+                       T
+                       
+                      
+                       P
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       T
+                       
+                      
+                       N
+                       
+                      
+                     
+                     
+                      
+                      
+                       T
+                       
+                      
+                       P
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       T
+                       
+                      
+                       N
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       F
+                       
+                      
+                       P
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       F
+                       
+                      
+                       N
+                       
+                      
+                     
+                    
+                   
+                  
+                 
+                
+                  = +\mathrm  } +\mathrm  }}= +\mathrm  } +\mathrm  +\mathrm  +\mathrm  }}}
+                 
+                
+              
+            
+           
+            balanced accuracy (BA)
+            
+           
+            
+                
+                 
+                  
+                   
+                   
+                    B
+                    
+                   
+                    A
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      T
+                      
+                     
+                      P
+                      
+                     
+                      R
+                      
+                     
+                      +
+                      
+                     
+                      T
+                      
+                     
+                      N
+                      
+                     
+                      R
+                      
+                     
+                    
+                     2
+                     
+                    
+                   
+                  
+                 
+                
+                  =}}
+                 
+                
+              
+            
+           
+            F1 score
+            
+           
+            is the harmonic mean of precision and sensitivity: 
+                
+                 
+                  
+                   
+                    
+                    
+                     F
+                     
+                    
+                    
+                    
+                     1
+                     
+                    
+                   
+                  
+                   =
+                   
+                  
+                   2
+                   
+                  
+                   ×
+                   
+                   
+                    
+                     
+                      
+                      
+                       P
+                       
+                      
+                       P
+                       
+                      
+                       V
+                       
+                      
+                     
+                      ×
+                      
+                      
+                      
+                       T
+                       
+                      
+                       P
+                       
+                      
+                       R
+                       
+                      
+                     
+                     
+                      
+                      
+                       P
+                       
+                      
+                       P
+                       
+                      
+                       V
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       T
+                       
+                      
+                       P
+                       
+                      
+                       R
+                       
+                      
+                     
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      2
+                      
+                      
+                      
+                       T
+                       
+                      
+                       P
+                       
+                      
+                     
+                     
+                     
+                      2
+                      
+                      
+                      
+                       T
+                       
+                      
+                       P
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       F
+                       
+                      
+                       P
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       F
+                       
+                      
+                       N
+                       
+                      
+                     
+                    
+                   
+                  
+                 
+                
+                  _=2\times  \times \mathrm  } +\mathrm  }}= } +\mathrm  +\mathrm  }}}
+                 
+                
+              
+            
+           
+            phi coefficient (φ or rφ) or Matthews correlation coefficient (MCC)
+            
+           
+            
+                
+                 
+                  
+                   
+                   
+                    M
+                    
+                   
+                    C
+                    
+                   
+                    C
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                      
+                      
+                       T
+                       
+                      
+                       P
+                       
+                      
+                     
+                      ×
+                      
+                      
+                      
+                       T
+                       
+                      
+                       N
+                       
+                      
+                     
+                      −
+                      
+                      
+                      
+                       F
+                       
+                      
+                       P
+                       
+                      
+                     
+                      ×
+                      
+                      
+                      
+                       F
+                       
+                      
+                       N
+                       
+                      
+                     
+                     
+                     
+                      (
+                      
+                      
+                      
+                       T
+                       
+                      
+                       P
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       F
+                       
+                      
+                       P
+                       
+                      
+                     
+                      )
+                      
+                     
+                      (
+                      
+                      
+                      
+                       T
+                       
+                      
+                       P
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       F
+                       
+                      
+                       N
+                       
+                      
+                     
+                      )
+                      
+                     
+                      (
+                      
+                      
+                      
+                       T
+                       
+                      
+                       N
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       F
+                       
+                      
+                       P
+                       
+                      
+                     
+                      )
+                      
+                     
+                      (
+                      
+                      
+                      
+                       T
+                       
+                      
+                       N
+                       
+                      
+                     
+                      +
+                      
+                      
+                      
+                       F
+                       
+                      
+                       N
+                       
+                      
+                     
+                      )
+                      
+                     
+                    
+                   
+                  
+                 
+                
+                  = \times \mathrm  -\mathrm  \times \mathrm  } +\mathrm  )(\mathrm  +\mathrm  )(\mathrm  +\mathrm  )(\mathrm  +\mathrm  )}}}}
+                 
+                
+              
+            
+           
+            Fowlkes–Mallows index (FM)
+            
+           
+            
+                
+                 
+                  
+                   
+                   
+                    F
+                    
+                   
+                    M
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                      
+                       
+                       
+                        T
+                        
+                       
+                        P
+                        
+                       
+                       
+                       
+                        T
+                        
+                       
+                        P
+                        
+                       
+                        +
+                        
+                       
+                        F
+                        
+                       
+                        P
+                        
+                       
+                      
+                     
+                    
+                     ×
+                     
+                     
+                      
+                       
+                       
+                        T
+                        
+                       
+                        P
+                        
+                       
+                       
+                       
+                        T
+                        
+                       
+                        P
+                        
+                       
+                        +
+                        
+                       
+                        F
+                        
+                       
+                        N
+                        
+                       
+                      
+                     
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                    
+                     P
+                     
+                    
+                     P
+                     
+                    
+                     V
+                     
+                    
+                     ×
+                     
+                    
+                     T
+                     
+                    
+                     P
+                     
+                    
+                     R
+                     
+                    
+                   
+                  
+                 
+                
+                  =}\times }}}=}}
+                 
+                
+              
+            
+           
+            informedness or bookmaker informedness (BM)
+            
+           
+            
+                
+                 
+                  
+                   
+                   
+                    B
+                    
+                   
+                    M
+                    
+                   
+                  
+                   =
+                   
+                   
+                   
+                    T
+                    
+                   
+                    P
+                    
+                   
+                    R
+                    
+                   
+                  
+                   +
+                   
+                   
+                   
+                    T
+                    
+                   
+                    N
+                    
+                   
+                    R
+                    
+                   
+                  
+                   −
+                   
+                  
+                   1
+                   
+                  
+                 
+                
+                  =\mathrm  +\mathrm  -1}
+                 
+                
+              
+            
+           
+            markedness (MK) or deltaP (Δp)
+            
+           
+            
+                
+                 
+                  
+                   
+                   
+                    M
+                    
+                   
+                    K
+                    
+                   
+                  
+                   =
+                   
+                   
+                   
+                    P
+                    
+                   
+                    P
+                    
+                   
+                    V
+                    
+                   
+                  
+                   +
+                   
+                   
+                   
+                    N
+                    
+                   
+                    P
+                    
+                   
+                    V
+                    
+                   
+                  
+                   −
+                   
+                  
+                   1
+                   
+                  
+                 
+                
+                  =\mathrm  +\mathrm  -1}
+                 
+                
+              
+            
+           
+            Diagnostic odds ratio (DOR)
+            
+           
+            
+                
+                 
+                  
+                   
+                   
+                    D
+                    
+                   
+                    O
+                    
+                   
+                    R
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      L
+                      
+                     
+                      R
+                      
+                     
+                      +
+                      
+                     
+                     
+                     
+                      L
+                      
+                     
+                      R
+                      
+                     
+                      −
+                      
+                     
+                    
+                   
+                  
+                 
+                
+                  = } }}}
+                 
+                
+              
+           
+           Sources: Fawcett (2006), Piryonesi and El-Diraby (2020), Powers (2011), Ting (2011), CAWCR, D. Chicco &amp; G. Jurman (2020, 2021), Tharwat (2018).  
+        
+       
+       
+      DCG uses a graded relevance scale of documents from the result set to evaluate the usefulness, or gain, of a document based on its position in the result list. The premise of DCG is that highly relevant documents appearing lower in a search result list should be penalized as the graded relevance value is reduced logarithmically proportional to the position of the result. 
+      The DCG accumulated at a particular rank position 
+           
+            
+             
+             
+              p
+              
+             
+            
+           
+            
+            
+           
+          is defined as:  
+      
+       
+        
+            
+             
+              
+               
+               
+                D
+                
+               
+                C
+                
+                
+                
+                 G
+                 
+                 
+                 
+                  p
+                  
+                 
+                
+               
+              
+               =
+               
+               
+               
+                ∑
+                
+                
+                
+                 i
+                 
+                
+                 =
+                 
+                
+                 1
+                 
+                
+                
+                
+                 p
+                 
+                
+               
+               
+                
+                 
+                 
+                  r
+                  
+                 
+                  e
+                  
+                  
+                  
+                   l
+                   
+                   
+                   
+                    i
+                    
+                   
+                  
+                 
+                 
+                  
+                  
+                   log
+                   
+                   
+                   
+                    2
+                    
+                   
+                  
+                 
+                  ⁡
+                  
+                 
+                  (
+                  
+                 
+                  i
+                  
+                 
+                  +
+                  
+                 
+                  1
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+               .
+               
+              
+             
+            
+             } =\sum _^}(i+1)}}.}
+             
+            
+          
+       
+       
+      Since result set may vary in size among different queries or systems, to compare performances the normalised version of DCG uses an ideal DCG. To this end, it sorts documents of a result list by relevance, producing an ideal DCG at position p (
+           
+            
+             
+             
+              I
+              
+             
+              D
+              
+             
+              C
+              
+              
+              
+               G
+               
+               
+               
+                p
+                
+               
+              
+             
+            
+           
+            }
+            
+           
+         ), which normalizes the score:  
+      
+       
+        
+            
+             
+              
+               
+               
+                n
+                
+               
+                D
+                
+               
+                C
+                
+                
+                
+                 G
+                 
+                 
+                 
+                  p
+                  
+                 
+                
+               
+              
+               =
+               
+               
+                
+                 
+                 
+                  D
+                  
+                 
+                  C
+                  
+                  
+                  
+                   G
+                   
+                   
+                   
+                    p
+                    
+                   
+                  
+                 
+                 
+                 
+                  I
+                  
+                 
+                  D
+                  
+                 
+                  C
+                  
+                 
+                  G
+                  
+                  
+                  
+                   p
+                   
+                  
+                 
+                
+               
+              
+               .
+               
+              
+             
+            
+             } =}}}.}
+             
+            
+          
+       
+       
+      The nDCG values for all queries can be averaged to obtain a measure of the average performance of a ranking algorithm. Note that in a perfect ranking algorithm, the 
+           
+            
+             
+             
+              D
+              
+             
+              C
+              
+              
+              
+               G
+               
+               
+               
+                p
+                
+               
+              
+             
+            
+           
+            }
+            
+           
+          will be the same as the 
+           
+            
+             
+             
+              I
+              
+             
+              D
+              
+             
+              C
+              
+              
+              
+               G
+               
+               
+               
+                p
+                
+               
+              
+             
+            
+           
+            }
+            
+           
+          producing an nDCG of 1.0. All nDCG calculations are then relative values on the interval 0.0 to 1.0 and so are cross-query comparable.  
+      Other measures 
+      
+       Mean reciprocal rank 
+       Spearman's rank correlation coefficient 
+       bpref - a summation-based measure of how many relevant documents are ranked before irrelevant documents 
+       GMAP - geometric mean of (per-topic) average precision 
+       Measures based on marginal relevance and document diversity - see Relevance (information retrieval) §&nbsp;Problems and alternatives 
+       Measures of both relevance and credibility (for fake news in search results)
+       
+      Visualization 
+      Visualizations of information retrieval performance include:  
+      
+       Graphs which chart precision on one axis and recall on the other 
+       Histograms of average precision over various topics 
+       Receiver operating characteristic (ROC curve) 
+       Confusion matrix
+       
+      Non-metrics 
+      Top queries list 
+      Top queries is noting the most common queries over a fixed amount of time. The top queries list assists in knowing the style of queries entered by users.  
+      Non-relevance metrics 
+      Queries per time 
+      Measuring how many queries are performed on the search system per (month/day/hour/minute/sec) tracks the utilization of the search system. It can be used for diagnostics to indicate an unexpected spike in queries, or simply as a baseline when comparing with other metrics, like query latency. For example, a spike in query traffic, may be used to explain a spike in query latency.  
+      See also 
+      
+       Universal IR Evaluation 
+       Learning to rank
+       
+      References 
+      
+       
+       
+         
+         ^ American Marketing Association Dictionary.  Retrieved 2012-11-02. The Marketing Accountability Standards Board (MASB) endorses this definition as part of its ongoing Common Language in Marketing Project.  
+         ^ a b Zhu, Mu (2004). "Recall, Precision and Average Precision" (PDF). Archived from the original (PDF) on 2011-05-04. }: Cite journal requires |journal= (help)  
+         ^ 
+           Turpin, Andrew; Scholer, Falk (2006). User performance versus precision measures for simple search tasks. Proceedings of the 29th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval (Seattle, WA, August 06–11, 2006). New York, NY: ACM. pp.&nbsp;11–18. CiteSeerX&nbsp;10.1.1.533.4100. doi:10.1145/1148170.1148176. ISBN&nbsp;978-1-59593-369-0. S2CID&nbsp;9810253.  
+         ^ a b 
+           Everingham, Mark; Van Gool, Luc; Williams, Christopher K. I.; Winn, John; Zisserman, Andrew (June 2010). "The PASCAL Visual Object Classes (VOC) Challenge" (PDF). International Journal of Computer Vision. 88 (2): 303–338. doi:10.1007/s11263-009-0275-4. hdl:20.500.11820/88a29de3-6220-442b-ab2d-284210cf72d6. S2CID&nbsp;4246903. Archived from the original (PDF) on 2011-11-20. Retrieved 2011-08-29.  
+         ^ a b 
+           Manning, Christopher D.; Raghavan, Prabhakar; Schütze, Hinrich (2008). Introduction to Information Retrieval. Cambridge University Press.  
+         ^ 
+           "The PASCAL Visual Object Classes Challenge 2012 (VOC2012) Development Kit". host.robots.ox.ac.uk. Retrieved 2019-03-23.  
+         ^ K.H. Brodersen, C.S. Ong, K.E. Stephan, J.M. Buhmann (2010). The binormal assumption on precision-recall curves Archived December 8, 2012, at the Wayback Machine. Proceedings of the 20th International Conference on Pattern Recognition, 4263-4266.  
+         ^ 
+           Kalervo, J~irvelin (2017). "IR evaluation methods for retrieving highly relevant documents" (PDF). ACM SIGIR Forum. 51, 2: 243–250.  
+         ^ a b c 
+           Christopher D. Manning; Prabhakar Raghavan &amp; Hinrich Schütze (2009). "Chapter 8: Evaluation in information retrieval" (PDF). Retrieved 2015-06-14. Part of Introduction to Information Retrieval   
+         ^ a b c d e http://trec.nist.gov/pubs/trec15/appendices/CE.MEASURES06.pdf  
+         ^ 
+           Fawcett, Tom (2006). "An Introduction to ROC Analysis" (PDF). Pattern Recognition Letters. 27 (8): 861–874. doi:10.1016/j.patrec.2005.10.010.  
+         ^ 
+           Piryonesi S. Madeh; El-Diraby Tamer E. (2020-03-01). "Data Analytics in Asset Management: Cost-Effective Prediction of the Pavement Condition Index". Journal of Infrastructure Systems. 26 (1): 04019036. doi:10.1061/(ASCE)IS.1943-555X.0000512.  
+         ^ 
+           Powers, David M. W. (2011). "Evaluation: From Precision, Recall and F-Measure to ROC, Informedness, Markedness &amp; Correlation". Journal of Machine Learning Technologies. 2 (1): 37–63.  
+         ^ 
+           Ting, Kai Ming (2011). Sammut, Claude; Webb, Geoffrey I. (eds.). Encyclopedia of machine learning. Springer. doi:10.1007/978-0-387-30164-8. ISBN&nbsp;978-0-387-30164-8.  
+         ^ 
+           Brooks, Harold; Brown, Barb; Ebert, Beth; Ferro, Chris; Jolliffe, Ian; Koh, Tieh-Yong; Roebber, Paul; Stephenson, David (2015-01-26). "WWRP/WGNE Joint Working Group on Forecast Verification Research". Collaboration for Australian Weather and Climate Research. World Meteorological Organisation. Retrieved 2019-07-17.  
+         ^ 
+           Chicco D.; Jurman G. (January 2020). "The advantages of the Matthews correlation coefficient (MCC) over F1 score and accuracy in binary classification evaluation". BMC Genomics. 21 (1): 6-1–6-13. doi:10.1186/s12864-019-6413-7. PMC&nbsp;6941312. PMID&nbsp;31898477.  
+         ^ 
+           Chicco D.; Toetsch N.; Jurman G. (February 2021). "The Matthews correlation coefficient (MCC) is more reliable than balanced accuracy, bookmaker informedness, and markedness in two-class confusion matrix evaluation". BioData Mining. 14 (13): 1-22. doi:10.1186/s13040-021-00244-z. PMC&nbsp;7863449. PMID&nbsp;33541410.  
+         ^ 
+           Tharwat A. (August 2018). "Classification assessment methods". Applied Computing and Informatics. doi:10.1016/j.aci.2018.08.003.  
+         ^ 
+           C. Lioma; J. G. Simonsen; B. Larsen (2017). "Evaluation Measures for Relevance and Credibility in Ranked Lists" (PDF). Proceedings of the ACM SIGIR International Conference on Theory of Information Retrieval, 91-98.  
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;oldid=1058821761"
+     
+     
+    
+     
+      Categories: 
+      
+       Information retrieval
+       Information retrieval evaluation
+       Internet search engines
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 errors: missing periodical
+       Webarchive template wayback links
+       All articles with unsourced statements
+       Articles with unsourced statements from January 2021
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+       
+      
+       Add links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 5 December 2021, at 19:56&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

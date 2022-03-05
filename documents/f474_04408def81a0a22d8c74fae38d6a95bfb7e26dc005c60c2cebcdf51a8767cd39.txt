@@ -1,0 +1,270 @@
+
+ 
+  
+   
+  View source for Information science - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   View source for Information science 
+    
+    
+     ← Information science
+     
+     
+     Jump to navigation Jump to search 
+    
+     You do not have permission to edit this page, for the following reasons:  
+      
+       
+        
+        
+          
+           
+           
+            
+             You are currently unable to edit Wikipedia.
+             
+            Editing from your IP address range (185.242.5.0/24) has been blocked (disabled) on all Wikimedia wikis until 20:14, 15 August 2023 by Martin Urbanec (meta.wikimedia.org) for the following reason:  
+             
+            
+             No open proxies: please read the FAQ should you be affected
+             
+            This block began on 20:14, 15 August 2020 
+            Your current IP address is 185.242.5.178. Please include all above details in any queries you make. 
+            If you believe you were blocked by mistake, you can find additional information and instructions in the No open proxies global policy. Otherwise, to discuss the block post a request for review on Meta-Wiki or send an email to the stewards Volunteer Response Team queue at stewards@wikimedia.org including all above details.  
+            
+         
+        
+        
+       
+        
+        
+          You are currently unable to edit Wikipedia due to a block affecting this IP address.
+         This does not affect your ability to read Wikipedia pages.
+        
+         
+        Most people who see this message have done nothing wrong. Some kinds of blocks restrict editing from specific service providers or telecom companies in response to recent abuse or vandalism, and affect other users who are unrelated to that abuse. See below if you do not believe you have done anything wrong.
+         
+        Editing from 185.242.4.0/22 has been blocked (disabled) by ‪ST47‬ for the following reason(s):  
+         
+          
+          
+           
+          The IP address that you are currently using has been blocked because it is believed to be a web host provider or colocation provider. To prevent abuse, web hosts and colocation providers may be blocked from editing Wikipedia. 
+          
+           You will not be able to edit Wikipedia using a web host or colocation provider because it hides your IP address, much like a proxy or VPN. 
+           We recommend that you attempt to use another connection to edit. For example, if you use a proxy or VPN to connect to the internet, turn it off when editing Wikipedia. If you edit using a mobile connection, try using a Wi-Fi connection, and vice versa. If you have a Wikipedia account, please log in. If you do not have any other way to edit Wikipedia, you will need to request an IP block exemption. 
+           If you are confident that you are not using a web host, you may appeal this block by adding the following text on your talk page: }. You must fill in the blank with your IP address for this block to be investigated. Your IP address can be determined here. Alternatively, if you wish to keep your IP address private you can use the unblock ticket request system. There are several reasons you might be editing using the IP address of a web host or colocation provider (such as if you are using VPN software or a business network); please use this method of appeal only if you think your IP address is in fact not a web host or colocation provider. 
+           Administrators: The IP block exemption user right should only be applied to allow users to edit using web host in exceptional circumstances, and requests should usually be directed to the functionaries team via email. If you intend to give the IPBE user right, a CheckUser needs to take a look at the account. This can be requested most easily at SPI Quick Checkuser Requests. Unblocking an IP or IP range with this template is highly discouraged without at least contacting the blocking administrator.  
+          
+          
+         
+        This block has been set to expire: 21:09, 18 June 2023.  
+        
+        Even when blocked, you will usually still be able to edit your user talk page, and email administrators and other editors. 
+        For information on how to proceed, first see the FAQ for blocked users and the guideline on block appeals. The guide to appealing blocks may also be helpful. 
+        Other useful links: Blocking policy · Help:I have been blocked  
+        
+     
+      
+     
+      You can view and copy the source of this page:
+     == Information dissemination in the 21st century ==
+
+===Changing definition===
+] has historically been interpreted as unilateral communication of information. With the advent of the ], and the explosion in popularity of ], "] has changed the information landscape in many respects, and creates both new modes of communication and new types of information",&lt;ref name=embedded&gt;}&lt;/ref&gt; changing the interpretation of the definition of dissemination. The nature of social networks allows for faster diffusion of information than through organizational sources.&lt;ref name=diffusion&gt;Zhang, B., Semenov, A., Vos, M. and Veijlainen, J. (2014). Understanding fast diffusion of information in the social media environment: A comparison of two cases. In ''ICC 2014 Conference Proceedings'', 522–533&lt;/ref&gt; The internet has changed the way we view, use, create, and store information, now it is time to re-evaluate the way we share and spread it.
+
+===Impact of social media on people and industry===
+
+Social media networks provide an open information environment for the mass of people who have limited time or access to traditional outlets of information diffusion,&lt;ref name=diffusion /&gt; this is an "increasingly mobile and social world  demands...new types of information skills".&lt;ref name=embedded /&gt; Social media integration as an access point is a very useful and mutually beneficial tool for users and providers. All major news providers have visibility and an access point through networks such as ] and ] maximizing their breadth of audience. Through social media people are directed to, or provided with, information by people they know. The ability to "share, like, and comment on...content"&lt;ref name=facebook&gt;Thompson, M. (2012). Share This. ''EContent''. 14–19&lt;/ref&gt; increases the reach farther and wider than traditional methods. People like to interact with information, they enjoy including the people they know in their circle of knowledge. Sharing through social media has become so influential that publishers must "play nice" if they desire to succeed. Although, it is often mutually beneficial for publishers and Facebook to "share, promote and uncover new content"&lt;ref name=facebook /&gt; to improve both user base experiences. The impact of popular opinion can spread in unimaginable ways. Social media allows interaction through simple to learn and access tools; '']'' offers an app through Facebook, and '']'' goes a step further and offers an independent social app that was downloaded by 19.5 million users in 6 months,&lt;ref name=facebook /&gt; proving how interested people are in the new way of being provided information.
+
+===Social media's power to facilitate topics===
+
+The connections and networks sustained through social media help information providers learn what is important to people. The connections people have throughout the world enable the exchange of information at an unprecedented rate. It is for this reason that these networks have been realized for the potential they provide. "Most news media monitor Twitter for breaking news",&lt;ref name=diffusion /&gt; as well as news anchors frequently request the audience to tweet pictures of events.&lt;ref name=facebook /&gt; The users and viewers of the shared information have earned "opinion-making and agenda-setting power"&lt;ref name=diffusion /&gt; This channel has been recognized for the usefulness of providing targeted information based on public demand.
+
+     
+     Return to Information science. 
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/wiki/Information_science"
+     
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Page information
+       Wikidata item
+       
+      
+     
+     
+      Languages  
+      
+       
+      
+       
+       
+      
+     
+    
+   
+   
+    
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+    
+ 

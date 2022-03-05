@@ -1,0 +1,1254 @@
+
+ 
+  
+   
+  Semantics - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Semantics 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Study of meaning in language
+       
+      
+      
+       For the branch of computer science, see Semantics (computer science). For other uses, see Semantics (disambiguation).
+       
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           It has been suggested that this article be split into multiple articles. (Discuss) (September 2020)
+          
+        
+       
+       
+      
+      
+       
+        
+         Semantics
+        
+        
+          
+          
+           
+            Linguistic
+            Logical
+           
+          
+        
+        
+          
+          
+          
+           
+            
+              Subfields
+            
+            
+              
+               
+               
+                Computational 
+                Lexical (lexis, lexicology) 
+                Statistical 
+                Structural
+                
+               
+            
+            
+              Topics
+            
+            
+              
+              
+               Analysis 
+               Compositionality 
+               Context (language use) 
+               
+                
+                 
+                  Prototype theory
+                  Force dynamics
+                 
+                 
+               Unsolved linguistics problems 
+               Theory of descriptions
+               
+            
+           
+           
+        
+        
+          Computing
+        
+        
+          
+          
+          
+           
+            
+              Types
+            
+            
+              
+               
+               
+                Action 
+                Algebraic 
+                Axiomatic 
+                Categorical 
+                Concurrency 
+                Denotational 
+                Game 
+                Operational 
+                Predicate transformational
+                
+               
+            
+            
+              Theory
+            
+            
+              
+              
+               Abstract interpretation 
+               Abstract semantic graph 
+               Semantic matching
+               
+            
+            
+              Analysis
+            
+            
+              
+               
+               
+                Latent 
+                Machine-learning
+                
+               
+            
+            
+              Applications
+            
+            
+              
+              
+               Semantic file system 
+               
+                
+                 
+                  Semantic Web
+                  Semantic wiki
+                 
+                
+               
+            
+           
+           
+        
+        
+          
+          
+           Language 
+           Linguistics
+          
+        
+        
+         
+          
+           
+            v
+            t
+            e
+           
+          
+        
+       
+       
+      Semantics (from Ancient Greek: σημαντικός sēmantikós, "significant") is the study of reference, meaning, or truth. The term can be used to refer to subfields of several distinct disciplines, including philosophy, linguistics and computer science.  
+      
+       
+       
+        Contents
+        
+        
+        1 Linguistics 
+          
+          1.1 Disciplines and paradigms in linguistic semantics 
+            
+            1.1.1 Formal semantics 
+            1.1.2 Conceptual semantics 
+            1.1.3 Cognitive semantics 
+            1.1.4 Lexical semantics 
+            1.1.5 Cross-cultural semantics 
+            1.1.6 Computational semantics 
+             
+           
+        2 Philosophy 
+        3 Computer science 
+          
+          3.1 Programming languages 
+          3.2 Semantic models 
+           
+        4 Psychology 
+          
+          4.1 Semantic memory 
+          4.2 Ideasthesia 
+          4.3 Psychosemantics 
+          4.4 Prototype theory 
+           
+        5 See also 
+        6 Notes 
+        7 References 
+        8 External links 
+        
+       
+      Linguistics 
+      In linguistics, semantics is the subfield that studies meaning. Semantics can address meaning at the levels of words, phrases, sentences, or larger units of discourse. Two of the fundamental issues in the field of semantics are that of compositional semantics (which pertains on how smaller parts, like words, combine and interact to form the meaning of larger expressions such as sentences) and lexical semantics (the nature of the meaning of words). Other prominent issues are those of context and its role on interpretation, opaque contexts, ambiguity, vagueness, entailment and presuppositions. 
+      Several disciplines and approaches have contributed to the often contentious field of semantics. One of the crucial questions which unites different approaches to linguistic semantics is that of the relationship between form and meaning, and some major contributions to the study of semantics have derived from studies in the 1980–1990s in related subjects of the syntax–semantics interface and pragmatics. 
+      The semantic level of language interacts with other modules or levels (like syntax) in which language is traditionally divided. In linguistics, it is typical to talk in terms of "interfaces" regarding such interactions between modules or levels. For semantics, the most crucial interfaces are considered those with syntax (the syntax–semantics interface), pragmatics and phonology (regarding prosody and intonation).  
+      Disciplines and paradigms in linguistic semantics 
+      Formal semantics 
+      
+      
+       Main article: Formal semantics (linguistics)
+       
+      Formal semantics seeks to identify domain-specific mental operations which speakers perform when they compute a sentence's meaning on the basis of its syntactic structure. Theories of formal semantics are typically floated on top of theories of syntax such as generative syntax or combinatory categorial grammar and provide a model theory based on mathematical tools such as typed lambda calculi. The field's central ideas are rooted in early twentieth century philosophical logic, as well as later ideas about linguistic syntax. It emerged as its own subfield in the 1970s after the pioneering work of Richard Montague and Barbara Partee and continues to be an active area of research.  
+      Conceptual semantics 
+      
+      
+       Main article: Conceptual semantics
+       
+      This theory is an effort to explain properties of argument structure. The assumption behind this theory is that syntactic properties of phrases reflect the meanings of the words that head them. With this theory, linguists can better deal with the fact that subtle differences in word meaning correlate with other differences in the syntactic structure that the word appears in. The way this is gone about is by looking at the internal structure of words. These small parts that make up the internal structure of words are termed semantic primitives.  
+      Cognitive semantics 
+      
+      
+       Main article: Cognitive semantics
+       
+      Cognitive semantics approaches meaning from the perspective of cognitive linguistics. In this framework, language is explained via general human cognitive abilities rather than a domain-specific language module. The techniques native to cognitive semantics are typically used in lexical studies such as those put forth by Leonard Talmy, George Lakoff, Dirk Geeraerts, and Bruce Wayne Hawkins. Some cognitive semantic frameworks, such as that developed by Talmy, take into account syntactic structures as well.  
+      Lexical semantics 
+      
+      
+       Main article: Lexical semantics
+       
+      A linguistic theory that investigates word meaning. This theory understands that the meaning of a word is fully reflected by its context. Here, the meaning of a word is constituted by its contextual relations. Therefore, a distinction between degrees of participation as well as modes of participation are made. In order to accomplish this distinction, any part of a sentence that bears a meaning and combines with the meanings of other constituents is labeled as a semantic constituent. Semantic constituents that cannot be broken down into more elementary constituents are labeled minimal semantic constituents.  
+      Cross-cultural semantics 
+      Various fields or disciplines have long been contributing to cross-cultural semantics. Are words like love, truth, and hate universals? Is even the word sense – so central to semantics – a universal, or a concept entrenched in a long-standing but culture-specific tradition? These are the kind of crucial questions that are discussed in cross-cultural semantics. Translation theory, ethnolinguistics, linguistic anthropology and cultural linguistics specialize in the field of comparing, contrasting, and translating words, terms and meanings from one language to another (see Herder, W. von Humboldt, Boas, Sapir, and Whorf). But philosophy, sociology, and anthropology have long established traditions in contrasting the different nuances of the terms and concepts we use. And online encyclopaedias such as the Stanford Encyclopedia of Philosophy, and more and more Wikipedia itself have greatly facilitated the possibilities of comparing the background and usages of key cultural terms. In recent years the question of whether key terms are translatable or untranslatable has increasingly come to the fore of global discussions, especially since the publication of Barbara Cassin's Dictionary of Untranslatables: A Philosophical Lexicon, in 2014.  
+      Computational semantics 
+      
+      
+       Main article: Computational semantics
+       
+      Computational semantics is focused on the processing of linguistic meaning. In order to do this, concrete algorithms and architectures are described. Within this framework the algorithms and architectures are also analyzed in terms of decidability, time/space complexity, data structures that they require and communication protocols.  
+      Philosophy 
+      
+      
+       Main articles: Theory of reference and Meaning (philosophy of language)
+       
+      Many of the formal approaches to semantics in mathematical logic and computer science originated in early twentieth century philosophy of language and philosophical logic. Initially, the most influential semantic theory stemmed from Gottlob Frege and Bertrand Russell. Frege and Russell are seen as the originators of a tradition in analytic philosophy to explain meaning compositionally via syntax and mathematical functionality. Ludwig Wittgenstein, a former student of Russell, is also seen as one of the seminal figures in the analytic tradition. All three of these early philosophers of language were concerned with how sentences expressed information in the form of propositions. They also dealt with the truth values or truth conditions a given sentence has in virtue of the proposition it expresses. 
+      In present day philosophy, the term "semantics" is often used to refer to linguistic formal semantics, which bridges both linguistics and philosophy. There is also an active tradition of metasemantics, which studies the foundations of natural language semantics.  
+      Computer science 
+      
+      
+       Main article: Semantics (computer science)
+       
+      In computer science, the term semantics refers to the meaning of language constructs, as opposed to their form (syntax). According to Euzenat, semantics "provides the rules for interpreting the syntax which do not provide the meaning directly but constrains the possible interpretations of what is declared".  
+      Programming languages 
+      The semantics of programming languages and other languages is an important issue and area of study in computer science. Like the syntax of a language, its semantics can be defined exactly. 
+      For instance, the following statements use different syntaxes, but cause the same instructions to be executed, namely, perform an arithmetical addition of 'y' to 'x' and store the result in a variable called 'x':  
+       
+       
+         
+         Statement  
+         Programming languages 
+         
+         
+         x += y  
+         C, C++, C#, Java, JavaScript, Python, Ruby, etc. 
+         
+         
+         $x += $y  
+         Perl, PHP 
+         
+         
+         x&nbsp;:= x + y  
+         Ada, ALGOL, ALGOL 68, BCPL, Dylan, Eiffel, J, Modula-2, Oberon, OCaml, Object Pascal (Delphi), Pascal, SETL, Simula, Smalltalk, Standard ML, VHDL, etc. 
+         
+         
+         MOV EAX, ADD ,EAX  
+         Assembly languages: Intel 8086 
+         
+         
+         ldr r2, ldr r3, add r3, r3, r2str r3,   
+         Assembly languages: ARM 
+         
+         
+         LET X = X + Y  
+         BASIC: early 
+         
+         
+         x = x + y  
+         BASIC: most dialects; Fortran, MATLAB, Lua 
+         
+         
+         Set x = x + y  
+         Caché ObjectScript 
+         
+         
+         ADD Y TO X.  
+         ABAP 
+         
+         
+         ADD Y TO X GIVING X  
+         COBOL 
+         
+         
+         set /a x=%x%+%y%  
+         Batch 
+         
+         
+         (incf x y)  
+         Common Lisp 
+         
+         
+         /x y x add def  
+         PostScript 
+         
+         
+         y @ x +!   
+         Forth 
+        
+       
+       
+      Various ways have been developed to describe the semantics of programming languages formally, building on mathematical logic:  
+      
+       Operational semantics: The meaning of a construct is specified by the computation it induces when it is executed on a machine. In particular, it is of interest how the effect of a computation is produced. 
+       Denotational semantics: Meanings are modelled by mathematical objects that represent the effect of executing the constructs. Thus only the effect is of interest, not how it is obtained. 
+       Axiomatic semantics: Specific properties of the effect of executing the constructs are expressed as assertions. Thus there may be aspects of the executions that are ignored.
+       
+      Semantic models 
+      
+      
+       See also: Ontology (information science)
+       
+      The Semantic Web refers to the extension of the World Wide Web via embedding added semantic metadata, using semantic data modeling techniques such as Resource Description Framework (RDF) and Web Ontology Language (OWL). On the Semantic Web, terms such as semantic network and semantic data model are used to describe particular types of data model characterized by the use of directed graphs in which the vertices denote concepts or entities in the world and their properties, and the arcs denote relationships between them. These can formally be described as description logic concepts and roles, which correspond to OWL classes and properties.  
+      Psychology 
+      
+      
+       Main article: Semantics (psychology)
+       
+      Semantic memory 
+      In psychology, semantic memory is memory for meaning&nbsp;– in other words, the aspect of memory that preserves only the gist, the general significance, of remembered experience&nbsp;– while episodic memory is memory for the ephemeral details&nbsp;– the individual features, or the unique particulars of experience. The term "episodic memory" was introduced by Tulving and Schacter in the context of "declarative memory", which involved simple association of factual or objective information concerning its object. Word meaning is measured by the company they keep, i.e. the relationships among words themselves in a semantic network. The memories may be transferred intergenerationally or isolated in one generation due to a cultural disruption. Different generations may have different experiences at similar points in their own time-lines. This may then create a vertically heterogeneous semantic net for certain words in an otherwise homogeneous culture. In a network created by people analyzing their understanding of the word (such as Wordnet) the links and decomposition structures of the network are few in number and kind, and include part of, kind of, and similar links. In automated ontologies the links are computed vectors without explicit meaning. Various automated technologies are being developed to compute the meaning of words: latent semantic indexing and support vector machines, as well as natural language processing, artificial neural networks and predicate calculus techniques.  
+      Ideasthesia 
+      Ideasthesia is a psychological phenomenon in which activation of concepts evokes sensory experiences. For example, in synesthesia, activation of a concept of a letter (e.g., that of the letter A) evokes sensory-like experiences (e.g., of red color).  
+      Psychosemantics 
+      In the 1960s, psychosemantic studies became popular after Charles E. Osgood's massive cross-cultural studies using his semantic differential (SD) method that used thousands of nouns and adjective bipolar scales. A specific form of the SD, Projective Semantics method uses only most common and neutral nouns that correspond to the 7 groups (factors) of adjective-scales most consistently found in cross-cultural studies (Evaluation, Potency, Activity as found by Osgood, and Reality, Organization, Complexity, Limitation as found in other studies). In this method, seven groups of bipolar adjective scales corresponded to seven types of nouns so the method was thought to have the object-scale symmetry (OSS) between the scales and nouns for evaluation using these scales. For example, the nouns corresponding to the listed 7 factors would be: Beauty, Power, Motion, Life, Work, Chaos, Law. Beauty was expected to be assessed unequivocally as "very good" on adjectives of Evaluation-related scales, Life as "very real" on Reality-related scales, etc. However, deviations in this symmetric and very basic matrix might show underlying biases of two types: scales-related bias and objects-related bias. This OSS design meant to increase the sensitivity of the SD method to any semantic biases in responses of people within the same culture and educational background.  
+      Prototype theory 
+      Another set of concepts related to fuzziness in semantics is based on prototypes. The work of Eleanor Rosch in the 1970s led to a view that natural categories are not characterizable in terms of necessary and sufficient conditions, but are graded (fuzzy at their boundaries) and inconsistent as to the status of their constituent members. One may compare it with Jung's archetype, though the concept of archetype sticks to static concept. Some post-structuralists are against the fixed or static meaning of the words. Derrida, following Nietzsche, talked about slippages in fixed meanings. 
+      Systems of categories are not objectively out there in the world but are rooted in people's experience. These categories evolve as learned concepts of the world&nbsp;– meaning is not an objective truth, but a subjective construct, learned from experience, and language arises out of the "grounding of our conceptual systems in shared embodiment and bodily experience". A corollary of this is that the conceptual categories (i.e. the lexicon) will not be identical for different cultures, or indeed, for every individual in the same culture. This leads to another debate (see the Sapir–Whorf hypothesis or Eskimo words for snow).  
+      See also 
+      
+       Semantic technology
+       
+      Notes 
+      
+       
+       
+         
+         ^ The word is derived from the Ancient Greek word σημαντικός (semantikos), "related to meaning, significant", from σημαίνω semaino, "to signify, to indicate", which is from σῆμα sema, "sign, mark, token". The plural is used in analogy with words similar to physics, which was in the neuter plural in Ancient Greek and meant "things relating to nature".  
+        
+       
+       
+      References 
+      
+       
+       
+         
+         ^ σημαντικός. Liddell, Henry George; Scott, Robert; A Greek–English Lexicon at the Perseus Project.  
+         ^ a b c d e Partee, B. (1999) Semantics in R. A. Wilson and F. C. Keil (eds.) The MIT Encyclopedia of the Cognitive Sciences, Cambridge, MA: The MIT Press. 739–742.  
+         ^ Kroeger, Paul (2019). Analyzing Meaning. Language Science Press. pp.&nbsp;4–6. ISBN&nbsp;978-3-96110-136-8.  
+         ^ a b Levin, Beth; Pinker, Steven; Lexical &amp; Conceptual Semantics, Blackwell, Cambridge, Massachusetts, 1991.  
+         ^ a b Jackendoff, Ray; Semantic Structures, MIT Press, Cambridge, Massachusetts, 1990.  
+         ^ 
+           Goldstein, E. Bruce (2015). Cognitive psychology&nbsp;: connecting mind, research and everyday experience (4th&nbsp;ed.). New York: Cengage learning. ISBN&nbsp;978-1-285-76388-0. OCLC&nbsp;885178247.  
+         ^ a b c Cruse, D.; Lexical Semantics, Cambridge University Press, Cambridge, Massachusetts, 1986.  
+         ^ Underhill, James, W. Ethnolinguistics and Cultural Concepts: truth, love, hate &amp; war, Cambridge University Press, 2012.  
+         ^ Wierzbicka, Anna. Experience, Evidence, and Sense: The hidden cultural legacy of English, Oxford University Press, 2010.  
+         ^ Cassin, Barbara. Dictionary of Untranslatables: A Philosophical Lexicon, Princeton University Press, 2014.  
+         ^ Sadow, Lauren, ed. In Conversation with Anna Wierzbicka – How English shapes our Anglo world on YouTube.  
+         ^ Nerbonne, J.; The Handbook of Contemporary Semantic Theory (ed. Lappin, S.), Blackwell Publishing, Cambridge, Massachusetts, 1996.  
+         ^ "Theories of Meaning". Stanford Encyclopedia of Philosophy.  
+         ^ Alexis Burgess, Brett Sherman (eds.), Metasemantics: New Essays on the Foundations of Meaning, Oxford University Press, 2014, p. 29 n. 13.  
+         ^ Euzenat, Jerome. Ontology Matching. Springer-Verlag Berlin Heidelberg, 2007, p. 36.  
+         ^ 
+           Nielson, Hanne Riis; Nielson, Flemming (1995). Semantics with Applications, A Formal Introduction (1st&nbsp;ed.). Chicester, England: John Wiley &amp; Sons. ISBN&nbsp;0-471-92980-8.  
+         ^ 
+           Sikos, Leslie F. (2017). Description Logics in Multimedia Reasoning. Cham: Springer International Publishing. doi:10.1007/978-3-319-54066-5. ISBN&nbsp;978-3-319-54066-5. S2CID&nbsp;3180114.  
+         ^ Giannini, A. J.; Semiotic and Semantic Implications of "Authenticity", Psychological Reports, 106(2):611–612, 2010.  
+         ^ 
+           Trofimova, I (2014). "Observer bias: how temperament matters in semantic perception of lexical material". PLOS ONE. 9 (1): e85677. doi:10.1371/journal.pone.0085677. PMC&nbsp;3903487. PMID&nbsp;24475048.  
+         ^ 
+           Trofimova, I (1999). "How people of different age sex and temperament estimate the world". Psychological Reports. 85/2: 533–552. doi:10.2466/pr0.85.6.533-552.  
+         ^ 
+           Trofimova, I (2012). "Understanding misunderstanding: a study of sex differences in meaning attribution". Psychological Research. 77/6 (6): 748–760. doi:10.1007/s00426-012-0462-8. PMID&nbsp;23179581. S2CID&nbsp;4828135.  
+         ^ 
+           Lakoff, George; Johnson, Mark (1999). Philosophy in the Flesh: The embodied mind and its challenge to Western thought. Chapter 1. New York, NY: Basic Books. OCLC&nbsp;93961754.  
+        
+       
+       
+      External links 
+       
+       
+         
+          
+         Wikimedia Commons has media related to Semantics.
+         
+       
+      
+       
+       
+         
+          
+         Look up semantics in Wiktionary, the free dictionary.
+         
+       
+      
+       
+       
+         
+          
+         Wikibooks has a book on the topic of: Linguistics/Semantics
+         
+       
+       
+      
+       Semanticsarchive.net 
+       Teaching page for GCE Advanced Level semantics 
+       "Semantics: an interview with Jerry Fodor" (ReVEL, vol.&nbsp;5, no.&nbsp;8 (2007))
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Philosophy of language
+           
+         
+         
+          
+           
+            Index of language articles
+           
+         
+         
+          Philosophers
+          
+            
+            
+             Plato (Cratylus) 
+             Gorgias 
+             Confucius 
+             Xunzi 
+             Aristotle 
+             Stoics 
+             Pyrrhonists 
+             Scholasticism 
+             Ibn Rushd 
+             Ibn Khaldun 
+             Thomas Hobbes 
+             Gottfried Wilhelm Leibniz 
+             Johann Herder 
+             Ludwig Noiré 
+             Wilhelm von Humboldt 
+             Fritz Mauthner 
+             Paul Ricœur 
+             Ferdinand de Saussure 
+             Gottlob Frege 
+             Franz Boas 
+             Paul Tillich 
+             Edward Sapir 
+             Leonard Bloomfield 
+             Zhuangzi 
+             Henri Bergson 
+             Lev Vygotsky 
+             Ludwig Wittgenstein 
+              
+               Philosophical Investigations 
+               Tractatus Logico-Philosophicus
+               
+             Bertrand Russell 
+             Rudolf Carnap 
+             Jacques Derrida 
+              
+               Of Grammatology 
+               Limited Inc
+               
+             Benjamin Lee Whorf 
+             Gustav Bergmann 
+             J. L. Austin 
+             Noam Chomsky 
+             Hans-Georg Gadamer 
+             Saul Kripke 
+             A. J. Ayer 
+             G. E. M. Anscombe 
+             Jaakko Hintikka 
+             Michael Dummett 
+             Donald Davidson 
+             Roger Gibson 
+             Paul Grice 
+             Gilbert Ryle 
+             P. F. Strawson 
+             Willard Van Orman Quine 
+             Hilary Putnam 
+             David Lewis 
+             Robert Stalnaker 
+             John Searle 
+             Joxe Azurmendi 
+             Scott Soames 
+             Stephen Yablo 
+             John Hawthorne 
+             Stephen Neale 
+             Paul Watzlawick 
+             Richard Montague 
+             Barbara Partee
+             
+           
+         
+         
+          Theories
+          
+            
+            
+             Causal theory of reference 
+             Contrast theory of meaning 
+             Contrastivism 
+             Conventionalism 
+             Cratylism 
+             Deconstruction 
+             Descriptivism 
+             Direct reference theory 
+             Dramatism 
+             Dynamic semantics 
+             Expressivism 
+             Inquisitive semantics 
+             Linguistic determinism 
+             Mediated reference theory 
+             Nominalism 
+             Non-cognitivism 
+             Phallogocentrism 
+             Relevance theory 
+             Semantic externalism 
+             Semantic holism 
+             Situation semantics 
+             Structuralism 
+             Supposition theory 
+             Symbiosism 
+             Theological noncognitivism 
+             Theory of descriptions (Definite description) 
+             Unilalianism 
+             Verification theory
+             
+           
+         
+         
+          Concepts
+          
+            
+            
+             Ambiguity 
+             Cant 
+             Linguistic relativity 
+             Language 
+             Truth-bearer 
+             Proposition 
+             Use–mention distinction 
+             Concept 
+             Categories 
+             Set 
+             Class 
+             Family resemblance 
+             Intension 
+             Logical form 
+             Metalanguage 
+             Mental representation 
+             Modality (natural language) 
+             Presupposition 
+             Principle of compositionality 
+             Property 
+             Sign 
+             Sense and reference 
+             Speech act 
+             Symbol 
+             Sentence 
+             Statement 
+             more...
+             
+           
+         
+         
+          Related articles
+          
+            
+            
+             Analytic philosophy 
+             Philosophy of information 
+             Philosophical logic 
+             Linguistics 
+             Pragmatics 
+             Rhetoric 
+             Semantics 
+             Formal semantics 
+             Semiotics
+             
+           
+         
+         
+          
+            
+            
+             Category 
+             Task Force 
+             Discussion
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Logic
+           
+         
+         
+          
+            
+            
+             Outline 
+             History
+             
+           
+         
+         
+          Fields
+          
+            
+            
+             Computer science 
+             Formal semantics (natural language) 
+             Inference 
+             Philosophy of logic 
+             Proof 
+             Semantics of logic 
+             Syntax
+             
+           
+           
+            
+             
+              Logics
+              
+                
+                
+                 Classical 
+                 Informal 
+                  
+                   Critical thinking 
+                   Reason
+                   
+                 Mathematical 
+                 Non-classical 
+                 Philosophical
+                 
+               
+             
+             
+              Theories
+              
+                
+                
+                 Argumentation 
+                 Metalogic 
+                 Metamathematics 
+                 Set
+                 
+               
+             
+            
+           
+            
+           
+         
+         
+          Foundations
+          
+            
+            
+             Abduction 
+             Analytic and synthetic propositions 
+             Contradiction 
+              
+               Paradox 
+               Antinomy
+               
+             Deduction 
+             Deductive closure 
+             Definition 
+             Description 
+             Entailment 
+              
+               Linguistic
+               
+             Form 
+             Induction 
+             Logical truth 
+             Name 
+             Necessity and sufficiency 
+             Premise 
+             Probability 
+             Reference 
+             Statement 
+             Substitution 
+             Truth 
+             Validity
+             
+           
+         
+         
+          Lists
+          
+           
+           
+            
+             
+              topics
+              
+                
+                
+                 Mathematical logic 
+                 Boolean algebra 
+                 Set theory
+                 
+               
+             
+             
+              other
+              
+                
+                
+                 Logicians 
+                 Rules of inference 
+                 Paradoxes 
+                 Fallacies 
+                 Logic symbols
+                 
+               
+             
+            
+           
+           
+         
+         
+          
+            
+            
+             &nbsp;Philosophy portal 
+             Category 
+             WikiProject&nbsp;(talk) 
+             changes
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Formal semantics (natural language)
+           
+         
+         
+          Central concepts
+          
+            
+            
+             Compositionality 
+             Denotation 
+             Entailment 
+             Extension 
+             Generalized quantifier 
+             Intension 
+             Logical form 
+             Presupposition 
+             Proposition 
+             Reference 
+             Scope 
+             Speech act 
+             Syntax–semantics interface 
+             Truth conditions
+             
+           
+         
+         
+          Topics
+          
+           
+           
+            
+             
+              Areas
+              
+                
+                
+                 Anaphora 
+                 Ambiguity 
+                 Binding 
+                 Conditionals 
+                 Definiteness 
+                 Disjunction 
+                 Evidentiality 
+                 Focus 
+                 Indexicality 
+                 Lexical semantics 
+                 Modality 
+                 Negation 
+                 Propositional attitudes 
+                 Tense–aspect–mood 
+                 Quantification 
+                 Vagueness
+                 
+               
+             
+             
+              Phenomena
+              
+                
+                
+                 Antecedent-contained deletion 
+                 Cataphora 
+                 Coercion 
+                 Conservativity 
+                 Counterfactuals 
+                 Cumulativity 
+                 De dicto and de re 
+                 De se 
+                 Deontic modality 
+                 Discourse relations 
+                 Donkey anaphora 
+                 Epistemic modality 
+                 Faultless disagreement 
+                 Free choice inferences 
+                 Givenness 
+                 Crossover effects 
+                 Hurford disjunction 
+                 Inalienable possession 
+                 Intersective modification 
+                 Logophoricity 
+                 Mirativity 
+                 Modal subordination 
+                 Negative polarity items 
+                 Opaque contexts 
+                 Performatives 
+                 Privative adjectives 
+                 Quantificational variability effect 
+                 Responsive predicate 
+                 Rising declaratives 
+                 Scalar implicature 
+                 Sloppy identity 
+                 Subsective modification 
+                 Subtrigging 
+                 Telicity 
+                 Temperature paradox 
+                 Veridicality
+                 
+               
+             
+            
+           
+           
+         
+         
+          Formalism
+          
+           
+           
+            
+             
+              Formal systems
+              
+                
+                
+                 Alternative semantics 
+                 Categorial grammar 
+                 Combinatory categorial grammar 
+                 Discourse representation theory 
+                 Dynamic semantics 
+                 Frame semantics 
+                 Generative grammar 
+                 Glue semantics 
+                 Inquisitive semantics 
+                 Intensional logic 
+                 Lambda calculus 
+                 Mereology 
+                 Montague grammar 
+                 Segmented discourse representation theory 
+                 Situation semantics 
+                 Supervaluationism 
+                 Type theory 
+                 TTR
+                 
+               
+             
+             
+              Concepts
+              
+                
+                
+                 Autonomy of syntax 
+                 Context set 
+                 Continuation 
+                 Conversational scoreboard 
+                 Existential closure 
+                 Function application 
+                 Meaning postulate 
+                 Monads 
+                 Possible world 
+                 Quantifier raising 
+                 Quantization 
+                 Question under discussion 
+                 Squiggle operator 
+                 Strict conditional 
+                 Type shifter 
+                 Universal grinder
+                 
+               
+             
+            
+           
+           
+         
+         
+          See also
+          
+            
+            
+             Cognitive semantics 
+             Computational semantics 
+             Distributional semantics 
+             Formal grammar 
+             Inferentialism 
+             Linguistics wars 
+             Philosophy of language 
+             Pragmatics 
+              
+               Context 
+               Deixis
+               
+             Semantics of logic
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Semantics&amp;oldid=1062057633"
+     
+     
+    
+     
+      Categories: 
+      
+       Semantics
+       Semantics (linguistics)
+       Concepts in logic
+       Grammar
+       Linguistics terminology
+       Meaning (philosophy of language)
+       Social philosophy
+      
+     
+     
+      Hidden categories: 
+      
+       Articles containing Ancient Greek (to 1453)-language text
+       Articles with short description
+       Short description is different from Wikidata
+       Articles to be split from September 2020
+       All articles to be split
+       Commons category link is defined as the pagename
+       AC with 0 elements
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Bân-lâm-gú
+       Чӑвашла
+       Deutsch
+       Español
+       Italiano
+       עברית
+       日本語
+       Oʻzbekcha/ўзбекча
+       Polski
+       Português
+       Русский
+       Slovenčina
+       ไทย
+       Türkçe
+       Українська
+       吴语
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 26 December 2021, at 00:13&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

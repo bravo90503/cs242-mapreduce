@@ -1,0 +1,307 @@
+
+ 
+  
+   
+  Enterprise bookmarking - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Enterprise bookmarking 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      Enterprise bookmarking is a method for Web 2.0 users to tag, organize, store, and search bookmarks of both web pages on the Internet and data resources stored in a distributed database or fileserver. This is done collectively and collaboratively in a process by which users add tag (metadata) and knowledge tags. 
+      In early versions of the software, these tags are applied as non-hierarchical keywords, or terms assigned by a user to a web page, and are collected in tag clouds. Examples of this software are Connectbeam and Dogear. New versions of the software such as Jumper 2.0 and Knowledge Plaza expand tag metadata in the form of knowledge tags that provide additional information about the data and are applied to structured and semi-structured data and are collected in tag profiles.  
+      
+       
+       
+        Contents
+        
+        
+        1 History 
+        2 Differences 
+          
+          2.1 Versus social bookmarking 
+          2.2 Tag management 
+           
+        3 See also 
+        4 Notes and references 
+        
+       
+      History 
+      Enterprise bookmarking is derived from Social bookmarking that got its modern start with the launch of the web site del.icio.us in 2003. The first major announcement of an enterprise bookmarking platform was the IBM Dogear project developed in Summer 2006. Version 1.0 of the Dogear software was announced at Lotusphere 2007, and shipped later that year on June 27 as part of IBM Lotus Connections. The second significant commercial release was Cogenz in September 2007. 
+      Since these early releases, Enterprise bookmarking platforms have diverged considerably. The most significant new release was the Jumper 2.0 platform with expanded and customizable knowledge tagging fields.  
+      Differences 
+      
+      
+       See also: Comparison of enterprise bookmarking platforms
+       
+      Versus social bookmarking 
+      In a social bookmarking system, individuals create personal collections of bookmarks and share their bookmarks with others. These centrally stored collections of Internet resources can be accessed by other users to find useful resources. Often these lists are publicly accessible, so that other people with similar interests can view the links by category or by the tags themselves. Most social bookmarking sites allow users to search for bookmarks which are associated with given "tags", and rank the resources by the number of users which have bookmarked them. 
+      Enterprise bookmarking is a method of tagging and linking any information using an expanded set of tags to capture knowledge about data. It collects and indexes these tags in a web-infrastructure knowledge base server residing behind the firewall. Users can share knowledge tags with specified people or groups, shared only inside specific networks, typically within an organization. Enterprise bookmarking is a knowledge management discipline that embraces Enterprise 2.0 methodologies to capture specific knowledge and information that organizations consider proprietary and are not shared on the public Internet.  
+      Tag management 
+      Enterprise bookmarking tools also differ from social bookmarking tools in the way that they often face an existing taxonomy. Some of these tools have evolved to provide Tag management which is the combination of uphill abilities (e.g. faceted classification, predefined tags, etc.) and downhill gardening abilities (e.g. tag renaming, moving, merging) to better manage the bottom-up folksonomy generated from user tagging.  
+      See also 
+      
+       
+       
+        Enterprise search 
+        Enterprise 2.0 
+        Social bookmarking 
+        Knowledge management 
+        Knowledge tagging 
+        Web 2.0 
+        Collaborative intelligence 
+        Comparison of enterprise bookmarking platforms 
+        Bookmark manager 
+        Collaborative tagging 
+        List of social bookmarking websites 
+        List of social software 
+        Semantic Web 
+        Social networking 
+        Social software
+        
+       
+      Notes and references 
+      
+       
+        
+        ^ Scott Golder and Bernardo A. Huberman, The Structure of Collaborative Tagging Systems, Journal of Information Science, 32(2). 198–208, 2006  
+        ^ Martin Halvey and Mark T. Keane, An Assessment of Tag Presentation Techniques, poster presentation at WWW 2007, 2007  
+        ^ Sreekumar Sukumaran and Ashish Sureka, Integrating Structured and Unstructured Data Using Text Tagging and Annotation, Business Intelligence Journal, 2009  
+        ^ David Millen Jonathan Feinberg and Bernard Kerr, IBM Dogear Archived 2009-12-27 at the Portuguese Web Archive, Queue Vol. 3 No. 9 – November 2005, 2005  
+        ^ Stockwell, Thomas (January 28, 2007). "Lotus Announcements at Lotusphere 2007". MC Press Online, LP. Retrieved 4 July 2014.  
+        ^ 
+          "Cogenz takes enterprise social bookmarking behind the firewall". Webwire. 11 September 2008.  
+        ^ 
+          "Jumper Networks Press Release Jumper 2.0 Released under the GPL" (PDF). Jumper Networks, Inc. 26 March 2009. Archived from the original (PDF) on 2009-05-30.  
+        ^ David Millen Jonathan Feinberg and Bernard Kerr, Social Bookmarking in the Enterprise, Queue Vol. 3 No. 9 – November 2005, 2005  
+        ^ 
+          "Jumper 2.0 Tags the Enterprise". John Udell, Web 2.0 News. 17 April 2009. Archived from the original on 27 May 2009. Retrieved 6 May 2009.  
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Enterprise_bookmarking&amp;oldid=1004362868"
+     
+     
+    
+     
+      Categories: 
+      
+       Social bookmarking
+       World Wide Web
+       Collaboration
+       Social networking services
+       Social information processing
+       Online bookmarking services
+      
+     
+     
+      Hidden categories: 
+      
+       Webarchive template other archives
+       Articles contradicting other articles
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Polski
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 2 February 2021, at 06:55&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

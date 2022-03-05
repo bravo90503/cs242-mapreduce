@@ -1,0 +1,669 @@
+
+ 
+  
+   
+  Museology - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Museology 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Study of museums
+       
+      
+       
+         
+        
+         
+          
+         The Museum of Anthropology at UBC.
+        
+       
+       
+      Museology or museum studies is the study of museums. It explores the history of museums and their role in society, as well as the activities they engage in, including curating, preservation, public programming, and education.  
+      
+       
+       
+        Contents
+        
+        
+        1 Terminology 
+        2 Development of the field 
+        3 Operational museology 
+          
+          3.1 Public role of museums 
+           
+        4 Critical museology 
+          
+          4.1 Overview of the field 
+          4.2 Development of the field 
+          4.3 Decolonizing and indigenizing museums 
+          4.4 Feminist critique and feminist curating 
+           
+        5 New methodologies 
+          
+          5.1 Vienna Method 
+          5.2 Museum interventions 
+            
+            5.2.1 Artist interventions 
+            5.2.2 Activist interventions 
+            5.2.3 Internal institutional interventions 
+             
+          5.3 Curatorial dreaming 
+          5.4 Curating workshops, courses and labs 
+           
+        6 See also 
+        7 References 
+        8 Bibliography 
+        9 External links 
+        
+       
+      Terminology 
+      The words that are used to describe the study of museums vary depending on language and geography. For example, while “museology” is becoming more prevalent in English, it is most commonly used to refer to the study of museums in French (muséologie), Spanish (museología), German (Museologie), Italian (museologia), and Portuguese (museologia) – while English speakers more often use the term “museum studies” to refer to that same field of study. When referring to the day-to-day operations of museums, other European languages typically use derivatives of the Greek “museographia” (French: muséographie, Spanish: museografía, German: Museographie, Italian: museografia, Portuguese: museografia), while English speakers typically use the term “museum practice” or “operational museology”  
+      Development of the field 
+      The development of museology in Europe coincided with the emergence of early collectors and cabinets of curiosity in the 16th, 17th, and 18th centuries. In particular, during The Age of Enlightenment anthropologists, naturalists, and hobbyist collectors encouraged the growth of public museums that displayed natural history and ethnographic objects and art in North America and Europe. In the 18th and 19th centuries, European powers’ colonization of overseas lands was accompanied by the development of the disciplines of natural history and ethnography, and the rise of private and institutional collection building. In many cases museums became the holding places for collections that were acquired through colonial conquests, which positioned museums as key institutions in Western European colonial projects. 
+      In the 19th century, European museology was focused on framing museums as institutions that would educate and “civilize” the general public. Museums typically served nationalist interests, and their primary purpose was often to celebrate the state, country, or colonial power. Though World’s Fairs, such as The Great Exhibition of 1851 in London or the Chicago World’s Fair, were temporary, they were some of the first examples of large-scale exhibition spaces dedicated to nationalist agendas; both Britain and America wanted to assert themselves as international leaders in science and industry. In some cases world's fairs became the basis for museums. For instance, The Field Museum in Chicago grew out of the 1893 World's Columbian Exposition. 
+      Museums Association, the first professional membership organization for those working in the museum field, was established in London in 1889. In 1901, they developed Museums Journal, the first publication devoted entirely to the theory and practice of museums, and soon after other magazines appeared, like Museumskunde in Germany (1905) and the American Association of Museum’s Museum Work in the United States (1919). With the creation of the International Council of Museums (ICOM) in 1946, the study of museums gained increasing momentum and exposure, though at the time most of the scholarly focus was on operational museology, or museum practice. 
+      Beginning in the 1950s, new forms of museology were emerging as a way to revitalize the educational role of museums. One attempt to re-envision museums’ role was the concept of Ecomuseums, first proposed publicly at ICOM’s 9th International Conference in France (1971). Ecomuseums proliferated in Europe – and still exist around the world today – challenging traditional museums and dominant museum narratives, with an explicit focus on community control and the development of both heritage and sustainability. In 1988, Robert Lumley’s book The Museum Time Machine “expressed the growing disquiet about traditional museological presuppositions and operations”. The following year, Peter Vergo published his critically acclaimed edited collection The New Museology (1989/1997), a work that aimed to challenge the traditional or “old” field of museology, and was named one of the Paperbacks of the Year by The Sunday Times in Britain. Around the same time, Ivan Karp co-organized two ground-breaking conferences at the Smithsonian, Exhibiting Cultures (1988) and Museums and Communities (1990), that soon resulted in highly influential volumes of the same names that redefined museums studies. Scholars who are engaged in various “new” museological practices sometimes disagree about when this trend “officially” began, what exactly it encompasses, and whether or not it is an ongoing field of study. However, the common thread of New Museology is that it has always involved some form of “radical reassessment of the roles of museums within society”. 
+      Critical theorists like Michel Foucault, Walter Benjamin, and Benedict Anderson also had a profound influence on late 20th and early 21st century museology. As other disciplines began to be critically reassessed, often adding the term “critical” to their new titles (i.e. critical race theory), a discourse of critical museology also emerged, intensifying around the turn of the 21st century. It arose from a similar critical discourse as New Museology and shares many of its features, so much so that many scholars disagree about the extent to which you can distinguish one from the other. In other words, while some scholars say that New Museology was a watershed moment in the late 20th century and critical museology is a related but separate movement in the early 21st century, others argue that New Museology is an ongoing field of study that has many manifestations and names, one of which is critical museology 
+      The latest movements in museology tend to focus on museums being interdisciplinary, multi-vocal, accessible, and open to criticism. While these critical discourses dominate contemporary museology, there are many different kinds of museums that exist today, some are engaged in new and innovative practices, and others are more traditional and therefore, less critical.  
+      Operational museology 
+      Operational museology refers to the day-to-day operations of a museum, including its organizational and regulatory structures, institutional policies and protocols (procedural, ethical, etc.), collections management (including conservation and restoration), and its exhibitions and programs. While there has been much scholarship around operational museology over the last 30 years, some scholars argue that it has lacked sustained analysis. Scholarship concerning operational museology has also overlapped with critical museology and other developments in the field.  
+      Public role of museums 
+      Operational museology has shifted in the late 20th and 21st century to position the museum as a central institution that serves the public by informing culture, history, and art while creating space for challenging conversations. Museums are thus perceived as cultural communicators that can reconstruct and reconnect cultural memory to the viewing public by collecting, preserving, documenting, and interpreting material culture. For example, many history museums engage with public memory from a multi-vocal perspective and present critical narratives regarding current sociopolitical issues. Other history museums, however, keep nationalistic approaches pertaining to the 19th century. Some museums convey reflexive and critical narratives, while others enact as "mass mediums" oriented toward international tourist networks. These institutions tend to display spectacular exhibition designs and grant little space for complex narratives and critical messages. 
+      Scholars have identified a recent transformation in the way museums define their functions and produce their programming strategies as these have become spaces for encounters and meaningful experiences. For instance, in The Metamorphosis of the Museal: From Exhibitionary to Experiential Complex and Beyond, Andreas Huyssen observes the museum, formerly conceived as "a container of the past and its accumulated objects” is now conceived as “a site of activity and experience in and for an ever-expanding present.”  
+      Critical museology 
+      Overview of the field 
+      Critical museology has emerged as a key discourse in contemporary museology. It is a broad field of study that engages critically with museums, calling into question the foundation assumptions of the field. This demonstrates critical museology’s close connection to New Museology, which also challenges foundational assumptions in museology. Critical museology may also extend beyond the traditional museum to include cultural centres, heritage sites, memorials, art galleries, and so on.  
+      Development of the field 
+      Given that museums are historically linked to colonialism, imperialism, and European missionary work, they have a morally and politically problematic past. While some of the objects museums hold were purchased – though not always fairly and often to the exclusive benefit of the collector – a large proportion of museum collections were taken as spoils of war, or otherwise removed without the consent of the people or community that owned them. Museums, along with their collections – and collectors – played a key role in establishing and reiterating the dominance of colonial Europe and narratives of cultural superiority. Critical museology was developed through questioning the foundational assumptions of museum studies and museums, including their history, architecture, display, programming, and the provenance of their objects. Recent work has also analyzed exhibition design to show how the diverse media combined in exhibitions communicate and shape visitors' interpretations and values. While anthropologists and the field of anthropology were actively engaged in problematic collecting practices for two centuries, anthropologists have also been central to the emergence of critical museology in the late 20th and early 21st centuries. This has included reconstructing and analyzing those collection histories and the relationships that grew around them, as in the Pitt Rivers Museum's "Relational Museum" project. They have also led interdisciplinary working groups that developed new approaches to globalizing processes in critical museology, as foregrounded in Museum Frictions, a third innovative volume co-edited by Ivan Karp. Additionally, anthropologists have spearheaded recent methodological and pedagogical developments in critical museology including “curatorial dreaming”, curating labs like the Making Culture Lab at Simon Fraser University, the Curating and Public Scholarship Lab at Concordia University, and the Centre for Anthropological Research on Museums and Heritage (CARMAH) in Berlin, as well as courses like the International Field School in Critical Museology. In other contexts, historians have been at the forefront of interventions in critical museology.  
+      Decolonizing and indigenizing museums 
+      In North America, Australia, and New Zealand in particular, critical museology attempts to address the problematic colonial pasts of museums through the decolonization and Indigenization of museums. 
+      Once viewed as the formal process of handing over the instruments of government, decolonizing is now recognized – particularly in Canada – as a long-term process that involves dismantling the bureaucratic, cultural, linguistic, and psychological legacies of colonial power While there is no agreed upon end-goal of decolonization, the process of decolonizing the museum is aimed at “assist communities in their efforts to address the legacies of historical unresolved grief by speaking the hard truths of colonialism and thereby creating spaces for healing and understanding”. 
+      Collaboration, consultation, and repatriation are key components of decolonizing museums. Australian museums have been leaders in developing repatriation processes, consultation, and collaboration with Indigenous communities, beginning in the late 1980s. Projects involving collaboration and consultation with source communities have taken many forms, ranging from developing traveling exhibits, revising collection catalogues, to establishing community cultural centers and working with photographic collections together. In Canada, collaboration and consultation were first formally suggested by the 1994 Task Force Report on Museums and First Peoples, and are now seen by many museums as being an essential practice for any institution that holds collections belonging to Indigenous peoples. In North America, and around the world, some of the objects in those collections – particularly sacred objects or human remains – have been repatriated or returned to their communities of origin. The Native American Graves Protection and Repatriation Act (1990) formalized the process of repatriating Indigenous cultural objects in the United States. While Canada does not have a formal policy around repatriation, many museums have their own internal policies and many objects have been returned to Indigenous communities that way. Though repatriation policies are typically well intended, the process has often been complicated by institutional, community, and government politics, and have had varying degrees of success. 
+      A newer concept, the Indigenization of museums, moves away from focusing exclusively on collaborative methods and towards employing Indigenous people to work in positions of power within museums as a means of opening up the museum to sustained Indigenous influences, and restructuring the museum to reflect Indigenous approaches to knowledge sharing. Examples of indigenizing museum practice include Art Gallery of Ontario's 2016 appointing of Wanda Nanibush as the Curator of Canadian and Indigenous Art, Wood Land School’s takeover of the SBC Gallery of Contemporary Art in Montreal, the appointment of Aboriginal curators at the South Australia Museum, the Australian Museum, the National Museum of Australia, and the Museum of Contemporary Art Australia, and the creation of the Reciprocal Research Network, which is an interactive online resource co-developed by the Musqueam Indian Band, the Sto:lo Nation Tribal Council, the U’mista Cultural Centre, and the Museum of Anthropology at UBC, to facilitate collaborative research and knowledge exchange between communities, scholars, and cultural institutions in Canada and internationally. 
+      While there is no linear trajectory of decolonizing/Indigenizing work in museums, major milestones in Canada include the Indians of Canada Pavilion at Expo 67’; The Lubicon Cree’s boycott of The Spirit Sings, a Shell sponsored exhibition at the Glenbow Museum in 1988, and the resulting Task Force Report on Museums and First Peoples in 1994; and The Truth and Reconciliation Commission of Canada’s 2015 final report, with Calls to Action that specifically address museums and archives.  
+      Feminist critique and feminist curating 
+      Given that museums and their collection strategies are historically linked to patriarchal values and marked by androcentric bias, critical feminist museology has developed as a distinct analytical approach. Scholars have identified that power relations of class, gender, and race are inscribed in the museum. Histories, theories, and practices of feminist curating have been explored in a series of conferences and symposia.  
+      New methodologies 
+      Vienna Method 
+      The Vienna Method, subsequently called ISOTYPES was developed by the Gesellschafts- und Wirtschaftsmuseum (Museum for Social and Economic Affairs), Vienna. With the support of Otto Glöckel of the Vienna City Council the Museum sought to make sociological and economic information accessible to the whole population regardless of their level of education.   
+      Museum interventions 
+      Interventions in museums were first employed by artists like Marcel Duchamp, who were looking to challenge both established elite art traditions and the expectations of museum visitors. By the late 20th century, interventions had become a methodology used not only by artists, but also by other groups – including activists, museum visitors, and even museums themselves – as a way to democratize exhibitions, challenge dominant narratives, problematize the provenance of museum objects, and so on.  
+      Artist interventions 
+      A central aspect of Institutional Critique, some artist’s interventions have been co-organized or commissioned by museums themselves – like Fred Wilson’s Mining the Museum (1992) at the Maryland Historical Society, Michael Nicholl Yahgulanaas’ Meddling in the Museum (2007) at UBC’s Museum of Anthropology, or the Artists' Interventions at the Pitt Rivers Museum in Oxford – while others have been done without explicit permission, like Andrea Fraser’s Museum Highlights (1989) at the Philadelphia Museum of Art. 
+      One of the best known artist interventions in a museum is James Luna’s Artifact Piece, which was first performed at the San Diego Museum of Man in 1987, and then again at The Decade Show in New York in 1990. Luna, a Luiseño artist, lay almost naked in a display case filled with artifacts in order to challenge representations of Indigenous peoples in museums and the narratives that accompanied those representations, which suggested that Indigenous people and cultures were dead. The objects in the case included Luna's favorite books and music, his divorce papers, his university degree, photos, and other mementos, alongside labels describing the scars on his body and how he had acquired them. The work was critically acclaimed for its challenge of conventional narratives of Indigeneity and Indigenous experience. A few years later, two artists – Guillermo Gómez-Peña and Coco Fusco – developed a traveling performance art piece called The Couple in the Cage: Two Amerindiens Visit the West that reflected on the treatment and representation of Indigenous peoples in colonial contexts, and was performed in many different spaces, including Covent Gardens, the Walker Art Center, the Smithsonian's National Museum of Natural History, the Australia Museum, and the Field Museum.  
+      Activist interventions 
+      While there is overlap between artist and activist interventions, specific activist groups such as the Guerrilla Girls have long been creating exhibitions and public advertisements – through the use of billboards, stickers, posters, and projections – to critique power dynamics related to sexism, racism, and class privilege in museums. 
+      There is also a tradition of activist interventions being used as responses to the censorship of exhibited artworks. In 1989, after the Corcoran Gallery of Art cancelled The Perfect Moment, an exhibition of Robert Mapplethorpe’s explicit photography, protesters projected Mapplethorpe’s photos on the exterior of the museum. Similar protests occurred when David Wojnarowicz’s film A Fire in My Belly was removed from the Hide/Seek: Difference and Desire in American Portraiture exhibit at the National Portrait Gallery in 2010.  
+      Internal institutional interventions 
+      While most interventions are directed at museums from outside sources, museums also engage interventions as a way of performing self-critique. For example, in 2015 MoMA mounted a meta-intervention exhibit called Messing with MoMA: Critical Interventions at the Museum of Modern Art 1939 – Now. In a similar way, ethnographic exhibitions have been incorporating contemporary art as a way to disrupt conventional expectations and narratives. 
+      Another critical intervention in museums is the conception of permanent exhibitions (long-lasting galleries presenting the museum collections) that critically reveal and approach the connections between the institution — its history and practices — and the cultural and social context in which the institution is embedded. This practice seeks to highlight the transformations in the paradigms that have determined the messages and languages of museums in the past, and invites visitors to reflect on the diverse roles of museums through history. The display of the collections of the Museum of Antioquia (Medellín, Colombia) exemplifies this practice. The design of the gallery Historias para re-pensar (Histories to re-think) focuses on the 19th century and first half of the 20th century, and proposes a critical review of the region’s art history thereby inquiring about the role of collectors and the Museum in the construction of aesthetic paradigms. The gallery includes contemporary works in order to install a dialogue between the past and the present. Additionally, the section of the permanent exhibition titled Galleries for decolonial dialogues: The persistence of the dogma displays an anachronistic array of works and documents in order to convey how enduring colonial dogmas determined the country’s cultural values and visual experiences during the 19th century. The project of redeveloping the Museum’s permanent galleries is part of a larger institutional transformation that makes the Museum of Antioquia a great example of comprehensive critical museology practices. Another example of this Museum’s critical approach is the artistic residency project of artist Nadia Granados who, with curator Carolina Chacón and a group of sex workers based in downtown Medellín, developed in 2017 the award-winning cabaret/performance Nadie sabe quién soy yo (No one knows who I am). From then on, the performers funded the group Las Guerreras del Centro, a collective to highlight the lives and stories of sex workers through artistic performances, knitting circles and other community actions. 
+      Nadie sabe quién soy yo was the beginning of a series of curatorial and educational collaborations between Las Guerreras del Centro and the Museum of Antioquia. Such collaborative projects are destigmatizing and empowering critical museology practices that generate new spaces for exchanges and social dialogues. These spaces emerge from the museum, forge links beyond museum walls, and drastically transform the museum’s relationship with its social environment. 
+      Another example of a museum presenting a critical review of messages conveyed by the institution in the past can be found in the Royal Ontario Museum permanent exhibition, specifically in its Canadian history galleries. In this case, ROM curators have repurposed old dioramas as a way to reflect critically on past uses of dioramas to portray indigenous people’s cultures. The new ironic diorama questions this common practice in museums and points out the stereotypes such practices promoted in the past (e.g., the depiction of indigenous peoples as belonging to another time or somehow as primitive or extinguished cultures).  
+      Curatorial dreaming 
+      Curatorial Dreaming was originally developed as a challenge to museum critics, who are typically not expected to provide practical solutions to the issues they identify in the exhibits they critique, to develop their own imagined exhibitions. It is intended as “an alternative mode of critical, intellectual practice – a form of ‘theorizing in the concrete’”.  
+      Curating workshops, courses and labs 
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This section's use of external links may not follow Wikipedia's policies or guidelines. Please improve this article by removing excessive or inappropriate external links, and converting useful links where appropriate into footnote references. (January 2018) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      Over the last three decades there has been a proliferation of curating workshops, courses, and labs that engage with New Museology and critical museology in museum spaces, in universities, and elsewhere. For instance, the Bard Center for Curatorial Studies in New York was founded in 1990 and began offering a graduate program in 1994. In Germany, the Centre for Anthropological Research on Museums and Heritage is engaging with the social, cultural, and political issues facing contemporary museums. In Canada, two of the most innovative curating labs are the Making Culture Lab at Simon Fraser University in Vancouver and the Curating and Public Scholarship Lab at Concordia University in Montreal, which offered its inaugural International Field School in Critical Museology in May 2017. The African Programme in Museum and Heritage Studies in Cape Town includes a curatorial module within a comprehensive diploma and M.A. program that engages critically with museum and heritage studies, the leading program on the continent.  
+      See also 
+      
+       Museum education 
+       Conservation-restoration of cultural heritage 
+       Museum anthropology 
+       Natural history museum 
+       World's fair
+       
+      References 
+      
+       
+       
+         
+         ^ Murphy, Oonagh (Spring 2018). "Museum Studies as Critical Praxis: Developing an Active Approach to Teaching, Research and Practice". Tate Papers. 29.  
+         ^ a b 
+           International Council of Museums (2009). "Key Concepts of Museology" (PDF). icom.museum/fileadmin/user_upload/pdf/Key_Concepts_of_Museology/Museologie_Anglais_BD.pdf. Archived from the original (PDF) on 2015-06-16.  
+         ^ a b 
+           Davis, Peter (2011). Ecomuseums: A Sense of Place. Continuum International Publishing: London.  
+         ^ 
+           Kishlansky, M.; Geary, P.; O’Brien, P. (2008). Civilization in the West. Vol.&nbsp;C (7&nbsp;ed.). New York: Pearson Education.  
+         ^ 
+           "History". The Field Museum. 23 February 2011. Retrieved 6 January 2018.  
+         ^ 
+           Lewis, G. (1989). For Instruction and Recreation: A Centenary History of the Museums Association. London: Quiller Press. ISBN&nbsp;1-870948-37-8.  
+         ^ a b c d e 
+           Shelton, A. (2013). Critical Museology: A Manifesto. Vol.&nbsp;5. Museum Worlds. p.&nbsp;8.  
+         ^ 
+           Van Mensch, Peter (1995). "Magpies on Mount Helicon. Museum and Community". ICOFOM Study Series. 25: 133–138.  
+         ^ 
+           Sánchez Laws, Ana Luisa (2011). Panamanian Museums and Historical Memory. New York: Berghahn Books.  
+         ^ 
+           Vergo, Peter (1989). The New Museology. University of Chicago Press Books.  
+         ^ a b 
+           Karp, Ivan; Lavine, Steven D. (1991). Exhibiting Cultures: The Poetics and Politics of Museum Display. Washington DC: Smithsonian Press.  
+         ^ 
+           Karp, Ivan; Kreamer, Christine Mullen; Lavine, Steven (1992). Museums and Communities: The Politics of Public Culture. Washington DC: Smithsonian.  
+         ^ a b 
+           Stam, D. (1983). "The Informed Muse: The Implications of 'The New Museology' for Museum Practice". Museum Management and Curatorship. 12: 267–283.  
+         ^ 
+           Adams, Melanie A. (2017-07-03). "Deconstructing Systems of Bias in the Museum Field Using Critical Race Theory". Journal of Museum Education. 42 (3): 290–295. doi:10.1080/10598650.2017.1339172. ISSN&nbsp;1059-8650. S2CID&nbsp;149413322.  
+         ^ 
+           Jackson, Ronald L.; Richardson, Elaine B., eds. (2014-05-22). Understanding African American Rhetoric. doi:10.4324/9781315024332. ISBN&nbsp;9781315024332.  
+         ^ a b 
+           Huyssen, Andreas (2020-12-31). "CHAPTER II. The Metamorphosis of the Museal From Exhibitionary to Experiential Complex and Beyond". In Altınay, Ayşe Gül; Contreras, María José; Hirsch, Marianne; Howard, Jean; Karaca, Banu; Solomon, Alisa (eds.). CHAPTER II. The Metamorphosis of the Museal from Exhibitionary to Experiential Complex and Beyond. Women Mobilizing Memory. Columbia University Press. pp.&nbsp;47–64. doi:10.7312/alti19184-004. ISBN&nbsp;978-0-231-54997-4.. p. 51  
+         ^ 
+           Huyssen, Andreas. (2012). Twilight Memories&nbsp;: Marking Time in a Culture of Amnesia. Taylor and Francis. ISBN&nbsp;978-1-136-04222-5. OCLC&nbsp;821174264.  
+         ^ 
+           Huyssen, Andreas (2020-12-31). "CHAPTER II. The Metamorphosis of the Museal From Exhibitionary to Experiential Complex and Beyond". In Altınay, Ayşe Gül; Contreras, María José; Hirsch, Marianne; Howard, Jean; Karaca, Banu; Solomon, Alisa (eds.). CHAPTER II. The Metamorphosis of the Museal from Exhibitionary to Experiential Complex and Beyond. Women Mobilizing Memory. Columbia University Press. pp.&nbsp;47–64. doi:10.7312/alti19184-004. ISBN&nbsp;978-0-231-54997-4.. p. 50  
+         ^ 
+           Shelton, Anthony (2013). "Critical Museology: A Manifesto". Museum Worlds. 1 (1): 7–23. doi:10.3167/armw.2013.010102.  
+         ^ a b c 
+           Butler, Shelley Ruth; Lehrer, Erica (2016). Curatorial Dreams: Critics Imagine Exhibition. McGill-Queen’s University Press.  
+         ^ a b 
+           Bennett, Tony (1995). The Birth of the Museum: History, Theory, Politics. London: Routledge.  
+         ^ 
+           García Canclini, Nestor (1995). Hybrid Cultures: Strategies for Entering and Leaving Modernity. Minneapolis: University of Minnesota Press.  
+         ^ 
+           Greenblatt, Steven (1990). "Resonance and Wonder". Exhibiting Cultures: Poetics and Politics of Museum Display: 21.  
+         ^ 
+           Duncan, Carol. "Art Museums and the Ritual of Citizenship". Exhibiting Cultures. Smithsonian Institution: 88–103.  
+         ^ 
+           Kratz, Corinne A. (2002). The Ones That Are Wanted: Communication and the Politics of Representation in a Photographic Exhibition. Berkeley: University of California.  
+         ^ 
+           Kratz, Corinne (2011). "Rhetorics of Value: Constituting Worth and Meaning through Cultural Display". Visual Anthropology. 27 (1): 21–48. doi:10.1111/j.1548-7458.2011.01077.x.  
+         ^ a b 
+           Lorente, J. P. (2015). "From the White Cube to a Critical Museography: The Development of Interrogative, Plural and Subjective Museum Discourses". From Museum Critique to the Critical Museum. Routledge: 80.  
+         ^ 
+           Karp, Ivan; Kratz, Corinne (2015). Silverman, Raymond (ed.). "The Interrogative Museum". Museum as Process: Translating Local and Global Knowledges. Routledge.  
+         ^ 
+           Gosden, Chris. "The Relational Museum". Material World. Retrieved 28 January 2018.  
+         ^ 
+           Karp, Ivan; Kratz, Corinne; Szwaja, Lynn; Ybarra-Frausto, Tomas; et&nbsp;al. (2006). Museum Frictions: Public Cultures/ Global Transformations. Durham: Duke University Press.  
+         ^ 
+           Witz, Leslie; Minkley, Gary; Rassool, Ciraj (2017). Unsettled History: Making South African Public Pasts. University of Michigan Press.  
+         ^ 
+           Huygens, Ingrid (2011). "Developing a Decolonisation Practice for Settler Colonisers: A Case Study from Aotearoa New Zealand". Settler Colonial Studies. 1 (2): 53–81. doi:10.1080/2201473x.2011.10648812.  
+         ^ a b 
+           "Truth and Reconciliation Commission of Canada Final Report – Executive Summary" (PDF). 2015. Archived from the original (PDF) on 2017-07-04.  
+         ^ 
+           Griffin, Des; Paroissien, eds., Leon. "Understanding Museums: Australian museums and museology" (PDF). National Museum Australia. National Museum Australia. Retrieved 28 January 2018. }: |last2= has generic name (help)  
+         ^ 
+           "Luo Visual History Project". Pitt Rivers Museum. Retrieved 28 January 2018.  
+         ^ 
+           Silverman, Raymond, ed. (2015). Museum as Process: Translating Local and Global Knowledges. NY: Routledge.  
+         ^ a b 
+           Assembly of First Nations &amp; Canadian Museums Association (1994). "Task Force Report on Museums and First People" (PDF). museums.in1touch.org/uploaded/web/docs/Task_Force_Report_1994.pdf.  
+         ^ 
+           Whyte, Murray (2016). "Wanda Nanibush Named AGO's First Curator of Indigenous Art".  
+         ^ 
+           Hampton, John (2017). "Inside a Year-Long Experiment in Indigenous Institutional Critique" (PDF).  
+         ^ 
+           Daley, Paul (2 September 2016). "An Indigenous curator for Indigenous artefacts: South Australia breaks new ground". The Guardian. Retrieved 16 January 2018.  
+         ^ 
+           "Djon Mundine". Boomerang Festival. Retrieved 16 January 2018.  
+         ^ 
+           "Laura McBride". Australian Museum. Retrieved 16 January 2018.  
+         ^ 
+           "TWO FIRST NATIONS CURATORS FROM MCA AUSTRALIA CHOSEN FOR VENICE BIENNALE". Museum of Contemporary Art Australia. Retrieved 16 January 2018.  
+         ^ 
+           "Reciprocal Research Network". 2014.  
+         ^ 
+           Igloliorte, Heather (2012). ""No History of Colonialism": Decolonizing Practices in Indigenous Arts". Decolonize Me. ABC Art Books Canada.: 19–27.  
+         ^ 
+           Igloliorte, Heather (2017). Decolonizing Museology (Lecture). International Field School in Critical Museology Lecture, Concordia University.  
+         ^ 
+           Alsford, Stephen; MacDonald, George (1995). "Canadian Museums and the Representation of Culture in a Multicultural Nation". Cultural Dynamics. 7 (1): 15–36. doi:10.1177/092137409500700102. S2CID&nbsp;145523421.  
+         ^ 
+           "Encounters in the Virtual Feminist Museum: Time, Space and the Archive". Routledge &amp; CRC Press. Retrieved 2022-01-05.  
+         ^ 
+           Krasny, Elke; Perry, Lara (2020-01-02). "Unsettling Gender, Sexuality, and Race: 'Crossing' the Collecting, Classifying, and Spectacularising Mechanisms of the Museum". Museum International. 72 (1–2): 130–139. doi:10.1080/13500775.2020.1806595. ISSN&nbsp;1350-0775.  
+         ^ 
+           "Symposion Frauen: Museum. Zwischen Sammlungsstrategie und Sozialer Plattform | Wienbibliothek im Rathaus". www.wienbibliothek.at. Retrieved 2022-01-05.  
+         ^ 
+           "Women's Movements: Feminist Agency – Art and Cultural Studies Laboratory". Retrieved 2022-01-05.  
+         ^ 
+           "Unsettling Feminist Curating". www.akbild.ac.at. Retrieved 2022-01-05.  
+         ^ 
+           "Artists' Interventions". Pitt Rivers museum. Retrieved 28 January 2018.  
+         ^ 
+           Wilson, Fred; Halle, Howard (1993). "Mining the Museum". Grand Street (44): 151–172. doi:10.2307/25007622. JSTOR&nbsp;25007622.  
+         ^ 
+           "How Mining the Museum Changed the Art World – BmoreArt | Baltimore Contemporary Art". www.bmoreart.com. 3 May 2017. Retrieved 2017-11-14.  
+         ^ 
+           Berger, Maurice (2001). Fred Wilson: Objects and Installations 1979-2000. Baltimore, Maryland: Center for Art and Visual Culture.  
+         ^ 
+           Levell, N. (2013). "Site-Specificity and Dislocation: Michael Nicholl Yahgulanaas and His Haida Manga Meddling". Journal of Material Culture. 18 (2): 93–116. doi:10.1177/1359183513486231. S2CID&nbsp;146874627.  
+         ^ 
+           UBC MOA (2007). "Michael Nicholl Yahgulanaas: Meddling in the Museum" (PDF).  
+         ^ 
+           Martin, Richard (2014). "Andrea Fraser – Museum Highlights: A Gallery Talk (1989)". Tate: Art &amp; Artists.  
+         ^ 
+           "Spotlight: Andrea Fraser | Arts | The Harvard Crimson". www.thecrimson.com. Retrieved 2017-11-14.  
+         ^ 
+           K. R., Fletcher (2008). "James Luna. Smithsonian Magazine".  
+         ^ 
+           Mannheim, Bruce; Behar, Ruth (1995). "In Dialogue: The Couple in the Cage: A Guatinaui Odessy". Visual Anthropology Review. 11 (1): 118–127. doi:10.1525/var.1995.11.1.118.  
+         ^ 
+           "Guerrilla Girls".  
+         ^ 
+           Gamarekian, Barbara; Times, Special to The New York (1989-07-01). "Crowd at Corcoran Protests Mapplethorpe Cancellation". The New York Times. ISSN&nbsp;0362-4331. Retrieved 2017-11-14.  
+         ^ 
+           Kennicott, Philip (2010-12-10). "'Fire' man: Wojnarowicz, censored by Smithsonian, sounded an alarm in dire times". ISSN&nbsp;0190-8286. Retrieved 2017-11-14.  
+         ^ 
+           Tobias, Jennifer (May 26, 2016). "Messing with MoMA: Critical Interventions at the Museum of Modern Art, 1939–Now". post.at.moma.org. Retrieved 2017-11-22.  
+         ^ 
+           "Moma.org | Interactives | Exhibitions | Messing With MoMA". www.moma.org. Retrieved 2017-11-22.  
+         ^ 
+           Geismar, Haidy (2015). "he Art of Anthropology: Questioning Contemporary Art in Ethnographic Display". The International Handbooks of Museum Studies. 2 (10): 183–210. doi:10.1002/9781118829059.wbihms110. ISBN&nbsp;9781118829059.  
+         ^ 
+           "Art Radar". 14 Curatorial Training Programmes. Retrieved 7 January 2018.  
+         ^ 
+           "About CSS". CSS Bard. Retrieved 7 January 2018.  
+         ^ 
+           "CARMAH – Our Centre". www.carmah.berlin. Retrieved 2017-11-22.  
+         ^ 
+           "Making Culture Lab". hennessy.iat.sfu.ca. Retrieved 2017-11-14.  
+         ^ 
+           "Curating and Public Scholarship Lab". Curating and Public Scholarship Lab. Retrieved 2017-11-14.  
+         ^ 
+           "Curatorial Dreams". www.concordia.ca. Retrieved 2017-11-14.  
+         ^ 
+           "African Programme in Museum and Heritage Studies". UWC APMHS. Retrieved 7 January 2018.  
+        
+       
+       
+      Bibliography 
+      
+       Assembly of First Nations &amp; Canadian Museums Association. (1994). Task Force Report on Museums and First People. Retrieved from: http://museums.in1touch.org/uploaded/web/docs/Task_Force_Report_1994.pdf 
+       
+        Behar, R; Mannheim, B (1995). "In Dialogue: The Couple in the Cage: A Guatinaui Oddessy". Visual Anthropology Review. 11 (1): 118–127. doi:10.1525/var.1995.11.1.118. 
+       Bennett, T. (1995). The Birth of the Museum: History, Theory, Politics. London: Routledge 
+       Berger, M. (2001). Fred Wilson: Objects and Installations 1979-2000. Baltimore, Maryland: Center for Art and Visual Culture. FW3 &nbsp;http://www.bmoreart.com/2017/05/how-mining-the-museum-changed-the-art-world.html 
+       Butler, S. R. &amp; Lehrer, E. (2016). Curatorial Dreams: Critics Imagine Exhibition. McGill-Queen’s University Press. 
+       Canclini, N. G. (1995). Hybrid Cultures: Strategies for Entering and Leaving Modernity. Minneapolis: University of Minnesota Press. 
+       Curating and Public Scholarship Lab (CaPSL) http://capsl.cerev.ca/ 
+       Davis, P. (2011). Ecomuseums: A Sense of Place. Continuum International Publishing: London. 
+       Duncan, C. (1991). Art Museums and the Ritual of Citizenship. In Ivan Karp &amp; Steven D. Lavine (Eds.), Exhibiting Cultures. Smithsonian Institution: 88-103. 
+       Fletcher, K. R. (2008). James Luna. Smithsonian Magazine. Retrieved from: http://www.smithsonianmag.com/arts-culture/james-luna-30545878/ 
+       Gamarekian, B. (1989). Crowd at Corcoran Protests Mapplethorpe Cancellation. The New York Times. Retrieved from: &nbsp;https://www.nytimes.com/1989/07/01/arts/crowd-at-corcoran-protests-mapplethorpe-cancellation.html 
+       
+        Greenblatt, S (1990). "Resonance and Wonder". Bulletin of the American Academy of Arts and Sciences. 43 (4): 11–34. doi:10.2307/3824277. JSTOR&nbsp;3824277. 
+       Hampton, J. (2017). Inside a Year-Long Experiment in Indigenous Institutional Critique. Retrieved from http://docs.wixstatic.com/ugd/2b2fa6_8f2b4b9eece24189920c7ab3031744f0.pdf 
+       Houston, K. (2017). How ‘Mining the Museum’ Changed the Art World. BmoreArt. http://www.bmoreart.com/2017/05/how-mining-the-museum-changed-the-art-world.html 
+       Huygens, I. (2011). Developing a Decolonisation Practice for Settler Colonisers: A Case Study from Aotearoa New Zealand. Settler Colonial Studies 1(2): 53-81. 
+       Igloliorte, H., Loft, S. &amp; Croft, B. L. (2012). Decolonize Me. ABC Art Books Canada. 
+       International Council of Museums (ICOM). (2009). Key Concepts of Museology. Retrieved July 2, 2017 from: http://icom.museum/fileadmin/user_upload/pdf/Key_Concepts_of_Museology/Museologie_Anglais_BD.pdf 
+       International Field School in Critical Museology (2017). Retrieved from: https://www.concordia.ca/artsci/academics/summer/critical-museology.html 
+       Kishlansky, M, Geary, P. and O’Brien, P. (2008). Civilization in the West (7th Edition, Vol. C). New York: Pearson Education. 
+       Kennicott, P. (2010). 'Fire' Man: Wojnarowicz, Censored by Smithsonian, Sounded an Alarm in Dire Times. Washington Post. Retrieved from https://www.washingtonpost.com/wp-dyn/content/article/2010/12/09/AR2010120905895.html 
+       La, K. T. (2010). Spotlight: Andrea Fraser. The Harvard Crimson. &nbsp;http://www.thecrimson.com/article/2010/3/30/fraser-art-institutional/ 
+       Levell, N. (2013). Site-Specificity and Dislocation: Michael Nicholl Yahgulanaas and His Haida Manga Meddling. Journal of Material Culture 18(2): 93-116. http://journals.sagepub.com/doi/abs/10.1177/1359183513486231, 
+       Lewis, G. (1989). For Instruction and Recreation: A Centenary History of the Museums Association. London: Quiller Press. 
+        ISBN&nbsp;1-870948-37-8 
+       Libraries and Archives Canada (n.d.) Indians of Canada Pavilion. Retrieved from https://www.collectionscanada.gc.ca/expo/0533020206_e.html 
+       Liepe, L. (2018). A Case for the Middle Ages. The Public Display of Medieval Church Art in Sweden 1847–1943, Stockholm: The Royal Swedish Academy of Letters, History and Antiquities. 
+       Linklater, D. (2011–Present). Wood Land School. 
+       Lonetree, A. (2012). Decolonizing Museums: Representing Native America in National and Tribal Museums. UNC Press. 
+        ISBN&nbsp;978-0-8078-3715-3. 
+       Lorente, J. P. (2015). From the White Cube to a Critical Museography: The Development of Interrogative, Plural and Subjective Museum Discourses. In Katarzyna Murawska-Muthesius &amp; Piotr Piotrowski (Eds.), From Museum Critique to the Critical Museum. Routledge. 
+       MacDonald, G. &amp; Alsford, S. (1995). Canadian Museums and the Representation of Culture in a Multicultural Nation. Cultural Dynamics 7(1): 15- 36. 
+       Making Culture Lab http://hennessy.iat.sfu.ca/mcl/about-making-culture-lab/ 
+       Martin, R (2014) Andrea Fraser – Museum Highlights: A Gallery Talk (1989). TATE: Art &amp; Artists. Retrieved from: http://www.tate.org.uk/art/artworks/fraser-museum-highlights-a-gallery-talk-t13715 
+       McCall, V. &amp; Gray, C. (2014). Museums and the ‘New Museology’: Theory, Practice and Organizational Change. Museum Management and Curatorship 29(1): 19-35. 
+       Messing with MoMA (2015). Retrieved from: https://www.moma.org/interactives/exhibitions/2015/messingwithmoma/ 
+       Mollica, J. (2017). Send Me SFMOMA. Retrieved from: https://www.sfmoma.org/send-me-sfmoma/ 
+       Murawska-Muthesius, K. &amp; Piotrowski, P. (2015). From Museum Critique to the Critical Museum. Routledge. 
+       National Native American Graves Protection and Repatriation Act. Retrieved from: https://www.nps.gov/nagpra/ 
+       Reciprocal Research Network (2014). Retrieved from: https://www.rrncommunity.org/pages/about 
+       Ryzik, M. (2017). Text for Happiness. Or Sadness. Get Art Back. The New York Times. Retrieved from: https://www.nytimes.com/2017/07/14/arts/design/sfmoma-texting-emojis-art.html 
+       Sánchez Laws, A. L. (2011). Panamanian Museums and Historical Memory. New York: Berghahn Books. 
+       Shelton, A. (2013). Critical Museology: A Manifesto. Museum Worlds 5(1): 7-23. 
+       Stam, D. (1993) The Informed Muse: The Implications of 'The New Museology' for Museum Practice. Museum Management and Curatorship 12: 267-283. 
+       Tobias, J. (2015). &nbsp;Messing with MoMA: Critical Interventions at the Museum of Modern Art, 1939-Now. Retrieved from: http://post.at.moma.org/content_items/804-messing-with-moma-critical-interventions-at-the-museum-of-modern-art-1939-now 
+       Truth and Reconciliation Commission of Canada Final Report – Executive Summary (2015). Retrieved from http://www.trc.ca/websites/trcinstitution/File/2015/Honouring_the_Truth_Reconciling_for_the_Future_July_23_2015.pdf 
+       UBC MOA (2007). Michael Nicholl Yahgulanaas: Meddling in the Museum. Retrieved from http://faculty.washington.edu/kbunn/Manga.pdf 
+       University of Chicago Press Books (n.d.). Peter Vergo – The New Museology (1989) http://press.uchicago.edu/ucp/books/book/distributed/N/bo3536149.html 
+       Van Mensch, P. (1995). Magpies on Mount Helicon. Museum and Community, ICOFOM Study Series, 25, pp.&nbsp;133 - 138. 
+       Vergo, P. (1989). The New Museology. London: Reaktion Books. 
+       Wilson, F. (1993). Mining the Museum. Grand Street 44(151-172) https://www.jstor.org/stable/25007622?seq=1#page_scan_tab_contents 
+       Whyte, M. (2016) Wanda Nanibush Named AGO’s First Curator of Indigenous Art. Toronto Star. Retrieved from: https://www.thestar.com/entertainment/visualarts/2016/07/22/wanda-nanibush-named-agos-first-curator-of-indigenous-art.html
+       
+      External links 
+      
+       Calls to Action – Truth and Reconciliation Commission of Canada 
+       Centre for Anthropological Research on Museums and Heritage 
+       Curatorial dreams  
+        
+       Curating and Public Scholarship Lab 
+       Guerrilla Girls 
+       International Council of Museums 
+       Making Culture Lab 
+       Task Force Report on Museums and First Peoples 
+       Truth and Reconciliation Commission 
+       TRC - 94 Calls to Action
+       
+      
+       
+      
+      
+       
+        
+         
+          Authority control: National libraries 
+          
+            
+            
+             France (data) 
+             Germany 
+             United States 
+             Japan
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Museology&amp;oldid=1068607258"
+     
+     
+    
+     
+      Categories: 
+      
+       Museology
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 errors: generic name
+       Articles with short description
+       Short description matches Wikidata
+       Wikipedia external links cleanup from January 2018
+       Wikipedia spam cleanup from January 2018
+       Articles with BNF identifiers
+       Articles with GND identifiers
+       Articles with LCCN identifiers
+       Articles with NDL identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       Azərbaycanca
+       Беларуская
+       Bosanski
+       Català
+       Čeština
+       Dansk
+       Deutsch
+       Eesti
+       Ελληνικά
+       Español
+       Esperanto
+       Euskara
+       فارسی
+       Français
+       Հայերեն
+       हिन्दी
+       Hrvatski
+       Italiano
+       Қазақша
+       Lietuvių
+       Македонски
+       मराठी
+       Nederlands
+       日本語
+       Norsk bokmål
+       Polski
+       Português
+       Română
+       Русиньскый
+       Русский
+       Shqip
+       Simple English
+       Slovenčina
+       Српски / srpski
+       Srpskohrvatski / српскохрватски
+       Suomi
+       Svenska
+       தமிழ்
+       Türkçe
+       Українська
+       اردو
+       Tiếng Việt
+       Winaray
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 29 January 2022, at 10:54&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

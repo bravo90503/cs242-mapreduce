@@ -1,0 +1,645 @@
+
+ 
+  
+   
+  Manuel Lima - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Manuel Lima 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This article contains content that is written like an advertisement. Please help improve it by removing promotional content and inappropriate external links, and by adding encyclopedic content written from a neutral point of view. (January 2017) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      
+      
+       
+        
+         
+          
+           Manuel Lima
+          
+        
+        
+         Born
+          (1978-05-03) May 3, 1978 (age&nbsp;43)
+          
+           Ponta Delgada, Portugal
+          
+        
+        
+         Citizenship
+         Portuguese-American
+        
+        
+         Alma&nbsp;mater
+         Parsons School of Design
+        
+        
+         Occupation
+         Designer, Lecturer, Advisor, Author.
+        
+        
+         Known&nbsp;for
+         visual culture, design, information visualization, graph drawing, tree structure.
+        
+       
+       
+      Manuel Lima FRSA (born May 3, 1978) is a Portuguese-American designer, author, and lecturer known for his work in information visualization and visual culture. WIRED describes Lima as “the man who turns data into art” and Forbes magazine says "Manuel has helped elevate information visualization to an art form." He is the author of three books translated into several languages and currently resides in New York City with his wife and two daughters.  
+      
+       
+       
+        Contents
+        
+        
+        1 Biography 
+        2 Work 
+          
+          2.1 Networkism 
+          2.2 Proclivity for circles 
+            
+            2.2.1 1. Humans prefer curves 
+            2.2.2 2. Circles equal happiness 
+            2.2.3 3. Spherical geometry of the eye 
+             
+           
+        3 Recognition 
+        4 Publications 
+        5 References 
+        6 External links 
+        
+       
+      Biography 
+      Lima grew up in São Miguel Island, in the Azores. From an early age Lima has shown an interest in the visual language of maps, many of which were kept in a cabinet at home from various family road trips. His dad has also been an important catalyst in his appreciation for design. 
+      In 1996, at the age of eighteen, he moved to Lisbon to pursue a BFA degree in Industrial Design from the Faculty of Architecture at Technical University of Lisbon. After an internship in Copenhagen, Denmark, at the design studio Kontrapunkt, Lima went on to study at Parsons School of Design in New York City, where he received a MFA in Design and Technology in 2005. Lima recalls a lecture from his Parsons teacher Christopher Kirwan, back in 2004, as the moment that drove him towards information design. His thesis "Blogviz: Mapping the dynamics of Information Diffusion in Blogspace" was subsequently published by Omniscriptum Publishing in 2009. During his MFA program Lima worked for Siemens Corporate Research Center, the American Museum of Moving Image and Parsons Institute for Information Mapping (PIIM). 
+      It was during his time at PIIM, that Lima consolidated his research in information visualization and complex networks leading to the creation in October 2005 of VisualComplexity.com, an online archive for network visualization. Following his MFA, Lima worked as a designer and manager for advertising agency R/GA, mobile phone maker Nokia, Microsoft Bing and Codecademy. He currently works for Google as a Design Lead and Startup Mentor.  
+      Work 
+      Networkism 
+      In his first book Visual Complexity: Mapping Patterns of Information (2011), Lima covers the growing popularity of the network construct, not just as a scientific pursuit but as a cultural meme. In chapter six Complex Beauty, Lima introduces a new movement or "artistic trend" characterized by the depiction of metaphorical graph structures, which he labels "Networkism". As Lima explains:  
+      
+      
+       Networkism is stimulated by rhizomatic properties like nonlinearity, multiplicity, or interconnectedness, and scientific advances in areas such as genetics, neuroscience, physics, molecular biology, computer systems, and sociology. As a direct consequence of the recent outburst of network visualization, networkism is equally motivated by the unveiling of new knowledge domains as well as the visual representation of complex systems.
+       
+      Sharon Molloy, Emma McNally, Janice Caswell, Tomás Saraceno, and Chiharu Shiota are amongst the artists presented by Lima as precursors of this movement.  
+      Proclivity for circles 
+      In the Introduction of The Book of Circles: Visualizing Spheres of Knowledge (2017), Lima provides an evolutionary explanation for our propensity towards circular shapes. His account comprises three hypotheses:  
+      1. Humans prefer curves 
+      Lima mentions that from an early age babies show an innate preference for curves, a human tendency corroborated by different studies, including a seminal paper published in 2006 by cognitive psychologists Moshe Bar and Maital Neta, which revealed a strong human preference for curved objects and typefaces, as well as a 2013 study by researchers at the University of Toronto at Scarborough, which found a similar inclination in architectural spaces.  
+      2. Circles equal happiness 
+      In his second evolutionary explanation, Lima mentions the experiment conducted by psychologist John N. Bassili in 1978, where the faces of participants were painted black and subsequently covered in dozens of luminescent dots. Participants were then asked to express different emotions in order to better understand the visual contour of each sentiment. As Lima describes:  
+      
+      
+       while expressions of anger showed acute downward V shapes (angled eyebrows, cheeks, and chin), expressions of happiness were conveyed by expansive, outward curved patterns (arched cheeks, eyes, and mouth). In other words, happy faces resembled an expansive circle, while angry faces resembled a downward triangle.
+       
+      3. Spherical geometry of the eye 
+      In his third point, Lima hypothesizes on how the circular framing and spherical geometry of our visual field, which cause a distortion similar to a "fish-eye lens" or a "crystal ball", could further "reinforce our innate tendency toward all things circular". "Perhaps the brain prefers forms and contours that have a better fit within such a conditioned field of view." says Lima.  
+      Recognition 
+      Lima was nominated by Creativity magazine as "one of the 50 most creative and influential minds of 2009" and was elected Fellow of the Royal Society of Arts (FRSA) in 2010. Lima was selected for the Innovative Entrepreneurship Award in the Portuguese Diaspora (Prémio Empreendedorismo Inovador na Diáspora Portuguesa) by the Portuguese President and was elected the curator for the Portuguese delegation at the London Design Biennale 2016.  
+      Publications 
+      
+       Lima, Manuel. The Book of Circles: Visualizing Spheres of Knowledge; Princeton Architectural Press, 2017. ISBN&nbsp;978-1-61689-528-0 
+       Lima, Manuel. The Book of Trees: Visualizing Branches of Knowledge; Princeton Architectural Press, 2014. 
+        ISBN&nbsp;978-1-616-89218-0 
+       Lima, Manuel. Visual Complexity: Mapping Patterns of Information; Princeton Architectural Press, 2011. 
+        ISBN&nbsp;978-1-568-98936-5 
+       Lima, Manuel. Blogviz: Mapping the dynamics of Information Diffusion in Blogspace; Omniscriptum Publishing, 2009. 
+        ISBN&nbsp;978-3-639-20902-0
+       
+      References 
+      
+        
+        ^ 
+          "The 21 Heroes of Data Visualization: Manuel Lima". BusinessWeek. Retrieved 26 February 2013.  
+        ^ 
+          "When it comes to making data sexy, you can't be too graphic". CNN. Retrieved 26 February 2013.  
+        ^ 
+          "Information Beautification". Creativity magazine. Archived from the original on 6 February 2013. Retrieved 27 February 2013.  
+        ^ 
+          "Why do we love to organise knowledge into trees?". New Scientist. Retrieved 26 October 2020.  
+        ^ 
+          "The man who turns data into art". Wired. Archived from the original on 11 July 2012. Retrieved 26 February 2013.  
+        ^ 
+          "Information Visualization: Cartography for the 21st Century". Forbes. Retrieved 26 October 2020.  
+        ^ 
+          "Design Observer: Interview with Manuel Lima". Design Observer. Retrieved 27 October 2020.  
+        ^ 
+          "CV – Manuel Lima" (PDF).  
+        ^ 
+          "Manuel Lima on How Data Visualization Can Shape Architecture and Cities". ArchDaily. Retrieved 27 October 2020.  
+        ^ 
+          "VisualComplexity.com: 10 Years / 1,000 Projects". Medium. Retrieved 27 October 2020.  
+        ^ Lima, Manuel. Visual Complexity: Mapping Patterns of Information; Princeton Architectural Press, 2011.  
+        ^ 
+          "Manuel Lima | LinkedIn". www.linkedin.com. Retrieved 2016-02-25.  
+        ^ 
+          Talasek, J. D. (2015). "Science and Culture: Data visualization nurtures an artistic movement". Proceedings of the National Academy of Sciences of the United States of America. 112 (8): 2295. doi:10.1073/pnas.1424990112. PMC&nbsp;4345624. PMID&nbsp;25713088.  
+        ^ 
+          "A visual history of human knowledge". TED. Retrieved 26 October 2020.  
+        ^ Lima, Manuel. Visual Complexity: Mapping Patterns of Information; Princeton Architectural Press, 2011.  
+        ^ 
+          "Why Humans Are Obsessed With Circles, According To Science". FastCompany. Retrieved 26 October 2020.  
+        ^ 
+          "Circular Visualizations". American Scientist. Retrieved 26 October 2020.  
+        ^ 
+          Bar, Moshe; Neta, Maital (2006). "Humans Prefer Curved Visual Objects". Psychological Science. 17 (8): 645–648. doi:10.1111/j.1467-9280.2006.01759.x. PMID&nbsp;16913943. S2CID&nbsp;11705063. Retrieved 26 October 2020.  
+        ^ 
+          "Impact of contour on aesthetic judgments and approach-avoidance decisions in architecture". PNAS. Retrieved 26 October 2020.  
+        ^ 
+          "Facial motion in the perception of faces and of emotional expression". Journal of Experimental Psychology: Human Perception and Performance. Retrieved 26 October 2020.  
+        ^ 
+          "Why do we find circles so beautiful?". BBC Science Focus Magazine. Retrieved 26 October 2020.  
+        ^ Lima, Manuel. The Book of Circles: Visualizing Spheres of Knowledge; Princeton Architectural Press, 2017.  
+        ^ 
+          "Manuel Lima". Creativity Magazine. 10 February 2009. Retrieved 26 October 2020.  
+        ^ 
+          Lima, Manuel. "Manuel Lima". www.mslima.com. Retrieved 2015-09-27.  
+        ^ 
+          "London Design Biennale: Portugal". London Design Biennale. 7 May 2019. Retrieved 27 October 2020.  
+        ^ 
+          "UN/BIASED - Map 2". Google Arts &amp; Culture. Retrieved 27 October 2020.  
+       
+       
+      External links 
+      
+       Manuel Lima's Official Web Site. 
+       Manuel Lima's List of Talks. 
+       VisualComplexity.com. 
+       American Scientist Interview | First Person: Manuel Lima 
+       Interview with Manuel Lima for Design Observer 
+       Interview with Manuel Lima for MAS Context
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          General
+          
+            
+            
+             ISNI 
+              
+               1
+               
+             VIAF 
+              
+               1
+               
+             WorldCat
+             
+           
+         
+         
+          National libraries
+          
+            
+            
+             Norway 
+             France (data) 
+             Germany 
+             United States 
+             Latvia 
+             Japan 
+             Czech Republic 
+             Netherlands
+             
+           
+         
+         
+          Other
+          
+            
+            
+             SUDOC (France) 
+              
+               1
+              
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Manuel_Lima&amp;oldid=1045811641"
+     
+     
+    
+     
+      Categories: 
+      
+       1978 births
+       Living people
+       Information visualization experts
+       Design writers
+       Parsons School of Design alumni
+       Technical University of Lisbon alumni
+       Portuguese designers
+       Fellows of the Royal Society of Arts
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with a promotional tone from January 2017
+       All articles with a promotional tone
+       Pages using infobox person with unknown empty parameters
+       Articles with hCards
+       Articles with ISNI identifiers
+       Articles with VIAF identifiers
+       Articles with WORLDCATID identifiers
+       Articles with BIBSYS identifiers
+       Articles with BNF identifiers
+       Articles with GND identifiers
+       Articles with LCCN identifiers
+       Articles with LNB identifiers
+       Articles with NDL identifiers
+       Articles with NKC identifiers
+       Articles with NTA identifiers
+       Articles with SUDOC identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       Deutsch
+       فارسی
+       Français
+       Português
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 22 September 2021, at 15:45&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

@@ -1,0 +1,555 @@
+
+ 
+  
+   
+  Sankey diagram - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Sankey diagram 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Specific type of graphic flow diagram
+       
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This article includes a list of general references, but it remains largely unverified because it lacks sufficient corresponding inline citations. Please help to improve this article by introducing more precise citations. (July 2015) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      
+       
+         
+        
+         
+          
+         Example of a Sankey diagram
+        
+       
+       
+      
+       
+         
+        
+         
+          
+         Sankey's original 1898 diagram showing energy efficiency of a steam engine
+        
+       
+       
+      Sankey diagrams are a type of flow diagram in which the width of the arrows is proportional to the flow rate. 
+      Sankey diagrams can also visualize the energy accounts, material flow accounts on a regional or national level, and cost breakdowns. The diagrams are often used in the visualization of material flow analysis. 
+      Sankey diagrams emphasize the major transfers or flows within a system. They help locate the most important contributions to a flow. They often show conserved quantities within defined system boundaries.  
+      
+       
+       
+        Contents
+        
+        
+        1 History 
+        2 Science 
+        3 Active examples 
+        4 See also 
+        5 References 
+        6 External links 
+        
+       
+      History 
+      Sankey diagrams are named after Irish Captain Matthew Henry Phineas Riall Sankey, who used this type of diagram in 1898 in a classic figure (see diagram) showing the energy efficiency of a steam engine. The original charts in black and white displayed just one type of flow (e.g. steam); using colors for different types of flows lets the diagram express additional variables. 
+      Over time, it became a standard model used in science and engineering to represent heat balance, energy flows, material flows, and since the 1990s this visual model has been used in life-cycle assessment of products.  
+      
+       
+         
+        
+         
+          
+         Minard's classic diagram of Napoleon's invasion of Russia, using the feature now named after Sankey
+        
+       
+       
+      One of the most famous Sankey diagrams is Charles Minard's Map of Napoleon's Russian Campaign of 1812. It is a flow map, overlaying a Sankey diagram onto a geographical map. It was created in 1869, predating Sankey's first Sankey diagram of 1898.  
+      Science 
+      
+       
+         
+        
+         
+          
+         Earth's energy budget – line thickness is linearly proportional to relative amount of energy
+        
+       
+       
+      Sankey diagrams are often used in fields of science, especially physics. They are used to represent energy inputs, useful output, and wasted output.  
+      Active examples 
+      The United States Energy Information Administration (EIA) produces numerous Sankey diagrams annually in its Annual Energy Review which illustrate the production and consumption of various forms of energy. 
+      The US Department of Energy's Lawrence Livermore Laboratory maintains a site of Sankey diagrams, including US energy flow and carbon flow. 
+      Eurostat, the Statistical Office of the European Union, has developed an interactive Sankey web tool to visualise energy data by means of flow diagrams. The tool allows the building and customisation of diagrams by playing with different options (country, year, fuel, level of detail). 
+      The International Energy Agency (IEA) created an interactive Sankey web application that details the flow of energy for the entire planet. Users can select specific countries, points of time back to 1973, and modify the arrangement of various flows within the Sankey diagram. 
+      Ben Schmidt, an assistant professor of history at Northeastern University, created a Sankey diagram relating majors in college to eventual careers.  
+      See also 
+      
+       Alluvial diagram&nbsp;– a type of Sankey diagram that uses the same kind of representation to depict how items re-group 
+       Material flow management 
+       Thermodynamics 
+       Time geography
+       
+      References 
+      
+       
+       
+         
+         ^ Schmidt, Mario (2008). "The Sankey Diagram in Energy and Material Flow Management - Part II: Methodology and Current Applications". Journal of Industrial Ecology. 12 (2): 173–185. doi:10.1111/j.1530-9290.2008.00015.x. ISSN&nbsp;1530-9290.  
+         ^ 
+           Kennedy, Alex B. W.; Sankey, H. Riall (1898). "The Thermal Efficiency Of Steam Engines". Minutes of the Proceedings of the Institution of Civil Engineers. 134 (1898): 278–312. doi:10.1680/imotp.1898.19100.  
+         ^ 
+           Schmidt, Mario (2008). "The Sankey Diagram in Energy and Material Flow Management - Part I: History". Journal of Industrial Ecology. 12 (1): 82–94. doi:10.1111/j.1530-9290.2008.00004.x. S2CID&nbsp;154150190.  
+         ^ 
+           "Annual Energy Review". Energy Information Administration. Retrieved 15 December 2017.  
+         ^ 
+           "LLNL Flow Charts". Lawrence Livermore National Laboratory. Retrieved 15 December 2017.  
+         ^ 
+           "Energy balance flow for European Union (28 countries) 2015". Eurostat. Retrieved 15 December 2017.  
+         ^ 
+           "World Balance (2015)". International Energy Agency (IEA). Retrieved 15 December 2017.  
+         ^ 
+           Schmidt, Ben. "What are you going to do with that degree?". Ben Schmidt. Retrieved 15 December 2017.  
+        
+       
+       
+      External links 
+       
+       
+         
+          
+         Wikimedia Commons has media related to Sankey diagrams.
+         
+       
+       
+      
+       RAWGraphs online open-source platform allowing the creation of Sankey diagrams 
+       Scottish Executive – Energy in Scotland: Supply and Demand 
+       Irish Environmental Protection Agency – Material Flow Accounts (MFAs) – Demonstration for Ireland – 2001 
+       sankey-diagrams.com – Blog discussing the usage of Sankey diagrams 
+       IEA Energy Balance Flows – Containing International Energy Agency's data on over 150 countries and regions 
+       Eurostat energy flow diagrams – Interactive visualisation tool for the annual energy balance data of 42 countries reporting to Eurostat 
+       Grassmann diagrams (exergy flow, destruction, and loss)
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Sankey_diagram&amp;oldid=1062562883"
+     
+     
+    
+     
+      Categories: 
+      
+       Diagrams
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with short description
+       Short description matches Wikidata
+       Articles lacking in-text citations from July 2015
+       All articles lacking in-text citations
+       Commons category link is on Wikidata
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       Čeština
+       Cymraeg
+       Deutsch
+       Español
+       فارسی
+       Français
+       한국어
+       Italiano
+       Nederlands
+       日本語
+       Polski
+       Suomi
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 29 December 2021, at 05:56&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

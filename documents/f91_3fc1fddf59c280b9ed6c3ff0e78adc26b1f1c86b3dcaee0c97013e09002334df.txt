@@ -1,0 +1,9136 @@
+
+ 
+  
+   
+  Bayes' theorem - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Bayes' theorem 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Probability based on prior knowledge
+       
+      
+      
+       "Bayes rule" redirects here. For the concept in decision theory, see Bayes estimator.
+       
+      
+       
+         
+        
+         
+          
+         A blue neon sign showing the simple statement of Bayes's theorem
+        
+       
+       
+      
+      
+       
+        
+         Part of a series on
+        
+        
+         Bayesian statistics
+        
+        
+         
+        
+        
+          Theory
+        
+        
+          
+          
+           Admissible decision rule 
+           Bayesian efficiency 
+           Bayesian epistemology 
+           Bayesian probability 
+           Probability interpretations 
+           Bayes' theorem 
+           Bayes factor 
+           Bayesian inference 
+           Bayesian network 
+           Prior 
+           Posterior 
+           Likelihood 
+           Conjugate prior 
+           Posterior predictive 
+           Hyperparameter 
+           Hyperprior 
+           Principle of indifference 
+           Principle of maximum entropy 
+           Empirical Bayes method 
+           Cromwell's rule 
+           Bernstein–von Mises theorem 
+           Schwarz criterion 
+           Credible interval 
+           Maximum a posteriori estimation 
+           Radical probabilism
+           
+        
+        
+          Techniques
+        
+        
+          
+          
+           Bayesian linear regression 
+           Bayesian estimator 
+           Approximate Bayesian computation 
+           Markov chain Monte Carlo
+           
+        
+        
+          
+          
+           &nbsp;Mathematics portal
+          
+        
+        
+         
+          
+           
+            v
+            t
+            e
+           
+          
+        
+       
+       
+      In probability theory and statistics, Bayes' theorem (alternatively Bayes' law or Bayes' rule; recently Bayes–Price theorem: 44, 45, 46 and 67 ), named after Thomas Bayes, describes the probability of an event, based on prior knowledge of conditions that might be related to the event. For example, if the risk of developing health problems is known to increase with age, Bayes' theorem allows the risk to an individual of a known age to be assessed more accurately (by conditioning it on their age) than simply assuming that the individual is typical of the population as a whole. 
+      One of the many applications of Bayes' theorem is Bayesian inference, a particular approach to statistical inference. When applied, the probabilities involved in the theorem may have different probability interpretations. With Bayesian probability interpretation, the theorem expresses how a degree of belief, expressed as a probability, should rationally change to account for the availability of related evidence. Bayesian inference is fundamental to Bayesian statistics.  
+      
+       
+       
+        Contents
+        
+        
+        1 Statement of theorem 
+          
+          1.1 Proof 
+            
+            1.1.1 For events 
+            1.1.2 For continuous random variables 
+             
+           
+        2 Examples 
+          
+          2.1 Drug testing 
+            
+            2.1.1 Sensitivity or specificity 
+             
+          2.2 Cancer rate 
+          2.3 Defective item rate 
+           
+        3 Interpretations 
+          
+          3.1 Bayesian interpretation 
+          3.2 Frequentist interpretation 
+            
+            3.2.1 Example 
+             
+           
+        4 Forms 
+          
+          4.1 Events 
+            
+            4.1.1 Simple form 
+            4.1.2 Alternative form 
+            4.1.3 Extended form 
+             
+          4.2 Random variables 
+            
+            4.2.1 Simple form 
+            4.2.2 Extended form 
+             
+          4.3 Bayes' rule 
+           
+        5 Correspondence to other mathematical frameworks 
+          
+          5.1 Propositional logic 
+          5.2 Subjective logic 
+           
+        6 Generalizations 
+          
+          6.1 Conditioned version 
+            
+            6.1.1 Derivation 
+             
+          6.2 Bayes' rule with 3 events 
+           
+        7 History 
+        8 Use in genetics 
+          
+          8.1 Using pedigree to calculate probabilities 
+          8.2 Using genetic test results 
+          8.3 Genetic testing done in parallel with other risk factor identification. 
+           
+        9 See also 
+        10 Notes 
+        11 References 
+        12 Further reading 
+        13 External links 
+        
+       
+      Statement of theorem 
+      Bayes' theorem is stated mathematically as the following equation:  
+       
+       
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+              
+               ∣
+               
+              
+               B
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                 
+                  ∣
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+             
+            
+             }}
+             
+            
+            
+       
+      where 
+           
+            
+             
+             
+              A
+              
+             
+            
+           
+            
+            
+           
+          and 
+           
+            
+             
+             
+              B
+              
+             
+            
+           
+            
+            
+           
+          are events and 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+             
+              B
+              
+             
+              )
+              
+             
+              ≠
+              
+             
+              0
+              
+             
+            
+           
+            
+            
+           
+         .  
+      
+       
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+              
+               ∣
+               
+              
+               B
+               
+              
+               )
+               
+              
+             
+            
+             
+             
+            
+           is a conditional probability: the probability of event 
+            
+             
+              
+              
+               A
+               
+              
+             
+            
+             
+             
+            
+           occurring given that 
+            
+             
+              
+              
+               B
+               
+              
+             
+            
+             
+             
+            
+           is true. It is also called the posterior probability of 
+            
+             
+              
+              
+               A
+               
+              
+             
+            
+             
+             
+            
+           given 
+            
+             
+              
+              
+               B
+               
+              
+             
+            
+             
+             
+            
+          . 
+       
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               B
+               
+              
+               ∣
+               
+              
+               A
+               
+              
+               )
+               
+              
+             
+            
+             
+             
+            
+           is also a conditional probability: the probability of event 
+            
+             
+              
+              
+               B
+               
+              
+             
+            
+             
+             
+            
+           occurring given that 
+            
+             
+              
+              
+               A
+               
+              
+             
+            
+             
+             
+            
+           is true. It can also be interpreted as the likelihood of 
+            
+             
+              
+              
+               A
+               
+              
+             
+            
+             
+             
+            
+           given a fixed 
+            
+             
+              
+              
+               B
+               
+              
+             
+            
+             
+             
+            
+           because 
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               B
+               
+              
+               ∣
+               
+              
+               A
+               
+              
+               )
+               
+              
+               =
+               
+              
+               L
+               
+              
+               (
+               
+              
+               A
+               
+              
+               ∣
+               
+              
+               B
+               
+              
+               )
+               
+              
+             
+            
+             
+             
+            
+          . 
+       
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+              
+               )
+               
+              
+             
+            
+             
+             
+            
+           and 
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               B
+               
+              
+               )
+               
+              
+             
+            
+             
+             
+            
+           are the probabilities of observing 
+            
+             
+              
+              
+               A
+               
+              
+             
+            
+             
+             
+            
+           and 
+            
+             
+              
+              
+               B
+               
+              
+             
+            
+             
+             
+            
+           respectively without any given conditions; they are known as the marginal probability or prior probability. 
+       
+            
+             
+              
+              
+               A
+               
+              
+             
+            
+             
+             
+            
+           and 
+            
+             
+              
+              
+               B
+               
+              
+             
+            
+             
+             
+            
+           must be different events.
+       
+      Proof 
+      For events 
+      Bayes' theorem may be derived from the definition of conditional probability:  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+              
+               ∣
+               
+              
+               B
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  A
+                  
+                 
+                  ∩
+                  
+                 
+                  B
+                  
+                 
+                  )
+                  
+                 
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+               ,
+               
+               
+               
+                &nbsp;if&nbsp;
+                
+               
+              
+               P
+               
+              
+               (
+               
+              
+               B
+               
+              
+               )
+               
+              
+               ≠
+               
+              
+               0
+               
+              
+               ,
+               
+              
+             
+            
+             },}P(B)\neq 0,}
+             
+            
+          
+       
+       
+      where 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+             
+              A
+              
+             
+              ∩
+              
+             
+              B
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          is the probability of both A and B being true. Similarly,  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               B
+               
+              
+               ∣
+               
+              
+               A
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  A
+                  
+                 
+                  ∩
+                  
+                 
+                  B
+                  
+                 
+                  )
+                  
+                 
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+               ,
+               
+               
+               
+                &nbsp;if&nbsp;
+                
+               
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+              
+               )
+               
+              
+               ≠
+               
+              
+               0
+               
+              
+               ,
+               
+              
+             
+            
+             },}P(A)\neq 0,}
+             
+            
+          
+       
+       
+      Solving for 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+             
+              A
+              
+             
+              ∩
+              
+             
+              B
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          and substituting into the above expression for 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+             
+              A
+              
+             
+              ∣
+              
+             
+              B
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          yields Bayes' theorem:  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+              
+               ∣
+               
+              
+               B
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                 
+                  ∣
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+               ,
+               
+               
+               
+                &nbsp;if&nbsp;
+                
+               
+              
+               P
+               
+              
+               (
+               
+              
+               B
+               
+              
+               )
+               
+              
+               ≠
+               
+              
+               0.
+               
+              
+             
+            
+             },}P(B)\neq 0.}
+             
+            
+          
+       
+       
+      For continuous random variables 
+      For two continuous random variables X and Y, Bayes' theorem may be analogously derived from the definition of conditional density:  
+      
+       
+        
+            
+             
+              
+               
+               
+                f
+                
+                
+                
+                 X
+                 
+                
+                 ∣
+                 
+                
+                 Y
+                 
+                
+                 =
+                 
+                
+                 y
+                 
+                
+               
+              
+               (
+               
+              
+               x
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                  
+                  
+                   f
+                   
+                   
+                   
+                    X
+                    
+                   
+                    ,
+                    
+                   
+                    Y
+                    
+                   
+                  
+                 
+                  (
+                  
+                 
+                  x
+                  
+                 
+                  ,
+                  
+                 
+                  y
+                  
+                 
+                  )
+                  
+                 
+                 
+                  
+                  
+                   f
+                   
+                   
+                   
+                    Y
+                    
+                   
+                  
+                 
+                  (
+                  
+                 
+                  y
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+             
+            
+             (x)=(x,y)}(y)}}}
+             
+            
+          
+        
+       
+        
+            
+             
+              
+               
+               
+                f
+                
+                
+                
+                 Y
+                 
+                
+                 ∣
+                 
+                
+                 X
+                 
+                
+                 =
+                 
+                
+                 x
+                 
+                
+               
+              
+               (
+               
+              
+               y
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                  
+                  
+                   f
+                   
+                   
+                   
+                    X
+                    
+                   
+                    ,
+                    
+                   
+                    Y
+                    
+                   
+                  
+                 
+                  (
+                  
+                 
+                  x
+                  
+                 
+                  ,
+                  
+                 
+                  y
+                  
+                 
+                  )
+                  
+                 
+                 
+                  
+                  
+                   f
+                   
+                   
+                   
+                    X
+                    
+                   
+                  
+                 
+                  (
+                  
+                 
+                  x
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+             
+            
+             (y)=(x,y)}(x)}}}
+             
+            
+          
+       
+       
+      Therefore,  
+      
+       
+        
+            
+             
+              
+               
+               
+                f
+                
+                
+                
+                 X
+                 
+                
+                 ∣
+                 
+                
+                 Y
+                 
+                
+                 =
+                 
+                
+                 y
+                 
+                
+               
+              
+               (
+               
+              
+               x
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                  
+                  
+                   f
+                   
+                   
+                   
+                    Y
+                    
+                   
+                    ∣
+                    
+                   
+                    X
+                    
+                   
+                    =
+                    
+                   
+                    x
+                    
+                   
+                  
+                 
+                  (
+                  
+                 
+                  y
+                  
+                 
+                  )
+                  
+                  
+                  
+                   f
+                   
+                   
+                   
+                    X
+                    
+                   
+                  
+                 
+                  (
+                  
+                 
+                  x
+                  
+                 
+                  )
+                  
+                 
+                 
+                  
+                  
+                   f
+                   
+                   
+                   
+                    Y
+                    
+                   
+                  
+                 
+                  (
+                  
+                 
+                  y
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+               .
+               
+              
+             
+            
+             (x)=(y)f_(x)}(y)}}.}
+             
+            
+          
+       
+       
+      Examples 
+      Drug testing 
+      
+       
+         
+        
+         
+          
+         Figure 1: Using a frequency box to show 
+             
+              
+               
+               
+                P
+                
+               
+                (
+                
+                
+                
+                 User
+                 
+                
+               
+                ∣
+                
+                
+                
+                 Positive
+                 
+                
+               
+                )
+                
+               
+              
+             
+              }\mid })}
+              
+             
+            visually by comparison of shaded areas
+        
+       
+       
+      Suppose, a particular test for whether someone has been using cannabis is 90% sensitive, meaning the true positive rate (TPR)=0.90. Therefore it leads to 90% true positive results (correct identification of drug use) for cannabis users. 
+      The test is also 80% specific, meaning true negative rate (TNR)=0.80. Therefore the test correctly identifies 80% of non-use for non-users, but also generates 20% false positives, or false positive rate (FPR)=0.20, for non-users. 
+      Assuming 0.05 prevalence, meaning 5% of people use cannabis, what is the probability that a random person who tests positive is really a cannabis user? 
+      The Positive predictive value (PPV) of a test is the proportion of persons who are actually positive out of all those testing positive, and can be calculated from a sample as:  
+      
+       
+        PPV = True positive / Tested positive
+       
+       
+      If sensitivity, specificity, and prevalence are known, PPV can be calculated using Bayes theorem. Let 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+              
+              
+               User
+               
+              
+             
+              ∣
+              
+              
+              
+               Positive
+               
+              
+             
+              )
+              
+             
+            
+           
+            }\mid })}
+            
+           
+          mean "the probability that someone is a cannabis user given that they test positive," which is what is meant by PPV. We can write:  
+      
+       
+        
+            
+             
+              
+               
+                
+                 
+                  
+                  
+                   P
+                   
+                  
+                   (
+                   
+                   
+                   
+                    User
+                    
+                   
+                  
+                   ∣
+                   
+                   
+                   
+                    Positive
+                    
+                   
+                  
+                   )
+                   
+                  
+                  
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Positive
+                       
+                      
+                     
+                      ∣
+                      
+                      
+                      
+                       User
+                       
+                      
+                     
+                      )
+                      
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       User
+                       
+                      
+                     
+                      )
+                      
+                     
+                     
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Positive
+                       
+                      
+                     
+                      )
+                      
+                     
+                    
+                   
+                  
+                 
+                 
+                  
+                  
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Positive
+                       
+                      
+                     
+                      ∣
+                      
+                      
+                      
+                       User
+                       
+                      
+                     
+                      )
+                      
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       User
+                       
+                      
+                     
+                      )
+                      
+                     
+                     
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Positive
+                       
+                      
+                     
+                      ∣
+                      
+                      
+                      
+                       User
+                       
+                      
+                     
+                      )
+                      
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       User
+                       
+                      
+                     
+                      )
+                      
+                     
+                      +
+                      
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Positive
+                       
+                      
+                     
+                      ∣
+                      
+                      
+                      
+                       Non-user
+                       
+                      
+                     
+                      )
+                      
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Non-user
+                       
+                      
+                     
+                      )
+                      
+                     
+                    
+                   
+                  
+                 
+                 
+                  
+                  
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      0.90
+                      
+                     
+                      ×
+                      
+                     
+                      0.05
+                      
+                     
+                     
+                     
+                      0.90
+                      
+                     
+                      ×
+                      
+                     
+                      0.05
+                      
+                     
+                      +
+                      
+                     
+                      0.20
+                      
+                     
+                      ×
+                      
+                     
+                      0.95
+                      
+                     
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                    
+                     0.045
+                     
+                     
+                     
+                      0.045
+                      
+                     
+                      +
+                      
+                     
+                      0.19
+                      
+                     
+                    
+                   
+                  
+                   ≈
+                   
+                  
+                   19
+                   
+                  
+                   %
+                   
+                  
+                 
+                
+               
+              
+             
+            
+             P(}\mid })&amp;=}\mid })P(})}})}}\\&amp;=}\mid })P(})}}\mid })P(})+P(}\mid })P(})}}\\&amp;=}=}\approx 19\%\end}}
+             
+            
+          
+       
+       
+      The fact that 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+              
+              
+               Positive
+               
+              
+             
+              )
+              
+             
+              =
+              
+             
+              P
+              
+             
+              (
+              
+              
+              
+               Positive
+               
+              
+             
+              ∣
+              
+              
+              
+               User
+               
+              
+             
+              )
+              
+             
+              P
+              
+             
+              (
+              
+              
+              
+               User
+               
+              
+             
+              )
+              
+             
+              +
+              
+             
+              P
+              
+             
+              (
+              
+              
+              
+               Positive
+               
+              
+             
+              ∣
+              
+              
+              
+               Non-user
+               
+              
+             
+              )
+              
+             
+              P
+              
+             
+              (
+              
+              
+              
+               Non-user
+               
+              
+             
+              )
+              
+             
+            
+           
+            })=P(}\mid })P(})+P(}\mid })P(})}
+            
+           
+          is a direct application of the Law of Total Probability. In this case, it says that the probability that someone tests positive is the probability that a user tests positive, times the probability of being a user, plus the probability that a non-user tests positive, times the probability of being a non-user. This is true because the classifications user and non-user form a partition of a set, namely the set of people who take the drug test. This combined with the definition of conditional probability results in the above statement. 
+      In other words, even if someone tests positive, the probability that they are a cannabis user is only 19% — this is because in this group, only 5% of people are users, and most positives are false positives coming from the remaining 95%. 
+      If 1,000 people were tested:  
+      
+       950 are non-users and 190 of them give false positive (0.20 × 950) 
+       50 of them are users and 45 of them give true positive (0.90 × 50)
+       
+      The 1,000 people thus yields 235 positive tests, of which only 45 are genuine drug users, about 19%. See Figure 1 for an illustration using a frequency box, and note how small the pink area of true positives is compared to the blue area of false positives.  
+      Sensitivity or specificity 
+      The importance of specificity can be seen by showing that even if sensitivity is raised to 100% and specificity remains at 80%, the probability of someone testing positive really being a cannabis user only rises from 19% to 21%, but if the sensitivity is held at 90% and the specificity is increased to 95%, the probability rises to 49%.  
+       
+        
+        
+          
+           
+            
+            
+              
+              
+               
+                Test
+               
+               
+                Actual
+                 
+              Positive  
+              Negative  
+                
+              Total 
+              
+              
+              User  
+              45  
+              5  
+              50 
+              
+              
+              Non-user  
+              190  
+              760  
+              950 
+              
+              
+               
+              
+              
+              Total  
+              235  
+              765  
+              1000 
+              
+              
+              90% sensitive, 80% specific, PPV=45/235 ≈ 19% 
+             
+            
+               
+           
+            
+            
+              
+              
+               
+                Test
+               
+               
+                Actual
+                 
+              Positive  
+              Negative  
+                
+              Total 
+              
+              
+              User  
+              50  
+              0  
+              50 
+              
+              
+              Non-user  
+              190  
+              760  
+              950 
+              
+              
+               
+              
+              
+              Total  
+              240  
+              760  
+              1000 
+              
+              
+              100% sensitive, 80% specific, PPV=50/240 ≈ 21% 
+             
+            
+               
+           
+            
+            
+              
+              
+               
+                Test
+               
+               
+                Actual
+                 
+              Positive  
+              Negative  
+                
+              Total 
+              
+              
+              User  
+              45  
+              5  
+              50 
+              
+              
+              Non-user  
+              47  
+              903  
+              950 
+              
+              
+               
+              
+              
+              Total  
+              92  
+              908  
+              1000 
+              
+              
+              90% sensitive, 95% specific, PPV=45/92 ≈ 49% 
+             
+            
+              
+         
+        
+       
+       
+      Cancer rate 
+      Even if 100% of patients with pancreatic cancer have a certain symptom, when someone has the same symptom, it does not mean that this person has a 100% chance of getting pancreatic cancer. Assuming the incidence rate of pancreatic cancer is 1/100000, while 10/99999 healthy individuals have the same symptoms worldwide, the probability of having pancreatic cancer given the symptoms is only 9.1%, and the other 90.9% could be "false positives" (that is, falsely said to have cancer; "positive" is a confusing term when, as here, the test gives bad news). 
+      Based on incidence rate, the following table presents the corresponding numbers per 100,000 people.  
+       
+       
+         
+         
+          
+           Symptom
+          
+          
+           Cancer
+            
+         Yes  
+         No  
+           
+         Total 
+         
+         
+         Yes  
+         1  
+         0  
+         1 
+         
+         
+         No  
+         10  
+         99989  
+         99999 
+         
+         
+          
+         
+         
+         Total  
+         11  
+         99989  
+         100000 
+        
+       
+       
+      Which can then be used to calculate the probability of having cancer when you have the symptoms:  
+      
+       
+        
+            
+             
+              
+               
+                
+                 
+                  
+                  
+                   P
+                   
+                  
+                   (
+                   
+                   
+                   
+                    Cancer
+                    
+                   
+                   
+                   
+                    |
+                    
+                   
+                   
+                   
+                    Symptoms
+                    
+                   
+                  
+                   )
+                   
+                  
+                  
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Symptoms
+                       
+                      
+                      
+                      
+                       |
+                       
+                      
+                      
+                      
+                       Cancer
+                       
+                      
+                     
+                      )
+                      
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Cancer
+                       
+                      
+                     
+                      )
+                      
+                     
+                     
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Symptoms
+                       
+                      
+                     
+                      )
+                      
+                     
+                    
+                   
+                  
+                 
+                 
+                  
+                  
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Symptoms
+                       
+                      
+                      
+                      
+                       |
+                       
+                      
+                      
+                      
+                       Cancer
+                       
+                      
+                     
+                      )
+                      
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Cancer
+                       
+                      
+                     
+                      )
+                      
+                     
+                     
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Symptoms
+                       
+                      
+                      
+                      
+                       |
+                       
+                      
+                      
+                      
+                       Cancer
+                       
+                      
+                     
+                      )
+                      
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Cancer
+                       
+                      
+                     
+                      )
+                      
+                     
+                      +
+                      
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Symptoms
+                       
+                      
+                      
+                      
+                       |
+                       
+                      
+                      
+                      
+                       Non-Cancer
+                       
+                      
+                     
+                      )
+                      
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Non-Cancer
+                       
+                      
+                     
+                      )
+                      
+                     
+                    
+                   
+                  
+                 
+                 
+                  
+                  
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      1
+                      
+                     
+                      ×
+                      
+                     
+                      0.00001
+                      
+                     
+                     
+                     
+                      1
+                      
+                     
+                      ×
+                      
+                     
+                      0.00001
+                      
+                     
+                      +
+                      
+                     
+                      (
+                      
+                     
+                      10
+                      
+                      
+                      
+                       /
+                       
+                      
+                     
+                      99999
+                      
+                     
+                      )
+                      
+                     
+                      ×
+                      
+                     
+                      0.99999
+                      
+                     
+                    
+                   
+                  
+                   =
+                   
+                   
+                    
+                    
+                     1
+                     
+                    
+                     11
+                     
+                    
+                   
+                  
+                   ≈
+                   
+                  
+                   9.1
+                   
+                  
+                   %
+                   
+                  
+                 
+                
+               
+              
+             
+            
+             P(}|})&amp;=}|})P(})}})}}\\&amp;=}|})P(})}}|})P(})+P(}|})P(})}}\\&amp;=}=}\approx 9.1\%\end}}
+             
+            
+          
+       
+       
+      Defective item rate 
+       
+       
+         
+         
+          
+           Condition
+          
+          
+           Machine
+            
+         Defective  
+         Flawless  
+           
+         Total 
+         
+         
+         A  
+         10  
+         190  
+         200 
+         
+         
+         B  
+         9  
+         291  
+         300 
+         
+         
+         C  
+         5  
+         495  
+         500 
+         
+         
+          
+         
+         
+         Total  
+         24  
+         976  
+         1000 
+        
+       
+       
+      A factory produces an item using three machines—A, B, and C—which account for 20%, 30%, and 50% of its output, respectively. Of the items produced by machine A, 5% are defective; similarly, 3% of machine B's items and 1% of machine C's are defective. If a randomly selected item is defective, what is the probability it was produced by machine C? 
+      Once again, the answer can be reached without using the formula by applying the conditions to a hypothetical number of cases. For example, if the factory produces 1,000 items, 200 will be produced by Machine A, 300 by Machine B, and 500 by Machine C. Machine A will produce 5% × 200 = 10 defective items, Machine B 3% × 300 = 9, and Machine C 1% × 500 = 5, for a total of 24. Thus, the likelihood that a randomly selected defective item was produced by machine C is 5/24 (~20.83%). 
+      This problem can also be solved using Bayes' theorem: Let Xi denote the event that a randomly chosen item was made by the i th machine (for i&nbsp;= A,B,C). Let Y denote the event that a randomly chosen item is defective. Then, we are given the following information:  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+               
+               
+                X
+                
+                
+                
+                 A
+                 
+                
+               
+              
+               )
+               
+              
+               =
+               
+              
+               0.2
+               
+              
+               ,
+               
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                X
+                
+                
+                
+                 B
+                 
+                
+               
+              
+               )
+               
+              
+               =
+               
+              
+               0.3
+               
+              
+               ,
+               
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                X
+                
+                
+                
+                 C
+                 
+                
+               
+              
+               )
+               
+              
+               =
+               
+              
+               0.5.
+               
+              
+             
+            
+             )=0.2,\quad P(X_)=0.3,\quad P(X_)=0.5.}
+             
+            
+          
+       
+       
+      If the item was made by the first machine, then the probability that it is defective is 0.05; that is, P(Y | XA) = 0.05. Overall, we have  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               Y
+               
+               
+               
+                |
+                
+               
+               
+               
+                X
+                
+                
+                
+                 A
+                 
+                
+               
+              
+               )
+               
+              
+               =
+               
+              
+               0.05
+               
+              
+               ,
+               
+               
+              
+               P
+               
+              
+               (
+               
+              
+               Y
+               
+               
+               
+                |
+                
+               
+               
+               
+                X
+                
+                
+                
+                 B
+                 
+                
+               
+              
+               )
+               
+              
+               =
+               
+              
+               0.03
+               
+              
+               ,
+               
+               
+              
+               P
+               
+              
+               (
+               
+              
+               Y
+               
+               
+               
+                |
+                
+               
+               
+               
+                X
+                
+                
+                
+                 C
+                 
+                
+               
+              
+               )
+               
+              
+               =
+               
+              
+               0.01.
+               
+              
+             
+            
+             )=0.05,\quad P(Y|X_)=0.03,\quad P(Y|X_)=0.01.}
+             
+            
+          
+       
+       
+      To answer the original question, we first find P(Y). That can be done in the following way:  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               Y
+               
+              
+               )
+               
+              
+               =
+               
+               
+               
+                ∑
+                
+                
+                
+                 i
+                 
+                
+               
+              
+               P
+               
+              
+               (
+               
+              
+               Y
+               
+               
+               
+                |
+                
+               
+               
+               
+                X
+                
+                
+                
+                 i
+                 
+                
+               
+              
+               )
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                X
+                
+                
+                
+                 i
+                 
+                
+               
+              
+               )
+               
+              
+               =
+               
+              
+               (
+               
+              
+               0.05
+               
+              
+               )
+               
+              
+               (
+               
+              
+               0.2
+               
+              
+               )
+               
+              
+               +
+               
+              
+               (
+               
+              
+               0.03
+               
+              
+               )
+               
+              
+               (
+               
+              
+               0.3
+               
+              
+               )
+               
+              
+               +
+               
+              
+               (
+               
+              
+               0.01
+               
+              
+               )
+               
+              
+               (
+               
+              
+               0.5
+               
+              
+               )
+               
+              
+               =
+               
+              
+               0.024.
+               
+              
+             
+            
+             P(Y|X_)P(X_)=(0.05)(0.2)+(0.03)(0.3)+(0.01)(0.5)=0.024.}
+             
+            
+          
+       
+       
+      Hence, 2.4% of the total output is defective. 
+      We are given that Y has occurred, and we want to calculate the conditional probability of XC. By Bayes' theorem,  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+               
+               
+                X
+                
+                
+                
+                 C
+                 
+                
+               
+               
+               
+                |
+                
+               
+              
+               Y
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  Y
+                  
+                  
+                  
+                   |
+                   
+                  
+                  
+                  
+                   X
+                   
+                   
+                   
+                    C
+                    
+                   
+                  
+                 
+                  )
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                  
+                  
+                   X
+                   
+                   
+                   
+                    C
+                    
+                   
+                  
+                 
+                  )
+                  
+                 
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  Y
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+               =
+               
+               
+                
+                 
+                 
+                  0.01
+                  
+                 
+                  ⋅
+                  
+                 
+                  0.50
+                  
+                 
+                
+                 0.024
+                 
+                
+               
+              
+               =
+               
+               
+                
+                
+                 5
+                 
+                
+                 24
+                 
+                
+               
+              
+             
+            
+             |Y)=)P(X_)}}=}=}}
+             
+            
+          
+       
+       
+      Given that the item is defective, the probability that it was made by machine C is 5/24. Although machine C produces half of the total output, it produces a much smaller fraction of the defective items. Hence the knowledge that the item selected was defective enables us to replace the prior probability P(XC)&nbsp;= 1/2 by the smaller posterior probability P(XC | Y)&nbsp;= 5/24.  
+      Interpretations 
+      
+       
+         
+        
+         
+          
+         Figure 2: A geometric visualisation of Bayes' theorem.
+        
+       
+       
+      The interpretation of Bayes' rule depends on the interpretation of probability ascribed to the terms. The two main interpretations are described below. Figure 2 shows a geometric visualization similar to Figure 1. Gerd Gigerenzer and co-authors have pushed hard for teaching Bayes Rule this way, with special emphasis on teaching it to physicians. An example is Will Kurt's webpage, "Bayes' Theorem with Lego," later turned into the book, Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks. Zhu and Gigerenzer found in 2006 that whereas 0% of 4th, 5th, and 6th-graders could solve word problems after being taught with formulas, 19%, 39%, and 53% could after being taught with frequency boxes, and that the learning was either thorough or zero.  
+      Bayesian interpretation 
+      In the Bayesian (or epistemological) interpretation, probability measures a "degree of belief". Bayes' theorem links the degree of belief in a proposition before and after accounting for evidence. For example, suppose it is believed with 50% certainty that a coin is twice as likely to land heads than tails. If the coin is flipped a number of times and the outcomes observed, that degree of belief will probably rise or fall, but might even remain the same, depending on the results. For proposition A and evidence B,  
+      
+       
+        
+         P (A), the prior, is the initial degree of belief in A. 
+         P (A | B), the posterior, is the degree of belief after incorporating news that B is true. 
+         the quotient P(B | A)/P(B) represents the support B provides for A.
+        
+       
+       
+      For more on the application of Bayes' theorem under the Bayesian interpretation of probability, see Bayesian inference.  
+      Frequentist interpretation 
+      
+       
+         
+        
+         
+          
+         Figure 3: Illustration of frequentist interpretation with tree diagrams.
+        
+       
+       
+      In the frequentist interpretation, probability measures a "proportion of outcomes". For example, suppose an experiment is performed many times. P(A) is the proportion of outcomes with property A (the prior) and P(B) is the proportion with property B. P(B | A) is the proportion of outcomes with property B out of outcomes with property A, and P(A | B) is the proportion of those with A out of those with&nbsp;B (the posterior). 
+      The role of Bayes' theorem is best visualized with tree diagrams such as Figure 3. The two diagrams partition the same outcomes by A and B in opposite orders, to obtain the inverse probabilities. Bayes' theorem links the different partitionings.  
+      Example 
+      
+       
+         
+        
+         
+          
+         Figure 4: Tree diagram illustrating the beetle example. R, C, P and 
+             
+              
+               
+                
+                 
+                 
+                  P
+                  
+                 
+                  ¯
+                  
+                 
+                
+               
+              
+             
+              }}
+              
+             
+            are the events rare, common, pattern and no pattern. Percentages in parentheses are calculated. Three independent values are given, so it is possible to calculate the inverse tree.
+        
+       
+       
+      An entomologist spots what might, due to the pattern on its back, be a rare subspecies of beetle. A full 98% of the members of the rare subspecies have the pattern, so P(Pattern&nbsp;|&nbsp;Rare) = 98%. Only 5% of members of the common subspecies have the pattern. The rare subspecies is 0.1% of the total population. How likely is the beetle having the pattern to be rare: what is P(Rare&nbsp;|&nbsp;Pattern)? 
+      From the extended form of Bayes' theorem (since any beetle is either rare or common),  
+      
+       
+        
+            
+             
+              
+               
+                
+                 
+                  
+                  
+                   P
+                   
+                  
+                   (
+                   
+                   
+                   
+                    Rare
+                    
+                   
+                  
+                   ∣
+                   
+                   
+                   
+                    Pattern
+                    
+                   
+                  
+                   )
+                   
+                  
+                  
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Pattern
+                       
+                      
+                     
+                      ∣
+                      
+                      
+                      
+                       Rare
+                       
+                      
+                     
+                      )
+                      
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Rare
+                       
+                      
+                     
+                      )
+                      
+                     
+                     
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Pattern
+                       
+                      
+                     
+                      )
+                      
+                     
+                    
+                   
+                  
+                 
+                 
+                  
+                  
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Pattern
+                       
+                      
+                     
+                      ∣
+                      
+                      
+                      
+                       Rare
+                       
+                      
+                     
+                      )
+                      
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Rare
+                       
+                      
+                     
+                      )
+                      
+                     
+                     
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Pattern
+                       
+                      
+                     
+                      ∣
+                      
+                      
+                      
+                       Rare
+                       
+                      
+                     
+                      )
+                      
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Rare
+                       
+                      
+                     
+                      )
+                      
+                     
+                      +
+                      
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Pattern
+                       
+                      
+                     
+                      ∣
+                      
+                      
+                      
+                       Common
+                       
+                      
+                     
+                      )
+                      
+                     
+                      P
+                      
+                     
+                      (
+                      
+                      
+                      
+                       Common
+                       
+                      
+                     
+                      )
+                      
+                     
+                    
+                   
+                  
+                 
+                 
+                  
+                  
+                   
+                  
+                   =
+                   
+                   
+                    
+                     
+                     
+                      0.98
+                      
+                     
+                      ×
+                      
+                     
+                      0.001
+                      
+                     
+                     
+                     
+                      0.98
+                      
+                     
+                      ×
+                      
+                     
+                      0.001
+                      
+                     
+                      +
+                      
+                     
+                      0.05
+                      
+                     
+                      ×
+                      
+                     
+                      0.999
+                      
+                     
+                    
+                   
+                  
+                 
+                 
+                  
+                  
+                   
+                  
+                   ≈
+                   
+                  
+                   1.9
+                   
+                  
+                   %
+                   
+                  
+                 
+                
+               
+              
+             
+            
+             P(}\mid })&amp;=}\mid })P(})}})}}\\&amp;=}\mid })P(})}}\mid })P(})+P(}\mid })P(})}}\\&amp;=}\\&amp;\approx 1.9\%\end}}
+             
+            
+          
+       
+       
+      Forms 
+      Events 
+      Simple form 
+      For events A and B, provided that P(B)&nbsp;≠&nbsp;0,  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+               
+               
+                |
+                
+               
+              
+               B
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+               ⋅
+               
+              
+             
+            
+             }\cdot }
+             
+            
+          
+       
+       
+      In many applications, for instance in Bayesian inference, the event B is fixed in the discussion, and we wish to consider the impact of its having been observed on our belief in various possible events A. In such a situation the denominator of the last expression, the probability of the given evidence B, is fixed; what we want to vary is A. Bayes' theorem then shows that the posterior probabilities are proportional to the numerator, so the last equation becomes:  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+               
+               
+                |
+                
+               
+              
+               B
+               
+              
+               )
+               
+              
+               ∝
+               
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+              
+               )
+               
+              
+               ⋅
+               
+              
+               P
+               
+              
+               (
+               
+              
+               B
+               
+               
+               
+                |
+                
+               
+              
+               A
+               
+              
+               )
+               
+              
+             
+            
+             
+             
+            
+           .
+       
+       
+      In words, the posterior is proportional to the prior times the likelihood. 
+      If events A1, A2, ..., are mutually exclusive and exhaustive, i.e., one of them is certain to occur but no two can occur together, we can determine the proportionality constant by using the fact that their probabilities must add up to one. For instance, for a given event A, the event A itself and its complement ¬A are exclusive and exhaustive. Denoting the constant of proportionality by c we have  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+               
+               
+                |
+                
+               
+              
+               B
+               
+              
+               )
+               
+              
+               =
+               
+              
+               c
+               
+              
+               ⋅
+               
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+              
+               )
+               
+              
+               ⋅
+               
+              
+               P
+               
+              
+               (
+               
+              
+               B
+               
+               
+               
+                |
+                
+               
+              
+               A
+               
+              
+               )
+               
+               
+               
+                &nbsp;and&nbsp;
+                
+               
+              
+               P
+               
+              
+               (
+               
+              
+               ¬
+               
+              
+               A
+               
+               
+               
+                |
+                
+               
+              
+               B
+               
+              
+               )
+               
+              
+               =
+               
+              
+               c
+               
+              
+               ⋅
+               
+              
+               P
+               
+              
+               (
+               
+              
+               ¬
+               
+              
+               A
+               
+              
+               )
+               
+              
+               ⋅
+               
+              
+               P
+               
+              
+               (
+               
+              
+               B
+               
+               
+               
+                |
+                
+               
+              
+               ¬
+               
+              
+               A
+               
+              
+               )
+               
+              
+               .
+               
+              
+             
+            
+             }P(\neg A|B)=c\cdot P(\neg A)\cdot P(B|\neg A).}
+             
+            
+          
+       
+       
+      Adding these two formulas we deduce that  
+      
+       
+        
+            
+             
+              
+              
+               1
+               
+              
+               =
+               
+              
+               c
+               
+              
+               ⋅
+               
+              
+               (
+               
+              
+               P
+               
+              
+               (
+               
+              
+               B
+               
+               
+               
+                |
+                
+               
+              
+               A
+               
+              
+               )
+               
+              
+               ⋅
+               
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+              
+               )
+               
+              
+               +
+               
+              
+               P
+               
+              
+               (
+               
+              
+               B
+               
+               
+               
+                |
+                
+               
+              
+               ¬
+               
+              
+               A
+               
+              
+               )
+               
+              
+               ⋅
+               
+              
+               P
+               
+              
+               (
+               
+              
+               ¬
+               
+              
+               A
+               
+              
+               )
+               
+              
+               )
+               
+              
+               ,
+               
+              
+             
+            
+             
+             
+            
+          
+       
+       
+      or  
+      
+       
+        
+            
+             
+              
+              
+               c
+               
+              
+               =
+               
+               
+                
+                
+                 1
+                 
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                  ⋅
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                  +
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                  ¬
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                  ⋅
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  ¬
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+               =
+               
+               
+                
+                
+                 1
+                 
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+               .
+               
+              
+             
+            
+             }=}.}
+             
+            
+          
+       
+       
+      Alternative form 
+       
+       
+        Contingency table 
+        
+       
+         
+         
+          
+           &nbsp;&nbsp;Background
+          
+          
+           Proposition
+           
+         B 
+         ¬B(not B) 
+          
+         Total 
+         
+         
+         A  
+         P(B|A)·P(A)= P(A|B)·P(B) 
+         P(¬B|A)·P(A)= P(A|¬B)·P(¬B) 
+         P(A) 
+         
+         
+         ¬A(not A)  
+         P(B|¬A)·P(¬A)= P(¬A|B)·P(B) 
+         P(¬B|¬A)·P(¬A)= P(¬A|¬B)·P(¬B) 
+         P(¬A)&nbsp;=1−P(A) 
+         
+         
+          
+         
+         
+         Total  
+         &nbsp;&nbsp; P(B) 
+         &nbsp;&nbsp; P(¬B) = 1−P(B) 
+         1 
+        
+       
+       
+      Another form of Bayes' theorem for two competing statements or hypotheses is:  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+               
+               
+                |
+                
+               
+              
+               B
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                  +
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                  ¬
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  ¬
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+               .
+               
+              
+             
+            
+             }.}
+             
+            
+          
+       
+       
+      For an epistemological interpretation: 
+      For proposition A and evidence or background B,  
+      
+       
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+              
+               )
+               
+              
+             
+            
+             
+             
+            
+           is the prior probability, the initial degree of belief in A. 
+       
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               ¬
+               
+              
+               A
+               
+              
+               )
+               
+              
+             
+            
+             
+             
+            
+           is the corresponding initial degree of belief in not-A, that A is false, where 
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               ¬
+               
+              
+               A
+               
+              
+               )
+               
+              
+               =
+               
+              
+               1
+               
+              
+               −
+               
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+              
+               )
+               
+              
+             
+            
+             
+             
+            
+           
+       
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               B
+               
+               
+               
+                |
+                
+               
+              
+               A
+               
+              
+               )
+               
+              
+             
+            
+             
+             
+            
+           is the conditional probability or likelihood, the degree of belief in B given that proposition A is true. 
+       
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               B
+               
+               
+               
+                |
+                
+               
+              
+               ¬
+               
+              
+               A
+               
+              
+               )
+               
+              
+             
+            
+             
+             
+            
+           is the conditional probability or likelihood, the degree of belief in B given that proposition A is false. 
+       
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+               
+               
+                |
+                
+               
+              
+               B
+               
+              
+               )
+               
+              
+             
+            
+             
+             
+            
+           is the posterior probability, the probability of A after taking into account B.
+       
+      Extended form 
+      Often, for some partition  of the sample space, the event space is given in terms of P(Aj) and P(B&nbsp;|&nbsp;Aj). It is then useful to compute P(B) using the law of total probability:  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               B
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                
+                 ∑
+                 
+                 
+                 
+                  j
+                  
+                 
+                
+               
+                P
+                
+               
+                (
+                
+               
+                B
+                
+                
+                
+                 |
+                 
+                
+                
+                
+                 A
+                 
+                 
+                 
+                  j
+                  
+                 
+                
+               
+                )
+                
+               
+                P
+                
+               
+                (
+                
+                
+                
+                 A
+                 
+                 
+                 
+                  j
+                  
+                 
+                
+               
+                )
+                
+               
+              
+               ,
+               
+              
+             
+            
+             P(B|A_)P(A_)},}
+             
+            
+          
+        
+       
+        
+            
+             
+              
+              
+               ⇒
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                A
+                
+                
+                
+                 i
+                 
+                
+               
+               
+               
+                |
+                
+               
+              
+               B
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                  
+                  
+                   |
+                   
+                  
+                  
+                  
+                   A
+                   
+                   
+                   
+                    i
+                    
+                   
+                  
+                 
+                  )
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                  
+                  
+                   A
+                   
+                   
+                   
+                    i
+                    
+                   
+                  
+                 
+                  )
+                  
+                 
+                 
+                  
+                  
+                   ∑
+                   
+                   
+                   
+                    j
+                    
+                   
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                  
+                  
+                   |
+                   
+                  
+                  
+                  
+                   A
+                   
+                   
+                   
+                    j
+                    
+                   
+                  
+                 
+                  )
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                  
+                  
+                   A
+                   
+                   
+                   
+                    j
+                    
+                   
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+               ⋅
+               
+              
+             
+            
+             |B)=)P(A_)}P(B|A_)P(A_)}}\cdot }
+             
+            
+          
+       
+       
+      In the special case where A is a binary variable:  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+               
+               
+                |
+                
+               
+              
+               B
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                  +
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                  ¬
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  ¬
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+               ⋅
+               
+              
+             
+            
+             }\cdot }
+             
+            
+          
+       
+       
+      Random variables 
+      
+       
+         
+        
+         
+          
+         Figure 5: Bayes' theorem applied to an event space generated by continuous random variables X and Y. There exists an instance of Bayes' theorem for each point in the domain. In practice, these instances might be parametrized by writing the specified probability densities as a function of x and y.
+        
+       
+       
+      Consider a sample space Ω generated by two random variables X and Y. In principle, Bayes' theorem applies to the events A&nbsp;=&nbsp; and B&nbsp;=&nbsp;.  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               X
+               
+               
+               
+                =
+                
+               
+              
+               x
+               
+               
+               
+                |
+                
+               
+              
+               Y
+               
+               
+               
+                =
+                
+               
+              
+               y
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  Y
+                  
+                  
+                  
+                   =
+                   
+                  
+                 
+                  y
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                  X
+                  
+                  
+                  
+                   =
+                   
+                  
+                 
+                  x
+                  
+                 
+                  )
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  X
+                  
+                  
+                  
+                   =
+                   
+                  
+                 
+                  x
+                  
+                 
+                  )
+                  
+                 
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  Y
+                  
+                  
+                  
+                   =
+                   
+                  
+                 
+                  y
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+             
+            
+             x|Yy)=y|Xx)P(Xx)}y)}}}
+             
+            
+          
+       
+       
+      However, terms become 0 at points where either variable has finite probability density. To remain useful, Bayes' theorem must be formulated in terms of the relevant densities (see Derivation).  
+      Simple form 
+      If X is continuous and Y is discrete,  
+      
+       
+        
+            
+             
+              
+               
+               
+                f
+                
+                
+                
+                 X
+                 
+                 
+                 
+                  |
+                  
+                 
+                
+                 Y
+                 
+                 
+                 
+                  =
+                  
+                 
+                
+                 y
+                 
+                
+               
+              
+               (
+               
+              
+               x
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  Y
+                  
+                  
+                  
+                   =
+                   
+                  
+                 
+                  y
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                  X
+                  
+                  
+                  
+                   =
+                   
+                  
+                 
+                  x
+                  
+                 
+                  )
+                  
+                  
+                  
+                   f
+                   
+                   
+                   
+                    X
+                    
+                   
+                  
+                 
+                  (
+                  
+                 
+                  x
+                  
+                 
+                  )
+                  
+                 
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  Y
+                  
+                  
+                  
+                   =
+                   
+                  
+                 
+                  y
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+             
+            
+             y}(x)=y|Xx)f_(x)}y)}}}
+             
+            
+          
+       
+       
+      where each 
+           
+            
+             
+             
+              f
+              
+             
+            
+           
+            
+            
+           
+          is a density function. 
+      If X is discrete and Y is continuous,  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               X
+               
+               
+               
+                =
+                
+               
+              
+               x
+               
+               
+               
+                |
+                
+               
+              
+               Y
+               
+               
+               
+                =
+                
+               
+              
+               y
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                  
+                  
+                   f
+                   
+                   
+                   
+                    Y
+                    
+                    
+                    
+                     |
+                     
+                    
+                   
+                    X
+                    
+                    
+                    
+                     =
+                     
+                    
+                   
+                    x
+                    
+                   
+                  
+                 
+                  (
+                  
+                 
+                  y
+                  
+                 
+                  )
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  X
+                  
+                  
+                  
+                   =
+                   
+                  
+                 
+                  x
+                  
+                 
+                  )
+                  
+                 
+                 
+                  
+                  
+                   f
+                   
+                   
+                   
+                    Y
+                    
+                   
+                  
+                 
+                  (
+                  
+                 
+                  y
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+               .
+               
+              
+             
+            
+             x|Yy)=x}(y)P(Xx)}(y)}}.}
+             
+            
+          
+       
+       
+      If both X and Y are continuous,  
+      
+       
+        
+            
+             
+              
+               
+               
+                f
+                
+                
+                
+                 X
+                 
+                 
+                 
+                  |
+                  
+                 
+                
+                 Y
+                 
+                 
+                 
+                  =
+                  
+                 
+                
+                 y
+                 
+                
+               
+              
+               (
+               
+              
+               x
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                  
+                  
+                   f
+                   
+                   
+                   
+                    Y
+                    
+                    
+                    
+                     |
+                     
+                    
+                   
+                    X
+                    
+                    
+                    
+                     =
+                     
+                    
+                   
+                    x
+                    
+                   
+                  
+                 
+                  (
+                  
+                 
+                  y
+                  
+                 
+                  )
+                  
+                  
+                  
+                   f
+                   
+                   
+                   
+                    X
+                    
+                   
+                  
+                 
+                  (
+                  
+                 
+                  x
+                  
+                 
+                  )
+                  
+                 
+                 
+                  
+                  
+                   f
+                   
+                   
+                   
+                    Y
+                    
+                   
+                  
+                 
+                  (
+                  
+                 
+                  y
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+               .
+               
+              
+             
+            
+             y}(x)=x}(y)f_(x)}(y)}}.}
+             
+            
+          
+       
+       
+      Extended form 
+      
+       
+         
+        
+         
+          
+         Figure 6: A way to conceptualize event spaces generated by continuous random variables X and Y.
+        
+       
+       
+      A continuous event space is often conceptualized in terms of the numerator terms. It is then useful to eliminate the denominator using the law of total probability. For fY(y), this becomes an integral:  
+      
+       
+        
+            
+             
+              
+               
+               
+                f
+                
+                
+                
+                 Y
+                 
+                
+               
+              
+               (
+               
+              
+               y
+               
+              
+               )
+               
+              
+               =
+               
+               
+               
+                ∫
+                
+                
+                
+                 −
+                 
+                
+                 ∞
+                 
+                
+                
+                
+                 ∞
+                 
+                
+               
+               
+               
+                f
+                
+                
+                
+                 Y
+                 
+                 
+                 
+                  |
+                  
+                 
+                
+                 X
+                 
+                
+                 =
+                 
+                
+                 ξ
+                 
+                
+               
+              
+               (
+               
+              
+               y
+               
+              
+               )
+               
+               
+               
+                f
+                
+                
+                
+                 X
+                 
+                
+               
+              
+               (
+               
+              
+               ξ
+               
+              
+               )
+               
+               
+              
+               d
+               
+              
+               ξ
+               
+              
+               .
+               
+              
+             
+            
+             (y)=\int _^f_(y)f_(\xi )\,d\xi .}
+             
+            
+          
+       
+       
+      Bayes' rule 
+      Bayes' theorem in odds form is:  
+      
+       
+        
+            
+             
+              
+              
+               O
+               
+              
+               (
+               
+               
+               
+                A
+                
+                
+                
+                 1
+                 
+                
+               
+              
+               :
+               
+               
+               
+                A
+                
+                
+                
+                 2
+                 
+                
+               
+              
+               ∣
+               
+              
+               B
+               
+              
+               )
+               
+              
+               =
+               
+              
+               O
+               
+              
+               (
+               
+               
+               
+                A
+                
+                
+                
+                 1
+                 
+                
+               
+              
+               :
+               
+               
+               
+                A
+                
+                
+                
+                 2
+                 
+                
+               
+              
+               )
+               
+              
+               ⋅
+               
+              
+               Λ
+               
+              
+               (
+               
+               
+               
+                A
+                
+                
+                
+                 1
+                 
+                
+               
+              
+               :
+               
+               
+               
+                A
+                
+                
+                
+                 2
+                 
+                
+               
+              
+               ∣
+               
+              
+               B
+               
+              
+               )
+               
+              
+             
+            
+             :A_\mid B)=O(A_:A_)\cdot \Lambda (A_:A_\mid B)}
+             
+            
+          
+       
+       
+      where  
+      
+       
+        
+            
+             
+              
+              
+               Λ
+               
+              
+               (
+               
+               
+               
+                A
+                
+                
+                
+                 1
+                 
+                
+               
+              
+               :
+               
+               
+               
+                A
+                
+                
+                
+                 2
+                 
+                
+               
+              
+               ∣
+               
+              
+               B
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                 
+                  ∣
+                  
+                  
+                  
+                   A
+                   
+                   
+                   
+                    1
+                    
+                   
+                  
+                 
+                  )
+                  
+                 
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                 
+                  ∣
+                  
+                  
+                  
+                   A
+                   
+                   
+                   
+                    2
+                    
+                   
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+             
+            
+             :A_\mid B)=)})}}}
+             
+            
+          
+       
+       
+      is called the Bayes factor or likelihood ratio. The odds between two events is simply the ratio of the probabilities of the two events. Thus  
+      
+       
+        
+            
+             
+              
+              
+               O
+               
+              
+               (
+               
+               
+               
+                A
+                
+                
+                
+                 1
+                 
+                
+               
+              
+               :
+               
+               
+               
+                A
+                
+                
+                
+                 2
+                 
+                
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                  
+                  
+                   A
+                   
+                   
+                   
+                    1
+                    
+                   
+                  
+                 
+                  )
+                  
+                 
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                  
+                  
+                   A
+                   
+                   
+                   
+                    2
+                    
+                   
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+               ,
+               
+              
+             
+            
+             :A_)=)})}},}
+             
+            
+          
+       
+       
+      
+       
+        
+            
+             
+              
+              
+               O
+               
+              
+               (
+               
+               
+               
+                A
+                
+                
+                
+                 1
+                 
+                
+               
+              
+               :
+               
+               
+               
+                A
+                
+                
+                
+                 2
+                 
+                
+               
+              
+               ∣
+               
+              
+               B
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                  
+                  
+                   A
+                   
+                   
+                   
+                    1
+                    
+                   
+                  
+                 
+                  ∣
+                  
+                 
+                  B
+                  
+                 
+                  )
+                  
+                 
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                  
+                  
+                   A
+                   
+                   
+                   
+                    2
+                    
+                   
+                  
+                 
+                  ∣
+                  
+                 
+                  B
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+               ,
+               
+              
+             
+            
+             :A_\mid B)=\mid B)}\mid B)}},}
+             
+            
+          
+       
+       
+      Thus, the rule says that the posterior odds are the prior odds times the Bayes factor, or in other words, the posterior is proportional to the prior times the likelihood. 
+      In the special case that 
+           
+            
+             
+              
+              
+               A
+               
+               
+               
+                1
+                
+               
+              
+             
+              =
+              
+             
+              A
+              
+             
+            
+           
+            =A}
+            
+           
+          and 
+           
+            
+             
+              
+              
+               A
+               
+               
+               
+                2
+                
+               
+              
+             
+              =
+              
+             
+              ¬
+              
+             
+              A
+              
+             
+            
+           
+            =\neg A}
+            
+           
+         , one writes 
+           
+            
+             
+             
+              O
+              
+             
+              (
+              
+             
+              A
+              
+             
+              )
+              
+             
+              =
+              
+             
+              O
+              
+             
+              (
+              
+             
+              A
+              
+             
+              :
+              
+             
+              ¬
+              
+             
+              A
+              
+             
+              )
+              
+             
+              =
+              
+             
+              P
+              
+             
+              (
+              
+             
+              A
+              
+             
+              )
+              
+              
+              
+               /
+               
+              
+             
+              (
+              
+             
+              1
+              
+             
+              −
+              
+             
+              P
+              
+             
+              (
+              
+             
+              A
+              
+             
+              )
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+         , and uses a similar abbreviation for the Bayes factor and for the conditional odds. The odds on 
+           
+            
+             
+             
+              A
+              
+             
+            
+           
+            
+            
+           
+          is by definition the odds for and against 
+           
+            
+             
+             
+              A
+              
+             
+            
+           
+            
+            
+           
+         . Bayes' rule can then be written in the abbreviated form  
+      
+       
+        
+            
+             
+              
+              
+               O
+               
+              
+               (
+               
+              
+               A
+               
+              
+               ∣
+               
+              
+               B
+               
+              
+               )
+               
+              
+               =
+               
+              
+               O
+               
+              
+               (
+               
+              
+               A
+               
+              
+               )
+               
+              
+               ⋅
+               
+              
+               Λ
+               
+              
+               (
+               
+              
+               A
+               
+              
+               ∣
+               
+              
+               B
+               
+              
+               )
+               
+              
+               ,
+               
+              
+             
+            
+             
+             
+            
+          
+       
+       
+      or, in words, the posterior odds on 
+           
+            
+             
+             
+              A
+              
+             
+            
+           
+            
+            
+           
+          equals the prior odds on 
+           
+            
+             
+             
+              A
+              
+             
+            
+           
+            
+            
+           
+          times the likelihood ratio for 
+           
+            
+             
+             
+              A
+              
+             
+            
+           
+            
+            
+           
+          given information 
+           
+            
+             
+             
+              B
+              
+             
+            
+           
+            
+            
+           
+         . In short, posterior odds equals prior odds times likelihood ratio.  
+      Correspondence to other mathematical frameworks 
+      Propositional logic 
+      Bayes' theorem represents a generalisation of contraposition which in propositional logic can be expressed as:  
+      
+       
+        
+            
+             
+              
+              
+               (
+               
+              
+               ¬
+               
+              
+               A
+               
+              
+               →
+               
+              
+               ¬
+               
+              
+               B
+               
+              
+               )
+               
+              
+               →
+               
+              
+               (
+               
+              
+               B
+               
+              
+               →
+               
+              
+               A
+               
+              
+               )
+               
+              
+               .
+               
+              
+             
+            
+             
+             
+            
+          
+       
+       
+      The corresponding formula in terms of probability calculus is Bayes' theorem which in its expanded form is expressed as:  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+              
+               ∣
+               
+              
+               B
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                 
+                  ∣
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                  a
+                  
+                 
+                  (
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                 
+                  ∣
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                  a
+                  
+                 
+                  (
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                  +
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                 
+                  ∣
+                  
+                 
+                  ¬
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                  a
+                  
+                 
+                  (
+                  
+                 
+                  ¬
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+               .
+               
+              
+             
+            
+             }.}
+             
+            
+          
+       
+       
+      In the equation above the conditional probability 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+             
+              B
+              
+             
+              ∣
+              
+             
+              A
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          generalizes the logical statement 
+           
+            
+             
+             
+              (
+              
+             
+              A
+              
+             
+              →
+              
+             
+              B
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+         , i.e. in addition to assigning TRUE or FALSE we can also assign any probability to the statement. The term 
+           
+            
+             
+             
+              a
+              
+             
+              (
+              
+             
+              A
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          denotes the prior probability (aka. the base rate) of 
+           
+            
+             
+             
+              A
+              
+             
+            
+           
+            
+            
+           
+         . Assume that 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+             
+              A
+              
+             
+              ∣
+              
+             
+              B
+              
+             
+              )
+              
+             
+              =
+              
+             
+              1
+              
+             
+            
+           
+            
+            
+           
+          is equivalent to 
+           
+            
+             
+             
+              (
+              
+             
+              B
+              
+             
+              →
+              
+             
+              A
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          being TRUE, and that 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+             
+              A
+              
+             
+              ∣
+              
+             
+              B
+              
+             
+              )
+              
+             
+              =
+              
+             
+              0
+              
+             
+            
+           
+            
+            
+           
+          is equivalent to 
+           
+            
+             
+             
+              (
+              
+             
+              B
+              
+             
+              →
+              
+             
+              A
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          being FALSE. It is then easy to see that 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+             
+              A
+              
+             
+              ∣
+              
+             
+              B
+              
+             
+              )
+              
+             
+              =
+              
+             
+              1
+              
+             
+            
+           
+            
+            
+           
+          when 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+             
+              ¬
+              
+             
+              B
+              
+             
+              ∣
+              
+             
+              ¬
+              
+             
+              A
+              
+             
+              )
+              
+             
+              =
+              
+             
+              1
+              
+             
+            
+           
+            
+            
+           
+          i.e. when 
+           
+            
+             
+             
+              (
+              
+             
+              ¬
+              
+             
+              A
+              
+             
+              →
+              
+             
+              ¬
+              
+             
+              B
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          is TRUE. This is because 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+             
+              B
+              
+             
+              ∣
+              
+             
+              ¬
+              
+             
+              A
+              
+             
+              )
+              
+             
+              =
+              
+             
+              1
+              
+             
+              −
+              
+             
+              P
+              
+             
+              (
+              
+             
+              ¬
+              
+             
+              B
+              
+             
+              ∣
+              
+             
+              ¬
+              
+             
+              A
+              
+             
+              )
+              
+             
+              =
+              
+             
+              0
+              
+             
+            
+           
+            
+            
+           
+          so that the fraction on the right-hand side of the equation above is equal to 1, and hence 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+             
+              A
+              
+             
+              ∣
+              
+             
+              B
+              
+             
+              )
+              
+             
+              =
+              
+             
+              1
+              
+             
+            
+           
+            
+            
+           
+          which is equivalent to 
+           
+            
+             
+             
+              (
+              
+             
+              B
+              
+             
+              →
+              
+             
+              A
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          being TRUE. Hence, Bayes' theorem represents a generalization of contraposition.  
+      Subjective logic 
+      Bayes' theorem represents a special case of deriving inverted conditional opinions in subjective logic expressed as:  
+      
+       
+        
+            
+             
+              
+              
+               (
+               
+               
+               
+                ω
+                
+                
+                
+                 A
+                 
+                 
+                  
+                   
+                    
+                    
+                     |
+                     
+                    
+                   
+                    ~
+                    
+                   
+                  
+                 
+                
+                 B
+                 
+                
+                
+                
+                 S
+                 
+                
+               
+              
+               ,
+               
+               
+               
+                ω
+                
+                
+                
+                 A
+                 
+                 
+                  
+                   
+                    
+                    
+                     |
+                     
+                    
+                   
+                    ~
+                    
+                   
+                  
+                 
+                
+                 ¬
+                 
+                
+                 B
+                 
+                
+                
+                
+                 S
+                 
+                
+               
+              
+               )
+               
+              
+               =
+               
+              
+               (
+               
+               
+               
+                ω
+                
+                
+                
+                 B
+                 
+                
+                 ∣
+                 
+                
+                 A
+                 
+                
+                
+                
+                 S
+                 
+                
+               
+              
+               ,
+               
+               
+               
+                ω
+                
+                
+                
+                 B
+                 
+                
+                 ∣
+                 
+                
+                 ¬
+                 
+                
+                 A
+                 
+                
+                
+                
+                 S
+                 
+                
+               
+              
+               )
+               
+               
+                
+                 
+                 
+                  ϕ
+                  
+                 
+                  ~
+                  
+                 
+                
+               
+               
+               
+                a
+                
+                
+                
+                 A
+                 
+                
+               
+              
+               ,
+               
+              
+             
+            
+             }B}^,\omega _}\lnot B}^)=(\omega _^,\omega _^)}a_,}
+             
+            
+          
+       
+       
+      where 
+           
+            
+             
+              
+               
+                
+                
+                 ϕ
+                 
+                
+                 ~
+                 
+                
+               
+              
+             
+            
+           
+            }}
+            
+           
+          denotes the operator for inverting conditional opinions. The argument 
+           
+            
+             
+             
+              (
+              
+              
+              
+               ω
+               
+               
+               
+                B
+                
+               
+                ∣
+                
+               
+                A
+                
+               
+               
+               
+                S
+                
+               
+              
+             
+              ,
+              
+              
+              
+               ω
+               
+               
+               
+                B
+                
+               
+                ∣
+                
+               
+                ¬
+                
+               
+                A
+                
+               
+               
+               
+                S
+                
+               
+              
+             
+              )
+              
+             
+            
+           
+            ^,\omega _^)}
+            
+           
+          denotes a pair of binomial conditional opinions given by source 
+           
+            
+             
+             
+              S
+              
+             
+            
+           
+            
+            
+           
+         , and the argument 
+           
+            
+             
+              
+              
+               a
+               
+               
+               
+                A
+                
+               
+              
+             
+            
+           
+            }
+            
+           
+          denotes the prior probability (aka. the base rate) of 
+           
+            
+             
+             
+              A
+              
+             
+            
+           
+            
+            
+           
+         . The pair of derivative inverted conditional opinions is denoted 
+           
+            
+             
+             
+              (
+              
+              
+              
+               ω
+               
+               
+               
+                A
+                
+                
+                 
+                  
+                   
+                   
+                    |
+                    
+                   
+                  
+                   ~
+                   
+                  
+                 
+                
+               
+                B
+                
+               
+               
+               
+                S
+                
+               
+              
+             
+              ,
+              
+              
+              
+               ω
+               
+               
+               
+                A
+                
+                
+                 
+                  
+                   
+                   
+                    |
+                    
+                   
+                  
+                   ~
+                   
+                  
+                 
+                
+               
+                ¬
+                
+               
+                B
+                
+               
+               
+               
+                S
+                
+               
+              
+             
+              )
+              
+             
+            
+           
+            }B}^,\omega _}\lnot B}^)}
+            
+           
+         . The conditional opinion 
+           
+            
+             
+              
+              
+               ω
+               
+               
+               
+                A
+                
+               
+                ∣
+                
+               
+                B
+                
+               
+               
+               
+                S
+                
+               
+              
+             
+            
+           
+            ^}
+            
+           
+          generalizes the probabilistic conditional 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+             
+              A
+              
+             
+              ∣
+              
+             
+              B
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+         , i.e. in addition to assigning a probability the source 
+           
+            
+             
+             
+              S
+              
+             
+            
+           
+            
+            
+           
+          can assign any subjective opinion to the conditional statement 
+           
+            
+             
+             
+              (
+              
+             
+              A
+              
+             
+              ∣
+              
+             
+              B
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+         . A binomial subjective opinion 
+           
+            
+             
+              
+              
+               ω
+               
+               
+               
+                A
+                
+               
+               
+               
+                S
+                
+               
+              
+             
+            
+           
+            ^}
+            
+           
+          is the belief in the truth of statement 
+           
+            
+             
+             
+              A
+              
+             
+            
+           
+            
+            
+           
+          with degrees of epistemic uncertainty, as expressed by source 
+           
+            
+             
+             
+              S
+              
+             
+            
+           
+            
+            
+           
+         . Every subjective opinion has a corresponding projected probability 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+              
+              
+               ω
+               
+               
+               
+                A
+                
+               
+               
+               
+                S
+                
+               
+              
+             
+              )
+              
+             
+            
+           
+            ^)}
+            
+           
+         . The application of Bayes' theorem to projected probabilities of opinions is a homomorphism, meaning that Bayes' theorem can be expressed in terms of projected probabilities of opinions:  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+               
+               
+                ω
+                
+                
+                
+                 A
+                 
+                 
+                  
+                   
+                    
+                    
+                     |
+                     
+                    
+                   
+                    ~
+                    
+                   
+                  
+                 
+                
+                 B
+                 
+                
+                
+                
+                 S
+                 
+                
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                  
+                  
+                   ω
+                   
+                   
+                   
+                    B
+                    
+                   
+                    ∣
+                    
+                   
+                    A
+                    
+                   
+                   
+                   
+                    S
+                    
+                   
+                  
+                 
+                  )
+                  
+                 
+                  a
+                  
+                 
+                  (
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                  
+                  
+                   ω
+                   
+                   
+                   
+                    B
+                    
+                   
+                    ∣
+                    
+                   
+                    A
+                    
+                   
+                   
+                   
+                    S
+                    
+                   
+                  
+                 
+                  )
+                  
+                 
+                  a
+                  
+                 
+                  (
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                  +
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                  
+                  
+                   ω
+                   
+                   
+                   
+                    B
+                    
+                   
+                    ∣
+                    
+                   
+                    ¬
+                    
+                   
+                    A
+                    
+                   
+                   
+                   
+                    S
+                    
+                   
+                  
+                 
+                  )
+                  
+                 
+                  a
+                  
+                 
+                  (
+                  
+                 
+                  ¬
+                  
+                 
+                  A
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+               .
+               
+              
+             
+            
+             }B}^)=^)a(A)}^)a(A)+P(\omega _^)a(\lnot A)}}.}
+             
+            
+          
+       
+       
+      Hence, the subjective Bayes' theorem represents a generalization of Bayes' theorem.  
+      Generalizations 
+      Conditioned version 
+      A conditioned version of the Bayes' theorem results from the addition of a third event 
+           
+            
+             
+             
+              C
+              
+             
+            
+           
+            
+            
+           
+          on which all probabilities are conditioned:  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+              
+               ∣
+               
+              
+               B
+               
+              
+               ∩
+               
+              
+               C
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                 
+                  ∣
+                  
+                 
+                  A
+                  
+                 
+                  ∩
+                  
+                 
+                  C
+                  
+                 
+                  )
+                  
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  A
+                  
+                 
+                  ∣
+                  
+                 
+                  C
+                  
+                 
+                  )
+                  
+                 
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  B
+                  
+                 
+                  ∣
+                  
+                 
+                  C
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+             
+            
+             }}
+             
+            
+          
+       
+       
+      Derivation 
+      Using the chain rule  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+              
+               ∩
+               
+              
+               B
+               
+              
+               ∩
+               
+              
+               C
+               
+              
+               )
+               
+              
+               =
+               
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+              
+               ∣
+               
+              
+               B
+               
+              
+               ∩
+               
+              
+               C
+               
+              
+               )
+               
+               
+              
+               P
+               
+              
+               (
+               
+              
+               B
+               
+              
+               ∣
+               
+              
+               C
+               
+              
+               )
+               
+               
+              
+               P
+               
+              
+               (
+               
+              
+               C
+               
+              
+               )
+               
+              
+             
+            
+             
+             
+            
+          
+       
+       
+      And, on the other hand  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+              
+               ∩
+               
+              
+               B
+               
+              
+               ∩
+               
+              
+               C
+               
+              
+               )
+               
+              
+               =
+               
+              
+               P
+               
+              
+               (
+               
+              
+               B
+               
+              
+               ∩
+               
+              
+               A
+               
+              
+               ∩
+               
+              
+               C
+               
+              
+               )
+               
+              
+               =
+               
+              
+               P
+               
+              
+               (
+               
+              
+               B
+               
+              
+               ∣
+               
+              
+               A
+               
+              
+               ∩
+               
+              
+               C
+               
+              
+               )
+               
+               
+              
+               P
+               
+              
+               (
+               
+              
+               A
+               
+              
+               ∣
+               
+              
+               C
+               
+              
+               )
+               
+               
+              
+               P
+               
+              
+               (
+               
+              
+               C
+               
+              
+               )
+               
+              
+             
+            
+             
+             
+            
+          
+       
+       
+      The desired result is obtained by identifying both expressions and solving for 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+             
+              A
+              
+             
+              ∣
+              
+             
+              B
+              
+             
+              ∩
+              
+             
+              C
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+         .  
+      Bayes' rule with 3 events 
+      In the case of 3 events - A, B, and C - it can be shown that: 
+      
+       
+          
+           
+            
+            
+             P
+             
+            
+             (
+             
+            
+             A
+             
+            
+             ∣
+             
+            
+             B
+             
+            
+             ,
+             
+            
+             C
+             
+            
+             )
+             
+            
+             =
+             
+             
+              
+               
+               
+                P
+                
+               
+                (
+                
+               
+                B
+                
+               
+                ∣
+                
+               
+                A
+                
+               
+                ,
+                
+               
+                C
+                
+               
+                )
+                
+                
+               
+                P
+                
+               
+                (
+                
+               
+                A
+                
+               
+                ∣
+                
+               
+                C
+                
+               
+                )
+                
+               
+               
+               
+                P
+                
+               
+                (
+                
+               
+                B
+                
+               
+                ∣
+                
+               
+                C
+                
+               
+                )
+                
+               
+              
+             
+            
+           
+          
+           }}
+           
+          
+        
+       
+       
+       
+       
+      
+      
+       Proof 
+       
+       
+        
+           
+            
+             
+              
+               
+                
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  A
+                  
+                 
+                  ∣
+                  
+                 
+                  B
+                  
+                 
+                  ,
+                  
+                 
+                  C
+                  
+                 
+                  )
+                  
+                 
+                 
+                  
+                 
+                  =
+                  
+                  
+                   
+                    
+                    
+                     P
+                     
+                    
+                     (
+                     
+                    
+                     A
+                     
+                    
+                     ,
+                     
+                    
+                     B
+                     
+                    
+                     ,
+                     
+                    
+                     C
+                     
+                    
+                     )
+                     
+                    
+                    
+                    
+                     P
+                     
+                    
+                     (
+                     
+                    
+                     B
+                     
+                    
+                     ,
+                     
+                    
+                     C
+                     
+                    
+                     )
+                     
+                    
+                   
+                  
+                 
+                
+                
+                 
+                 
+                  
+                 
+                  =
+                  
+                  
+                   
+                    
+                    
+                     P
+                     
+                    
+                     (
+                     
+                    
+                     B
+                     
+                    
+                     ∣
+                     
+                    
+                     A
+                     
+                    
+                     ,
+                     
+                    
+                     C
+                     
+                    
+                     )
+                     
+                     
+                    
+                     P
+                     
+                    
+                     (
+                     
+                    
+                     A
+                     
+                    
+                     ,
+                     
+                    
+                     C
+                     
+                    
+                     )
+                     
+                    
+                    
+                    
+                     P
+                     
+                    
+                     (
+                     
+                    
+                     B
+                     
+                    
+                     ,
+                     
+                    
+                     C
+                     
+                    
+                     )
+                     
+                    
+                   
+                  
+                 
+                
+                
+                 
+                 
+                  
+                 
+                  =
+                  
+                  
+                   
+                    
+                    
+                     P
+                     
+                    
+                     (
+                     
+                    
+                     B
+                     
+                    
+                     ∣
+                     
+                    
+                     A
+                     
+                    
+                     ,
+                     
+                    
+                     C
+                     
+                    
+                     )
+                     
+                     
+                    
+                     P
+                     
+                    
+                     (
+                     
+                    
+                     A
+                     
+                    
+                     ∣
+                     
+                    
+                     C
+                     
+                    
+                     )
+                     
+                     
+                    
+                     P
+                     
+                    
+                     (
+                     
+                    
+                     C
+                     
+                    
+                     )
+                     
+                    
+                    
+                    
+                     P
+                     
+                    
+                     (
+                     
+                    
+                     B
+                     
+                    
+                     ,
+                     
+                    
+                     C
+                     
+                    
+                     )
+                     
+                    
+                   
+                  
+                 
+                
+                
+                 
+                 
+                  
+                 
+                  =
+                  
+                  
+                   
+                    
+                    
+                     P
+                     
+                    
+                     (
+                     
+                    
+                     B
+                     
+                    
+                     ∣
+                     
+                    
+                     A
+                     
+                    
+                     ,
+                     
+                    
+                     C
+                     
+                    
+                     )
+                     
+                     
+                    
+                     P
+                     
+                    
+                     (
+                     
+                    
+                     A
+                     
+                    
+                     ∣
+                     
+                    
+                     C
+                     
+                    
+                     )
+                     
+                    
+                     P
+                     
+                    
+                     (
+                     
+                    
+                     C
+                     
+                    
+                     )
+                     
+                    
+                    
+                    
+                     P
+                     
+                    
+                     (
+                     
+                    
+                     B
+                     
+                    
+                     ∣
+                     
+                    
+                     C
+                     
+                    
+                     )
+                     
+                    
+                     P
+                     
+                    
+                     (
+                     
+                    
+                     C
+                     
+                    
+                     )
+                     
+                    
+                   
+                  
+                 
+                
+                
+                 
+                 
+                  
+                 
+                  =
+                  
+                  
+                   
+                    
+                    
+                     P
+                     
+                    
+                     (
+                     
+                    
+                     B
+                     
+                    
+                     ∣
+                     
+                    
+                     A
+                     
+                    
+                     ,
+                     
+                    
+                     C
+                     
+                    
+                     )
+                     
+                     
+                    
+                     P
+                     
+                    
+                     (
+                     
+                    
+                     A
+                     
+                    
+                     ∣
+                     
+                    
+                     C
+                     
+                    
+                     )
+                     
+                    
+                    
+                    
+                     P
+                     
+                    
+                     (
+                     
+                    
+                     B
+                     
+                    
+                     ∣
+                     
+                    
+                     C
+                     
+                    
+                     )
+                     
+                    
+                   
+                  
+                 
+                
+               
+              
+             
+            
+           
+            P(A\mid B,C)&amp;=}\\&amp;=}\\&amp;=}\\&amp;=}\\&amp;=}\end}}
+            
+           
+         
+        
+        
+        
+        
+       
+      History 
+      Bayes' theorem is named after the Reverend Thomas Bayes (/beɪz/; c. 1701 – 1761), who first used conditional probability to provide an algorithm (his Proposition 9) that uses evidence to calculate limits on an unknown parameter, published as An Essay towards solving a Problem in the Doctrine of Chances (1763). He studied how to compute a distribution for the probability parameter of a binomial distribution (in modern terminology). On Bayes's death his family transferred his papers to his old friend, Richard Price (1723–1791) who over a period of two years significantly edited the unpublished manuscript, before sending it to a friend who read it aloud at the Royal Society on 23 December 1763. Price edited Bayes's major work "An Essay towards solving a Problem in the Doctrine of Chances" (1763), which appeared in Philosophical Transactions, and contains Bayes' theorem. Price wrote an introduction to the paper which provides some of the philosophical basis of Bayesian statistics and chose one of the two solutions offered by Bayes. In 1765, Price was elected a Fellow of the Royal Society in recognition of his work on the legacy of Bayes. On 27 April a letter sent to his friend Benjamin Franklin was read out at the Royal Society, and later published, where Price applies this work to population and computing 'life-annuities'.  
+      
+      
+       Main article: Richard Price
+       
+      Independently of Bayes, Pierre-Simon Laplace in 1774, and later in his 1812 Théorie analytique des probabilités, used conditional probability to formulate the relation of an updated posterior probability from a prior probability, given evidence. He reproduced and extended Bayes's results in 1774, apparently unaware of Bayes's work. The Bayesian interpretation of probability was developed mainly by Laplace. 
+      Sir Harold Jeffreys put Bayes's algorithm and Laplace’s formulation on an axiomatic basis, writing that Bayes' theorem "is to the theory of probability what the Pythagorean theorem is to geometry". 
+      Stephen Stigler used a Bayesian argument to conclude that Bayes' theorem was discovered by Nicholas Saunderson, a blind English mathematician, some time before Bayes; that interpretation, however, has been disputed. Martyn Hooper and Sharon McGrayne have argued that Richard Price's contribution was substantial:  
+      
+      
+       By modern standards, we should refer to the Bayes–Price rule. Price discovered Bayes's work, recognized its importance, corrected it, contributed to the article, and found a use for it. The modern convention of employing Bayes's name alone is unfair but so entrenched that anything else makes little sense.
+       
+      Use in genetics 
+      In genetics, Bayes' theorem can be used to calculate the probability of an individual having a specific genotype. Many people seek to approximate their chances of being affected by a genetic disease or their likelihood of being a carrier for a recessive gene of interest. A Bayesian analysis can be done based on family history or genetic testing, in order to predict whether an individual will develop a disease or pass one on to their children. Genetic testing and prediction is a common practice among couples who plan to have children but are concerned that they may both be carriers for a disease, especially within communities with low genetic variance. 
+      The first step in Bayesian analysis for genetics is to propose mutually exclusive hypotheses: for a specific allele, an individual either is or is not a carrier. Next, four probabilities are calculated: Prior Probability (the likelihood of each hypothesis considering information such as family history or predictions based on Mendelian Inheritance), Conditional Probability (of a certain outcome), Joint Probability (product of the first two), and Posterior Probability (a weighted product calculated by dividing the Joint Probability for each hypothesis by the sum of both joint probabilities). This type of analysis can be done based purely on family history of a condition or in concert with genetic testing.  
+      Using pedigree to calculate probabilities 
+       
+       
+         
+         Hypothesis  
+         Hypothesis 1: Patient is a carrier  
+         Hypothesis 2: Patient is not a carrier 
+         
+         
+         Prior Probability  
+         1/2  
+         1/2 
+         
+         
+         Conditional Probability that all four offspring will be unaffected  
+         (1/2) · (1/2) · (1/2) · (1/2) = 1/16  
+         About 1 
+         
+         
+         Joint Probability  
+         (1/2) · (1/16) = 1/32  
+         (1/2) · 1 = 1/2 
+         
+         
+         Posterior Probability  
+         (1/32) / (1/32 + 1/2) = 1/17  
+         (1/2) / (1/32 + 1/2) = 16/17 
+        
+       
+       
+      Example of a Bayesian analysis table for a female individual's risk for a disease based on the knowledge that the disease is present in her siblings but not in her parents or any of her four children. Based solely on the status of the subject’s siblings and parents, she is equally likely to be a carrier as to be a non-carrier (this likelihood is denoted by the Prior Hypothesis). However, the probability that the subject’s four sons would all be unaffected is 1/16 (½·½·½·½) if she is a carrier, about 1 if she is a non-carrier (this is the Conditional Probability). The Joint Probability reconciles these two predictions by multiplying them together. The last line (the Posterior Probability) is calculated by dividing the Joint Probability for each hypothesis by the sum of both joint probabilities.  
+      Using genetic test results 
+      Parental genetic testing can detect around 90% of known disease alleles in parents that can lead to carrier or affected status in their child. Cystic fibrosis is a heritable disease caused by an autosomal recessive mutation on the CFTR gene, located on the q arm of chromosome 7. 
+      Bayesian analysis of a female patient with a family history of cystic fibrosis (CF), who has tested negative for CF, demonstrating how this method was used to determine her risk of having a child born with CF: 
+      Because the patient is unaffected, she is either homozygous for the wild-type allele, or heterozygous. To establish prior probabilities, a Punnett square is used, based on the knowledge that neither parent was affected by the disease but both could have been carriers:  
+       
+       
+         
+         
+          
+           Mother
+          
+          
+           
+           Father
+            
+         W Homozygous for the wild-type allele (a non-carrier)   
+         M Heterozygous(a CF carrier)  
+         
+         
+         W Homozygous for the wild-type allele (a non-carrier)   
+         WW  
+         MW 
+         
+         
+         M Heterozygous (a CF carrier)   
+         MW  
+         MM (affected by cystic fibrosis)  
+        
+       
+       
+      Given that the patient is unaffected, there are only three possibilities. Within these three, there are two scenarios in which the patient carries the mutant allele. Thus the prior probabilities are ⅔ and ⅓. 
+      Next, the patient undergoes genetic testing and tests negative for cystic fibrosis. This test has a 90% detection rate, so the conditional probabilities of a negative test are 1/10 and 1.&nbsp; Finally, the joint and posterior probabilities are calculated as before.  
+       
+       
+         
+         Hypothesis  
+         Hypothesis 1: Patient is a carrier  
+         Hypothesis 2: Patient is not a carrier 
+         
+         
+         Prior Probability  
+         2/3  
+         1/3 
+         
+         
+         Conditional Probability of a negative test  
+         1/10  
+         1 
+         
+         
+         Joint Probability  
+         1/15  
+         1/3 
+         
+         
+         Posterior Probability  
+         1/6  
+         5/6 
+        
+       
+       
+      After carrying out the same analysis on the patient’s male partner (with a negative test result), the chances of their child being affected is equal to the product of the parents' respective posterior probabilities for being carriers times the chances that two carriers will produce an affected offspring (¼).  
+      Genetic testing done in parallel with other risk factor identification. 
+      Bayesian analysis can be done using phenotypic information associated with a genetic condition, and when combined with genetic testing this analysis becomes much more complicated. Cystic Fibrosis, for example, can be identified in a fetus through an ultrasound looking for an echogenic bowel, meaning one that appears brighter than normal on a scan2. This is not a foolproof test, as an echogenic bowel can be present in a&nbsp; perfectly healthy fetus. Parental genetic testing is very influential in this case, where a phenotypic facet can be overly influential in probability calculation. In the case of a fetus with an echogenic bowel, with a mother who has been tested and is known to be a CF carrier, the posterior probability that the fetus actually has the disease is very high (0.64). However, once the father has tested negative for CF, the posterior probability drops significantly (to 0.16). 
+      Risk factor calculation is a powerful tool in genetic counseling and reproductive planning, but it cannot be treated as the only important factor to consider. As above, incomplete testing can yield falsely high probability of carrier status, and testing can be financially inaccessible or unfeasible when a parent is not present.  
+      See also 
+      
+       
+        
+        Mathematics portal
+       
+       
+      
+       Bayesian epistemology 
+       Inductive probability 
+       Quantum Bayesianism 
+       Why Most Published Research Findings Are False, a 2005 essay in metascience by John Ioannidis
+       
+      Notes 
+      
+       
+       
+         
+         ^ Laplace refined Bayes's theorem over a period of decades: 
+           
+            Laplace announced his independent discovery of Bayes' theorem in: Laplace (1774) "Mémoire sur la probabilité des causes par les événements," "Mémoires de l'Académie royale des Sciences de MI (Savants étrangers)," 4: 621–656. Reprinted in: Laplace, "Oeuvres complètes" (Paris, France: Gauthier-Villars et fils, 1841), vol. 8, pp.&nbsp;27–65. Available on-line at: Gallica. Bayes' theorem appears on p.&nbsp;29. 
+            Laplace presented a refinement of Bayes' theorem in: Laplace (read: 1783 / published: 1785) "Mémoire sur les approximations des formules qui sont fonctions de très grands nombres," "Mémoires de l'Académie royale des Sciences de Paris," 423–467. Reprinted in: Laplace, "Oeuvres complètes" (Paris, France: Gauthier-Villars et fils, 1844), vol. 10, pp.&nbsp;295–338. Available on-line at: Gallica. Bayes' theorem is stated on page 301. 
+            See also: Laplace, "Essai philosophique sur les probabilités" (Paris, France: Mme. Ve. Courcier , 1814), page 10. English translation: Pierre Simon, Marquis de Laplace with F. W. Truscott and F. L. Emory, trans., "A Philosophical Essay on Probabilities" (New York, New York: John Wiley &amp; Sons, 1902), page 15.
+             
+        
+       
+       
+      References 
+      
+       
+       
+         
+         ^ a b Frame, Paul (2015). Liberty's Apostle. Wales: University of Wales Press. ISBN&nbsp;978-1-78316-216-1. Retrieved 23 February 2021.  
+         ^ 
+           Joyce, James (2003), "Bayes' Theorem", in Zalta, Edward N. (ed.), The Stanford Encyclopedia of Philosophy (Spring 2019&nbsp;ed.), Metaphysics Research Lab, Stanford University, retrieved 2020-01-17  
+         ^ 
+           Stuart, A.; Ord, K. (1994), Kendall's Advanced Theory of Statistics: Volume I—Distribution Theory, Edward Arnold, §8.7  
+         ^ 
+           Gigerenzer, Gerd; Hoffrage, Ulrich (1995). "How to improve Bayesian reasoning without instruction: Frequency formats". Psychological Review. 102 (4): 684–704. CiteSeerX&nbsp;10.1.1.128.3201. doi:10.1037/0033-295X.102.4.684.  
+         ^ 
+           Zhu, Liqi; Gigerenzer, Gerd (January 2006). "Children can solve Bayesian problems: the role of representation in mental computation". Cognition. 98 (3): 287–308. doi:10.1016/j.cognition.2004.12.003. hdl:11858/00-001M-0000-0024-FEFD-A. PMID&nbsp;16399266. S2CID&nbsp;1451338.  
+         ^  
+           Lee, Peter M. (2012). "Chapter 1". Bayesian Statistics. Wiley. ISBN&nbsp;978-1-1183-3257-3.  
+         ^ 
+           "Bayes' Theorem: Introduction". Trinity University. Archived from the original on 21 August 2004. Retrieved 5 August 2014.  
+         ^ Audun Jøsang, 2016, Subjective Logic; A formalism for Reasoning Under Uncertainty. Springer, Cham, 
+           ISBN&nbsp;978-3-319-42337-1  
+         ^ Audun Jøsang, 2016, Generalising Bayes' Theorem in Subjective Logic. IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2016), Baden-Baden, September 2016  
+         ^ 
+           Koller, D.; Friedman, N. (2009). Probabilistic Graphical Models. Massachusetts: MIT Press. p.&nbsp;1208. ISBN&nbsp;978-0-262-01319-2. Archived from the original on 2014-04-27.  
+         ^ Graham Kemp (https://math.stackexchange.com/users/135106/graham-kemp), Bayes' rule with 3 variables, URL (version: 2015-05-14): https://math.stackexchange.com/q/1281558  
+         ^ 
+           Allen, Richard (1999). David Hartley on Human Nature. SUNY Press. pp.&nbsp;243–4. ISBN&nbsp;978-0-7914-9451-6. Retrieved 16 June 2013.  
+         ^ 
+           Bayes, Thomas &amp; Price, Richard (1763). "An Essay towards solving a Problem in the Doctrine of Chance. By the late Rev. Mr. Bayes, communicated by Mr. Price, in a letter to John Canton, A. M. F. R. S." Philosophical Transactions of the Royal Society of London. 53: 370–418. doi:10.1098/rstl.1763.0053.  
+         ^ Holland, pp.&nbsp;46–7.  
+         ^ 
+           Price, Richard (1991). Price: Political Writings. Cambridge University Press. p.&nbsp;xxiii. ISBN&nbsp;978-0-521-40969-8. Retrieved 16 June 2013.  
+         ^ Mitchell 1911, p.&nbsp;314 harvnb error: no target: CITEREFMitchell1911 (help).  
+         ^ 
+           Daston, Lorraine (1988). Classical Probability in the Enlightenment. Princeton Univ Press. p.&nbsp;268. ISBN&nbsp;0-691-08497-1.  
+         ^ 
+           Stigler, Stephen M. (1986). "Inverse Probability". The History of Statistics: The Measurement of Uncertainty Before 1900. Harvard University Press. pp.&nbsp;99–138. ISBN&nbsp;978-0-674-40341-3.  
+         ^ 
+           Jeffreys, Harold (1973). Scientific Inference (3rd&nbsp;ed.). Cambridge University Press. p.&nbsp;31. ISBN&nbsp;978-0-521-18078-8.  
+         ^ 
+           Stigler, Stephen M. (1983). "Who Discovered Bayes' Theorem?". The American Statistician. 37 (4): 290–296. doi:10.1080/00031305.1983.10483122.  
+         ^ 
+           de Vaux, Richard; Velleman, Paul; Bock, David (2016). Stats, Data and Models (4th&nbsp;ed.). Pearson. pp.&nbsp;380–381. ISBN&nbsp;978-0-321-98649-8.  
+         ^ 
+           Edwards, A. W. F. (1986). "Is the Reference in Hartley (1749) to Bayesian Inference?". The American Statistician. 40 (2): 109–110. doi:10.1080/00031305.1986.10475370.  
+         ^ 
+           Hooper, Martyn (2013). "Richard Price, Bayes' theorem, and God". Significance. 10 (1): 36–39. doi:10.1111/j.1740-9713.2013.00638.x. S2CID&nbsp;153704746.  
+         ^ a b 
+           McGrayne, S. B. (2011). The Theory That Would Not Die: How Bayes' Rule Cracked the Enigma Code, Hunted Down Russian Submarines &amp; Emerged Triumphant from Two Centuries of Controversy. Yale University Press. ISBN&nbsp;978-0-300-18822-6.  
+         ^ 
+           Kraft, Stephanie A; Duenas, Devan; Wilfond, Benjamin S; Goddard, Katrina AB (24 September 2018). "The evolving landscape of expanded carrier screening: challenges and opportunities". Genetics in Medicine. 21 (4): 790–797. doi:10.1038/s41436-018-0273-4. PMC&nbsp;6752283. PMID&nbsp;30245516.  
+         ^ a b 
+           Ogino, Shuji; Wilson, Robert B; Gold, Bert; Hawley, Pamela; Grody, Wayne W (October 2004). "Bayesian analysis for cystic fibrosis risks in prenatal and carrier screening". Genetics in Medicine. 6 (5): 439–449. doi:10.1097/01.GIM.0000139511.83336.8F. PMID&nbsp;15371910.  
+         ^ "Types of CFTR Mutations". Cystic Fibrosis Foundation, www.cff.org/What-is-CF/Genetics/Types-of-CFTR-Mutations/.  
+         ^ "CFTR Gene – Genetics Home Reference". U.S. National Library of Medicine, National Institutes of Health, ghr.nlm.nih.gov/gene/CFTR#location.  
+        
+       
+       
+      Further reading 
+      
+       
+        Grunau, Hans-Christoph (24 January 2014). "Preface Issue 3/4-2013". Jahresbericht der Deutschen Mathematiker-Vereinigung. 115 (3–4): 127–128. doi:10.1365/s13291-013-0077-z. 
+       Gelman, A, Carlin, JB, Stern, HS, and Rubin, DB (2003), "Bayesian Data Analysis," Second Edition, CRC Press. 
+       Grinstead, CM and Snell, JL (1997), "Introduction to Probability (2nd edition)," American Mathematical Society (free pdf available) . 
+       
+        "Bayes formula", Encyclopedia of Mathematics, EMS Press, 2001  
+       
+        McGrayne, SB (2011). The Theory That Would Not Die: How Bayes' Rule Cracked the Enigma Code, Hunted Down Russian Submarines &amp; Emerged Triumphant from Two Centuries of Controversy. Yale University Press. ISBN&nbsp;978-0-300-18822-6. 
+       
+        Laplace, Pierre Simon (1986). "Memoir on the Probability of the Causes of Events". Statistical Science. 1 (3): 364–378. doi:10.1214/ss/1177013621. JSTOR&nbsp;2245476. 
+       Lee, Peter M (2012), "Bayesian Statistics: An Introduction," 4th edition. Wiley. 
+        ISBN&nbsp;978-1-118-33257-3. 
+       
+        Puga JL, Krzywinski M, Altman N (31 March 2015). "Bayes' theorem". Nature Methods. 12 (4): 277–278. doi:10.1038/nmeth.3335. PMID&nbsp;26005726. 
+       Rosenthal, Jeffrey S (2005), "Struck by Lightning: The Curious World of Probabilities". HarperCollins. (Granta, 2008. 
+        ISBN&nbsp;9781862079960). 
+       
+        Stigler, Stephen M. (August 1986). "Laplace's 1774 Memoir on Inverse Probability". Statistical Science. 1 (3): 359–363. doi:10.1214/ss/1177013620. 
+       Stone, JV (2013), download chapter 1 of "Bayes' Rule: A Tutorial Introduction to Bayesian Analysis", Sebtel Press, England. 
+       Bayesian Reasoning for Intelligent People, An introduction and tutorial to the use of Bayes' theorem in statistics and cognitive science. 
+       Morris, Dan (2016), Read first 6 chapters for free of "Bayes' Theorem Examples: A Visual Introduction For Beginners" Blue Windmill 
+        ISBN&nbsp;978-1549761744. A short tutorial on how to understand problem scenarios and find P(B), P(A), and P(B|A).
+       
+      External links 
+      
+       Visual explanation of Bayes using trees (video) 
+       Bayes' frequentist interpretation explained visually (video) 
+       Earliest Known Uses of Some of the Words of Mathematics (B). Contains origins of "Bayesian", "Bayes' Theorem", "Bayes Estimate/Risk/Solution", "Empirical Bayes", and "Bayes Factor". 
+       A tutorial on probability and Bayes' theorem devised for Oxford University psychology students 
+       An Intuitive Explanation of Bayes' Theorem by Eliezer S. Yudkowsky 
+       Bayesian Clinical Diagnostic Model
+       
+      
+       
+      
+      
+       
+        
+         
+          Authority control: National libraries 
+          
+            
+            
+             Germany
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Bayes%27_theorem&amp;oldid=1070920208"
+     
+     
+    
+     
+      Categories: 
+      
+       Bayesian statistics
+       Probability theorems
+       Theorems in statistics
+      
+     
+     
+      Hidden categories: 
+      
+       Harv and Sfn no-target errors
+       Articles with short description
+       Short description is different from Wikidata
+       Wikipedia articles needing page number citations from March 2021
+       All articles with unsourced statements
+       Articles with unsourced statements from May 2020
+       Articles with GND identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       Afrikaans
+       العربية
+       Aragonés
+       Asturianu
+       Беларуская
+       Беларуская (тарашкевіца)
+       Български
+       Català
+       Čeština
+       Cymraeg
+       Dansk
+       Deutsch
+       Eesti
+       Ελληνικά
+       Español
+       Esperanto
+       Euskara
+       فارسی
+       Français
+       Gaeilge
+       Galego
+       한국어
+       हिन्दी
+       Bahasa Indonesia
+       Íslenska
+       Italiano
+       עברית
+       Latina
+       Latviešu
+       Lietuvių
+       Magyar
+       Монгол
+       Nederlands
+       日本語
+       Norsk bokmål
+       پنجابی
+       Piemontèis
+       Polski
+       Português
+       Română
+       Русский
+       Simple English
+       Slovenčina
+       Slovenščina
+       Српски / srpski
+       Sunda
+       Suomi
+       Svenska
+       தமிழ்
+       Türkçe
+       Українська
+       اردو
+       Tiếng Việt
+       吴语
+       粵語
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 10 February 2022, at 00:18&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

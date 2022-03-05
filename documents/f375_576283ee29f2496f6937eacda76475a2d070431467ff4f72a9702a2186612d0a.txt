@@ -1,0 +1,3009 @@
+
+ 
+  
+   
+  Technology - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+     
+     
+    
+   Technology 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Application of scientific knowledge to devise and build machinery
+       
+      
+      
+       This article is about the use and knowledge of techniques and processes for producing goods and services. For other uses, see Technology (disambiguation).
+       
+        
+      
+       
+         
+        
+         
+          
+         A steam turbine with the case opened. Such turbines produce most of the electricity used today. Electricity consumption and living standards are highly correlated.
+        
+       
+       
+      Technology ("science of craft", from Greek τέχνη, techne, "art, skill, cunning of hand"; and -λογία, -logia) is the sum of any techniques, skills, methods, and processes used in the production of goods or services or in the accomplishment of objectives, such as scientific investigation. Technology can be the knowledge of techniques, processes, and the like, or it can be embedded in machines to allow for operation without detailed knowledge of their workings. Systems (e.g. machines) applying technology by taking an input, changing it according to the system's use, and then producing an outcome are referred to as technology systems or technological systems. 
+      The simplest form of technology is the development and use of basic tools. The prehistoric invention of shaped stone tools followed by the discovery of how to control fire increased sources of food. The later Neolithic Revolution extended this, and quadrupled the sustenance available from a territory. The invention of the wheel helped humans to travel in and control their environment. 
+      Developments in historic times, including the printing press, the telephone, and the Internet, have lessened physical barriers to communication and allowed humans to interact freely on a global scale. 
+      Technology has many effects. It has helped develop more advanced economies (including today's global economy) and has allowed the rise of a leisure class. Many technological processes produce unwanted by-products known as pollution and deplete natural resources to the detriment of Earth's environment. Innovations have always influenced the values of a society and raised new questions in the ethics of technology. Examples include the rise of the notion of efficiency in terms of human productivity, and the challenges of bioethics. 
+      Philosophical debates have arisen over the use of technology, with disagreements over whether technology improves the human condition or worsens it. Neo-Luddism, anarcho-primitivism, and similar reactionary movements criticize the pervasiveness of technology, arguing that it harms the environment and alienates people; proponents of ideologies such as transhumanism and techno-progressivism view continued technological progress as beneficial to society and the human condition.  
+      
+       
+       
+        Contents
+        
+        
+        1 Definition and usage 
+        2 Science, engineering, and technology 
+        3 History 
+          
+          3.1 Paleolithic (2.5 Ma&nbsp;– 10 ka) 
+            
+            3.1.1 Stone tools 
+            3.1.2 Fire 
+            3.1.3 Clothing and shelter 
+             
+          3.2 Neolithic through classical antiquity (10 ka&nbsp;– 300 CE) 
+            
+            3.2.1 Metal tools 
+            3.2.2 Energy and transport 
+            3.2.3 Plumbing 
+             
+          3.3 Medieval and modern history (300 CE&nbsp;– present) 
+           
+        4 Philosophy 
+          
+          4.1 Technicism 
+          4.2 Optimism 
+          4.3 Skepticism and critics 
+          4.4 Appropriate technology 
+          4.5 Optimism and skepticism in the 21st century 
+          4.6 Complex technological systems 
+           
+        5 Other animal species 
+        6 Future technology 
+        7 See also 
+        8 References 
+        9 Further reading 
+        
+       
+      Definition and usage 
+      
+       
+         
+        
+         
+          
+         The spread of paper and printing to the West, as in this printing press, helped scientists and politicians communicate their ideas easily, leading to the Age of Enlightenment; an example of technology as cultural force.
+        
+       
+       
+      The use of the term "technology" has changed significantly over the last 200 years. Before the 20th century, the term was uncommon in English, and it was used either to refer to the description or study of the useful arts or to allude to technical education, as in the Massachusetts Institute of Technology (chartered in 1861). 
+      The term "technology" rose to prominence in the 20th century in connection with the Second Industrial Revolution. The term's meanings changed in the early 20th century when American social scientists, beginning with Thorstein Veblen, translated ideas from the German concept of Technik into "technology." In German and other European languages, a distinction exists between technik and technologie that is absent in English, which usually translates both terms as "technology." By the 1930s, "technology" referred not only to the study of the industrial arts but to the industrial arts themselves. 
+      In 1937, the American sociologist Read Bain wrote that "technology includes all tools, machines, utensils, weapons, instruments, housing, clothing, communicating and transporting devices and the skills by which we produce and use them." Bain's definition remains common among scholars today, especially social scientists. Scientists and engineers usually prefer to define technology as applied science, rather than as the things that people make and use. More recently, scholars have borrowed from European philosophers of "technique" to extend the meaning of technology to various forms of instrumental reason, as in Foucault's work on technologies of the self (techniques de soi). 
+      Dictionaries and scholars have offered a variety of definitions. The Merriam-Webster Learner's Dictionary offers a definition of the term: "the use of science in industry, engineering, etc., to invent useful things or to solve problems" and "a machine, piece of equipment, method, etc., that is created by technology." Ursula Franklin, in her 1989 "Real World of Technology" lecture, gave another definition of the concept; it is "practice, the way we do things around here." The term is often used to imply a specific field of technology, or to refer to high technology or just consumer electronics, rather than technology as a whole. Bernard Stiegler, in Technics and Time, 1, defines technology in two ways: as "the pursuit of life by means other than life," and as "organized inorganic matter." 
+      Technology can be most broadly defined as the entities, both material and immaterial, created by the application of mental and physical effort in order to achieve some value. In this usage, technology refers to tools and machines that may be used to solve real-world problems. It is a far-reaching term that may include simple tools, such as a crowbar or wooden spoon, or more complex machines, such as a space station or particle accelerator. Tools and machines need not be material; virtual technology, such as computer software and business methods, fall under this definition of technology. W. Brian Arthur defines technology in a similarly broad way as "a means to fulfill a human purpose."  
+      
+       
+         
+        
+         
+          
+         The invention of integrated circuits and the microprocessor (here, an Intel 4004 chip from 1971) led to the modern computer revolution.
+        
+       
+       
+      The word "technology" can also be used to refer to a collection of techniques. In this context, it is the current state of humanity's knowledge of how to combine resources to produce desired products, to solve problems, fulfill needs, or satisfy wants; it includes technical methods, skills, processes, techniques, tools and raw materials. When combined with another term, such as "medical technology" or "space technology," it refers to the state of the respective field's knowledge and tools. "State-of-the-art technology" refers to the high technology available to humanity in any field. 
+      Technology can be viewed as an activity that forms or changes culture. Additionally, technology is the application of mathematics, science, and the arts for the benefit of life as it is known. A modern example is the rise of communication technology, which has lessened barriers to human interaction and as a result has helped spawn new subcultures; the rise of cyberculture has at its basis the development of the Internet and the computer. As a cultural activity, technology predates both science and engineering, each of which formalize some aspects of technological endeavor. In this sense, it remains connected with artistic endeavors.  
+       
+      Science, engineering, and technology 
+      
+       
+         
+        
+         
+          
+         Antoine Lavoisier experimenting with combustion generated by amplified sun light
+        
+       
+       
+      The distinction between science, engineering, and technology is not always clear. Science is systematic knowledge of the physical or material world gained through observation and experimentation. Technologies are not usually exclusively products of science, because they have to satisfy requirements such as utility, usability, and safety. 
+      Engineering is the goal-oriented process of designing and making tools and systems to exploit natural phenomena for practical human means, often (but not always) using results and techniques from science. The development of technology may draw upon many fields of knowledge, including scientific, engineering, mathematical, linguistic, and historical knowledge, to achieve some practical result. 
+      Technology is often a consequence of science and engineering, although technology as a human activity precedes the two fields. For example, science might study the flow of electrons in electrical conductors by using already-existing tools and knowledge. This new-found knowledge may then be used by engineers to create new tools and machines such as semiconductors, computers, and other forms of advanced technology. In this sense, scientists and engineers may both be considered technologists; the three fields are often considered as one for the purposes of research and reference. 
+      The exact relations between science and technology, in particular, have been debated by scientists, historians, and policymakers in the late 20th century, in part because the debate can inform the funding of basic and applied science. In the immediate wake of World War II, for example, it was widely considered in the United States that technology was simply "applied science" and that to fund basic science was to reap technological results in due time. An articulation of this philosophy could be found explicitly in Vannevar Bush's treatise on postwar science policy, Science – The Endless Frontier: "New products, new industries, and more jobs require continuous additions to knowledge of the laws of nature&nbsp;... This essential new knowledge can be obtained only through basic scientific research." In the late-1960s, however, this view came under direct attack, leading towards initiatives to fund science for specific tasks (initiatives resisted by the scientific community). The issue remains contentious, though most analysts resist the model that technology is a result of scientific research.  
+      History 
+      
+      
+       Main articles: History of technology, Timeline of electrical and electronic engineering, and Timeline of historic inventions
+       
+      Paleolithic (2.5 Ma&nbsp;– 10 ka) 
+      
+       
+         
+        
+         
+          
+         A primitive chopper
+        
+       
+       
+      
+      
+       Further information: Outline of prehistoric technology
+       
+      The use of tools by early humans was partly a process of discovery and of evolution. Early humans evolved from a species of foraging hominids which were already bipedal, with a brain mass approximately one third of modern humans. Tool use remained relatively unchanged for most of early human history. Approximately 50,000 years ago, the use of tools and a complex set of behaviors emerged, believed by many archaeologists to be connected to the emergence of fully modern language.  
+      Stone tools 
+      
+       
+         
+        
+         
+          
+         Hand axes from the Acheulian period
+        
+       
+       
+      
+       
+         
+        
+         
+          
+         A campfire, often used to cook food
+        
+       
+       
+      
+       
+         
+        
+         
+          
+         A Clovis point, made via pressure flaking
+        
+       
+       
+      
+       
+         
+        
+         
+          
+         A metal axe, estimated creation from 1600 to 1700 pressure flaking
+        
+       
+       
+      Hominids started using primitive stone tools millions of years ago. The earliest stone tools were little more than a fractured rock, but approximately 75,000 years ago, pressure flaking provided a way to make much finer work.  
+      Fire 
+      
+      
+       Main article: Control of fire by early humans
+       
+      The discovery and use of fire, a simple energy source with many profound uses, was a turning point in the technological evolution of humankind. The exact date of its discovery is not known; evidence of burnt animal bones at the Cradle of Humankind suggests that the domestication of fire occurred before 1 Ma; scholarly consensus indicates that Homo erectus had controlled fire by between 500 and 400 ka. Fire, fueled with wood and charcoal, allowed early humans to cook their food to increase its digestibility, improving its nutrient value and broadening the number of foods that could be eaten.  
+      Clothing and shelter 
+      Other technological advances made during the Paleolithic era were clothing and shelter; the adoption of both technologies cannot be dated exactly, but they were a key to humanity's progress. As the Paleolithic era progressed, dwellings became more sophisticated and more elaborate; as early as 380 ka, humans were constructing temporary wood huts. Clothing, adapted from the fur and hides of hunted animals, helped humanity expand into colder regions; humans began to migrate out of Africa by 200 ka and into other continents such as Eurasia.  
+      Neolithic through classical antiquity (10 ka&nbsp;– 300 CE) 
+      
+       
+         
+        
+         
+          
+         An array of Neolithic artifacts, including bracelets, axe heads, chisels, and polishing tools
+        
+       
+       
+      Human's technological ascent began in earnest in what is known as the Neolithic Period ("New Stone Age"). The invention of polished stone axes was a major advance that allowed forest clearance on a large scale to create farms. This use of polished stone axes increased greatly in the Neolithic, but were originally used in the preceding Mesolithic in some areas such as Ireland. Agriculture fed larger populations, and the transition to sedentism allowed simultaneously raising more children, as infants no longer needed to be carried, as nomadic ones must. Additionally, children could contribute labor to the raising of crops more readily than they could to the hunter-gatherer economy. 
+      With this increase in population and availability of labor came an increase in labor specialization. What triggered the progression from early Neolithic villages to the first cities, such as Uruk, and the first civilizations, such as Sumer, is not specifically known; however, the emergence of increasingly hierarchical social structures and specialized labor, of trade and war amongst adjacent cultures, and the need for collective action to overcome environmental challenges such as irrigation, are all thought to have played a role.  
+      Metal tools 
+      Continuing improvements led to the furnace and bellows and provided, for the first time, the ability to smelt and forge gold, copper, silver, and lead &nbsp;– native metals found in relatively pure form in nature. The advantages of copper tools over stone, bone, and wooden tools were quickly apparent to early humans, and native copper was probably used from near the beginning of Neolithic times (about 10 ka). Native copper does not naturally occur in large amounts, but copper ores are quite common and some of them produce metal easily when burned in wood or charcoal fires. Eventually, the working of metals led to the discovery of alloys such as bronze and brass (about 4000 BCE). The first uses of iron alloys such as steel dates to around 1800 BCE.  
+      Energy and transport 
+      
+       
+         
+        
+         
+          
+         The wheel was invented circa 4000 BCE.
+        
+       
+       
+      
+      
+       Main article: History of transport
+       
+      Meanwhile, humans were learning to harness other forms of energy. The earliest known use of wind power is the sailing ship; the earliest record of a ship under sail is that of a Nile boat dating to the 8th-millennium BCE. From prehistoric times, Egyptians probably used the power of the annual flooding of the Nile to irrigate their lands, gradually learning to regulate much of it through purposely built irrigation channels and "catch" basins. The ancient Sumerians in Mesopotamia used a complex system of canals and levees to divert water from the Tigris and Euphrates rivers for irrigation.  
+      
+       
+         
+        
+         
+          
+         Gibson Technology GL458
+        
+       
+       
+      According to archaeologists, the wheel was invented around 4000 BCE probably independently and nearly simultaneously in Mesopotamia (in present-day Iraq), the Northern Caucasus (Maykop culture) and Central Europe. Estimates on when this may have occurred range from 5500 to 3000 BCE with most experts putting it closer to 4000 BCE. The oldest artifacts with drawings depicting wheeled carts date from about 3500 BCE; however, the wheel may have been in use for millennia before these drawings were made. More recently, the oldest-known wooden wheel in the world was found in the Ljubljana marshes of Slovenia. 
+      The invention of the wheel revolutionized trade and war. It did not take long to discover that wheeled wagons could be used to carry heavy loads. The ancient Sumerians used the potter's wheel and may have invented it. A stone pottery wheel found in the city-state of Ur dates to around 3429 BCE, and even older fragments of wheel-thrown pottery have been found in the same area. Fast (rotary) potters' wheels enabled early mass production of pottery, but it was the use of the wheel as a transformer of energy (through water wheels, windmills, and even treadmills) that revolutionized the application of nonhuman power sources. The first two-wheeled carts were derived from travois and were first used in Mesopotamia and Iran in around 3000 BCE. 
+      The oldest known constructed roadways are the stone-paved streets of the city-state of Ur, dating to circa 4000 BCE and timber roads leading through the swamps of Glastonbury, England, dating to around the same time period. The first long-distance road, which came into use around 3500 BCE, spanned 1,500 miles from the Persian Gulf to the Mediterranean Sea, but was not paved and was only partially maintained. In around 2000 BCE, the Minoans on the Greek island of Crete built a fifty-kilometer (thirty-mile) road leading from the palace of Gortyn on the south side of the island, through the mountains, to the palace of Knossos on the north side of the island. Unlike the earlier road, the Minoan road was completely paved.  
+      Plumbing 
+      
+       
+         
+        
+         
+          
+         Photograph of the Pont du Gard in France, one of the most famous ancient Roman aqueducts
+        
+       
+       
+      Ancient Minoan private homes had running water. A bathtub virtually identical to modern ones was unearthed at the Palace of Knossos. Several Minoan private homes also had toilets, which could be flushed by pouring water down the drain. The ancient Romans had many public flush toilets, which emptied into an extensive sewage system. The primary sewer in Rome was the Cloaca Maxima; construction began on it in the sixth century BCE and it is still in use today. 
+      The ancient Romans also had a complex system of aqueducts, which were used to transport water across long distances. The first Roman aqueduct was built in 312 BCE. The eleventh and final ancient Roman aqueduct was built in 226 CE. Put together, the Roman aqueducts extended over 450 kilometers, but less than seventy kilometers of this was above ground and supported by arches.  
+      Medieval and modern history (300 CE&nbsp;– present) 
+      
+      
+       Main articles: Medieval technology, Renaissance technology, Industrial Revolution, Second Industrial Revolution, Information Technology, and Productivity improving technologies (economic history)
+       
+      
+       
+         
+        
+         
+          
+         The card catalog, a technology developed in the 19th century, became ubiquitous in the 20th century.
+        
+       
+       
+      Innovations continued through the Middle Ages with innovations such as silk-manufacture (introduced into Europe after centuries of development in Asia), the horse collar and horseshoes in the first few hundred years after the 5th-century fall of the Roman Empire. Medieval technology saw the use of simple machines (such as the lever, the screw, and the pulley) being combined to form more complicated tools, such as the wheelbarrow, windmills and clocks, and a system of universities developed and spread scientific ideas and practices. The Renaissance era produced many innovations, including the printing press (which facilitated the communication of knowledge), and technology became increasingly associated with science, beginning a cycle of mutual advancement. Advances in technology in this era allowed a more reliable supply of food, followed by the wider availability of consumer goods.  
+      
+       
+         
+        
+         
+          
+         The automobile revolutionized personal transportation.
+        
+       
+       
+      Starting in the United Kingdom in the 18th century, the Industrial Revolution was a period of great technological discovery, particularly in the areas of agriculture, manufacturing, mining, metallurgy, and transport, driven by the discovery of steam power and the widespread application of the factory system. Technology took another step in a second industrial revolution (c.  1870 to c.  1914) with the harnessing of electricity to allow such innovations as the electric motor, light bulb, and countless others. Scientific advances and the discovery of new concepts later allowed for powered flight and developments in medicine, chemistry, physics, and engineering. The rise in technology has led to skyscrapers and broad urban areas whose inhabitants rely on motors to transport them and their food supplies. Communication improved with the invention of the telegraph, telephone, radio and television. The late-19th and early-20th centuries saw a revolution in transportation with the invention of the airplane and automobile.  
+      
+       
+         
+        
+         
+          
+         F-15 and F-16 flying over Kuwaiti oil fires during the Gulf War in 1991.
+        
+       
+       
+      The 20th century brought a host of innovations. In physics, the discovery of nuclear fission has led to both nuclear weapons and nuclear power. Computers were invented and later miniaturized using transistors and integrated circuits. Information technology, particularly the optical fiber and optical amplifiers that led to the birth of the Internet, which ushered in the Information Age. Humans started to explore space with satellites (late 1950s, later used for telecommunication) and in crewed missions (1960s) going all the way to the moon. In medicine, this era brought innovations such as open-heart surgery and later stem-cell therapy along with new medications and treatments using genomics. 
+      Complex manufacturing and construction techniques and organizations are needed to make and maintain some of the newer technologies, and entire industries have arisen to support and develop succeeding generations of increasingly more complex tools. Modern technology increasingly relies on training and education&nbsp;– their designers, builders, maintainers, and users often require sophisticated general and specific training. Moreover, these technologies have become so complex that entire fields have developed to support them, including engineering, medicine, and computer science; and other fields have become more complex, such as construction, transportation, and architecture.  
+      Philosophy 
+      
+      
+       Main article: Philosophy of technology
+       
+      Technicism 
+      Generally, technicism is the belief in the utility of technology for improving human societies. Taken to an extreme, technicism "reflects a fundamental attitude which seeks to control reality, to resolve all problems with the use of scientific–technological methods and tools." In other words, human beings will someday be able to master all problems and possibly even control the future using technology. Some, such as Stephen V. Monsma, connect these ideas to the abdication of religion as a higher moral authority.  
+      Optimism 
+      
+      
+       See also: Extropianism and Technological optimism
+       
+      Optimistic assumptions are made by proponents of ideologies such as transhumanism and singularitarianism, which view technological development as generally having beneficial effects for the society and the human condition. In these ideologies, technological development is morally good. 
+      Transhumanists generally believe that the point of technology is to overcome barriers, and that what we commonly refer to as the human condition is just another barrier to be surpassed. 
+      Singularitarians believe in some sort of "accelerating change"; that the rate of technological progress accelerates as we obtain more technology, and that this will culminate in a "Singularity" after artificial general intelligence is invented in which progress is nearly infinite; hence the term. Estimates for the date of this Singularity vary, but prominent futurist Ray Kurzweil estimates the Singularity will occur in 2045. 
+      Kurzweil is also known for his history of the universe in six epochs: (1) the physical/chemical epoch, (2) the life epoch, (3) the human/brain epoch, (4) the technology epoch, (5) the artificial intelligence epoch, and (6) the universal colonization epoch. Going from one epoch to the next is a Singularity in its own right, and a period of speeding up precedes it. Each epoch takes a shorter time, which means the whole history of the universe is one giant Singularity event. 
+      Some critics see these ideologies as examples of scientism and techno-utopianism and fear the notion of human enhancement and technological singularity which they support. Some have described Karl Marx as a techno-optimist.  
+      Skepticism and critics 
+      
+      
+       See also: Luddite, Neo-Luddism, Anarcho-primitivism, and Bioconservatism
+       
+      
+       
+         
+        
+         
+          
+         Luddites smashing a power loom in 1812
+        
+       
+       
+      On the somewhat skeptical side are certain philosophers like Herbert Marcuse and John Zerzan, who believe that technological societies are inherently flawed. They suggest that the inevitable result of such a society is to become evermore technological at the cost of freedom and psychological health. 
+      Many, such as the Luddites and prominent philosopher Martin Heidegger, hold serious, although not entirely, deterministic reservations about technology (see "The Question Concerning Technology"). According to Heidegger scholars Hubert Dreyfus and Charles Spinosa, "Heidegger does not oppose technology. He hopes to reveal the essence of technology in a way that 'in no way confines us to a stultified compulsion to push on blindly with technology or, what comes to the same thing, to rebel helplessly against it.' Indeed, he promises that 'when we once open ourselves expressly to the essence of technology, we find ourselves unexpectedly taken into a freeing claim.' What this entails is a more complex relationship to technology than either techno-optimists or techno-pessimists tend to allow." 
+      Some of the most poignant criticisms of technology are found in what are now considered to be dystopian literary classics such as Aldous Huxley's Brave New World, Anthony Burgess's A Clockwork Orange, and George Orwell's Nineteen Eighty-Four. In Goethe's Faust, Faust selling his soul to the devil in return for power over the physical world is also often interpreted as a metaphor for the adoption of industrial technology. More recently, modern works of science fiction such as those by Philip K. Dick and William Gibson and films such as Blade Runner and Ghost in the Shell project highly ambivalent or cautionary attitudes toward technology's impact on human society and identity. 
+      The late cultural critic Neil Postman distinguished tool-using societies from technological societies and from what he called "technopolies," societies that are dominated by the ideology of technological and scientific progress to the exclusion or harm of other cultural practices, values, and world-views. 
+      Darin Barney has written about technology's impact on practices of citizenship and democratic culture, suggesting that technology can be construed as (1) an object of political debate, (2) a means or medium of discussion, and (3) a setting for democratic deliberation and citizenship. As a setting for democratic culture, Barney suggests that technology tends to make ethical questions, including the question of what a good life consists in, nearly impossible because they already give an answer to the question: a good life is one that includes the use of more and more technology. 
+      Nikolas Kompridis has also written about the dangers of new technology, such as genetic engineering, nanotechnology, synthetic biology, and robotics. He warns that these technologies introduce unprecedented new challenges to human beings, including the possibility of the permanent alteration of our biological nature. These concerns are shared by other philosophers, scientists and public intellectuals who have written about similar issues (e.g. Francis Fukuyama, Jürgen Habermas, William Joy, and Michael Sandel). 
+      Another prominent critic of technology is Hubert Dreyfus, who has published books such as On the Internet and What Computers Still Can't Do. 
+      A more infamous anti-technological treatise is Industrial Society and Its Future, written by the Unabomber Ted Kaczynski and printed in several major newspapers (and later books) as part of an effort to end his bombing campaign of the techno-industrial infrastructure. There are also subcultures that disapprove of some or most technology, such as self-identified off-gridders.  
+      Appropriate technology 
+      
+      
+       See also: Technocriticism and Technorealism
+       
+      The notion of appropriate technology was developed in the 20th century by thinkers such as E.F. Schumacher and Jacques Ellul to describe situations where it was not desirable to use very new technologies or those that required access to some centralized infrastructure or parts or skills imported from elsewhere. The ecovillage movement emerged in part due to this concern.  
+      Optimism and skepticism in the 21st century 
+      This section mainly focuses on American concerns even if it can reasonably be generalized to other Western countries.   
+      
+      
+       The inadequate quantity and quality of American jobs is one of the most fundamental economic challenges we face.  What's the linkage between technology and this fundamental problem?
+       
+        — Bernstein, Jared, "It’s Not a Skills Gap That’s Holding Wages Down: It’s the Weak Economy, Among Other Things," in The American Prospect, October 2014
+       
+       
+      In his article, Jared Bernstein, a Senior Fellow at the Center on Budget and Policy Priorities, questions the widespread idea that automation, and more broadly, technological advances, have mainly contributed to this growing labor market problem. His thesis appears to be a third way between optimism and skepticism. Essentially, he stands for a neutral approach of the linkage between technology and American issues concerning unemployment and declining wages. 
+      He uses two main arguments to defend his point. First, because of recent technological advances, an increasing number of workers are losing their jobs. Yet, scientific evidence fails to clearly demonstrate that technology has displaced so many workers that it has created more problems than it has solved. Indeed, automation threatens repetitive jobs but higher-end jobs are still necessary because they complement technology and manual jobs that "requires flexibility judgment and common sense" remain hard to replace with machines. Second, studies have not shown clear links between recent technology advances and the wage trends of the last decades. 
+      Therefore, according to Bernstein, instead of focusing on technology and its hypothetical influences on current American increasing unemployment and declining wages, one needs to worry more about "bad policy that fails to offset the imbalances in demand, trade, income, and opportunity."  
+      Complex technological systems 
+      
+       
+         
+        
+         
+          
+         The rear wheel of a bicycle
+        
+       
+       
+      
+       
+         
+        
+         
+          
+         The flame of a gas stove.
+        
+       
+       
+      Thomas P. Hughes stated that because technology has been considered as a key way to solve problems, we need to be aware of its complex and varied characters to use it more efficiently. What is the difference between a wheel or a compass and cooking machines such as an oven or a gas stove? Can we consider all of them, only a part of them, or none of them as technologies? 
+      Technology is often considered too narrowly; according to Hughes, "Technology is a creative process involving human ingenuity". This definition's emphasis on creativity avoids unbounded definitions that may mistakenly include cooking "technologies," but it also highlights the prominent role of humans and therefore their responsibilities for the use of complex technological systems. 
+      Yet, because technology is everywhere and has dramatically changed landscapes and societies, Hughes argues that engineers, scientists, and managers have often believed that they can use technology to shape the world as they want. They have often supposed that technology is easily controllable and this assumption has to be thoroughly questioned. For instance, Evgeny Morozov particularly challenges two concepts: "Internet-centrism" and "solutionism." Internet-centrism refers to the idea that our society is convinced that the Internet is one of the most stable and coherent forces. Solutionism is the ideology that every social issue can be solved thanks to technology and especially thanks to the internet. In fact, technology intrinsically contains uncertainties and limitations. According to Alexis Madrigal's review of Morozov's theory, to ignore it will lead to "unexpected consequences that could eventually cause more damage than the problems they seek to address." Benjamin R. Cohen and Gwen Ottinger also discussed the multivalent effects of technology. 
+      Therefore, recognition of the limitations of technology, and more broadly, scientific knowledge, is needed&nbsp;– especially in cases dealing with environmental justice and health issues. Ottinger continues this reasoning and argues that the ongoing recognition of the limitations of scientific knowledge goes hand in hand with scientists and engineers’ new comprehension of their role. Such an approach of technology and science " technical professionals to conceive of their roles in the process differently.  collaborators in research and problem solving rather than simply providers of information and technical solutions."  
+      Other animal species 
+      
+      
+       See also: Tool use by animals, Structures built by animals, and Ecosystem engineer
+       
+      
+       
+         
+        
+         
+          
+         This adult gorilla uses a branch as a walking stick to gauge the water's depth, an example of technology usage by non-human primates.
+        
+       
+       
+      The use of basic technology is also a feature of other animal species apart from humans. These include primates such as chimpanzees, some dolphin communities, and crows. Considering a more generic perspective of technology as ethology of active environmental conditioning and control, we can also refer to animal examples such as beavers and their dams, or bees and their honeycombs. 
+      The ability to make and use tools was once considered a defining characteristic of the genus Homo. However, the discovery of tool construction among chimpanzees and related primates has discarded the notion of the use of technology as unique to humans. For example, researchers have observed wild chimpanzees using tools for foraging: some of the tools used include leaf sponges, termite fishing probes, pestles and levers. West African chimpanzees also use stone hammers and anvils for cracking nuts, as do capuchin monkeys of Boa Vista, Brazil.  
+      Future technology 
+      
+      
+       Main article: Emerging technologies
+       
+      Theories of technology often attempt to predict the future of technology based on the high technology and science of the time. As with all predictions of the future, however, technology is uncertain. 
+      In 2005, futurist Ray Kurzweil predicted that the future of technology would mainly consist of an overlapping "GNR Revolution" of genetics, nanotechnology and robotics, with robotics being the most important of the three. This future revolution has been explored in films, novels, and video games, which have predicted the creation of many inventions, as well as foreseeing future events. Such inventions and events include a government-controlled simulation that resulted from massive robotics advancements (The Matrix), a society that has rid itself of procreation due to improvements in genetic engineering (Brave New World), and a police state enforced by the government using datamining, nanobots, and drones (Watch Dogs). Humans have already made some of the first steps toward achieving the GNR revolution. 
+      Recent discoveries and ingenuity has allowed us to create robotics in the form of Artificial Intelligence, as well as in the physical form of robots. Artificial intelligence has been used for a variety of purposes, including personal assistants in a smart phone, the first of which was Siri, released in the iPhone 4S in 2011 by Apple. Some believe that the future of robotics will involve a 'greater than human non-biological intelligence.' This concept can be compared to that of a 'rogue AI,' an artificial intelligence that has gained self-awareness, and tries to eradicate humanity. Others believe that the future will involve AI servants creating an easy and effortless life for humankind, where robots have become the primary work force. This future shares many similarities with the concept of planned obsolescence, however, planned obsolescence is seen as a "sinister business strategy.' Man-controlled robots such as drones have been developed to carry out tasks such as bomb defusal and space exploration. Universities such as Harvard are working towards the invention of autonomous robots to be used in situations that would aid humans, such as surgery robots, search and rescue robots, and physical therapy robots. 
+      Genetics have also been explored, with humans understanding genetic engineering to a certain degree. However, gene editing is widely divisive, and usually involves some degree of eugenics. Some have speculated the future of human engineering to include 'super humans,' humans who have been genetically engineered to be faster, stronger, and more survivable than current humans. Others think that genetic engineering will be used to make humans more resistant or completely immune to some diseases. Some even suggest that 'cloning,' the process of creating an exact copy of a human, may be possible through genetic engineering. 
+      Some believe that within the next 10 years, humans will discover nanobot technology, while others believe that we are centuries away from its invention. It is believed by futurists that nanobot technology will allow humans to 'manipulate matter at the molecular and atomic scale.' This discovery could pave the way for many scientific and medical advancements, such as curing new diseases, or inventing new, more efficient technology. It is also believed that nanobots could be injected or otherwise inserted inside the human body, and replace certain parts, keeping humans healthy for an incredibly long amount of time, or combating organ failure to a degree. 
+      The 'GNR revolution,' would bring a new age of technology and advancement for humanity like none that has been seen before.  
+      See also 
+      
+      
+       Main article: Outline of technology
+       
+      
+       
+        
+        Technology portal
+       
+       
+      
+       
+       
+        Architectural technology 
+        Critique of technology 
+        Greatest Engineering Achievements of the 20th Century 
+        History of science and technology 
+        Knowledge economy 
+        Law of the instrument – Golden hammer 
+        Lewis Mumford 
+        List of emerging technologies 
+        List of years in science 
+        Niche construction 
+        Science and technology in Argentina 
+        Technological convergence 
+        Technology and society 
+        Technology assessment 
+        Technology tree 
+        -logy 
+        Superpower §&nbsp;Possible factors
+        
+       Theories and concepts in technology  
+       
+        Appropriate technology 
+        Diffusion of innovations 
+        Human enhancement 
+        Instrumental conception of technology 
+        Jacques Ellul 
+        Paradigm 
+        Philosophy of technology 
+        Posthumanism 
+        Precautionary principle 
+        Singularitarianism 
+        Strategy of Technology 
+        Techno-progressivism 
+        Technocentrism 
+        Technocracy 
+        Technocriticism 
+        Technological determinism 
+        Technological evolution 
+        Technological nationalism 
+        Technological singularity 
+        Technology management 
+        Technology readiness level 
+        Technorealism 
+        Transhumanism
+        
+       Economics of technology  
+       
+        Energy accounting 
+        Nanosocialism 
+        Post-scarcity economy 
+        Productivity improving technologies (economic history) 
+        Technocracy 
+        Technocapitalism 
+        Technological diffusion 
+        Technology acceptance model 
+        Technology lifecycle 
+        Technology transfer
+        
+       Technology journalism  
+       
+        Engadget 
+        TechCrunch 
+        The Verge 
+        Wired (magazine)
+        
+       Other  
+       
+        Science tourism 
+        STEM fields
+       
+       
+      References 
+      
+       
+       
+         
+         ^ Electricity in economic growth&nbsp;: a report. Washington, D.C: National Academy Press. 1986. doi:10.17226/900. ISBN&nbsp;978-0-309-03677-1. OCLC&nbsp;45734143.  
+         ^ 
+           Liddell, Henry George; Scott, Robert (1980). A Greek-English Lexicon (Abridged&nbsp;ed.). United Kingdom: Oxford University Press. ISBN&nbsp;978-0-19-910207-5.  
+         ^ 
+           Crabb, George (1823). Universal Technological Dictionary, or Familiar Explanation of the Terms Used in All Arts and Sciences. London: Baldwin, Cradock, and Joy. p.&nbsp;524 – via Internet Archive.  
+         ^ 
+           Mannix, Loretta H.; Stratton, Julius Adams (2005). Mind and Hand: The Birth of MIT. Cambridge: MIT Press. pp.&nbsp;190–92. ISBN&nbsp;978-0-262-19524-9.  
+         ^ 
+           "Technik Comes to America: Changing Meanings of Technology Before 1930". Technology and Culture. 47.  
+         ^ 
+           Bain, Read (1937). "Technology and State Government". American Sociological Review. 2 (6): 860–874. doi:10.2307/2084365. JSTOR&nbsp;2084365.  
+         ^ 
+           MacKenzie, Donald A.; Wajcman, Judy (1999). "Introductory Essay". The Social Shaping of Technology (2nd&nbsp;ed.). Buckingham: Open University Press. p.&nbsp;6. ISBN&nbsp;978-0-335-19913-6. Technology, it is often said, is applied science. Scientists discover facts about reality, and technologists apply these facts to produce useful things.  
+         ^ 
+           "Technology | Definition of Technology by Merriam-Webster". Merriam-Webster. Archived from the original on 7 November 2016. Retrieved 7 November 2016.  
+         ^ 
+           Franklin, Ursula (1999). The Real World of Technology (revised&nbsp;ed.). Scarborough: House of Anansi. ISBN&nbsp;978-0-88784-891-9.  
+         ^ See, for example, 
+           "Technology". BBC News. Archived from the original on 7 November 2016. Retrieved 7 November 2016.  
+         ^ 
+           Stiegler, Bernard (1998). Technics and Time, 1: The Fault of Epimetheus. Stanford University Press. pp.&nbsp;17, 82. ISBN&nbsp;978-0-8047-3041-9. Stiegler has more recently stated that biotechnology can no longer be defined as "organized inorganic matter," given that it is, rather, "the reorganization of the organic." 
+           Stiegler, Bernard (2008). L'avenir du passé: Modernité de l'archéologie. La Découverte. p.&nbsp;23. ISBN&nbsp;978-2-7071-5495-8.  
+         ^ 
+           "Industry, Technology and the Global Marketplace: International Patenting Trends in Two New Technology Areas". Science and Engineering Indicators 2002. National Science Foundation. Archived from the original on 18 August 2015. Retrieved 7 May 2007.  
+         ^ 
+           Arthur, W. Brian (2009). The Nature of Technology. New York: Free Press. p.&nbsp;28. ISBN&nbsp;978-1-4165-4405-0.  
+         ^ 
+           Borgmann, Albert (2006). "Technology as a Cultural Force: For Alena and Griffin" (fee required). The Canadian Journal of Sociology. 31 (3): 351–60. doi:10.1353/cjs.2006.0050. S2CID&nbsp;144251172. Archived from the original on 13 August 2007. Retrieved 16 February 2007.  
+         ^ 
+           Macek, Jakub. "Defining Cyberculture". Archived from the original on 3 July 2007. Retrieved 25 May 2007.  
+         ^ See, for example, Katie Farris, "The Importance of Art in a Technological World," and Ilya Kaminsky, "Technicians of the Sacred," in: Humanistic Perspectives in a Technological World, ed. Richard Utz and Karen Head (Atlanta: Georgia Institute of Technology, 2021), pp. 36-39, and 79-82, respectively. Electronic access.  
+         ^ 
+           "Science". Dictionary.com. 2016. Archived from the original on 8 November 2016. Retrieved 7 November 2016.  
+         ^ 
+           A Treatise on Science Technology and Society. Dr. M. R. Sharma. 2020. ISBN&nbsp;978-81-318-0667-8. Retrieved 19 June 2020.  
+         ^ 
+           "Intute: Science, Engineering and Technology". Intute. Archived from the original on 17 February 2007. Retrieved 17 February 2007.  
+         ^ 
+           Bush, Vannevar (July 1945). "Science the Endless Frontier". National Science Foundation. Archived from the original on 7 November 2016. Retrieved 7 November 2016.  
+         ^ 
+           Wise, George (1985). "Science and Technology". Osiris. 2nd Series. 1: 229–46. doi:10.1086/368647. S2CID&nbsp;144475553.  
+         ^ 
+           Guston, David H. (2000). Between Politics and Science: Assuring the Integrity and Productivity of Research. New York: Cambridge University Press. ISBN&nbsp;978-0-521-65318-3.  
+         ^ 
+           "Mother of man&nbsp;– 3.2 million years ago". BBC. Archived from the original on 12 October 2007. Retrieved 17 May 2008.  
+         ^ 
+           "Human Evolution". History Channel. Archived from the original on 23 April 2008. Retrieved 17 May 2008.  
+         ^ 
+           Wade, Nicholas (15 July 2003). "Early Voices: The Leap to Language". The New York Times. Archived from the original on 12 March 2017. Retrieved 7 November 2016.  
+         ^ 
+           Bower, Bruce (29 October 2010). "Stone Agers Sharpened Skills 55,000 Years Earlier Than Thought". WIRED. Archived from the original on 8 November 2016. Retrieved 7 November 2016.  
+         ^ 
+           Crump, Thomas (2001). A Brief History of Science. Constable &amp; Robinson. p.&nbsp;9. ISBN&nbsp;978-1-84119-235-2.  
+         ^ 
+           "Fossil Hominid Sites of Sterkfontein, Swartkrans, Kromdraai, and Environs". UNESCO. Archived from the original on 27 March 2007. Retrieved 10 March 2007.  
+         ^ 
+           "Stone Age Man". History World. Archived from the original on 10 March 2007. Retrieved 13 February 2007.  
+         ^ 
+           James, Steven R. (February 1989). "Hominid Use of Fire in the Lower and Middle Pleistocene". Current Anthropology. 30 (1): 1–26. doi:10.1086/203705. JSTOR&nbsp;2743299. S2CID&nbsp;146473957.  
+         ^ 
+           Stahl, Ann B. (1984). "Hominid dietary selection before fire". Current Anthropology. 25 (2): 151–68. doi:10.1086/203106. JSTOR&nbsp;2742818. S2CID&nbsp;84337150.  
+         ^ 
+           O'Neil, Dennis. "Evolution of Modern Humans: Archaic Homo sapiens Culture". Palomar College. Archived from the original on 4 April 2007. Retrieved 31 March 2007.  
+         ^ 
+           Villa, Paola (1983). Terra Amata and the Middle Pleistocene archaeological record of southern France. Berkeley: University of California Press. p.&nbsp;303. ISBN&nbsp;978-0-520-09662-2.  
+         ^ 
+           Cordaux, Richard; Stoneking, Mark (2003). "South Asia, the Andamanese, and the Genetic Evidence for an 'Early' Human Dispersal out of Africa" (PDF). American Journal of Human Genetics. 72 (6): 1586–90, author reply 1590–93. doi:10.1086/375407. PMC&nbsp;1180321. PMID&nbsp;12817589. Archived (PDF) from the original on 1 October 2009. Retrieved 22 May 2007.  
+         ^ 
+           Driscoll, Killian (2006). The early prehistory in the west of Ireland: Investigations into the social archaeology of the Mesolithic, west of the Shannon, Ireland. Archived from the original on 4 September 2017. Retrieved 11 July 2017.  
+         ^ 
+           University of Chicago Press Journals (4 January 2006). "The First Baby Boom: Skeletal Evidence Shows Abrupt Worldwide Increase In Birth Rate During Neolithic Period". ScienceDaily. Archived from the original on 8 November 2016. Retrieved 7 November 2016.  
+         ^ 
+           Sussman, Robert W.; Hall, Roberta L. (April 1972). "Child Transport, Family Size, and Increase in Human Population During the Neolithic". Current Anthropology. 13 (2): 258–67. doi:10.1086/201274. JSTOR&nbsp;2740977. S2CID&nbsp;143449170.  
+         ^ 
+           Ferraro, Gary P. (2006). Cultural Anthropology: An Applied Perspective. The Thomson Corporation. ISBN&nbsp;978-0-495-03039-3. Archived from the original on 31 March 2021. Retrieved 17 May 2008.  
+         ^ 
+           Patterson, Gordon M. (1992). The ESSENTIALS of Ancient History. Research &amp; Education Association. ISBN&nbsp;978-0-87891-704-4. Archived from the original on 31 March 2021. Retrieved 17 May 2008.  
+         ^ 
+           Cramb, Alan W (1964). "A Short History of Metals". Nature. 203 (4943): 337. Bibcode:1964Natur.203Q.337T. doi:10.1038/203337a0. S2CID&nbsp;382712.  
+         ^ 
+           Hall, Harry Reginald Holland (1911). "Ceramics"&nbsp;. In Chisholm, Hugh (ed.). Encyclopædia Britannica. Vol.&nbsp;05 (11th&nbsp;ed.). Cambridge University Press. pp.&nbsp;703–760, see page 708. The art of making a pottery consisting of a siliceous sandy body coated with a vitreous copper glaze seems to have been known unexpectedly early, possibly even as early as the period immediately preceding the Ist Dynasty (4000 B.C.).  
+         ^ 
+           "The significance of the composition of excavated iron fragments taken from Stratum III at the site of Kaman-Kalehöyük, Turkey". Anatolian Archaeological Studies. Tokyo: Japanese Institute of Anatolian Archaeology. 14.  
+         ^ 
+           "Ironware piece unearthed from Turkey found to be oldest steel". The Hindu. 26 March 2009. Archived from the original on 29 March 2009. Retrieved 8 November 2016.  
+         ^ 
+           "The oldest representation of a Nile boat". Antiquity. 81.  
+         ^ 
+           Crawford, Harriet (2013). The Sumerian World. New York City, New York and London, England: Routledge. pp.&nbsp;34–43. ISBN&nbsp;978-0-203-09660-4. Archived from the original on 5 December 2020. Retrieved 12 November 2020.  
+         ^ 
+           Potts, D.T. (2012). A Companion to the Archaeology of the Ancient Near East. p.&nbsp;285.  
+         ^ 
+           Childe, V. Gordon (1928). New Light on the Most Ancient East. p.&nbsp;110.  
+         ^ 
+           Anthony, David A. (2007). The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World. Princeton: Princeton University Press. p.&nbsp;67. ISBN&nbsp;978-0-691-05887-0.  
+         ^ 
+           Gasser, Aleksander (March 2003). "World's Oldest Wheel Found in Slovenia". Republic of Slovenia Government Communication Office. Archived from the original on 26 August 2016. Retrieved 8 November 2016.  
+         ^ 
+           Kramer, Samuel Noah (1963). The Sumerians: Their History, Culture, and Character. Chicago, Illinois: University of Chicago Press. p.&nbsp;290. ISBN&nbsp;978-0-226-45238-8. Archived from the original on 8 August 2014. Retrieved 26 October 2017.  
+         ^ a b 
+           Moorey, Peter Roger Stuart (1999) . Ancient Mesopotamian Materials and Industries: The Archaeological Evidence. Winona Lake, Indiana: Eisenbrauns. p.&nbsp;146. ISBN&nbsp;978-1-57506-042-2. Archived from the original on 17 October 2017. Retrieved 26 October 2017.  
+         ^ a b 
+           Lay, M G (1992). Ways of the World. Sydney, Australia: Primavera Press. p.&nbsp;28. ISBN&nbsp;978-1-875368-05-1.  
+         ^ a b c d e f g 
+           Gregersen, Erik (2012). The Complete History of Wheeled Transportation: From Cars and Trucks to Buses and Bikes. New York City, New York: Britannica Educational Publishing. p.&nbsp;130. ISBN&nbsp;978-1-61530-701-2. Archived from the original on 31 March 2021. Retrieved 12 November 2020.  
+         ^ a b c d e f g 
+           Aicher, Peter J. (1995). Guide to the Aqueducts of Ancient Rome. Wauconda, Illinois: Bolchazy-Carducci Publishers, Inc. p.&nbsp;6. ISBN&nbsp;978-0-86516-282-2. Archived from the original on 5 December 2020. Retrieved 12 November 2020.  
+         ^ a b c 
+           Eslamian, Saeid (2014). Handbook of Engineering Hydrology: Environmental Hydrology and Water Management. Boca Raton, Florida: CRC Press. pp.&nbsp;171–75. ISBN&nbsp;978-1-4665-5250-0. Archived from the original on 10 December 2020. Retrieved 12 November 2020.  
+         ^ a b c d e 
+           Lechner, Norbert (2012). Plumbing, Electricity, Acoustics: Sustainable Design Methods for Architecture. Hoboken, New Jersey: John Wiley &amp; Sons, Inc. p.&nbsp;106. ISBN&nbsp;978-1-118-01475-2. Archived from the original on 31 March 2021. Retrieved 12 November 2020.  
+         ^ 
+           Breslin, Gerry, ed. (2011). "technicism". Collins English Dictionary. HarperCollins. ISBN&nbsp;978-0-00-743786-3.  
+         ^ 
+           "Philosophical and Ethical Problems of Technicism and Genetic Engineering". Society for Philosophy and Technology. 3.  
+         ^ 
+           Monsma, Stephen V. (1986). Responsible Technology. Grand Rapids: W.B. Eerdmans Pub. Co. ISBN&nbsp;978-0-8028-0175-3.  
+         ^ 
+           Muehlhauser, Luke (10 November 2015). "Intelligence Explosion FAQ". Machine Intelligence Research Institute. Archived from the original on 7 November 2016. Retrieved 11 November 2016.  
+         ^ 
+           Kurzweil, Ray (2005). "The Six Epochs". The Singularity is Near: When Humans Transcend Biology. Penguin. ISBN&nbsp;978-1-101-21888-4.  
+         ^ 
+           Hughes, James. "Democratic Transhumanism 2.0". Changesurfer. Archived from the original on 18 August 2016. Retrieved 10 November 2016.  
+         ^ 
+           Lovitt, William (1977). "The Question Concerning Technology". The Question Concerning Technology and Other Essays. Harper Torchbooks. pp.&nbsp;3–35. ISBN&nbsp;978-0-613-91314-0. Archived from the original on 14 July 2009. Retrieved 21 November 2007.  
+         ^ 
+           Heidegger, Martin (1977). "The Question Concerning Technology". The Question Concerning Technology and Other Essays. Translated by Lovitt, W. New York: HarperCollins. pp.&nbsp;25–26.  
+         ^ 
+           Dreyfus, Hubert; Spinosa, Charles (2006). "Further Reflections on Heidegger, Technology, and the Everyday". In Kompridis, Nikolas (ed.). Philosophical Romanticism. New York: Routledge. pp.&nbsp;265–81.  
+         ^ 
+           Postman, Neil (1993). Technopoly: The Surrender of Culture to Technology. New York: Vintage.  
+         ^ 
+           Barney, Darin (2007). One Nation Under Google. Toronto: House of Anansi Press.  
+         ^ 
+           "Technology's Challenge to Democracy". Parrhesia. 8.  
+         ^ Vannini, Phillip, and Jonathan Taggart. "Voluntary simplicity, involuntary complexities, and the pull of remove: The radical ruralities of off-grid lifestyles." Environment and Planning A 45.2 (2013): 295-311.  
+         ^ 
+           "Jared Bernstein". Center for Budget and Policy Priorities. 13 September 2013. Archived from the original on 12 November 2016. Retrieved 11 November 2016.  
+         ^ a b 
+           "It's Not a Skills Gap That's Holding Wages Down: It's the Weak Economy, Among Other Things". The American Prospect. 25.  
+         ^ a b 
+           Hughes, Thomas P. (2004). Human-Built World: How to Think About Technology and Culture. Chicago: University of Chicago Press. pp.&nbsp;1–11. ISBN&nbsp;978-0-226-35933-5.  
+         ^ Hughes, Thomas P. (2004) "Introduction: Complex Technology" (1–11) in "Human-Built World: How to Think About Technology and Culture"  
+         ^ 
+           Morozov, Evgeny (2013). To Save Everything, Click Here: The Folly of Technological Solutionism. New York: PublicAffairs. ISBN&nbsp;978-1-61039-139-9.  
+         ^ 
+           Madrigal, Alexis C. (13 March 2013). "Toward a Complex, Realistic, and Moral Tech Criticism". The Atlantic. Archived from the original on 25 May 2017. Retrieved 11 November 2016.  
+         ^ 
+           Cohen, Benjamin; Ottinger, Gwen (2011). "Introduction: Environmental Justice and the Transformation of Science and Engineering". In Ottinger, Gwen; Cohen, Benjamin (eds.). Technoscience and Environmental Justice: Expert Cultures in a Grassroots Movement. MIT Press. pp.&nbsp;1–18. ISBN&nbsp;978-0-262-01579-0.  
+         ^ 
+           Ottinger, Gwen (2011). "Rupturing Engineering Education: Opportunities for Transforming Expert Identities Through Community-Based Projects". In Ottinger, Gwen; Cohen, Benjamin (eds.). Technoscience and Environmental Justice: Expert Cultures in a Grassroots Movement. MIT Press. pp.&nbsp;229–48. ISBN&nbsp;978-0-262-01579-0.  
+         ^ 
+           Sagan, Carl; Druyan, Ann; Leakey, Richard. "Chimpanzee Tool Use". Archived from the original on 21 September 2006. Retrieved 13 February 2007.  
+         ^ 
+           Rincon, Paul (7 June 2005). "Sponging dolphins learn from mum". BBC News. Archived from the original on 4 December 2016. Retrieved 11 November 2016.  
+         ^ 
+           Schmid, Randolph E. (4 October 2007). "Crows use tools to find food". NBC News. Archived from the original on 10 March 2017. Retrieved 11 November 2016.  
+         ^ 
+           Rutz, C.; Bluff, L.A.; Weir, A.A.S.; Kacelnik, A. (4 October 2007). "Video cameras on wild birds". Science. 318 (5851): 765. Bibcode:2007Sci...318..765R. doi:10.1126/science.1146788. PMID&nbsp;17916693. S2CID&nbsp;28785984.  
+         ^ 
+           Oakley, K. P. (1976). Man the Tool-Maker. Nature. Vol.&nbsp;199. pp.&nbsp;1042–43. Bibcode:1963Natur.199U1042.. doi:10.1038/1991042e0. ISBN&nbsp;978-0-226-61270-6. S2CID&nbsp;4298952.  
+         ^ 
+           McGrew, W. C (1992). Chimpanzee Material Culture. Cambridge u.a.: Cambridge Univ. Press. ISBN&nbsp;978-0-521-42371-7.  
+         ^ 
+           Boesch, Christophe; Boesch, Hedwige (1984). "Mental map in wild chimpanzees: An analysis of hammer transports for nut cracking". Primates. 25 (2): 160–70. doi:10.1007/BF02382388. S2CID&nbsp;24073884.  
+         ^ 
+           Brahic, Catherine (15 January 2009). "Nut-cracking monkeys find the right tool for the job". New Scientist. Archived from the original on 15 November 2016. Retrieved 11 November 2016.  
+         ^ 
+           Kurzweil, Ray (2005). "GNR: Three Overlapping Revolutions". The Singularity is Near. Penguin. ISBN&nbsp;978-1-101-21888-4.  
+         ^ 
+           "Voice Assistant Timeline: A Short History of the Voice Revolution". Voicebot.ai. 14 July 2017. Retrieved 10 May 2021.  
+         ^ 
+           "Ray Kurzweil Predicts Three Technologies Will Define Our Future". Singularity Hub. 19 April 2016. Retrieved 10 May 2021.  
+         ^ 
+           Hadhazy, Adam. "Here's the truth about the 'planned obsolescence' of tech". www.bbc.com. Retrieved 10 May 2021.  
+         ^ 
+           "Robotics at Harvard". robotics.harvard.edu. Retrieved 10 May 2021.  
+         ^ 
+           "Genetics, Nanobots and Superhuman Intelligence in The Singularity". Transcendent Man. 23 May 2013. Retrieved 10 May 2021.  
+        
+       
+       
+      Further reading 
+      
+      
+       
+        Technologyat Wikipedia's sister projects
+       
+       
+        Definitions from Wiktionary
+        Media from Commons
+        News from Wikinews
+        Quotations from Wikiquote
+        Texts from Wikisource
+        Textbooks from Wikibooks
+        Resources from Wikiversity
+       
+       
+      
+       
+        Ambrose, Stanley H. (2 March 2001). "Paleolithic Technology and Human Evolution" (PDF). Science. 291 (5509): 1748–53. Bibcode:2001Sci...291.1748A. doi:10.1126/science.1059487. PMID&nbsp;11249821. S2CID&nbsp;6170692. Archived from the original (PDF) on 14 June 2007. Retrieved 10 March 2007. 
+       
+        Huesemann, M.H.; Huesemann, J.A. (2011). Technofix: Why Technology Won't Save Us or the Environment. New Society Publishers. ISBN&nbsp;978-0-86571-704-6. 
+       
+        Kremer, Michael (1993). "Population Growth and Technological Change: One Million B.C. to 1990". Quarterly Journal of Economics. 108 (3): 681–716. doi:10.2307/2118405. JSTOR&nbsp;2118405. S2CID&nbsp;139085606. 
+       
+        Kelly, Kevin (2010). What Technology Wants. New York: Viking Press. ISBN&nbsp;978-0-670-02215-1. 
+       
+        Mumford, Lewis (2010). Technics and Civilization. University of Chicago Press. ISBN&nbsp;978-0-226-55027-5. 
+       
+        Rhodes, Richard (2000). Visions of Technology: A Century of Vital Debate about Machines, Systems, and the Human World. Simon &amp; Schuster. ISBN&nbsp;0-684-86311-1. 
+       
+        Teich, A.H. (2008). Technology and the Future (11th&nbsp;ed.). Wadsworth Publishing. ISBN&nbsp;978-0-495-57052-3. 
+       
+        Tooze, Adam (6 June 2019). "Democracy and Its Discontents". The New York Review of Books. Vol.&nbsp;LXVI, no.&nbsp;10. pp.&nbsp;52–53, 56–57. 
+       
+        George Wilson (1855), What is technology?: an inaugural lecture delivered in the University of Edinburgh on November 7, 1855 (1st&nbsp;ed.), Edinburgh: Sutherland and Knox, Wikidata&nbsp;Q26221492. 
+       
+        Wright, R.T. (2008). Technology (5th&nbsp;ed.). Goodheart-Wilcox Company. ISBN&nbsp;978-1-59070-718-0.
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Technology and related concepts
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Major technologies
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Necessities
+                  
+                    
+                    
+                     Agriculture 
+                      
+                       Domestication 
+                       Grafting 
+                       Working animal
+                       
+                     Clothing 
+                      
+                       Sewing machine
+                       
+                     Cooking 
+                      
+                       Beer 
+                       Bread 
+                       Cheese 
+                       Milling 
+                       Wine
+                       
+                     Food storage 
+                      
+                       Pottery
+                       
+                     Sanitation 
+                      
+                       Plumbing 
+                       Toilet
+                       
+                     Tool 
+                      
+                       Blade 
+                       Hammer 
+                       Plough 
+                       Wedge
+                       
+                     Weapon 
+                      
+                       Gun
+                      
+                     
+                   
+                 
+                 
+                  Social
+                  
+                    
+                    
+                     Accounting 
+                     Calculation 
+                      
+                       Abacus 
+                       Calendar
+                       
+                     Cryptography 
+                     Lock and key 
+                     Money 
+                      
+                       Banknote 
+                       Coin
+                       
+                     Musical instrument 
+                      
+                       Phonograph
+                       
+                     Toy 
+                      
+                       Game 
+                       Video game
+                       
+                     Writing 
+                      
+                       Book 
+                       Map 
+                       Printing press 
+                       Typewriter
+                      
+                     
+                   
+                 
+                 
+                  Construction
+                  
+                    
+                    
+                     Aqueduct 
+                      
+                       Canal 
+                       Irrigation
+                       
+                     Arch 
+                     Bridge 
+                     Building 
+                      
+                       Fortification 
+                       Foundation 
+                       Scaffolding 
+                       Tower
+                       
+                     Dam 
+                      
+                       Caisson
+                       
+                     Road 
+                     Tunnel
+                     
+                   
+                 
+                 
+                  Transport
+                  
+                    
+                    
+                     Aircraft 
+                      
+                       Aerostat 
+                       Airplane
+                       
+                     Compass 
+                     Elevator 
+                     Horseback riding 
+                      
+                       Stirrup
+                       
+                     Jet engine 
+                      
+                       Rocket
+                       
+                     Motor vehicle 
+                     Railroad 
+                      
+                       Train
+                       
+                     Scuba set 
+                     Spacecraft 
+                      
+                       Satellite 
+                       Space station 
+                       Space suit
+                       
+                     Watercraft 
+                      
+                       Sailing 
+                       Ship 
+                       Submarine
+                      
+                     
+                   
+                 
+                 
+                  Manufacturing
+                  
+                    
+                    
+                     3D printing 
+                     Carpentry 
+                     Casting 
+                      
+                       Injection moulding 
+                       Lost-wax casting
+                       
+                     Mass production 
+                      
+                       Assembly line 
+                       Interchangeable parts 
+                       Machine tool
+                       
+                     Welding
+                     
+                   
+                 
+                 
+                  Simple machine
+                  
+                    
+                    
+                     Axle 
+                     Bearing 
+                      
+                       Ball bearing
+                       
+                     Belt 
+                      
+                       Chain
+                       
+                     Lever 
+                      
+                       Catapult 
+                       Crane 
+                       Shadoof
+                       
+                     Linkage 
+                      
+                       Cam 
+                       Clutch 
+                       Four-bar linkage 
+                       Piston 
+                       Rack and pinion
+                       
+                     Pendulum 
+                     Screw 
+                      
+                       Archimedes' screw 
+                       Propeller
+                       
+                     Spring 
+                     Valve 
+                     Wheel 
+                      
+                       Block and tackle 
+                       Flywheel 
+                       Gear 
+                       Potter's wheel 
+                       Pulley
+                       
+                     Wing
+                     
+                   
+                 
+                 
+                  Machinery
+                  
+                    
+                    
+                     Agricultural machinery 
+                     Appliance 
+                      
+                       Dishwasher 
+                       Washing machine
+                       
+                     Engine 
+                      
+                       Electric motor 
+                       Internal combustion 
+                       Turbine 
+                       Waterwheel 
+                       Windmill
+                       
+                     Heavy equipment 
+                     Hydraulics 
+                      
+                       Cylinder 
+                       Manifold 
+                       Pump
+                       
+                     Mechanism 
+                      
+                       Clock 
+                       Differential 
+                       Epicyclic gearing 
+                       Gimbal 
+                       Gyroscope 
+                       Whippletree
+                       
+                     MEMS 
+                     Pneumatics 
+                      
+                       Compressor 
+                       Jackhammer 
+                       Rivet gun 
+                       Vacuum pump
+                       
+                     Robotics 
+                      
+                       Arm 
+                       Leg
+                      
+                     
+                   
+                 
+                 
+                  Energy
+                  
+                    
+                    
+                     Fire 
+                      
+                       Charcoal 
+                       Oven
+                       
+                     Energy storage 
+                      
+                       Battery
+                       
+                     Geothermal power 
+                     Heat exchanger 
+                      
+                       Heat pump
+                       
+                     Nuclear power 
+                      
+                       Nuclear weapon
+                       
+                     Oil drilling 
+                      
+                       Fracking
+                       
+                     Refrigeration 
+                      
+                       Air conditioning 
+                       Refrigerator
+                       
+                     Solar power 
+                      
+                       Photovoltaics
+                      
+                     
+                   
+                 
+                 
+                  Material
+                  
+                    
+                    
+                     Cement 
+                      
+                       Concrete
+                       
+                     Ceramic 
+                      
+                       Brick
+                       
+                     Chipped stone 
+                     Glass 
+                     Masonry 
+                     Metallurgy 
+                      
+                       Aluminum 
+                       Bronze 
+                       Ironworking 
+                       Steel
+                       
+                     Nanomaterials 
+                     Paper 
+                     Plastic 
+                     Rammed earth 
+                     Recycling 
+                     Rubber 
+                      
+                       Vulcanization
+                       
+                     Textile 
+                      
+                       Loom 
+                       Spinning wheel
+                      
+                     
+                   
+                 
+                 
+                  Biotechnology
+                  
+                    
+                    
+                     Birth control 
+                     Blood transfusion 
+                     Dentistry 
+                     Genetic engineering 
+                      
+                       CRISPR gene editing 
+                       Genetic testing 
+                       PCR
+                       
+                     Hospital 
+                     Medical imaging 
+                     Medication 
+                      
+                       Anesthesia 
+                       Antibiotic
+                       
+                     Prosthesis 
+                     Surgery 
+                     Vaccine
+                     
+                   
+                 
+                 
+                  Chemical
+                  
+                    
+                    
+                     Detergent 
+                      
+                       Soap
+                       
+                     Dye 
+                     Explosive 
+                      
+                       Dynamite 
+                       Fireworks 
+                       Gunpowder 
+                       TNT
+                       
+                     Fertilizer 
+                      
+                       Haber process
+                       
+                     Laboratory glassware 
+                     Pesticide 
+                     Pigment 
+                     Separation 
+                      
+                       Chromatography 
+                       Distillation 
+                       Filtration
+                       
+                     Spectrometer 
+                     Synthesis
+                     
+                   
+                 
+                 
+                  Electromagnetism
+                  
+                    
+                    
+                     Electromagnet 
+                     Laser 
+                      
+                       Optical disc
+                       
+                     Lens 
+                      
+                       Eyeglasses
+                       
+                     Magnetic storage 
+                     Microwave oven 
+                     Mirror 
+                     Optical fiber 
+                     Optical instrument 
+                      
+                       Microscope 
+                       Telescope
+                       
+                     Photography 
+                      
+                       Camera 
+                       Motion picture
+                       
+                     Radar 
+                     Telecommunications 
+                      
+                       Mobile phone 
+                       Radio 
+                       Telegraph 
+                       Telephone 
+                       Television
+                      
+                     
+                   
+                 
+                 
+                  Electricity
+                  
+                    
+                    
+                     Circuit 
+                      
+                       AC 
+                       Circuit breaker 
+                       DC 
+                       Electrical grid 
+                       Fuse 
+                       Generator 
+                       Switch 
+                       Transformer
+                       
+                     Electric light 
+                      
+                       Fluorescent 
+                       Incandescent 
+                       LED 
+                       Neon
+                       
+                     Electronics 
+                      
+                       Capacitor 
+                       Circuit board 
+                       Resistor 
+                       Inductor 
+                       Vacuum tube
+                       
+                     Lightning rod 
+                     Multimeter 
+                     Oscilloscope 
+                     Semiconductor 
+                      
+                       Diode 
+                       Integrated circuit 
+                       Transistor
+                       
+                     Superconductor
+                     
+                   
+                 
+                 
+                  Computer
+                  
+                    
+                    
+                     Artificial intelligence 
+                     Hardware 
+                      
+                       CPU 
+                       GPU 
+                       Modem 
+                       Motherboard 
+                       Mouse 
+                       RAM 
+                       Router 
+                       Storage 
+                       Touchscreen
+                       
+                     Networking 
+                      
+                       Client–server model 
+                       Email 
+                       Internet 
+                       Peer-to-peer 
+                       Social media 
+                       World Wide Web
+                       
+                     Programming language 
+                     Software 
+                      
+                       Compiler 
+                       Database 
+                       GUI 
+                       Graphics software 
+                       Operating system 
+                       Spreadsheet 
+                       Web browser 
+                       Word processor
+                      
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Perspectives
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Criticism
+                  
+                    
+                    
+                     Appropriate technology 
+                      
+                       Low technology
+                       
+                     Luddite 
+                      
+                       Neo-Luddism
+                       
+                     Precautionary principle
+                     
+                   
+                 
+                 
+                  Ecotechnology
+                  
+                    
+                    
+                     Environmental technology 
+                      
+                       Clean technology
+                       
+                     Sustainable design 
+                      
+                       Sustainable engineering
+                      
+                     
+                   
+                 
+                 
+                  Policy &amp; politics
+                  
+                    
+                    
+                     Government by algorithm 
+                     Intellectual property 
+                      
+                       Patent 
+                       Trade secret
+                       
+                     Persuasive technology 
+                     Science policy 
+                     Strategy of Technology 
+                     Technology assessment 
+                     Technorealism
+                     
+                   
+                 
+                 
+                  Progressivism
+                  
+                    
+                    
+                     Futures studies 
+                      
+                       Technology forecasting
+                       
+                     Technological utopianism 
+                      
+                       Technocracy movement 
+                       Technological singularity 
+                       Transhumanism
+                      
+                     
+                   
+                 
+                 
+                  Studies
+                  
+                    
+                    
+                     Diffusion of innovations 
+                      
+                       Technology transfer
+                       
+                     History 
+                      
+                       Timeline of historic inventions
+                       
+                     Philosophy 
+                      
+                       Social construction of technology 
+                       Technological determinism
+                       
+                     Technology acceptance model
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Related concepts
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Applied science
+                  
+                    
+                    
+                     Agronomy 
+                     Architecture 
+                     Construction 
+                     Engineering 
+                     Forensics 
+                     Forestry 
+                     Logistics 
+                     Medicine 
+                     Mining 
+                     Navigation 
+                     Surveying
+                     
+                   
+                 
+                 
+                  Innovation
+                  
+                    
+                    
+                     Design 
+                     High tech 
+                     Invention 
+                     Mature technology 
+                     Research and development 
+                     Technological convergence 
+                     Technology lifecycle
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+             
+             
+               Category 
+               Outline 
+               Portal
+              
+            
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Levels of technological manipulation of matter
+           
+         
+         
+          
+            
+            
+             Technology 
+             Orders of magnitude (length)
+             
+           
+         
+         
+          Megascale engineering
+          
+            
+            
+             Astroengineering 
+             Climate engineering 
+             Megastructure 
+             Planetary engineering 
+             Space elevator 
+             Terraforming
+             
+           
+         
+         
+          Macro-engineering
+          
+            
+            
+             Atlantropa 
+             Bering Strait crossing 
+             Delta Works 
+             Great Wall of China 
+             Panama Canal 
+             Red Sea dam 
+             Sahara Sea 
+             Space habitat 
+             Suez Canal
+             
+           
+         
+         
+          Microtechnology
+          
+            
+            
+             Microelectromechanical systems 
+             Micromachinery 
+             Photolithography
+             
+           
+         
+         
+          Nanotechnology
+          
+            
+            
+             DNA nanotechnology 
+             Implications 
+             Molecular nanotechnology 
+             Molecular scale electronics 
+             Nanobiotechnology 
+             Nanofoundry 
+             Nanomaterials 
+             Nanoreactor 
+             Regulation 
+             Wearable generator 
+             Wet nanotechnology
+             
+           
+         
+         
+          Picotechnology
+          
+            
+            
+             Exotic atom 
+             Particle accelerator 
+             Rydberg atom 
+             Synthetic element
+             
+           
+         
+         
+          Femtotechnology
+          
+            
+            
+             Femtochemistry 
+             Hafnium bomb 
+             Limits of computation 
+             Mode-locking 
+             Nuclear isomer 
+             Nucleon
+             
+           
+         
+         
+          
+            
+            
+             History of technology 
+             Timelines of technology 
+             Engineering
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Prehistoric technology
+           
+         
+         
+          
+            
+            
+             Prehistory 
+              
+               Timeline 
+               Outline 
+               Stone Age 
+               Subdivisions 
+               New Stone Age
+               
+             Technology 
+              
+               history
+               
+             Glossary
+             
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Tools
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Farming
+                  
+                    
+                    
+                     Neolithic Revolution 
+                      
+                       Founder crops 
+                       New World crops
+                       
+                     Ard&nbsp;/ plough 
+                     Celt 
+                     Digging stick 
+                     Domestication 
+                     Goad 
+                     Irrigation 
+                     Secondary products 
+                     Sickle 
+                     Terracing
+                     
+                   
+                 
+                 
+                  Food processing
+                  
+                    
+                    
+                     Fire 
+                     Basket 
+                     Cooking 
+                      
+                       Earth oven
+                       
+                     Granaries 
+                     Grinding slab 
+                     Ground stone 
+                     Hearth 
+                      
+                       Aşıklı Höyük 
+                       Qesem cave
+                       
+                     Manos 
+                     Metate 
+                     Mortar and pestle 
+                     Pottery 
+                     Quern-stone 
+                     Storage pits
+                     
+                   
+                 
+                 
+                  Hunting
+                  
+                   
+                   
+                    
+                     
+                      
+                        
+                        
+                         Arrow 
+                         Boomerang 
+                          
+                           throwing stick
+                           
+                         Bow and arrow 
+                          
+                           history
+                           
+                         Nets 
+                         Spear 
+                          
+                           spear-thrower 
+                           baton 
+                           harpoon 
+                           woomera 
+                           Schöningen spears
+                          
+                         
+                       
+                     
+                     
+                      Projectile points
+                      
+                        
+                        
+                         Arrowhead 
+                         Bare Island 
+                         Cascade 
+                         Clovis 
+                         Cresswell 
+                         Cumberland 
+                         Eden 
+                         Folsom 
+                         Lamoka 
+                         Manis Site 
+                         Plano 
+                         Transverse arrowhead
+                         
+                       
+                     
+                     
+                      Systems
+                      
+                        
+                        
+                         Game drive system 
+                          
+                           Buffalo jump
+                          
+                         
+                       
+                     
+                    
+                   
+                   
+                 
+                 
+                  Toolmaking
+                  
+                    
+                    
+                     Earliest toolmaking 
+                      
+                       Oldowan 
+                       Acheulean 
+                       Mousterian
+                       
+                     Aurignacian 
+                     Clovis culture 
+                     Cupstone 
+                     Fire hardening 
+                     Gravettian culture 
+                     Hafting 
+                     Hand axe 
+                      
+                       Grooves
+                       
+                     Langdale axe industry 
+                     Levallois technique 
+                     Lithic core 
+                     Lithic reduction 
+                      
+                       analysis 
+                       debitage 
+                       flake
+                       
+                     Lithic technology 
+                     Magdalenian culture 
+                     Metallurgy 
+                     Microblade technology 
+                     Mining 
+                     Prepared-core technique 
+                     Solutrean industry 
+                     Striking platform 
+                     Tool stone 
+                     Uniface 
+                     Yubetsu technique
+                     
+                   
+                 
+                 
+                  Other tools
+                  
+                    
+                    
+                     Adze 
+                     Awl 
+                      
+                       bone
+                       
+                     Axe 
+                     Bannerstone 
+                     Blade 
+                      
+                       prismatic
+                       
+                     Bone tool 
+                     Bow drill 
+                     Burin 
+                     Canoe 
+                      
+                       Oar 
+                       Pesse canoe
+                       
+                     Chopper 
+                      
+                       tool
+                       
+                     Cleaver 
+                     Denticulate tool 
+                     Fire plough 
+                     Fire-saw 
+                     Hammerstone 
+                     Knife 
+                     Microlith 
+                     Quern-stone 
+                     Racloir 
+                     Rope 
+                     Scraper 
+                      
+                       side
+                       
+                     Stone tool 
+                     Tally stick 
+                     Weapons 
+                     Wheel 
+                      
+                       illustration
+                      
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Architecture
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Ceremonial
+                  
+                    
+                    
+                     Kiva 
+                     Pyramid 
+                     Standing stones 
+                      
+                       megalith 
+                       row 
+                       Stonehenge
+                      
+                     
+                   
+                 
+                 
+                  Dwellings
+                  
+                    
+                    
+                     Neolithic architecture 
+                      
+                       long house
+                       
+                     British megalith architecture 
+                     Nordic megalith architecture 
+                     Burdei 
+                     Cave 
+                     Cliff dwelling 
+                     Dugout 
+                     Hut 
+                      
+                       Quiggly hole
+                       
+                     Jacal 
+                     Longhouse 
+                     Mudbrick 
+                      
+                       Mehrgarh
+                       
+                     Pit-house 
+                     Pueblitos 
+                     Pueblo 
+                     Rock shelter 
+                      
+                       Blombos Cave 
+                       Abri de la Madeleine 
+                       Sibudu Cave
+                       
+                     Roundhouse 
+                     Stilt house 
+                      
+                       Alp pile dwellings
+                       
+                     Stone roof 
+                     Wattle and daub
+                     
+                   
+                 
+                 
+                  Water management
+                  
+                    
+                    
+                     Check dam 
+                     Cistern 
+                     Flush toilet 
+                     Reservoir 
+                     Well
+                     
+                   
+                 
+                 
+                  Other architecture
+                  
+                    
+                    
+                     Archaeological features 
+                     Broch 
+                     Burnt mound 
+                      
+                       fulacht fiadh
+                       
+                     Causewayed enclosure 
+                      
+                       Tor enclosure
+                       
+                     Circular enclosure 
+                      
+                       Goseck
+                       
+                     Cursus 
+                     Henge 
+                      
+                       Thornborough
+                       
+                     Megalithic architectural elements 
+                     Midden 
+                     Oldest surviving buildings 
+                     Timber circle 
+                     Timber trackway 
+                      
+                       Sweet Track
+                      
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Arts and culture
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Material goods
+                  
+                    
+                    
+                     Baskets 
+                     Beadwork 
+                     Beds 
+                     Chalcolithic 
+                     Clothing/textiles 
+                      
+                       timeline
+                       
+                     Cosmetics 
+                     Glue 
+                     Hides 
+                      
+                       shoes 
+                       Ötzi
+                       
+                     Jewelry 
+                      
+                       amber use
+                       
+                     Mirrors 
+                     Pottery 
+                      
+                       Cardium 
+                       Cord-marked 
+                       Grooved ware 
+                       Linear 
+                       Jōmon 
+                       Unstan ware
+                       
+                     Sewing needle 
+                     Weaving 
+                     Wine 
+                      
+                       winery 
+                       wine press
+                      
+                     
+                   
+                 
+                 
+                  Prehistoric art
+                  
+                    
+                    
+                     Art of the Upper Paleolithic 
+                     Art of the Middle Paleolithic 
+                      
+                       Blombos Cave
+                       
+                     List of Stone Age art 
+                     Bird stone 
+                     Cairn 
+                     Carved stone balls 
+                     Cave paintings 
+                     Cup and ring mark 
+                     Geoglyph 
+                     Golden hats 
+                     Guardian stones 
+                     Gwion Gwion rock paintings 
+                      
+                       painting 
+                       pigment
+                       
+                     Megalithic art 
+                     Petroform 
+                     Petroglyph 
+                     Petrosomatoglyph 
+                     Pictogram 
+                     Rock art 
+                      
+                       Rock cupule 
+                       Stone carving
+                       
+                     Sculpture 
+                     Statue menhir 
+                     Stone circle 
+                      
+                       list 
+                       British Isles and Brittany
+                       
+                     Venus figurine
+                     
+                   
+                 
+                 
+                  Burial
+                  
+                    
+                    
+                     Burial mounds 
+                      
+                       Bowl barrow 
+                       Round barrow
+                       
+                     Mound Builders culture 
+                      
+                       U.S. sites
+                       
+                     Chamber tomb 
+                      
+                       Cotswold-Severn
+                       
+                     Cist 
+                      
+                       Dartmoor kistvaens
+                       
+                     Clava cairn 
+                     Court tomb 
+                     Cremation 
+                     Dolmen 
+                      
+                       Great dolmen
+                       
+                     Funeral pyre 
+                     Gallery grave 
+                      
+                       transepted 
+                       wedge-shaped
+                       
+                     Grave goods 
+                     Jar burial 
+                     Long barrow 
+                      
+                       unchambered 
+                       Grønsalen
+                       
+                     Megalithic tomb 
+                     Mummy 
+                     Passage grave 
+                     Rectangular dolmen 
+                     Ring cairn 
+                     Simple dolmen 
+                     Stone box grave 
+                     Tor cairn 
+                     Unchambered long cairn
+                     
+                   
+                 
+                 
+                  Other cultural
+                  
+                    
+                    
+                     Archaeoastronomy 
+                      
+                       sites 
+                       lunar calendar
+                       
+                     Behavioral modernity 
+                     Evolutionary musicology 
+                      
+                       music archaeology
+                       
+                     Evolutionary origin of religions 
+                      
+                       Paleolithic religion 
+                       Prehistoric religion 
+                       Spiritual drug use
+                       
+                     Origin of language 
+                     Prehistoric counting 
+                     Prehistoric medicine 
+                      
+                       trepanning
+                       
+                     Prehistoric music 
+                      
+                       Alligator drum 
+                       flutes 
+                       Divje Babe flute 
+                       gudi
+                       
+                     Prehistoric warfare 
+                     Symbols 
+                      
+                       symbolism
+                      
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            History of technology
+           
+         
+         
+          
+            
+            
+             History of technology cultures
+             
+            
+             Prehistoric technology 
+             Neolithic 
+             Ancient Egypt 
+             Mayan 
+             Ancient Greek 
+             Roman 
+             Chinese 
+             Indian 
+             Byzantine 
+             Medieval Islam 
+             Medieval Europe 
+             Renaissance 
+             Ottoman 
+             Great Divergence 
+             Industrial Revolution 
+             Modern
+             
+           
+         
+         
+          
+            
+            
+             History of technology domains
+             
+            
+             History of biotechnology 
+             History of communication 
+             History of computing hardware 
+             History of electrical engineering 
+             History of materials science 
+             History of measurement 
+             History of medicine 
+             History of nuclear technology 
+             History of transport
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Science and technology studies
+           
+         
+         
+          Economics
+          
+            
+            
+             Economics of science 
+             Economics of scientific knowledge
+             
+           
+         
+         
+          History
+          
+            
+            
+             History and philosophy of science 
+             History of science 
+              
+               and technology
+               
+             History of technology
+             
+           
+         
+         
+          Philosophy
+          
+            
+            
+             Anthropocene 
+             Antipositivism 
+             Empiricism 
+             Fuzzy logic 
+             Neo-Luddism 
+             Philosophy of science 
+             Philosophy of social science 
+             Philosophy of technology 
+             Positivism 
+             Postpositivism 
+             Religion and science 
+             Scientism 
+             Social constructivism 
+             Social epistemology 
+             Transhumanism
+             
+           
+         
+         
+          Sociology
+          
+            
+            
+             Actor–network theory 
+             Social 
+              
+               construction of technology 
+               shaping of technology
+               
+             Sociology of knowledge 
+              
+               scientific
+               
+             Sociology of scientific ignorance 
+             Sociology of the history of science 
+             Sociotechnology 
+             Strong programme
+             
+           
+         
+         
+          Sciencestudies
+          
+            
+            
+             Antiscience 
+             Bibliometrics 
+             Boundary-work 
+             Consilience 
+             Criticism of science 
+             Demarcation problem 
+             Double hermeneutic 
+             Logology 
+             Mapping controversies 
+             Metascience 
+             Paradigm shift 
+              
+               black swan events
+               
+             Pseudoscience 
+             Psychology of science 
+             Science 
+              
+               citizen 
+               communication 
+               education 
+               normal 
+               Neo-colonial 
+               post-normal 
+               rhetoric 
+               wars
+               
+             Scientific 
+              
+               community 
+               consensus 
+               controversy 
+               dissent 
+               enterprise 
+               literacy 
+               method 
+               misconduct 
+               priority 
+               skepticism
+               
+             Scientocracy 
+             Scientometrics 
+             Team science 
+             Traditional knowledge 
+              
+               ecological
+               
+             Unity of science 
+             Women in science 
+              
+               STEM
+              
+             
+           
+         
+         
+          Technologystudies
+          
+            
+            
+             Co-production 
+             Cyborg anthropology 
+             Dematerialization 
+             Digital anthropology 
+             Digital media use and mental health 
+             Early adopter 
+             Hype cycle 
+             Innovation 
+              
+               diffusion 
+               disruptive 
+               linear model 
+               system 
+               user
+               
+             Leapfrogging 
+             Normalization process theory 
+             Reverse salient 
+             Skunkworks project 
+             Sociotechnical system 
+             Technical change 
+             Technocracy 
+             Technoscience 
+              
+               feminist
+               
+             Technological 
+              
+               change 
+               convergence 
+               determinism 
+               revolution 
+               transitions
+               
+             Technology 
+              
+               and society 
+               criticism of 
+               dynamics 
+               theories of 
+               transfer
+               
+             Engineering studies 
+             Women in engineering 
+             Financial technology
+             
+           
+         
+         
+          Policy
+          
+            
+            
+             Academic freedom 
+             Digital divide 
+             Evidence-based policy 
+             Factor 10 
+             Funding of science 
+             Horizon scanning 
+             Science policy 
+              
+               history of 
+               science of
+               
+             Politicization of science 
+             Regulation of science 
+             Research ethics 
+             Right to science 
+             Socio-scientific issues 
+             Technology assessment 
+             Technology policy 
+             Transition management
+             
+           
+         
+         
+          
+            
+            
+              Portals 
+              
+               Science 
+               History of science 
+               Technology
+               
+              Category 
+              
+               Associations 
+               Journals 
+               Scholars
+              
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          National libraries
+          
+            
+            
+             France (data) 
+             Germany 
+             United States 
+             Latvia
+             
+           
+         
+         
+          Other
+          
+            
+            
+             National Archives (US)
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Technology&amp;oldid=1071182600"
+     
+     
+    
+     
+      Categories: 
+      
+       Technology
+       Technology systems
+       Main topic articles
+      
+     
+     
+      Hidden categories: 
+      
+       Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference
+       Articles with short description
+       Short description is different from Wikidata
+       Wikipedia indefinitely move-protected pages
+       Use dmy dates from July 2015
+       Wikipedia pages semi-protected against vandalism
+       Articles containing Ancient Greek (to 1453)-language text
+       Pages incorrectly using the Blockquote template
+       Pages using Sister project links with default search
+       Articles with BNF identifiers
+       Articles with GND identifiers
+       Articles with LCCN identifiers
+       Articles with LNB identifiers
+       Articles with NARA identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        <a href="/w/index.php?title=Technology&amp;action=edit" title="This page is protected.
+You can view its source " accesskey="e">View source
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       Wikiquote
+       
+      
+     
+     
+      Languages  
+      
+      
+       Afrikaans
+       Alemannisch
+       አማርኛ
+       Ænglisc
+       العربية
+       Aragonés
+       Arpetan
+       অসমীয়া
+       Asturianu
+       Aymar aru
+       Azərbaycanca
+       تۆرکجه
+       বাংলা
+       Bân-lâm-gú
+       Basa Banyumasan
+       Башҡортса
+       Беларуская
+       Беларуская (тарашкевіца)
+       भोजपुरी
+       Bikol Central
+       Български
+       Boarisch
+       Bosanski
+       Brezhoneg
+       Буряад
+       Català
+       Čeština
+       Cymraeg
+       Dansk
+       الدارجة
+       Deitsch
+       Deutsch
+       Eesti
+       Ελληνικά
+       Emiliàn e rumagnòl
+       Эрзянь
+       Español
+       Esperanto
+       Estremeñu
+       Euskara
+       فارسی
+       Français
+       Frysk
+       Furlan
+       Gaeilge
+       Gaelg
+       Gàidhlig
+       Galego
+       贛語
+       한국어
+       Hausa
+       Hawaiʻi
+       Հայերեն
+       हिन्दी
+       Hrvatski
+       Ido
+       Igbo
+       Ilokano
+       Bahasa Indonesia
+       Interlingua
+       Interlingue
+       ᐃᓄᒃᑎᑐᑦ/inuktitut
+       IsiXhosa
+       Íslenska
+       Italiano
+       עברית
+       Jawa
+       ಕನ್ನಡ
+       Къарачай-малкъар
+       ქართული
+       Қазақша
+       Kernowek
+       Kiswahili
+       Kotava
+       Kreyòl ayisyen
+       Kriyòl gwiyannen
+       Kurdî
+       Кыргызча
+       ລາວ
+       Latina
+       Latviešu
+       Lietuvių
+       Ligure
+       Limburgs
+       Lingua Franca Nova
+       La .lojban.
+       Magyar
+       Македонски
+       Malagasy
+       മലയാളം
+       मराठी
+       მარგალური
+       Bahasa Melayu
+       ꯃꯤꯇꯩ ꯂꯣꯟ
+       Mirandés
+       Монгол
+       မြန်မာဘာသာ
+       Na Vosa Vakaviti
+       Nederlands
+       नेपाली
+       नेपाल भाषा
+       日本語
+       Нохчийн
+       Nordfriisk
+       Norsk bokmål
+       Norsk nynorsk
+       Nouormand
+       Occitan
+       Олык марий
+       ଓଡ଼ିଆ
+       Oromoo
+       Oʻzbekcha/ўзбекча
+       ਪੰਜਾਬੀ
+       پنجابی
+       Papiamentu
+       پښتو
+       Patois
+       ភាសាខ្មែរ
+       Picard
+       Polski
+       Português
+       Qaraqalpaqsha
+       Română
+       Runa Simi
+       Русиньскый
+       Русский
+       Саха тыла
+       سرائیکی
+       Sardu
+       Scots
+       Shqip
+       Sicilianu
+       සිංහල
+       Simple English
+       سنڌي
+       Slovenčina
+       Slovenščina
+       Ślůnski
+       Soomaaliga
+       کوردی
+       Српски / srpski
+       Srpskohrvatski / српскохрватски
+       Sunda
+       Suomi
+       Svenska
+       Tagalog
+       தமிழ்
+       Taclḥit
+       Татарча/tatarça
+       తెలుగు
+       Tetun
+       ไทย
+       Тоҷикӣ
+       Türkçe
+       Türkmençe
+       Українська
+       اردو
+       Vahcuengh
+       Vèneto
+       Tiếng Việt
+       Volapük
+       Võro
+       West-Vlams
+       Winaray
+       吴语
+       Xitsonga
+       ייִדיש
+       Yorùbá
+       粵語
+       Žemaitėška
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 11 February 2022, at 08:08&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

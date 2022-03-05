@@ -1,0 +1,874 @@
+
+ 
+  
+   
+  Adolphe Quetelet - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Adolphe Quetelet 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Belgian astronomer, mathematician, and sociologist
+       
+      
+      
+       
+        
+         
+          
+           Adolphe Quetelet
+          
+        
+        
+         
+        
+        
+         Born
+         
+          
+           Lambert Adolphe Jacques Quetelet
+          (1796-02-22)22 February 1796
+          
+           Ghent, French Republic
+           (now Ghent, Belgium)
+          
+        
+        
+         Died
+         17 February 1874(1874-02-17) (aged&nbsp;77)
+          
+           Brussels, Belgium
+          
+        
+        
+         Nationality
+         Belgian
+        
+        
+         Alma&nbsp;mater
+         University of Ghent
+        
+        
+         Known&nbsp;for
+         contributions to social physics
+        
+        
+         Awards
+         ForMemRS (1839)
+        
+        
+         
+          Scientific career
+        
+        
+         Fields
+         astronomermathematicianstatisticiansociologist
+        
+        
+         Institutions
+         Brussels Observatory
+        
+        
+         Influences
+         Joseph FourierPierre-Simon Laplace
+        
+        
+          
+        
+       
+       
+      Lambert Adolphe Jacques Quetelet FRSF or FRSE (French:&nbsp; (listen); 22 February 1796 – 17 February 1874) was a Belgian astronomer, mathematician, statistician and sociologist who founded and directed the Brussels Observatory and was influential in introducing statistical methods to the social sciences. His name is sometimes spelled with an accent as Quételet. 
+      He also founded the science of anthropometry and developed the body mass index (BMI) scale, originally called the Quetelet Index. His work on measuring human characteristic to determine the ideal l’homme moyen ("the average man"), played a key role in the origins of eugenics.  
+      
+       
+       
+        Contents
+        
+        
+        1 Biography 
+        2 Work 
+          
+          2.1 Social physics 
+          2.2 Criminology 
+          2.3 Anthropometry 
+           
+        3 Awards and honours 
+        4 Publications 
+        5 References 
+        6 Further reading 
+        
+       
+      Biography 
+      Adolphe was born in Ghent (which, at the time was a part of the new French Republic). He was the son of François-Augustin-Jacques-Henri Quetelet, a Frenchman and Anne Françoise Vandervelde, a Flemish woman. His father was born at Ham, Picardy, and being of a somewhat adventurous spirit, he crossed the English Channel and became both a British citizen and the secretary of a Scottish nobleman. In that capacity, he traveled with his employer on the Continent, particularly spending time in Italy. At about 31, he settled in Ghent and was employed by the city, where Adolphe was born, the fifth of nine children, several of whom died in childhood. 
+      Francois died when Adolphe was only seven years old. Adolphe studied at the Ghent Lycée, where he afterwards started teaching mathematics in 1815 at the age of 19. In 1819, he moved to the Athenaeum in Brussels and in the same year he completed his dissertation (De quibusdam locis geometricis, necnon de curva focal – Of some new properties of the focal distance and some other curves). 
+      Quetelet received a doctorate in mathematics in 1819 from the University of Ghent. Shortly thereafter, the young man set out to convince government officials and private donors to build an astronomical observatory in Brussels; he succeeded in 1828. He became a member of the Royal Academy in 1820. He lectured at the museum for sciences and letters and at the Belgian Military School. In 1825, he became a correspondent of the Royal Institute of the Netherlands, in 1827 he became a member. In 1839, he was elected as a member of the American Philosophical Society. From 1841 to 1851, he was a supernumerary associate in the Institute, and when it became Royal Netherlands Academy of Arts and Sciences he became foreign member. In 1850, he was elected a foreign member of the Royal Swedish Academy of Sciences. 
+      Quetelet also founded several statistical journals and societies, and was especially interested in creating international cooperation among statisticians. He encouraged the creation of a statistical section of the British Association for the Advancement of Science (BA), which later became the Royal Statistical Society, of which he became the first overseas member. In 1853 he chaired both the International Maritime Conference and the First International Statistical Congress. He was a founding member of the first Société des douze. 
+      In 1855, Quetelet suffered from apoplexy, which diminished but did not end his scientific activity. 
+      He died in Brussels on 17 February 1874, and is buried in the Brussels Cemetery. 
+      In 1825, he married Cécile-Virginie Curtet.  
+      Work 
+      His scientific research encompassed a wide range of different scientific disciplines: meteorology, astronomy, mathematics, statistics, demography, sociology, criminology and history of science. He made significant contributions to scientific development, but he also wrote several monographs directed to the general public. He founded the Royal Observatory of Belgium, founded or co-founded several national and international statistical societies and scientific journals, and presided over the first series of the International Statistical Congresses. Quetelet was a liberal and an anticlerical, but not an atheist or materialist nor a socialist.  
+      Social physics 
+      The new science of probability and statistics was mainly used in astronomy at the time, where it was essential to account for measurement errors around means. This was done using the method of least squares. Quetelet was among the first to apply statistics to social science, planning what he called "social physics". He was keenly aware of the overwhelming complexity of social phenomena, and the many variables that needed measurement. His goal was to understand the statistical laws underlying such phenomena as crime rates, marriage rates or suicide rates. He wanted to explain the values of these variables by other social factors. These ideas were rather controversial among other scientists at the time who held that it contradicted the concept of freedom of choice. 
+      His most influential book was Sur l'homme et le développement de ses facultés, ou Essai de physique sociale, published in 1835 (In English translation, it is titled Treatise on Man, but a literal translation would be "On Man and the Development of his Faculties, or Essays on Social Physics"). In it, he outlines the project of a social physics and describes his concept of the "average man" (l'homme moyen) who is characterized by the mean values of measured variables that follow a normal distribution. He collected data about many such variables. Quetelet wrote about these values as "ideals" with deviations from them as being less than or more than ideal. He saw the average body as an ideal beauty and something to be desired and his work was influential on Francis Galton who coined the term eugenics. 
+      Quetelet's student Pierre François Verhulst developed the logistic function in the 1830s as a model of population growth; see Logistic function §&nbsp;History for details. 
+      When Auguste Comte discovered that Quetelet had appropriated the term 'social physics', which Comte had originally introduced, Comte found it necessary to invent the term 'sociologie' (sociology) because he disagreed with Quetelet's notion that a theory of society could be derived from a collection of statistics. 
+      Adolphe Quetelet also had a significant influence on Florence Nightingale who shared with him a religious view of statistics which saw understanding statistics as revealing the work of God in addition to statistics being a force of good administration. Nightingale met Quetelet in person at the 1860 International Statistical Congress in London, and they corresponded for years afterwards.  
+      Criminology 
+      Quetelet was an influential figure in criminology. Along with Andre-Michel Guerry, he helped to establish the cartographic school and positivist schools of criminology which made extensive use of statistical techniques. Through statistical analysis, Quetelet gained insight into the relationships between crime and other social factors. Among his findings were strong relationships between age and crime, as well as gender and crime. Other influential factors he found included climate, poverty, education, and alcohol consumption, with his research findings published in Of the Development of the Propensity to Crime.  
+      Anthropometry 
+      In his 1835 text on social physics, in which he presented his theory of human variance around the average, with human traits being distributed according to a normal curve, he proposed that normal variation provided a basis for the idea that populations produce sufficient variation for artificial or natural selection to operate. 
+      In terms of influence over later public health agendas, one of Quetelet's lasting legacies was the establishment of a simple measure for classifying people's weight relative to an ideal for their height. His proposal, the body mass index (or Quetelet index), has endured with minor variations to the present day. Anthropometric data is used in modern applications and referenced in the development of every consumer-based product.  
+      Awards and honours 
+      Quetelet was elected a Foreign Member of the Royal Society (ForMemRS) in 1839. 
+      The asteroid 1239 Queteleta is named after him. The title of Quetelet professor at Columbia University is awarded in his name.  
+      Publications 
+      
+       1823. Relation d'un voyage fait à la grotte de Han au mois d'août 1822'. 'With M.M. Kickx. 
+       1827. Recherches sur la population, les naissances, les décès, les prisons, les dépôts de mendicité, etc., dans le royaume des Pays-Bas. 
+       1829. Recherches statistiques sur le royaume des Pays-Bas. 
+       1831. The Propensity to Crime. 
+       1834. Astronomie élémentaire. 
+       1835. Sur l'homme et le développement de ses facultés, ou Essai de physique sociale. 2 volumes. 
+       1838. De l'influence des saisons sur la mortalité aux différens âges dans la Belgique. 
+       1839. Catalogue des principales apparitions d'étoiles filantes. 
+       1842. A Treatise on Man and the Development of His Faculties. 
+       1843. Sur l'emploi de la boussole dans les mines. 
+       1845–1851. Sur le climat de la Belgique. 2 volumes. 
+       1848. Du système social et des lois qui le régissent. 
+       1848. Sur la statistique morale et les principes qui doivent en former la base. 
+       1850. Mémoire sur les lois des naissances et de la mortalité à Bruxelles. 
+       1853. Mémoire sur les variations périodiques et non périodiques de la température, d'après les observations faites, pendant vingt ans, à l'observatoire royal de Bruxelles. 
+       1864. Histoire des sciences mathématiques et physiques chez les Belges. 
+       1867. Météorologie de la Belgique comparée à celle du globe. 
+       1867. Sciences mathématiques et physiques au commencement du XIXe siècle. 
+       1869. Sur la physique du globe en Belgique. 
+       1870. Anthropométrie, ou Mesure des différentes facultés de l'homme.
+       
+      References 
+      
+       
+        
+        ^ a b c "Fellows of the Royal Society". London: Royal Society. Archived from the original on 16 March 2015.  
+        ^ a b "Quetelet, Adolphe": entry in The Britannica Guide to Statistics and Probability, edited by Erik Gregersen  
+        ^ 
+          Tylor, Edward Burnett (May 1872). "Quetelet on the Science of Man"&nbsp;. Popular Science Monthly. Vol.&nbsp;1. ISSN&nbsp;0161-7370 – via Wikisource.&nbsp;  
+        ^ 
+          O'Connor, John J.; Robertson, Edmund F., "Adolphe Quetelet", MacTutor History of Mathematics archive, University of St Andrews  
+        ^ 
+          Biographical Index of Former Fellows of the Royal Society of Edinburgh 1783–2002 (PDF). The Royal Society of Edinburgh. July 2006. ISBN&nbsp;0-902-198-84-X. Archived from the original (PDF) on 4 March 2016. Retrieved 27 January 2018.  
+        ^ a b  
+          Grue; Heiberg (2006). "Notes on the History of Normality – Reflections on the Work of Quetelet and Galton". Scandinavian Journal of Disability Research. 8 (4): 232–246. doi:10.1080/15017410600608491.  
+        ^ a b  
+          Kubergovic (2013). "Quetelet, Adolphe". Eugenics Archive. Retrieved 31 January 2022.  
+        ^ a b  
+          Beirne (March 1987). "Adolphe Quetelet and the Origins of Positivist Criminology". American Journal of Sociology. 92 (5): 1140–69. doi:10.1086/228630.  
+        ^ 
+          "APS Member History". search.amphilsoc.org. Retrieved 9 April 2021.  
+        ^ 
+          "Lambert Adolphe Jacques Quetelet (1796–1874)". Royal Netherlands Academy of Arts and Sciences. Retrieved 20 July 2015.  
+        ^ 
+          "Archived copy". Archived from the original on 15 June 2018. Retrieved 15 June 2018.}: CS1 maint: archived copy as title (link)  
+        ^ Cramer 2002, pp.&nbsp;3–5.  
+        ^ 
+          Jahoda, Gustav (4 September 2015). "Quetelet and the emergence of the behavioral sciences". SpringerPlus. 4 (1): 473. doi:10.1186/s40064-015-1261-7. PMC&nbsp;4559562. PMID&nbsp;26361574.  
+        ^ Piers Beirne (1987). "Adolphe Quetelet and the Origins of Positivist Criminology". In; American Journal of Sociology 92(5): pp. 1140–1169.  
+        ^ 
+          Eiseley, Loren (1961). Darwin's Century. Anchor Books (Doubleday). p.&nbsp;227.  
+        ^ Garabed Eknoyan (2008). "Adolphe Quetelet (1796–1874) – the average man and indices of obesity". In: Nephrol. Dial. Transplant. 23 (1): 47–51.  
+       
+       
+      Further reading 
+       
+       
+         
+          
+         Wikisource has original works written by or about:Adolphe Quetelet
+         
+       
+       
+       
+       
+         
+          
+         Wikiquote has quotations related to: Adolphe Quetelet
+         
+       
+       
+       
+       
+         
+          
+         Wikimedia Commons has media related to Adolphe Quetelet.
+         
+       
+       
+      
+       Kevin Donnelly (2015). Adolphe Quetelet, Social Physics and the Average Men of Science, 1796–1874. University of Pittsburgh Press. 
+       Ian Hacking (1990). The Taming of Chance. Cambridge University Press, chapters 13–15. 
+       Alain Desrosières (1998). The Politics of Large Numbers: A History of Statistical Reasoning. Harvard University Press, chapter 3. 
+       Stephen Stigler (1999). Statistics on the Table. Harvard University Press, chapter 2. 
+       Philip Ball (2005). Critical Mass: How One Thing Leads to Another. Arrow Books 2005, chapter 3. 
+       Fabien Locher (2007). "The observatory, the land-based ship and the crusades: earth sciences in european context, 1830–1850", British Journal for History of Science, 40(4), 2007, pp.&nbsp;491–504 (On the leading role of Adolphe Quetelet in the fields of meteorology and geomagnetism in early nineteenth-century).
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Fellows of the Royal Society elected in 1839
+           
+         
+         
+          Fellows
+          
+            
+            
+             Thomas Dyke Acland 
+             George&nbsp;Barker 
+             Beriah Botfield 
+             Robert Carrington 
+             Arthur Conolly 
+             Charles Darwin 
+             Edward Davies&nbsp;Davenport 
+             Henry Mangles Denham 
+             Richard&nbsp;Drew 
+             Henry&nbsp;Drummond 
+             Arthur Farre 
+             Thomas William&nbsp;Fletcher 
+             William James&nbsp;Frodsham 
+             Thomas Gaskin 
+             George Godwin 
+             John T. Graves 
+             Edwin Guest 
+             George Gulliver 
+             James Halliwell-Phillipps 
+             Peter&nbsp;Hardy 
+             James&nbsp;Heywood 
+             John&nbsp;Hilton 
+             John&nbsp;Hogg 
+             Gilbert Wakefield&nbsp;Mackmurdo 
+             Samuel Roffey Maitland 
+             Henry&nbsp;Moseley 
+             H. Alexander&nbsp;Ormsby 
+             William&nbsp;Reid 
+             Robert&nbsp;Rigg 
+             John&nbsp;Rogers 
+             George Leith Roupell 
+             William Sharpey 
+             Clement Tudway&nbsp;Swanston 
+             James Joseph Sylvester 
+             Charles Thorp 
+             Charles&nbsp;Turnor 
+             John Wesley&nbsp;Williams 
+             James Yates
+             
+           
+         
+         
+          Foreign
+          
+            
+            
+             Christopher Hansteen 
+             Macedonio Melloni 
+             Adolphe Quetelet 
+             Félix Savart
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          General
+          
+            
+            
+             ISNI 
+              
+               1
+               
+             VIAF 
+              
+               1
+               
+             WorldCat
+             
+           
+         
+         
+          National libraries
+          
+            
+            
+             Norway 
+             Spain 
+             France (data) 
+             Catalonia 
+             Germany 
+             Italy 
+             United States 
+             Czech Republic 
+             Australia 
+             Greece 
+             Israel 
+             Korea 
+             Netherlands 
+             Poland 
+              
+               2
+               
+             Sweden 
+             Vatican
+             
+           
+         
+         
+          Biographical dictionaries
+          
+            
+            
+             Netherlands
+             
+           
+         
+         
+          Scientific databases
+          
+            
+            
+             International Plant Names Index
+             
+           
+         
+         
+          Other
+          
+            
+            
+             Faceted Application of Subject Terminology 
+             Social Networks and Archival Context 
+             SUDOC (France) 
+              
+               1
+               
+             Trove (Australia) 
+              
+               1
+              
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Adolphe_Quetelet&amp;oldid=1069036882"
+     
+     
+    
+     
+      Categories: 
+      
+       1796 births
+       1874 deaths
+       19th-century Belgian astronomers
+       19th-century Belgian mathematicians
+       Belgian sociologists
+       Belgian statisticians
+       Belgian criminologists
+       Ghent University alumni
+       Members of the Royal Netherlands Academy of Arts and Sciences
+       Members of the Royal Swedish Academy of Sciences
+       Corresponding members of the Saint Petersburg Academy of Sciences
+       Information graphic designers
+       Information visualization experts
+       Foreign Members of the Royal Society
+       Burials at Brussels Cemetery
+       Scientists from Ghent
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 maint: archived copy as title
+       Articles with short description
+       Short description is different from Wikidata
+       Use dmy dates from March 2020
+       Articles with hCards
+       Articles with hAudio microformats
+       Commons category link is on Wikidata
+       Articles with ISNI identifiers
+       Articles with VIAF identifiers
+       Articles with WORLDCATID identifiers
+       Articles with BIBSYS identifiers
+       Articles with BNE identifiers
+       Articles with BNF identifiers
+       Articles with CANTIC identifiers
+       Articles with GND identifiers
+       Articles with ICCU identifiers
+       Articles with LCCN identifiers
+       Articles with NKC identifiers
+       Articles with NLA identifiers
+       Articles with NLG identifiers
+       Articles with NLI identifiers
+       Articles with NLK identifiers
+       Articles with NTA identifiers
+       Articles with PLWABN identifiers
+       Articles with SELIBR identifiers
+       Articles with VcBA identifiers
+       Articles with BPN identifiers
+       Articles with Botanist identifiers
+       Articles with FAST identifiers
+       Articles with SNAC-ID identifiers
+       Articles with SUDOC identifiers
+       Articles with Trove identifiers
+       AC with 25 elements
+       Articles with multiple identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       Wikispecies
+       Wikiquote
+       Wikisource
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       تۆرکجه
+       Български
+       Català
+       Čeština
+       Dansk
+       Deutsch
+       Eesti
+       Español
+       Esperanto
+       Euskara
+       فارسی
+       Français
+       한국어
+       Hrvatski
+       Bahasa Indonesia
+       Italiano
+       עברית
+       Lëtzebuergesch
+       Magyar
+       مصرى
+       Nederlands
+       日本語
+       Norsk bokmål
+       Norsk nynorsk
+       Occitan
+       Polski
+       Português
+       Română
+       Русский
+       Slovenčina
+       Slovenščina
+       Српски / srpski
+       Suomi
+       Svenska
+       தமிழ்
+       Українська
+       Walon
+       吴语
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 31 January 2022, at 10:13&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

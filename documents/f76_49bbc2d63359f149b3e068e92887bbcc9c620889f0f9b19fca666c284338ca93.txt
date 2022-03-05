@@ -1,0 +1,626 @@
+
+ 
+  
+   
+  Document classification - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Document classification 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Process of categorizing documents
+       
+      Document classification or document categorization is a problem in library science, information science and computer science. The task is to assign a document to one or more classes or categories. This may be done "manually" (or "intellectually") or algorithmically. The intellectual classification of documents has mostly been the province of library science, while the algorithmic classification of documents is mainly in information science and computer science. The problems are overlapping, however, and there is therefore interdisciplinary research on document classification. 
+      The documents to be classified may be texts, images, music, etc. Each kind of document possesses its special classification problems. When not otherwise specified, text classification is implied. 
+      Documents may be classified according to their subjects or according to other attributes (such as document type, author, printing year etc.). In the rest of this article only subject classification is considered. There are two main philosophies of subject classification of documents: the content-based approach and the request-based approach.  
+      
+       
+       
+        Contents
+        
+        
+        1 "Content-based" versus "request-based" classification 
+        2 Classification versus indexing 
+        3 Automatic document classification (ADC) 
+          
+          3.1 Techniques 
+           
+        4 Applications 
+        5 See also 
+        6 Further reading 
+        7 References 
+        8 External links 
+        
+       
+      "Content-based" versus "request-based" classification 
+      Content-based classification is classification in which the weight given to particular subjects in a document determines the class to which the document is assigned. It is, for example, a common rule for classification in libraries, that at least 20% of the content of a book should be about the class to which the book is assigned. In automatic classification it could be the number of times given words appears in a document. 
+      Request-oriented classification (or -indexing) is classification in which the anticipated request from users is influencing how documents are being classified. The classifier asks themself: “Under which descriptors should this entity be found?” and “think of all the possible queries and decide for which ones the entity at hand is relevant” (Soergel, 1985, p.&nbsp;230). 
+      Request-oriented classification may be classification that is targeted towards a particular audience or user group. For example, a library or a database for feminist studies may classify/index documents differently when compared to a historical library. It is probably better, however, to understand request-oriented classification as policy-based classification: The classification is done according to some ideals and reflects the purpose of the library or database doing the classification. In this way it is not necessarily a kind of classification or indexing based on user studies. Only if empirical data about use or users are applied should request-oriented classification be regarded as a user-based approach.  
+      Classification versus indexing 
+      Sometimes a distinction is made between assigning documents to classes ("classification") versus assigning subjects to documents ("subject indexing") but as Frederick Wilfrid Lancaster has argued, this distinction is not fruitful. "These terminological distinctions,” he writes, “are quite meaningless and only serve to cause confusion” (Lancaster, 2003, p.&nbsp;21). The view that this distinction is purely superficial is also supported by the fact that a classification system may be transformed into a thesaurus and vice versa (cf., Aitchison, 1986, 2004; Broughton, 2008; Riesthuis &amp; Bliedung, 1991). Therefore, the act of labeling a document (say by assigning a term from a controlled vocabulary to a document) is at the same time to assign that document to the class of documents indexed by that term (all documents indexed or classified as X belong to the same class of documents). In other words, labeling a document is the same as assigning it to the class of documents indexed under that label.  
+      Automatic document classification (ADC) 
+      Automatic document classification tasks can be divided into three sorts: supervised document classification where some external mechanism (such as human feedback) provides information on the correct classification for documents, unsupervised document classification (also known as document clustering), where the classification must be done entirely without reference to external information, and semi-supervised document classification, where parts of the documents are labeled by the external mechanism. There are several software products under various license models available.  
+      Techniques 
+      Automatic document classification techniques include:  
+      
+       Expectation maximization (EM) 
+       Naive Bayes classifier 
+       tf–idf 
+       Instantaneously trained neural networks 
+       Latent semantic indexing 
+       Support vector machines (SVM) 
+       Artificial neural network 
+       K-nearest neighbour algorithms 
+       Decision trees such as ID3 or C4.5 
+       Concept Mining 
+       Rough set-based classifier 
+       Soft set-based classifier 
+       Multiple-instance learning 
+       Natural language processing approaches
+       
+      Applications 
+      Classification techniques have been applied to  
+      
+       spam filtering, a process which tries to discern E-mail spam messages from legitimate emails 
+       email routing, sending an email sent to a general address to a specific address or mailbox depending on topic 
+       language identification, automatically determining the language of a text 
+       genre classification, automatically determining the genre of a text 
+       readability assessment, automatically determining the degree of readability of a text, either to find suitable materials for different age groups or reader types or as part of a larger text simplification system 
+       sentiment analysis, determining the attitude of a speaker or a writer with respect to some topic or the overall contextual polarity of a document. 
+       health-related classification using social media in public health surveillance  
+       article triage, selecting articles that are relevant for manual literature curation, for example as is being done as the first step to generate manually curated annotation databases in biology  
+       humor detection, automatically determining if the given short text should be taken seriously or not, with usecases in chatbots and personal assistants. 
+       
+      See also 
+      
+       
+       
+        Categorization 
+        Classification (disambiguation) 
+        Compound term processing 
+        Concept-based image indexing 
+        Content-based image retrieval 
+        Decimal section numbering 
+        Document 
+        Document retrieval 
+        Document clustering 
+        Information retrieval 
+        Knowledge organization 
+        Knowledge Organization System 
+        Library classification 
+        Machine learning 
+        Native Language Identification 
+        String metrics 
+        Subject (documents) 
+        Subject indexing 
+        Supervised learning, unsupervised learning 
+        Text mining, web mining, concept mining
+        
+       
+      Further reading 
+      
+       Fabrizio Sebastiani. Machine learning in automated text categorization. ACM Computing Surveys, 34(1):1–47, 2002. 
+       Stefan Büttcher, Charles L. A. Clarke, and Gordon V. Cormack. Information Retrieval: Implementing and Evaluating Search Engines Archived 2020-10-05 at the Wayback Machine. MIT Press, 2010.
+       
+      References 
+      
+       
+       
+         
+         ^ Library of Congress (2008). The subject headings manual. Washington, DC.: Library of Congress, Policy and Standards Division. (Sheet H 180: "Assign headings only for topics that comprise at least 20% of the work.")  
+         ^ Soergel, Dagobert (1985). Organizing information: Principles of data base and retrieval systems. Orlando, FL: Academic Press.  
+         ^ Lancaster, F. W. (2003). Indexing and abstracting in theory and practice. Library Association, London.  
+         ^ Aitchison, J. (1986). "A classification as a source for thesaurus: The Bibliographic Classification of H. E. Bliss as a source of thesaurus terms and structure." Journal of Documentation, Vol. 42 No. 3, pp. 160-181.  
+         ^ Aitchison, J. (2004). "Thesauri from BC2: Problems and possibilities revealed in an experimental thesaurus derived from the Bliss Music schedule." Bliss Classification Bulletin, Vol. 46, pp. 20-26.  
+         ^ Broughton, V. (2008). "A faceted classification as the basis ofsdfhhdhgdgfba faceted terminology: Conversion of a classified structure to thesaurus format in the Bliss Bibliographic Classification (2nd Ed.).]" Axiomathes, Vol. 18 No.2, pp. 193-210.  
+         ^ Riesthuis, G. J. A., &amp; Bliedung, St. (1991). "Thesaurification of the UDC." Tools for knowledge organization and the human interface, Vol. 2, pp. 109-117. Index Verlag, Frankfurt.  
+         ^  Rossi, R. G., Lopes, A. d. A., and Rezende, S. O. (2016). Optimization and label propagation in bipartite heterogeneous networks to improve transductive classification of texts. Information Processing &amp; Management, 52(2):217–257.  
+         ^ "An Interactive Automatic Document Classification Prototype" (PDF). Archived from the original (PDF) on 2017-11-15. Retrieved 2017-11-14.  
+         ^ Interactive Automatic Document Classification Prototype Archived April 24, 2015, at the Wayback Machine  
+         ^ Document Classification - Artsyl  
+         ^ ABBYY FineReader Engine 11 for Windows  
+         ^ Classifier - Antidot  
+         ^ 
+           "3 Document Classification Methods for Tough Projects". www.bisok.com. Retrieved 2021-08-04.  
+         ^ Stephan Busemann, Sven Schmeier and Roman G. Arens (2000). Message classification in the call center. In Sergei Nirenburg, Douglas Appelt, Fabio Ciravegna and Robert Dale, eds., Proc. 6th Applied Natural Language Processing Conf. (ANLP'00), pp. 158-165, ACL.  
+         ^ 
+           Santini, Marina; Rosso, Mark (2008), Testing a Genre-Enabled Application: A Preliminary Assessment (PDF), BCS IRSG Symposium: Future Directions in Information Access, London, UK, pp.&nbsp;54–63, archived from the original (PDF) on 2019-11-15, retrieved 2011-10-21  
+         ^ X. Dai, M. Bikdash and B. Meyer, "From social media to public health surveillance: Word embedding based clustering method for twitter classification," SoutheastCon 2017, Charlotte, NC, 2017, pp. 1-7. doi:10.1109/SECON.2017.7925400  
+         ^ 
+           Krallinger, M; Leitner, F; Rodriguez-Penagos, C; Valencia, A (2008). "Overview of the protein-protein interaction annotation extraction task of Bio Creative II". Genome Biology. 9 Suppl 2: S4. doi:10.1186/gb-2008-9-s2-s4. PMC&nbsp;2559988. PMID&nbsp;18834495.  
+         ^ Annamoradnejad, I. (2020). Colbert: Using bert sentence embedding for humor detection. arXiv preprint arXiv:2004.12765.  
+        
+       
+       
+      External links 
+      
+       Introduction to document classification 
+       Bibliography on Automated Text Categorization 
+       Bibliography on Query Classification 
+       Text Classification analysis page 
+       Learning to Classify Text - Chap. 6 of the book Natural Language Processing with Python (available online) 
+       TechTC - Technion Repository of Text Categorization Datasets 
+       David D. Lewis's Datasets 
+       BioCreative III ACT (article classification task) dataset
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Natural language processing
+           
+         
+         
+          General terms
+          
+            
+            
+             AI-complete 
+             Bag-of-words 
+             n-gram 
+              
+               Bigram 
+               Trigram
+               
+             Computational linguistics 
+             Natural-language understanding 
+             Stop words 
+             Text processing
+             
+           
+         
+         
+          Text analysis
+          
+            
+            
+             Collocation extraction 
+             Concept mining 
+             Coreference resolution 
+             Deep linguistic processing 
+             Distant reading 
+             Information extraction 
+             Named-entity recognition 
+             Ontology learning 
+             Parsing 
+             Part-of-speech tagging 
+             Semantic role labeling 
+             Semantic similarity 
+             Sentiment analysis 
+             Terminology extraction 
+             Text mining 
+             Textual entailment 
+             Truecasing 
+             Word-sense disambiguation 
+             Word-sense induction
+             
+           
+           
+            
+             
+              Text segmentation
+              
+                
+                
+                 Compound-term processing 
+                 Lemmatisation 
+                 Lexical analysis 
+                 Text chunking 
+                 Stemming 
+                 Sentence segmentation 
+                 Word segmentation
+                 
+               
+             
+            
+           
+            
+           
+         
+         
+          Automatic summarization
+          
+            
+            
+             Multi-document summarization 
+             Sentence extraction 
+             Text simplification
+             
+           
+         
+         
+          Machine translation
+          
+            
+            
+             Computer-assisted 
+             Example-based 
+             Rule-based 
+             Statistical 
+             Transfer-based 
+             Neural
+             
+           
+         
+         
+          Distributional semantics models
+          
+            
+            
+             BERT 
+             Document-term matrix 
+             Explicit semantic analysis 
+             fastText 
+             GloVe 
+             Latent semantic analysis 
+             Word embedding 
+             Word2vec
+             
+           
+         
+         
+          Language resources, datasets and corpora
+          
+           
+           
+            
+             
+              Types and standards
+              
+                
+                
+                 Corpus linguistics 
+                 Lexical resource 
+                 Linguistic Linked Open Data 
+                 Machine-readable dictionary 
+                 Parallel text 
+                 PropBank 
+                 Semantic network 
+                 Simple Knowledge Organization System 
+                 Speech corpus 
+                 Text corpus 
+                 Thesaurus (information retrieval) 
+                 Treebank 
+                 Universal Dependencies
+                 
+               
+             
+             
+              Data
+              
+                
+                
+                 BabelNet 
+                 Bank of English 
+                 DBpedia 
+                 FrameNet 
+                 Google Ngram Viewer 
+                 ThoughtTreasure 
+                 UBY 
+                 WordNet
+                 
+               
+             
+            
+           
+           
+         
+         
+          Automatic identificationand data capture
+          
+            
+            
+             Speech recognition 
+             Speech segmentation 
+             Speech synthesis 
+             Natural language generation 
+             Optical character recognition
+             
+           
+         
+         
+          Topic model
+          
+            
+            
+             Document classification 
+             Latent Dirichlet allocation 
+             Pachinko allocation
+             
+           
+         
+         
+          Computer-assistedreviewing
+          
+            
+            
+             Automated essay scoring 
+             Concordancer 
+             Grammar checker 
+             Predictive text 
+             Spell checker 
+             Syntax guessing
+             
+           
+         
+         
+          Natural languageuser interface
+          
+            
+            
+             Chatbot 
+             Interactive fiction 
+             Question answering 
+             Virtual assistant 
+             Voice user interface
+             
+           
+         
+         
+          Other software
+          
+            
+            
+             Natural Language Toolkit 
+             spaCy
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Document_classification&amp;oldid=1069116600"
+     
+     
+    
+     
+      Categories: 
+      
+       Information science
+       Natural language processing
+       Knowledge representation
+       Data mining
+       Machine learning
+      
+     
+     
+      Hidden categories: 
+      
+       Webarchive template wayback links
+       CS1: long volume value
+       Articles with short description
+       Short description is different from Wikidata
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Català
+       Español
+       Euskara
+       فارسی
+       Français
+       Bahasa Indonesia
+       Italiano
+       日本語
+       Norsk bokmål
+       Norsk nynorsk
+       Русский
+       Sunda
+       Suomi
+       Українська
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 31 January 2022, at 18:19&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

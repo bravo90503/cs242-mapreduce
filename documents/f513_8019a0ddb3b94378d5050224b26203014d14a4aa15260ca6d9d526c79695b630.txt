@@ -1,0 +1,539 @@
+
+ 
+  
+   
+  Outline of information technology - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Outline of information technology 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Overview of and topical guide to information technology
+       
+      The following outline is provided as an overview of and topical guide to information technology: 
+      Information technology (IT) – microelectronics based combination of computing and telecommunications technology to treat information, including in the acquisition, processing, storage and dissemination of vocal, pictorial, textual and numerical information. It is defined by the Information Technology Association of America (ITAA) as "the study, design, development, implementation, support or management of computer-based information systems, particularly toward software applications and computer hardware."  
+      
+      
+       
+        
+        
+         Contents
+         
+         
+         1 Different names 
+         2 History of information technology 
+         3 Vendor-specific certifications 
+         4 Third-party and vendor-neutral certifications 
+         5 Information technology and society 
+         6 General certification 
+           
+           6.1 Software Testing 
+            
+         7 Underlying technology 
+         8 Further reading 
+         9 References 
+         10 External links 
+         
+        
+       
+      Different names 
+      There are different names for this at different periods or through fields. Some of these names are:  
+      
+       ICT – Information and communication technologies 
+       IT – Information technology 
+       DCT – Data Communication &amp; technology 
+       CDT – Creative digital technology 
+       DT – Design &amp; technology 
+       Communication technology 
+       BSIT or B.Sc IT – Bachelor of Science in Information Technology 
+       M.Sc. IT, MSc IT or MSIT – Master of Science in Information Technology 
+       BCA – Bachelor of Computer Applications 
+       MCA – Master of Computer Applications
+       
+      History of information technology 
+      
+       History of computing 
+        
+         History of computing, by subject 
+          
+           History of computing hardware 
+           History of computing hardware (1960s–present) 
+           History of computer hardware in Soviet Bloc countries 
+           History of artificial intelligence 
+           History of computer science 
+           History of operating systems 
+           History of programming languages 
+           History of software engineering 
+           History of the graphical user interface 
+           History of the Internet 
+           History of personal computers 
+           History of laptops 
+           History of video games 
+           History of the World Wide Web
+           
+         Timeline of computing 
+          
+           Timeline of computing hardware 2400 BC–1949 
+           Timeline of computing 1950–1979 
+           Timeline of computing 1980–1989 
+           Timeline of computing 1990–1999 
+           Timeline of computing 2000–2009
+          
+        
+       
+      Vendor-specific certifications 
+      
+       Amazon Web Services has 5 certifications  
+       Apple Inc. – sponsors the Apple certification program 
+       Avaya Professional Credential Program 
+       Cisco Systems – sponsors the Cisco Career Certifications program 
+       Citrix Systems – sponsors the Citrix Certified Administrator program 
+       Hewlett-Packard – sponsors the HP-CP certifications related to HP Technologies 
+       Dell – sponsors the Dell Certified Systems Expert program with Associate and Master levels 
+       Huawei – sponsors certifications 
+       IBM – sponsors certifications 
+       Juniper Networks – sponsors the Juniper Networks Technical Certification Program 
+       LANDesk – sponsors the Certified LANDesk Administrator and Certified LANDesk Engineer program 
+       Microsoft Corporation – sponsors the Microsoft Certified Professional program 
+       MySQL (as part of Oracle Corporation now) – sponsors a certification program 
+       NetApp – sponsors the NetApp Certification program 
+       Nortel – sponsors the Nortel Certifications program 
+       Novell – sponsors a certification program 
+       Object Management Group – sponsors the Certified Professional program for the Unified Modeling Language 
+       Oracle Corporation – sponsors the Oracle Certification Program 
+       Red Hat – sponsors the Red Hat Certification Program 
+       SAP – sponsors individual training and certifications 
+       SolarWinds – sponsors the SolarWinds Certified Professional Program for network management  
+       Sun Microsystems – sponsors the Sun Certified Professional program 
+       Sybase – sponsors the Certified Sybase Professional program 
+       Ubuntu – provides Ubuntu Certified Professional program 
+       VMware – sponsors certification programs (VCP &amp; VCDX) 
+       Zend Technologies – sponsors the Zend Certified Engineer program
+       
+      Third-party and vendor-neutral certifications 
+      Third-party commercial organizations and vendor neutral interest groups that sponsor certifications include:  
+      
+       XML Certification Program - XML Master 
+       Certiport – sponsors the Microsoft Office Specialist and IC3 certification (Internet and Computing Core). 
+       CompTIA (Computing Technology Industry Association) – offers 12 professional IT Certifications, validating foundation-level IT knowledge and skills. 
+       European Computer Driving License-Foundation – sponsors the European Computer Driving License (also called International Computer Driving License) (ICDL) 
+       International Information and Communication Technology Council Certification Program 
+       (ISC)² – sponsors the CISSP, SSCP and other security certifications 
+       Linux Professional Institute 
+       Majinate sponsors the Accredited Symbian Developer scheme for Symbian OS 
+       NACSE (National Association of Communication Systems Engineers) sponsors 36 Vendor Neutral, knowledge specific, Certifications covering the 5 major IT Disciplines which are: Data Networking, Telecomm, Web Design &amp; Development, Programming &amp; Business Skills for IT Professionals. 
+       The Open Group – sponsors TOGAF certification and the IT Architect Certification (ITAC) and IT Specialist Certification (ITSC) skills and experience based IT certifications. 
+       Planet3 Wireless – sponsors the Certified Wireless Network Administrator (CWNA) certification 
+       SAGE (organization) – sponsors the cSAGE program 
+       SANS Institute – operates the Global Information Assurance Certification program
+       
+      Information technology and society 
+      
+       
+       
+      General certification 
+      General certification of software practitioners has struggled. The ACM had a professional certification program in the early 1980s, which was discontinued due to lack of interest. Today, the IEEE is certifying software professionals, but only about 500 people have passed the exam by March 2005.  
+      
+       The IEEE Computer Society – sponsors the Certified Software Development Professional as well as membership designations, "Senior" and "Fellow" which reflect experience and peer review qualification. 
+       The IET – sponsors the Chartered Engineer and Incorporated Engineer, which can be ratified into the European Engineer 
+       The BCS – sponsors the Chartered IT Professional (CITP) programme. 
+       The Institute for Certification of Computing Professionals sponsors the Certified Computing Professional (CCP) and Associate Computing Professional (ACP) certifications 
+       The BDPA IT Institute – sponsors the BDPA IT Associate (BITA), the BDPA IT Professional (BITP), and the BDPA IT Master (BITM) certifications 
+       The Canadian Information Processing Society – sponsors the Information Systems Professional certification in Canada. 
+       The American Institute of Certified Public Accountants – sponsors the Certified Information Technology Professional program. 
+       APICS – establishes operations management standards and sponsors certification for Logistics
+       
+      Software Testing 
+      
+       British Computer Society 
+       National Software Testing Laboratories 
+       American Society for Quality#Certifications 
+       ISTQB 
+       CSTE
+       
+      Underlying technology 
+      
+       MOSFET (MOS transistor) 
+        
+         Semiconductor device fabrication 
+         PMOS (p-type MOS) 
+         NMOS (n-type MOS) 
+         CMOS (complementary MOS) 
+         Floating-gate MOSFET (FGMOS) 
+         Silicon-gate transistor (SGT) 
+         Power MOSFET 
+         Multi-gate field-effect transistor (MuGFET) 
+          
+           FinFET (fin field-effect transistor)
+           
+         Thin-film transistor (TFT)
+         
+       Integrated circuit (IC) 
+        
+         Hybrid integrated circuit (HIC) 
+         Monolithic integrated circuit (IC) chip 
+          
+           Planar process 
+           MOS integrated circuit (MOS IC) 
+           Silicon-gate technology (SGT) MOS IC
+           
+         Three-dimensional integrated circuit (3D IC)
+         
+       Computer memory 
+        
+         Semiconductor memory 
+         Random-access memory (RAM) 
+          
+           Static random-access memory (SRAM) 
+           Dynamic random-access memory (DRAM) 
+           Synchronous DRAM (SDRAM)
+           
+         Nonvolatile memory (NVM) 
+          
+           Read-only memory (ROM) 
+           Programmable ROM (PROM) 
+           Floating-gate memory 
+           EPROM (erasable PROM) 
+           EEPROM (electrically erasable PROM) 
+           Flash memory
+           
+         Magnetic-core memory
+         
+       Microprocessor 
+        
+         Central processing unit (CPU) 
+         Graphics processing unit (GPU) 
+         Digital signal processor (DSP) 
+         Image signal processor (ISP)
+        
+       
+      Further reading 
+      
+       Surveillance, Transparency and Democracy: Public Administration in the Information Age. p.&nbsp;35-57. University of Alabama Press, Tuscaloosa, AL. ISBN&nbsp;978-0-8173-1877-2
+       
+      References 
+      
+        
+        ^ 
+          "Information &amp; Communication Technology" (PDF). www.un.org.  
+        ^ 
+          "Information technology". Archived from the original on 2013-08-26. Retrieved 2013-08-28.  
+        ^ 
+          "Data Communication Technology".  
+        ^ 
+          "Creative Digital Technologies".  
+        ^ 
+          "Design &amp; technology".  
+        ^ 
+          "Communication Technology".  
+        ^ 
+          "Bachelor of Science in Information Technology".  
+        ^ 
+          "Master of Science in Information Technology".  
+        ^ 
+          "Bachelor of Computer Application".  
+        ^ 
+          "Master of Computer Applications" (PDF).  
+        ^ 
+          "AWS Certification". Amazon Web Services, Inc. Retrieved 22 May 2016.  
+        ^   
+        ^ 
+          "OCUP Certification - Home Page". Retrieved 22 May 2016.  
+        ^ By Shamus McGuillicuddy, SearchNetworking.com."SolarWinds offers network management training and certification Archived 2009-08-28 at the Wayback Machine." June 24, 2009. Retrieved August 20, 2009.  
+        ^ 
+          Haque, Akhlaque (2015). Surveillance, Transparency and Democracy: Public Administration in the Information Age. Tuscaloosa, AL: University of Alabama Press. pp.&nbsp;35–57. ISBN&nbsp;978-0-8173-1877-2.  
+       
+       
+      External links 
+      
+      
+       
+        Information technologyat Wikipedia's sister projects
+       
+       
+        Definitions from Wiktionary
+        Media from Commons
+        News from Wikinews
+        Quotations from Wikiquote
+        Texts from Wikisource
+        Textbooks from Wikibooks
+        Resources from Wikiversity
+       
+       
+      
+       Information Technology Dictionary 
+       Information Technology Association of America 
+       XML Certification Program - XML Master
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Wikipedia Outlines
+           
+         
+         
+          
+           
+            General reference 
+            
+             Culture and the arts 
+             Geography and places 
+             Health and fitness 
+             History and events 
+             Mathematics and logic 
+             Natural and physical sciences 
+             People and self 
+             Philosophy and thinking 
+             Religion and belief systems 
+             Society and social sciences 
+             Technology and applied sciences
+            
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Outline_of_information_technology&amp;oldid=1062613823"
+     
+     
+    
+     
+      Categories: 
+      
+       Outlines of sciences
+       Wikipedia outlines
+       Information technology
+       Technology-related lists
+      
+     
+     
+      Hidden categories: 
+      
+       Webarchive template wayback links
+       Articles with short description
+       Short description is different from Wikidata
+       Articles containing potentially dated statements from 2005
+       All articles containing potentially dated statements
+       Pages using Sister project links with default search
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Bahasa Indonesia
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 29 December 2021, at 14:11&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

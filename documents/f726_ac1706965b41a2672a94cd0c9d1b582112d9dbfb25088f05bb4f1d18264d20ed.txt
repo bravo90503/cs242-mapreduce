@@ -1,0 +1,611 @@
+
+ 
+  
+   
+  Hanspeter Pfister - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Hanspeter Pfister 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+      
+       
+        
+         
+          
+           Hanspeter Pfister
+          
+        
+        
+         
+        
+        
+         Born
+         April 3, 1964&nbsp;(1964-04-03) (age&nbsp;57)
+        
+        
+         Nationality
+         Swiss/American
+        
+        
+         Alma&nbsp;mater
+         ETH ZurichStony Brook University
+        
+        
+         Known&nbsp;for
+         VolumePro
+        
+        
+         Awards
+         Mitsubishi Electric President's Award (2000)IEEE Visualization Technical Achievement Award (2010)IEEE Visualization Academy Fellow (2019)ACM Fellow (2019)
+        
+        
+         
+          Scientific career
+        
+        
+         Fields
+         Computer graphics, Computer vision, Scientific visualization, Information visualization
+        
+        
+         Institutions
+         Harvard University
+        
+        
+         Thesis
+         Cube-4: A Scalable Architecture for Real-Time Volume Rendering&nbsp;(1996)
+        
+        
+         Doctoral advisor
+         Arie Kaufman
+        
+        
+          
+        
+        
+         Website
+         https://vcg.seas.harvard.edu
+        
+       
+       
+      Hanspeter Pfister is a Swiss computer scientist. He is the An Wang Professor of Computer Science at the Harvard John A. Paulson School of Engineering and Applied Sciences and an affiliate faculty member of the Center for Brain Science at Harvard University. His research in visual computing lies at the intersection of scientific visualization, information visualization, computer graphics, and computer vision and spans a wide range of topics, including biomedical image analysis and visualization, image and video analysis, and visual analytics in data science.  
+      
+       
+       
+        Contents
+        
+        
+        1 Biography 
+        2 Awards and prizes 
+        3 Most relevant publications 
+        4 References 
+        
+       
+      Biography 
+      Hanspeter Pfister received his master's degree in 1991 in electrical engineering at ETH Zurich and moved to the United States for his PhD in computer science at Stony Brook University. In 1992 he began working with Arie Kaufman on Cube-3, a hardware architecture for volume visualization. By the time of his graduation in 1996, he had finished the architecture for Cube-4 and licensed it to Mitsubishi Electric Research Laboratories. He joined Mitsubishi Electric Research Laboratories in 1996 as a research scientists, where he worked for over a decade. He was the chief architect of VolumePro, Mitsubishi Electric's real-time volume rendering graphics card, for which he received the Mitsubishi Electric President's Award in 2000. He joined the faculty at Harvard University in 2007. In 2012 Hanspeter Pfister was appointed the An Wang Professor of Computer Science and started his research lab called the Visual Computing Group. In the same year, he also served as the Technical Papers Chair at SIGGRAPH and became a consultant for Disney Research From 2013 to 2017, Hanspeter Pfister was the director of the Institute for Applied Computational Science at the Harvard John A. Paulson School of Engineering and Applied Sciences.  
+      Awards and prizes 
+      
+       2019, Elected as ACM Fellow 
+       2019, Elected into the IEEE Visualization Academy as a recognition for his achievements in the scientific visualization and information visualization research communities. 
+       2011, Dean's Thesis Prize, Harvard Extension School ALM in Information Technology, for Michael Tracey Zellman's thesis “Creating and Visualizing Congressional Districts” 
+       2010, IEEE Visualization Technical Achievement Award. 
+       2009, IEEE Golden Core Award. 
+       2009, IEEE Meritorious Service Award. 
+       2009, Petra T. Shattuck Excellence in Teaching Award. 
+       2009, Dean's Thesis Prize, Harvard Extension School ALM in Information Technology, for Manish Kumar's thesis “View-Dependent FTLV” 
+       2007, Dean's Thesis Prize, Harvard Extension School ALM in Information Technology, for Joseph Weber's thesis “ProteinShader: Cartoon-Type Visualization of Macromolecules Using Programmable Graphics Cards” 
+       2005, Dean's Thesis Prize, Harvard Extension School ALM in Information Technology, for George P. Stathis’ thesis “Aspect-Oriented Shade Trees” 
+       2002, 2003, and 2004, Distinguished Teaching Performance, Harvard Extension School 
+       2000, Mitsubishi Electric President's Award. 
+       1999, Innovation Awards and Top 100 Products Award for VolumePro 
+       1994, The Jack Heller Award for Outstanding Contribution to the CS Department, SUNY Stony Brook 
+       1992, Swiss Academy of Technical Sciences Fellowship 
+       1991 and 1992, ABB Switzerland Research Fellowship 
+       1991–1996, U.S. Government Fulbright Scholarship
+       
+      Most relevant publications 
+      As of Dec 2019, according to Google Scholar, Hanspeter Pfister's most cited publications are:  
+      
+       Pfister, H., Zwicker, M., Van Baar, J., &amp; Gross, M. (2000). Surfels: Surface elements as rendering primitives. In Proceedings of the 27th annual conference on Computer graphics and interactive techniques, 335–342. 
+       Zwicker, M., Pfister, H., Van Baar, J., &amp; Gross, M. (2001). Surface splatting. In Proceedings of the 28th annual conference on Computer graphics and interactive techniques, 371–378. 
+       Marks, J., Andalman, B., Beardsley, P. A., Freeman, W., Gibson, S., Hodgins, J., Kang, T., Mirtich, B., Pfister, H., Ruml, W., et al. (1997). Design galleries: A general approach to setting parameters for computer graphics and animation. In Proceedings of the 24th annual conference on Computer graphics and interactive techniques, 389–400. 
+       Matusik, W., &amp; Pfister, H. (2004). 3D TV: a scalable system for real-time acquisition, transmission, and autostereoscopic display of dynamic scenes. In ACM Transactions on Graphics (TOG), 23, 3, 814–824. 
+       Vlasic, D., Brand, M., Pfister, H., &amp; Popović, J. (2005). Face transfer with multilinear models. In ACM transactions on graphics (TOG), 24, 3, 426–433. 
+       Pfister, H., Hardenbergh, J., Knittel, J., Lauer, H., and Seiler, L. (1999). The VolumePro real-time ray-casting system. In Proceedings of the 26th Annual Conference on Computer Graphics and Interactive Techniques, SIGGRAPH 99, 251–260. 
+       Kasthuri, N., Hayworth, K. J., Berger, D. R., Schalek, R. L., Conchello, J. e. A., Knowles-Barley, S., Lee, D., Vãzquez Reina, A., Kaynig, V., Jones, T. R., et al. (2015). Saturated reconstruction of a volume of neocortex. Cell, 162(3):648–661. 
+       Lex, A., Gehlenborg, N., Strobelt, H., Vuillemot, R., &amp; Pfister, H. (2014). UpSet: visualization of intersecting sets. IEEE transactions on visualization and computer graphics, 20(12), 1983–1992. 
+       Pfister, H., Lorensen, B., Bajaj, C., Kindlmann, G., Schroeder, W., Avila, L. S., Raghu, K. M., Machiraju, R. &amp; Lee, J. (2001). The transfer function bake-off. IEEE Computer Graphics and Applications, 21(3), 16–22. 
+       Borkin, M. A., Vo, A. A., Bylinskii, Z., Isola, P., Sunkavalli, S., Oliva, A., &amp; Pfister, H. (2013). What makes a visualization memorable?. IEEE Transactions on Visualization and Computer Graphics, 19(12), 2306–2315.
+       
+      A complete list of Hanspeter Pfister's publications can be found on his research group's website.  
+      References 
+      
+       
+       
+         
+         ^ Ellis, Brittany N.; Fahs, C. Ramsey (4 March 2016). "German Department Proposes Joint Concentration with SEAS". The Crimson. Harvard University. Retrieved 9 April 2017.  
+         ^ 
+           "Perspectives". College of Engineering and Applied Sciences. Stony Brook University. Retrieved 9 April 2017.  
+         ^ 
+           Reilley, Connor (10 October 2012). "Hanspeter Pfister To Lead Institute for Applied Computational Sciences". www.thecrimson.com. Harvard University. The Crimson. Retrieved 9 April 2017.  
+         ^ 
+           Roush, Wade (1 August 2007). "The MERL Diaspora: Researchers from Defunct Mitsubishi Group Fan Out to Other Companies Xconomy". Xconomy. Retrieved 9 April 2017.  
+         ^ 
+           "Q&amp;A with the 2012 Technical Papers Chair Hanspeter Pfister from Harvard". ACM SIGGRAPH Blog. 31 May 2012.  
+         ^ 
+           Kirsner, Scott (30 May 2012). "Head of Disney's Cambridge research lab departs". Boston Globe. Retrieved 9 April 2017.  
+         ^ The 2019 ACM Fellows awardees  
+         ^ Thirty Scholars Inducted into IEEE Visualization Academy  
+         ^ The 2009 IEEE Golden Award winners  
+         ^ IEEE Meritorious Award, Hanspeter Pfister, 2009  
+         ^ Hanspeter Pfister's Google Scholar profile  
+         ^ A complete list of Hanspeter Pfister's publications  
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          General
+          
+            
+            
+             ISNI 
+              
+               1
+               
+             ORCID 
+              
+               1
+               
+             VIAF 
+              
+               1
+               
+             WorldCat
+             
+           
+         
+         
+          National libraries
+          
+            
+            
+             United States
+             
+           
+         
+         
+          Scientific databases
+          
+            
+            
+             DBLP (computer science) 
+             Google Scholar 
+             Mathematics Genealogy Project 
+             Scopus author
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Hanspeter_Pfister&amp;oldid=1062955475"
+     
+     
+    
+     
+      Categories: 
+      
+       Living people
+       German computer scientists
+       Computer graphics researchers
+       Stony Brook University alumni
+       ETH Zurich alumni
+       Harvard University faculty
+       Information visualization experts
+       Disney Research people
+       Mitsubishi Electric people
+       Fellows of the Association for Computing Machinery
+       1964 births
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with hCards
+       Pages using infobox scientist with unknown parameters
+       Articles with ISNI identifiers
+       Articles with ORCID identifiers
+       Articles with VIAF identifiers
+       Articles with WORLDCATID identifiers
+       Articles with LCCN identifiers
+       Articles with DBLP identifiers
+       Articles with Google Scholar identifiers
+       Articles with MGP identifiers
+       Articles with Scopus identifiers
+       Year of birth uncertain
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 31 December 2021, at 11:10&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

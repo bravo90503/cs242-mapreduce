@@ -1,0 +1,404 @@
+
+
+  
+   
+   
+   
+   
+   
+  Measuring Search Relevance 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  Skip to main content 
+   
+            
+    
+     Company Information
+     
+     
+      
+      
+       
+        
+             
+         Company 
+          
+           Overview  
+           Our Leaders  
+           Our History  
+           Partner to Sellers  
+           Diversity, Equity &amp; Inclusion  
+           Privacy Center  
+           Government Relations  
+           Sustainable Commerce  
+           
+         Stories 
+          
+           Our News  
+           Press Room  
+           
+         Impact 
+          
+           Overview  
+           Economic Opportunity  
+           Sustainable Commerce  
+           Trusted Marketplace  
+           eBay for Charity  
+           eBay Foundation  
+           Goals &amp; Progress  
+           Reports &amp; Policies  
+           
+         Tech 
+          
+           Overview  
+           Engineering  
+           Product  
+           Research  
+           Authors  
+           Events  
+           Archive  
+           
+         Investors 
+          
+           Overview  
+           Fast Facts   
+           Stock Information  
+           Investor News  
+           Events  
+           Financial Information  
+           Corporate Governance  
+           ESG Investors  
+           Resources &amp; Contact  
+           
+         Careers 
+          
+           Overview  
+           Jobs by Location  
+           Jobs by Category  
+           Engineering Careers  
+           Students &amp; Recent Grads  
+           Our Benefits  
+           How We Hire  
+           Search Jobs  
+           
+        
+       
+       eBay.com Press Room Follow Us Contact Us 
+       
+       
+        Search Website 
+       
+       eBay.com Press Room Follow Us Contact Us 
+       
+       
+        Search Website 
+       
+      
+     
+    
+    
+     
+      
+       Overview  
+       Engineering  
+       Product  
+       Research  
+       Authors  
+       Events  
+       Archive  
+      
+     
+    
+   
+   
+    
+    
+    
+     
+      
+       
+        
+         
+          Search Science in Engineering 
+          
+         Measuring Search Relevance 
+          
+           Nov 10, 2010  
+           
+            By: Hugh Williams
+            
+           
+          
+         
+          Share on FacebookShare on TwitterShare on LinkedInShare on other services
+          
+         
+        
+        
+         
+          
+          How do we know when we’ve built software that has improved the search results returned by the eBay search engine? There are many ways we can understand this, and this blog post focuses on using human judges to assess the performance of the engine. In a future post, I’ll talk more about A/B testing, behavioral and business metrics we capture from the eBay site, and other ways of measuring search accuracy. 
+          One of the most important ways we understand if we’ve improved our search engine is by asking people what they think. We do this at a large-scale: we’ve asked human judges questions about our search results over two million times in the past year. We use this data to compute scores or metrics, and we use these metrics for a few purposes: first, they help us understand whether one search algorithm is better than another; second, they help us understand where a search algorithm doesn’t work and needs to be improved (for example, maybe it doesn’t work well in the collectibles category, or maybe it only works well for short one- or two-word queries); and, last, it helps us understand what users want – it’s great data to look through to understand how our users think about searching on eBay. It’s super useful data, and it’s available to all eBay employees on our intranet site. (http://qu, where QU stands for Query Understanding.) 
+          We refer to the process of gathering this data as relevance judgment, that is, collecting human judgment about the relevance of search results. The basic task goes like this: we present a judge with an eBay item, and a search engine query, and we ask the judge to assess how relevant the item is to the query on a four-point scale. For example, suppose the query is ipod nano 16Gb and the item is a brand new Apple 6th generation iPod nano 16Gb. The judge might decide that this is a “great result” (which might be, say, our top rating on the four-point scale), click on a radio button to record their vote, and move on to the next task. If the item was a car that had an iPod adapter in it, the judge might decide this result is “irrelevant” (say the lowest rating on the four point scale). If it were a Samsung mp3 player, it might be “partially relevant” (say the second-to-lowest), and if it were a used Apple iPod nano 2nd generation that’s missing its headphones, the judge might say “relevant” (it’s not perfect, but it sure is an Apple iPod). 
+          The judgment process is subjective, and different people will make different choices. If the query is shoes and the item we show the judge is just one shoe from a pair: is it irrelevant, partially relevant, or maybe even relevant? There are many arguments you could make: a shoe isn’t shoes, so it’s irrelevant; a shoe is half of a pair of shoes, and so it’s partially relevant; or, maybe there’s a complicated argument you can make about it being relevant. I guess we’d all agree it isn’t a great result. There are two ways we address subjectivity: first, we ask multiple judges to assess the same results to get an average score; and, second, we judge thousands of queries, so that we can compute metrics and be confident statistically that the numbers we see represent true differences in performance between algorithms. 
+          We do our judgment with crowdsourcing. We put our tasks in the public domain, and pay independent people to perform the judgments. In many cases, the folks work from home, live in areas where work is scarce, or enjoy the flexibility of being able to do the work anytime. I love this part of human judgment – it’s real people, who need the money or the flexibility, and they’re helping us make eBay better. It does create some problems – some people try to game the system by writing software that randomly answers questions, or they answer fast and erroneously. We’re constantly working on detecting problems, and removing both the poor results and judges from the system. To give you a flavor, one thing we do is inject questions where we know what the relevance score should be, and then check that the judges answer most of those correctly. Another thing we do is look for judges who consistently answer differently from other judges for the same tasks. 
+          When we’ve got tens of answers for each query, and we’ve completed judging thousands of queries, we’re ready to compute a metric that allows us to compare algorithms. Our favorite is NDCG , Normalized Discounted Cumulative Gain. It’s a mouthful, but it’s a common-sense measure. Suppose that on our four-point scale, we give a 0 score for an irrelevant result, 1 for a partially relevant, 2 for relevant, and 3 for perfect. Suppose also that a query is judged by one of our judges, and the first four results that the search engine returns are assessed as relevant, irrelevant, perfect, and relevant by the judge. The cumulative gain after four results is the sum of the scores for each result: 2 + 0 + 3 + 2 = 7. 
+          
+           
+             
+              
+              Rank 
+              Judgment (Gain) 
+              Cumulative Gain 
+              
+              
+              1 
+              2 
+              2 
+              
+              
+              2 
+              0 
+              2 
+              
+              
+              3 
+              3 
+              5 
+              
+              
+              4 
+              2 
+              7 
+              
+            
+           
+           
+          Now for the Discounted part in NDCG. We know that the first result in our search results is more important than the second, the second more important than the third, and so on. We know this because users click on result one much more than result two, and so on. Moreover, there’s plenty of research that shows users expect search engines to return great results at the top of the page, that they are unlikely to view results low on the page, and that they dislike pagination. The Discounted part of NDCG adds in this weighting: one simple way to make position one more important than two (and so on) is to sum the score divided by the rank. So, for example, if the third result is ”great”, its contribution is 3 / 3 = 1 (since the score for “great” is 3 , and the rank of the result is 3). If “great” were the first result, its contribution would be 3 / 1 = 3. In practice, the score is often divided by the log of the rank, which seems to better match the user perception of relevance. Anyway, for our example and to keep it simple, the Discounted Cumulative Gain (DCG) after four results is 2 / 1 + 0 / 2 + 3 / 3 + 2 / 4 = 3.5. 
+          
+           
+             
+              
+              Rank 
+              Judgment (Gain) 
+              Discounted Gain 
+              Discounted Cumulative Gain (DCG) 
+              
+              
+              1 
+              2 
+              2/1 
+              2 
+              
+              
+              2 
+              0 
+              0/2 
+              2 
+              
+              
+              3 
+              3 
+              3/3 
+              3 
+              
+              
+              4 
+              2 
+              2/4 
+              3.5 
+              
+            
+           
+           
+          The Normalized part in NDCG allows us to compare DCG values between different queries. It’s not fair to compare DCG values across queries because some queries are easier than others: for example, maybe it’s easy to get four perfect results for the query ipod nano, and much harder to get four perfect results for 1968 Porsche 912 targa soft window. If the search engine gets a high score for the easy query, and a poor score for the hard query, it doesn’t mean it’s worse at hard queries – it might just mean the queries have different degrees of difficulties. Normalization works like this: we figure out what the best possible score is given the results we’ve seen so far. In our previous example, we had 2, then 0, 3, and a 2. The best arrangement of these same results would have been: 3, 2, 2, 0, that is, if the “great” result had been ranked first, followed by the two “relevant” ones, and then the “irrelevant”. This best ranking would have a DCG score of 3 / 1 + 2 / 2 + 2 / 3 + 0 / 4 = 4.67. This is known as the “ideal DCG,” or iDCG.&nbsp; Our NDCG is the score we got (3.5) divided by the ideal DCG (4.67), or 3.5 / 4.67 = 0.75. Now we can compare scores across queries, since we’re comparing percentages of the best possible arrangements and not the raw scores. It has some drawbacks, but we’ll duck those for now. 
+          
+           
+             
+              
+              Rank 
+              Judgment (Gain) 
+              Discounted Gain 
+              Discounted Cumulative Gain (DCG) 
+              Ideal Discounted Gain 
+              Ideal Discounted Cumulative Gain (iDCG) 
+              Normalized Discounted Cumulative Gain (NDCG) 
+              
+              
+              1 
+              2 
+              2/1 
+              2 
+              3/1 
+              3.0 
+              0.67 
+              
+              
+              2 
+              0 
+              0/2 
+              2 
+              2/2 
+              4.0 
+              0.5 
+              
+              
+              3 
+              3 
+              3/3 
+              3 
+              2/3 
+              4.67 
+              0.64 
+              
+              
+              4 
+              2 
+              2/4 
+              3.5 
+              0/4 
+              4.67 
+              0.75 
+              
+            
+           
+           
+          Once we’ve computed NDCG values for each query, we can average them across thousands of queries. We can now compare two algorithms: we take the mean average NDCG values for each, and check using a statistical test (such as a two sided t-test) whether one algorithm is better than the other, and with what confidence. As I mentioned at the start, this is one important factor we consider when comparing two algorithms, along with a host of other metrics. As I’ve said in previous posts, I’m a huge fan of measuring in as many ways as possible, and making decisions with all the data at hand. It takes professional judgment to decide one algorithm is better than another, and that’s part of managing our search engineering effort. 
+          Hope you found this useful – I’ll look forward to hearing your feedback and answering questions. 
+          Hugh Williams Vice President, Buyer Experience Engineering 
+          
+         
+         
+         
+          Share on FacebookShare on TwitterShare on LinkedInShare on other services
+          
+          Tag: Search Science  
+          Previous Article: Next ACM Data Mining Camp at eBay Next Article: Fun with auto-complete 
+          
+         
+        
+       
+      
+      
+       
+       Related Articles  
+        
+         eBay Helps Buyers More Easily Discover Competitively Priced Items
+         
+        
+         Sep 11, 2020 
+           
+        
+         eBay Makes Promoted Listings in Search Results More Relevant and Dynamic
+         
+        
+         Jul 16, 2020 
+           
+        
+         eBay Makes Search More Efficient Through Personalization
+         
+        
+         Jun 23, 2020 
+           
+        
+         Interactive Visual Search
+         
+        
+         Jan 22, 2019 
+           
+        
+         Seven Tips for Visual Search at Scale
+         
+        
+         Nov 29, 2018 
+          
+       
+       
+        
+        Follow Us 
+        Get the latest eBay Tech Blog posts via RSS and Twitter 
+         RSS Feed Twitter 
+         
+        
+       
+      
+     
+    
+   
+   
+    
+     eBay.com Press Room Follow Us Contact Us 
+     
+     
+      
+      
+      Home 
+      Company 
+      Stories 
+      Impact 
+      Tech 
+      Investors 
+      Careers 
+      
+     
+     Copyright © 1995-2022 eBay Inc. All Rights Reserved.  Terms of Use | Privacy | Accessibility  
+     
+     eBay.com Press Room Follow Us Contact Us 
+     
+    
+   
+   
+   
+   
+   
+   
+   
+   
+  
+   
+   
+  
+   
+   
+    
+   
+   
+   
+       
+    
+   Back to Top  
+ 

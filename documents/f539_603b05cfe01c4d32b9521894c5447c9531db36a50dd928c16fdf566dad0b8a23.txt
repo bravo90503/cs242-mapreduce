@@ -1,0 +1,299 @@
+
+ 
+   
+  DNB, Katalog der Deutschen Nationalbibliothek 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+    
+    
+    
+    
+   
+   
+    
+   
+  
+  
+        
+   
+   
+   
+    
+     
+    Kontakt A-Z Träger / Förderer Datenschutz Impressum Hilfe Mein Konto English 
+    
+   
+    
+    
+   
+    
+   
+    
+     
+     Katalog 
+      
+      Einfache Suche 
+      Erweiterte Suche 
+      Browsen (DDC) 
+      Suchverlauf 
+      Meine Auswahl 
+      Hilfe 
+        
+    Datenshop 
+    Mein Konto  
+    Ablieferung von Netzpublikationen   
+    Informationsvermittlung 
+    
+    
+     
+      
+      
+     
+    
+    
+    
+    Über die Deutsche Nationalbibliothek 
+    
+    
+     
+   Katalog der Deutschen Nationalbibliothek  
+    
+     
+      
+       Gesamter Bestand 
+       
+       Musikarchiv 
+       
+       Exilsammlungen 
+       
+       Buchmuseum 
+       
+       
+        
+       Suchformular zurücksetzen&nbsp;&nbsp; 
+       
+        &nbsp;
+        
+        
+         
+         
+        
+       
+         Expertensuche ? 
+        
+       
+        &nbsp;
+        
+       
+      
+      
+       Die 1,9 Millionen frei zugänglichen Online-Publikationen können in der Trefferliste über "Alle Standorte - Online (frei zugänglich)" gefiltert werden. Zugang erhalten Sie in der Datensatzansicht über den Link "Archivobjekt öffnen" oder über die URN im Label "Persistent Identifier". 
+      
+     
+      &nbsp;
+      
+      
+       Die Lesesäle der Deutschen Nationalbibliothek sind unter Beachtung der geltenden Hygiene- und Abstandsregelungen für einen eingeschränkten Benutzungsbetrieb geöffnet. Für den Zutritt ist eine Reservierungsbestätigung notwendig. Das Reservierungssystem und alle weiteren Hinweise zur Benutzung finden Sie auf der Startseite unserer Homepage. Lösen Sie Bestellungen bitte erst nach der erfolgreichen Reservierung aus. 
+      
+     
+      &nbsp;
+      
+     
+    
+    
+    
+      &nbsp;  
+     
+      
+      
+    Ergebnis der Suche nach: nid=4072803-1 
+    
+     
+     Treffer 1 von 1    " title="zum nächsten Treffer blättern">   
+     
+    
+     ﻿ 
+     
+     
+       
+           
+       
+       
+        Link zu diesem Datensatz  
+        https://d-nb.info/gnd/4072803-1  
+       
+       
+        Sachbegriff  
+        Information Retrieval  
+       
+       
+        Quelle  
+        GID-IZ  
+       
+       
+        Synonyme  
+        Informationsretrieval (Vorlage)Information / WiedergewinnungInformationsrechercheInformationswiedergewinnungRetrievalInformationsrückgewinnung (Microsoft-Comp.-Fachlex., B 2006 (online))Informationsgewinnung (Lex. Informatik Kommunikationstechn.)  
+       
+       
+        Thematischer Bezug  
+        Verwandter Begriff: LiteraturrechercheVerwandter Begriff: Online-RechercheVerwandter Begriff: RechercheVerwandter Begriff: Information Extraction  
+       
+       
+        DDC-Notation  
+        005.74025.04025.524  
+       
+       
+        Systematik  
+        6.7 Bibliothek, Information und Dokumentation ; 30 Informatik, Datenverarbeitung  
+       
+       
+        Typ  
+        Allgemeinbegriff (saz)  
+       
+       
+        Andere Normdaten  
+        LCSH: Information retrievalRAMEAU: Recherche de l'information  
+       
+       
+      
+       
+      
+       
+        Untergeordnet  
+        5 Datensätze 
+         
+          Explorative Suche  
+          Frage-Antwort-SystemInformation Retrieval  
+         ... 
+          
+       
+       
+        Thema in  
+        1150 Publikationen 
+         
+          Suchmaschinen verstehenLewandowski, Dirk. - Berlin, Heidelberg : Springer Berlin Heidelberg, 2021, 3., vollst. überarb. u. erw. Auflage 2021  
+          Suchmaschinen verstehenLewandowski, Dirk. - Berlin, Germany : Springer Vieweg, , 3., vollständig überarbeitete und erweiterte Auflage  
+         ... 
+          
+       
+       
+        Maschinell verknüpft mit  
+        54 Publikationen 
+         
+          Evaluierung von Verschlagwortung im Kontext des Information RetrievalWartena, Christian. - Hannover : Hochschule Hannover, 2021  
+          Text Mining und Semantic Web. Eine betriebliche PerspektiveCely Hernandez, Daniela Rocio. - München : GRIN Verlag, 2021, 1. Auflage  
+         ... 
+          
+       
+       
+      
+     
+     
+     
+     
+     
+     
+    
+     
+     
+    
+     
+     Treffer 1 von 1  
+       
+        
+        
+        
+           " title="zum nächsten Treffer blättern">   
+     
+    
+     
+    
+    
+     
+     
+      
+      
+      
+       
+       
+       
+       Aktionen
+        
+        
+         
+         In meine Auswahl übernehmen 
+         Druckansicht 
+         Versenden 
+         
+        
+        
+         
+         MARC21-XML-Repräsentation dieses Datensatzes 
+         
+        
+        
+         
+          RDF (Turtle)-Repräsentation dieses Datensatzes  
+          Dokumentation RDF (Linked Data Service)  
+         
+        
+        
+        
+        
+         
+          Nachweis der Quelle  
+         
+        
+       
+      
+     
+    
+    
+    Administration 
+    
+        
+   
+   
+   
+    
+    
+   
+    Version 1.8.0.6 / 2021-12-02T12:20:47Seitenanfang
+    
+     
+     
+ 

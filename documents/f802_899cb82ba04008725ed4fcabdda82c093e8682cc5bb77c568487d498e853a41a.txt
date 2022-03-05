@@ -1,0 +1,339 @@
+
+ 
+  
+   
+  İnformasiya elmi — Vikipediya 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   İnformasiya elmi 
+    
+    
+     Vikipediya, azad ensiklopediya
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      İnformasiya elmi (ing. İnformation science) ― informasiyanın təhlili, toplanması, təsnifatı, manipulyasiyası, saxlanması, axtarılması, hərəkəti, yayılması və mühafizəsi ilə əlaqədar fənlərarası gənc elm sahəsidir. "İnformasiya elmi" termininin formalaşması 1955-ci ilə təsadüf edir.  
+      
+       
+       
+        Mündəricat
+        
+        
+        1 Ümumi məlumat 
+        2 İnformasiya elminin obyekti və predmeti 
+        3 İnformasiya, informasiya vahidi və informasiyanın təsnifatı 
+        4 İstinadlar 
+        
+       
+      Ümumi məlumat 
+      İnformasiya elminin formalaşmasına təkan verən əsas səbəb amerikalı riyaziyyatçı alim Klod Elvud Şennon (ing. Claude Elwood Shannon, 1916–2001) tərəfindən "informasiya nəzəriyyəsi"nin (1948) yaradılması göstərilir. 
+      1955-ci ildə Polşa əsilli İngilis kitabxanaçısı Ceyson Farradeyn (1906–1989) özünün "İnformasiya mütəxəssisinin peşəkar təhsili" haqqında elmi məqaləsində "informasiya elmi" terminini istifadə etmiş, həmçinin bu məqalədə o, "sənədşünas" (ing. Documentalist) istilahının sinonimi kimi "informasiya mütəxəssisi" (ing. Information Scientist) terminini istifadə etmişdir. 
+      "İnformasiya" termini "informatio" sözündən yaranmışdır. Latın dilində "informatio"- bir nəsnənin izahı, təqdimatı, konsepsiyası deməkdir. Ensiklopedik mənbələrdə "informasiya" istilahının 14 əsrdə İngiltərədə "araşdırma, təhsil və ya təlimdən əldə edilən biliklər" mənasında istifadə olunduğunu dair məlumatlar da qeyd olunmuşdur. Geniş yayılmasına baxmayaraq, "informasiya" anlayışı elmdə ən mübahisəli mövzulardan biri olaraq qalır. Elmi əsərlərdə bəzi müəlliflər "informasiya" anlayışından informatika elminin sinonimi kimi də istifadə edirlər. Bu, 1960-cı illərin ortalarında Aleksandr İvanoviç Mixaylov (1905–1988), Arkadiy İvanoviç Çornıy (1929–2013) və Rucero Sergeyeviç Gilyarevskiy (1929) kimi Sovet müəllifləri tərəfindən hazırlanmış konsepsiya ilə əlaqəli olduqda xüsusilə doğrudur. Bu alimlər, xüsusən Aleksandr İvanoviç Mixaylov informatikanı "elmi informasiyanı" tədqiq edib öyrənən elm kimi nəzərdən keçirirdi. 
+      Qeyd etmək lazımdır ki, məşhur Belçika alimi Paul Otlet (fr. Paul Marie Ghislain Otlet, 1868–1944) özünun "Sənədləşdirmə risaləsi"ndə ("Traite de documentation", 1934) ilk dəfə olaraq "informatika" istilahını elmi dövriyyəyə daxil etmişdir.  
+      İnformasiya elminin obyekti və predmeti 
+      Elmdə predmet — araşdırılan elmin obyektinin müəyyən bir aspektidir (tərəfidir). Məsələn, informatika, kibernetika, kitabxanaşünaslıq, biblioqrafiyaşünaslıq və bir çox başqa elmlər ortaq bir tədqiqat obyektini — informasiyanı araşdırırlar. Lakin bu elmlərin predmeti fərqlidir, araşdırdıqları mövzu müxtəlifdir; informatika elminin predmeti "informasiyanın avtomatlaşdırılması" (informasiya ilə avtomatik iş), kibernetika elminin predmeti "informasiyanın idarə olunması", kitabxanaşünaslıq elminin predmeti "nəşr formasında olan informasiya" (sənəd), biblioqrafiyaşünaslıq elminin predmeti isə "nəşr formasında olan informasiya"nın (sənədin) uçotu və yaxud qeydiyyatıdır. İnformasiya elminin predmeti təqdimat formasından asılı olmayaraq istənilən məlumat və yaxud informasiyadır.  
+      İnformasiya, informasiya vahidi və informasiyanın təsnifatı 
+      Norbert Viner (1894–1964) — amerikalı riyaziyyatçı və filosof, kibernetikanın (1947) və süni intellekt nəzəriyyəsinin banisi, "informasiya" termininə belə bir tərif vermişdir: "İnformasiya — hiss və yaxud duyğularımıza uyğunlaşma prosesində xarici dünyadan alınmış məzmunun qeydidir". 
+      Ümumiyyətlə, "informasiya" termini 1957-ci ildən Almaniyada, 1962-ci ildən Fransa və ABŞ-da geniş yayılmağa başlamışdır. Hətta 1964-cü ildə isə ABŞ-ın Pitsburq Universitetində "İnformasiya elmi" (ing. Information Science) adlanan ali təhsilli kitabxanaçı mütəxəssislər yetişdirəcək fakültə formalaşdırılmışdır. 
+      Elmi ədəbiyyatlarda qeyd olunur ki, informasiya — müəyyən predmet və ya gerçəklik haqqında olan tam fikirdir, məlumatdır. 
+      İnformasiyanın əsas vahidi bayt, minimal informasiya vahidi isə bitdir. 1 bayt 8 bitə bərəbər informasiya vahididir. Bit (ing. binary digit — ikili rəqəm) — minimal informasiya vahidi olub 0 və ya 1 rəqəmlərindən hansısa biri deməkdir. "Bit" termini ilk dəfə 1946-cı ildə amerikalı riyaziyyatçı alim Con Tüki (ing. John Wilder Tukey, 1915–2000) tərəfindən istifadə edilmişdir, o həmçinin 1958-ci ildə "proqram təminatı" ("software") istilahını da elmi müstəviyə gətirmişdir. 
+      Bu gün informasiya elmi, əsasən, onlayn verilənlər bazasının texniki və nəzəri əsaslarını, sosial təsirlərini, dövlət, sənaye, təhsil və internet məkanında geniş yayılmış verilənlər bazasının istifadəsi məsələlərini öyrənir. 
+      İnformasiyanın qorunub-saxlanılması kompüterlərin ənənəvi xidmət növlərindən biridir. İnformasiyanın kompüterlərdə qorunub-saxlanılması üçün verilənlər bazasından (VB) geniş istifadə olunur. 
+      Verilən — bazaya daxil ediləcək informasiya elementidir. Verilənlərin informasiyaya çevrilməsi üçün insanın onları anlaması, dərk etməsi lazımdır. Əgər məlumatı alan insan onun yazıldığı dili bilirsə, o həmin məlumatın mənasını anlaya, yəni informasiya ala bilər. 
+      İnformasiya təbiətdə siqnallar şəklində ötürülür və iki tipə ayrılır: analoq və rəqəmsal. İnsanlar öz hissiyyat üzvlərinə görə analoq, kompüterlər isə rəqəmsal informasiyaların köməyi ilə fəaliyyət göstərir. 
+      Müxtəlif intensivliyə malik olan siqnallar fərqli informasiyalar daşıyır. Bu tip informasiyanı analoq informasiya adlandırırlar. Yəni biz təbiətdə heç bir vaxt iki eyni rəngli yarpaq və ya iki eyni formalı bulud görə bilmərik. 
+      İnformasiyanın təsnifatı məsələsinə toxunulduqda isə, qeyd etməliyik ki, informasiya müxtəlif meyarlara (kriteriyalara) görə növlərə ayrıla bilir. Bu meyarlar: idrak, təqdimat, təyinat, əhəmiyyət, doğruluq və sairədir. 
+      İdrak meyarına əsaslanan informasiya növlərinə vizual, səs, toxunma, qoxu və dad reseptorları vasitəsi qəbul edilən məlumatlar aid edilir. 
+      Təqdimat meyarına görə mətn, rəqəmsal, qrafik, səs, radio, elektron və video formatda ötürülən informasiya növləri mövcuddur. 
+      Təyinat meyarına əsaslanan informasiyalar kütləvi, xüsusi, məxfi və şəxsi növlərə bölünür. 
+      Əhəmiyyət meyarına görə xarici aləmdən alınmış məzmun aktual, etibarlı, anlaşılan, tam və dəyərli informasiya növlərinə bölünür. 
+      Doğruluq meyarına əsaslanan informasiyalar həqiqi (doğru) və yalan (saxta) növlərə bölünür. 
+      Bu sadalananlardan savayı, informasiya formalaşmasına, ötürülməsinə, ifadə forması və vasitələrinə, istifadəsinə və sairə əlamətlərinə görə müxtəlif cür qruplaşdırıla bilər.  
+      İstinadlar 
+       
+       
+         
+         ↑ 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 ""KİTABXANAŞÜNASLIQ VƏ İNFORMASİYA ELMLƏRİ" ANLAYIŞININ ŞƏRHİ". 2021-06-03 tarixində arxivləşdirilib. İstifadə tarixi: 2021-06-03.  
+        
+       
+          
+     
+     
+      
+      
+     
+      Mənbə — "https://az.wikipedia.org/w/index.php?title=İnformasiya_elmi&amp;oldid=6163997"
+     
+     
+    
+     
+      Kateqoriya: 
+      
+       İnformasiya
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Naviqasiya menyusu 
+    
+     
+      Alətlər sandığı  
+      
+      
+       Daxil olmamısınız
+       Müzakirə
+       Töhfələr
+       Hesab yarat
+       Daxil ol
+       
+      
+     
+     
+      
+       Ad fəzaları  
+       
+       
+        Məqalə
+        Müzakirə
+        
+       
+      
+      
+       
+       Variantlar expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Görünüş  
+       
+       
+        Oxu
+        Redaktə
+        Mənbəni redaktə et
+        Tarixçəyə bax
+        
+       
+      
+      
+       
+       Daha çox expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Axtar  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Bələdçi  
+      
+      
+       Ana səhifə
+       Kənd meydanı
+       İcma portalı
+       Son dəyişikliklər
+       Təsadüfi məqalə
+       
+      
+     
+     
+      Layihələr  
+      
+      
+       Seçilmiş məqalələr
+       Seçilmiş siyahılar
+       Seçilmiş portallar
+       Yaxşı məqalələr
+       Məqalə namizədləri
+       Mövzulu ay
+       
+      
+     
+     
+      Xüsusi  
+      
+      
+       Əlaqə səhifəsi
+       Maddi kömək
+       Kömək
+       
+      
+     
+     
+      Alətlər  
+      
+      
+       Səhifəyə keçidlər
+       Əlaqəli redaktələr
+       Fayl yüklə
+       Xüsusi səhifələr
+       Daimi keçid
+       Səhifə məlumatları
+       Bu məqaləyə istinad et
+       Vikiverilənlər elementi
+       
+      
+     
+     
+      Çap et/ixrac  
+      
+      
+       Kitab yarat
+       PDF olaraq yüklə
+       Çap versiyası
+       
+      
+     
+     
+      Digər layihələrdə  
+      
+      
+       Vikianbar
+       
+      
+     
+     
+      Başqa dillərdə  
+      
+      
+       Afrikaans
+       العربية
+       Asturianu
+       تۆرکجه
+       Башҡортса
+       Български
+       Català
+       Čeština
+       Cymraeg
+       Dansk
+       Deutsch
+       Ελληνικά
+       English
+       Español
+       Eesti
+       Euskara
+       فارسی
+       Suomi
+       Français
+       Galego
+       עברית
+       हिन्दी
+       Magyar
+       Bahasa Indonesia
+       日本語
+       ქართული
+       한국어
+       Lietuvių
+       Latviešu
+       Македонски
+       Bahasa Melayu
+       Nederlands
+       Norsk bokmål
+       ਪੰਜਾਬੀ
+       Polski
+       Português
+       Română
+       Русский
+       Srpskohrvatski / српскохрватски
+       Slovenčina
+       Slovenščina
+       Shqip
+       Српски / srpski
+       Svenska
+       தமிழ்
+       ไทย
+       Türkçe
+       Українська
+       اردو
+       Tiếng Việt
+       中文
+       粵語
+       
+      
+       Keçidlərin redaktəsi
+       
+      
+     
+    
+   
+   
+    
+     Bu səhifə sonuncu dəfə 3 oktyabr 2021 13:20 tarixində redaktə edilib. 
+    Mətn Creative Commons Attribution-ShareAlike lisenziyası altındadır, bəzi hallarda əlavə şərtlər tətbiq oluna bilər. Ətraflı məlumat üçün istifadə şərtlərinə baxın. 
+    
+    
+    Gizlilik siyasəti 
+    Vikipediya haqqında 
+    İmtina etmə 
+    Mobil görüntü 
+    Tərtibatçılar 
+    Statistikalar 
+    Kuki məlumatı 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

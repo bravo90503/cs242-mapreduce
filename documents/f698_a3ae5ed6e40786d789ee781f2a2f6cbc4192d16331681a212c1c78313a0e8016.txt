@@ -1,0 +1,1041 @@
+
+ 
+  
+   
+  Plot (graphics) - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Plot (graphics) 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       
+         
+        
+         
+          
+         Scatterplot of the eruption interval for Old Faithful (a geyser)
+        
+       
+       
+      A plot is a graphical technique for representing a data set, usually as a graph showing the relationship between two or more variables. The plot can be drawn by hand or by a computer. In the past, sometimes mechanical or electronic plotters were used. Graphs are a visual representation of the relationship between variables, which are very useful for humans who can then quickly derive an understanding which may not have come from lists of values. Given a scale or ruler, graphs can also be used to read off the value of an unknown variable plotted as a function of a known one, but this can also be done with data presented in tabular form. Graphs of functions are used in mathematics, sciences, engineering, technology, finance, and other areas.  
+      
+       
+       
+        Contents
+        
+        
+        1 Overview 
+        2 Types of plots 
+          
+          2.1 Plots for specific quantities 
+          2.2 3D plots 
+           
+        3 Examples 
+        4 See also 
+        5 References 
+        6 External links 
+        
+       
+      Overview 
+      Plots play an important role in statistics and data analysis. The procedures here can broadly be split into two parts: quantitative and graphical. Quantitative techniques are the set of statistical procedures that yield numeric or tabular output. Examples of quantitative techniques include:  
+      
+       hypothesis testing 
+       analysis of variance 
+       point estimates and confidence intervals 
+       least squares regression
+       
+      These and similar techniques are all valuable and are mainstream in terms of classical analysis. There are also many statistical tools generally referred to as graphical techniques. These include:  
+      
+       scatter plots 
+       spectrum plots 
+       histograms 
+       probability plots 
+       residual plots 
+       box plots, and 
+       block plots
+       
+      Graphical procedures such as plots are a short path to gaining insight into a data set in terms of testing assumptions, model selection, model validation, estimator selection, relationship identification, factor effect determination, outlier detection. Statistical graphics give insight into aspects of the underlying structure of the data. 
+      Graphs can also be used to solve some mathematical equations, typically by finding where two plots intersect.  
+      Types of plots 
+      
+      
+       See also: Commons:Category:Plots by type
+       
+      
+       Biplot&nbsp;: These are a type of graph used in statistics. A biplot allows information on both samples and variables of a data matrix to be displayed graphically. Samples are displayed as points while variables are displayed either as vectors, linear axes or nonlinear trajectories. In the case of categorical variables, category level points may be used to represent the levels of a categorical variable. A generalised biplot displays information on both continuous and categorical variables. 
+       Bland–Altman plot&nbsp;: In analytical chemistry and biostatistics this plot is a method of data plotting used in analysing the agreement between two different assays. It is identical to a Tukey mean-difference plot, which is what it is still known as in other fields, but was popularised in medical statistics by Bland and Altman. 
+       Bode plots are used in control theory. 
+       Box plot&nbsp;: In descriptive statistics, a boxplot, also known as a box-and-whisker diagram or plot, is a convenient way of graphically depicting groups of numerical data through their five-number summaries (the smallest observation, lower quartile (Q1), median (Q2), upper quartile (Q3), and largest observation). A boxplot may also indicate which observations, if any, might be considered outliers. 
+       Carpet plot&nbsp;: A two-dimensional plot that illustrates the interaction between two and three independent variables and one to three dependent variables. 
+       Comet plot&nbsp;: A two- or three-dimensional animated plot in which the data points are traced on the screen. 
+       Contour plot&nbsp;: A two-dimensional plot which shows the one-dimensional curves, called contour lines on which the plotted quantity q is a constant. Optionally, the plotted values can be color-coded. 
+       Dalitz plot&nbsp;: This a scatterplot often used in particle physics to represent the relative frequency of various (kinematically distinct) manners in which the products of certain (otherwise similar) three-body decays may move apart
+       
+       
+       
+         
+         
+          
+           
+          
+          
+          
+          Biplot  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          Bland–Altman plot  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          Box plot  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          Carpet plot  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          Phase path of Duffing oscillator plotted as a comet plot  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          Animated marker over a 2D plot  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          Contour plot  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          Logarithmic plot  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          Parallel Category Plot  
+          
+         
+       
+      
+       Funnel plot&nbsp;: This is a useful graph designed to check the existence of publication bias in meta-analyses. Funnel plots, introduced by Light and Pillemer in 1994 and discussed in detail by Egger and colleagues, are useful adjuncts to meta-analyses. A funnel plot is a scatterplot of treatment effect against a measure of study size. It is used primarily as a visual aid to detecting bias or systematic heterogeneity. 
+       Dot plot (statistics)&nbsp;: A dot chart or dot plot is a statistical chart consisting of group of data points plotted on a simple scale. Dot plots are used for continuous, quantitative, univariate data. Data points may be labelled if there are few of them. Dot plots are one of the simplest plots available, and are suitable for small to moderate sized data sets. They are useful for highlighting clusters and gaps, as well as outliers. 
+       Forest plot&nbsp;: is a graphical display that shows the strength of the evidence in quantitative scientific studies. It was developed for use in medical research as a means of graphically representing a meta-analysis of the results of randomized controlled trials. In the last twenty years, similar meta-analytical techniques have been applied in observational studies (e.g. environmental epidemiology) and forest plots are often used in presenting the results of such studies also.
+       
+       
+       
+         
+         
+          
+           
+          
+          
+          
+          Funnel plot  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          Dot plot (statistics)  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          Forest plot  
+          
+         
+       
+      
+       Galbraith plot&nbsp;: In statistics, a Galbraith plot (also known as Galbraith's radial plot or just radial plot), is one way of displaying several estimates of the same quantity that have different standard errors. It can be used to examine heterogeneity in a meta-analysis, as an alternative or supplement to a forest plot. 
+       Heat map 
+       Nichols plot&nbsp;: This is a graph used in signal processing in which the logarithm of the magnitude is plotted against the phase of a frequency response on orthogonal axes. 
+       Normal probability plot&nbsp;: The normal probability plot is a graphical technique for assessing whether or not a data set is approximately normally distributed. The data are plotted against a theoretical normal distribution in such a way that the points should form an approximate straight line. Departures from this straight line indicate departures from normality. The normal probability plot is a special case of the probability plot. 
+       Nyquist plot&nbsp;: Plot is used in automatic control and signal processing for assessing the stability of a system with feedback. It is represented by a graph in polar coordinates in which the gain and phase of a frequency response are plotted. The plot of these phasor quantities shows the phase as the angle and the magnitude as the distance from the origin.
+       
+       
+       
+         
+         
+          
+           
+          
+          
+          
+          Nichols plot  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          Normal probability plot  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          Nyquist plot  
+          
+         
+       
+      
+       Partial regression plot&nbsp;: In applied statistics, a partial regression plot attempts to show the effect of adding another variable to the model (given that one or more independent variables are already in the model). Partial regression plots are also referred to as added variable plots, adjusted variable plots, and individual coefficient plots. 
+       Partial residual plot&nbsp;: In applied statistics, a partial residual plot is a graphical technique that attempts to show the relationship between a given independent variable and the response variable given that other independent variables are also in the model. 
+       Probability plot&nbsp;: The probability plot is a graphical technique for assessing whether or not a data set follows a given distribution such as the normal or Weibull, and for visually estimating the location and scale parameters of the chosen distribution. The data are plotted against a theoretical distribution in such a way that the points should form approximately a straight line. Departures from this straight line indicate departures from the specified distribution. 
+       Q–Q plot&nbsp;: In statistics, a Q–Q plot (Q stands for quantile) is a graphical method for diagnosing differences between the probability distribution of a statistical population from which a random sample has been taken and a comparison distribution. An example of the kind of differences that can be tested for is non-normality of the population distribution. 
+       Recurrence plot&nbsp;: In descriptive statistics and chaos theory, a recurrence plot (RP) is a plot showing, for a given moment in time, the times at which a phase space. In other words, it is a graph of
+       
+      
+       
+        
+         
+          
+              
+               
+                
+                 
+                  
+                   
+                   
+                    x
+                    
+                   
+                    →
+                    
+                   
+                  
+                 
+                
+                 (
+                 
+                
+                 i
+                 
+                
+                 )
+                 
+                
+                 ≈
+                 
+                 
+                  
+                   
+                   
+                    x
+                    
+                   
+                    →
+                    
+                   
+                  
+                 
+                
+                 (
+                 
+                
+                 j
+                 
+                
+                 )
+                 
+                
+                 ,
+                 
+                 
+                
+               
+              
+               }(i)\approx }(j),\,}
+               
+              
+            
+         
+        
+       
+       
+      
+       
+        showing 
+            
+             
+              
+              
+               i
+               
+              
+             
+            
+             
+             
+            
+           on a horizontal axis and 
+            
+             
+              
+              
+               j
+               
+              
+             
+            
+             
+             
+            
+           on a vertical axis, where 
+            
+             
+              
+               
+                
+                 
+                 
+                  x
+                  
+                 
+                  →
+                  
+                 
+                
+               
+              
+             
+            
+             }}
+             
+            
+           is a phase space trajectory.
+       
+       
+      
+       Scatterplot&nbsp;: A scatter graph or scatter plot is a type of display using variables for a set of data. The data is displayed as a collection of points, each having the value of one variable determining the position on the horizontal axis and the value of the other variable determining the position on the vertical axis. 
+       Shmoo plot&nbsp;: In electrical engineering, a shmoo plot is a graphical display of the response of a component or system varying over a range of conditions and inputs. Often used to represent the results of the testing of complex electronic systems such as computers, ASICs or microprocessors. The plot usually shows the range of conditions in which the device under test will operate. 
+       Spaghetti plots are a method of viewing data to visualize possible flows through systems. Flows depicted in this manner appear like noodles, hence the coining of this term. This method of statistics was first used to track routing through factories. Visualizing flow in this manner can reduce inefficiency within the flow of a system.
+       
+       
+       
+         
+         
+          
+           
+          
+          
+          
+          Weibull probability plot  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          A normal Q–Q plot  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          Scatterplot  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          Spaghetti plot  
+          
+         
+       
+      
+       Stemplot&nbsp;: A stemplot (or stem-and-leaf plot), in statistics, is a device for presenting quantitative data in a graphical format, similar to a histogram, to assist in visualizing the shape of a distribution. They evolved from Arthur Bowley's work in the early 1900s, and are useful tools in exploratory data analysis. Unlike histograms, stemplots retain the original data to at least two significant digits, and put the data in order, thereby easing the move to order-based inference and non-parametric statistics. 
+       Star plot&nbsp;: A graphical method of displaying multivariate data. Each star represents a single observation. Typically, star plots are generated in a multi-plot format with many stars on each page and each star representing one observation. 
+       Surface plot&nbsp;: In this type of graph, a surface is plotted to fit a set of data triplets (X,Y,Z), where Z if obtained by the function to be plotted Z=f(X,Y). Usually, the set of X and Y values are equally spaced. Optionally, the plotted values can be color-coded.
+       
+       
+       
+         
+         
+          
+           
+          
+          
+          
+          Star plot  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          Surface plot  
+          
+         
+       
+      
+       Ternary plot&nbsp;: A ternary plot, ternary graph, triangle plot, simplex plot, or de Finetti diagram is a barycentric plot on three variables which sum to a constant. It graphically depicts the ratios of the three variables as positions in an equilateral triangle. It is used in petrology, mineralogy, metallurgy, and other physical sciences to show the compositions of systems composed of three species. In population genetics, it is often called a de Finetti diagram. In game theory, it is often called a simplex plot. 
+       Vector field&nbsp;: Vector field plots (or quiver plots) show the direction and the strength of a vector associated with a 2D or 3D points. They are typically used to show the strength of the gradient over the plane or a surface area. 
+       Violin plot&nbsp;: Violin plots are a method of plotting numeric data. They are similar to box plots, except that they also show the probability density of the data at different values (in the simplest case this could be a histogram). Typically violin plots will include a marker for the median of the data and a box indicating the interquartile range, as in standard box plots. Overlaid on this box plot is a kernel density estimation. Violin plots are available as extensions to a number of software packages, including R through the vioplot library, and Stata through the vioplot add-in.
+       
+       
+       
+         
+         
+          
+           
+          
+          
+          
+          Ternary plot  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          Violin plot  
+          
+         
+       
+      Plots for specific quantities 
+      
+       Arrhenius plot&nbsp;: This plot compares the logarithm of a reaction rate (
+            
+             
+              
+              
+               ln
+               
+              
+               ⁡
+               
+              
+               (
+               
+              
+               k
+               
+              
+               )
+               
+              
+             
+            
+             
+             
+            
+          , ordinate axis) plotted against inverse temperature (
+            
+             
+              
+              
+               1
+               
+               
+               
+                /
+                
+               
+              
+               T
+               
+              
+             
+            
+             
+             
+            
+          , abscissa). Arrhenius plots are often used to analyze the effect of temperature on the rates of chemical reactions. 
+       Dot plot (bioinformatics)&nbsp;: This plot compares two biological sequences and is a graphical method that allows the identification of regions of close similarity between them. It is a kind of recurrence plot. 
+       Lineweaver–Burk plot&nbsp;: This plot compares the reciprocals of reaction rate and substrate concentration. It is used to represent and determine enzyme kinetics.
+       
+       
+       
+         
+         
+          
+           
+          
+          
+          
+          Arrhenius plot  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          Dot plot (bioinformatics)  
+          
+         
+       
+      3D plots 
+       
+       
+         
+         
+          
+           
+          
+          
+          
+          SteamTube plot  
+          
+         
+       
+      Examples 
+      Types of graphs and their uses vary very widely. A few typical examples are:  
+      
+       Simple graph: Supply and demand curves, simple graphs used in economics to relate supply and demand to price. The graphs can be used together to determine the economic equilibrium (essentially, to solve an equation). 
+       Simple graph used for reading values: the bell-shaped normal or Gaussian probability distribution, from which, for example, the probability of a man's height being in a specified range can be derived, given data for the adult male population. 
+       Very complex graph: the psychrometric chart, relating temperature, pressure, humidity, and other quantities. 
+       Non-rectangular coordinates: the above all use two-dimensional rectangular coordinates; an example of a graph using polar coordinates, sometimes in three dimensions, is the antenna radiation pattern chart, which represents the power radiated in all directions by an antenna of specified type.
+       
+      See also 
+      
+       Chart 
+       Diagram 
+       Graph of a function 
+       Line chart 
+       List of graphical methods 
+       Plotting software 
+       List of plotting programs
+       
+      References 
+      &nbsp;This article incorporates&nbsp;public domain material from the National Institute of Standards and Technology website https://www.nist.gov.  
+      
+       
+       
+         
+         ^ a b c NIST/SEMATECH (2003). "The Role of Graphics". In: e-Handbook of Statistical Methods 6 January 2003 (Date created).  
+         ^ Altman DG, Bland JM (1983). "Measurement in medicine: the analysis of method comparison studies". The Statistician. Blackwell Publishing. 32 (3): 307–317. doi:10.2307/2987937. JSTOR&nbsp;2987937.  
+         ^ 
+           Bland JM, Altman DG (1986). "Statistical methods for assessing agreement between two methods of clinical measurement". Lancet. 1 (8476): 307–10. doi:10.1016/S0140-6736(86)90837-8. PMID&nbsp;2868172. S2CID&nbsp;2844897.  
+         ^ a b 
+           Simionescu, P.A. (2014). Computer Aided Graphing and Simulation Tools for AutoCAD Users (1st&nbsp;ed.). Boca Raton, FL: CRC Press. ISBN&nbsp;978-1-4822-5290-3.  
+         ^ 
+           R. J. Light; D. B. Pillemer (1984). Summing up: The Science of Reviewing Research. Cambridge, Massachusetts.: Harvard University Press.  
+         ^ 
+           M. Egger, G. Davey Smith, M. Schneider &amp; C. Minder (September 1997). "Bias in meta-analysis detected by a simple, graphical test". BMJ. 315 (7109): 629–634. doi:10.1136/bmj.315.7109.629. PMC&nbsp;2127453. PMID&nbsp;9310563.}: CS1 maint: multiple names: authors list (link)  
+         ^  
+           Galbraith, Rex (1988). "Graphical display of estimates having differing standard errors". Technometrics. American Society for Quality. 30 (3): 271–281. doi:10.2307/1270081. JSTOR&nbsp;1270081.  
+         ^ Utts, Jessica M. Seeing Through Statistics 3rd Edition, Thomson Brooks/Cole, 2005, pp 166–167. 
+           ISBN&nbsp;0-534-39402-7  
+         ^ 
+           Theodore T. Allen (2010). Introduction to Engineering Statistics and Lean Sigma: Statistical Quality Control and Design of Experiments and Systems. Springer. p.&nbsp;128. ISBN&nbsp;978-1-84882-999-2. Retrieved 2011-02-17.  
+         ^ 
+           Hintze Jerry L.; Nelson Ray D. (1998). "Violin Plots: A Box Plot-Density Trace Synergism". The American Statistician. 52 (2): 181–84. doi:10.1080/00031305.1998.10480559.  
+        
+       
+       
+      External links 
+       
+       
+         
+          
+         Wikimedia Commons has media related to Plots.
+         
+       
+       
+      
+       Dataplot gallery of some useful graphical techniques at itl.nist.gov.
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Plot_(graphics)&amp;oldid=1069075226"
+     
+     
+    
+     
+      Categories: 
+      
+       Plots (graphics)
+       Charts
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 maint: multiple names: authors list
+       Wikipedia articles incorporating text from the National Institute of Standards and Technology
+       Commons category link is on Wikidata
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       Bân-lâm-gú
+       Français
+       日本語
+       Português
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 31 January 2022, at 14:58&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

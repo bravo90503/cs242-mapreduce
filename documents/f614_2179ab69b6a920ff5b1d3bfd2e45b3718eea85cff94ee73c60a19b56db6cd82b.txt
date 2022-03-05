@@ -1,0 +1,438 @@
+
+ 
+ 
+   
+   
+   
+   
+   
+   
+    
+  LIBRES: Welcome - Latest Edition 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+   
+   
+    
+     
+        
+      
+    
+     
+      
+        
+       
+       
+       
+        
+        
+        
+         
+        
+        
+         337 captures 
+         
+          19 Aug 2000 - 19 Jul 2019
+          
+         
+          
+           
+            
+            
+         
+        
+       
+       
+        
+          
+          
+          Apr 
+          JUN 
+          Aug 
+           
+          
+           
+          05 
+           
+           
+          
+          2013 
+          2014 
+          2015 
+          
+         
+        
+       
+       
+         
+         
+          success
+          
+         
+          fail
+                    
+        
+                
+        
+         About this capture 
+        
+       
+      
+      
+       
+       
+        COLLECTED BY
+        
+        
+          Organization: Internet Archive 
+          
+           The Internet Archive discovers and captures web pages through many different web crawls. At any given time several distinct crawls are running, some for months, and some every day or longer. View the web archive through the Wayback Machine. 
+          
+         
+          
+         
+          Collection: Survey Crawl Number 1 - Started May 17th, 2014 - Ended Dec 10th, 2014
+          
+          
+           
+          The seed for this crawl was a list of every host in the Wayback Machine 
+          This crawl was run at a level 1 (URLs including their embeds, plus the URLs of all outbound links including their embeds) 
+          The WARC files associated with this crawl are not currently available to the general public. 
+          
+         
+        
+       
+       
+       
+        TIMESTAMPS
+        
+        
+         
+        
+         
+         
+        
+       
+     
+    
+   
+  
+  
+   The Wayback Machine - https://web.archive.org/web/20140605070024/http://libres.curtin.edu.au/
+   
+    Skip to content 
+   
+    
+   
+   Curtin University of Technology 
+    
+       
+     
+     
+     Curtin home  
+     Study 
+       
+       Information for 
+         
+         Australian &amp; NZ future students 
+         International future students 
+         Future research students 
+         Current students 
+         Parents &amp; teachers 
+          
+       Information about 
+         
+         Courses 
+         Teaching &amp; learning 
+         Scholarships 
+         University life 
+         More on studying 
+          
+        
+     About us 
+       
+       Who we are 
+       Our locations 
+       Campus information 
+       Getting here &amp; parking 
+       Services 
+       More 
+        
+      Research 
+       
+       Current researchers, students &amp; staff 
+       Our areas of strength 
+       Institutes and centres 
+       Partnership and consultancy 
+       Office of Research and Development 
+       More 
+        
+     In the community 
+       
+       Alumni 
+       Student Guild 
+       John Curtin Gallery 
+       Curtin FM 
+       Curtin Volunteers 
+       More 
+        
+      Popular links 
+       
+       News 
+       Library 
+       Getting here &amp; parking 
+       Bookshop 
+       Academic calendars 
+       Fees &amp; charges 
+       Jobs at Curtin 
+       OASIS 
+        
+     
+     
+      Search 
+       
+       
+       
+       
+      
+      
+      A-Z index 
+      Find staff 
+      Contact us 
+      Map 
+      Help 
+      OASIS login 
+      
+     
+    
+   
+   
+    Curtin LIBRES Research Electronic Journal 
+    
+   
+   
+    
+     
+      Latest Edition  
+      About LIBRES  
+      Editorial Board  
+      Archives  
+      Author Guidelines  
+      Periodicals shelf  
+      Conferences &amp; Meetings  
+      Research networks  
+      LIBRES Blog  
+     
+     
+     
+    
+   
+   
+   
+    
+     
+      Latest Edition  
+      WWW issues and content  
+      Joining LIBRES  
+      Copyright Information  
+     
+     
+     
+     
+     
+    
+    Latest Edition  
+    LIBRES is moving to the Nanyang Technological University (NTU), Singapore. This site will no longer be available after June 2014. The new site at NTU will be announced soon. LIBRES is continuing to accept paper submissions, which should be made to the new LIBRES editor, Dr Chris Khoo, at: LIBRESeditor@ntu.edu.sg 
+    SEPTEMBER 2013 ISSUE Volume 23 Issue 2 
+    Includes: 
+    Refereed Section 
+    &gt; &gt; Selecting the right search term in query-based systems for deduplication 
+    Research Papers 
+    &gt; &gt; Technology Impacts on Curriculum of Library and Information Science (LIS) - a United States (US) Perspective. &gt; &gt; Being Interdisciplinary: A Look into the Background and Experiences of iSchool Faculty Members. &gt; &gt; Detecting collaboration patterns among iSchools by linking scholarly communication to social networking at the macro and micro levels.  
+    LIBRES EDITORIAL 
+    &nbsp; 
+    This issue of LIBRES contains 4 papers, the first of which, by Harald Jele, has been through the LIBRES refereeing process.&nbsp; The remaining three papers were amongst a number given at a recent workshop I attended: Workshop on Global Collaboration of Information Schools&nbsp; http://www.cisap.asia/IFLA2013/index.html&nbsp;&nbsp; held before the IFLA 2013 Singapore conference.&nbsp; &nbsp;I approached the workshop organisers, CiSAP&nbsp;&nbsp; http://www.cisap.asia/ and was granted permission to reprint them in LIBRES, in the interests of promoting a research approach to workshop and conference papers.&nbsp;  
+    In closing I would like to bid you farewell as the Editor-in-Chief of LIBRES.&nbsp; I retired from academia in March 2013 and decided to also hand over the baton for LIBRES.&nbsp; I am very pleased to advise that my colleague from Singapore, Associate Professor Christopher Khoo from the Division of Information Studies, Wee Kim Wee School of Communication &amp; Information, Nanyang Technological University will be assuming the position for and from the next issue in March 2014.&nbsp; Thank you so much Chris for agreeing to carry on the work of this important open access journal in library and information studies/science. 
+    Dr Kerry Smith, FALIA Associate Professor (retired) Editor-in-Chief LIBRES&nbsp; http//libres.curtin.edu.au  
+    
+    
+     
+     Issues 
+     Vol 23 Issue 1 
+     Vol 22 Issue 2 
+     Vol 22 Issue 1 
+     Vol 21 Issue 2 
+     Vol 21 Issue 1 
+     Vol 20 Issue 2 
+     Vol 20 Issue 1 
+     Vol 19 Issue 2 
+     Vol 19 Issue 1 
+     Vol 18 Issue 2 
+     Vol 18 Issue 1 
+     Vol 17 Issue 2 
+     Vol 17 Issue 1 
+     Vol 16 Issue 2 
+     Vol 16 Issue 1 
+     Vol 15 Issue 2 
+     Vol 15 Issue 1 
+     Vol 14 Issue 2 
+     Vol 14 Issue 1 
+     Vol 13 Issue 2 
+     Vol 13 Issue 1 
+     Vol 12 Issue 2 
+     Vol 12 Issue 1 
+     Vol 11 Issue 2 
+     Vol 11 Issue 1 
+     Previous Issues 
+     
+    
+   
+   
+    
+     
+      
+      Future students 
+      International students 
+      About Curtin 
+      Research 
+      Current students 
+      Curtin staff 
+      Curtin home 
+      
+     
+     
+      
+      
+       International future students
+       
+       
+        
+        Mon - Fri, 9.00am - 4.45pm 
+        Tel: +61 8 9266 7331 
+        Fax: +61 8 9266 2605 
+        or +61 8 9266 4013 
+        
+       
+      
+      
+      
+       Future Students Centre
+       
+       
+        
+        Mon-Fri, 8.30am - 4.45pm 
+        Tel: +61 8 9266 1000 
+        or 1300 CU 1000 
+        Fax: +61 8 9266 3331 
+        
+       
+      
+      
+      
+       Student Central
+       
+       
+        
+        Office: Mon-Fri, 9am - 4.45pm 
+        Tel: Mon-Fri, 8.30am - 4.45pm +61 8 9266 3399 
+        Fax: +61 8 9266 4108 
+        
+       
+      
+     
+     
+      
+      
+       Bentley Campus switchboard
+       
+       
+        
+        Mon-Fri, 8.00am - 5.00pm 
+        Tel: +61 8 9266 9266 
+        Fax: +61 8 9266 3131 
+        
+       
+      
+      
+      
+       Postal address
+       
+      
+       GPO Box U1987 Perth, 
+        Western Australia 6845
+       
+      
+      
+      
+       Main campus location
+       
+      
+       Kent Street, Bentley, Perth, Western Australia 6102
+       
+      
+       Curtin Sydney
+       
+      
+       Curtin Sarawak
+       
+      
+       Curtin Singapore
+       
+      
+       Regional campuses
+       
+      
+     
+     
+      
+      ATN member 
+      Copyright and disclaimer 
+      Privacy statement 
+      Sitemap 
+      Last modified 4 April 2014 
+      Website feedback 
+      Complaints 
+      
+      
+      
+       CRICOS Provider Code
+       
+      
+        WA 00301J, NSW 02637B 
+       
+      
+     
+     &nbsp;Australian Technology Network of Universities 
+     
+     
+    
+  
+    
+ 

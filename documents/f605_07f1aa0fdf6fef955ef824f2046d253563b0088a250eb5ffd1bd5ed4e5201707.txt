@@ -1,0 +1,159 @@
+
+
+  
+   
+   
+   
+  Browse subject: Information science | The Online Books Page
+  
+  
+   
+   The Online Books Page 
+   
+  
+    Browsing subject area: Information science (Include extended shelves)
+   You can also browse an alphabetical list from this subject or from: 
+    
+    
+   
+   
+  
+   
+     
+     Information scienceSee also what's at Wikipedia, your library, or elsewhere. Broader term:
+      
+       Communication
+      Related terms:
+      
+       Library science
+       Information literacy
+      Narrower terms:
+      
+       Information science -- Brazil
+       Information science -- Canada
+       Information science -- Congresses
+       Information science -- Dictionaries
+       Information science -- Moral and ethical aspects
+       Information science -- Pakistan
+       Information science -- Periodicals
+       Information science -- Philosophy
+       Information science -- Research
+       Information science -- Social aspects
+       Information science -- Standards
+       Information science -- Statistical methods
+       Information science -- Study and teaching
+       Bioinformatics
+       Documentation
+       Geomatics
+       Information policy
+       Information resources
+       Information retrieval
+       Information services
+       Information visualization
+       Medical informatics
+       Women in information science
+      
+        Filed under: Information science
+      
+        Measurement of Science: Study of the Development of Science as an Information Process (edited machine translation from Russian; 1971), by V. V. Nalimov and Z. M. Mul'chenko, ed. by Robert D. Hill (linked PDF files here at Penn)
+        Data Science at the Command Line (free online edition; originally published 2014), by Jeroen Janssens (illustrated HTML at datascienceatthecommandline.com)
+        Metalibrarianship: A Model for Intellectual Foundations of Library Science, by Joseph Z. Nitecki (HTML at Wayback Machine)
+        The Nitecki Trilogy, by Joseph Z. Nitecki (illustrated HTML at Wayback Machine)
+        Essays of an Information Scientist (15 volumes), by Eugene Garfield (PDF files here at Penn)
+                                                       Filed under: Information science -- Brazil -- Periodicals
+      
+        Brazilian Journal of Information Science (in English and Portuguese; 2006-) (partial serial archives)
+         Filed under: Information science -- Canada -- Periodicals
+      
+        Partnership: The Canadian Journal of Library and Information Practice and Research (2006-) (full serial archives)
+               Filed under: Archives -- Congresses
+      
+        The Archive in Motion: New Conceptions of the Archive in Contemporary Thought and New Media Practices (Oslo: Novus Press, c2010), ed. by Eivind Røssaak (multiple formats in Norway)
+             Filed under: Online information services -- Congresses
+      
+        Digital Libraries '95, by Conference on the Theory and Practice of Digital Libraries (HTML at TAMU)
+        Proceedings of Digital Libraries '94, by Conference on the Theory and Practice of Digital Libraries (HTML at TAMU)
+      Filed under: Science -- Information services -- Congresses
+      
+        Open Access and the Public Domain in Digital Data and Information for Science: Proceedings of an International Symposium (2004), ed. by Julie M. Esanu and P. F. Uhlir (HTML and page images with commentary at NAP)
+      Filed under: Information science -- Dictionaries
+      
+        ODLIS: Online Dictionary for Library and Information Science (c2007), by Joan M. Reitz (HTML with commentary at lu.com)
+      Filed under: Information science -- Periodicals
+      
+        Brazilian Journal of Information Science (in English and Portuguese; 2006-) (partial serial archives)
+        Information (information science and technology journal; Basel: MDPI AG, 2010-) (full serial archives)
+        Information Research (1995-) (full serial archives)
+        Informing Science (1998-) (full serial archives)
+        JLIS.it: Italian Journal of Library and Information Science (with articles in Italian and English; 2010-) (full serial archives)
+        Webology (2004-) (full serial archives)
+        Annals of Library and Information Studies (open access from 2002-) (partial serial archives)
+        LIBRES: Library and Information Science Research e-Journal (issues online 1996-) (partial serial archives)
+        Partnership: The Canadian Journal of Library and Information Practice and Research (2006-) (full serial archives)
+        Information Technology and Libraries (open access issues from mid-2011 onward) (partial serial archives)
+        Bulletin of the American Society for Information Science and Technology, by American Society for Information Science and Technology (partial serial archives)
+        Pakistan Journal of Library and Information Science (partial serial archives)
+      Filed under: Information science -- Philosophy
+      
+        Philosophical Aspects of Library Information Science in Retrospect, by Joseph Z. Nitecki (HTML at Wayback Machine)
+      Filed under: Bioinformatics
+      
+        Bioinformatics in Tropical Disease Research: A Practical and Case-Study Approach (2008), ed. by Arthur Gruber, Alan M. Durham, Chong Huynh, and Hernando A. del Portillo (illustrated HTML at NIH)
+        Clever Algorithms: Nature-Inspired Programming Recipes (c2011), by Jason Brownlee
+        
+          PDF at Github
+          PDF with commentary at Github
+        
+        The Elements of Statistical Learning: Data Mining, Inference, and Prediction (second edition, 2009), by Trevor Hastie, Robert Tibshirani, and J. H. Friedman (PDF with commentary at Stanford)
+      Filed under: Documentation
+      
+        Documentarity: Evidence, Ontology, and Inscription (Cambridge, MA: MIT Press, c2019), by Ronald E. Day (HTML with commentary at MIT Press)
+        Archives, Documentation, and Institutions of Social Memory: Essays From the Sawyer Seminar (Ann Arbor: University of Michigan Press, c2006), ed. by Francis X. Blouin and William G. Rosenberg (page images at HathiTrust)
+      Filed under: Geomatics
+      
+        Das Rückwärtseinschneiden im Raum (dissertation in German; Zürich: A.-G. Gebr. Leemann und Co., 1933), by Gustav Volkart (PDF at ETH Zurich)
+      Filed under: Information policy
+      
+        Shareveillance: The Dangers of Openly Sharing and Covertly Collecting Data (Minneapolis: University of Minnesota Press, 2017), by Clare Birchall (multiple formats with commentary at umn.edu)
+        ICT Policy Formulation and E-Strategy Development: A Comprehensive Guidebook (2005), by Richard Labelle (PDF at apdip.net)
+        ICT Policies and E-Strategies in the Asia-Pacific: A Critical Assessment of the Way Forward (2004), ed. by Phet Sayo, James George Chacko, and Gopi Pradhan (PDF at apdip.net)
+      Filed under: Information resources
+      
+        The Network Reshapes the Library: Lorcan Dempsey on Libraries, Services, and Networks (Chicago: ALA Editions, 2014), by Lorcan Dempsey, ed. by Kenneth J. Varnum (PDF with commentary at oclc.org)
+      Filed under: Information retrieval
+      
+        Introduction to Information Retrieval (prepublication version; 2008), by Christopher D. Manning, Prabhakar Raghavan, and Hinrich Schütze (HTML and PDF with commentary at Stanford)
+        Systems of Knowledge Organization for Digital Libraries: Beyond Traditional Authority Files (2000), by Gail M. Hodge (PDF at clir.org)
+        Introduction to Controlled Vocabularies: Terminology for Art, Architecture, and Other Cultural Works (Los Angeles: Getty Research Institute, c2010), by Patricia Harpring (page images and PDF with commentary at getty.edu and Google)
+      Filed under: Information visualization
+      
+        Hands-On Data Visualization: Interactive Storytelling From Spreadsheets to Code (open-access web edition; 2021), by Jack Dougherty and Ilya Ilyankou (illustrated HTML an handsondataviz.org)
+        Data Visualization in Society (Amsterdam: Amsterdam University Press, c2020), ed. by Martin Engebretsen and Helen Kennedy (PDF files with commentary at aup.nl and JSTOR)
+        Viral Networks: Connecting Digital Humanities and Medical History (Blacksburg, VA: VT Publishing, 2018), ed. by E. Thomas Ewing and Katherine Randall (multiple formats with commentary at VT Publishing)
+        Introduction to Data Science: Data Analysis and Prediction Algorithms With R (Creative Commons online edition, 2021), by Rafael A. Irizarry (illustrated HTML with commentary at github.uio)
+        The Data Journalism Handbook (electronic first edition, c2012), ed. by Liliana Bounegru, Lucy Chambers, and Jonathan Gray (illustrated HTML with commentary at datajournalismhandbook.org)
+        The Data Journalism Handbook 2: Towards a Critical Data Practice (online edition, ca. 2021), ed. by Jonathan Gray and Liliana Bounegru (illustrated HTML with commentary at datajournalism.com)
+        digitalSTS: A Field Guide for Science and Technology Studies (Princeton: Princeton University Press, c2019), ed. by Janet Vertesi and David Ribes (PDF files and multimedia with commentary at digitalsts.net)
+        D3.js Tips and Tricks, by Malcolm Maclean (JavaScript-dependent illustrated HTML at leanpub.com)
+      Filed under: Medical informatics
+      
+        Fundamentals of Clinical Data Science (Cham: Springer Open, c2019), ed. by Pieter Kubben, Michel Dumontier, and A. L. A. J. Dekker (multiple formats at Springer Link)
+        Bringing Health Care Online: The Role of Information Technologies (1995), by United States Congress Office of Technology Assessment (PDF files at Princeton)
+        Health Data in the Information Age: Use, Disclosure, and Privacy (1994), by Institute of Medicine (U.S.) (page images with commentary at NAP)
+        The Fourth Paradigm: Data-Intensive Scientific Discovery (Redmond, WA: Microsoft Research, c2009), ed. by Anthony J. G. Hey, Stewart Tansley, and Kristin Michele Tolle (PDF files with commentary at Microsoft)
+      Filed under: Women in information science
+      
+        Digital Divas: Putting the Wow Into Computing for Girls (Clayton, Victoria: Monash University Publishing, c2016), by Julie Fisher, Catherine Lang, Annemieke Craig, and Helen Forgasz, contrib. by Amber McLeod
+        
+          PDF with commentary at oapen.org
+          page images and PDF at HathiTrust
+        
+        More items available under narrower terms.
+    
+   
+   
+  Help with reading books -- Report a bad link -- Suggest a new listing 
+  Home -- Search -- New Listings -- Authors -- Titles -- Subjects -- Serials 
+   Books -- News -- Features -- Archives -- The Inside Story 
+  Edited by John Mark Ockerbloom (onlinebooks@pobox.upenn.edu)OBP copyrights and licenses.
+ 

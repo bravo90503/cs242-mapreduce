@@ -1,0 +1,646 @@
+
+ 
+  
+   
+  Information behavior - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Information behavior 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       How people find information
+       
+        
+      
+      
+       
+        
+         Information science
+        
+        
+          General aspects
+        
+        
+          
+           
+           
+            Access 
+            Architecture 
+            Behavior 
+            Management 
+            Retrieval 
+            Seeking 
+            Society 
+            Knowledge organization 
+            Ontology 
+            Philosophy 
+            Science and technology studies 
+            Taxonomy
+            
+           
+        
+        
+          Related fields and sub-fields
+        
+        
+          
+           
+           
+            Bibliometrics 
+            Categorization 
+            Censorship 
+            Classification 
+            Computer data storage 
+            Cultural studies 
+            Data modeling 
+            Informatics 
+            Information technology 
+            Intellectual freedom 
+            Intellectual property 
+            Library and information science 
+            Memory 
+            Preservation 
+            Privacy 
+            Quantum information science
+            
+           
+        
+        
+         
+          
+           
+            v
+            t
+            e
+           
+          
+        
+       
+       
+      Information behavior is a field of information science research that seeks to understand the way people search for and use information in various contexts. It can include information seeking and information retrieval, but it also aims to understand why people seek information and how they use it. The term 'information behavior' was coined by Thomas D. Wilson in 1981 and sparked controversy upon its introduction. The term has now been adopted and Wilson's model of information behavior is widely cited in information behavior literature. In 2000, Wilson defined information behavior as "the totality of human behavior in relation to sources and channels of information". 
+      A variety of theories of information behavior seek to understand the processes that surround information seeking. An analysis of the most cited publications on information behavior during the early 21st century shows its theoretical nature. Information behavior research can employ various research methodologies grounded in broader research paradigms from psychology, sociology and education. 
+      In 2003, a framework for information-seeking studies was introduced that aims to guide the production of clear, structured descriptions of research objects and positions information-seeking as a concept within information behavior.  
+      
+       
+       
+        Contents
+        
+        
+        1 Concepts of information behavior 
+          
+          1.1 Information need 
+          1.2 Information-seeking behavior 
+          1.3 Information use 
+          1.4 Information poverty and barriers 
+           
+        2 Metatheories 
+          
+          2.1 Cognitivist approach 
+          2.2 Constructionist approach 
+          2.3 Constructivist approach 
+           
+        3 Theories 
+          
+          3.1 Wilson's theory of information behavior (1981) 
+          3.2 Small worlds and life in the round 
+          3.3 Navigators and explorers 
+          3.4 Sensemaking 
+          3.5 Anomalous state of knowledge (ASK) 
+           
+        4 Models 
+          
+          4.1 Everyday life information-seeking 
+            
+            4.1.1 McKenzie's two-dimensional model 
+             
+          4.2 Information search process (ISP) 
+          4.3 Information-seeking process 
+          4.4 Information foraging 
+          4.5 Non-linear information behavior model 
+           
+        5 Information behavior v. information practices debate 
+        6 The future of information behavior research 
+        7 References 
+        8 External links and further reading 
+        
+       
+      Concepts of information behavior 
+      Information need 
+      Information need is a concept introduced by Wilson. Understanding the information need of an individual involved three elements:  
+      
+       Why the individual decides to look for information, 
+       What purpose the information they find will serve, and 
+       How the information is used once it is retrieved 
+       
+      Information-seeking behavior 
+      Information-seeking behavior is a more specific concept of information behavior. It specifically focuses on searching, finding, and retrieving information. Information-seeking behavior research can focus on improving information systems or, if it includes information need, can also focus on why the user behaves the way they do. A review study on information search behavior of users highlighted that behavioral factors, personal factors, product/service factors and situational factors affect information search behavior.  
+      Information use 
+      User studies vs. usage studies  
+      Information poverty and barriers 
+      Introduced by Elfreda Chatman in 1987, information poverty is informed by the understanding that information is not equally accessible to all people. Information poverty does not describe a lack of information, but rather a worldview in which one's own experiences inside their own small world may create a distrust in the information provided by those outside their own lived experiences.  
+      Metatheories 
+      In LIS, a metatheory is described "a set of assumptions that orient and direct theorizing about a given phenomenon". Library and information science researchers have adopted a number of different metatheories in their research. A common concern among LIS researchers, and a prominent discussion in the field, is the broad spectrum of theories that inform the study of information behavior, information users, or information use. This variation has been noted as a cause of concern because it makes individual studies difficult to compare or synthesize if they are not guided by the same theory. This sentiment has been expressed in studies of information behavior literature from the early 1980s  and more recent literature reviews have declared it necessary to refine their reviews to specific contexts or situations due to the sheer breadth of information behavior research available. 
+      Below are descriptions of some, but not all, metatheories that have guided LIS research.  
+      Cognitivist approach 
+      A cognitive approach to understanding information behavior is grounded in psychology. It holds the assumption that a person's thinking influences how they seek, retrieve, and use information. Researchers that approach information behavior with the assumption that it is influenced by cognition, seek to understand what someone is thinking while they engage in information behavior and how those thoughts influence their behavior. 
+      Wilsons attempt to understand information-seeking behavior by defining information need includes a cognitive approach. Wilson theorizes that information behavior is influenced by the cognitive need of an individual. By understanding the cognitive information need of an individual, we may gain insight into their information behavior. 
+      Nigel Ford takes a cognitive approach to information-seeking, focusing on the intellectual processes of information-seeking. In 2004, Ford proposed an information-seeking model using a cognitive approach that focuses on how to improve information retrieval systems and serves to establish information-seeking and information behavior as concepts in and of themselves, rather than synonymous terms.   
+      Constructionist approach 
+      The constructionist approach to information behavior has roots in the humanities and social sciences. It relies on social constructionism, which assumes that a person's information behavior is influenced by their experiences in society. In order to understand information behavior, constructionist researchers must first understand the social discourse that surrounds the behavior. The most popular thinker referenced in constructionist information behavior research is Michel Foucault, who famously rejected the concept of a universal human nature. The constructionist approach to information behavior research creates space for contextualizing the behavior based on the social experiences of the individual. 
+      One study that approaches information behavior research through the social constructionist approach is a study of the information behavior of a public library knitting group. The authors use a collectivist theory to frame their research, which denies the universality of information behavior and focuses on "understanding the ways that discourse communities collectively construct information needs, seeking, sources, and uses".  
+      Constructivist approach 
+      The constructivist approach is born out of education and sociology in which, "individuals are seen as actively constructing an understanding of their worlds, heavily influenced by the social world(s) in which they are operating". Constructivist approaches to information behavior research generally treat the individual's reality as constructed within their own mind rather than built by the society in which they live. 
+      The constructivist metatheory makes space for the influence of society and culture with social constructivism, "which argues that, while the mind constructs reality in its relationship to the world, this mental process is significantly informed by influences received from societal conventions, history and interaction with significant others".  
+      Theories 
+      A common concern among LIS researchers, and a prominent discussion in the field, is the broad spectrum of theories that inform LIS research. This variation has been noted as a cause of concern because it makes individual studies difficult to compare if they are not guided by the same theory. LIS researchers have applied concepts and theories from many disciplines, including sociology, psychology, communication, organizational behavior, and computer science. Fisher, Karen and Heidi Julien, 2009. "Information Behavior." Annual Review of Information Science and Technology, vol. 43: 293-328). Medford, NJ: Information Today, Inc.  
+      Wilson's theory of information behavior (1981) 
+      
+      
+       Main article: Wilson's model of information behavior
+       
+      The term was coined by Thomas D. Wilson in his 1981 paper, on the grounds that the current term, 'information needs' was unhelpful since 'need' could not be directly observed, while how people behaved in seeking information could be observed and investigated. However, there is increasing work in the information-searching field that is relating behaviors to underlying needs. In 2000, Wilson described information behavior as the totality of human behavior in relation to sources and channels of information, including both active and passive information-seeking, and information use. He described information-seeking behavior as purposive seeking of information as a consequence of a need to satisfy some goal. Information-seeking behavior is the micro-level of behavior employed by the searcher in interacting with information systems of all kinds, be it between the seeker and the system, or the pure method of creating and following up on a search. 
+      Thomas Wilson proposed that information behavior covers all aspects of human information behavior, whether active or passive. Information-seeking behavior is the act of actively seeking information in order to answer a specific query. Information-searching behavior is the behavior which stems from the searcher interacting with the system in question. Information use behavior pertains to the searcher adopting the knowledge they sought.  
+      Small worlds and life in the round 
+      Elfreda Chatman developed the theory of life in the round, which she defines as a world of tolerated approximation. It acknowledges reality at its most routine, predictable enough that unless an initial problem should arise, there is no point in seeking information. Chatman examined this principle within a small world: a world which imposes on its participants similar concerns and awareness of who is important; which ideas are relevant and whom to trust. Participants in this world are considered insiders. Chatman focused her study on women at a maximum security prison. She learned that over time, prisoner's private views were assimilated to a communal acceptance of life in the round: a small world perceived in accordance with agreed upon standards and communal perspective. Members who live in the round will not cross the boundaries of their world to seek information unless it is critical; there is a collective expectation that information is relevant; or life lived in the round no longer functions. The world outside prison has secondary importance to inmates who are absent from this reality which is changing with time.  
+      Navigators and explorers 
+      This compares the internet search methods of experienced information seekers (navigators) and inexperienced information seekers (explorers). Navigators revisit domains; follow sequential searches and have few deviations or regressions within their search patterns and interactions. Explorers visit many domains; submit many questions and their search trails branch frequently.  
+      Sensemaking 
+      
+      
+       Main article: Sensemaking (information science)
+       
+      Brenda Dervin developed the concept of sensemaking. Sensemaking considers how we (attempt to) make sense of uncertain situations. Her description of Sensemaking consisted of the definition of how we interpret information to use for our own information related decisions. 
+      Brenda Dervin described sensemaking as a method through which people make sense of their worlds in their own language.  
+      Anomalous state of knowledge (ASK) 
+      ASK was also developed by Nicholas J. Belkin. 
+      An anomalous state of knowledge is one in which the searcher recognises a gap in the state of knowledge. This, his or her further hypothesis, is influential in studying why people start to search.  
+      Models 
+      Everyday life information-seeking 
+      McKenzie's two-dimensional model 
+      McKenzie's model proposes that the information-seeking in everyday life of individuals occurs on a "continuum of information practices... from actively seeking out a known source... to being given un-asked for advice." This model crosses the threshold in information-seeking studies from information behavior research to information practices research. Information practices research creates space for understanding encounters with information that may not be a result of the individual's behavior. 
+      McKenzie's two-dimensional model includes four modes of information practices (active seeking, active scanning, non-directed monitoring, by proxy) over two phases of the information process (connecting and interacting).  
+       
+       
+        Mckenzie's two-dimensional model of information practices in every day life  
+        
+       
+         
+         Phase --&gt; Mode (below)   
+         Connecting  
+         Interacting 
+         
+         
+         Active-seeking  
+         Actively seeking contact with an identified source in a specific information ground  
+         Asking a pre-planned question; active questioning strategies, e.g. list-making 
+         
+         
+         Active-scanning  
+         Identifying a likely source; browsing in a likely information ground  
+         Identifying an opportunity to ask a question; actively observing or listening 
+         
+         
+         Non-directed monitoring  
+         Serendipitous encounters in unexpected places  
+         Observing or overhearing in unexpected settings, chatting with acquaintances 
+         
+         
+         By proxy  
+         Being identified as an information seeker; being referred to a source through a gatekeeper  
+         Being told 
+        
+       
+       
+      Information search process (ISP) 
+      ISP was proposed and developed by Carol Kuhlthau and represents a tighter focus on information-seeking behavior. Kuhlthau's framework was based on research into high school students, but extended over time to include a diverse range of people, including those in the workplace. It examined the role of emotions, specifically uncertainty, in the information-seeking process, concluding that many searches are abandoned due to an overwhelmingly high level of uncertainty. ISP is a 6-stage process, with each stage each encompassing 4 aspects:  
+      
+       Thoughts (cognitive): what is to be accomplished 
+       Feelings (affective): what the searcher was feeling 
+       Actions: what the searcher did 
+       Strategies: what the searcher was trying to achieve 
+       
+       
+       
+         
+         Stage  
+         Task  
+         Thoughts  
+         Feelings  
+         Actions  
+         Strategies 
+         
+         
+         1  
+         Task initiation  
+         Contemplating assignment, comprehending task, relating prior experience and knowledge, considering possible topics  
+         Apprehension of work ahead, uncertainty  
+         Talking with others, browsing library  
+         Brainstorming, discussing, contemplating possibilities, tolerating uncertainty 
+         
+         
+         2  
+         Topic selection  
+         Weighing topics against criteria such as personal interest, project requirements, information available, time available; predicting outcome of possible choices, choosing topic with potential for success  
+         Confusion, sometimes anxiety, brief elation (after selection), anticipation of task  
+         Consulting informal mediators, using reference collections, preliminary searches  
+         Discussing possible topics, predicting outcomes of choices, gaining general overview of topic 
+         
+         
+         3  
+         Pre-focus exploration  
+         Becoming informed about general topic, seeking focus in general information found, identifying possible foci, inability to express precise information needed  
+         Confusion, doubt, sometimes threat, uncertainty  
+         Locating relevant information, reading to become informed, taking notes, making bibliographic citations  
+         Reading to learn about topic, tolerating inconsistency and incompatibility of information encountered, intentionally seeking possible focus, listing descriptors 
+         
+         
+         4  
+         Focus formation  
+         Predicting outcome of possible foci, using stage 2 task criteria, identifying ideas in information to form focus, sometimes characterised by a sudden moment of insight  
+         Optimism, confidence of ability to complete task  
+         Reading notes for themes  
+         Making a survey of notes, listing possible foci, choosing a focus while rejecting others OR combining several themes to form one focus 
+         
+         
+         5  
+         Information collection  
+         Seeking information to support focus, defining and extending focus through information, gathering pertinent information, organising information in notes  
+         Realisation of extensive work to be done, confidence in ability to complete task, increased interest  
+         Using library to collect pertinent information, requesting specific sources, taking detailed notes with bibliographic citations  
+         Using descriptors to search out pertinent information, making comprehensive search of various types of materials i.e. reference, periodicals, non-fiction and biography, using indexes, requesting assistance of librarian 
+         
+         
+         6  
+         Search closure  
+         Identify need for any additional information, considering time limit, diminishing relevance, increasing redundancy, exhausting resources  
+         Sense of relief, sometimes satisfaction, sometimes disappointment  
+         Re-checking information for information initially overlooked, confirming information and bibliographic citations  
+         Returning to library to make summary search, keeping books until completion of writing to re-check information 
+        
+       
+       
+       
+      Kuhlthau's work is constructivist and explores information-seeking beyond the user's cognitive experience into their emotional experience while seeking information. She finds that the process of information-searching begins with feelings of uncertainty, navigates through feelings of anxiety, confusion, or doubt, and ultimately completes their information-seeking with feelings of relief or satisfaction, or disappointment. The consideration of an information-seeker's affect has been replicated more recently in Keilty and Leazer's study which focuses on physical affect and esthetics instead of emotional affect.  
+      Information-seeking process 
+      David Ellis investigated the behavior of researchers in the physical and social sciences, and engineers and research scientists through semi-structured interviews using a grounded theory approach, with a focus on describing the activities associated with information seeking rather than describing a process. Ellis' initial investigations produced six key activities within the information-seeking process:  
+      
+       Starting (activities that form the information search) 
+       Chaining (following references) 
+       Browsing (semi-directed search) 
+       Differentiating (filtering and selecting sources based on judgement of quality and relevance) 
+       Monitoring (keeping track of developments in an area) 
+       Extracting (systematic extraction of material of interest from sources)
+       
+      Later studies by Ellis (focusing on academic researchers in other disciplines) resulted in the addition of two more activities:  
+      
+       Verifying (checking accuracy) 
+       Ending (a final search, checking all material covered)
+       
+      Choo, Detlor and Turnbull elaborated on Ellis' model by applying it to information-searching on the web. Choo identified the key activities associated with Ellis in online searching episodes and connected them with four types of searching (undirected viewing, conditioned viewing, information search, and formal search).  
+      Information foraging 
+      
+      
+       Main article: Information foraging
+       
+      Developed by Stuart Card, Ed H. Chi and Peter Pirolli, this model is derived from anthropological theories and is comparable to foraging for food. Information seekers use clues (or information scents) such as links, summaries and images to estimate how close they are to target information. A scent must be obvious as users often browse aimlessly or look for specific information. Information foraging is descriptive of why people search in particular ways rather than how they search.  
+      Non-linear information behavior model 
+      Foster and Urquhart provide a rich understanding of their model for nonlinear information behavior. This model takes into consideration varying contexts and personalities when researching information behavior. The authors of this article are themselves cautious of this new model since it still requires more development.  
+      Information behavior v. information practices debate 
+      
+       
+        
+         
+         
+          
+           This section is empty. You can help by adding to it. (April 2020)
+          
+        
+       
+       
+      The future of information behavior research 
+      
+       
+        
+         
+         
+          
+           This section is empty. You can help by adding to it. (April 2020)
+          
+        
+       
+       
+      References 
+      
+       
+       
+         
+         ^ Fairer–Wessels, 1990, page 361.  
+         ^ a b c d Wilson, T.D. (1981). "On user studies and information needs". Journal of Documentation. 37 (1): 3–15. doi:10.1108/eb026702.  
+         ^ JESSE, discussion list http://listserv.utk.edu/cgi-bin/wa?A2=ind9912&amp;L=JESSE&amp;D=0&amp;P=3346  
+         ^ 
+           "Google Scholar". scholar.google.ca. Retrieved 2020-02-09.  
+         ^ a b 
+           Wilson, T.D. (2000). "Human Information Behaviour". Informing Science. 3 (2): 49–55. doi:10.28945/576.  
+         ^ 
+           Case, DO (2012). Looking for information: a survey of research on information seeking, needs and behavior. Emerald. ISBN&nbsp;9781780526546.  
+         ^ 
+           Gonzalez-Teruel, A; González-Alcaide, G; Barrios, M; Abad-García, MF. (2015). "Mapping recent information behavior research: an analysis of co-authorship and co-citation networks". Scientometrics. 103 (2): 687–705. doi:10.1007/s11192-015-1548-z. hdl:2445/100263. S2CID&nbsp;10708639.  
+         ^ 
+           Waller, Vivienne, author. (9 December 2015). Qualitative social research&nbsp;: contemporary methods for the digital age. ISBN&nbsp;978-1-4462-5883-5. OCLC&nbsp;948834592. }: |last= has generic name (help)CS1 maint: multiple names: authors list (link)  
+         ^ 
+           Kalervo Jarvelin, T. D. Wilson. "On conceptual models for information seeking and retrieval research". informationr.net. Retrieved 2020-03-19.  
+         ^ 
+           Utkarsh, U (2015). "Information search behavior of service consumers: review and future research directions". The Marketing Review. 15 (2): 201–2019. doi:10.1362/146934715X14373846573667.  
+         ^ a b 
+           Chatman, Elfreda (1987). "The information world of low-skilled workers". Library and Information Science Research. 9 (4): 265–83 – via ERIC.  
+         ^ 
+           Rioux, Kevin (2010). "Metatheory in Library and Information Science: A Nascent Social Justice Approach". Journal of Education for Library and Information Science. 51 (1): 9–17. ISSN&nbsp;0748-5786. JSTOR&nbsp;20720477.  
+         ^ 
+           Krikelas, James (1983). "Information-seeking behavior: Patterns and concepts". Drexel Library Quarterly. 19 (2): 5–20.  
+         ^ 
+           Fisher, Karen E.; Julien, Heidi (2009). "Information behavior". Annual Review of Information Science and Technology. 43 (1): 1–73. doi:10.1002/aris.2009.1440430114.  
+         ^ a b c Bates, Marcia. 2005. "An introduction to theories, metatheories, and models" in Theories of Information Behavior. Karen E. Fisher, Sanda Erdelez and Lynne (E.F.) McKechnie, eds. Medford, NJ: Information Today. 1-24.  
+         ^ 
+           Ford, Nigel (2004). "Modeling cognitive processes in information seeking: From Popper to Pask". Journal of the American Society for Information Science and Technology. 55 (9): 769–782. doi:10.1002/asi.20021. ISSN&nbsp;1532-2882.  
+         ^ a b 
+           Prigoda, Elena; McKenzie, Pamela J. (2007-01-23). Spink, Amanda (ed.). "Purls of wisdom: A collectivist study of human information behaviour in a public library knitting group". Journal of Documentation. 63 (1): 90–114. doi:10.1108/00220410710723902. ISSN&nbsp;0022-0418.  
+         ^ a b 
+           Talja, Sanna; Tuominen, Kimmo; Savolainen, Reijo (2005). Hjørland, Birger (ed.). ""Isms" in information science: constructivism, collectivism and constructionism". Journal of Documentation. 61 (1): 79–101. doi:10.1108/00220410510578023. ISSN&nbsp;0022-0418.  
+         ^ 
+           Case, Donald O. (2007-09-28). "Information behavior". Annual Review of Information Science and Technology. 40 (1): 293–327. doi:10.1002/aris.1440400114. ISSN&nbsp;0066-4200.  
+         ^ BJ Jansen, D Booth, B Smith (2009) Using the taxonomy of cognitive learning to model online searching. Information Processing &amp; Management. 45 (6), 643-663.  
+         ^ a b c 
+           Chatman, Elfreda (1999). "A theory of life in the round". Journal of the American Society for Information Science. 50 (3): 207–217. doi:10.1002/(sici)1097-4571(1999)50:3&lt;207::aid-asi3&gt;3.0.co;2-8.  
+         ^ White, Ryen W. and Drucker, Steven M. "Investigating behavioural variability in web search," 16th International World Wide Web Conference (WWW 2007)  
+         ^ 
+           Klein, G.; Moon, B.; Hoffman, R.F. (2006). "Making sense of sensemaking I: alternative perspectives". IEEE Intelligent Systems. 21 (4): 70–73. doi:10.1109/mis.2006.75. S2CID&nbsp;12538674.  
+         ^ 
+           Belkin, Nicholas J. "Anomalous states of knowledge as a basis for information retrieval". Canadian Journal of Information and Library Science. 5: 133–143.  
+         ^ a b c 
+           McKenzie, Pamela J. (2003-01-01). "A model of information practices in accounts of everyday‐life information seeking". Journal of Documentation. 59 (1): 19–40. doi:10.1108/00220410310457993. ISSN&nbsp;0022-0418.  
+         ^ a b 
+           Kuhlthau, Carol. "Carol Kuhlthau". Retrieved 2017-12-05.  
+         ^ 
+           "Kuhlthau's Model of the Stages of the Information Process". Retrieved 2011-03-30.  
+         ^ 
+           Kuhlthau, Carol (1991). "Inside the Search Process: Information Seeking from the User's Perspective". Inside the Search Process: Information Seeking from the User's Perspective. 42 (5): 361.  
+         ^ 
+           Ellis, David; Cox, Deborah, Hall, Katherine (1993). "A Comparison of the Information Seeking Patterns of Researchers in the Physical and Social Sciences". Journal of Documentation. 49 (4): 356–369. doi:10.1108/eb026919.}: CS1 maint: multiple names: authors list (link)  
+         ^ 
+           David, Ellis; Haugan, Merete (1997). "Modelling the information seeking patterns of engineers and research scientists in an industrial environment". Journal of Documentation. 53 (4): 384–403. doi:10.1108/eum0000000007204.  
+         ^ 
+           Choo, Chun Wei; Detlor, Brian; Turnbull, Don (7 February 2000). "View of Information seeking on the Web: An integrated model of browsing and searching | First Monday". First Monday. doi:10.5210/fm.v5i2.729. Retrieved 2020-03-01.  
+         ^ 
+           Chi, E.H; Pirolli, P; Chen, K; Pitkow, J. "Using information scent to model user information needs and actions and the web". In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. 2001: 490–497.  
+         ^ 
+           Foster, Allen; Urquhart, Christine (2012-10-12). "Modelling nonlinear information behaviour: transferability and progression" (PDF). Journal of Documentation. 68 (6): 784–805. doi:10.1108/00220411211277046. ISSN&nbsp;0022-0418.  
+        
+       
+       
+      External links and further reading 
+      
+       Donald O. Case, Looking for information: a survey of research on information seeking, needs and behavior, Academic Press (2002) 370 pages 
+        ISBN&nbsp;012150381-X 
+       Hepworth, Mark, Philipp Grunewald and Geoff Walton. 2014. "Research and practice: A critical reflection on approaches that underpin research into people's information behavior." Journal of Documentation 70 (6): 1039- 1053. 10.1108/JD-02-2014-0040 
+       Savolainen, Reijo. 2018. "Pioneering models for information interaction in the context of information seeking and retrieval." Journal of Documentation 74(5): 966-986. 10.1108/JD-11-2017-0154. 
+       Julien, Heidi and O’Brien, M. 2014. "Information behavior research: Where have we been, where are we going?" Canadian Journal of Information &amp; Library Science 38(4): 239–250.
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Information_behavior&amp;oldid=1060754281"
+     
+     
+    
+     
+      Categories: 
+      
+       Behavior
+       Information theory
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 errors: generic name
+       CS1 maint: multiple names: authors list
+       Articles with short description
+       Short description matches Wikidata
+       Use American English from October 2020
+       All Wikipedia articles written in American English
+       All articles with unsourced statements
+       Articles with unsourced statements from March 2020
+       Articles with unsourced statements from April 2020
+       Articles to be expanded from April 2020
+       All articles to be expanded
+       Articles with empty sections from April 2020
+       All articles with empty sections
+       Articles using small message boxes
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Deutsch
+       Español
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 17 December 2021, at 13:08&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

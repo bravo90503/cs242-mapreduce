@@ -1,0 +1,432 @@
+
+ 
+  
+   
+  Music information retrieval - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Music information retrieval 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           
+            This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages) 
+             
+             
+              
+               
+                
+                 
+                  
+                 
+                
+                 
+                  This article may be too technical for most readers to understand. Please help improve it to make it understandable to non-experts, without removing the technical details. (October 2012) (Learn how and when to remove this template message)
+                 
+               
+              
+              
+             
+              
+               
+                
+                 
+                  
+                 
+                
+                 
+                  This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources:&nbsp;"Music information retrieval"&nbsp;–&nbsp;news&nbsp;· newspapers&nbsp;· books&nbsp;· scholar&nbsp;· JSTOR (May 2021) (Learn how and when to remove this template message)
+                 
+               
+              
+              
+             
+              
+               
+                
+                 
+                  
+                 
+                
+                 
+                  This article possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed. (May 2021) (Learn how and when to remove this template message)
+                 
+               
+              
+              
+             
+            (Learn how and when to remove this template message)
+          
+        
+       
+       
+      Music information retrieval (MIR) is the interdisciplinary science of retrieving information from music. MIR is a small but growing field of research with many real-world applications. Those involved in MIR may have a background in musicology, psychoacoustics, psychology, academic music study, signal processing, informatics, machine learning, optical music recognition, computational intelligence or some combination of these.  
+      
+       
+       
+        Contents
+        
+        
+        1 Applications 
+          
+          1.1 Music classification 
+          1.2 Recommender systems 
+          1.3 Music source separation and instrument recognition 
+          1.4 Automatic music transcription 
+          1.5 Music generation 
+           
+        2 Methods used 
+          
+          2.1 Data source 
+          2.2 Feature representation 
+          2.3 Statistics and machine learning 
+           
+        3 Other issues 
+        4 Academic activity 
+        5 See also 
+        6 References 
+        7 External links 
+          
+          7.1 Example MIR applications 
+           
+        
+       
+      Applications 
+      MIR is being used by businesses and academics to categorize, manipulate and even create music.  
+      Music classification 
+      One of the classical MIR research topic is genre classification, which is categorizing music items into one of pre-defined genres such as classical, jazz, rock, etc. Mood classification, artist classification, instrument identification, and music tagging are also popular topics.  
+      Recommender systems 
+      Several recommender systems for music already exist, but surprisingly few are based upon MIR techniques, instead making use of similarity between users or laborious data compilation. Pandora, for example, uses experts to tag the music with particular qualities such as "female singer" or "strong bassline". Many other systems find users whose listening history is similar and suggests unheard music to the users from their respective collections. MIR techniques for similarity in music are now beginning to form part of such systems.  
+      Music source separation and instrument recognition 
+      Music source separation is about separating original signals from a mixture audio signal. Instrument recognition is about identifying the instruments involved in music. Various MIR systems have been developed that can separate music into its component tracks without access to the master copy. In this way e.g. karaoke tracks can be created from normal music tracks, though the process is not yet perfect owing to vocals occupying some of the same frequency space as the other instruments.  
+      Automatic music transcription 
+      Automatic music transcription is the process of converting an audio recording into symbolic notation, such as a score or a MIDI file. This process involves several audio analysis tasks, which may include multi-pitch detection, onset detection, duration estimation, instrument identification, and the extraction of harmonic, rhythmic or melodic information. This task becomes more difficult with greater numbers of instruments and a greater polyphony level.  
+      Music generation 
+      The automatic generation of music is a goal held by many MIR researchers. Attempts have been made with limited success in terms of human appreciation of the results.  
+      Methods used 
+      Data source 
+      Scores give a clear and logical description of music from which to work, but access to sheet music, whether digital or otherwise, is often impractical. MIDI music has also been used for similar reasons, but some data is lost in the conversion to MIDI from any other format, unless the music was written with the MIDI standards in mind, which is rare. Digital audio formats such as WAV, mp3, and ogg are used when the audio itself is part of the analysis. Lossy formats such as mp3 and ogg work well with the human ear but may be missing crucial data for study. Additionally some encodings create artifacts which could be misleading to any automatic analyser. Despite this the ubiquity of the mp3 has meant much research in the field involves these as the source material. Increasingly, metadata mined from the web is incorporated in MIR for a more rounded understanding of the music within its cultural context, and this recently consists of analysis of social tags for music.  
+      Feature representation 
+      Analysis can often require some summarising, and for music (as with many other forms of data) this is achieved by feature extraction, especially when the audio content itself is analysed and machine learning is to be applied. The purpose is to reduce the sheer quantity of data down to a manageable set of values so that learning can be performed within a reasonable time-frame. One common feature extracted is the Mel-Frequency Cepstral Coefficient (MFCC) which is a measure of the timbre of a piece of music. Other features may be employed to represent the key, chords, harmonies, melody, main pitch, beats per minute or rhythm in the piece. There are a number of available audio feature extraction tools Available here  
+      Statistics and machine learning 
+      
+       Computational methods for classification, clustering, and modelling — musical feature extraction for mono- and polyphonic music, similarity and pattern matching, retrieval 
+       Formal methods and databases — applications of automated music identification and recognition, such as score following, automatic accompaniment, routing and filtering for music and music queries, query languages, standards and other metadata or protocols for music information handling and retrieval, multi-agent systems, distributed search) 
+       Software for music information retrieval — Semantic Web and musical digital objects, intelligent agents, collaborative software, web-based search and semantic retrieval, query by humming / Search by sound, acoustic fingerprinting 
+       Music analysis and knowledge representation — automatic summarization, citing, excerpting, downgrading, transformation, formal models of music, digital scores and representations, music indexing and metadata.
+       
+      Other issues 
+      
+       Human-computer interaction and interfaces — multi-modal interfaces, user interfaces and usability, mobile applications, user behavior 
+       Music perception, cognition, affect, and emotions — music similarity metrics, syntactical parameters, semantic parameters, musical forms, structures, styles and music annotation methodologies 
+       Music archives, libraries, and digital collections — music digital libraries, public access to musical archives, benchmarks and research databases 
+       Intellectual property rights and music — national and international copyright issues, digital rights management, identification and traceability 
+       Sociology and Economy of music — music industry and use of MIR in the production, distribution, consumption chain, user profiling, validation, user needs and expectations, evaluation of music IR systems, building test collections, experimental design and metrics
+       
+      Academic activity 
+      
+       International Society for Music Information Retrieval (ISMIR) conference is the top-tier venue for music information retrieval research. 
+       International Conference on Acoustics, Speech, and Signal Processing (ICASSP) is also a highly relevant venue.
+       
+      See also 
+      
+       
+       
+        Audio search engine 
+        Audio mining 
+        Digital rights management 
+        Digital signal processing 
+        Ethnomusicology 
+        List of music software 
+        Multimedia information retrieval 
+        Automatic content recognition 
+        Music notation 
+        Musicology 
+        Optical music recognition 
+        Parsons code 
+        Sound and music computing
+        
+       
+      References 
+      
+       
+       
+         
+         ^ A. Klapuri and M. Davy, editors. Signal Processing Methods for Music Transcription. Springer-Verlag, New York, 2006.  
+         ^ Eidenberger, Horst (2011). “Fundamental Media Understanding”, atpress. ISBN&nbsp;978-3-8423-7917-6.  
+         ^ David Moffat, David Ronan, and Joshua D Reiss. "An Evaluation of Audio Feature Extraction Toolboxes". In Proceedings of the International Conference on Digital Audio Effects (DAFx), 2016.  
+        
+       
+       
+      
+       Michael Fingerhut (2004). "Music Information Retrieval, or how to search for (and maybe find) music and do away with incipits", IAML-IASA Congress, Oslo (Norway), August 8–13, 2004.
+       
+      External links 
+      
+       International Society for Music Information Retrieval 
+       Music Information Retrieval research 
+       J. Stephen Downie: Music information retrieval 
+       M. Schedl, E. Gómez and J. Urbano: Music Information Retrieval: Recent Developments and Applications 
+       Nicola Orio: Music Retrieval: A Tutorial and Review 
+       Intelligent Audio Systems: Foundations and Applications of Music Information Retrieval, introductory course at Stanford University's Center for Computer Research in Music and Acoustics 
+       Micheline Lesaffre: Music Information Retrieval: Conceptual Framework, Annotation and User behavior. 
+       The Echo Nest: a company specialising in MIR research and applications. 
+       Imagine Research&nbsp;: develops platform and software for MIR applications  
+       AudioContentAnalysis.org: MIR resources and matlab code  
+       Minz Won, Janne Spijkervet, and Keunwoo Choi: Tutorial - Music classification: Beyond Supervised Learning, Towards Real-world Applications
+       
+      Example MIR applications 
+      
+       Musipedia — A melody search engine that offers several modes of searching, including whistling, tapping, piano keyboard, and Parsons code. 
+       Peachnote — A melody search engine and n-gram viewer that searches through digitized music scores
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Music_information_retrieval&amp;oldid=1067946434"
+     
+     
+    
+     
+      Categories: 
+      
+       Music information retrieval
+       Music software
+      
+     
+     
+      Hidden categories: 
+      
+       Wikipedia articles that are too technical from October 2012
+       All articles that are too technical
+       Articles needing additional references from May 2021
+       All articles needing additional references
+       Articles that may contain original research from May 2021
+       All articles that may contain original research
+       Articles with multiple maintenance issues
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       Deutsch
+       Eesti
+       Español
+       Hrvatski
+       Suomi
+       Українська
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 25 January 2022, at 23:46&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

@@ -1,0 +1,715 @@
+
+
+ 
+   
+   
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+  Ranking the research productivity of library and information science faculty and schools: An evaluation of data sources and research methods - Meho - 2005 - Journal of the American Society for Information Science and Technology - Wiley Online Library 
+   
+  
+  
+  
+  
+   
+   
+   
+   
+   
+   
+   
+    
+    
+    
+    
+    
+    
+   
+    
+   
+   
+   
+   
+   
+   
+   
+  
+  
+        
+   
+   
+   
+  
+  
+  
+  
+   
+    
+    Skip to Article Content 
+    Skip to Article Information 
+    
+   
+   
+    
+     
+      
+       
+        
+        
+         
+           
+            
+             
+              
+              Working off-campus? Learn about our remote access options 
+              
+             
+            
+          
+         
+         
+        
+       
+        
+          
+           
+             
+            
+             
+            
+          
+           
+            
+            
+             
+             
+              
+               
+                Search withinThis JournalAnywhere
+                
+                 
+                  
+                   
+                    Search term
+                    
+                    
+                    
+                      Advanced Search Citation Search
+                    
+                   
+                  
+                 
+                  
+                   
+                    Search term
+                    
+                    
+                      Advanced Search Citation Search
+                    
+                   
+                  
+                
+               
+              
+             
+             
+            
+            
+             
+              
+               
+               
+              
+            
+             
+              
+                 Login / Register  
+               
+              
+             
+            
+           
+         
+        
+        
+       
+      
+     
+     
+       
+       
+        
+         
+          
+           
+            
+             
+               
+                 
+              
+             
+            
+           
+          
+          
+         
+         
+         
+          
+            
+             
+             
+              
+               
+                 
+                
+                
+                  
+                  
+                   
+                    Journal of the American Society for Information Science and Technology
+                   Volume 56, Issue 12 p. 1314-1331
+                   
+                   
+                  
+                   Research Article
+                   
+                  Ranking the research productivity of library and information science faculty and schools: An evaluation of data sources and research methods 
+                   
+                   
+                    Lokman I. Meho, 
+                      
+                      Lokman I. Meho 
+                       
+                       meho@indiana.edu 
+                       
+                      School of Library and Information Science, Indiana University, 1320 E. 10th Street, LI 011, Bloomington, IN 47405Search for more papers by this author
+                     Kristina M. Spurgin, 
+                      
+                      Kristina M. Spurgin 
+                       
+                       kristina@infomuse.net 
+                       
+                      School of Information and Library Science, University of North Carolina, 201 Manning Hall, CB# 3360, Chapel Hill, NC 27599-3360Search for more papers by this author
+                     
+                    
+                   
+                   
+                    
+                     
+                     
+                      Lokman I. Meho, 
+                        
+                        Lokman I. Meho 
+                         
+                         meho@indiana.edu 
+                         
+                        School of Library and Information Science, Indiana University, 1320 E. 10th Street, LI 011, Bloomington, IN 47405Search for more papers by this author
+                       Kristina M. Spurgin, 
+                        
+                        Kristina M. Spurgin 
+                         
+                         kristina@infomuse.net 
+                         
+                        School of Information and Library Science, University of North Carolina, 201 Manning Hall, CB# 3360, Chapel Hill, NC 27599-3360Search for more papers by this author
+                       
+                      
+                     
+                    
+                   
+                  
+                   
+                    First published: 04 August 2005
+                    
+                   
+                    https://doi.org/10.1002/asi.20227
+                   
+                   
+                    Citations: 38
+                   
+                  
+                 
+                
+                
+                 
+                  
+                   
+                    
+                     Read the full text
+                    
+                    
+                     About
+                     
+                      
+                     
+                    
+                   
+                   
+                    
+                     PDF
+                     
+                    
+                     Tools
+                     
+                      
+                       Request permission
+                       Export citation
+                       Add to favorites
+                       Track citation
+                      
+                     
+                     
+                    
+                    
+                     ShareShare
+                      
+                      
+                       Give accessShare full text access
+                      
+                      
+                       
+                        
+                         
+                          
+                          Share full-text access
+                         
+                         
+                          
+                           
+                            Please review our Terms and Conditions of Use and check box below to share full-text version of article.
+                            
+                             I have read and accept the Wiley Online Library Terms and Conditions of Use
+                            
+                           
+                           
+                           
+                            Shareable Link
+                            Use the link below to share a full-text version of this article with your friends and colleagues. Learn more.
+                            
+                             
+                              
+                              
+                              
+                             Copy URL
+                            
+                            
+                           
+                          
+                         
+                        
+                       
+                       
+                      Share a linkShare on
+                      
+                       Facebook
+                       Twitter
+                       Linked In
+                       Reddit
+                       Wechat
+                      
+                     
+                     
+                   
+                  
+                 
+                
+                
+                
+                  
+                   
+                   Abstract 
+                    
+                    This study evaluates the data sources and research methods used in earlier studies to rank the research productivity of Library and Information Science (LIS) faculty and schools. In doing so, the study identifies both tools and methods that generate more accurate publication count rankings as well as databases that should be taken into consideration when conducting comprehensive searches in the literature for research and curricular needs. With a list of 2,625 items published between 1982 and 2002 by 68 faculty members of 18 American Library Association– (ALA-) accredited LIS schools, hundreds of databases were searched. Results show that there are only 10 databases that provide significant coverage of the LIS indexed literature. Results also show that restricting the data sources to one, two, or even three databases leads to inaccurate rankings and erroneous conclusions. Because no database provides comprehensive coverage of the LIS literature, researchers must rely on a wide range of disciplinary and multidisciplinary databases for ranking and other research purposes. The study answers such questions as the following: Is the Association of Library and Information Science Education's (ALISE's) directory of members a reliable tool to identify a complete list of faculty members at LIS schools? How many and which databases are needed in a multifile search to arrive at accurate publication count rankings? What coverage will be achieved using a certain number of databases? Which research areas are well covered by which databases? What alternative methods and tools are available to supplement gaps among databases? Did coverage performance of databases change over time? What counting method should be used when determining what and how many items each LIS faculty and school has published? The authors recommend advanced analysis of research productivity to provide a more detailed assessment of research productivity of authors and programs. 
+                    
+                   
+                 
+                 
+                  
+                 
+                 
+                  
+                   
+                    
+                     
+                      Citing Literature
+                     
+                    
+                     
+                    
+                   
+                  
+                 
+                
+               
+               
+                 
+                 
+                  
+                 
+                 
+                  Volume56, Issue12
+                  October 2005
+                  Pages 1314-1331 
+                  
+                 
+                 
+                  
+                    
+                      
+                   
+                  
+                 
+                
+                 
+                  
+                   Related
+                   Information
+                  
+                  
+                   
+                   
+                    
+                   
+                   
+                    
+                     
+                    
+                   
+                  
+                 
+                
+                 
+                  
+                   
+                    
+                      
+                        
+                     
+                    
+                   
+                  
+                
+               
+              
+             
+             
+             
+              
+               
+                Close Figure Viewer
+               
+               
+                Return to Figure
+               
+              
+              
+               
+                
+                 
+                Previous FigureNext Figure
+                
+               
+               
+                
+                 Caption
+                
+                
+               
+              
+              
+             
+            
+             Download PDF
+             
+           
+          
+          
+         
+        
+       
+      
+     
+     
+      
+       
+        
+         
+         
+          Additional links  
+         
+          
+            
+             
+             About Wiley Online Library 
+              
+              Privacy Policy 
+              Terms of Use 
+              Cookies 
+              Accessibility 
+              Publishing Policies 
+              
+             
+           
+            
+             
+             Help &amp; Support 
+              
+              Contact Us 
+              Training and Support 
+              DMCA &amp; Reporting Piracy 
+              
+             
+           
+            
+             
+             Opportunities 
+              
+              Subscription Agents 
+              Advertisers &amp; Corporate Partners 
+              
+             
+           
+            
+             
+             Connect with Wiley 
+              
+              The Wiley Network 
+              Wiley Press Room 
+              
+             
+           
+          
+          
+         
+         
+         
+          
+            
+             
+             
+              Copyright © 1999-2022 John Wiley &amp; Sons, Inc. All rights reserved
+              
+             
+              
+             
+           
+          
+          
+         
+        
+       
+      
+      
+     
+     The full text of this article hosted at iucr.org is unavailable due to technical difficulties.  
+     
+     
+         
+       
+        
+         
+        
+       
+       
+        
+        
+       Log in to Wiley Online Library 
+        
+        
+          
+          
+          
+          
+          
+          
+           Email or Customer ID 
+           
+           
+           
+           
+          
+          
+           Password 
+           
+            
+          
+           Forgot password?  
+          
+          
+          
+             
+         
+         
+         
+         
+        
+         NEW USER &gt;   INSTITUTIONAL LOGIN &gt;  
+        
+       
+      
+     
+     
+       
+       
+        
+         
+        
+       Change Password 
+       
+       
+        
+        
+          
+          
+          
+           Old Password 
+           
+            
+          
+          
+           New Password 
+           
+            
+           Too Short Weak Medium Strong Very Strong Too Long 
+           
+          
+         
+          
+        
+        
+        Password Changed Successfully 
+        Your password has been changed 
+        
+       
+      
+     
+     
+       
+       
+        
+        
+       Create a new account 
+       
+       
+       
+         
+         
+          Email or Customer ID 
+          
+          
+         
+         
+          
+        
+        
+         Returning user  
+        
+       
+      
+     
+     
+      
+        
+        
+         
+        
+       Forgot your password? 
+       Enter your email address below.  
+       
+       
+        
+       
+         
+         
+          
+           Email or Customer ID 
+           
+           
+          
+         
+         
+         
+         
+          
+        
+        
+        
+        Please check your email for instructions on resetting your password. If you do not receive an email within 10 minutes, your email address may not be registered, and you may need to create a new Wiley Online Library account. 
+        
+       
+      
+     
+    
+     
+     
+      
+      
+      Request Username 
+       
+       Can't sign in? Forgot your username? 
+       Enter your email address below and we will send you your username 
+        
+       
+         
+         
+          Email or Customer ID 
+          
+          
+         
+         
+         
+         
+         Close 
+        
+        
+       
+       
+       If the address matches an existing account you will receive an email with instructions to retrieve your username 
+       
+      
+      
+     
+    
+   
+  
+   
+   
+   
+   
+  
+    
+ 

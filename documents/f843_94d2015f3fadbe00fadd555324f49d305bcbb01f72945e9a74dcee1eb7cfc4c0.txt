@@ -1,0 +1,375 @@
+
+ 
+  
+   
+  Informacijska nauka - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+    
+    
+   Informacijska nauka 
+    
+    
+     Iz Wikipedije, slobodne enciklopedije
+     
+     
+     
+     Idi na navigaciju Idi na pretragu 
+    
+     
+      
+       
+         
+        
+         
+          
+         Drevna biblioteka u Aleksandriji, rani vid spremanja i uzimanja informacija.
+        
+       
+       
+      Informacijska nauka&nbsp;je međudisciplinarna&nbsp;oblast koja se primarno bavi analiziranjem, kolekcijom, klasifikacijom, manipulacojom, spremanjem, skupljanjem, postavljanjem, širenjem te zaštitom informacija Praktičari unutar oblasti studiraju primjenu i korištenje znanja u organizacijama zajedno sa interakcijom između ljudi, organizacija&nbsp;i bilo kojih postojećih informativnih sistema sa ciljem kreiranja izmjene, poboljšanja ili shvatanja informacijskih sistema.&nbsp;Informacijska nauka se često (pogrešno) smatra granom bibliotekarstva; ipak, ovo prethodi računarstvu i zapravo je velika, međudisciplinarna nauka, koja obuhvata ne samo aspekte računarstva (računarske nauke), nego i često raznolike oblasti kao što su nauka o arhiviranju, kognitivna nauka, komerc, komunikaciju, zakon, bibliotekarstvo, muzeologija, menadžment, matematika, filozofija, javna politika, te društvene nauke. 
+      Informacijska nauka se treba razlikovati od termina informacijska teorija i bibliotekarstvo. Informacijska teorija jeste studija o osebujnim matematičkim konceptima informacija. Informacijska nauka kao akademska disciplina često se podučava u kombinaciji sa naukom o bibliotekarstvu i računarstvom. Nauka o bibliotekarstvu je kao takva oblast povezana sa širenjem informacija kroz biblioteke koristeći principe informatike. Informacijska nauka se suočava sa svim procesima i tehnikama vezanim za ciklus informacija, uključujući hvatanje, kreiranje, pakovanje, širenje, transformaciju, refiniranje, repakiranje, korištenje, spremanje, komunikaciju, zaštitu, predstavljanje itd. u svakom mogućem smislu.  
+      
+       
+       
+        Sadržaj/Садржај
+        
+        
+        1 Temelji 
+          
+          1.1 Obim i pristup 
+          1.2 Definicije informatike 
+           
+        2 Vidi također 
+        3 Izvori 
+        4 Dalje čitanje 
+        5 Vanjske veze 
+        
+       
+      Temelji 
+      Obim i pristup 
+      Informacijska nauka se usredotočava na razumijevanje problema iz perspektive&nbsp;umiješanih aktera i kasnije u primjenu informacija i ostalih tehnologija po potrebi.&nbsp;Drugim riječima, ona dodiruje sistemske probleme prvo umjesto pojedinih dijelova tehnologija unutar sistema. U ovom smislu, moguće je vidjeti informativnu nauku kao odaziv na tehnološki determinizam, vjerovanje da se tehnologija "razvija po svojim vlastitim zakonima, da realizira svoj vlastiti potencijal, ograničen samo materijalnim resursima dostupnim i kreativnošću njenih razvojnih programera. Mora se stoga smatrati kao autonoman sistem koji nadgleda i naposljetku prožima sve ostale podsisteme društva". 
+      Mnogo univerziteta ima cijele koledže, odjele ili škole posvećene izučavanju informatike, dok brojni informatičko-naučni učenjaci rade u disciplinama kao što su&nbsp;komunikacija, računarstvo, zakon, bibliotekarstvo, sociologija. Nekoliko instituta je formiralo tzv. I-School Caucus, ali brojni drugi osim ovih također imaju&nbsp;žarišta&nbsp;opširnih informacija. 
+      Unutar informacijske nauke, trenutni problemi od&nbsp;2013. uključuju:  
+      
+       interakciju između čovjeka i računara 
+       groupware 
+       semantički web 
+       dizajn osjetljiv na vrijednost 
+       procesi interaktivnog dizajna 
+       način na koji ljudi generiraju, koriste i nalaze informacije
+       
+      Definicije informatike 
+      Rana definicija informatike (idući unazad do 1968. godine, kada je Američki dokumentacijski institut izmijenio svoje ime u&nbsp;Američko društvo za informacijske nauke i tehnologiju) tvrdi:  
+      
+       
+        "Informacijska nauka je takva disciplina koja istražuje svojstva i ponašanja informacija, sile koje upravljaju tok informacija, i načine procesiranja informacija za optimalnu pristupnost i koristivost. Ona se bavi sa tim tijelom znanja vezanim za ishodište, skupljanje, organizaciju, spremanje, preuzimanje, interpretaciju, prijenos, transformaciju, i korištenje informacija. Ovo uključuje istraživanje informacijskih reprezentacija u prirodnim i vještačkim sistemima, korištenje kodova za efikasno prebacivanje poruke, te studiranje informacijskih procesnih uređaja i tehnika kao što su računari i njihovi programski sistemi. To je međudisciplinarna nauka izvedena iz i povezana sa takvim poljima kao što su matematika, logika, lingvistika, psihologija, računarska tehnologija, operacijsko istraživanje, grafička umjetnost, komunikacije, bibliotekarstvo, upravljanje, i ostala slična polja. Ona ima istovremeno čistu naučnu komponentu, koja istražuje temu bez obzira na njezine primjene, i komponentu primijenjene znanosti, koja razvija usluge i proizvode." (Borko, 1968, p.3).
+       
+       
+      Vidi također 
+      Izvori 
+       
+        
+        ↑ Stock, W.  
+        ↑ „Web Dictionary of Cybernetics and Systems: Technological Determinism”. Principia Cibernetica Web. Arhivirano iz originala 2011-11-12. https://web.archive.org/web/20111112233108/http://pespmc1.vub.ac.be/ASC/TECHNO_DETER.html. Pristupljeno 2011-11-28.&nbsp;  
+        ↑ Borko, H. (1968).   
+       
+      
+      Buckland, Michael (2011). What kind of science can information science be? Journal of the American Society for Information Science and Technology, published as early view October 2011. 
+      Ellis, D., Allen, D. and Wilson, T. 1999. Information Science and Information Systems: Conjunct Subjects Disjunct Disciplines. JASIS 50(12):1095-1107 (see also: http://www.cais-acsi.ca/proceedings/2000/monarch_2000.pdf Arhivirano 2012-04-25 na Wayback Machine-u ) 
+      Vickery; B. C. (1973). Information Systems. London: Butterworth.  
+      Dalje čitanje 
+      
+       Khosrow-Pour, Mehdi (2005-03-22). Encyclopedia of Information Science and Technology. Idea Group Reference. ISBN&nbsp;1-59140-553-X.&nbsp;
+       
+      Vanjske veze 
+      
+       Knowledge Map of Information Science 
+       Journal of Information Science 
+       Digital Library of Information Science and Technology open access archive for the Information Sciences 
+       Current Information Science Research at U. Arhivirano 2012-05-21 na Wayback Machine-uS. Geological Survey Arhivirano 2012-05-21 na Wayback Machine-u 
+       Introduction to Information Science 
+       The Nitecki Trilogy Arhivirano 2011-03-19 na Wayback Machine-u 
+       Information science at the University of California at Berkeley in the 1960s: a memoir of student days 
+       Chronology of Information Science and Technology 
+       LIBRES - Library and Information Science Research Electronic Journal - Curtin University of Technology, Perth, Western Australia Arhivirano 2014-06-05 na Wayback Machine-u
+          
+     
+     
+      
+      
+     
+      Izvor: https://sh.wikipedia.org/w/index.php?title=Informacijska_nauka&amp;oldid=41220723
+     
+     
+    
+     
+      Kategorije: 
+      
+       Informacijske nauke
+       Društvene nauke
+      
+     
+     
+      Sakrivena kategorija: 
+      
+       Webarchive template wayback links
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigacijski meni 
+    
+     
+      Lični/osobni alati  
+      
+      
+       Niste prijavljeni
+       Razgovor sa IP adresom
+       Doprinosi
+       Napravi račun
+       Prijavi me
+       
+      
+     
+     
+      
+       Imenski prostori  
+       
+       
+        Stranica
+        Razgovor
+        
+       
+      
+      
+       
+       srpskohrvatski / српскохрватски prošireno sažeto  
+       
+        
+       
+      
+     
+     
+      
+       Pregledi  
+       
+       
+        Čitaj
+        Uredi
+        Uredi kôd
+        Historija/Историја
+        
+       
+      
+      
+       
+       Više prošireno sažeto  
+       
+        
+       
+      
+      
+       
+        Traži-Тражи  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Orijentacija-Оријентација  
+      
+      
+       Glavna stranica
+       Izabrani članci
+       Nedavne izmene
+       Slučajna strana
+       
+      
+     
+     
+      interakcija - интеракција  
+      
+      
+       Pomoć/Помоћ
+       Pijaca/Пијаца
+       Portal zajednice
+       
+      
+     
+     
+      Alatke-Алатке  
+      
+      
+       Što vodi ovdje/Шта води овде?
+       Povezane izmjene
+       Posebno/Посебно
+       Verzije članka/Верзије чланка
+       Podaci o stranici
+       Citiraj ovu stranicu
+       Stavka na Wikipodacima
+       
+      
+     
+     
+      Ispis/izvoz  
+      
+      
+       Napravi knjigu
+       Preuzmi kao PDF
+       Verzija za ispis
+       
+      
+     
+     
+      Na drugim projektima  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Na drugim jezicima  
+      
+      
+       Afrikaans
+       العربية
+       Asturianu
+       Azərbaycanca
+       تۆرکجه
+       Башҡортса
+       Български
+       Català
+       Čeština
+       Cymraeg
+       Dansk
+       Deutsch
+       Ελληνικά
+       English
+       Español
+       Eesti
+       Euskara
+       فارسی
+       Suomi
+       Français
+       Galego
+       עברית
+       हिन्दी
+       Magyar
+       Bahasa Indonesia
+       日本語
+       ქართული
+       한국어
+       Lietuvių
+       Latviešu
+       Македонски
+       Bahasa Melayu
+       Nederlands
+       Norsk bokmål
+       ਪੰਜਾਬੀ
+       Polski
+       Português
+       Română
+       Русский
+       Slovenčina
+       Slovenščina
+       Shqip
+       Српски / srpski
+       Svenska
+       தமிழ்
+       ไทย
+       Türkçe
+       Українська
+       اردو
+       Tiếng Việt
+       中文
+       粵語
+       
+      
+       Uredi veze
+       
+      
+     
+    
+   
+   
+    
+     Ova stranica je zadnji put izmijenjena 16:37, 1 oktobar 2021. 
+    Tekst je dostupan pod Creative Commons Attribution/Share-Alike licencom; dodatni uslovi se mogu primijeniti. Za detalje pogledajte uslove korištenja. 
+    
+    
+    Politika privatnosti - Политика приватности 
+    O Wikipediji - О Википедији 
+    Odricanje odgovornosti 
+    Mobilni prikaz 
+    Programeri 
+    Statistika 
+    Izjava o kolačićima 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

@@ -1,0 +1,625 @@
+
+ 
+  
+   
+  Digital literacy - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Digital literacy 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       One's fluency in subjects involving digital matters
+       
+      Digital literacy refers to an individual's ability to find, evaluate, and clearly communicate information through typing and other media on various digital platforms. It is evaluated by an individual's grammar, composition, typing skills and ability to produce text, images, audio and designs using technology. The American Library Association (ALA) defines digital literacy as "the ability to use information and communication technologies to find, evaluate, create, and communicate information, requiring both cognitive and technical skills." While digital literacy initially focused on digital skills and stand-alone computers, the advent of the internet and use of social media, has resulted in the shift in some of its focus to mobile devices. Similar to other expanding definitions of literacy that recognize cultural and historical ways of making meaning, digital literacy does not replace traditional forms of literacy, but instead builds upon and expands the skills that form the foundation of traditional forms of literacy. Digital literacy should be considered to be a part of the path to knowledge. 
+      Digital literacy is built on the expanding role of social science research in the field of literacy as well as on concepts of visual literacy, computer literacy, and information literacy. 
+      Overall, digital literacy shares many defining principles with other fields that use modifiers in front of literacy to define ways of being and domain-specific knowledge or competence. The term has grown in popularity in education and higher education settings and is used in both international and national standards.  
+      
+       
+       
+        Contents
+        
+        
+        1 History 
+          
+          1.1 Digital literacy 
+           
+        2 Academic and pedagogical concepts 
+          
+          2.1 21st-century skills 
+           
+        3 In Society 
+          
+          3.1 Digital divide 
+          3.2 Participation gap 
+          3.3 Digital rights 
+          3.4 Digital Citizenship 
+          3.5 Digital natives and digital immigrants 
+           
+        4 Applications of digital literacy 
+          
+          4.1 In education 
+            
+            4.1.1 Digital competences 
+            4.1.2 Digital writing 
+             
+          4.2 In the workforce 
+          4.3 In entrepreneurship 
+           
+        5 Global impact 
+        6 See also 
+        7 References 
+        8 Bibliography 
+        9 External links 
+        
+       
+      History 
+      Digital literacy 
+      Digital literacy is often discussed in the context of its precursor media literacy. Media literacy education began in the United Kingdom and the United States as a result of war propaganda in the 1930s and the rise of advertising in the 1960s, respectively. Manipulative messaging and the increase in various forms of media further concerned educators. Educators began to promote media literacy education in order to teach individuals how to judge and assess the media messages they were receiving. The ability to critique digital and media content allows individuals to identify biases and evaluate messages independently. 
+      In order for individuals to evaluate digital and media messages independently, they must demonstrate digital and media literacy competence. Renee Hobbs developed a list of skills that demonstrate digital and media literacy competence. Digital and media literacy includes the ability to examine and comprehend the meaning of messages, judging credibility, and assess the quality of a digital work. A digitally literate individual becomes a socially responsible member of their community by spreading awareness and helping others find digital solutions at home, work, or on a national platform. Digital literacy doesn't just pertain to reading and writing on a digital device. It also involves knowledge of producing other forces of media, like recording and uploading video.  
+      Academic and pedagogical concepts 
+      In academia digital literacy is a part of the computing subject area alongside computer science and information technology. 
+      Given the many varied implications that digital literacy has on students and educators, pedagogy has responded by emphasizing four specific models of engaging with digital mediums. Those four models are text-participating, code-breaking, text-analyzing, and text-using. These methods present students (and other learners) with the ability to fully engage with the media, but also enhance the way the individual is able to relate the digital text to their lived experiences.  
+      21st-century skills 
+      
+      
+       Main article: 21st century skills
+       
+      Digital literacy requires certain skill sets that are interdisciplinary in nature. Warschauer and Matuchniak (2010) list three skill sets, or 21st century skills, that individuals need to master in order to be digitally literate: information, media, and technology; learning and innovation skills; and life and career skills.. Aviram et al. assert that order to be competent in Life and Career Skills, it is also necessary to be able to exercise flexibility and adaptability, initiative and self-direction, social and cross-cultural skills, productivity and accountability, leadership and responsibility. Digital literacy is composed of different literacies, because of this fact there is no need to search for similarities and differences. Some of these literacies are media literacy and information literacy. 
+      Aviram &amp; Eshet-Alkalai contend that there are five types of literacies that are encompassed in the umbrella term that is digital literacy.  
+      
+       Photo-visual literacy: the ability to read and deduce information from visuals. 
+       Reproduction literacy: the ability to use digital technology to create a new piece of work or combine existing pieces of work together to make it your own. 
+       Branching literacy: the ability to successfully navigate in the non-linear medium of digital space. 
+       Information literacy: the ability to search, locate, assess and critically evaluate information found on the web and on-shelf in libraries. 
+       Socio-emotional literacy: the social and emotional aspects of being present online, whether it may be through socializing, and collaborating, or simply consuming content.
+       
+      In Society 
+      Digital literacy is necessary for the correct use of various digital platforms. Literacy in social network services and Web 2.0 sites helps people stay in contact with others, pass timely information, and even buy and sell goods and services. Digital literacy can also prevent people from being taken advantage of online, as photo manipulation, E-mail frauds and phishing often can fool the digitally illiterate, costing victims money and making them vulnerable to identity theft. However, those using technology and the internet to commit these manipulations and fraudulent acts possess the digital literacy abilities to fool victims by understanding the technical trends and consistencies; it becomes important to be digitally literate to always think one step ahead when utilizing the digital world. 
+      The emergence of Social media has paved the way for people to communicate and connect with one another in new and different ways. Websites like Facebook and Twitter, as well as personal websites and blogs, have enabled a new type of journalism that is subjective, personal, and "represents a global conversation that is connected through its community of readers." These online communities foster group interactivity among the digitally literate. Social media also help users establish a digital identity or a "symbolic digital representation of identity attributes." Without digital literacy or the assistance of someone who is digitally literate, one cannot possess a personal digital identity (this is closely allied to web literacy). 
+      Research has demonstrated that the differences in the level of digital literacy depend mainly on age and education level, while the influence of gender is decreasing. Among young people, digital literacy is high in its operational dimension. Young people rapidly move through hypertext and have a familiarity with different kinds of online resources. However, the skills to critically evaluate content found online show a deficit. With the rise of digital connectivity amongst young people, concerns of digital safety are higher than ever. A study conducted in Poland, commissioned by the Ministry of National Knowledge measured the digital literacy of parents in regards to digital and online safety. It concluded that parents often overestimate their level of knowledge, but clearly had an influence on their children’s attitude and behavior towards the digital world. It suggests that with proper training programs parents should have the knowledge in teaching their children about the safety precautions necessary to navigate the digital space.  
+      Digital divide 
+      
+      
+       Main article: Digital divide
+       
+      Digital divide refers to the disparities among people - such as those living in developed and developing world - concerning access to and the use of information and communication technologies (ICT), particularly computer hardware, software, and the Internet. Individuals within societies that lack economic resources to build ICT infrastructure do not have adequate digital literacy, which means that their digital skills are limited. The divide can be explained by Max Weber's social stratification theory, which focuses on access to production rather ownership of the capital. The former becomes access to ICT so that an individual can accomplish interaction and produce information or create a product and that, without it, he or she cannot participate in the learning, collaboration, and production processes. Digital literacy and digital access have become increasingly important competitive differentiators for individuals using the internet meaningfully. In an article by Jen Schradie called, The Great Class Wedge and the Internet's Hidden Costs, she discusses how social class can affect digital literacy.&nbsp; This creates a digital divide. 
+      Research published in 2012 found that the digital divide, as defined by access to information technology, does not exist amongst youth in the United States. Young people report being connected to the internet at rates of 94-98%. There remains, however, a civic opportunity gap, where youth from poorer families and those attending lower socioeconomic status schools are less likely to have opportunities to apply their digital literacy. The digital divide is also defined as emphasizing the distinction between the “haves” and “have-nots,” and presented all data separately for rural, urban, and central-city categories. Also, existing research on the digital divide reveals the existence of personal categorical inequalities between young and old people. An additional interpretation identified the gap between technology accessed by youth outside and inside the classroom.  
+      Participation gap 
+      Media theorist Henry Jenkins coined the term participation gap and distinguished the participation gap from the digital divide. According to Jenkins, in countries like the United States, where nearly everyone has access to the internet, the concept of digital divide does not provide enough insight. As such, Jenkins uses the term participation gap to develop a more nuanced view of access to the internet. Instead of referring to the "have's" vs "have-nots" when referring to digital technologies, Jenkins proposes the participation gap refer to people who have sustained access to and competency with digital technologies due to Media Convergence. Jenkins states that students learn different sets of technology skills if they only have access to the internet in a library or school. In particular, Jenkins observes that students who have access to the internet at home have more opportunities to develop their skills and have fewer limitations, such as computer time limits and website filters commonly used in libraries. The participation gap is geared toward millennials. As of 2008, when this study was created they were the oldest generation to be born in the age of technology. As of 2008 more technology has been integrated into the classroom. The issue with digital literacy is that students having access to the internet at home that is equivalent to what they interact with in class. Some students only have access while at school and in a library. They aren't getting enough or the same quality of the digital experience. This creates the participation gap, along with an inability to understand digital literacy.  
+      Digital rights 
+      
+      
+       Main article: Digital rights
+       
+      Digital rights are an individual’s rights that allow them freedom of expression and opinion in an online setting, with roots centered on human theoretical and practical rights. It encompasses the individual’s privacy rights when using the Internet, and is essentially is responsible for how an individual uses different technologies and how content is distributed and mediated. Government officials and policymakers use digital rights as a springboard for enacting and developing policies and laws in order to obtain rights online the same way we obtain rights in real life. Private organizations who possess their own online infrastructures also develop rights specific to their property. In today’s world, most, if not all materials have shifted into an online setting and public policy has had a major influence in supporting this movement. Going beyond traditional academics, ethical rights such as copyright, citizenship and conversation can be attributed to digital literacy because tools and materials nowadays can be easily copied, borrowed, stolen, and repurposed, as literacy is collaborative and interactive, especially in a networked world.  
+      Digital Citizenship 
+      Digital Citizenship refers to the "right to participate in society online". It is connected to the notion of state-based citizenship which is determined by the country or region in which one was born in as well as the idea of being a 'dutiful citizen' who participates in the electoral process and online through mass media. A literate digital citizen possesses the skills to read, write and interact with online communities via screens and has an orientation for social justice. This is best described in the article Digital Citizenship during a Global Pandemic: Moving beyond Digital Literacy, "Critical digital civic literacy, as is the case of democratic citizenship more generally, requires moving from learning about citizenship to participating and engaging in democratic communities face‐to‐face, online, and in all the spaces in between." Through the various digital skills and literacy one gains, one is able to effectively solve social problems which might arise through social platforms. Additionally Digital Citizenship has three online dimensions: higher wages, democratic participation, and better communication opportunities which arise from the digital skills acquired. Digital citizenship also refers to online awareness and the ability to be safe and responsible online. This idea came from the rise of social media in the past decade which has enhanced global connectivity and faster interaction. However with this phenomenon the existence of fake news, hate speeches, cyberbullying, hoaxes and so on has emerged as well. Hence, this has created a codependent relationship between digital literacy and digital citizenship.  
+      Digital natives and digital immigrants 
+      
+       
+         
+        
+         
+          
+         digital natives using a smart car
+        
+       
+       
+      Marc Prensky invented and popularized the terms digital natives and digital immigrants to describe respectively an individual born into the digital age and one adopting the appropriate skills later in life. A digital immigrant refers to an individual who adopts technology later in life. These two groups of people have had different interactions with technology since birth, a generational gap. This directly links to their individual unique relationship with digital literacy. Digital natives brought upon the creation of ubiquitous information systems (UIS).&nbsp; These systems include mobile phones, laptop computers and personal digital assistants.&nbsp; They have also expanded to cars and buildings (smart cars and smart homes), creating a new unique technological experience. 
+      Carr claims that digital immigrants, although they adapt to the same technology as natives, possess a sort of accent which restricts them from communicating the way natives do. In fact, research shows that, due to the brain's malleable nature, technology has changed the way today's students read, perceive, and process information. Marc Prensky believes this is a problem because today's students have a vocabulary and skill set educators (who at the time of his writing would be digital immigrants) may not fully understand. 
+      Statistics and popular representations of the elderly portray them as digital immigrants. For example, Canada in 2010 found that 29% of its citizens 75 years of age and older, and 60% of its citizens between the ages of 65-74 had browsed the internet in the past month. Conversely, internet activity reached almost 100% among its 15 through 24-year-old citizens.  
+      Applications of digital literacy 
+      In education 
+      Schools are continuously updating their curricula to keep up with accelerating technological developments. This often includes computers in the classroom, the use of educational software to teach curricula, and course materials being made available to students online. Students are often taught literacy skills such as how to verify credible sources online, cite web sites, and prevent plagiarism. Google and Wikipedia are frequently used by students "for everyday life research," and are just two common tools that facilitate modern education. Digital technology has impacted the way material is taught in the classroom. With the use of technology rising over the past decade, educators are altering traditional forms of teaching to include course material on concepts related to digital literacy. Educators have also turned to social media platforms to communicate and share ideas with one another. Social media and social networks have become a crucial part of the information landscape. Many students are using social media to share their areas of interests, which has been shown to be helpful in boosting their level of engagement with educators. A study on 268 eighth graders from two Moscow schools showed that a combination of social media use and activities guided by teachers boosted the level of performance in students. The students were encouraged to search and develop their social network skills to solve educational issues and boost cognition. The speed of access and enormous amounts of data found from these networks has made social media an invaluable cognitive tool. New standards have been put into place as digital technology has augmented classrooms, with many classrooms being designed to use smartboards and audience response systems in replacement of traditional chalkboards or whiteboards. “The development of Teacher’s Digital Competence (TDC) should start in initial teacher training, and continue throughout the following years of practice. All this with the purpose of using Digital Technologies (DT) to improve teaching and professional development.” New models of learning are being developed with digital literacy in mind. Several countries have based their models with the emphasis of finding new digital didactics to implement as they find more opportunities and trends through surveys conducted with educators and college instructors. It has been found that teachers from higher levels of educational institutes see digital literacy and digital competency as more important than ever when advancing the movement of society into a digitized one. Additionally, these new models of learning in the classroom has aided in promoting global connectivity and has enabled students to become globally minded citizens. According to the study Building Digital Literacy Bridges Connecting Cultures and Promoting Global Citizenship in Elementary Schools through School-Based Virtual Field Trips by Stacy Delacruz, Virtual Field Trips (VFT) a new form of multimedia presentation has gained popularity over the years in that they offer the "opportunity for students to visit other places, talk to experts and participate in interactive learning activities without leaving the classroom". They have also been used as a vessel for supporting cross-cultural collaboration amongst schools which include: "improved language skills, greater classroom engagement, deeper understandings of issues from multiple perspectives, and an increased sensitivity to multicultural differences". It also allows students to be the creators of their own digital content, a core standard from The International Society for Technology in Education (ISTE). 
+      The COVID-19 virus that started in late 2019 had spread to over multiple countries within months, forcing the World Health Organization to declare an international public health emergency and a pandemic. The outbreak pushed education into a more digital and online experience where teachers had to adopt to new levels of digital competencies in software to continue the education system as academic institutions discontinued all in-person activity and different online meeting platforms are being used for better communications (e.g: Skype, Zoom, Cisco Webex, Google Hangouts, Microsoft Teams, BlueJeans and Slack). Two major formats of online learnings: Asynchronous allow students to have more collaborative space and build up involvement. Synchronous learnings mostly take on live video format for better. An estimated 84% of the global student body was affected by this sudden closure due to the pandemic. Because of this sudden transition, there had been a clear disparity in student and school preparedness for digital education due in large part to a divide in digital skills and literacy that both the students and educators experience. The switch to online learning has also brought about some concerns regarding learning effectiveness, exposure to cyber-risks and lack of socialization, prompting the need to implement changes to how students are able to learn much needed digital skills and develop digital literacy. As a response, the DQ (Digital Intelligence) Institute, designed a common framework for enhancing digital literacy, digital skills and digital readiness. Attention and focus was also brought on the development of digital literacy on higher education. An interesting fact discovered through the process of digital learning is those who were born as Generation Z (born between the years 1996 and 2000) are "natural skills of digital native learners". These young adults tend to have a higher acceptability on digital learning. 
+      A study in Spain measured the digital knowledge of 4883 teachers of all education levels over the last school years and found that their digital skills required further training in order to advance new learning models for the digital age. Training programs have been proposed favoring the joint framework of INTEF (Spanish acronym for National Institute of Educational Technologies and Teacher Training) as reference. Surveys taken in Spain, Italy and Ecuador asking questions related to local student's online learning experience, 86.16% of students in Italy said they felt less accommodated, following with 68.8% in Italy, and 17.39% in Ecuador. 
+      In Europe, the Digital Competence of Educators (DigCompEdu) developed a framework to address and promote development of digital literacy. It is divided into six branches (professional engagement, digital sources resources, teaching and learning, assessment, empowering learners &amp; facilitating learners’ digital competence). Moreover, the European Commission also developed the Digital Education Action Plan (2021-2027) which focuses on using the COVID-19 pandemic experience as a learning point, when technology is being used at a large scale for education, and being able to adapt the systems used for leaning and training towards the digital age. The framework is divided into two main strategic priorities: fostering the development of a high-performing digital education ecosystem and enhancing digital skills and competences for the digital transformation.  
+      Digital competences 
+      In 2013 the Open Universiteit Nederland release an article defining twelve digital competence areas. These areas are based on the knowledge and skills people have to acquire to be a literate person.  
+      
+       A. General knowledge and functional skills. Knowing the basics of digital devices and using them for elementary purposes. 
+       B. Use in everyday life. Being able to integrate digital technologies into the activities in everyday life. 
+       C. Specialized and advanced competence for work and creative expression. Being able to use ICT to express your creativity and improve your professional performance. 
+       D. Technology mediated communication and collaboration. Being able to connect, share, communicate, and collaborate with others effectively in a digital environment. 
+       E. Information processing and management. Using technology to improve your ability to gather, analyze and judge the relevance and purpose of digital information. 
+       F. Privacy and security. Being able to protect your privacy and take appropriate security measures. 
+       G. Legal and ethical aspects. Behaving appropriately and in a socially responsible way in the digital environment and being aware of the legal and ethical aspects on the use of ICT. 
+       H. Balanced attitude towards technology. Demonstrating an informed, open-minded, and balanced attitude towards information society and the use of digital technologies. 
+       I. Understanding and awareness of role of ICT in society. Understanding the broader context of use and development of ICT. 
+       J. Learning about and with digital technologies. Exploring emerging technologies and integrating them. 
+       K. Informed decisions on appropriate digital technologies. Being aware of most relevant or common technologies. 
+       L. Seamless use demonstrating self-efficacy. Confidently and creatively applying digital technologies to increase personal and professional effectiveness and efficiency.
+       
+      The competences mentioned are based on each other. Competences A, B, and C are the basic knowledge and skills a person has to have to be a fully digital literate person. When these three competences are acquired you can build upon this knowledge and those skills to build the other competencies.  
+      Digital writing 
+      University of Southern Mississippi professor, Dr. Suzanne Mckee-Waddell conceptualized the idea of digital composition as the ability to integrate multiple forms of communication technologies and research to create a better understanding of a topic. Digital writing is a pedagogy being taught increasingly in universities. It is focused on the impact technology has had on various writing environments; it is not simply the process of using a computer to write. Educators in favor of digital writing argue that it is necessary because "technology fundamentally changes how writing is produced, delivered, and received." The goal of teaching digital writing is that students will increase their ability to produce a relevant, high-quality product, instead of just a standard academic paper. 
+      One aspect of digital writing is the use of hypertext or LaTeX. As opposed to printed text, hypertext invites readers to explore information in a non-linear fashion. Hypertext consists of traditional text and hyperlinks that send readers to other texts. These links may refer to related terms or concepts (such is the case on Wikipedia), or they may enable readers to choose the order in which they read. The process of digital writing requires the composer to make unique "decisions regarding linking and omission." These decisions "give rise to questions about the author's responsibilities to the  and to objectivity."  
+      In the workforce 
+      The 2014 Workforce Innovation and Opportunity Act (WIOA) defines digital literacy skills as a workforce preparation activity. In the modern world employees are expected to be digitally literate, having full digital competence. Those who are digitally literate are more likely to be economically secure, as many jobs require a working knowledge of computers and the Internet to perform basic tasks. Additionally, digital technologies such as mobile devices, production suites and collaboration platforms are ubiquitous in most office workplaces and are often crucial in daily tasks as many White collar jobs today are performed primarily using said devices and technology. Many of these jobs require proof of digital literacy to be hired or promoted. Sometimes companies will administer their own tests to employees, or official certification will be required. A study on the role of digital literacy in the EU labour market found that individuals are more likely to be employed the more digitally literate they are. 
+      As technology has become cheaper and more readily available, more blue-collar jobs have required digital literacy as well. Manufacturers and retailers, for example, are expected to collect and analyze data about productivity and market trends to stay competitive. Construction workers often use computers to increase employee safety.  
+      In entrepreneurship 
+      The acquisition of digital literacy is also important when it comes to starting and growing new ventures. The emergence of World Wide Web and digital platforms has led to a plethora of new digital products or services that can be bought and sold. Entrepreneurs are at the forefront of this development, using digital tools or infrastructure to deliver physical products, digital artifacts, or Internet-enabled service innovations. Research has shown that digital literacy for entrepreneurs consists of four levels (basic usage, application, development, and transformation) and three dimensions (cognitive, social, and technical). At the lowest level, entrepreneurs need to be able to use access devices as well as basic communication technologies to balance safety and information needs. As they move to higher levels of digital literacy, entrepreneurs will be able to master and manipulate more complex digital technologies and tools, enhancing the absorptive capacity and innovative capability of their venture. In a similar vein, if Small to Medium Enterprises(SME's) possess the ability to adapt to dynamic shifts in technology, then they can take advantage of trends, marketing campaigns as well as communication to consumers in order to generate more demand for their goods and services. Moreover, if entrepreneurs are digitally literate, then online platforms like social media can further help businesses receive feedback and generate community engagement that could potentially boost their business's performance as well as their brand image. A research paper published in The Journal of Asian Finance, Economics and Business provides critical insight that suggests digital literacy has the greatest influence on the performance of SME entrepreneurs.&nbsp; The authors suggest their findings can help craft performance development strategies for said SME entrepreneurs and argue their research shows the essential contribution of digital literacy in developing business and marketing networks. &nbsp; Additionally, the study found digitally literate entrepreneurs are able to communicate and reach wider markets than non-digitally literate entrepreneurs because of the use web-management and e-commerce platforms supported by data analysis and coding. That said, constraints do exist for SME's to use e-commerce. Some of these constraints include lack of technical understanding of information technologies, high cost of internet access(especially for those in rural/underdeveloped areas), and other constraints.  
+      Global impact 
+      The United Nations included digital literacy in its 2030 Sustainable Development Goals, under thematic indicator 4.4.2, which encourages the development of digital literacy proficiency in teens and adults to facilitate educational and professional opportunities and growth. International initiatives like the Global Digital Literacy Council (GDLC) and the Coalition for Digital Intelligence (CDI) have also highlighted the need for, and strategies to address, digital literacy on a global scale. The CDI, under the umbrella of the DQ Institute, created a Common Framework for Digital Literacy, Skills, and Readiness in 2019 that conceptualizes eight areas of digital life (identity, use, safety, security, emotional intelligence, communication, literacy, and rights), three levels of maturity (citizenship, creativity, and competitiveness), and three components of competency (knowledge, attitudes and values, and skills; or, what, why, and how). The UNESCO Institute for Statistics (UIS) also works to create, gather, map, and assess common frameworks on digital literacy across multiple member states around the world. 
+      In an attempt to narrow the Digital Divide, on September 26, 2018, the United States' Senate Foreign Relations Committee passed legislation to help provide access to the internet in developing countries via the H.R.600 Digital Global Access Policy Act. The legislation itself was based on Senator Markey's Digital Age Act, which was first introduced to the senate in 2016. In addition, Senator Markey provided a statement after the act was passed through the senate: “American ingenuity created the internet and American leadership should help bring its power to the developing world,” said Senator Markey. “Bridging the global digital divide can help promote prosperity, strengthen democracy, expand educational opportunity and lift some of the world’s poorest and most vulnerable out of poverty. The Digital GAP Act is a passport to the 21st century digital economy, linking the people of the developing world to the most successful communications and commerce tool in history. I look forward to working with my colleagues to get this legislation signed into law and to harness the power of the internet to help the developing world." 
+      The Philippines' Education Secretary Jesli Lapus has emphasized the importance of digital literacy in Filipino education. He claims a resistance to change is the main obstacle to improving the nation's education in the globalized world. In 2008, Lapus was inducted into Certiport's "Champions of Digital Literacy" Hall of Fame for his work to emphasize digital literacy. 
+      A study done in 2011 by the Southern African Linguistics &amp; Applied Language Studies program observed some South African university students regarding their digital literacy. It was found that while their courses did require some sort of digital literacy, very few students actually had access to a computer. Many had to pay others to type any work, as they their digital literacy was almost nonexistent. Findings show that class, ignorance, and inexperience still affect any access to learning South African university students may need.  
+      See also 
+      
+       Computer literacy 
+       Cyber self-defense 
+       Data literacy 
+       Information literacies 
+       Web literacy 
+       Media literacy 
+       Digital intelligence 
+       Digital rhetoric 
+       Digital rights 
+       Digital citizen
+       
+      References 
+      
+       
+        
+        ^ "Digital Literacy". Welcome to ALA's Literacy Clearinghouse. 2017-01-19. Retrieved 2020-10-22.  
+        ^ The New London Group (1997). New Literacy Studies  
+        ^ 
+          Jenkins, Henry (2009). Confronting the Challenges of Participatory Culture: Media Education for the 21st Century (PDF). Cambridge, MA: The MIT Press. Archived from the original (PDF) on 2013-12-03.  
+        ^ a b 
+          Reedy, Katharine; Parker, Jo, eds. (2018-08-07). Digital Literacy Unpacked. doi:10.29085/9781783301997. ISBN&nbsp;9781783301997.  
+        ^ Au, K., and Jordan, C. (1981) "Teaching reading to Hawaiian children: Finding a culturally appropriate solution".  
+        ^ Dondis, 1973, A Primer in Visual Literacy  
+        ^ Molnar, A. (1979). The Next Great Crisis in America  
+        ^ 
+          Zurkowski, Paul G. (November 1974). The Information Service Environment Relationships and Priorities. Related Paper No. 5 (Report). 
+           ERIC&nbsp;ED100391.  
+        ^ Knobel, M &amp; Lanskear, C. (2008). Digital Literacies: Concepts, Policies, and Practices.  
+        ^ a b c 
+          boyd, danah (2014). It's Complicated: The Social Lives of Networked Teens (PDF). New Haven, Connecticut: Yale University Press. pp.&nbsp;https://www.danah.org/books/ItsComplicated.pdf. ISBN&nbsp;978-0-300-16631-6.  
+        ^ a b 
+          Martens, Hans; Hobbs, Renee (30 April 2015). "How Media Literacy Supports Civic Engagement in a Digital Age". Atlantic Journal of Communication. 23 (2): 120–137. doi:10.1080/15456870.2014.961636. S2CID&nbsp;52208620.  
+        ^ a b 
+          Heitin, Liana (2016-11-09). "What Is Digital Literacy? - Education Week". Education Week. Retrieved 2020-03-15.  
+        ^ Furber, S. (2012). Shut down or restart?: The way forward for computing in UK schools.  
+        ^ 
+          Hinrichsen, Juliet; Coombs, Antony (31 January 2014). "The five resources of critical digital literacy: a framework for curriculum integration". Research in Learning Technology. 21. doi:10.3402/rlt.v21.21334.  
+        ^ 
+          Warschauer, Mark; Matuchniak, Tina (March 2010). "New Technology and Digital Worlds: Analyzing Evidence of Equity in Access, Use, and Outcomes". Review of Research in Education. 34 (1): 179–225. doi:10.3102/0091732X09349791. S2CID&nbsp;145400905.  
+        ^ 
+          Aviram, Aharon; Eshet-Alkalai, Yoram (3 April 2006). "Towards a Theory of Digital Literacy: Three Scenarios for the Next Steps". European Journal of Open, Distance and E-learning. 9 (1). CiteSeerX&nbsp;10.1.1.643.8589.  
+        ^ 
+          Koltay, Tibor (March 2011). "The media and the literacies: media literacy, information literacy, digital literacy". Media, Culture &amp; Society. 33 (2): 211–221. doi:10.1177/0163443710393382. ISSN&nbsp;0163-4437. S2CID&nbsp;146526766.  
+        ^ 
+          Longardner, Tara (2015). "US News". The Growing Need for Technical and Digital Literacy.  
+        ^ 
+          Burns, Kelli S. (2017-03-20). Social Media: A Reference Handbook: A Reference Handbook. ABC-CLIO. ISBN&nbsp;978-1-4408-4356-3.  
+        ^ 
+          Marlow, Cameron. "Audience, Structure, and Authority in the Weblog Community" (PDF). MIT Media Laboratory. Retrieved 2 June 2006.  
+        ^ Dixon, Mark (2005). "Identity Map" Archived 2016-11-26 at the Wayback Machine. Oracle.  
+        ^ 
+          Hargittai, Eszter (1 April 2002). "Second-Level Digital Divide: Differences in People's Online Skills". First Monday. 7 (4). doi:10.5210/fm.v7i4.942. S2CID&nbsp;245248.  
+        ^ 
+          van Dijk, Jan (2005), "Introduction", The Deepening Divide: Inequality in the Information Society, Thousand Oaks: SAGE Publications, Inc., pp.&nbsp;1–8, doi:10.4135/9781452229812.n1, ISBN&nbsp;9781412904032, retrieved 2021-05-03  
+        ^ 
+          van Deursen, A.J.A.M.; van Dijk, J.A.G.M. (April 2009). "Improving digital skills for the use of online public information and services". Government Information Quarterly. 26 (2): 333–340. doi:10.1016/j.giq.2008.11.002.  
+        ^ 
+          Gui, Marco; Argentin, Gianluca (1 September 2011). "Digital skills of internet natives: Different forms of digital literacy in a random sample of northern Italian high school students". New Media &amp; Society. 13 (6): 963–980. doi:10.1177/1461444810389751. hdl:10281/10985. S2CID&nbsp;41647591.  
+        ^ 
+          "Tomczyk". www.sajournalofeducation.co.za. doi:10.15700/saje.v41n1a1833. Retrieved 2021-04-30.  
+        ^ 
+          Lim, Ee-Peng; Foo, Schubert; Khoo, Chris; Chen, Hsinchun; Fox, Edward; Shalini, Urs; Thanos, Costanino (2002). Digital Libraries: People, Knowledge, and Technology: 5th International Conference on Asian Digital Libraries, ICADL 2002, Singapore, December 11-14, 2002, Proceedings. Berlin: Springer Verlag. p.&nbsp;379. ISBN&nbsp;3540002618.  
+        ^ 
+          Saileela, Dr R. Babu, Dr S. Kalaivani &amp; Dr K. Empowering India Through Digital Literacy (Vol. 1). Lulu. p.&nbsp;111. ISBN&nbsp;9780359527632.  
+        ^ 
+          Global, IGI (2017). Information and Technology Literacy: Concepts, Methodologies, Tools, and Applications: Concepts, Methodologies, Tools, and Applications. Hershey, PA: IGI Global. p.&nbsp;587. ISBN&nbsp;9781522534181.  
+        ^ a b 
+          Ragnedda, Massimo; Muschert, Glenn W. (2013). The Digital Divide: The Internet and Social Inequality in International Perspective. Oxon: Routledge. p.&nbsp;172. ISBN&nbsp;9780415525442.  
+        ^ 
+          Celik, Aliye Pekin; Development, Global Alliance for Information and Communication Technologies and (2007). Our common humanity in the information age. UN, Global Alliance for ICT and Development. ISBN&nbsp;978-92-1-104570-3.  
+        ^ a b Cohen, C. J., &amp; Kahne, J. (2011). Participatory Politics: New Media and Youth Political Action. Chicago, IL: MacArthur Network on Youth and Participatory Politics.  
+        ^ 
+          Kahne, Joseph; Middaugh, Ellen (2008). Democracy for some: The civic opportunity gap in high school (PDF) (Report). CiteSeerX&nbsp;10.1.1.431.9197.  
+        ^ 
+          "Krugman, Prof. Paul Robin". Krugman, Prof. Paul Robin, (Born 28 Feb. 1953), Professor of Economics and International Affairs, Woodrow Wilson School of Public and International Affairs, Princeton University, since 2000; Centenary Professor, London School of Economics and Political Science. Who's Who. Oxford University Press. 2012-12-01. doi:10.1093/ww/9780199540884.013.u254875.  
+        ^ 
+          Ragnedda, Massimo; Muschert, Glenn W. (2013). The Digital Divide: The Internet and Social Inequality in International Perspective. Oxon: Routledge. p.&nbsp;33. ISBN&nbsp;9780415525442.  
+        ^ 
+          Buckingham, David (2013). Beyond Technology: Children's Learning in the Age of Digital Culture. Hoboken, NJ: John Wiley &amp; Sons. pp.&nbsp;1988–1989. ISBN&nbsp;9780745655307.  
+        ^ 
+          Jenkins, Henry (June 21, 2006). "MySpace and the Participation Gap". Confessions of an Aca-Fan. Retrieved 2020-02-05.  
+        ^ 
+          Jenkins, Henry; Plasencia, Adolfo (2017-05-04), "Convergence Culture: Where Old and New Media Collide", Is the Universe a Hologram?, The MIT Press, doi:10.7551/mitpress/9780262036016.003.0012, ISBN&nbsp;978-0-262-03601-6, retrieved 2021-05-03  
+        ^ a b 
+          "MySpace and the Participation Gap". Henry Jenkins. Retrieved 2021-05-04.  
+        ^ 
+          Dalton, Russell J. (2017-11-23). "The Participation Gap". Oxford Scholarship Online. doi:10.1093/oso/9780198733607.001.0001. ISBN&nbsp;9780198733607.  
+        ^ 
+          TIMOFEY GRIGORIEVICH MAKAROV; et&nbsp;al. (2020-11-19). "Digital Rights". Utopía y Praxis Latinoamericana. doi:10.5281/zenodo.4280122.  
+        ^ 
+          Collins, Steve (2014-03-16). "The Digital Rights Movement: the role of technology in subverting digital copyright". Information, Communication &amp; Society. 17 (3): 388–390. doi:10.1080/1369118X.2013.808368. ISSN&nbsp;1369-118X. S2CID&nbsp;144350490.  
+        ^ a b 
+          Pangrazio, Luci; Sefton-Green, Julian (2021-01-15). "Digital Rights, Digital Citizenship and Digital Literacy: What's the Difference?". Journal of New Approaches in Educational Research. 10 (1): 15–27. doi:10.7821/naer.2021.1.616. ISSN&nbsp;2254-7339.  
+        ^ 
+          Thompson, Kim M.; Jaeger, Paul T.; Taylor, Natalie Greene; Subramaniam, Mega; Bertot, John Carlo (2014-08-20). Digital Literacy and Digital Inclusion: Information Policy and the Public Library. Rowman &amp; Littlefield. ISBN&nbsp;978-0-8108-9272-9.  
+        ^ 
+          Turner, Kristen Hawley (2019-12-31). The Ethics of Digital Literacy: Developing Knowledge and Skills Across Grade Levels. Rowman &amp; Littlefield. ISBN&nbsp;978-1-4758-4677-5.  
+        ^ 
+          Buchholz, Beth A.; DeHart, Jason; Moorman, Gary (2020). "Digital Citizenship During a Global Pandemic: Moving Beyond Digital Literacy". Journal of Adolescent &amp; Adult Literacy. 64 (1): 11–17. doi:10.1002/jaal.1076. ISSN&nbsp;1936-2706. PMC&nbsp;7405058. PMID&nbsp;32834710.  
+        ^ 
+          Milenkova, Valentina; Lendzhova, Vladislava (25 March 2021). "Digital Citizenship and Digital Literacy in the Conditions of Social Crisis". Computers. 10 (4): 40. doi:10.3390/computers10040040.  
+        ^ 
+          Saputra, Meidi; Siddiq, Imamul Huda Al (2020-04-08). "Social Media and Digital Citizenship: The Urgency of Digital Literacy in The Middle of A Disrupted Society Era". International Journal of Emerging Technologies in Learning. 15 (7): 156–161. doi:10.3991/ijet.v15i07.13239. ISSN&nbsp;1863-0383.  
+        ^ a b 
+          Prensky, Marc (September 2001). "Digital Natives, Digital Immigrants Part 1". On the Horizon. 9 (5): 1–6. doi:10.1108/10748120110424816.  
+        ^ 
+          Jarrahi, Mohammad Hossein; Eshraghi, Ali (2019-10-11). "Digital natives vs digital immigrants: A multidimensional view on interaction with social technologies in organizations". Journal of Enterprise Information Management. 32 (6): 1051–1070. doi:10.1108/JEIM-04-2018-0071. ISSN&nbsp;1741-0398.  
+        ^ 
+          carr, nicholas (October 2008). "Is Google Making Us Stupid?". Yearbook of the National Society for the Study of Education. 107 (2): 89–94. doi:10.1111/j.1744-7984.2008.00172.x.  
+        ^ a b Allen, Mary (2013). "Cultural consumption on the Internet by older Canadians". Statistics Canada. Perspectives on Canadian Society.  
+        ^ 
+          Head, Alison J.; Eisenberg, Michael B. (2009). Lessons Learned: How College Students Seek Information in the Digital Age (Report). doi:10.2139/ssrn.2281478.  
+        ^ a b 
+          Greenhow, Christine; Sonnevend, Julia; Agur, Colin (6 May 2016). Education and Social Media: Toward a Digital Future. MIT Press. ISBN&nbsp;9780262334860.  
+        ^ 
+          Tsvetkova, Milena; Ushatikova, Irina; Antonova, Nataliya; Salimova, Svetlana; Degtyarevskaya, Tatyana (2021-01-26). "The Use of Social Media for the Development of Digital Literacy of Students: From Adequate Use to Cognition Tools". International Journal of Emerging Technologies in Learning. 16 (2): 65–78. doi:10.3991/ijet.v16i02.18751. ISSN&nbsp;1863-0383.  
+        ^ 
+          Silva, Juan; Usart, Mireia; Lázaro-Cantabrana, José-Luis (1 October 2019). "Teacher's digital competence among final year Pedagogy students in Chile and Uruguay". Comunicar. 27 (61): 33–43. doi:10.3916/C61-2019-03.  
+        ^ 
+          Liu, Zhi-Jiang; Tretyakova, Natalia; Fedorov, Vladimir; Kharakhordina, Marina (2020-07-31). "Digital Literacy and Digital Didactics as the Basis for New Learning Models Development". International Journal of Emerging Technologies in Learning. 15 (14): 4–18. doi:10.3991/ijet.v15i14.14669. ISSN&nbsp;1863-0383.  
+        ^ 
+          Delacruz, Stacy (2019). "Building Digital Literacy Bridges Connecting Cultures and Promoting Global Citizenship in Elementary Schools through School-Based Virtual Field Trips". TechTrends:Linking Research and Practice to Improve Learning. 63: 428–439. doi:10.1007/s11528-018-0350-1. S2CID&nbsp;69284677.  
+        ^ a b 
+          Sánchez-Cruzado, Cristina; Santiago Campión, Raúl; Sánchez-Compaña, Mª Teresa (2021-02-08). "Teacher Digital Literacy: The Indisputable Challenge after COVID-19". Sustainability. 13 (4): 1858. doi:10.3390/su13041858.  
+        ^ 
+          Nash, Carol (December 2020). "Report on Digital Literacy in Academic Meetings during the 2020 COVID-19 Lockdown". Challenges. 11 (2): 20. doi:10.3390/challe11020020. S2CID&nbsp;225358779.  
+        ^ 
+          Nash, Carol (December 2020). "Report on Digital Literacy in Academic Meetings during the 2020 COVID-19 Lockdown". Challenges. 11 (2): 20. doi:10.3390/challe11020020.  
+        ^ a b 
+          Jackman, Joshua A.; Gentile, Douglas A.; Cho, Nam-Joon; Park, Yuhyun (2021-03-11). "Addressing the digital skills gap for future education". Nature Human Behaviour. 5 (5): 542–545. doi:10.1038/s41562-021-01074-z. ISSN&nbsp;2397-3374. PMID&nbsp;33707657. S2CID&nbsp;232209681.  
+        ^ 
+          "The Digital Divide in Online Education. Inequality in Digital Preparedness of Students and Schools before the Start of the COVID-19 Pandemic". TB &amp; Outbreaks Week: 291. 2020-09-01.  
+        ^ 
+          "Pandemic emphasizes need for digital literacy education • News Service • Iowa State University". www.news.iastate.edu. Retrieved 2021-04-30.  
+        ^ a b 
+          Tejedor, Santiago; Cervi, Laura; Pérez-Escoda, Ana; Jumbo, Fernanda Tusa (2020-11-06). "Digital Literacy and Higher Education during COVID-19 Lockdown: Spain, Italy, and Ecuador". Publications. 8 (4): 48. doi:10.3390/publications8040048. ISSN&nbsp;2304-6775.  
+        ^ 
+          Tejedor, Santiago; Cervi, Laura; Pérez-Escoda, Ana; Jumbo, Fernanda Tusa (December 2020). "Digital Literacy and Higher Education during COVID-19 Lockdown: Spain, Italy, and Ecuador". Publications. 8 (4): 48. doi:10.3390/publications8040048. S2CID&nbsp;228813553.  
+        ^ 
+          A3, EAC (2018-09-14). "Digital Education Action Plan (2021-2027)". Education and Training - European Commission. Retrieved 2021-04-30.  
+        ^ 
+          Janssen, José; Stoyanov, Slavi; Ferrari, Anusca; Punie, Yves; Pannekeet, Kees; Sloep, Peter (October 2013). "Experts' views on digital competence: Commonalities and differences". Computers &amp; Education. 68: 473–481. doi:10.1016/j.compedu.2013.06.008.  
+        ^ 
+          McKee-Waddell, Suzanne (2015). "Digital Literacy: Bridging the Gap with Digital Writing Tools". Delta Kappa Gamma Bulletin. 82 (1): 26–31.  
+        ^ 
+          "why teach digital writing? &gt; foreword". kairos.technorhetoric.net. Retrieved 2021-05-04.  
+        ^ Beers, Kylene; Probst, Robert; Rief, Linda (2007). Adolescent Literacy: Turning Promise into Practice. UK: Heinemann Publishing. 
+          ISBN&nbsp;9780325011288.  
+        ^ 
+          "LaTeX | computer programming language". Encyclopedia Britannica. Retrieved 2021-05-04.  
+        ^ 
+          McAdams, Mindy; Berger, Stephanie. "Hypertext". Journal of Electronic Publishing.  
+        ^ IMLS press release: $2.2 Billion Reasons to Pay Attention to WIOA. 2014.  
+        ^ 
+          Müller, Mirela; Aleksa Varga, Melita (2019-06-30). "Digital competences of teachers and associates at higher educational institutions in the Republic of Croatia". Informatologia. 52 (1–2): 28–44. doi:10.32914/i.52.1-2.4.  
+        ^ a b Wynne, M., &amp; Cooper, L. (2007). Digital Inclusion Imperatives Offer Municipalities New Social and Economic Opportunities. Retrieved from POWER UP: The Campaign for Digital Inclusion.  
+        ^ 
+          Cascio, Ramiro Montealegre, Wayne F. "Technology-Driven Changes in Work and Employment". cacm.acm.org. Retrieved 2021-05-04.  
+        ^ 
+          Bejaković, Predrag; Mrnjavac, Željko (2020-01-01). "The importance of digital literacy on the labour market". Employee Relations: The International Journal. 42 (4): 921–932. doi:10.1108/ER-07-2019-0274. ISSN&nbsp;0142-5455.  
+        ^ 
+          Lyytinen, Kalle; Yoo, Youngjin; Jr, Richard J. Boland (2016). "Digital product innovation within four classes of innovation networks". Information Systems Journal. 26 (1): 47–75. doi:10.1111/isj.12093. ISSN&nbsp;1365-2575. S2CID&nbsp;730525.  
+        ^ 
+          Li, Liang; Su, Fang; Zhang, Wei; Mao, Ji-Ye (2017-06-20). "Digital transformation by SME entrepreneurs: A capability perspective". Information Systems Journal. 28 (6): 1129–1157. doi:10.1111/isj.12153. ISSN&nbsp;1350-1917. S2CID&nbsp;53089894.  
+        ^ 
+          Ekbia, Hamid R. (December 2009). "Digital artifacts as quasi-objects: Qualification, mediation, and materiality". Journal of the American Society for Information Science and Technology. 60 (12): 2554–2566. doi:10.1002/asi.21189. ISSN&nbsp;1532-2882.  
+        ^ 
+          Kuester, Sabine; Konya-Baumbach, Elisa; Schuhmacher, Monika C. (February 2018). "Get the show on the road: Go-to-market strategies for e-innovations of start-ups". Journal of Business Research. 83: 65–81. doi:10.1016/j.jbusres.2017.09.037. ISSN&nbsp;0148-2963.  
+        ^ 
+          Neumeyer, Xaver; Santos, Susana C.; Morris, Michael H. (2020). "Overcoming Barriers to Technology Adoption When Fostering Entrepreneurship Among the Poor: The Role of Technology and Digital Literacy". IEEE Transactions on Engineering Management: 1–14. doi:10.1109/TEM.2020.2989740. ISSN&nbsp;0018-9391.  
+        ^ 
+          Sariwulan, Tuty; Suparno, Suparno; Disman, Disman; Ahman, Eeng; Suwatno, Suwatno (2020). "Entrepreneurial Performance: The Role of Literacy and Skills". The Journal of Asian Finance, Economics and Business. 7 (11): 269–280. doi:10.13106/jafeb.2020.vol7.no11.269. ISSN&nbsp;2288-4637.  
+        ^ 
+          "Technology Readiness and E-Commerce Adoption among Entrepreneurs of SMEs in Bandung City, Indonesia". ResearchGate. Retrieved 2021-05-05.  
+        ^ 
+          "SDG 4 Global and Thematic Indicator Lists – Technical Cooperation Group on the Indicators for SDG 4". Retrieved 2020-04-28.  
+        ^ 
+          "Global Digital Literacy Council | Just another WordPress site". www.gdlcouncil.org. Retrieved 2020-04-28.  
+        ^ 
+          "World's first global standard for digital literacy, skills and readiness launched by the Coalition for Digital Intelligence | DQ Institute". Retrieved 2020-04-28.  
+        ^ 
+          Park, Y (2019). "DQ Global Standards Report 2019: Common Framework for Digital Literacy, Skills and Readiness" (PDF). DQ Institute. Retrieved 2020-04-28.  
+        ^ 
+          Law, N., Woo, D., de la Torre, J., and Wong, G. (2018). "A Global Framework of Reference on Digital Literacy Skills for Indicator 4.4.2" (PDF). UNESCO Institute for Statistics. Retrieved 2020-04-28.}: CS1 maint: multiple names: authors list (link)  
+        ^ 
+          Laanpere, M. (2019). "Recommendations on Assessment Tools for Monitoring Digital Literacy within UNESCO's Digital Literacy Global Framework" (PDF). UNESCO Institute for Statistics. Retrieved 2020-04-28.  
+        ^ 
+          "Senator Markey Praises Senate Passage of His Legislation to Help Expand Internet Access and Increase Digital Literacy in Developing Countries | U.S. Senator Ed Markey of Massachusetts". www.markey.senate.gov. Retrieved 2021-05-03.  
+        ^ Philippine Information Agency. (2008). DepEd: Use ICT to improve learning outcomes .  
+        ^ a b 
+          Kajee, Leila; Balfour, Robert (June 2011). "Students' access to digital literacy at a South African university: Privilege and marginalisation". Southern African Linguistics and Applied Language Studies. 29 (2): 187–196. doi:10.2989/16073614.2011.633365. S2CID&nbsp;34081026.  
+       
+       
+      Bibliography 
+      
+       Vuorikari, R., Punie, Y., Gomez, S. C., &amp; Van Den Brande, G. (2016). DigComp 2.0: The Digital Competence Framework for Citizens. Update Phase 1: The Conceptual Reference Model (No. JRC101254). Institute for Prospective Technological Studies, Joint Research Centre. https://ec.europa.eu/jrc/en/digcomp and https://ec.europa.eu/jrc/en/publication/eur-scientific-and-technical-research-reports/digcomp-20-digital-competence-framework-citizens-update-phase-1-conceptual-reference-model 
+       
+        Janssen, José; Stoyanov, Slavi; Ferrari, Anusca; Punie, Yves; Pannekeet, Kees; Sloep, Peter (October 2013). "Experts' views on digital competence: Commonalities and differences". Computers &amp; Education. 68: 473–481. doi:10.1016/j.compedu.2013.06.008.
+       
+      External links 
+       
+       
+         
+          
+         Wikiversity has learning resources about Digital literacy
+         
+       
+       
+      
+       digitalliteracy.gov An initiative of the Obama Administration to serve as a valuable resource to practitioners who are delivering digital literacy training and services in their communities. 
+       digitalliteracy.org A Clearinghouse of Digital Literacy and Digital Inclusion best practices from around the world. 
+       DigitalLiteracy.us A reference guide for public educators on the topic of digital literacy.
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Digital_literacy&amp;oldid=1068178004"
+     
+     
+    
+     
+      Categories: 
+      
+       Digital divide
+       Literacy
+      
+     
+     
+      Hidden categories: 
+      
+       Wikipedia articles needing page number citations from January 2020
+       Webarchive template wayback links
+       CS1 maint: multiple names: authors list
+       Articles with short description
+       Short description is different from Wikidata
+       All self-contradictory articles
+       Self-contradictory articles from December 2018
+       All Wikipedia articles needing clarification
+       Wikipedia articles needing clarification from December 2018
+       All articles with unsourced statements
+       Articles with unsourced statements from January 2020
+       All articles with specifically marked weasel-worded phrases
+       Articles with specifically marked weasel-worded phrases from December 2018
+       All accuracy disputes
+       Articles with disputed statements from December 2018
+       Articles with unsourced statements from December 2018
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       বাংলা
+       Banjar
+       Български
+       Català
+       Čeština
+       Dansk
+       Eesti
+       Español
+       Français
+       한국어
+       Bahasa Indonesia
+       Italiano
+       עברית
+       Magyar
+       नेपाली
+       Norsk bokmål
+       Norsk nynorsk
+       Polski
+       Português
+       Русский
+       Српски / srpski
+       Svenska
+       Türkçe
+       Tiếng Việt
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 27 January 2022, at 01:44&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

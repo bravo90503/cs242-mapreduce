@@ -1,0 +1,409 @@
+
+ 
+  
+   
+  Help:Introduction - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+     
+     
+    
+   Help:Introduction 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Tutorial for newcomers who want to contribute to Wikipedia
+       
+        
+       
+        
+         Introduction to Wikipedia
+         
+         
+         Welcome to Wikipedia! Anyone can edit almost every page, and millions already have.  This page takes you through a set of tutorials aimed at complete newcomers interested in contributing. It covers all the basics, and each tutorial takes only a few minutes, so you could become a proficient Wikipedian in no time!
+         
+         
+         Get started Policies and Guidelines  
+          
+           
+           
+            
+           
+            The wiki markup source editor shows the underlying page source code. It works like a plain text file, indicating links and other items using simple code like this: ].
+            
+           Editing Referencing Images Tables Talk pages  
+           
+           
+           
+            
+           
+            VisualEditor works more like a word processor and hides the underlying source code. Links and other items are edited using toolbar and pop-up interfaces.
+            
+           Editing Referencing Images Tables  
+           
+          
+          
+         Navigating WikipediaManual of StyleConclusion 
+           View all as single page
+         
+        
+       
+       
+       
+       
+        
+       
+       
+        
+         Shortcuts
+        
+        
+         WP:I
+         H:I
+         H:INTRO
+        
+        
+       For more training information, see also: 
+       Full help contents page Training for students A single-page guide to contributing A training adventure game Resources for new editors  
+       
+        Please consider leaving us some feedback.
+        
+       
+           
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Help:Introduction&amp;oldid=1069766611"
+     
+     
+    
+     
+      Categories: 
+      
+       Wikipedia quick introductions
+      
+     
+     
+      Hidden categories: 
+      
+       Help pages with short description
+       Wikipedia semi-protected project pages
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Help page
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        <a href="/w/index.php?title=Help:Introduction&amp;action=edit" title="This page is protected.
+You can view its source " accesskey="e">View source
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Multilingual Wikisource
+       Wikisource
+       Wikiversity
+       
+      
+     
+     
+      Languages  
+      
+      
+       Afrikaans
+       Alemannisch
+       Ænglisc
+       Аԥсшәа
+       العربية
+       Arpetan
+       অসমীয়া
+       Авар
+       Basa Bali
+       বাংলা
+       Bân-lâm-gú
+       Basa Banyumasan
+       Башҡортса
+       Български
+       Boarisch
+       Bosanski
+       Буряад
+       Català
+       Cebuano
+       Čeština
+       Cymraeg
+       Dansk
+       Davvisámegiella
+       Deutsch
+       Eesti
+       Ελληνικά
+       Español
+       Esperanto
+       Euskara
+       فارسی
+       Føroyskt
+       Français
+       Gaeilge
+       Gaelg
+       Gàidhlig
+       Galego
+       ગુજરાતી
+       한국어
+       Հայերեն
+       Hrvatski
+       Bahasa Hulontalo
+       Bahasa Indonesia
+       Interlingua
+       Íslenska
+       Italiano
+       עברית
+       Jawa
+       Kapampangan
+       Къарачай-малкъар
+       ქართული
+       Қазақша
+       Kurdî
+       Кыргызча
+       Ladino
+       ລາວ
+       Latina
+       Latviešu
+       Lëtzebuergesch
+       Lietuvių
+       Limburgs
+       मैथिली
+       Македонски
+       മലയാളം
+       Malti
+       مصرى
+       Bahasa Melayu
+       ꯃꯤꯇꯩ ꯂꯣꯟ
+       Монгол
+       မြန်မာဘာသာ
+       日本語
+       Napulitano
+       Norsk bokmål
+       Norsk nynorsk
+       پښتو
+       Plattdüütsch
+       Polski
+       Română
+       Romani čhib
+       Runa Simi
+       Русский
+       संस्कृतम्
+       Sardu
+       Scots
+       Sicilianu
+       Simple English
+       سنڌي
+       Slovenčina
+       Slovenščina
+       کوردی
+       Српски / srpski
+       Sunda
+       Suomi
+       Svenska
+       Tagalog
+       Tarandíne
+       Татарча/tatarça
+       ၽႃႇသႃႇတႆး 
+       తెలుగు
+       ไทย
+       Türkçe
+       Удмурт
+       Українська
+       اردو
+       Vahcuengh
+       Tiếng Việt
+       ייִדיש
+       粵語
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 4 February 2022, at 00:09&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+    
+ 

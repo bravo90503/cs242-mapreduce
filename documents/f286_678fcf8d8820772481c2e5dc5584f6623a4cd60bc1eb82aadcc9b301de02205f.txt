@@ -1,0 +1,443 @@
+
+ 
+  
+   
+  Information for "Information retrieval" - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+     Help
+     
+    
+   Information for "Information retrieval" 
+    
+     
+     
+     Jump to navigation Jump to search 
+    
+      
+       
+       
+        Contents
+        
+        
+        
+         Basic information 
+         Page protection 
+         Edit history 
+         Page properties 
+         External tools
+         
+        
+       
+     
+      
+      
+     Basic information 
+      
+      
+       
+        Display title
+        Information retrieval
+        
+       
+        Default sort key
+        Information Retrieval
+        
+       
+        Page length (in bytes)
+        27,365
+        
+       
+        Page ID
+        15271
+        
+       
+        Page content language
+        en - English
+        
+       
+        Page content model
+        wikitext
+        
+       
+        Indexing by robots
+        Allowed
+        
+       
+        Number of page watchers
+        376
+        
+       
+        Number of page watchers who visited recent edits
+        28
+        
+       
+        Number of redirects to this page
+        12
+        
+       
+        Counted as a content page
+        Yes
+        
+       
+        Page views in the past 30 days
+        
+         
+          12,688
+         
+        
+       
+        Wikidata item ID
+        Q816826
+        
+       
+        Local description
+        Obtaining information resources relevant to an information need
+        
+       
+        Central description
+        activity of obtaining information resources relevant to an information need from a collection of information resources
+        
+      
+      
+     Page protection 
+      
+      
+       
+        Edit
+        Allow all users (no expiry set)
+        
+       
+        Move
+        Allow all users (no expiry set)
+        
+      
+      View the protection log for this page. 
+     Edit history 
+      
+      
+       
+        Page creator
+        LA2 (talk | contribs)
+        
+       
+        Date of page creation
+        12:17, 22 November 2001
+        
+       
+        Latest editor
+        Tassedethe (talk | contribs)
+        
+       
+        Date of latest edit
+        20:19, 4 February 2022
+        
+       
+        Total number of edits
+        1,120
+        
+       
+        Recent number of edits (within past 30 days)
+        1
+        
+       
+        Recent number of distinct authors
+        1
+        
+      
+      
+     Page properties 
+      
+      
+       
+        Hidden categories (11)
+        
+         
+          This page is a member of 11 hidden categories (help)&nbsp;: 
+         
+          
+          Category:Articles with BNE identifiers 
+          Category:Articles with BNF identifiers 
+          Category:Articles with GND identifiers 
+          Category:Articles with LCCN identifiers 
+          Category:Articles with NDL identifiers 
+          Category:Articles with short description 
+          Category:Commons category link from Wikidata 
+          Category:Pages incorrectly using the Blockquote template 
+          Category:Short description is different from Wikidata 
+          Category:Webarchive template wayback links 
+          Category:Wikipedia articles needing clarification from June 2018 
+         
+        
+       
+        Transcluded templates (129)
+        
+         
+          Pages transcluded onto the current version of this page (help): 
+         
+          
+          Adversarial information retrieval (edit) 
+          Collaborative information seeking (edit) 
+          Computer memory (edit) 
+          Controlled vocabulary (edit) 
+          Cross-language information retrieval (edit) 
+          Data mining (edit) 
+          European Summer School in Information Retrieval (edit) 
+          Human–computer information retrieval (edit) 
+          Information Retrieval Facility (edit) 
+          Information extraction (edit) 
+          Information retrieval (edit) 
+          Information seeking (edit) 
+          Knowledge visualization (edit) 
+          Multimedia information retrieval (edit) 
+          Nearest centroid classifier (edit) 
+          Personal information management (edit) 
+          Query understanding (edit) 
+          Relevance (information retrieval) (edit) 
+          Relevance feedback (edit) 
+          Search engine indexing (edit) 
+          Social information seeking (edit) 
+          Special Interest Group on Information Retrieval (edit) 
+          Subject indexing (edit) 
+          Temporal information retrieval (edit) 
+          Tf–idf (edit) 
+          Web mining (edit) 
+          XML retrieval (edit) 
+          Template:Anchor (view source) (template editor protected)
+          Template:Annotated link (view source) (template editor protected)
+          Template:Authority control (view source) (template editor protected)
+          Template:Blockquote (view source) (template editor protected)
+          Template:Blockquote/styles.css (view source) (template editor protected)
+          Template:Category handler (view source) (protected)
+          Template:Cite book (view source) (protected)
+          Template:Cite conference (view source) (protected)
+          Template:Cite journal (view source) (protected)
+          Template:Cite web (view source) (protected)
+          Template:Clarify (view source) (template editor protected)
+          Template:Comma separated entries (view source) (template editor protected)
+          Template:Commons category (view source) (template editor protected)
+          Template:Commonscat (view source) (template editor protected)
+          Template:Delink (view source) (template editor protected)
+          Template:Div col (view source) (template editor protected)
+          Template:Div col/styles.css (view source) (template editor protected)
+          Template:Div col end (view source) (template editor protected)
+          Template:EditAtWikidata (view source) (protected)
+          Template:Fix-span (view source) (template editor protected)
+          Template:Fix/category (view source) (template editor protected)
+          Template:Flatlist (view source) (template editor protected)
+          Template:Huh (view source) (semi-protected)
+          This list may be incomplete.
+         
+        
+       
+        Wikidata entities used in this page
+        
+         
+          information retrieval
+          
+           Sitelink
+           Title
+           Some statements
+           Description: en
+          
+          Category:Information retrieval
+          
+           Sitelink
+          
+         
+        
+      
+      
+     External tools 
+     
+      (E) Revision history search 
+      Revision history statistics 
+      Edits by user 
+      Page view statistics 
+      (E) WikiChecker 
+      Lint errors on page
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/wiki/Information_retrieval"
+     
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Page information
+       Wikidata item
+       
+      
+     
+     
+      Languages  
+      
+       
+      
+       
+       
+      
+     
+    
+   
+   
+    
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+    
+ 

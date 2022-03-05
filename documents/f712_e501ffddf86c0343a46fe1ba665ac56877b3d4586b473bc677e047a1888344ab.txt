@@ -1,0 +1,511 @@
+
+ 
+  
+   
+  George Furnas - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   George Furnas 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      George William Furnas (born 1954) is an American academic, Professor and Associate Dean for Academic Strategy at the School of Information of the University of Michigan, known for his work on semantic analysis and on human-system communication.  
+      
+       
+       
+        Contents
+        
+        
+        1 Biography 
+        2 Work 
+        3 Selected publications 
+        4 References 
+        5 External links 
+        
+       
+      Biography 
+      Furnas obtained his AB in Psychology in 1974 from Harvard University, and his PhD in Psychology in 1980 from Stanford University. 
+      Furnas started his academic career as graduate student teaching assistant at Stanford University in 1975. After his graduation in 1980 he started at Bell Labs, where he was a distinguished member of technical staff for 15 years. In the last two years he was Director of Computer Graphics and Interactive Media research. In 1995 he moved to the University of Michigan, where he was appointed Professor of Psychology, Professor of Computer Science and Engineering, and Professor at the School of Information. From 2002 to 2008 he was also Associate Dean for Academic Strategy, School of Information. 
+      Furnas was elected into the CHI Academy, an honorary group of individuals who have made substantial contributions to the field of human-computer interaction, in 2004 for his work in the field. In 2011 he was inducted as a Fellow of the Association for Computing Machinery.  
+      Work 
+      During his time at Bell Labs he earned the moniker "Fisheye Furnas" while working with fisheye visualizations. A pioneer of latent semantic analysis, Furnas is also considered a pioneer in the concept of MoRAS (Mosaic of Responsive Adaptive Systems). 
+      The body of Furnas' research, and its primacy in the field, is aptly précised by the delineation of his work in his SIGCHI bio:  
+      
+        A principal focus of his research is in advanced information access and visualization. His early role in the analysis of the "Vocabulary Disagreement" problem lead to his co-invention of Latent Semantic Analysis for indexing and text processing. His classic "Generalized Fisheye Views" paper inspired a sea of focus+context research in information visualization.
+       
+      And furthermore  
+      
+       George's BITPICT graphical rewrite system is well known novel contribution to diagrammatic reasoning, visual languages and visual programming communities. George was also an early researcher in the areas of collaborative filtering and graph visualization. His "Space-Scale Diagrams in the Pad++ Zooming User Interface" advanced the analysis of zoomable user interfaces, and View Navigation theory has helped motivate much subsequent research in Information Scent. Recently he has been working on consolidating theories of design and use at multiple levels of aggregation.
+       
+      Selected publications 
+      
+       Furnas, George W. Objects and their features, 1980
+       
+      Articles, a selection:  
+      
+       Furnas, George W. "Generalized fisheye views." in Human Factors in Computing Systems CHI ‘86 Conference Proceedings, 16-23. 1986. 
+       Furnas, George W., et al. "The vocabulary problem in human-system communication." Communications of the ACM 30.11 (1987): 964-971. 
+       Deerwester, Scott C., et al. "Indexing by latent semantic analysis." JAsIs 41.6 (1990): 391-407.
+       
+      References 
+      
+       
+        
+        ^ Krippendorff, Klaus. Content analysis: An introduction to its methodology. Sage, 2012.  
+        ^ Nielsen, Jakob. Usability engineering. Elsevier, 1994.  
+        ^ a b CURRICULUM VITAE George W. Furnas, at furnas.people.si.umich.edu. Accessed 14-04-2015.  
+        ^ "Dr. George W Furnas - Award Winner". acm.org.  
+        ^ a b George Furnas Archived 2008-08-31 at the Wayback Machine at www.sigchi.org/about/awards/awards-2004.  
+       
+       
+      External links 
+      
+       Official website
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          General
+          
+            
+            
+             ISNI 
+              
+               1
+               
+             VIAF 
+              
+               1
+               
+             WorldCat
+             
+           
+         
+         
+          National libraries
+          
+            
+            
+             United States
+             
+           
+         
+         
+          Scientific databases
+          
+            
+            
+             Association for Computing Machinery 
+             DBLP (computer science)
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=George_Furnas&amp;oldid=1056606684"
+     
+     
+    
+     
+      Categories: 
+      
+       1954 births
+       Living people
+       American psychologists
+       Cognitive scientists
+       Human–computer interaction researchers
+       Harvard College alumni
+       Stanford University alumni
+       Stanford University faculty
+       University of Michigan faculty
+      
+     
+     
+      Hidden categories: 
+      
+       Webarchive template wayback links
+       All articles with dead external links
+       Articles with dead external links from December 2019
+       Articles with permanently dead external links
+       Articles with ISNI identifiers
+       Articles with VIAF identifiers
+       Articles with WORLDCATID identifiers
+       Articles with LCCN identifiers
+       Articles with ACM-DL identifiers
+       Articles with DBLP identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       Русский
+       Українська
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 22 November 2021, at 19:08&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

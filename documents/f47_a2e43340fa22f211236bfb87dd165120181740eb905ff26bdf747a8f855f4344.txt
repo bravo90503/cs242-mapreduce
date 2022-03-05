@@ -1,0 +1,1361 @@
+
+ 
+  
+   
+  Scalability - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Scalability 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Ability of a system to handle an increasing amount of work by adding resources to it
+       
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources:&nbsp;"Scalability"&nbsp;–&nbsp;news&nbsp;· newspapers&nbsp;· books&nbsp;· scholar&nbsp;· JSTOR (March 2012) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      
+      
+       
+        
+         
+        
+        
+         Complex systems
+        
+        
+          Topics
+        
+        
+          
+          
+           
+            Self-organization
+           
+           
+            Emergence
+            
+           
+           
+        
+        
+          
+          
+           
+            Collective behavior
+           
+           
+            Social dynamics
+             
+            Collective intelligence Collective action Self-organized criticality Herd mentality Phase transition Agent-based modelling Synchronization Ant colony optimization Particle swarm optimization Swarm behaviour  Collective consciousness
+            
+           
+           
+        
+        
+          
+          
+           
+            Networks
+           
+           
+            Scale-free networks
+             
+            Social network analysis Small-world networks Centrality Motifs Graph theory Scaling Robustness Systems biology Dynamic networks  Adaptive networks
+           
+           
+        
+        
+          
+          
+           
+            Evolution and adaptation
+           
+           
+            Artificial neural network
+             
+            Evolutionary computation Genetic algorithms Genetic programming Artificial life Machine learning Evolutionary developmental biology Artificial intelligence Evolutionary robotics  Evolvability
+           
+           
+        
+        
+          
+          
+           
+            Pattern formation
+           
+           
+            Fractals
+             
+            Reaction–diffusion systems Partial differential equations Dissipative structures Percolation Cellular automata Spatial ecology Self-replication  Geomorphology
+           
+           
+        
+        
+          
+          
+           
+            Systems theory and cybernetics
+           
+           
+            Autopoiesis
+             
+            Information theory Entropy Feedback  Goal-oriented Homeostasis  Operationalization Second-order cybernetics Self-reference System dynamics Systems science Systems thinking Sensemaking Variety  Theory of computation
+            
+           
+           
+        
+        
+          
+          
+           
+            Nonlinear dynamics
+           
+           
+            Time series analysis
+             
+            Ordinary differential equations Phase space Attractors Population dynamics Chaos Multistability Bifurcation  Coupled map lattices
+           
+           
+        
+        
+          
+          
+           
+            Game theory
+           
+           
+            Prisoner's dilemma
+             
+            Rational choice theory Bounded rationality  Evolutionary game theory
+            
+           
+           
+        
+        
+         
+          
+           
+            v
+            t
+            e
+           
+          
+        
+       
+       
+      Scalability is the property of a system to handle a growing amount of work by adding resources to the system. 
+      In an economic context, a scalable business model implies that a company can increase sales given increased resources. For example, a package delivery system is scalable because more packages can be delivered by adding more delivery vehicles. However, if all packages had to first pass through a single warehouse for sorting, the system would not be as scalable, because one warehouse can handle only a limited number of packages. 
+      In computing, scalability is a characteristic of computers, networks, algorithms, networking protocols, programs and applications. An example is a search engine, which must support increasing numbers of users, and the number of topics it indexes. Webscale is a computer architectural approach that brings the capabilities of large-scale cloud computing companies into enterprise data centers. 
+      In mathematics, scalability mostly refers to closure under scalar multiplication.  
+      
+       
+       
+        Contents
+        
+        
+        1 Examples 
+        2 Dimensions 
+        3 Domains 
+        4 Horizontal (scale out) and vertical scaling (scale up) 
+          
+          4.1 Horizontal or scale out 
+          4.2 Vertical or scale up 
+           
+        5 Network scalability 
+        6 Database scalability 
+        7 Strong versus eventual consistency (storage) 
+        8 Performance tuning versus hardware scalability 
+        9 Weak versus strong scaling 
+        10 See also 
+        11 References 
+        12 External links 
+        
+       
+      Examples 
+      The Incident Command System (ICS) is used by emergency response agencies in the United States. ICS can scale resource coordination from a single-engine roadside brushfire to an interstate wildfire. The first resource on scene establishes command, with authority to order resources and delegate responsibility (managing five to seven officers, who will again delegate to up to seven, and on as the incident grows). As an incident expands, more senior officers assume command.  
+      Dimensions 
+      Scalability can be measured over multiple dimensions, such as:  
+      
+       Administrative scalability: The ability for an increasing number of organizations or users to access a system. 
+       Functional scalability: The ability to enhance the system by adding new functionality without disrupting existing activities. 
+       Geographic scalability: The ability to maintain effectiveness during expansion from a local area to a larger region. 
+       Load scalability: The ability for a distributed system to expand and contract to accommodate heavier or lighter loads, including, the ease with which a system or component can be modified, added, or removed, to accommodate changing loads. 
+       Generation scalability: The ability of a system to scale by adopting new generations of components. 
+       Heterogeneous scalability is the ability to adopt components from different vendors.
+       
+      Domains 
+      
+       A routing protocol is considered scalable with respect to network size, if the size of the necessary routing table on each node grows as O(log N), where N is the number of nodes in the network. Some early peer-to-peer (P2P) implementations of Gnutella had scaling issues. Each node query flooded its requests to all nodes. The demand on each peer increased in proportion to the total number of peers, quickly overrunning their capacity. Other P2P systems like BitTorrent scale well because the demand on each peer is independent of the number of peers. Nothing is centralized, so the system can expand indefinitely without any resources other than the peers themselves. 
+       A scalable online transaction processing system or database management system is one that can be upgraded to process more transactions by adding new processors, devices and storage, and which can be upgraded easily and transparently without shutting it down. 
+       The distributed nature of the Domain Name System (DNS) allows it to work efficiently, serving billions of hosts on the worldwide Internet.
+       
+      Horizontal (scale out) and vertical scaling (scale up) 
+      Resources fall into two broad categories: horizontal and vertical.  
+      Horizontal or scale out 
+      Scaling horizontally (out/in) means adding more nodes to (or removing nodes from) a system, such as adding a new computer to a distributed software application. An example might involve scaling out from one web server to three. High-performance computing applications, such as seismic analysis and biotechnology, scale workloads horizontally to support tasks that once would have required expensive supercomputers. Other workloads, such as large social networks, exceed the capacity of the largest supercomputer and can only be handled by scalable systems. Exploiting this scalability requires software for efficient resource management and maintenance.  
+      Vertical or scale up 
+      Scaling vertically (up/down) means adding resources to (or removing resources from) a single node, typically involving the addition of CPUs, memory or storage to a single computer. 
+      Larger numbers of elements increases management complexity, more sophisticated programming to allocate tasks among resources and handle issues such as throughput and latency across nodes, while some applications do not scale horizontally.  
+      Network scalability 
+      Network function virtualization defines these terms differently: scaling out/in is the ability to scale by adding/removing resource instances (e.g., virtual machine), whereas scaling up/down is the ability to scale by changing allocated resources (e.g., memory/CPU/storage capacity).  
+      Database scalability 
+      
+      
+       Main article: Database scalability
+       
+      Scalability for databases requires that the database system be able to perform additional work given greater hardware resources, such as additional servers, processors, memory and storage. Workloads have continued to grow and demands on databases have followed suit. 
+      Algorithmic innovations have include row-level locking and table and index partitioning. Architectural innovations include shared-nothing and shared-everything architectures for managing multi-server configurations.  
+      Strong versus eventual consistency (storage) 
+      In the context of scale-out data storage, scalability is defined as the maximum storage cluster size which guarantees full data consistency, meaning there is only ever one valid version of stored data in the whole cluster, independently from the number of redundant physical data copies. Clusters which provide "lazy" redundancy by updating copies in an asynchronous fashion are called 'eventually consistent'. This type of scale-out design is suitable when availability and responsiveness are rated higher than consistency, which is true for many web file-hosting services or web caches (if you want the latest version, wait some seconds for it to propagate). For all classical transaction-oriented applications, this design should be avoided. 
+      Many open-source and even commercial scale-out storage clusters, especially those built on top of standard PC hardware and networks, provide eventual consistency only. Idem some NoSQL databases like CouchDB and others mentioned above. Write operations invalidate other copies, but often don't wait for their acknowledgements. Read operations typically don't check every redundant copy prior to answering, potentially missing the preceding write operation. The large amount of metadata signal traffic would require specialized hardware and short distances to be handled with acceptable performance (i.e., act like a non-clustered storage device or database). 
+      Whenever strong data consistency is expected, look for these indicators:  
+      
+       the use of InfiniBand, Fibrechannel or similar low-latency networks to avoid performance degradation with increasing cluster size and number of redundant copies. 
+       short cable lengths and limited physical extent, avoiding signal runtime performance degradation. 
+       majority / quorum mechanisms to guarantee data consistency whenever parts of the cluster become inaccessible.
+       
+      Indicators for eventually consistent designs (not suitable for transactional applications!) are:  
+      
+       write performance increases linearly with the number of connected devices in the cluster. 
+       while the storage cluster is partitioned, all parts remain responsive. There is a risk of conflicting updates.
+       
+      Performance tuning versus hardware scalability 
+      It is often advised to focus system design on hardware scalability rather than on capacity. It is typically cheaper to add a new node to a system in order to achieve improved performance than to partake in performance tuning to improve the capacity that each node can handle. But this approach can have diminishing returns (as discussed in performance engineering). For example: suppose 70% of a program can be sped up if parallelized and run on multiple CPUs instead of one. If 
+           
+            
+             
+             
+              α
+              
+             
+            
+           
+            
+            
+           
+          is the fraction of a calculation that is sequential, and 
+           
+            
+             
+             
+              1
+              
+             
+              −
+              
+             
+              α
+              
+             
+            
+           
+            
+            
+           
+          is the fraction that can be parallelized, the maximum speedup that can be achieved by using P processors is given according to Amdahl's Law:  
+      
+       
+        
+            
+             
+              
+               
+                
+                
+                 1
+                 
+                 
+                 
+                  α
+                  
+                 
+                  +
+                  
+                  
+                   
+                    
+                    
+                     1
+                     
+                    
+                     −
+                     
+                    
+                     α
+                     
+                    
+                   
+                    P
+                    
+                   
+                  
+                 
+                
+               
+              
+               .
+               
+              
+             
+            
+             }}}.}
+             
+            
+          
+       
+       
+      Substituting the value for this example, using 4 processors gives  
+      
+       
+        
+            
+             
+              
+               
+                
+                
+                 1
+                 
+                 
+                 
+                  0.3
+                  
+                 
+                  +
+                  
+                  
+                   
+                    
+                    
+                     1
+                     
+                    
+                     −
+                     
+                    
+                     0.3
+                     
+                    
+                   
+                    4
+                    
+                   
+                  
+                 
+                
+               
+              
+               =
+               
+              
+               2.105.
+               
+              
+             
+            
+             }}}=2.105.}
+             
+            
+          
+       
+       
+      Doubling the computing power to 8 processors gives  
+      
+       
+        
+            
+             
+              
+               
+                
+                
+                 1
+                 
+                 
+                 
+                  0.3
+                  
+                 
+                  +
+                  
+                  
+                   
+                    
+                    
+                     1
+                     
+                    
+                     −
+                     
+                    
+                     0.3
+                     
+                    
+                   
+                    8
+                    
+                   
+                  
+                 
+                
+               
+              
+               =
+               
+              
+               2.581.
+               
+              
+             
+            
+             }}}=2.581.}
+             
+            
+          
+       
+       
+      Doubling the processing power has only sped up the process by roughly one-fifth. If the whole problem was parallelizable, the speed would also double. Therefore, throwing in more hardware is not necessarily the optimal approach.  
+      Weak versus strong scaling 
+      High performance computing has two common notions of scalability:  
+      
+       Strong scaling is defined as how the solution time varies with the number of processors for a fixed total problem size. 
+       Weak scaling is defined as how the solution time varies with the number of processors for a fixed problem size per processor.
+       
+      See also 
+      
+       
+       
+        Computational complexity theory 
+        Extensibility 
+        Gustafson's law 
+        List of system quality attributes 
+        Load balancing (computing) 
+        Lock (computer science) 
+        NoSQL 
+        Scalable Video Coding (SVC) 
+        Similitude (model)
+        
+       
+      References 
+      
+       
+        
+        ^ Bondi, André B. (2000). Characteristics of scalability and their impact on performance. Proceedings of the second international workshop on Software and performance – WOSP '00. p.&nbsp;195. doi:10.1145/350391.350432. ISBN&nbsp;158113195X.  
+        ^ 
+          Hill, Mark D. (1990). "What is scalability?". ACM SIGARCH Computer Architecture News. 18 (4): 18. doi:10.1145/121973.121975. S2CID&nbsp;1232925. and 
+          Duboc, Leticia; Rosenblum, David S.; Wicks, Tony (2006). A framework for modelling and analysis of software systems scalability (PDF). Proceedings of the 28th international conference on Software engineering – ICSE '06. p.&nbsp;949. doi:10.1145/1134285.1134460. ISBN&nbsp;1595933751.  
+        ^ 
+          Laudon, Kenneth Craig; Traver, Carol Guercio (2008). E-commerce: Business, Technology, Society. Pearson Prentice Hall/Pearson Education. ISBN&nbsp;9780136006459.  
+        ^ 
+          "Why web-scale is the future". Network World. 2020-02-13. Retrieved 2017-06-01.  
+        ^ 
+          Bigley, Gregory A.; Roberts, Karlene H. (2001-12-01). "The Incident Command System: High-Reliability Organizing for Complex and Volatile Task Environments". Academy of Management Journal. 44 (6): 1281–1299. doi:10.5465/3069401. ISSN&nbsp;0001-4273.  
+        ^ a b c 
+          Hesham El-Rewini and Mostafa Abd-El-Barr (April 2005). Advanced Computer Architecture and Parallel Processing. John Wiley &amp; Sons. p.&nbsp;66. ISBN&nbsp;978-0-471-47839-3.  
+        ^ 
+          Michael, Maged; Moreira, Jose E.; Shiloach, Doron; Wisniewski, Robert W. (March 26, 2007). Scale-up x Scale-out: A Case Study using Nutch/Lucene. 2007 IEEE International Parallel and Distributed Processing Symposium. p.&nbsp;1. doi:10.1109/IPDPS.2007.370631. ISBN&nbsp;978-1-4244-0909-9.  
+        ^ 
+          "Network Functions Virtualisation (NFV); Terminology for Main Concepts in NFV" (PDF).  
+        ^ 
+          Sadek Drobi (January 11, 2008). "Eventual consistency by Werner Vogels". InfoQ. Retrieved April 8, 2017.  
+        ^ 
+          "The Weak Scaling of DL_POLY 3". STFC Computational Science and Engineering Department. Archived from the original on March 7, 2014. Retrieved March 8, 2014.  
+       
+       
+      External links 
+       
+       
+         
+          
+         Look up scalability in Wiktionary, the free dictionary.
+         
+       
+       
+      
+       Links to diverse learning resources – page curated by the memcached project. 
+       Scalable Definition – by The Linux Information Project (LINFO) 
+       Scale in Distributed Systems B. Clifford Neuman, In: Readings in Distributed Computing Systems, IEEE Computer Society Press, 1994
+       
+      
+       
+      
+      
+       
+        
+         
+          Authority control: National libraries 
+          
+            
+            
+             Germany
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            RAID
+           
+         
+         
+          
+           
+            Redundant array of independent disks
+           
+         
+         
+          Disk arrays
+          
+            
+            
+             Data scrubbing 
+             Data striping 
+             Disk array controller 
+             Disk mirroring 
+             Parity drive
+             
+           
+         
+         
+          RAID levels
+          
+            
+            
+             Standard 
+             Nested 
+             Non-standard
+             
+           
+         
+         
+          Principles
+          
+            
+            
+             Availability 
+              
+               Fault tolerance 
+               Data redundancy 
+               Degraded mode 
+               Failover 
+               Parity bit 
+               Replication
+               
+             Scalability 
+             Throughput
+             
+           
+         
+         
+          Interfaces
+          
+            
+            
+             bioctl 
+             geom 
+             mdadm 
+             Oracle ZFS
+             
+           
+         
+         
+          
+           
+            Non-RAID drive architectures
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Parallel computing
+           
+         
+         
+          General
+          
+            
+            
+             Distributed computing 
+             Parallel computing 
+             Massively parallel 
+             Cloud computing 
+             High-performance computing 
+             Multiprocessing 
+             Manycore processor 
+             GPGPU 
+             Computer network 
+             Systolic array
+             
+           
+         
+         
+          Levels
+          
+            
+            
+             Bit 
+             Instruction 
+             Thread 
+             Task 
+             Data 
+             Memory 
+             Loop 
+             Pipeline
+             
+           
+         
+         
+          Multithreading
+          
+            
+            
+             Temporal 
+             Simultaneous (SMT) 
+             Speculative (SpMT) 
+             Preemptive 
+             Cooperative 
+             Clustered multi-thread (CMT) 
+             Hardware scout
+             
+           
+         
+         
+          Theory
+          
+            
+            
+             PRAM model 
+             PEM model 
+             Analysis of parallel algorithms 
+             Amdahl's law 
+             Gustafson's law 
+             Cost efficiency 
+             Karp–Flatt metric 
+             Slowdown 
+             Speedup
+             
+           
+         
+         
+          Elements
+          
+            
+            
+             Process 
+             Thread 
+             Fiber 
+             Instruction window 
+             Array data structure
+             
+           
+         
+         
+          Coordination
+          
+            
+            
+             Multiprocessing 
+             Memory coherency 
+             Cache coherency 
+             Cache invalidation 
+             Barrier 
+             Synchronization 
+             Application checkpointing
+             
+           
+         
+         
+          Programming
+          
+            
+            
+             Stream processing 
+             Dataflow programming 
+             Models 
+              
+               Implicit parallelism 
+               Explicit parallelism 
+               Concurrency
+               
+             Non-blocking algorithm
+             
+           
+         
+         
+          Hardware
+          
+            
+            
+             Flynn's taxonomy 
+              
+               SISD 
+               SIMD 
+                
+                 Array processing (SIMT) 
+                 Pipelined processing 
+                 Associative processing
+                 
+               MISD 
+               MIMD
+               
+             Dataflow architecture 
+             Pipelined processor 
+             Superscalar processor 
+             Vector processor 
+             Multiprocessor 
+              
+               symmetric 
+               asymmetric
+               
+             Memory 
+              
+               shared 
+               distributed 
+               distributed shared 
+               UMA 
+               NUMA 
+               COMA
+               
+             Massively parallel computer 
+             Computer cluster 
+             Grid computer 
+             Hardware acceleration
+             
+           
+         
+         
+          APIs
+          
+            
+            
+             Ateji PX 
+             Boost 
+             Chapel 
+             HPX 
+             Charm++ 
+             Cilk 
+             Coarray Fortran 
+             CUDA 
+             Dryad 
+             C++ AMP 
+             Global Arrays 
+             GPUOpen 
+             MPI 
+             OpenMP 
+             OpenCL 
+             OpenHMPP 
+             OpenACC 
+             Parallel Extensions 
+             PVM 
+             POSIX Threads 
+             RaftLib 
+             ROCm 
+             UPC 
+             TBB 
+             ZPL
+             
+           
+         
+         
+          Problems
+          
+            
+            
+             Automatic parallelization 
+             Deadlock 
+             Deterministic algorithm 
+             Embarrassingly parallel 
+             Parallel slowdown 
+             Race condition 
+             Software lockout 
+             Scalability 
+             Starvation
+             
+           
+         
+         
+          
+            
+            
+             &nbsp;Category: Parallel computing
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Complex systems
+           
+         
+         
+          Background
+          
+            
+            
+             Emergence 
+             Self-organization
+             
+           
+         
+         
+          Collective behaviour
+          
+            
+            
+             Social dynamics 
+             Collective intelligence 
+             Collective action 
+             Collective consciousness 
+             Self-organized criticality 
+             Herd mentality 
+             Phase transition 
+             Agent-based modelling 
+             Synchronization 
+             Ant colony optimization 
+             Particle swarm optimization 
+             Swarm behaviour
+             
+           
+         
+         
+          Evolution and adaptation
+          
+            
+            
+             Artificial neural network 
+             Evolutionary computation 
+             Genetic algorithms 
+             Genetic programming 
+             Artificial life 
+             Machine learning 
+             Evolutionary developmental biology 
+             Artificial intelligence 
+             Evolutionary robotics 
+             Evolvability
+             
+           
+         
+         
+          Game theory
+          
+            
+            
+             Prisoner's dilemma 
+             Rational choice theory 
+             Bounded rationality 
+             Irrational behaviour 
+             Evolutionary game theory
+             
+           
+         
+         
+          Networks
+          
+            
+            
+             Social network analysis 
+             Small-world networks 
+             Community identification 
+             Centrality 
+             Motifs 
+             Graph Theory 
+             Scaling 
+             Robustness 
+             Systems biology 
+             Dynamic networks 
+             Adaptive networks
+             
+           
+         
+         
+          Nonlinear dynamics
+          
+            
+            
+             Time series analysis 
+             Ordinary differential equations 
+             Iterative maps 
+             Phase space 
+             Attractor 
+             Stability analysis 
+             Population dynamics 
+             Chaos 
+             Multistability 
+             Bifurcation 
+             Coupled map lattices
+             
+           
+         
+         
+          Pattern formation
+          
+            
+            
+             Spatial fractals 
+             Reaction-diffusion systems 
+             Partial differential equations 
+             Dissipative structures 
+             Percolation 
+             Cellular automata 
+             Spatial ecology 
+             Self-replication 
+             Spatial evolutionary biology 
+             Geomorphology
+             
+           
+         
+         
+          Systems theory
+          
+            
+            
+             Homeostasis 
+             Operationalization 
+             Feedback 
+             Self-reference 
+             Goal-oriented 
+             System dynamics 
+             Sensemaking 
+             Entropy 
+             Cybernetics 
+             Autopoiesis 
+             Information theory 
+             Computation theory 
+             Complexity measurement
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Software quality
+           
+         
+         
+          Qualities
+          
+           
+           
+            
+             
+              Internal
+              
+                
+                
+                 Size 
+                 Maintainability 
+                 Flexibility 
+                 Portability 
+                 Reusability 
+                 Readability 
+                 Scalability 
+                 Testability 
+                 Understandability 
+                 Loose coupling 
+                 Orthogonality
+                 
+               
+             
+             
+              External
+              
+                
+                
+                 Usability 
+                 Reliability 
+                 Adaptability 
+                 Correctness 
+                 Accuracy 
+                 Efficiency 
+                 Robustness 
+                 Security 
+                 Safety
+                 
+               
+             
+            
+           
+           
+         
+         
+          Standards and lists
+          
+            
+            
+             ISO/IEC 9126 
+             Non-functional requirements 
+             List of system quality attributes
+             
+           
+         
+         
+          Processes
+          
+            
+            
+             Software quality management 
+             Software quality control 
+             Software quality assurance
+             
+           
+         
+         
+          
+            
+            
+              
+              Commons
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Scalability&amp;oldid=1059995706"
+     
+     
+    
+     
+      Categories: 
+      
+       Computer architecture
+       Computational resources
+       Computer systems
+       Engineering concepts
+       Software quality
+      
+     
+     
+      Hidden categories: 
+      
+       All articles with dead external links
+       Articles with dead external links from April 2017
+       Articles with short description
+       Short description is different from Wikidata
+       Articles needing additional references from March 2012
+       All articles needing additional references
+       Articles with GND identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       Azərbaycanca
+       Български
+       Català
+       Čeština
+       Dansk
+       Deutsch
+       Eesti
+       Español
+       Euskara
+       فارسی
+       Français
+       हिन्दी
+       Bahasa Indonesia
+       Italiano
+       עברית
+       Magyar
+       Nederlands
+       日本語
+       Norsk bokmål
+       Polski
+       Português
+       Română
+       Русский
+       Slovenščina
+       Українська
+       اردو
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 12 December 2021, at 22:06&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

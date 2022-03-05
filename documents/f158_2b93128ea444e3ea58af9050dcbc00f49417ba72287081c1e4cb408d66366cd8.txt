@@ -1,0 +1,1828 @@
+
+ 
+  
+   
+  SMART Information Retrieval System - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   SMART Information Retrieval System 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      The SMART (System for the Mechanical Analysis and Retrieval of Text) Information Retrieval System is an information retrieval system developed at Cornell University in the 1960s. Many important concepts in information retrieval were developed as part of research on the SMART system, including the vector space model, relevance feedback, and Rocchio classification. 
+      Gerard Salton led the group that developed SMART. Other contributors included Mike Lesk. 
+      The SMART system also provides a set of corpora, queries and reference rankings, taken from different subjects, notably  
+      
+       ADI: publications from information science reviews 
+       Computer science 
+       Cranfield collection: publications from aeronautic reviews 
+       Forensic science: library science 
+       MEDLARS collection: publications from medical reviews 
+       Time magazine collection: archives of the generalist review Time in 1963
+       
+      To the legacy of the SMART system belongs the so-called SMART triple notation, a mnemonic scheme for denoting tf-idf weighting variants in the vector space model. The mnemonic for representing a combination of weights takes the form ddd.qqq, where the first three letters represents the term weighting of the collection document vector and the second three letters represents the term weighting for the query document vector. For example, ltc.lnn represents the ltc weighting applied to a collection document and the lnn weighting applied to a query document. 
+      The following tables establish the SMART notation:  
+       
+       
+         Symbols and notation 
+        
+       
+         
+         
+              
+               
+                
+                 
+                 
+                  D
+                  
+                  
+                  
+                   i
+                   
+                  
+                 
+                
+                 =
+                 
+                
+                 {
+                 
+                 
+                 
+                  w
+                  
+                  
+                   
+                   
+                    i
+                    
+                    
+                    
+                     1
+                     
+                    
+                   
+                  
+                 
+                
+                 ,
+                 
+                 
+                 
+                  w
+                  
+                  
+                   
+                   
+                    i
+                    
+                    
+                    
+                     2
+                     
+                    
+                   
+                  
+                 
+                
+                 ,
+                 
+                
+                 …
+                 
+                
+                 ,
+                 
+                 
+                 
+                  w
+                  
+                  
+                   
+                   
+                    i
+                    
+                    
+                    
+                     t
+                     
+                    
+                   
+                  
+                 
+                
+                 }
+                 
+                
+               
+              
+               =\},w_},\ldots ,w_}\}}
+               
+              
+             represents a document vector, where 
+              
+               
+                
+                 
+                 
+                  w
+                  
+                  
+                   
+                   
+                    i
+                    
+                    
+                    
+                     k
+                     
+                    
+                   
+                  
+                 
+                
+               
+              
+               }}
+               
+              
+             is the weight of the term 
+              
+               
+                
+                 
+                 
+                  T
+                  
+                  
+                  
+                   k
+                   
+                  
+                 
+                
+               
+              
+               }
+               
+              
+             in 
+              
+               
+                
+                 
+                 
+                  D
+                  
+                  
+                  
+                   i
+                   
+                  
+                 
+                
+               
+              
+               }
+               
+              
+             and 
+              
+               
+                
+                
+                 t
+                 
+                
+               
+              
+               
+               
+              
+             is the number of unique terms in 
+              
+               
+                
+                 
+                 
+                  D
+                  
+                  
+                  
+                   i
+                   
+                  
+                 
+                
+               
+              
+               }
+               
+              
+            . Positive features characterize terms that are present in a document, and the weight of zero is used for terms that are absent from a document. 
+         
+         
+         
+              
+               
+                
+                 
+                 
+                  f
+                  
+                  
+                   
+                   
+                    i
+                    
+                    
+                    
+                     k
+                     
+                    
+                   
+                  
+                 
+                
+               
+              
+               }}
+               
+              
+              
+         Occurrence frequency of term 
+              
+               
+                
+                 
+                 
+                  T
+                  
+                  
+                  
+                   k
+                   
+                  
+                 
+                
+               
+              
+               }
+               
+              
+             in document 
+              
+               
+                
+                 
+                 
+                  D
+                  
+                  
+                  
+                   i
+                   
+                  
+                 
+                
+               
+              
+               }
+               
+              
+              
+         
+              
+               
+                
+                 
+                 
+                  u
+                  
+                  
+                  
+                   i
+                   
+                  
+                 
+                
+               
+              
+               }
+               
+              
+              
+         Number of unique terms in document 
+              
+               
+                
+                 
+                 
+                  D
+                  
+                  
+                  
+                   i
+                   
+                  
+                 
+                
+               
+              
+               }
+               
+              
+             
+         
+         
+         
+              
+               
+                
+                
+                 N
+                 
+                
+               
+              
+               
+               
+              
+              
+         Number of collection documents  
+         
+              
+               
+                
+                
+                 avg
+                 
+                
+                 ⁡
+                 
+                
+                 (
+                 
+                
+                 u
+                 
+                
+                 )
+                 
+                
+               
+              
+                (u)}
+               
+              
+              
+         Average number of unique terms in a document 
+         
+         
+         
+              
+               
+                
+                 
+                 
+                  n
+                  
+                  
+                  
+                   k
+                   
+                  
+                 
+                
+               
+              
+               }
+               
+              
+              
+         Number of documents with term 
+              
+               
+                
+                 
+                 
+                  T
+                  
+                  
+                  
+                   k
+                   
+                  
+                 
+                
+               
+              
+               }
+               
+              
+             present  
+         
+              
+               
+                
+                 
+                 
+                  b
+                  
+                  
+                  
+                   t
+                   
+                  
+                 
+                
+               
+              
+               }
+               
+              
+              
+         Number of characters in document 
+              
+               
+                
+                 
+                 
+                  D
+                  
+                  
+                  
+                   i
+                   
+                  
+                 
+                
+               
+              
+               }
+               
+              
+             
+         
+         
+         
+              
+               
+                
+                
+                 max
+                 
+                
+                 (
+                 
+                 
+                 
+                  f
+                  
+                  
+                   
+                   
+                    i
+                    
+                    
+                    
+                     k
+                     
+                    
+                   
+                  
+                 
+                
+                 )
+                 
+                
+               
+              
+               })}
+               
+              
+              
+         Occurrence frequency of the most common term in document 
+              
+               
+                
+                 
+                 
+                  D
+                  
+                  
+                  
+                   i
+                   
+                  
+                 
+                
+               
+              
+               }
+               
+              
+              
+         
+              
+               
+                
+                
+                 avg
+                 
+                
+                 ⁡
+                 
+                
+                 (
+                 
+                
+                 b
+                 
+                
+                 )
+                 
+                
+               
+              
+                (b)}
+               
+              
+              
+         Average number of characters in a document 
+         
+         
+         
+              
+               
+                
+                
+                 avg
+                 
+                
+                 ⁡
+                 
+                
+                 (
+                 
+                 
+                 
+                  f
+                  
+                  
+                   
+                   
+                    i
+                    
+                    
+                    
+                     k
+                     
+                    
+                   
+                  
+                 
+                
+                 )
+                 
+                
+               
+              
+                (f_})}
+               
+              
+              
+         Average occurrence frequency of a term in document 
+              
+               
+                
+                 
+                 
+                  D
+                  
+                  
+                  
+                   i
+                   
+                  
+                 
+                
+               
+              
+               }
+               
+              
+              
+         
+              
+               
+                
+                
+                 G
+                 
+                
+               
+              
+               
+               
+              
+              
+         Global collection statistics 
+         
+         
+         
+              
+               
+                
+                
+                 s
+                 
+                
+               
+              
+               
+               
+              
+              
+         The slope in the context of pivoted document length normalization  
+           
+          
+        
+       
+       
+       
+       
+        Smart term-weighting triple notation 
+        
+       
+         
+         Term frequency 
+              
+               
+                
+                 
+                 
+                  tf
+                  
+                 
+                
+                 (
+                 
+                 
+                 
+                  f
+                  
+                  
+                   
+                   
+                    i
+                    
+                    
+                    
+                     k
+                     
+                    
+                   
+                  
+                 
+                
+                 )
+                 
+                
+               
+              
+               }(f_})}
+               
+              
+              
+         Document frequency 
+              
+               
+                
+                 
+                 
+                  df
+                  
+                 
+                
+                 (
+                 
+                
+                 N
+                 
+                
+                 ,
+                 
+                 
+                 
+                  n
+                  
+                  
+                  
+                   k
+                   
+                  
+                 
+                
+                 )
+                 
+                
+               
+              
+               }(N,n_)}
+               
+              
+              
+         Document length normalization 
+              
+               
+                
+                
+                 g
+                 
+                
+                 (
+                 
+                
+                 G
+                 
+                
+                 ,
+                 
+                 
+                 
+                  D
+                  
+                  
+                  
+                   i
+                   
+                  
+                 
+                
+                 )
+                 
+                
+               
+              
+               )}
+               
+              
+             
+         
+         
+           
+         b  
+         
+              
+               
+                
+                
+                 1
+                 
+                
+               
+              
+               
+               
+              
+              
+         Binary weight  
+         x  
+         n  
+         
+              
+               
+                
+                
+                 1
+                 
+                
+               
+              
+               
+               
+              
+              
+         Disregards the collection frequency  
+         x  
+         n  
+         
+              
+               
+                
+                
+                 1
+                 
+                
+               
+              
+               
+               
+              
+              
+         No document length normalization 
+         
+         
+         t  
+         n  
+         
+              
+               
+                
+                 
+                 
+                  f
+                  
+                  
+                   
+                   
+                    i
+                    
+                    
+                    
+                     k
+                     
+                    
+                   
+                  
+                 
+                
+               
+              
+               }}
+               
+              
+              
+         Raw term frequency  
+         f  
+           
+         
+              
+               
+                
+                 
+                 
+                  log
+                  
+                  
+                  
+                   2
+                   
+                  
+                 
+                
+                 ⁡
+                 
+                 
+                 
+                  (
+                  
+                  
+                   
+                   
+                    N
+                    
+                    
+                    
+                     n
+                     
+                     
+                     
+                      k
+                      
+                     
+                    
+                   
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+               \left(}}\right)}
+               
+              
+              
+         Inverse collection frequency  
+           
+         c  
+         
+              
+               
+                
+                 
+                  
+                   
+                   
+                    ∑
+                    
+                    
+                    
+                     k
+                     
+                    
+                     =
+                     
+                    
+                     1
+                     
+                    
+                    
+                    
+                     t
+                     
+                    
+                   
+                   
+                   
+                    w
+                    
+                    
+                     
+                     
+                      i
+                      
+                      
+                      
+                       k
+                       
+                      
+                     
+                    
+                    
+                    
+                     2
+                     
+                    
+                   
+                  
+                 
+                
+               
+              
+               ^w_}^}}}
+               
+              
+              
+         Cosine normalization 
+         
+         
+           
+         a  
+         
+              
+               
+                
+                
+                 0.5
+                 
+                
+                 +
+                 
+                
+                 0.5
+                 
+                 
+                  
+                   
+                   
+                    f
+                    
+                    
+                     
+                     
+                      i
+                      
+                      
+                      
+                       k
+                       
+                      
+                     
+                    
+                   
+                   
+                   
+                    max
+                    
+                   
+                    (
+                    
+                    
+                    
+                     f
+                     
+                     
+                      
+                      
+                       i
+                       
+                       
+                       
+                        k
+                        
+                       
+                      
+                     
+                    
+                   
+                    )
+                    
+                   
+                  
+                 
+                
+               
+              
+               }}})}}}
+               
+              
+              
+         Augmented normalized term frequency  
+           
+         t  
+         
+              
+               
+                
+                 
+                 
+                  log
+                  
+                  
+                  
+                   2
+                   
+                  
+                 
+                
+                 ⁡
+                 
+                 
+                 
+                  (
+                  
+                  
+                   
+                    
+                    
+                     N
+                     
+                    
+                     +
+                     
+                    
+                     1
+                     
+                    
+                    
+                    
+                     n
+                     
+                     
+                     
+                      k
+                      
+                     
+                    
+                   
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+               \left(}}\right)}
+               
+              
+              
+         Inverse collection frequency  
+           
+         u  
+         
+              
+               
+                
+                
+                 1
+                 
+                
+                 −
+                 
+                
+                 s
+                 
+                
+                 +
+                 
+                
+                 s
+                 
+                 
+                  
+                   
+                   
+                    u
+                    
+                    
+                    
+                     i
+                     
+                    
+                   
+                   
+                   
+                    avg
+                    
+                   
+                    ⁡
+                    
+                   
+                    (
+                    
+                   
+                    u
+                    
+                   
+                    )
+                    
+                   
+                  
+                 
+                
+               
+              
+               } (u)}}}
+               
+              
+              
+         Pivoted unique normalization 
+         
+         
+           
+         l  
+         
+              
+               
+                
+                
+                 1
+                 
+                
+                 +
+                 
+                 
+                 
+                  log
+                  
+                  
+                  
+                   2
+                   
+                  
+                 
+                
+                 ⁡
+                 
+                 
+                 
+                  f
+                  
+                  
+                   
+                   
+                    i
+                    
+                    
+                    
+                     k
+                     
+                    
+                   
+                  
+                 
+                
+               
+              
+               f_}}
+               
+              
+              
+         Logarithm  
+         p  
+           
+         
+              
+               
+                
+                 
+                 
+                  log
+                  
+                  
+                  
+                   2
+                   
+                  
+                 
+                
+                 ⁡
+                 
+                 
+                 
+                  (
+                  
+                  
+                   
+                    
+                    
+                     N
+                     
+                    
+                     −
+                     
+                     
+                     
+                      n
+                      
+                      
+                      
+                       k
+                       
+                      
+                     
+                    
+                    
+                    
+                     n
+                     
+                     
+                     
+                      k
+                      
+                     
+                    
+                   
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+               \left(}}}\right)}
+               
+              
+              
+         Probabilistic inverse collection frequency  
+           
+         b  
+         
+              
+               
+                
+                
+                 1
+                 
+                
+                 −
+                 
+                
+                 s
+                 
+                
+                 +
+                 
+                
+                 s
+                 
+                 
+                  
+                   
+                   
+                    b
+                    
+                    
+                    
+                     i
+                     
+                    
+                   
+                   
+                   
+                    avg
+                    
+                   
+                    ⁡
+                    
+                   
+                    (
+                    
+                   
+                    b
+                    
+                   
+                    )
+                    
+                   
+                  
+                 
+                
+               
+              
+               } (b)}}}
+               
+              
+              
+         Pivoted characted length normalization 
+         
+         
+           
+         L  
+         
+              
+               
+                
+                 
+                  
+                   
+                   
+                    1
+                    
+                   
+                    +
+                    
+                    
+                    
+                     log
+                     
+                     
+                     
+                      2
+                      
+                     
+                    
+                   
+                    ⁡
+                    
+                   
+                    (
+                    
+                    
+                    
+                     f
+                     
+                     
+                      
+                      
+                       i
+                       
+                       
+                       
+                        k
+                        
+                       
+                      
+                     
+                    
+                   
+                    )
+                    
+                   
+                   
+                   
+                    1
+                    
+                   
+                    +
+                    
+                    
+                    
+                     log
+                     
+                     
+                     
+                      2
+                      
+                     
+                    
+                   
+                    ⁡
+                    
+                   
+                    (
+                    
+                   
+                    avg
+                    
+                   
+                    ⁡
+                    
+                   
+                    (
+                    
+                    
+                    
+                     f
+                     
+                     
+                      
+                      
+                       i
+                       
+                       
+                       
+                        k
+                        
+                       
+                      
+                     
+                    
+                   
+                    )
+                    
+                   
+                    )
+                    
+                   
+                  
+                 
+                
+               
+              
+               (f_})}(\operatorname  (f_}))}}}
+               
+              
+              
+         Average-term-frequency-based normalization  
+           
+           
+           
+           
+           
+           
+           
+          
+         
+         
+           
+         d  
+         
+              
+               
+                
+                
+                 1
+                 
+                
+                 +
+                 
+                 
+                 
+                  log
+                  
+                  
+                  
+                   2
+                   
+                  
+                 
+                
+                 ⁡
+                 
+                
+                 (
+                 
+                
+                 1
+                 
+                
+                 +
+                 
+                 
+                 
+                  log
+                  
+                  
+                  
+                   2
+                   
+                  
+                 
+                
+                 ⁡
+                 
+                
+                 (
+                 
+                 
+                 
+                  f
+                  
+                  
+                   
+                   
+                    i
+                    
+                    
+                    
+                     k
+                     
+                    
+                   
+                  
+                 
+                
+                 )
+                 
+                
+                 )
+                 
+                
+               
+              
+               (1+\log _(f_}))}
+               
+              
+              
+         Double logarithm  
+           
+           
+           
+           
+           
+           
+           
+          
+        
+       
+       
+      The gray letters in the first, fifth, and ninth columns are the scheme used by Salton and Buckley in their 1988 paper. The bold letters in the second, sixth, and tenth columns are the scheme used in experiments reported thereafter.  
+      References 
+      
+       
+       
+         
+         ^ Salton, G, Lesk, M.E. (June 1965). "The SMART automatic document retrieval systems—an illustration". Communications of the ACM. 8 (6): 391–398. doi:10.1145/364955.364990. Retrieved 23 July 2021.  
+         ^ 
+           Palchowdhury, Sauparna (2016). "On The Provenance of tf-idf". sauparna.sdf.org. Retrieved 2019-07-29.  
+         ^ a b c d Singhal, A., Buckley, C., &amp; Mitra, M. (1996). Pivoted Document Length Normalization. SIGIR Forum, 51, 176-184.  
+         ^ Salton, G., &amp; Buckley, C. (1988). Term-Weighting Approaches in Automatic Text Retrieval. Inf. Process. Manage., 24, 513-523.  
+        
+       
+       
+      External links 
+      
+       Software and test collections (FTP at Cornell University) 
+       Interactive SMART tutorial
+       
+        
+      
+      
+       
+        
+         
+          
+          This software-engineering-related article is a stub. You can help Wikipedia by expanding it.
+         
+        
+       
+       
+       
+        
+         v
+         t
+         e
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=SMART_Information_Retrieval_System&amp;oldid=1035128242"
+     
+     
+    
+     
+      Categories: 
+      
+       Discontinued software
+       Search engine software
+       Software engineering stubs
+      
+     
+     
+      Hidden categories: 
+      
+       All articles with dead external links
+       Articles with dead external links from October 2019
+       All stub articles
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+       
+      
+       Add links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 23 July 2021, at 21:09&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

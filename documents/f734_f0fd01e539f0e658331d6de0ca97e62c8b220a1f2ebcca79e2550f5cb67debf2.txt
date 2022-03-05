@@ -1,0 +1,585 @@
+
+ 
+  
+   
+  Sheelagh Carpendale - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Sheelagh Carpendale 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Canadian computer scientist
+       
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This biography of a living person needs additional citations for verification. Please help by adding reliable sources. Contentious material about living persons that is unsourced or poorly sourced must be removed immediately, especially if potentially libelous or harmful.Find sources:&nbsp;"Sheelagh Carpendale"&nbsp;–&nbsp;news&nbsp;· newspapers&nbsp;· books&nbsp;· scholar&nbsp;· JSTOR (August 2013) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      
+      
+       
+        
+         
+          
+           Sheelagh Carpendale
+          
+        
+        
+         Born
+         
+          
+           Montreal, Quebec, Canada
+          
+        
+        
+         Nationality
+         Canada
+        
+        
+         Citizenship
+         Canada
+        
+        
+         Alma&nbsp;mater
+         Simon Fraser University (PhD)
+        
+        
+         Awards
+         
+           
+           
+            2018&nbsp;&nbsp;ACM CHI Academy 
+            2018&nbsp;&nbsp;IEEE VGTC Visualization Career Award
+            
+          
+        
+        
+         
+          Scientific career
+        
+        
+         Fields
+         Computer Science (Human-Computer Interaction)
+        
+        
+         Institutions
+         
+           
+           
+            Simon Fraser University 
+            University of Calgary
+            
+          
+        
+        
+         Doctoral advisor
+         F. D. Fracchia, T. Shermer, A. Liestman
+        
+        
+          
+        
+        
+         Website
+         
+          
+           www.cs.sfu.ca/~sheelagh/
+          
+        
+       
+       
+      Sheelagh Carpendale is a Canadian artist and computer scientist working in the field of Information Visualization and Human-Computer Interaction.  
+      
+       
+       
+        Contents
+        
+        
+        1 Profession 
+        2 College 
+        3 Recognition 
+        4 References 
+        5 External links 
+        
+       
+      Profession 
+      Carpendale is a Professor at the School of Computing Science at Simon Fraser University where she holds an NSERC/SMART Industrial Research Chair in Interactive Technologies. She was previously a professor at University of Calgary where she held a Canada Research Chair in Information Visualization and an NSERC/AITF/SMART Industrial Research Chair in Interactive Technologies. She directs the Innovations in Visualization (InnoVis.) research group. At University of Calgary, she founded the interdisciplinary graduate group, Computational Media Design. Her research on information visualization, large interactive displays, and new media art draws on her dual background in Computer Science (BSc. and Ph.D. Simon Fraser University) and Visual Arts (Sheridan College, School of Design and Emily Carr, College of Art).  
+      College 
+      Carpendale left high school with science scholarships but instead initially opted for fine arts, attending Sheridan College, School of Design and Emily Carr, Institute of Art and Design. For ten years she worked professionally in the arts. During this time she was part of establishing the Harbourfront Arts Centre at York Quay, in Toronto. Subsequently, she has reconnected with her interests in math and science and studied computer science at Simon Fraser University. Her research expertise focuses on information visualization, interaction design, and qualitative empirical work and includes such projects as: visualizing ecological dynamics, using visualization to integrate scientific results and sounds from Antarctica to create a tool to inspire musical composition, visualizing uncertainty, visualizing social activities, and multi-touch and tabletop interaction. She has found the combined visual arts and computer science background invaluable in her research.  
+      Recognition 
+      She is the recipient of several major awards including the British Academy of Film and Television Arts Award (BAFTA) for Off-line Learning as well as academic and industrial grants from Natural Sciences and Engineering Research Council, Intel Inc., Canada Foundation for Innovation, and Forest Renewal British Columbia. In 2012 she was awarded the NSERC E.W.R. Steacie Memorial Fellowship, which is given to the six top scientists nationally across all NSERC research areas and within 12 years of their PhD. She will also be featured in Canada's Science, Technology and Innovation Council State of the Nation 2012 report. In 2013, she was awarded the Canadian Human Computer Communications Society (CHCCS) Achievement Award, which is presented periodically to a Canadian researcher who has made a substantial contribution to the fields of computer graphics, visualization, or human- computer interaction. She was elected to the CHI Academy and received the IEEE VGTC Visualization Career Award in 2018. In 2021, she was inducted as a fellow of the Royal Society of Canada, a top honour for Canadian researchers.  
+      References 
+      
+       
+       
+         
+         ^  InnoVis  
+         ^  Computational Media Design  
+         ^ Emily Carr University of Art and Design Emily Carr  
+         ^  NSERC Steacie Fellowship  
+         ^  Canadian Human Computer Communications Society (CHCCS) Achievement Award  
+         ^ Award Recipients, ACM SIGCHI, retrieved 2018-10-18  
+         ^ 
+           The 2018 Visualization Career Award, IEEE Computer Society, retrieved 2020-06-05  
+         ^ 
+           Royal Society of Canada Class of 2021 (PDF), Royal Society Of Canada, retrieved 2021-11-19  
+        
+       
+       
+      External links 
+      
+       Sheelagh Carpendale's website
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          General
+          
+            
+            
+             ORCID 
+              
+               1
+               
+             VIAF 
+              
+               1
+               
+             WorldCat
+             
+           
+         
+         
+          National libraries
+          
+            
+            
+             Czech Republic 
+             Korea
+             
+           
+         
+         
+          Scientific databases
+          
+            
+            
+             DBLP (computer science)
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Sheelagh_Carpendale&amp;oldid=1064103400"
+     
+     
+    
+     
+      Categories: 
+      
+       Living people
+       Canadian computer scientists
+       Canadian women computer scientists
+       Human–computer interaction researchers
+       Fellows of the Royal Society of Canada
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with short description
+       Short description matches Wikidata
+       BLP articles lacking sources from August 2013
+       All BLP articles lacking sources
+       Articles with hCards
+       All articles with unsourced statements
+       Articles with unsourced statements from August 2013
+       Articles with ORCID identifiers
+       Articles with VIAF identifiers
+       Articles with WORLDCATID identifiers
+       Articles with NKC identifiers
+       Articles with NLK identifiers
+       Articles with DBLP identifiers
+       Year of birth missing (living people)
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+       
+      
+       Add links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 6 January 2022, at 15:57&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

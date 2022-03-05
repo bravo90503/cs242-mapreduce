@@ -1,0 +1,892 @@
+
+ 
+  
+   
+  Scientometrics - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Scientometrics 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Study of measuring and analysing science, technology and innovation
+       
+      
+      
+       For the journal, see Scientometrics (journal).
+       
+      Scientometrics is the field of study which concerns itself with measuring and analysing scholarly literature. Scientometrics is a sub-field of informetrics. Major research issues include the measurement of the impact of research papers and academic journals, the understanding of scientific citations, and the use of such measurements in policy and management contexts. In practice there is a significant overlap between scientometrics and other scientific fields such as information systems, information science, science of science policy, sociology of science, and metascience. Critics have argued that over-reliance on scientometrics has created a system of perverse incentives, producing a publish or perish environment that leads to low-quality research.  
+      
+       
+       
+        Contents
+        
+        
+        1 Historical development 
+        2 Methods and findings 
+        3 Common scientometric indexes 
+          
+          3.1 Impact factor 
+          3.2 Science Citation Index 
+          3.3 Acknowledgement index 
+           
+        4 Altmetrics 
+        5 Criticisms 
+        6 See also 
+          
+          6.1 Journals 
+           
+        7 References and footnotes 
+        8 External links 
+        
+       
+      Historical development 
+      Scientometrics was introduced by Vasily Nalimov under its Russian name Naukometriya in 1969, which translates to “Scientometrics” in English. Modern scientometrics is mostly based on the work of Derek J. de Solla Price and Eugene Garfield. The latter created the Science Citation Index and founded the Institute for Scientific Information which is heavily used for scientometric analysis. A dedicated academic journal, Scientometrics, was established in 1978. The industrialization of science increased the number of publications and research outcomes and the rise of the computers allowed effective analysis of this data. While the sociology of science focused on the behavior of scientists, scientometrics focused on the analysis of publications. Accordingly, scientometrics is also referred to as the scientific and empirical study of science and its outcomes. 
+      The International Society for Scientometrics and Informetrics founded in 1993 is an association of professionals in the field. 
+      Later, around the turn of the century, evaluation and ranking of scientists and institutions came more into the spotlights. Based on bibliometric analysis of scientific publications and citations, the Academic Ranking of World Universities ("Shanghai ranking") was first published in 2004 by the Shanghai Jiao Tong University. Impact factors became an important tool to choose between different journals and the rankings such as the Academic Ranking of World Universities and the Times Higher Education World University Rankings (THE-ranking) became a leading indicator for the status of universities. The h-index became an important indicator of the productivity and impact of the work of a scientist. However, alternative author-level indicators have been proposed. 
+      Around the same time, the interest of governments in evaluating research for the purpose of assessing the impact of science funding increased. As the investments in scientific research were included as part of the U.S. American Recovery and Reinvestment Act of 2009 (ARRA), a major economic stimulus package, programs like STAR METRICS were set up to assess if the positive impact on the economy would actually occur.  
+      Methods and findings 
+      Methods of research include qualitative, quantitative and computational approaches. The main focus of studies have been on institutional productivity comparisons, institutional research rankings, journal rankings establishing faculty productivity and tenure standards, assessing the influence of top scholarly articles, and developing profiles of top authors and institutions in terms of research performance. 
+      One significant finding in the field is a principle of cost escalation to the effect that achieving further findings at a given level of importance grow exponentially more costly in the expenditure of effort and resources. However, new algorithmic methods in search, machine learning and data mining are showing that is not the case for many information retrieval and extraction-based problems. 
+      More recent methods rely on open source and open data to ensure transparency and reproducibility in line with modern open science requirements. For instance, the Unpaywall index and attendant research on open access trends is based on data retrieved from OAI-PMH endpoints of thousands of open archives provided by libraries and institutions worldwide.  
+      Common scientometric indexes 
+      Indexes may be classified as article-level metrics, author-level metrics, and journal-level metrics depending on which feature they evaluate.  
+      Impact factor 
+      
+      
+       Main article: Impact factor
+       
+      The impact factor (IF) or journal impact factor (JIF) of an academic journal is a measure reflecting the yearly average number of citations to recent articles published in that journal. It is frequently used as a proxy for the relative importance of a journal within its field; journals with higher impact factors are often deemed to be more important than those with lower ones. The impact factor was devised by Eugene Garfield, the founder of the Institute for Scientific Information (ISI).  
+      Science Citation Index 
+      
+      
+       Main article: Science Citation Index
+       
+      The Science Citation Index (SCI) is a citation index originally produced by the Institute for Scientific Information (ISI) and created by Eugene Garfield. It was officially launched in 1964. It is now owned by Clarivate Analytics (previously the Intellectual Property and Science business of Thomson Reuters). The larger version (Science Citation Index Expanded) covers more than 8,500 notable and significant journals, across 150 disciplines, from 1900 to the present. These are alternatively described as the world's leading journals of science and technology, because of a rigorous selection process.  
+      Acknowledgement index 
+      
+      
+       Main article: Acknowledgement index
+       
+      An acknowledgement index (British English spelling) or acknowledgment index (American English spelling) is a method for indexing and analyzing acknowledgments in the scientific literature and, thus, quantifies the impact of acknowledgements. Typically, a scholarly article has a section in which the authors acknowledge entities such as funding, technical staff, colleagues, etc. that have contributed materials or knowledge or have influenced or inspired their work. Like a citation index, it measures influences on scientific work, but in a different sense; it measures institutional and economic influences as well as informal influences of individual people, ideas, and artifacts. Unlike the impact factor, it does not produce a single overall metric, but analyses the components separately. However, the total number of acknowledgements to an acknowledged entity can be measured and so can the number of citations to the papers in which the acknowledgement appears. The ratio of this total number of citations to the total number of papers in which the acknowledge entity appears can be construed as the impact of that acknowledged entity.  
+      Altmetrics 
+      
+      
+       Main article: Altmetrics
+       
+      In scholarly and scientific publishing, altmetrics are non-traditional bibliometrics proposed as an alternative or complement to more traditional citation impact metrics, such as impact factor and h-index. The term altmetrics was proposed in 2010, as a generalization of article level metrics, and has its roots in the #altmetrics hashtag. Although altmetrics are often thought of as metrics about articles, they can be applied to people, journals, books, data sets, presentations, videos, source code repositories, web pages, etc. Altmetrics use public APIs across platforms to gather data with open scripts and algorithms. Altmetrics did not originally cover citation counts, but calculate scholar impact based on diverse online research output, such as social media, online news media, online reference managers and so on. It demonstrates both the impact and the detailed composition of the impact. Altmetrics could be applied to research filter, promotion and tenure dossiers, grant applications and for ranking newly-published articles in academic search engines.  
+      Criticisms 
+      Critics have argued that over-reliance on scientometrics has created a system of perverse incentives, producing a publish or perish environment that leads to low quality research.  
+      See also 
+      
+       
+       
+        Academic careerism 
+        Author-level metrics 
+        Citation analysis 
+        College and university rankings 
+        Erdős number 
+        Eigenfactor 
+        Expert elicitation 
+        Goodhart's law 
+        Journal ranking 
+        Journalology 
+        Lists of science and technology awards 
+        Peer review 
+        Semantic Web §&nbsp;Applications 
+        SCImago Journal Rank 
+        Scopus 
+        Semantic Scholar
+        
+       
+      Journals 
+      
+       Scientometrics 
+       Journal of the American Society for Information Science and Technology 
+       Journal of Informetrics
+       
+      References and footnotes 
+      
+       
+       
+         
+         ^ a b c Leydesdorff, L. and Milojevic, S., "Scientometrics" arXiv:1208.4566 (2013), forthcoming in: Lynch, M. (editor), International Encyclopedia of Social and Behavioral Sciences subsection 85030. (2015)  
+         ^ Nalimov, Vasily Vasilyevich; Mulchenko, B. M. (1969). ""Scientometrics." Studies of science as a process of information". Science. Moscow, Russia.  
+         ^ 
+           Garfield, Eugene (2009). "From the science of science to Scientometrics visualizing the history of science with HistCite software". Journal of Informetrics. 3 (3): 173–179. doi:10.1016/j.joi.2009.03.009. ISSN&nbsp;1751-1577. Retrieved 15 May 2021.  
+         ^ 
+           Валеев, Д. Х.; Голубцов, В. Г. (2018). "Юридическая Наукометрия И Цивилистические Исследования" (in Russian): 45–57. Retrieved 15 May 2021. }: Cite journal requires |journal= (help)  
+         ^ 
+           Борисов, М. В.; Майсуразде, А. И. (2014). "Восстановление связей в научном рубрикаторе на основе кластеризации гетерогенной сети" (PDF). Retrieved 15 May 2021. }: Cite journal requires |journal= (help)  
+         ^ De Solla Price, D., editorial statement. Scientometrics Volume 1, Issue 1 (1978)  
+         ^ a b 
+           Lowry, Paul Benjamin; Romans, Denton; Curtis, Aaron (2004). "Global journal prestige and supporting disciplines: A scientometric study of information systems journals". Journal of the Association for Information Systems. 5 (2): 29–80. doi:10.17705/1jais.00045. SSRN&nbsp;666145.  
+         ^ a b Lowry, Paul Benjamin; Moody, Gregory D.; Gaskin, James; Galletta, Dennis F.; Humpherys, Sean; Barlow, Jordan B.; and Wilson, David W. (2013). "Evaluating journal quality and the Association for Information Systems (AIS) Senior Scholars’ journal basket via bibliometric measures: Do expert journal assessments add value?," MIS Quarterly (MISQ), vol. 37(4), 993–1012. Also, see a YouTube video narrative of this paper at: https://www.youtube.com/watch?v=LZQIDkA-ke0.  
+         ^ 
+           "About". International Society for Scientometrics and Informetrics. Retrieved 2021-01-18.  
+         ^ 
+           Belikov, A.V.; Belikov, V.V. (2015). "A citation-based, author- and age-normalized, logarithmic index for evaluation of individual researchers independently of publication counts". F1000Research. 4: 884. doi:10.12688/f1000research.7070.1. PMC&nbsp;4654436.   
+         ^  
+           Kinouchi, O. (2018). "A simple centrality index for scientific social recognition". Physica A: Statistical Mechanics and Its Applications. 491: 632–640. arXiv:1609.05273. Bibcode:2018PhyA..491..632K. doi:10.1016/j.physa.2017.08.072. S2CID&nbsp;22795899.  
+         ^ 
+           Lane, J (2009). "Assessing the Impact of Science Funding". Science. 324 (5932): 1273–1275. doi:10.1126/science.1175335. S2CID&nbsp;206520769.  
+         ^ 
+           Lowry, Paul Benjamin; Humphreys, Sean; Malwitz, Jason; Nix, Joshua C (2007). "A scientometric study of the perceived quality of business and technical communication journals". IEEE Transactions on Professional Communication. 50 (4): 352–378. doi:10.1109/TPC.2007.908733. S2CID&nbsp;40366182. SSRN&nbsp;1021608. Recipient of the Rudolph Joenk Award for Best Paper Published in IEEE Transactions on Professional Communication in 2007.  
+         ^ 
+           Dean, Douglas L; Lowry, Paul Benjamin; Humpherys, Sean (2011). "Profiling the research productivity of tenured information systems faculty at U.S. institutions". MIS Quarterly. 35 (1): 1–15. doi:10.2307/23043486. JSTOR&nbsp;23043486. SSRN&nbsp;1562263.  
+         ^ 
+           Karuga, Gilbert G.; Lowry, Paul Benjamin; Richardson, Vernon J. (2007). "Assessing the impact of premier information systems research over time". Communications of the Association for Information Systems. 19 (7): 115–131. doi:10.17705/1CAIS.01907. SSRN&nbsp;976891.  
+         ^ 
+           Lowry, Paul Benjamin; Karuga, Gilbert G.; Richardson, Vernon J. (2007). "Assessing leading institutions, faculty, and articles in premier information systems research journals". Communications of the Association for Information Systems. 20 (16): 142–203. doi:10.17705/1CAIS.02016. SSRN&nbsp;1021603.  
+         ^ 
+           Piwowar, Heather; Priem, Jason; Orr, Richard (2019-10-09). "The Future of OA: A large-scale analysis projecting Open Access publication and readership". doi:10.1101/795310. }: Cite journal requires |journal= (help)  
+         ^  
+           Garfield, E. (1955). "Citation Indexes for Science: A New Dimension in Documentation through Association of Ideas". Science. 122 (3159): 108–11. Bibcode:1955Sci...122..108G. doi:10.1126/science.122.3159.108. PMID&nbsp;14385826.  
+         ^  
+           Garfield, Eugene (2011). "The evolution of the Science Citation Index" (PDF). International Microbiology. 10 (1): 65–9. doi:10.2436/20.1501.01.10. PMID&nbsp;17407063.  
+         ^  
+           Garfield, Eugene (1963). "Science Citation Index" (PDF). Science Citation Index 1961. 1: v–xvi. Retrieved 2013-05-27.  
+         ^  
+           "History of Citation Indexing". Clarivate Analytics. November 2010. Retrieved 2010-11-04.  
+         ^  
+           "Science Citation Index Expanded". Retrieved 2017-01-17.  
+         ^  
+           Ma, Jiupeng; Fu, Hui-Zhen; Ho, Yuh-Shan (December 2012). "The Top-cited Wetland Articles in Science Citation Index Expanded: characteristics and hotspots". Environmental Earth Sciences. 70 (3): 1039. Bibcode:2009EES....56.1247D. doi:10.1007/s12665-012-2193-y. S2CID&nbsp;18502338.  
+         ^  
+           Ho, Yuh-Shan (2012). "The top-cited research works in the Science Citation Index Expanded" (PDF). Scientometrics. 94 (3): 1297. doi:10.1007/s11192-012-0837-z. S2CID&nbsp;1301373.  
+         ^ a b 
+           "Acknowledgement vs. Acknowledgment". 22 September 2012.  
+         ^ 
+           Councill, Isaac G.; Giles, C. Lee; Han, Hui; Manavoglu, Eren (2005). "Automatic acknowledgement indexing: expanding the semantics of contribution in the CiteSeer digital library". Proceedings of the 3rd international conference on Knowledge capture. K-CAP '05. pp.&nbsp;19–26. CiteSeerX&nbsp;10.1.1.59.1661. doi:10.1145/1088622.1088627. ISBN&nbsp;1-59593-163-5.  
+         ^ 
+           Giles, C. L.; Councill, I. G. (December 15, 2004). "Who gets acknowledged: Measuring scientific contributions through automatic acknowledgment indexing" (PDF). Proc. Natl. Acad. Sci. U.S.A. 101 (51): 17599–17604. Bibcode:2004PNAS..10117599G. doi:10.1073/pnas.0407743101. PMC&nbsp;539757. PMID&nbsp;15601767.  
+         ^ 
+           "PLOS Collections". Public Library of Science (PLOS). Altmetrics is the study and use of non-traditional scholarly impact measures that are based on activity in web-based environments  
+         ^ "The "alt" does indeed stand for "alternative"" Jason Priem, leading author in the Altmetrics Manifesto -- see comment 592  
+         ^ 
+           Haustein, Stefanie; Peters, Isabella; Sugimoto, Cassidy R.; Thelwall, Mike; Larivière, Vincent (2014-04-01). "Tweeting biomedicine: An analysis of tweets and citations in the biomedical literature". Journal of the Association for Information Science and Technology. 65 (4): 656–669. arXiv:1308.1838. doi:10.1002/asi.23101. ISSN&nbsp;2330-1643. S2CID&nbsp;11113356.  
+         ^ 
+           Chavda, Janica; Patel, Anika (30 December 2015). "Measuring research impact: bibliometrics, social media, altmetrics, and the BJGP". British Journal of General Practice. 66 (642): e59–e61. doi:10.3399/bjgp16X683353. PMC&nbsp;4684037. PMID&nbsp;26719483.  
+         ^ a b c 
+           Priem, Jason; Taraborelli, Dario; Groth, Paul; Neylon, Cameron (September 28, 2011). "Altmetrics: A manifesto (v 1.01)". Altmetrics.  
+         ^ 
+           Binfield, Peter (9 November 2009). "Article-Level Metrics at PLoS - what are they, and why should you care?" (Video). University of California, Berkeley. Archived from the original on 2021-12-12.  
+         ^ 
+           Bartling, Sönke; Friesike, Sascha (2014). Opening Science: The Evolving Guide on How the Internet Is Changing Research, Collaboration and Scholarly Publishing. Cham: Springer International Publishing. p.&nbsp;181. doi:10.1007/978-3-319-00026-8. ISBN&nbsp;978-3-31-900026-8. OCLC&nbsp;906269135. Altmetrics and article-level metrics are sometimes used interchangeably, but there are important differences: article-level metrics also include citations and usage data; ...  
+         ^ 
+           Mcfedries, Paul (August 2012). "Measuring the impact of altmetrics ". IEEE Spectrum. 49 (8): 28. doi:10.1109/MSPEC.2012.6247557. ISSN&nbsp;0018-9235.  
+         ^ 
+           Galligan, Finbar; Dyas-Correia, Sharon (March 2013). "Altmetrics: Rethinking the Way We Measure". Serials Review. 39 (1): 56–61. doi:10.1016/j.serrev.2013.01.003.  
+         ^ 
+           Moher, David; Naudet, Florian; Cristea, Ioana A.; Miedema, Frank; Ioannidis, John P. A.; Goodman, Steven N. (2018-03-29). "Assessing scientists for hiring, promotion, and tenure". PLOS Biology. 16 (3): e2004089. doi:10.1371/journal.pbio.2004089. ISSN&nbsp;1545-7885. PMC&nbsp;5892914. PMID&nbsp;29596415.  
+         ^ 
+           Rajiv, Nariani (2017-03-24). "Supplementing Traditional Ways of Measuring Scholarly Impact: The Altmetrics Way". hdl:10315/33652. }: Cite journal requires |journal= (help)  
+         ^ 
+           Mehrazar, Maryam; Kling, Christoph Carl; Lemke, Steffen; Mazarakis, Athanasios; Peters, Isabella (2018-04-08). "Can We Count on Social Media Metrics? First Insights into the Active Scholarly Use of Social Media". Proceedings of the 10th ACM Conference on Web Science. p.&nbsp;215. arXiv:1804.02751. doi:10.1145/3201064.3201101. ISBN&nbsp;9781450355636.  
+         ^ 
+           Weingart, Peter (2005-01-01). "Impact of bibliometrics upon the science system: Inadvertent consequences?". Scientometrics. 62 (1): 117–131. doi:10.1007/s11192-005-0007-7. ISSN&nbsp;0138-9130. S2CID&nbsp;12359334.  
+        
+       
+       
+      External links 
+      
+       
+        Harnad, S. (2009). "Open Access Scientometrics and the UK Research Assessment Exercise". Scientometrics. 79 (1): 147–156. arXiv:cs/0703131. CiteSeerX&nbsp;10.1.1.561.7204. doi:10.1007/s11192-009-0409-z. S2CID&nbsp;3183215. 
+       
+        Harnad, S (2008). "Validating Research Performance Metrics Against Peer Rankings". Ethics in Science and Environmental Politics. 8 (11): 103–107. doi:10.3354/esep00088. 
+       The Places &amp; Spaces: Mapping Science exhibit at the American Museum of Science and Energy, September 7, 2007 – January 7, 2008. 
+       Over-optimization of academic publishing metrics: observing Goodhart’s Law in action GigaScience, Volume 8, Issue 6, June 2019  
+       Eugenio Petrovich 2020 Science Mapping In ISKO Encyclopedia of Knowledge Organization, eds. Birger Hjørland and Claudio Gnoli.
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Science and technology studies
+           
+         
+         
+          Economics
+          
+            
+            
+             Economics of science 
+             Economics of scientific knowledge
+             
+           
+         
+         
+          History
+          
+            
+            
+             History and philosophy of science 
+             History of science 
+              
+               and technology
+               
+             History of technology
+             
+           
+         
+         
+          Philosophy
+          
+            
+            
+             Anthropocene 
+             Antipositivism 
+             Empiricism 
+             Fuzzy logic 
+             Neo-Luddism 
+             Philosophy of science 
+             Philosophy of social science 
+             Philosophy of technology 
+             Positivism 
+             Postpositivism 
+             Religion and science 
+             Scientism 
+             Social constructivism 
+             Social epistemology 
+             Transhumanism
+             
+           
+         
+         
+          Sociology
+          
+            
+            
+             Actor–network theory 
+             Social 
+              
+               construction of technology 
+               shaping of technology
+               
+             Sociology of knowledge 
+              
+               scientific
+               
+             Sociology of scientific ignorance 
+             Sociology of the history of science 
+             Sociotechnology 
+             Strong programme
+             
+           
+         
+         
+          Sciencestudies
+          
+            
+            
+             Antiscience 
+             Bibliometrics 
+             Boundary-work 
+             Consilience 
+             Criticism of science 
+             Demarcation problem 
+             Double hermeneutic 
+             Logology 
+             Mapping controversies 
+             Metascience 
+             Paradigm shift 
+              
+               black swan events
+               
+             Pseudoscience 
+             Psychology of science 
+             Science 
+              
+               citizen 
+               communication 
+               education 
+               normal 
+               Neo-colonial 
+               post-normal 
+               rhetoric 
+               wars
+               
+             Scientific 
+              
+               community 
+               consensus 
+               controversy 
+               dissent 
+               enterprise 
+               literacy 
+               method 
+               misconduct 
+               priority 
+               skepticism
+               
+             Scientocracy 
+             Scientometrics 
+             Team science 
+             Traditional knowledge 
+              
+               ecological
+               
+             Unity of science 
+             Women in science 
+              
+               STEM
+              
+             
+           
+         
+         
+          Technologystudies
+          
+            
+            
+             Co-production 
+             Cyborg anthropology 
+             Dematerialization 
+             Digital anthropology 
+             Digital media use and mental health 
+             Early adopter 
+             Hype cycle 
+             Innovation 
+              
+               diffusion 
+               disruptive 
+               linear model 
+               system 
+               user
+               
+             Leapfrogging 
+             Normalization process theory 
+             Reverse salient 
+             Skunkworks project 
+             Sociotechnical system 
+             Technical change 
+             Technocracy 
+             Technoscience 
+              
+               feminist
+               
+             Technological 
+              
+               change 
+               convergence 
+               determinism 
+               revolution 
+               transitions
+               
+             Technology 
+              
+               and society 
+               criticism of 
+               dynamics 
+               theories of 
+               transfer
+               
+             Engineering studies 
+             Women in engineering 
+             Financial technology
+             
+           
+         
+         
+          Policy
+          
+            
+            
+             Academic freedom 
+             Digital divide 
+             Evidence-based policy 
+             Factor 10 
+             Funding of science 
+             Horizon scanning 
+             Science policy 
+              
+               history of 
+               science of
+               
+             Politicization of science 
+             Regulation of science 
+             Research ethics 
+             Right to science 
+             Socio-scientific issues 
+             Technology assessment 
+             Technology policy 
+             Transition management
+             
+           
+         
+         
+          
+            
+            
+              Portals 
+              
+               Science 
+               History of science 
+               Technology
+               
+              Category 
+              
+               Associations 
+               Journals 
+               Scholars
+              
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Academic publishing
+           
+         
+         
+          Journals
+          
+            
+            
+             Academic journal 
+             Scientific journal 
+             Open access journal
+             
+           
+         
+         
+          Papers
+          
+            
+            
+             Scholarly paper 
+             Review article 
+             Position paper 
+             Literature review
+             
+           
+         
+         
+          Grey literature
+          
+            
+            
+             Working paper 
+             White paper 
+             Technical report 
+             Annual report 
+             Pamphlet 
+             Essay 
+             Lab notes
+             
+           
+         
+         
+          Other types of publication
+          
+            
+            
+             Thesis (Collection of articles, Monograph) 
+             Specialized patent (biological, chemical) 
+             Book 
+             Book chapter 
+             Poster session 
+             Abstract
+             
+           
+         
+         
+          Impact and ranking
+          
+            
+            
+             Acknowledgment index 
+             Altmetrics 
+             Article-level metrics 
+             Author-level metrics 
+             Bibliometrics 
+             Citation impact 
+             Citation index 
+             Journal ranking 
+             Eigenfactor 
+             h-index 
+             Impact factor 
+             SCImago Journal Rank 
+             Scientometrics
+             
+           
+         
+         
+          Reform
+          
+            
+            
+             Academic journal publishing reform 
+             Full-text-on-the-Net bias (FUTON bias) 
+             Open access 
+             Serials crisis 
+             Sci-Hub 
+             #ICanHazPDF
+             
+           
+         
+         
+          Versioning
+          
+            
+            
+             Preprint 
+             Postprint 
+             Version of Record 
+             Erratum/corrigendum 
+             Retraction
+             
+           
+         
+         
+          Indexes and search engines
+          
+            
+            
+             Google Scholar 
+             AMiner 
+             BASE 
+             CORE 
+             Semantic Scholar 
+             Scopus 
+             Web of Science
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Imprint 
+             Scientific writing 
+             Peer review 
+             Proceedings 
+             Scientific literature 
+             Learned society 
+             Open research 
+             Open science data 
+             ORCID 
+             Electronic publishing 
+             Ingelfinger rule 
+             Least publishable unit 
+             Publish or perish 
+             Public health journal
+             
+           
+         
+         
+          Lists
+          
+            
+            
+             Academic journals 
+             Scientific journals 
+             Open-access journals 
+             Academic databases and search engines 
+             University presses 
+             Copyright policies 
+             Preprint policies 
+             Style/formatting guides 
+             Category:Academic publishing 
+             Category:Scientific documents
+             
+           
+         
+         
+          
+           
+             Portal
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Scientometrics&amp;oldid=1066015998"
+     
+     
+    
+     
+      Categories: 
+      
+       Bibliometrics
+       Science policy
+       Library science
+       Metascience
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 errors: missing periodical
+       CS1 Russian-language sources (ru)
+       Articles with short description
+       Short description matches Wikidata
+       All articles with unsourced statements
+       Articles with unsourced statements from September 2020
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       Azərbaycanca
+       Català
+       Чӑвашла
+       Čeština
+       Deutsch
+       Eesti
+       Ελληνικά
+       Español
+       فارسی
+       Français
+       한국어
+       Bahasa Indonesia
+       Italiano
+       Magyar
+       Polski
+       Português
+       Русский
+       Slovenčina
+       Українська
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 16 January 2022, at 12:07&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

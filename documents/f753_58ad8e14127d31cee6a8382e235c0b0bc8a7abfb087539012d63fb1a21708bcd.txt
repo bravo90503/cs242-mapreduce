@@ -1,0 +1,691 @@
+
+ 
+  
+   
+  Patent drawing - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Patent drawing 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+      
+       
+        
+         Patent law
+        
+        
+          Overviews
+        
+        
+          
+          
+           Patents 
+           History 
+           Economics 
+           Criticism
+           
+        
+        
+          Basic concepts
+        
+        
+          
+          
+           Application 
+           Prosecution 
+           Opposition 
+           Licensing 
+           Infringement 
+           Valuation 
+           Patent claims
+           
+        
+        
+          Patentability
+        
+        
+          
+          
+           Novelty 
+           Inventive step and non-obviousness 
+           Inventorship 
+           Industrial applicability 
+           Patentable subject matter 
+           Person skilled in the art 
+           Prior art 
+           Utility
+           
+        
+        
+          Additional requirements
+        
+        
+          
+          
+           Sufficiency of disclosure 
+           Unity of invention
+           
+        
+        
+          By region&nbsp;/ country
+        
+        
+          
+          
+           Patent Cooperation Treaty (PCT) 
+           Australia 
+           Canada 
+           China 
+           Europe 
+           Germany 
+           Japan 
+           Netherlands 
+           United States
+           
+        
+        
+          By specific subject matter
+        
+        
+          
+          
+           Biological 
+           Business method 
+           Chemical 
+           Insurance 
+           Software 
+           Tax
+           
+        
+        
+          See also
+        
+        
+          
+          
+           Category 
+           Glossary
+           
+        
+        
+         
+          
+           
+            v
+            t
+            e
+           
+          
+        
+       
+       
+      A patent application or patent may contain drawings, also called patent drawings, illustrating the invention, some of its embodiments (which are particular implementations or methods of carrying out the invention), or the prior art. The drawings may be required by the law to be in a particular form, and the requirements may vary depending on the jurisdiction.  
+      
+       
+       
+        Contents
+        
+        
+        1 Jurisdictions 
+          
+          1.1 Europe 
+          1.2 Patent Cooperation Treaty 
+          1.3 United States 
+            
+            1.3.1 History 
+            1.3.2 Drawings and photographs 
+            1.3.3 Features 
+            1.3.4 Views 
+             
+           
+        2 See also 
+        3 References and notes 
+        4 Further reading 
+        5 External links 
+        
+       
+      Jurisdictions 
+      Europe 
+      Under the European Patent Convention, Article 78(1) EPC provides that a European patent application shall contain any drawings referred to in the description or the claims. Drawings are therefore optional. Rule 46 EPC specifies the form in which the drawings must be executed. 
+      The European search report is drawn up in respect of a European patent application on the basis of the claims, with due regard to the description and any drawings. In addition, the extent of the protection conferred by a European patent or a European patent application is determined by the claims, with the description and drawings being used to interpret the claims.  
+      Patent Cooperation Treaty 
+      Under the Patent Cooperation Treaty, Article 7 PCT notably provides that the drawings are required when they are necessary for the understanding of the invention. Rule 11.13 PCT specifies special physical requirements for drawings in an international application.  
+      United States 
+      
+       
+         
+        
+         
+          
+         1868 patent drawing for the Sholes, Glidden, and Soule typewriter.
+        
+       
+       
+      In the United States, the applicant for a patent is required by law to furnish a drawing of the invention whenever the nature of the case requires a drawing to understand the invention. This drawing must be filed with the application. This includes practically all inventions except compositions of matter or processes, but a drawing may also be useful in the case of many processes. 
+      The drawing must show every feature of the invention specified in the claims, and is required by the U.S. patent office rules to be in a particular form. The United States Patent and Trademark Office (USPTO) specifies the size of the sheet on which the drawing is made, the type of paper, the margins, and other details relating to the making of the drawing. The reason for specifying the standards in detail is that the drawings are printed and published in a uniform style when the patent issues, and the drawings must also be such that they can be readily understood by persons using the patent descriptions. 
+      No names or other identification are permitted within the “sight” of the drawing, and applicants are expected to use the space above and between the hole locations to identify each sheet of drawings. This identification may consist of the attorney's name and docket number or the inventor's name and application number and may include the sheet number and the total number of sheets filed (for example, “sheet 2 of 4”). The following rule, reproduced from title 37 of the Code of Federal Regulations, relates to the standards for drawings:  
+      History 
+      
+       
+         
+        
+         
+          
+         Patent model for loom.
+        
+       
+       
+      From 1790 to 1880 in the US, patent models were required. A patent model was a scratch-built miniature model no larger than 12" by 12" by 12", approximately 30&nbsp;cm by 30&nbsp;cm by 30&nbsp;cm, that showed how an invention works. Some inventors still willingly submitted models at the turn of the twentieth century. In some cases, an inventor may still want to present a "working model" as an evidence to prove actual reduction to practice in an interference proceeding. In some jurisdictions patent models stayed an aid to demonstrate the operation of the invention. In applications involving genetics, samples of genetic material or DNA sequences may be required. 
+      The United States patent law was revised in 1793. It stated that the Commissioner of the USPTO could ask for additional information, drawings, or diagrams if the description is not clear. By then, the rate of patent grants had grown to about 20 per year and the time burden on the Secretary of State was considered to be too burdensome. Patent applications were no longer examined. Patents were granted simply by submitting a written description of an invention, a model of the invention, if appropriate, and paying a fee of $30 then, and now $1000 in 2006 US dollars.  
+      Drawings and photographs 
+      
+       
+       
+      
+       
+         
+        
+         
+          
+         Black and white patent drawing with computer aided design CAD software
+        
+       
+       
+      In utility and design patent applications, drawings can be in black ink or color. Black and white drawings are normally required. On rare occasions, color drawings may be necessary as the only practical medium by which to disclose the subject matter sought to be patented in a utility or design patent application or the subject matter of a statutory invention registration. 
+      Black and white photographs are not ordinarily permitted in utility and design patent applications, unless this is the only practicable medium for illustrating the claimed invention. For example, photographs of electrophoresis gels, blots, autoradiographs, cell cultures, histological tissue cross sections, animals, plants, in vivo imaging, etc. Color photographs can be accepted in utility and design patent applications if the conditions for accepting color drawings and black and white photographs have been satisfied.  
+      Features 
+      
+       
+         
+        
+         
+          
+         Gillette's patent drawing of the Razor, 1904.
+        
+       
+       
+      Patent drawing features can contain the following features:  
+      
+       Identification of drawings: includes the title of the invention, inventor's name, and application number.. etc. 
+       Graphic forms in drawings. Chemical or mathematical formulae, tables, and waveforms may be submitted as drawings and are subject to the same requirements as drawings. Each chemical or mathematical formula must be labeled as a separate figure, using brackets when necessary, to show that information is properly integrated. 
+       Type of paper: generally flexible, strong, white, smooth, matte (non-shiny), and durable. 
+       Size of paper: Must be the same size. In US, choose one of either: DIN size A4 or (81⁄2 by 11&nbsp;inches). 
+       Some kind of Margin standard. 
+       Views. The drawing must contain as many views as necessary to show the invention. The views may be plan, elevation, section, or perspective views. 
+       Arrangement of views: All views on the same sheet in the same direction. 
+       Front page view 
+       Scale: large enough to show the mechanism 
+       Shading: aids in understanding the invention used to indicate the surface or shape of spherical, cylindrical, and conical elements of an object. 
+       Symbols: Graphical drawing symbols may be used for conventional elements when appropriate. 
+       Legends: should contain as few words as possible. 
+       Numbers, letters, and reference characters. 
+       Lead lines: between the reference characters and the details referred to. 
+       Arrows: at the ends of lines, provided that their meaning is cleared.
+       
+      Format requirements may differ by country where the patent is being filed. 
+      The patent drawing can further contain a numbering of sheets of drawings, numbering of views, copyright notice, security markings, corrections (durable and permanent), no holes, and a type of drawing indication.  
+      Views 
+      The views in the drawing may be plan, elevation, section, or perspective views:  
+      
+       Exploded views: views with the separated parts embraced by a bracket, to show the relationship or order of assembly of various parts are permissible. 
+       Partial views: a view of a large machine or device in its entirety may be broken into partial views on a single sheet, or extended over several sheets if there is no loss in facility of understanding the view. 
+       Sectional views: The plane upon which a sectional view is taken should be indicated on the view from which the section is cut by a broken line. 
+       Alternate position: A moved position may be shown by a broken line superimposed upon a suitable view if this can be done without crowding; otherwise, a separate view must be used for this purpose, and 
+       Modified forms. Modified forms of construction must be shown in separate views.
+       
+      See also 
+      
+       Glossary of patent law terms 
+       Patent map 
+       Patent model 
+       Patent visualisation 
+       Provisional application
+       
+      References and notes 
+      
+       
+        
+        ^ Article 78(1) EPC  
+        ^ Rule 46 EPC. Examples of European patent applications and drawings in chemistry, electricity/physics, and mechanics are provided in How to get a European patent, Guide for Applicants, Part 1, Annex III Examples of European patent applications Archived 2011-09-21 at the Wayback Machine.  
+        ^ Article 92 EPC  
+        ^ Article 69 EPC  
+        ^ Article 7 PCT. See also Rule 7 PCT.  
+        ^ Rule 11.13 PCT  
+        ^ US 79265&nbsp;  
+        ^ a b c d e f g h "General Information Concerning Patents § 1.84 Standards for drawings (Revised January 2005)". United States Patent and Trademark Office. 2005. Archived from the original on February 7, 2011. Retrieved February 13, 2009.  
+        ^ 
+          US 775134&nbsp;  
+       
+       
+      Further reading 
+      
+       Norman Clarke (1998), Patent Drawing, Noside, 
+        ISBN&nbsp;0-9531557-3-0 
+       
+        Guide for the Preparation of Patent Drawings: Selected Rules of Practice. Diane Publishing Company. 1994. ISBN&nbsp;9780788108204. 
+       Jack Lo, David Pressman, Stephanie Harolde, Stephen Elias (1997). The Patent Drawing Book: How to Prepare Formal Drawings Required by the U. S. Patent and Trademark Office. 
+       Jack Lo, David Pressman (2007). How to Make Patent Drawings: A Patent It Yourself Companion. 
+       Harry Radzinsky (1945). Making Patent Drawings. 
+       Kendall J. Dood (1986). Patent drawings. United States National Archives and Records Administration.
+       
+      External links 
+       
+       
+         
+          
+         Wikimedia Commons has media related to Patent drawings.
+         
+       
+       
+      
+       Guidelines for Examination in the EPO, section a-ix&nbsp;: "Drawings" 
+       US General Information Concerning Patents at the United States Patent and Trademark Office (USPTO)
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          Authority control 
+          
+            
+            
+             National Archives (US)
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Patent_drawing&amp;oldid=1060011782"
+     
+     
+    
+     
+      Categories: 
+      
+       Patent law
+       Technical drawing
+      
+     
+     
+      Hidden categories: 
+      
+       Webarchive template wayback links
+       Wikipedia articles needing clarification from February 2009
+       Commons category link is on Wikidata
+       Articles with NARA identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+       
+      
+       Add links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 12 December 2021, at 23:55&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

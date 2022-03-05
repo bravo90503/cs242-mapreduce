@@ -1,0 +1,457 @@
+
+ 
+  
+   
+  George G. Robertson - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   George G. Robertson 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       American&nbsp;information visualization&nbsp;expert
+       
+      George G. Robertson is an American information visualization expert and Senior Researcher, Visualization and Interaction (VIBE) Research Group, Microsoft Research. With Stuart K. Card, Jock D. Mackinlay and others he invented a number of Information Visualization techniques.  
+      
+       
+       
+        Contents
+        
+        
+        1 Biography 
+        2 Publications 
+        3 References 
+        4 External links 
+        
+       
+      Biography 
+      Robertson has worked as a faculty member of the Computer Science Department at Carnegie-Mellon University, a Senior Scientist at Thinking Machines, and a Senior Scientist at Bolt Beranek and Newman. Before his current position at Microsoft he was Principal Scientist at Xerox PARC. Since 1996 he is a Principal Researcher in the Visualization and Interaction group at Microsoft Research. 
+      He is an ACM Fellow and manages a project on 3D User Interfaces and Information Visualization. He is associate editor of the Journal of Information Visualization. 
+      Robertson's research interests are "user interfaces, 3D interactive animation, 3D graphics, information visualization, intelligent information access, multimedia, and hypermedia", see also: Connection Machine and Gender HCI  
+      Publications 
+      Articles, a selection:  
+      
+       1972. "XCRIBL - A Hardcopy Scan Line Graphics System for Document Generation". With Raj Reddy, W. Broadley, Lee D. Erman, R. Johnsson, J. Newcomer, and J. Wright. In: Inf. Process. Lett. 1(6): 246-251. 
+       1978. "An Extensible File System for Hydra". With Guy T. Almes. In: ICSE 1978: 288-294. 
+       1981. "Accent: A Communication Oriented Network Operating System Kernel". With: Richard F. Rashid, in: SOSP 1981: 64-75. 
+       1987. "Parallel Implementation of Genetic Algorithms in a Classifier Rystem". in: Proceedings of the 2nd International Conference on Genetic Algorithms, July 1987: 140-147. 
+       1988. "Population Size in classifier Systems". in: ML 1988: 142-152. 
+       1989. "The cognitive coprocessor architecture for interactive user interfaces". With S. K. Card, and J. D. Mackinlay. In: Proceedings of the ACM SIGGRAPH Symposium on User Interface Software and Technology, pages 10–18. ACM Press, Nov 1989. 
+       1991. "Cone Trees: Animated 3D Visualizations of Hierarchical Information". With Jock D. Mackinlay and Stuart K. Card. In: Robertson, Scott P., Olson, Gary M. and Olson, Judith S. (eds.) Proceedings of the ACM CHI 91 Human Factors in Computing Systems Conference April 28 - June 5, 1991, New Orleans, Louisiana. pp.&nbsp;189–194. 
+       1993. "Information Visualization Using 3D Interactive Animation". With Stuart K. Card, and Jock D. Mackinlay. In: Communications of the ACM, 36(4), April 1993. pp.&nbsp;57–71. 
+       1993. "The document lens". With J. D. Mackinlay. In: Proceedings of the ACM Symposium on User Interface Software and Technology. ACM Press, Nov 1993.
+       
+      References 
+      
+       
+        
+        ^ Keynote Panel Information Visualization - Where are We and Where Do We Go From Here? Proceedings Infovis 1996. Retrieved 6 July 2008.  
+        ^ a b George G. Robertson (2004). Short bio. Retrieved 6 July 2008.  
+       
+       
+      External links 
+      
+       George G. Robertson Homepage at Microsoft research. 
+       List of publications at www.informatik.uni-trier.de.
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          Authority control: Scientific databases 
+          
+            
+            
+             DBLP (computer science)
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=George_G._Robertson&amp;oldid=1051325266"
+     
+     
+    
+     
+      Categories: 
+      
+       Living people
+       Carnegie Mellon University alumni
+       Human–computer interaction researchers
+       Information visualization experts
+       Scientists at PARC (company)
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with short description
+       Short description is different from Wikidata
+       Articles with DBLP identifiers
+       Year of birth missing (living people)
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+       
+      
+       Add links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 22 October 2021, at 20:12&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

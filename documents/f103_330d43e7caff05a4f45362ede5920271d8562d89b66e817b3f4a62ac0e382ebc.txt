@@ -1,0 +1,288 @@
+
+ 
+  
+   
+  Co-occurrence - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Co-occurrence 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      In linguistics, co-occurrence or cooccurrence is an above-chance frequency of occurrence of two terms (also known as coincidence or concurrence) from a text corpus alongside each other in a certain order. Co-occurrence in this linguistic sense can be interpreted as an indicator of semantic proximity or an idiomatic expression. Corpus linguistics and its statistic analyses reveal patterns of co-occurrences within a language and enable to work out typical collocations for its lexical items. A co-occurrence restriction is identified when linguistic elements never occur together. Analysis of these restrictions can lead to discoveries about the structure and development of a language. 
+      Co-occurrence can be seen an extension of word counting in higher dimensions. Co-occurrence can be quantitatively described using measures like correlation or mutual information.  
+      See also 
+      
+       
+        
+        Linguistics portal
+       
+       
+      
+       Distributional hypothesis 
+       Statistical semantics 
+       Co-occurrence matrix 
+       Co-occurrence networks 
+       Similarity measure 
+        
+         Dice coefficient
+        
+       
+      References 
+      
+       
+       
+         
+         ^ Kroeger, Paul (2005). Analyzing Grammar: An Introduction. Cambridge: Cambridge University Press. p.&nbsp;20. ISBN&nbsp;978-0-521-01653-7.  
+         ^ 
+           Bordag, Stefan. "A Comparison of Co-occurrence and Similarity Measures as Simulations of Context". CiteSeerX&nbsp;10.1.1.471.5863. }: Cite journal requires |journal= (help)  
+        
+       
+       
+        
+      
+      
+       
+        
+         
+          
+          This linguistics article is a stub. You can help Wikipedia by expanding it.
+         
+        
+       
+       
+       
+        
+         v
+         t
+         e
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Co-occurrence&amp;oldid=1038371432"
+     
+     
+    
+     
+      Categories: 
+      
+       Corpus linguistics
+       Linguistics stubs
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 errors: missing periodical
+       All stub articles
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       Deutsch
+       Español
+       Français
+       日本語
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 12 August 2021, at 04:55&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

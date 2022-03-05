@@ -1,0 +1,295 @@
+
+ 
+  
+   
+  Adversarial information retrieval - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Adversarial information retrieval 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Information retrieval strategies in datasets
+       
+      Adversarial information retrieval (adversarial IR) is a topic in information retrieval related to strategies for working with a data source where some portion of it has been manipulated maliciously. Tasks can include gathering, indexing, filtering, retrieving and ranking information from such a data source. Adversarial IR includes the study of methods to detect, isolate, and defeat such manipulation. 
+      On the Web, the predominant form of such manipulation is search engine spamming (also known as spamdexing), which involves employing various techniques to disrupt the activity of web search engines, usually for financial gain. Examples of spamdexing are link-bombing, comment or referrer spam, spam blogs (splogs), malicious tagging. Reverse engineering of ranking algorithms, advertisement blocking, click fraud, and web content filtering may also be considered forms of adversarial data manipulation.  
+      
+       
+       
+        Contents
+        
+        
+        1 Topics 
+        2 History 
+        3 See also 
+        4 References 
+        5 External links 
+        
+       
+      Topics 
+      Topics related to Web spam (spamdexing):  
+      
+       Link spam 
+       Keyword spamming 
+       Cloaking 
+       Malicious tagging 
+       Spam related to blogs, including comment spam, splogs, and ping spam
+       
+      Other topics:  
+      
+       Click fraud detection 
+       Reverse engineering of search engine's ranking algorithm 
+       Web content filtering 
+       Advertisement blocking 
+       Stealth crawling 
+       Troll (Internet) 
+       Malicious tagging or voting in social networks 
+       Astroturfing 
+       Sockpuppetry
+       
+      History 
+      The term "adversarial information retrieval" was first coined in 2000 by Andrei Broder (then Chief Scientist at Alta Vista) during the Web plenary session at the TREC-9 conference.  
+      See also 
+      
+       Information retrieval 
+       Spamdexing
+       
+      References 
+      
+       
+       
+         
+         ^ Jansen, B. J. (2007) Click fraud. IEEE Computer. 40(7), 85-86.  
+         ^ B. Davison, M. Najork, and T. Converse (2006), SIGIR Worksheet Report: Adversarial Information Retrieval on the Web (AIRWeb 2006)  
+         ^ D. Hawking and N. Craswell (2004), Very Large Scale Retrieval and Web Search (Preprint version) Archived 2007-08-29 at the Wayback Machine  
+        
+       
+       
+      External links 
+      
+       AIRWeb: series of workshops on Adversarial Information Retrieval on the Web 
+       Web Spam Challenge: competition for researchers on Web Spam Detection 
+       Web Spam Datasets: datasets for research on Web Spam Detection
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Adversarial_information_retrieval&amp;oldid=962684208"
+     
+     
+    
+     
+      Categories: 
+      
+       Information retrieval genres
+       Internet fraud
+      
+     
+     
+      Hidden categories: 
+      
+       Webarchive template wayback links
+       Articles with short description
+       Short description matches Wikidata
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+       
+      
+       Add links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 15 June 2020, at 12:59&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

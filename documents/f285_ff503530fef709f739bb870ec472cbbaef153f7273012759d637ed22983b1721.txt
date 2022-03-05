@@ -1,0 +1,210 @@
+
+ 
+  
+  情報検索 - Web NDL Authorities 
+   
+   
+   
+   
+  
+  
+   
+    
+     Web NDL Authorities
+    国立国会図書館典拠データ検索・提供サービス 詳細情報へ移動Skip to detailed info Japanese ヘルプHelp 
+   
+   
+   
+  情報検索 
+   
+    
+     
+       検索Search
+         すべてAll  名称のみName  普通件名のみTopical Name  ジャンルのみGenre/Form Term  
+      
+     
+     
+        NDC9/10 NDC9 NDC10 NDLC  検索Search
+         すべてAll  名称のみName  普通件名のみTopical Name  ジャンルのみGenre/Form Term  
+      
+     
+     
+       検索Search
+         すべてAll  名称のみName  普通件名のみTopical Name  ジャンルのみGenre/Form Term  
+      
+     
+    
+    
+    詳細情報 
+     
+     
+      
+       ID
+       
+      
+       00575010
+      
+      
+     
+      
+       典拠種別Type of Authority
+       
+      
+       普通件名Topical Terms
+      
+      
+     
+      
+       名称/タイトルName / Title
+       
+      
+       情報検索
+      
+      
+     
+      
+       名称/タイトルのカナ読みKatakana Transcription of Name / Title
+       
+      
+       ジョウホウケンサク
+      
+      
+     
+      
+       名称/タイトルのローマ字読みRoman Transliteration of Name / Title
+       
+      
+       Johokensaku
+      
+      
+     
+      
+       同義語Variant Term(s)
+       
+      
+       文献検索 (ブンケンケンサク); IR (information retrieval); Information retrieval
+      
+      
+     
+      
+       注記Cataloger's Note
+       
+      
+       主題細目「情報検索」をも見よ (例: 金属材料 -- 情報検索); 当件名新設 (1969年) 以前の整理では, 「情報処理」を付与
+      
+      
+     
+      
+       上位語Broader Term(s)
+       
+      
+       情報処理; ドキュメンテーション
+      
+      
+     
+      
+       下位語Narrower Term(s)
+       
+      
+       データマイニング; 検索エンジン
+      
+      
+     
+      
+       関連語Related Term(s)
+       
+      
+       データベース; セマンティックウェブ; 文献調査
+      
+      
+     
+      
+       分類記号Classification Number(s)
+       
+      
+       007.58 (NDC10); 007.58 (NDC9); UL41 (NDLC)
+      
+      
+     
+      
+       関連リンクRelated Links
+       
+      
+       sh85066148 (LCSH)
+      
+      
+     
+      
+       関連リンク/出典Related Links / Sources
+       
+      
+       00506100 (BSH4)
+      
+      
+     
+      
+       出典Sources
+       
+      
+       情報検索のABC / 橋本昌幸 著
+        広辞苑 第5版
+      
+      
+     
+      
+       作成日Date Created
+       
+      
+       1980-06-20
+      
+      
+     
+      
+       最終更新日Last Updated
+       
+      
+       2018-04-25T15:18:54
+      
+      
+     
+      
+       外部サイトへのリンクExternal Link
+       
+      
+       Wikipediaで検索を行うSearch the Japanese Wikipedia
+       ※Wikipediaの機能により、違うキーワードが表示される場合もあります。Notice: Sometimes Wikipedia will return incorrect matches.
+      
+      
+     
+     
+     
+      他形式のデータOther formats
+      
+     
+      RDF/XML形式RDF/XML format, RDF/Turtle形式RDF/Turtle format, JSON-LD形式JSON-LD format
+      
+     
+    
+    
+   
+   
+   国立国会図書館のサービスOnline Services at the NDL 
+   以下のリンクボタンから国立国会図書館オンラインで検索ができます。You can search NDL bibliographic records for the following headings: 
+    
+    件名検索Subject 
+    
+   
+   
+    
+    国立国会図書館ホームNational Diet Library Home 
+    国立国会図書館オンラインNDL Online 
+    
+    
+    Web NDL AuthoritiesについてAbout Web NDL Authorities 
+    お問い合わせContact Us 
+    
+   
+  
+   Copyright © National Diet Library. All Rights Reserved
+    
+ 

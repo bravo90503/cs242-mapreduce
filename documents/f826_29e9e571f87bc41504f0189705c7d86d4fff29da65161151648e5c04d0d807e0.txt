@@ -1,0 +1,355 @@
+
+ 
+  
+   
+  Információtudomány – Wikipédia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Információtudomány 
+    
+    
+     A Wikipédiából, a szabad enciklopédiából
+     
+    
+     
+      
+       
+       
+      
+       
+        Ez a közzétett változat, ellenőrizve: 2022. február 10.
+        
+        
+         
+          
+           Pontosság
+           ellenőrzött
+           
+         
+        
+        
+        
+       
+      
+     
+     
+     Ugrás a navigációhoz Ugrás a kereséshez 
+    
+     
+       
+       
+         
+          
+          
+           
+           
+         Ez a szócikk sürgős javításra/bővítésre szorul, mert vállalhatatlan, katasztrofális állapotban van. A felmerült kifogásokat a szócikk vitalapja részletezi. Ha nincs indoklás a vitalapon, bátran távolítsd el a sablont! 
+         
+       
+       
+      Az Információtudomány (az angol information science magyar fordítása) nem azonos az információelmélettel (mely a matematikai tudományok egy ága) és az informatikával, bár a kifejezés használata a köznyelvben és szakmai berkekben is eltérő és nem következetes. Tárgya az emberi tudás változatos megjelenési formáinak gyűjtése, válogatása, tömörítése, gyűjteménnyé szervezése, reprezentációjának elkészítése, tárolása, rendelkezésre bocsátása.  
+      Az információtudomány meghatározásai 
+      Az információtudomány első ismert használata 1955-ben volt. Korai meghatározása (1968-ból): 
+      "Az információtudomány olyan fegyelem, amely megvizsgálja az információ tulajdonságait és magatartását, az információ áramlását irányító erőket és az információfeldolgozás eszközeit az optimális hozzáférhetőség és használhatóság érdekében, és foglalkozik azzal a tudással, szervezését, tárolását, visszakeresését, értelmezését, átvitelét, átalakítását és felhasználását, beleértve a természetes és mesterséges rendszerek információinak ábrázolását, a hatékony üzenetküldésre vonatkozó kódok használatát, valamint az információfeldolgozó eszközök és technikák tanulmányozását mint a matematika, a logika, a nyelvészet, a pszichológia, a számítástechnika, a műveleti kutatások, a grafika, a kommunikáció, a könyvtári tudományok, a menedzsment és más hasonló területek területén folytatott interdiszciplináris tudomány. Mindkettő egy tiszta tudományos összetevő, amely megkérdezi a tárgyra, tekintet nélkül arra, hogy alkalmazzák-e, és egy alkalmazott tudományos komponens, amely szolgáltatásokat és termékeket fejleszt." (Borko, 1968, 3. o.). 
+      Egyes szerzők az informatika szinonimájaként használják az információtudományt. Ez különösen akkor igaz, amikor A. Mikhailov és az 1960-as évek közepén álló szovjet írók koncepciójához kapcsolódnak. A mikhailovi iskola az informatikát a tudományok tanulmányozásával kapcsolatos tudományágaként látta. Az informatikát nehéz pontosan meghatározni a terület gyorsan változó és interdiszciplináris jellege miatt. Az Informatikai Tanulmányi Programokban megjelennek az adatokból származó értelmes információk előállításához használt eszközök természetéből adódó meghatározások. A regionális különbségek és a nemzetközi terminológia bonyolítja a problémát. Megjegyzi, hogy az úgynevezett "Informatika" nagy részét egyszer már "információs tudománynak" nevezték - legalább olyan területeken, mint az orvosi informatika. Például amikor a könyvtártudósok elkezdték használni az "informatika" kifejezést a munkájukra, az "informatika" kifejezés felmerült:  
+      
+       az Egyesült Államokban a számítógépes tudósok válasza, hogy megkülönböztessék munkájukat a könyvtári tudománytól 
+       Nagy-Britanniában az információs tudomány kifejezésére, amely természetes, valamint mesterséges vagy mérnöki információfeldolgozó rendszereket vizsgál.
+       
+      
+       
+        
+        
+          
+            
+          Ez az informatikai tárgyú lap egyelőre csonk (erősen hiányos). Segíts te is, hogy igazi szócikk lehessen belőle! 
+         
+        
+        
+       
+      Források 
+      
+       Balázs Sándor: Az információ használata, hasznosítása és haszna. Bp.&nbsp;: OMIKK, 1993.
+       
+      
+       
+        
+          Informatikai portál • összefoglaló, színes tartalomajánló lap
+        
+       
+      
+     
+     
+      
+      
+     
+      A lap eredeti címe: „https://hu.wikipedia.org/w/index.php?title=Információtudomány&amp;oldid=24672590”
+     
+     
+    
+     
+      Kategória: 
+      
+       Informatika
+      
+     
+     
+      Rejtett kategóriák: 
+      
+       Katasztrofális állapotban lévő lapok
+       Csonkok (informatika)
+       Csonkok 2006 júliusából
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigációs menü 
+    
+     
+      Személyes eszközök  
+      
+      
+       Nem vagy bejelentkezve
+       Vitalap
+       Közreműködések
+       Fiók létrehozása
+       Bejelentkezés
+       
+      
+     
+     
+      
+       Névterek  
+       
+       
+        Szócikk
+        Vitalap
+        
+       
+      
+      
+       
+       Változatok expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Nézetek  
+       
+       
+        Olvasás
+        Szerkesztés
+        Laptörténet
+        
+       
+      
+      
+       
+       Több expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Keresés  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigáció  
+      
+      
+       Kezdőlap
+       Tartalom
+       Kiemelt szócikkek
+       Friss változtatások
+       Lap találomra
+       Tudakozó
+       
+      
+     
+     
+      Részvétel  
+      
+      
+       Kezdőknek
+       Segítség
+       Közösségi portál
+       Kapcsolatfelvétel
+       Adományok
+       
+      
+     
+     
+      Eszközök  
+      
+      
+       Mi hivatkozik erre?
+       Kapcsolódó változtatások
+       Speciális lapok
+       Hivatkozás erre a változatra
+       Lapinformációk
+       Hogyan hivatkozz erre a lapra?
+       Wikidata-adatlap
+       
+      
+     
+     
+      Nyomtatás/exportálás  
+      
+      
+       Könyv készítése
+       Letöltés PDF-ként
+       Nyomtatható változat
+       
+      
+     
+     
+      Társlapok  
+      
+      
+       Wikimédia Commons
+       
+      
+     
+     
+      Más nyelveken  
+      
+      
+       English
+       Afrikaans
+       العربية
+       Asturianu
+       Azərbaycanca
+       تۆرکجه
+       Башҡортса
+       Български
+       Català
+       Čeština
+       Cymraeg
+       Dansk
+       Deutsch
+       Ελληνικά
+       Español
+       Eesti
+       Euskara
+       فارسی
+       Suomi
+       Français
+       Galego
+       עברית
+       हिन्दी
+       Bahasa Indonesia
+       日本語
+       ქართული
+       한국어
+       Lietuvių
+       Latviešu
+       Македонски
+       Bahasa Melayu
+       Nederlands
+       Norsk bokmål
+       ਪੰਜਾਬੀ
+       Polski
+       Português
+       Română
+       Русский
+       Srpskohrvatski / српскохрватски
+       Slovenčina
+       Slovenščina
+       Shqip
+       Српски / srpski
+       Svenska
+       தமிழ்
+       ไทย
+       Türkçe
+       Українська
+       اردو
+       Tiếng Việt
+       中文
+       粵語
+       
+      
+       Hivatkozások szerkesztése
+       
+      
+     
+    
+   
+   
+    
+     A lap utolsó módosítása: 2022. február 10., 20:06 
+    A lap szövege Creative Commons Nevezd meg! – Így add tovább! 3.0 licenc alatt van; egyes esetekben más módon is felhasználható. Részletekért lásd a felhasználási feltételeket. 
+    
+    
+    Adatvédelmi irányelvek 
+    A Wikipédiáról 
+    Jogi nyilatkozat 
+    Mobil nézet 
+    Fejlesztők 
+    Statisztikák 
+    Sütinyilatkozat 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

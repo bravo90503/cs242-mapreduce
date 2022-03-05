@@ -1,0 +1,2363 @@
+
+ 
+  
+   
+  Philosophy of history - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Philosophy of history 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Theoretical aspect of history
+       
+      
+      
+       Not to be confused with History of philosophy.
+      
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           
+            
+             This article may be expanded with text translated from the corresponding article in Portuguese. (August 2021) Click  for important translation instructions.
+            
+             
+             
+               
+              Machine translation like DeepL or Google Translate is a useful starting point for translations, but translators must revise errors as necessary and confirm that the translation is accurate, rather than simply copy-pasting machine-translated text into the English Wikipedia. 
+              Consider adding a topic to this template: there are already 1,305 articles in the main category, and specifying|topic= will aid in categorization. 
+              Do not translate text that appears unreliable or low-quality. If possible, verify the text with references provided in the foreign-language article. 
+              You must provide copyright attribution in the edit summary accompanying your translation by providing an interlanguage link to the source of your translation. A model attribution edit summary is Content in this edit is translated from the existing Portuguese Wikipedia article at ]; see its history for attribution. 
+              You should also add the template } to the talk page. 
+              For more guidance, see Wikipedia:Translation.
+             
+            
+           
+          
+        
+       
+      
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           
+            This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages) 
+             
+             
+              
+               
+                
+                 
+                  
+                 
+                
+                 
+                  This article may lack focus or may be about more than one topic. In particular, the article may stray too far from the topic of philosophy into sociology and historiography. Please help improve this article, possibly by splitting the article and/or by introducing a disambiguation page, or discuss this issue on the talk page. (November 2019)
+                 
+               
+              
+              
+             
+              
+               
+                
+                 
+                  
+                 
+                
+                 
+                  This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources:&nbsp;"Philosophy of history"&nbsp;–&nbsp;news&nbsp;· newspapers&nbsp;· books&nbsp;· scholar&nbsp;· JSTOR (November 2019) (Learn how and when to remove this template message)
+                 
+               
+              
+              
+             
+            (Learn how and when to remove this template message)
+          
+        
+       
+       
+      Philosophy of history is the philosophical study of history and its discipline. The term was coined by French philosopher Voltaire. 
+      In contemporary philosophy a distinction has developed between speculative philosophy of history and critical philosophy of history, now referred to as analytic. The former questions the meaning and purpose of the historical process whereas the latter studies the foundations and implications of history and the historical method. The names of these are derived from C. D. Broad's distinction between critical philosophy and speculative philosophy.  
+      
+       
+       
+        Contents
+        
+        
+        1 Origins 
+        2 Concepts 
+          
+          2.1 Philosophy of chronology 
+          2.2 Philosophy of causality 
+          2.3 Philosophy of neutrality 
+           
+        3 Operative theories 
+          
+          3.1 Teleological approaches 
+          3.2 Georg Wilhelm Friedrich Hegel 
+          3.3 Thomas Carlyle 
+          3.4 Social evolutionism 
+           
+        4 Contextual theories 
+          
+          4.1 Karl Marx 
+          4.2 Michel Foucault 
+           
+        5 Other approaches 
+          
+          5.1 Narrative history 
+           
+        6 Education and propaganda 
+        7 See also 
+        8 Notes 
+        9 References 
+        10 Further reading 
+        11 External links 
+        
+       
+      Origins 
+      In his Poetics, Aristotle (384–322 BCE) maintained the superiority of poetry over history because poetry speaks of what ought or must be true rather than merely what is true. 
+      Herodotus, a fifth-century BCE contemporary of Socrates, broke from the Homeric tradition of passing narrative from generation to generation in his work "Investigations" (Ancient Greek: Ἱστορίαι; Istoríai), also known as Histories. Herodotus, regarded by some as the first systematic historian, and, later, Plutarch (46–120 CE) freely invented speeches for their historical figures and chose their historical subjects with an eye toward morally improving the reader. History was supposed to teach good examples for one to follow. The assumption that history "should teach good examples" influenced how writers produced history. 
+      From the Classical period to the Renaissance, historians alternated between focusing on subjects designed to improve mankind and on a devotion to fact. History was composed mainly of hagiographies of monarchs or of epic poetry describing heroic gestures (such as The Song of Roland—about the Battle of Roncevaux Pass (778) during Charlemagne's first campaign to conquer the Iberian peninsula). 
+      In the fourteenth century, Ibn Khaldun, who is considered one of the fathers of the philosophy of history, discussed his philosophy of history and society in detail in his Muqaddimah (1377). His work represents a culmination of earlier works by medieval Islamic sociologists in the spheres of Islamic ethics, political science, and historiography, such as those of al-Farabi (c. 872 – c. 950), Ibn Miskawayh, al-Dawani, and Nasir al-Din al-Tusi (1201–1274). Ibn Khaldun often criticized "idle superstition and uncritical acceptance of historical data". He introduced a scientific method to the philosophy of history (which Dawood considers something "totally new to his age") and he often referred to it as his "new science", which is now associated with historiography. His historical method also laid the groundwork for the observation of the role of the state, communication, propaganda, and systematic bias in history. 
+      By the eighteenth century historians had turned toward a more positivist approach—focusing on fact as much as possible, but still with an eye on telling histories that could instruct and improve. Starting with Fustel de Coulanges (1830–1889) and Theodor Mommsen (1817–1903), historical studies began to move towards a more modern scientific form. In the Victorian era, historiographers debated less whether history was intended to improve the reader, and more on what causes turned history and how one could understand historical change.  
+      Concepts 
+      Philosophy of chronology 
+      Many ancient cultures held mythical and theological concepts of history and of time that were not linear. Such societies saw history as cyclical, with alternating Dark and Golden Ages. Plato taught the concept of the Great Year, and other Greeks spoke of aeons. Similar examples include the ancient doctrine of eternal return, which existed in Ancient Egypt, in the Indian religions, among the Greek Pythagoreans' and in the Stoics' conceptions. In his Works and Days, Hesiod described five Ages of Man: the Golden Age, the Silver Age, the Bronze Age, the Heroic Age, and the Iron Age, which began with the Dorian invasion. Some scholars identify just four ages, corresponding to the four metals, with the Heroic age as a description of the Bronze Age. A four-age count would match the Vedic or Hindu ages known as Satya Yuga, Treta Yuga, Dvapara Yuga and Kali Yuga, which together make one Yuga Cycle that repeats. According to Jainism, this world has no beginning or end but goes through cycles of upturns (utsarpini) and downturns (avasarpini) constantly. Many Greeks believed that just as mankind went through four stages of character during each rise and fall of history so did government. They considered democracy and monarchy as the healthy régimes of the higher ages; and oligarchy and tyranny as corrupted régimes common to the lower ages. 
+      In the East, cyclical theories of history developed in China (as a theory of dynastic cycle) and in the Islamic world in the work  of Ibn Khaldun (1332-1406). 
+      During the Renaissance, cyclical conceptions of history would become common, with proponents illustrating decay and rebirth by pointing to the decline of the Roman Empire. Machiavelli's Discourses on Livy (1513–1517) provide an example. The notion of Empire contained in itself ascendance and decadence, as in Edward Gibbon's The History of the Decline and Fall of the Roman Empire (1776) (which the Roman Catholic Church placed on the Index Librorum Prohibitorum). 
+      During the Age of Enlightenment, history began to be seen as both linear and irreversible. Condorcet's interpretations of the various "stages of humanity" and Auguste Comte's positivism were among the most important formulations of such conceptions of history, which trusted social progress. As in Jean-Jacques Rousseau's Emile (1762) treatise on education (or the "art of training men"), the Enlightenment conceived the human species as perfectible: human nature could be infinitely developed through a well-thought pedagogy. 
+      Cyclical conceptions continued in the nineteenth and twentieth centuries in the works of authors such as Oswald Spengler (1880–1936), Nikolay Danilevsky (1822–1885), and Paul Kennedy (1945– ), who conceived the human past as a series of repetitive rises and falls. Spengler, like Butterfield, when writing in reaction to the carnage of the First World War of 1914–1918, believed that a civilization enters upon an era of Caesarism after its soul dies. Spengler thought that the soul of the West was dead and that Caesarism was about to begin.  
+      Philosophy of causality 
+      Narrative and causal approaches to history have often been contrasted or even opposed to one another, yet they can also be viewed as complementary. Some philosophers of history such as Arthur Danto have claimed that "explanations in history and elsewhere" describe "not simply an event—something that happens—but a change". Like many practicing historians, they treat causes as intersecting actions and sets of actions which bring about "larger changes", in Danto's words: to decide "what are the elements which persist through a change" is "rather simple" when treating an individual's "shift in attitude", but "it is considerably more complex and metaphysically challenging when we are interested in such a change as, say, the break-up of feudalism or the emergence of nationalism". 
+      Much of the historical debate about causes has focused on the relationship between communicative and other actions, between singular and repeated ones, and between actions, structures of action or group and institutional contexts and wider sets of conditions. John Gaddis has distinguished between exceptional and general causes (following Marc Bloch) and between "routine" and "distinctive links" in causal relationships: "in accounting for what happened at Hiroshima on August 6, 1945, we attach greater importance to the fact that President Truman ordered the dropping of an atomic bomb than to the decision of the Army Air Force to carry out his orders." He has also pointed to the difference between immediate, intermediate and distant causes. For his part, Christopher Lloyd puts forward four "general concepts of causation" used in history: the "metaphysical idealist concept, which asserts that the phenomena of the universe are products of or emanations from an omnipotent being or such final cause"; "the empiricist (or Humean) regularity concept, which is based on the idea of causation being a matter of constant conjunctions of events"; "the functional/teleological/consequential concept", which is "goal-directed, so that goals are causes"; and the "realist, structurist and dispositional approach, which sees relational structures and internal dispositions as the causes of phenomena". 
+      There is disagreement about the extent to which history is ultimately deterministic. Some argue that geography, economic systems, or culture prescribe laws that determine the events of history. Others see history as a sequence of consequential processes that act upon each other. Even determinists do not rule out that, from time to time, certain cataclysmic events occur to change course of history. Their main point is, however, that such events are rare and that even apparently large shocks like wars and revolutions often have no more than temporary effects on the evolution of the society.  
+      Philosophy of neutrality 
+      The question of neutrality concerns itself foremost with analysis of historiography and the biases of historical sources. One prominent manifestation of this analysis is the idea that "history is written by the victors". This phrase appears to have been coined by George Graham Vest to explain the Lost Cause of the losing side of the American Civil War. 
+      In his Society Must Be Defended, Michel Foucault posits that the victors of a social struggle use their political dominance to suppress a defeated adversary's version of historical events in favor of their own propaganda, which may go so far as historical negationism. Wolfgang Schivelbusch's Culture of Defeat takes an opposing approach that defeat is a major driver for the defeated to reinvent himself, while the victor, confirmed in his attitudes and methods, dissatisfied by the high losses and paltry gains made, may be less creative and fall back. 
+      For G. W. F. Hegel, the history of the world is also the Last Judgement. Hegel adopts the expression "Die Weltgeschichte ist das Weltgericht" ("World history is a tribunal that judges the World"; a quote from Friedrich Schiller's poem Resignation published in 1786) and asserts that history is what judges men, their actions and their opinions. Since the twentieth century, Western historians have disavowed the aspiration to provide a judgement of history. The goals of historical judgements or interpretations are separate to those of legal judgements, that need to be formulated quickly after the events and be final. 
+      Related to the issues of historical judgement are those of the pretension to neutrality and objectivity. Analytic and critical philosophers of history have debated whether historians should express judgements on historical figures, or if this would infringe on their supposed role. In general, positivists and neopositivists oppose any value-judgement as unscientific.  
+      Operative theories 
+      Teleological approaches 
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (January 2020) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      Early teleological approaches to history can be found in theodicies, which attempted to reconcile the problem of evil with the existence of God—providing a global explanation of history with belief in a progressive directionality organized by a superior power, leading to an eschatological end, such as a Messianic Age or Apocalypse. However, this transcendent teleological approach can be thought as immanent to human history itself. Augustine of Hippo, Thomas Aquinas, Jacques-Bénigne Bossuet, in his 1679 Discourse On Universal History, and Gottfried Leibniz, who coined the term, formulated such philosophical theodicies. Leibniz based his explanation on the principle of sufficient reason, which states that anything that happens, does happen for a specific reason. Thus, if one adopts God's perspective, seemingly evil events in fact only take place in the larger divine plan. In this way theodicies explained the necessity of evil as a relative element that forms part of a larger plan of history. However, Leibniz's principles were not a gesture of fatalism. Confronted with the antique problem of future contingents, Leibniz developed the theory of compossible worlds, distinguishing two types of necessity, in response to the problem of determinism. 
+      G. W. F. Hegel may represent the epitome of teleological philosophy of history. Hegel's teleology was taken up by Francis Fukuyama in his The End of History and the Last Man. Thinkers such as Nietzsche, Michel Foucault, Althusser, or Deleuze deny any teleological sense to history, claiming that it is best characterized by discontinuities, ruptures, and various time-scales, which the Annales School had demonstrated. 
+      Schools of thought influenced by Hegel also see history as progressive, but they see progress as the outcome of a dialectic in which factors working in opposite directions are over time reconciled. History was best seen as directed by a Zeitgeist, and traces of the Zeitgeist could be seen by looking backward. Hegel believed that history was moving man toward civilization, and some also claim he thought that the Prussian state incarnated the end of history. In his Lessons on the History of Philosophy, he explains that each epochal philosophy is in a way the whole of philosophy; it is not a subdivision of the Whole but this Whole itself apprehended in a specific modality.  
+      Georg Wilhelm Friedrich Hegel 
+      
+       
+         
+        
+         
+          
+         Georg Wilhelm Friedrich Hegel, philosopher of absolute idealism who developed a dialectic conception of history
+        
+       
+       
+      G. W. F. Hegel developed a complex theodicy in his 1807 Phenomenology of Spirit, which based its conception of history on dialectics. The negative was conceived by Hegel as the motor of history. Hegel argued that history is a constant process of dialectic clash, with each thesis encountering an opposing idea or event antithesis. The clash of both was "superated" in the synthesis, a conjunction that conserved the contradiction between thesis and its antithesis while sublating it. As Marx famously explained afterwards, concretely that meant that if Louis XVI's monarchic rule in France was seen as the thesis, the French Revolution could be seen as its antithesis. However, both were sublated in Napoleon, who reconciled the revolution with the Ancien Régime; he conserved the change. Hegel thought that reason accomplished itself, through this dialectical scheme, in History. Through labour, man transformed nature so he could recognize himself in it; he made it his "home." Thus, reason spiritualized nature. Roads, fields, fences, and all the modern infrastructure in which we live is the result of this spiritualization of nature. Hegel thus explained social progress as the result of the labour of reason in history. However, this dialectical reading of history involved, of course, contradiction, so history was also conceived of as constantly conflicting: Hegel theorized this in his famous dialectic of the lord and the bondsman. 
+      According to Hegel,  
+      
+      
+       One more word about giving instruction as to what the world ought to be. Philosophy in any case always comes on the scene too late to give it... When philosophy paints its gray in gray, then has a shape of life grown old. By philosophy's gray in gray it cannot be rejuvenated but only understood. The owl of Minerva spreads its wings only with the falling of the dusk.
+       
+      Thus, philosophy was to explain Geschichte (history) afterward. Philosophy is always late, it is only an interpretation of what is rational in the real—and, according to Hegel, only what is recognized as rational is real. This idealist understanding of philosophy as interpretation was famously challenged by Karl Marx's 11th thesis on Feuerbach (1845): "Philosophers have hitherto only interpreted the world in various ways; the point, however, is to change it."  
+      Thomas Carlyle 
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (January 2020) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      
+       
+         
+        
+         
+          
+         Thomas Carlyle, Scottish historian and philosopher of the great man theory
+        
+       
+       
+      After Hegel, who insisted on the role of great men in history, with his famous statement about Napoleon, "I saw the Spirit on his horse", Thomas Carlyle argued that history was the biography of a few central individuals, heroes, such as Oliver Cromwell or Frederick the Great, writing that "The history of the world is but the biography of great men." His view of heroes included not only political and military figures, the founders or topplers of states, but artists, poets, theologians and other cultural leaders. His history of great men, of geniuses good and evil, sought to organize change in the advent of greatness. 
+      Explicit defenses of Carlyle's position have been rare since the late twentieth century. Most philosophers of history contend that the motive forces in history can best be described only with a wider lens than the one he used for his portraits. A.C. Danto, for example, wrote of the importance of the individual in history, but extended his definition to include social individuals, defined as "individuals we may provisionally characterize as containing individual human beings amongst their parts. Examples of social individuals might be social classes , national groups , religious organizations , large-scale events , large-scale social movements , etc." The great man theory of history was most popular with professional historians in the nineteenth century; a popular work of this school is the Encyclopædia Britannica Eleventh Edition (1911), which contains lengthy and detailed biographies about the great men of history. 
+      After Marx's conception of a materialist history based on the class struggle, which raised attention for the first time to the importance of social factors such as economics in the unfolding of history, Herbert Spencer wrote "You must admit that the genesis of the great man depends on the long series of complex influences which has produced the race in which he appears, and the social state into which that race has slowly grown....Before he can remake his society, his society must make him."  
+      Social evolutionism 
+      
+      
+       Main article: Sociocultural evolutionism
+       
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This section may contain material unrelated or insufficiently related to the topic of the article. Please help improve this section or discuss this issue on the talk page. (November 2019) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      Inspired by the Enlightenment's ideal of progress, social evolutionism became a popular conception in the nineteenth century. Auguste Comte's (1798–1857) positivist conception of history, which he divided into the theological stage, the metaphysical stage and the positivist stage, brought upon by modern science, was one of the most influential doctrines of progress. The Whig interpretation of history, as it was later called, associated with scholars of the Victorian and Edwardian eras in Britain, such as Henry Maine or Thomas Macaulay, gives an example of such influence, by looking at human history as progress from savagery and ignorance toward peace, prosperity, and science. Maine described the direction of progress as "from status to contract," from a world in which a child's whole life is pre-determined by the circumstances of his birth, toward one of mobility and choice. 
+      The publication of Darwin's The Origin of Species in 1859 introduced human evolution. However, it was quickly transposed from its original biological field to the social field, in social Darwinist theories. Herbert Spencer, who coined the term "survival of the fittest", or Lewis Henry Morgan in Ancient Society (1877) developed evolutionist theories independent from Darwin's works, which would be later interpreted as social Darwinism. These nineteenth-century unilineal evolution theories claimed that societies start out in a primitive state and gradually become more civilised over time, and equated the culture and technology of Western civilisation with progress. 
+      Arthur Gobineau's An Essay on the Inequality of the Human Races (1853–55) argued that race is the primary force determining world events, that there are intellectual differences between human races, and that civilizations decline and fall when the races are mixed. Gobineau's works had a large popularity in the so-called scientific racism theories that developed during the New Imperialism period. 
+      After the first world war, and even before Herbert Butterfield (1900–1979) harshly criticized it, the Whig interpretation had gone out of style. The bloodletting of that conflict had indicted the whole notion of linear progress. Paul Valéry famously said: "We civilizations now know ourselves mortal." 
+      However, the notion itself didn't completely disappear. The End of History and the Last Man (1992) by Francis Fukuyama proposed a similar notion of progress, positing that the worldwide adoption of liberal democracies as the single accredited political system and even modality of human consciousness would represent the "End of History". Fukuyama's work stems from a Kojevian reading of Hegel's Phenomenology of Spirit (1807). 
+      Unlike Maurice Godelier who interprets history as a process of transformation, Tim Ingold suggests that history is a movement of autopoiesis 
+      A key component to making sense of all of this is to simply recognize that all these issues in social evolution merely serve to support the suggestion that how one considers the nature of history will impact the interpretation and conclusions drawn about history. The critical under-explored question is less about history as content and more about history as process. 
+      In 2011 Steven Pinker wrote a history of violence and humanity from an evolutionary perspective in which he shows that violence has declined statistically over time.  
+      Contextual theories 
+      As early as the 18th century, philosophers began focusing on contextual factors contributing to the course of history. Historians of the Annales School, founded in 1929 by Lucien Febvre and Marc Bloch, were a major landmark in the shift from a history centered on individual subjects to studies concentrating in geography, economics, demography, and other social forces. Fernand Braudel's studies on the Mediterranean Sea as "hero" of history and Emmanuel Le Roy Ladurie's history of climate were inspired by this school.  
+      Karl Marx 
+      
+       
+         
+        
+         
+          
+         Karl Marx, founder of Marxism and historical materialism
+        
+       
+       
+      Karl Marx is often thought to be an exponent of economic determinism. For him social institutions like religion, culture and the political system were merely by-products of the underlying economic system. However, he did not see history as completely deterministic. His essay The Eighteenth Brumaire of Louis Napoleon contains the most famous formulation of Marx's view of the role of the individual in history:  
+      
+      
+       Men make their own history, but they do not make it just as they please; they do not make it under circumstances chosen by themselves, but under given circumstances directly encountered and inherited from the past.
+       
+      Michel Foucault 
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (November 2019) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      The historico-political discourse analyzed by Michel Foucault in Society Must Be Defended (1975–76) considers truth as the fragile product of a historical struggle, first conceptualized as race struggle—understood not in the modern sense of biological race but closer to that of a people or nation. Boulainvilliers, for example, was an exponent of nobility rights. He claimed that the French nobility were the racial descendants of the Franks who invaded France (while the Third Estate was descended from the conquered Gauls), and had right to power by virtue of right of conquest. He used this approach to formulate a historical thesis of the course of French political history—a critique of both the monarchy and the Third Estate. Foucault regards him as the founder of the historico-political discourse as political weapon. 
+      In Great Britain, this historico-political discourse was used by the bourgeoisie, the people and the aristocracy as a means of struggle against the monarchy—cf. Edward Coke or John Lilburne. In France, Boulainvilliers, Nicolas Fréret, and then Sieyès, Augustin Thierry, and Cournot reappropriated this form of discourse. Finally, at the end of the nineteenth century, this discourse was incorporated by racialist biologists and eugenicists, who gave it the modern sense of race and, even more, transformed this popular discourse into a state racism in Nazism. Foucault also presents that Marxists too seized this discourse and took it in a different direction, transforming the essentialist notion of race into the historical notion of class struggle, defined by socially structured position. This displacement of discourse constitutes one of the bases of Foucault's thought—that discourse is not tied to the subject, rather the subject is a construction of discourse. Moreover, discourse is not the simple ideological and mirror reflexion of an economic infrastructure, but is a product and the battlefield of multiples forces—which may not be reduced to the simple dualist contradiction of two energies. 
+      Foucault shows that what specifies this discourse from the juridical and philosophical discourse is its conception of truth—that truth is no longer absolute, it is the product of race struggle. History itself, which was traditionally the sovereign's science, the legend of his glorious feats and monument building, ultimately became the discourse of the people, thus a political stake. The subject is not any more a neutral arbitrator, judge, or legislator, as in Solon's or Kant's conceptions. Therefore, what became the historical subject must search in history's furor, under the "juridical code's dried blood", the multiple contingencies from which a fragile rationality temporarily finally emerged. This may be, perhaps, compared to the sophist discourse in Ancient Greece. Foucault warns that it has nothing to do with Machiavelli's or Hobbes's discourse on war, for to this popular discourse, the sovereign is nothing more than "an illusion, an instrument, or, at the best, an enemy. It is a discourse that beheads the king, anyway that dispenses itself from the sovereign and that denounces it".  
+      Other approaches 
+      Narrative history 
+      A current popular conception considers the value of narrative in the writing and experience of history. Important thinkers in this area include Paul Ricœur, Louis Mink, W.B. Gallie, and Hayden White. Some have doubted this approach because it draws fictional and historical narrative closer together, and there remains a perceived "fundamental bifurcation between historical and fictional narrative" (Ricœur, vol. 1, 52). In spite of this, most modern historians, such as Barbara Tuchman or David McCullough, consider narrative writing important to their approaches. The theory of narrated history (or historicized narrative) holds that the structure of lived experience, and such experience narrated in both fictional and non-fictional works (literature and historiography) have in common the figuration of "temporal experience." In this way, narrative has a generously encompassing ability to "'grasp together' and integrate ... into one whole and complete story" the "composite representations" of historical experience (Ricœur x, 173). Louis Mink writes that, "the significance of past occurrences is understandable only as they are locatable in the ensemble of interrelationships that can be grasped only in the construction of narrative form" (148). Marxist theorist Fredric Jameson also analyzes historical understanding this way, and writes that "history is inaccessible to us except in textual form ... it can be approached only by way of prior (re)textualization" (82).  
+      Education and propaganda 
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This section contains information of unclear or questionable importance or relevance to the article's subject matter. Please help improve this section by clarifying or removing indiscriminate details. If importance cannot be established, the section is likely to be moved to another article, pseudo-redirected, or removed.Find sources:&nbsp;"Philosophy of history"&nbsp;–&nbsp;news&nbsp;· newspapers&nbsp;· books&nbsp;· scholar&nbsp;· JSTOR (May 2020) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      
+      
+       See also: Philosophy of education and Pedagogy
+       
+      Since Plato's Republic, civic education and instruction has had a central role in politics and the constitution of a common identity. History has thus sometimes become the target of propaganda, for example in historical revisionist attempts. Plato's insistence on the importance of education was relayed by Rousseau's Emile: Or, On Education (1762), a counterpart to The Social Contract (1762). Public education has been seen by republican regimes and the Enlightenment as a prerequisite of the masses' progressive emancipation, as conceived by Kant in Was Ist Aufklärung? (What Is Enlightenment?, 1784). 
+      The creation of modern education systems, instrumental in the construction of nation states, also passed by the elaboration of a common, national history. History textbooks are one of the many ways through which this common history was transmitted. Le Tour de France par deux enfants, for example, was the French Third Republic's classic textbook for elementary school: it described the story of two French children who, following the German annexation of the Alsace-Lorraine region in 1870, go on a tour de France during which they become aware of France's diversity and the existence of the various patois.  
+      See also 
+      
+       Historical significance 
+       Historic recurrence 
+       Historiography 
+       Historiosophy 
+       Journal of the Philosophy of History 
+       Philosophy of time 
+       Political philosophy 
+       Social philosophy 
+       Teleology 
+       Teleonomy 
+       Truth 
+       Victor's justice
+       
+      Notes 
+      
+       
+       
+         
+         ^ See, for example, the biography of Attila the Hun of the Migrations Period.  
+        
+       
+       
+      References 
+      
+       
+        
+        ^ Voltaire, La philosophie de l'histoire, Changuion, 1765.  
+        ^ The Continuing Relevance of Speculative Philosophy of History, Journal of the Philosophy of History  
+        ^ Philosophy of History, Stanford Encyclopedia of Philosophy  
+        ^ E.g. W. H. Walsh, Introduction to the Philosophy of History (1951) ch. 1 p. 2.  
+        ^ Rolf Gruner, "The concept of speculative philosophy of history," Metaphilosophy 3(4).  
+        ^ a b H. Mowlana (2001). "Information in the Arab World", Cooperation South Journal 1.  
+        ^  Compare: Ibn Khaldun (1958). "Introduction by N. J. Dawood". The Muqaddimah: An Introduction to History in Three Volumes. Princeton/Bollingen paperbacks. Vol.&nbsp;1. Translated by Franz Rosenthal; compiled by N. J. Dawood (abridged, illustrated, reprint, revised&nbsp;ed.). Princeton University Press. p.&nbsp;x. ISBN&nbsp;9780691017549. Retrieved 2016-06-18. In rejecting idle superstition and denouncing uncritical acceptance of historical data, Ibn Khaldun adopted a scientific method totally new to his age, and used a new terminology to drive home his ideas. That he was fully aware of the originality of his thinking and the uniqueness of his contribution is illustrated by the many references he makes to his 'new science'.  
+        ^  Compare Oswald Spengler and History as Destiny, page 93: " the closing years of the First World War, when Spengler was completing his work, had witnessed the passing of the feudal rule of landed aristocracy in Germany and its merging into budding forms of parliamentary plutocracy - soon to be followed by the rise of 'mobocracy' and then Caesarism."  
+        ^ Hewitson, M. (2014) History and Causality, 127-48.  
+        ^ Danto, A. (1968) Analytical Philosophy of History, 233.  
+        ^ Danto, A. (1968) Analytical Philosophy of History, 249.  
+        ^ Hewitson, M. (2014) History and Causality, 86-116.  
+        ^ Gaddis, J. L. (2002) The Landscape of History: How Historians Map the Past, 64.  
+        ^ Lloyd, C. (1993) Structures of History, 159.  
+        ^ 
+          Humanities, National Endowment for the (August 27, 1891). "Abilene weekly reflector. (Abilene, Kan.) 1888-1935, August 27, 1891, Image 1" – via chroniclingamerica.loc.gov.  
+        ^ Janez Juhant, Bojan Žalec (eds.), Reconciliation: The Way of Healing and Growth, LIT Verlag Münster, 2012, p. 98.  
+        ^ Curran, Vivian Grosswald (2000) Herder and the Holocaust: A Debate About Difference and Determinism in the Context of Comparative Law in F. C. DeCoste, Bernard Schwartz (eds.) Holocaust's Ghost: Writings on Art, Politics, Law and Education pp.413-5  
+        ^ a b c Parkinson, G.H.R An Encyclopedia of Philosophy pp.800, 807, 820  
+        ^ Curran, Vivian Grosswald (2000) Herder and the Holocaust: A Debate About Difference and Determinism in the Context of Comparative Law in F. C. DeCoste, Bernard Schwartz (eds.) Holocaust's Ghost: Writings on Art, Politics, Law and Education p.415  
+        ^ Rubinoff, Lionel History, Philosophy and Historiography: Philosophy and the Critique of Historical Thinking, in William Sweet The Philosophy of History: A Re-Examination, Chapter 9 p.171  
+        ^ Andrew Holland Access to History: Russia and its Rulers 1855-1964 (OCR): Historical Themes p.7  
+        ^ Hegel, Philosophy of Right (1820), "Preface" See for a discussion Hegel's conception of reason accomplishing itself through a dialectical scheme. Charles Edward Andrew Lincoln IV, Hegelian Dialectical Analysis of U.S. Voting Laws, 42 U. Dayton L. Rev. 87 (2017). See Lincoln, Charles The Dialectical Path of Law, 2021 Rowman &amp; Littlefield.  
+        ^ Danto, "The Historical Individual", 266, in Philosophical Analysis and History, edited by Williman H. Dray, Rainbow-Bridge Book Co., 1966  
+        ^ Ingold, T. On the Distinction between Evolution and History. Social Evolution &amp; History,. Vol. 1, num. 1. 2002. Pp. 5-24. P. 9, socionauki.ru  
+        ^ " The better angels of our nature, a history of violence and humanity ", by Steven Pinker, published 2012 by Penguin books 
+          ISBN&nbsp;978-0-141-03464-5  
+        ^ Abhijit V. Banerjee and Esther Duflo. Under the Thumb of History? Political institutions and the Scope for Action  
+        ^ 
+          "The Eighteenth Brumaire of Louis Bonaparte". marx2mao.com.  
+       
+       
+      Further reading 
+      
+       Berkhofer, Robert F. Beyond the great story: history as text and discourse. (Harvard University Press, 1995) 
+       Berlin, Isaiah. Three critics of the Enlightenment: Vico, Hamann, Herder, (2000) 
+       Rose, Elizabeta "The Philosophy of History" Writings of the Contemporary World (2011) 
+       Carr, Edward Hallett, "What is History?" (1961) 
+       Collingwood, R. G. The idea of history. (1946) 
+       Danto, Arthur Coleman. Analytical philosophy of history (1965) 
+       Doran, Robert. ed. Philosophy of History After Hayden White. London: Bloomsbury, 2013. 
+       Dilthey, Wilhelm. Introduction to the human sciences ed. by R. A. Makkreel and F. Rodi. (1883; 1989) 
+       Engels, David. ed. Von Platon bis Fukuyama. Biologistische und zyklische Konzepte in der Geschichtsphilosophie der Antike und des Abendlandes, Brussels: Latomus, 2015. 
+       Rickert, Heinrich, Die Probleme der Geschichtsphilosophie. Eine Einführung, Tübingen 1924, new ed.: Celtis Verlag, Berlin 2013, 
+         ISBN&nbsp;978-3-944253-01-5 
+       Gardiner, Patrick L. The nature of historical explanation. (1952) 
+       Gardiner, Patrick L. ed. The philosophy of history, Oxford readings in philosophy. (1974) 
+       Hewitson, Mark, History and Causality (Palgrave Macmillan, 2014) 
+       Lloyd, Christopher The Structures of History (Oxford: Blackwell, 1993) 
+       Mandelbaum, Maurice, The Anatomy of Historical Knowledge (Johns Hopkins, 1977) 
+       Mink, Louis O. "Narrative form as a cognitive instrument." in The writing of history: Literary form and historical understanding, Robert H. Canary and Henry Kozicki, eds. Madison, Wisconsin: The University of Wisconsin Press, 1978. 
+       Ricoeur, Paul. Time and Narrative, Volume 1 and 2, University Of Chicago Press, 1990. 
+       Ricoeur, Paul. History and Truth. Translated by Kathleen McLaughlin and David Pellauer. Chicago and London: U of Chicago P, 1983. 
+       Jameson, Frederic. The Political Unconscious: Narrative as a Socially Symbolic Act, Ithaca: Cornell University Press, 1981. 
+       Muller, Herbert J. The Uses of the Past, New York, New York: Oxford University Press, 1952. 
+       Schumann, G. Explanation in Action Theory and Historiography: Causal and Teleological Approaches. 2019. 
+       Walsh, W.H. An Introduction to Philosophy of History. 1951. 
+       White, Hayden V. Metahistory: The Historical Imagination in Nineteenth-Century Europe. (Johns Hopkins University Press, 1973). 
+       White, Hayden V. The Fiction of Narrative: Essays on History, Literature, and Theory, 1957-2007. (Johns Hopkins University Press, 2010). Ed. Robert Doran. 
+       Gisi, Lucas Marco: Einbildungskraft und Mythologie. Die Verschränkung von Anthropologie und Geschichte im 18. Jahrhundert, Berlin, New York: de Gruyter, 2007. 
+       Vassallo, Christian: Rolling Sisyphus' Stone Uphill? Plato's Philosophy of History and Progress Reappraised, The Journal of Hellenic Studies 141, 2021, pp. 179-196.
+       
+      External links 
+       
+       
+         
+          
+         Wikimedia Commons has media related to Philosophy of history.
+         
+       
+       
+      
+       An Introduction to the Philosophy of History by Paul Newall, aimed at beginners. 
+       Anthony K. Jensen, Philosophy of History, Internet Encyclopedia of Philosophy 
+       Centre for Philosophical Studies of History at the University of Oulu, Finland 
+       Daniel Little, Philosophy of History, Stanford Encyclopedia of Philosophy 
+       The Explanation of Action in History by Constantine Sandis, Essays in Philosophy, Vol. 7, No. 2, June 2006. 
+       Web Portal on Philosophy of History, Historiography and Historical Culture 
+       
+        Münsterberg, Hugo (1920). "History, Logic of"&nbsp;. Encyclopedia Americana. 
+       The International Network for Theory of History 
+       We are history: the outlines of a quasi-substantive philosophy of history Zoltán Boldizsár Simon, Rethinking History, Vol. 20, No. 2, 2016
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Philosophy
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Branches
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Traditional
+                  
+                    
+                    
+                     Axiology 
+                      
+                       Aesthetics 
+                       Ethics
+                       
+                     Epistemology 
+                     Logic 
+                     Metaphysics 
+                      
+                       Ontology
+                      
+                     
+                   
+                 
+                 
+                  Philosophy of...
+                  
+                    
+                    
+                     Action 
+                     Art 
+                      
+                       Design 
+                       Music 
+                       Film
+                       
+                     Color 
+                     Cosmology 
+                     Culture 
+                     Education 
+                     Environment 
+                     Geography 
+                     History 
+                     Human nature 
+                     Feminism 
+                     Language 
+                     Law 
+                     Life 
+                     Literature 
+                     Logic 
+                     Mathematics 
+                     Medicine 
+                      
+                       Healthcare 
+                       Psychiatry
+                       
+                     Mind 
+                      
+                       Pain 
+                       Happiness 
+                       Humor 
+                       Psychology
+                       
+                     Perception 
+                     Philosophy 
+                     Religion 
+                     Science 
+                      
+                       Physics 
+                       Chemistry 
+                       Biology
+                       
+                     Sexuality 
+                     Social science 
+                      
+                       Business 
+                       Economics 
+                       Politics 
+                       Society
+                       
+                     Space and time 
+                     Sport 
+                     Technology 
+                      
+                       Artificial intelligence 
+                       Computer science 
+                       Engineering 
+                       Information
+                       
+                     War
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Schools of thought
+               
+             
+             
+              
+               
+               
+                
+                 
+                  By era
+                  
+                    
+                    
+                     Ancient 
+                     Western 
+                      
+                       Medieval 
+                       Renaissance 
+                       Early modern 
+                       Modern 
+                       Contemporary
+                      
+                     
+                   
+                 
+                 
+                  Ancient
+                  
+                   
+                   
+                    
+                     
+                      Chinese
+                      
+                        
+                        
+                         Agriculturalism 
+                         Confucianism 
+                         Legalism 
+                         Logicians 
+                         Mohism 
+                         Chinese naturalism 
+                         Neotaoism 
+                         Taoism 
+                         Yangism 
+                         Chan
+                         
+                       
+                     
+                     
+                      Greco-Roman 
+                      
+                        
+                        
+                         Aristotelianism 
+                         Atomism 
+                         Cynicism 
+                         Cyrenaics 
+                         Eleatics 
+                         Eretrian school 
+                         Epicureanism 
+                         Hermeneutics 
+                         Ionian 
+                          
+                           Ephesian 
+                           Milesian
+                           
+                         Megarian school 
+                         Neoplatonism 
+                         Peripatetic 
+                         Platonism 
+                         Pluralism 
+                         Presocratic 
+                         Pyrrhonism 
+                         Pythagoreanism 
+                         Neopythagoreanism 
+                         Sophistic 
+                         Stoicism
+                         
+                       
+                     
+                     
+                      Indian
+                      
+                        
+                        
+                         Hindu 
+                         Samkhya 
+                         Nyaya 
+                         Vaisheshika 
+                         Yoga 
+                         Mīmāṃsā 
+                         Ājīvika 
+                         Ajñana 
+                         Cārvāka 
+                         Jain 
+                          
+                           Anekantavada 
+                           Syādvāda
+                           
+                         Buddhist 
+                          
+                           Śūnyatā 
+                           Madhyamaka 
+                           Yogacara 
+                           Sautrāntika 
+                           Svatantrika
+                          
+                         
+                       
+                     
+                     
+                      Persian
+                      
+                        
+                        
+                         Mazdakism 
+                         Mithraism 
+                         Zoroastrianism 
+                         Zurvanism
+                         
+                       
+                     
+                    
+                   
+                   
+                 
+                 
+                  Medieval
+                  
+                   
+                   
+                    
+                     
+                      European
+                      
+                        
+                        
+                         Christian 
+                          Augustinianism 
+                         Scholasticism 
+                         Thomism 
+                         Scotism 
+                         Occamism 
+                         Renaissance humanism
+                         
+                       
+                     
+                     
+                      East Asian
+                      
+                        
+                        
+                         Korean Confucianism 
+                         Edo neo-Confucianism 
+                         Neo-Confucianism
+                         
+                       
+                     
+                     
+                      Indian
+                      
+                        
+                        
+                         Vedanta 
+                          
+                           Acintya bheda abheda 
+                           Advaita 
+                           Bhedabheda 
+                           Dvaita 
+                           Nimbarka Sampradaya 
+                           Shuddhadvaita 
+                           Vishishtadvaita
+                           
+                         Navya-Nyāya
+                         
+                       
+                     
+                     
+                      Islamic
+                      
+                        
+                        
+                         Averroism 
+                         Avicennism 
+                         Illuminationism 
+                         ʿIlm al-Kalām 
+                         Sufi
+                         
+                       
+                     
+                     
+                      Jewish
+                      
+                        
+                        
+                         Judeo-Islamic
+                         
+                       
+                     
+                    
+                   
+                   
+                 
+                 
+                  Modern
+                  
+                   
+                   
+                    
+                     
+                      People
+                      
+                        
+                        
+                         Cartesianism 
+                         Kantianism 
+                          
+                           Neo
+                           
+                         Kierkegaardianism 
+                         Krausism 
+                         Hegelianism 
+                         Marxism 
+                         Newtonianism 
+                         Nietzscheanism 
+                         Spinozism
+                         
+                       
+                     
+                     
+                      0
+                      
+                        
+                        
+                         Anarchism 
+                         Classical Realism 
+                         Liberalism 
+                         Collectivism 
+                         Conservatism 
+                         Determinism 
+                         Dualism 
+                         Empiricism 
+                         Existentialism 
+                         Foundationalism 
+                         Historicism 
+                         Holism 
+                         Humanism 
+                          
+                           Anti-
+                           
+                         Idealism 
+                          
+                           Absolute 
+                           British 
+                           German 
+                           Objective 
+                           Subjective 
+                           Transcendental
+                           
+                         Individualism 
+                         Kokugaku 
+                         Materialism 
+                         Modernism 
+                         Monism 
+                         Naturalism 
+                         Natural law 
+                         Nihilism 
+                         New Confucianism 
+                         Neo-scholasticism 
+                         Pragmatism 
+                         Phenomenology 
+                         Positivism 
+                         Reductionism 
+                         Rationalism 
+                         Social contract 
+                         Socialism 
+                         Transcendentalism 
+                         Utilitarianism
+                         
+                       
+                     
+                    
+                   
+                   
+                 
+                 
+                  Contemporary
+                  
+                   
+                   
+                    
+                     
+                      Analytic
+                      
+                        
+                        
+                         Applied ethics 
+                         Analytic feminism 
+                         Analytical Marxism 
+                         Communitarianism 
+                         Consequentialism 
+                         Critical rationalism 
+                         Experimental philosophy 
+                         Falsificationism 
+                         Foundationalism&nbsp;/ Coherentism 
+                         Internalism and externalism 
+                         Logical positivism 
+                         Legal positivism 
+                         Normative ethics 
+                         Meta-ethics 
+                         Moral realism 
+                         Quinean naturalism 
+                         Ordinary language philosophy 
+                         Postanalytic philosophy 
+                         Quietism 
+                         Rawlsian 
+                         Reformed epistemology 
+                         Systemics 
+                         Scientism 
+                         Scientific realism 
+                         Scientific skepticism 
+                         Transactionalism 
+                         Contemporary utilitarianism 
+                         Vienna Circle 
+                         Wittgensteinian
+                         
+                       
+                     
+                     
+                      Continental
+                      
+                        
+                        
+                         Critical theory 
+                         Deconstruction 
+                         Existentialism 
+                         Feminist 
+                         Frankfurt School 
+                         New Historicism 
+                         Hermeneutics 
+                         Neo-Marxism 
+                         Phenomenology 
+                         Posthumanism 
+                         Postmodernism 
+                         Post-structuralism 
+                         Social constructionism 
+                         Structuralism 
+                         Western Marxism
+                         
+                       
+                     
+                     
+                      Other
+                      
+                        
+                        
+                         Kyoto School 
+                         Objectivism 
+                         Postcritique 
+                         Russian cosmism 
+                         more...
+                         
+                       
+                     
+                    
+                   
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Positions
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Aesthetics
+                  
+                    
+                    
+                     Formalism 
+                     Institutionalism 
+                     Aesthetic response
+                     
+                   
+                 
+                 
+                  Ethics
+                  
+                    
+                    
+                     Consequentialism 
+                     Deontology 
+                     Virtue
+                     
+                   
+                 
+                 
+                  Free will
+                  
+                    
+                    
+                     Compatibilism 
+                     Determinism 
+                      
+                       Hard
+                       
+                     Incompatibilism 
+                      
+                       Hard
+                       
+                     Libertarianism
+                     
+                   
+                 
+                 
+                  Metaphysics
+                  
+                    
+                    
+                     Atomism 
+                     Dualism 
+                     Idealism 
+                     Monism 
+                     Naturalism 
+                     Realism
+                     
+                   
+                 
+                 
+                  Epistemology
+                  
+                    
+                    
+                     Empiricism 
+                     Fideism 
+                     Naturalism 
+                     Particularism 
+                     Rationalism 
+                     Skepticism 
+                     Solipsism
+                     
+                   
+                 
+                 
+                  Mind
+                  
+                    
+                    
+                     Behaviorism 
+                     Emergentism 
+                     Eliminativism 
+                     Epiphenomenalism 
+                     Functionalism 
+                     Objectivism 
+                     Subjectivism
+                     
+                   
+                 
+                 
+                  Normativity
+                  
+                    
+                    
+                     Absolutism 
+                     Particularism 
+                     Relativism 
+                     Nihilism 
+                     Skepticism 
+                     Universalism
+                     
+                   
+                 
+                 
+                  Ontology
+                  
+                    
+                    
+                     Action 
+                     Event 
+                     Process
+                     
+                   
+                 
+                 
+                  Reality
+                  
+                    
+                    
+                     Anti-realism 
+                     Conceptualism 
+                     Idealism 
+                     Materialism 
+                     Naturalism 
+                     Nominalism 
+                     Physicalism 
+                     Realism
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                
+                 
+                  By region
+                  Related lists
+                  Miscellaneous
+                 
+                
+               
+             
+             
+              
+               
+               
+                
+                 
+                  By region
+                  
+                   
+                   
+                    
+                     
+                      African
+                      
+                        
+                        
+                         Bantu 
+                         Egyptian 
+                         Ethiopian
+                         
+                       
+                     
+                     
+                      Eastern
+                      
+                        
+                        
+                         Chinese 
+                         Indian 
+                         Indonesian 
+                         Japanese 
+                         Korean 
+                         Taiwanese 
+                         Pakistani 
+                         Vietnamese
+                         
+                       
+                     
+                     
+                      Middle Eastern
+                      
+                        
+                        
+                         Iranian 
+                         Jewish 
+                         Turkish
+                         
+                       
+                     
+                     
+                      Western
+                      
+                        
+                        
+                         American 
+                         Australian 
+                         British 
+                          
+                           Scottish
+                           
+                         Canada 
+                         Czech 
+                         Danish 
+                         Dutch 
+                         French 
+                         German 
+                         Greek 
+                         Italian 
+                         Maltese 
+                         Polish 
+                         Slovene 
+                         Spanish
+                         
+                       
+                     
+                     
+                      Miscellaneous
+                      
+                        
+                        
+                         Amerindian 
+                         Aztec 
+                         Yugoslav 
+                         Romanian 
+                         Russian
+                         
+                       
+                     
+                    
+                   
+                   
+                 
+                 
+                  Lists
+                  
+                    
+                    
+                     Outline 
+                     Index 
+                     Years 
+                     Problems 
+                     Schools 
+                     Glossary 
+                     Philosophers 
+                     Movements 
+                     Publications
+                     
+                   
+                 
+                 
+                  Miscellaneous
+                  
+                    
+                    
+                     Natural law 
+                     Sage 
+                     Theoretical philosophy&nbsp;/ Practical philosophy 
+                     Women in philosophy
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+            
+            
+              Portal 
+              Category
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Social sciences
+           
+         
+         
+          
+            
+            
+             Outline 
+             History 
+             Index
+             
+           
+         
+         
+          Primary
+          
+            
+            
+             Anthropology (archaeology 
+             cultural 
+             linguistics 
+             social) 
+             Economics (microeconomics 
+             macroeconomics 
+             econometrics 
+             mathematical) 
+             Geography (physical 
+             human 
+             integrated 
+             geomatics 
+             regional) 
+             History 
+              
+               cultural 
+               auxiliary sciences 
+               economic 
+               human 
+               military 
+               political 
+               social
+               
+             Law (jurisprudence 
+             legal history 
+             legal systems 
+             public law 
+             private law) 
+             Political science (international relations 
+             comparative 
+             theory 
+             public policy) 
+             Psychology (abnormal 
+             cognitive 
+             developmental 
+             personality 
+             social) 
+             Sociology (criminology 
+             demography 
+             internet 
+             rural 
+             urban)
+             
+           
+         
+         
+          Interdisciplinary
+          
+            
+            
+             Administration (business 
+             public) 
+             Anthrozoology 
+             Area studies 
+             Business studies 
+             Cognitive science 
+             Communication studies 
+             Community studies 
+             Cultural studies 
+             Development studies 
+             Education 
+             Environmental (social science 
+             studies) 
+             Food studies 
+             Gender studies 
+             Global studies 
+             Historical sociology 
+             History of technology 
+             Human ecology 
+             Information science 
+             International studies 
+             Linguistics 
+             Media studies 
+             Philosophy of science (economics 
+             history 
+             psychology 
+             social science) 
+             Planning (land use 
+             regional 
+             urban) 
+             Political ecology 
+             Political economy 
+             Political sociology 
+             Public health 
+             Regional science 
+             Science and technology studies 
+             Science studies 
+              
+               historical 
+               Quantum social science
+               
+             Social work 
+             Vegan studies
+             
+           
+         
+         
+          List
+          
+            
+            
+             List of social science journals
+             
+           
+         
+         
+          Other categorizations
+          
+            
+            
+             Humanities 
+             Geisteswissenschaft 
+             Human science
+             
+           
+         
+         
+          
+            
+            
+              Category 
+              Commons 
+             &nbsp;Society portal 
+              Wikiversity
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Theories of history
+           
+         
+         
+          
+            
+            
+             Annales 
+             Conceptual 
+             Cultural 
+             Economic 
+             Environmental 
+             Gender 
+             Historicism
+             
+            
+             Marxist 
+             Macrohistory 
+             Microhistory 
+             Postcolonial 
+             Politics 
+             Postmodern 
+             Psychohistory 
+             Social
+             
+            
+             List of historians 
+             History 
+             Big History
+             
+           
+         
+         
+          
+           
+            
+             
+            
+            
+             
+              
+               
+                
+                 
+                 
+                  
+                   v
+                   t
+                   e
+                  
+                 
+                 
+                  Historiography
+                 
+               
+               
+                
+                  
+                  
+                   Historical method 
+                   History 
+                   Big History 
+                   history 
+                   theories of history 
+                   historiography 
+                   historians
+                   
+                 
+               
+               
+                Historical sources
+                
+                 
+                 
+                  
+                   
+                    Types
+                    
+                      
+                      
+                       Primary sources 
+                       Secondary sources 
+                       Tertiary sources
+                       
+                     
+                   
+                   
+                    Sources
+                    
+                      
+                      
+                       Archives 
+                       Artifact 
+                       Archaeological site 
+                       Codices 
+                       Deeds 
+                       Facsimiles 
+                       Feature 
+                       Hieroglyphs 
+                       Historical documents 
+                       Manuscripts 
+                       Papyri 
+                       Religious texts 
+                       Scrolls
+                       
+                     
+                   
+                  
+                 
+                 
+               
+               
+                Organizations, institutes
+                
+                  
+                  
+                   Historical society 
+                   Historiographical Institute of the University of Tokyo
+                   
+                 
+               
+               
+                Concepts (choice)
+                
+                  
+                  
+                   Battle for Australia 
+                   Pax Sinica 
+                   Political midlife crisis 
+                   Renaissance 
+                   Translatio imperii
+                   
+                 
+               
+               
+                Methodology,schools (choice)
+                
+                  
+                  
+                   Annales school 
+                    
+                     History of mentalities 
+                     Nouvelle histoire
+                     
+                   Case study 
+                   Change and continuity 
+                   Historical linguistics 
+                   Great Man theory 
+                    
+                     Heroic theory of invention and scientific development
+                     
+                   Historic recurrence 
+                   Historical anthropology 
+                   Historical determinism 
+                   Historical realism 
+                   Historicism 
+                   Historiometry 
+                    
+                     Cliometrics
+                     
+                   Historism 
+                   Marxist historiography 
+                    
+                     Historical materialism
+                     
+                   Microhistory 
+                   Codicology 
+                   Palaeography 
+                   Intellectual history 
+                    
+                     Idea of Progress 
+                     History of modernisation theory
+                     
+                   Historical criticism 
+                   Historical geography 
+                    
+                     Historical geographic information system
+                     
+                   Historical sociology
+                   
+                 
+               
+               
+                By country
+                
+                  
+                  
+                   Albania 
+                   Argentina 
+                   Canada 
+                   China 
+                   Ethiopia 
+                   Germany 
+                   Hellenic 
+                   Islam 
+                   Japan 
+                   Rome 
+                   North Macedonia 
+                   Serbia 
+                   Soviet Union 
+                   United Kingdom 
+                   United States 
+                   Scotland 
+                   Switzerland 
+                   Turkey
+                   
+                 
+               
+               
+                Others
+                
+                  
+                  
+                   Historiography of science 
+                   Historiography of the salon 
+                   Historiography of the May Revolution 
+                   Historiography of World War II 
+                    
+                     Functionalism–intentionalism debate
+                     
+                   Historiography of early Islam
+                   
+                 
+               
+               
+                Related
+                
+                  
+                  
+                   Historical fiction 
+                   Historical revisionism 
+                   Historical negationism 
+                   Historiography and nationalism 
+                   Historical marker 
+                   List of historians
+                   
+                 
+               
+              
+             
+            
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Social and political philosophy
+           
+         
+         
+          Ancient
+          
+            
+            
+             Aristotle 
+             Augustine 
+             Chanakya 
+             Cicero 
+             Confucius 
+             Han Fei 
+             Lactantius 
+             Laozi 
+             Mencius 
+             Mozi 
+             Origen 
+             Philo 
+             Plato 
+             Plutarch 
+             Polybius 
+             Shang 
+             Sun Tzu 
+             Tertullian 
+             Thucydides 
+             Valluvar 
+             Xenophon 
+             Xunzi
+             
+           
+         
+         
+          Medieval
+          
+            
+            
+             Alpharabius 
+             Aquinas 
+             Avempace 
+             Averroes 
+             Baldus 
+             Bartolus 
+             Bruni 
+             Dante 
+             Gelasius 
+             al-Ghazali 
+             Giles 
+             Gratian 
+             Gregory 
+             Ibn Khaldun 
+             John of Salisbury 
+             Latini 
+             Maimonides 
+             Marsilius 
+             Muhammad 
+             Nizam al-Mulk 
+             Ockham 
+             Photios 
+             Ibn Tufail 
+             Wang
+             
+           
+         
+         
+          Early modern
+          
+            
+            
+             Beza 
+             Boétie 
+             Bodin 
+             Bossuet 
+             Buchanan 
+             Calvin 
+             Duplessis-Mornay 
+             Erasmus 
+             Filmer 
+             Grotius 
+             Guicciardini 
+             Harrington 
+             Hayashi 
+             Hobbes 
+             Hotman 
+             James 
+             Leibniz 
+             Locke 
+             Luther 
+             Machiavelli 
+             Malebranche 
+             Milton 
+             Montaigne 
+             More 
+             Müntzer 
+             Pufendorf 
+             Sidney 
+             Spinoza 
+             Suárez
+             
+           
+         
+         
+          18th–19th-century
+          
+            
+            
+             Bakunin 
+             Bastiat 
+             Bentham 
+             Bolingbroke 
+             Bonald 
+             Burke 
+             Comte 
+             Condorcet 
+             Constant 
+             Cortés 
+             Emerson 
+             Engels 
+             Fichte 
+             Fourier 
+             Franklin 
+             Godwin 
+             Hamann 
+             Hegel 
+             Herder 
+             Hume 
+             Jefferson 
+             Kant 
+              
+               political philosophy
+               
+             Kierkegaard 
+             Le Bon 
+             Le Play 
+             Madison 
+             Maistre 
+             Marx 
+             Mazzini 
+             Mill 
+             Montesquieu 
+             Nietzsche 
+             Novalis 
+             Paine 
+             Renan 
+             Rousseau 
+             Royce 
+             Sade 
+             Schiller 
+             Smith 
+             Spencer 
+             Spooner 
+             de Staël 
+             Stirner 
+             Taine 
+             Thoreau 
+             Tocqueville 
+             Vico 
+             Vivekananda 
+             Voltaire
+             
+           
+         
+         
+          20th–21st-century
+          
+            
+            
+             Adorno 
+             Ambedkar 
+             Arendt 
+             Aurobindo 
+             Aron 
+             Badiou 
+             Baudrillard 
+             Bauman 
+             Benoist 
+             Berlin 
+             Bernstein 
+             Butler 
+             Camus 
+             Chomsky 
+             de Beauvoir 
+             Debord 
+             Deleuze 
+             Dewey 
+             Dmowski 
+             Du Bois 
+             Durkheim 
+             Dworkin 
+             Evola 
+             Foucault 
+             Fromm 
+             Gandhi 
+             Gehlen 
+             Gentile 
+             Gramsci 
+             Guénon 
+             Habermas 
+             Hayek 
+             Heidegger 
+             Irigaray 
+             Kautsky 
+             Kirk 
+             Kropotkin 
+             Laclau 
+             Lenin 
+             Luxemburg 
+             MacIntyre 
+             Mansfield 
+             Mao 
+             Marcuse 
+             Maritain 
+             Maurras 
+             Michels 
+             Mises 
+             Mouffe 
+             Negri 
+             Niebuhr 
+             Nozick 
+             Nursî 
+             Oakeshott 
+             Ortega 
+             Pareto 
+             Polanyi 
+             Popper 
+             Qutb 
+             Radhakrishnan 
+             Rand 
+             Rawls 
+             Röpke 
+             Rothbard 
+             Russell 
+             Santayana 
+             Sarkar 
+             Sartre 
+             Schmitt 
+             Scruton 
+             Searle 
+             Shariati 
+             Simmel 
+             Skinner 
+             Sombart 
+             Sorel 
+             Spann 
+             Strauss 
+             Sun 
+             Taylor 
+             Tucker 
+             Voegelin 
+             Walzer 
+             Weber 
+             Weil 
+             Žižek
+             
+           
+         
+         
+          Social theories
+          
+            
+            
+             Anarchism 
+             Authoritarianism 
+             Collectivism 
+             Communism 
+             Communitarianism 
+             Conflict theories 
+             Confucianism 
+             Consensus theory 
+             Conservatism 
+             Contractualism 
+             Cosmopolitanism 
+             Culturalism 
+             Elitism 
+             Fascism 
+             Feminist political theory 
+             Gandhism 
+             Hindu nationalism (Hindutva) 
+             Individualism 
+             Islam 
+              
+               Islamism
+               
+             Legalism 
+             Liberalism 
+             Libertarianism 
+             Mohism 
+             National liberalism 
+             Republicanism 
+             Social constructionism 
+             Social constructivism 
+             Social Darwinism 
+             Social determinism 
+             Socialism 
+             Utilitarianism
+             
+           
+         
+         
+          Related articles
+          
+            
+            
+             Critique of political economy 
+             Critique of work 
+             Jurisprudence 
+             Philosophy and economics 
+             Philosophy of education 
+             Philosophy of history 
+             Philosophy of love 
+             Philosophy of social science 
+             Political ethics 
+             Social epistemology 
+             Index
+             
+           
+         
+         
+          
+            
+            
+             Category
+             
+           
+         
+        
+       
+       
+      
+      
+       Portals:
+       
+        
+         History
+        
+        
+         Philosophy
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          Authority control: National libraries 
+          
+            
+            
+             France (data) 
+             Germany 
+             United States 
+             Japan
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Philosophy_of_history&amp;oldid=1069523753"
+     
+     
+    
+     
+      Categories: 
+      
+       Philosophy of history
+       Historiography
+       Philosophy of social science
+      
+     
+     
+      Hidden categories: 
+      
+       CS1: Julian–Gregorian uncertainty
+       Articles with short description
+       Short description matches Wikidata
+       Articles to be expanded from August 2021
+       All articles to be expanded
+       Articles needing translation from Portuguese Wikipedia
+       Wikipedia articles lacking focus from November 2019
+       All Wikipedia articles lacking focus
+       Articles needing additional references from November 2019
+       All articles needing additional references
+       Articles with multiple maintenance issues
+       All pages needing factual verification
+       Wikipedia articles needing factual verification from November 2019
+       All articles with specifically marked weasel-worded phrases
+       Articles with specifically marked weasel-worded phrases from June 2016
+       All Wikipedia articles needing words, phrases or quotes attributed
+       Wikipedia articles needing words, phrases or quotes attributed from November 2019
+       All articles with unsourced statements
+       Articles with unsourced statements from November 2019
+       Articles with specifically marked weasel-worded phrases from May 2020
+       Articles with unsourced statements from June 2016
+       Articles with specifically marked weasel-worded phrases from July 2018
+       Articles with unsourced statements from February 2016
+       Articles with unsourced statements from July 2018
+       Articles needing additional references from January 2020
+       All articles with minor POV problems
+       Articles with minor POV problems from November 2019
+       Articles containing German-language text
+       Wikipedia articles that may have off-topic sections from November 2019
+       All articles that may have off-topic sections
+       Commons category link from Wikidata
+       Wikipedia articles incorporating a citation from the Encyclopedia Americana with a Wikisource reference
+       Articles with BNF identifiers
+       Articles with GND identifiers
+       Articles with LCCN identifiers
+       Articles with NDL identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       Asturianu
+       Azərbaycanca
+       Беларуская
+       Български
+       Català
+       Čeština
+       Dansk
+       Deutsch
+       Eesti
+       Español
+       Esperanto
+       Euskara
+       فارسی
+       Français
+       한국어
+       Հայերեն
+       हिन्दी
+       Hrvatski
+       Bahasa Indonesia
+       Íslenska
+       Italiano
+       עברית
+       ქართული
+       Қазақша
+       Latina
+       Lietuvių
+       Magyar
+       മലയാളം
+       Bahasa Melayu
+       Nederlands
+       日本語
+       Oʻzbekcha/ўзбекча
+       ਪੰਜਾਬੀ
+       Polski
+       Português
+       Română
+       Русский
+       Shqip
+       Slovenčina
+       Slovenščina
+       Српски / srpski
+       Srpskohrvatski / српскохрватски
+       Suomi
+       Svenska
+       Türkçe
+       Українська
+       اردو
+       Tiếng Việt
+       Zazaki
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 2 February 2022, at 18:44&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

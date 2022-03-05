@@ -1,0 +1,425 @@
+
+ 
+  
+   
+  Image retrieval - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Image retrieval 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Information retrieval involving digital images
+       
+      An image retrieval system is a computer system used for browsing, searching and retrieving images from a large database of digital images. Most traditional and common methods of image retrieval utilize some method of adding metadata such as captioning, keywords, title or descriptions to the images so that retrieval can be performed over the annotation words. Manual image annotation is time-consuming, laborious and expensive; to address this, there has been a large amount of research done on automatic image annotation. Additionally, the increase in social web applications and the semantic web have inspired the development of several web-based image annotation tools. 
+      The first microcomputer-based image database retrieval system was developed at MIT, in the 1990s, by Banireddy Prasaad, Amar Gupta, Hoo-min Toong, and Stuart Madnick. 
+      A 2008 survey article documented progresses after 2007.  
+      
+       
+       
+        Contents
+        
+        
+        1 Search methods 
+        2 Data scope 
+        3 Evaluations 
+        4 See also 
+        5 References 
+        6 External links 
+        
+       
+      Search methods 
+      Image search is a specialized data search used to find images. To search for images, a user may provide query terms such as keyword, image file/link, or click on some image, and the system will return images "similar" to the query. The similarity used for search criteria could be meta tags, color distribution in images, region/shape attributes, etc.  
+      
+       Image meta search - search of images based on associated metadata such as keywords, text, etc. 
+       Content-based image retrieval (CBIR)&nbsp;– the application of computer vision to the image retrieval. CBIR aims at avoiding the use of textual descriptions and instead retrieves images based on similarities in their contents (textures, colors, shapes etc.) to a user-supplied query image or user-specified image features. 
+        
+         List of CBIR Engines - list of engines which search for images based image visual content such as color, texture, shape/object, etc.
+        
+       
+      
+       
+        
+        
+         Further information: Visual search engine and Reverse image search
+        
+       
+       
+      
+       Image collection exploration - search of images based on the use of novel exploration paradigms.
+       
+      Data scope 
+      It is crucial to understand the scope and nature of image data in order to determine the complexity of image search system design. The design is also largely influenced by factors such as the diversity of user-base and expected user traffic for a search system. Along this dimension, search data can be classified into the following categories:  
+      
+       Archives - usually contain large volumes of structured or semi-structured homogeneous data pertaining to specific topics. 
+       Domain-Specific Collection - this is a homogeneous collection providing access to controlled users with very specific objectives. Examples of such a collection are biomedical and satellite image databases. 
+       Enterprise Collection - a heterogeneous collection of images that is accessible to users within an organization’s intranet. Pictures may be stored in many different locations. 
+       Personal Collection - usually consists of a largely homogeneous collection and is generally small in size, accessible primarily to its owner, and usually stored on a local storage media. 
+       Web - World Wide Web images are accessible to everyone with an Internet connection. These image collections are semi-structured, non-homogeneous and massive in volume, and are usually stored in large disk arrays.
+       
+      Evaluations 
+      There are evaluation workshops for image retrieval systems aiming to investigate and improve the performance of such systems.  
+      
+       ImageCLEF - a continuing track of the Cross Language Evaluation Forum that evaluates systems using both textual and pure-image retrieval methods. 
+       Content-based Access of Image and Video Libraries - a series of IEEE workshops from 1998 to 2001.
+       
+      See also 
+      
+       
+       
+        Automatic image annotation 
+        Computer vision 
+        Concept-based image indexing 
+        Content-based image retrieval (CBIR) 
+        Digital asset management 
+        Digital image editing 
+        Image organizer 
+        Image processing 
+        Information retrieval 
+        Multimedia information retrieval 
+        VisualRank 
+        Learning to rank
+        
+       
+      References 
+      
+        
+        ^ B E Prasad; A Gupta; H-M Toong; S.E. Madnick (February 1987). "A microcomputer-based image database management system" (PDF). IEEE Transactions on Industrial Electronics. IE-34 (1): 83–8. doi:10.1109/TIE.1987.350929.  
+        ^ 
+          Datta, Ritendra; Dhiraj Joshi; Jia Li; James Z. Wang (April 2008). "Image Retrieval: Ideas, Influences, and Trends of the New Age". ACM Computing Surveys. 40 (2): 1–60. doi:10.1145/1348246.1348248.  
+        ^ 
+          Camargo, Jorge E.; Caicedo, Juan C.; Gonzalez, Fabio A. (2013). "A kernel-based framework for image collection exploration". Journal of Visual Languages &amp; Computing. 24 (1): 53–57. doi:10.1016/j.jvlc.2012.10.008.  
+       
+       
+      External links 
+      
+       Image-Net.org
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Internet search
+           
+         
+         
+          Types
+          
+            
+            
+             Web search engine (List) 
+             Metasearch engine 
+             Multimedia search 
+             Collaborative search engine 
+             Cross-language search 
+             Local search 
+             Vertical search 
+             Social search 
+             Image search 
+             Audio search 
+             Video search engine 
+             Enterprise search 
+             Semantic search 
+             Natural language search engine 
+             Voice search
+             
+           
+         
+         
+          Tools
+          
+            
+            
+             Search by sound 
+             Search engine marketing 
+             Search engine optimization 
+             Evaluation measures 
+             Search oriented architecture 
+             Selection-based search
+             
+            
+             Document retrieval 
+             Text mining 
+             Web crawler 
+             Multisearch 
+             Federated search 
+             Search aggregator 
+             Index/Web indexing 
+             Focused crawler 
+             Spider trap 
+             Robots exclusion standard 
+             Distributed web crawling 
+             Web archiving 
+             Website mirroring software 
+             Web query 
+             Web query classification
+             
+           
+         
+         
+          Protocolsand standards
+          
+            
+            
+             Z39.50 
+             Search/Retrieve Web Service 
+             Search/Retrieve via URL 
+             OpenSearch 
+             Representational State Transfer 
+             Website Parse Template 
+             Wide area information server
+             
+           
+         
+         
+          See also
+          
+            
+            
+             Search engine 
+             Desktop search 
+             Online search
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Image_retrieval&amp;oldid=1070313191"
+     
+     
+    
+     
+      Categories: 
+      
+       Image search
+       Applications of computer vision
+      
+     
+     
+      Hidden categories: 
+      
+       CS1: long volume value
+       Articles with short description
+       Short description is different from Wikidata
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       فارسی
+       Magyar
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 6 February 2022, at 20:55&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

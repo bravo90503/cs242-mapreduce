@@ -1,0 +1,401 @@
+
+ 
+  
+   
+  MediaWiki 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   Jump to content 
+    
+     
+      Toggle sidebar        
+      
+       
+        
+         
+          
+          
+          
+          
+         
+        
+        Search  
+      
+      
+       
+        User links  
+        
+        
+          English 
+          Create account  
+         
+        
+       
+       
+        
+        Personal tools expanded collapsed  
+        
+        
+         Create account
+         
+        
+         Log in
+         
+         
+          Pages for logged out editors learn more  
+         
+        
+         Talk
+         Contributions
+         
+        
+       
+      
+     
+     
+      
+       
+        
+         Navigation  
+         
+         
+          Main page
+          Get MediaWiki
+          Get extensions
+          Tech blog
+          Contribute
+          
+         
+        
+        
+         Support  
+         
+         
+          User help
+          FAQ
+          Technical manual
+          Support desk
+          Communication
+          
+         
+        
+        
+         Development  
+         
+         
+          Bug tracker
+          Code docs
+          Code repository
+          Statistics
+          
+         
+        
+        
+         MediaWiki.org  
+         
+         
+          Community portal
+          Recent changes
+          Translate content
+          Random page
+          Village pump
+          Sandbox
+          
+         
+        
+        
+         Tools  
+         
+         
+          What links here
+          Related changes
+          Upload file
+          Special pages
+          Permanent link
+          Page information
+          Cite this page
+          Wikidata item
+          
+         
+        
+        
+         Print/export  
+         
+         
+          Create a book
+          Download as PDF
+          Printable version
+          
+         
+        
+        
+         In other projects  
+         
+         
+          Wikimedia Commons
+          Meta-Wiki
+          Multilingual Wikisource
+          Wikispecies
+          Wikibooks
+          Wikidata
+          Wikimania
+          Wikinews
+          Wikipedia
+          Wikiquote
+          Wikisource
+          Wikiversity
+          Wikivoyage
+          Wiktionary
+          
+         
+        
+       
+       
+        
+         
+          
+           Namespaces  
+           
+           
+            Main page
+            Discussion
+            
+           
+          
+          
+           
+           English expanded collapsed  
+           
+            
+           
+          
+         
+         
+          
+           Views  
+           
+           
+            View
+            <a href="/w/index.php?title=MediaWiki&amp;action=edit" title="This page is protected.
+You can view its source " accesskey="e">View source
+            History
+            
+           
+          
+          
+           
+           More expanded collapsed  
+           
+            
+           
+          
+         
+        
+       
+      
+      
+        
+       
+        
+        
+        
+        
+       MediaWiki is a collaboration and documentation platform brought to you by a vibrant community. 
+        
+        
+         From mediawiki.org
+         
+         
+         
+        
+         
+           
+           
+           MediaWiki is a collaboration and documentation platform brought to you by a vibrant community. 
+           
+            
+             
+             
+              Photo of participants of the Wikimedia Hackathon 2019
+             
+            
+            
+           The MediaWiki software is used by tens of thousands of websites and thousands of companies and organizations. It powers Wikipedia and also this website. MediaWiki helps you collect and organize knowledge and make it available to people. It's powerful, multilingual, free and open, extensible, customizable, reliable, and free of charge. Find out more and if MediaWiki is right for you.  
+            
+            
+             
+             Set up and run MediaWiki 
+              
+              
+               Download, install and configure MediaWiki 
+               Add functionality by installing extensions 
+               Problems? See Errors and symptoms and FAQ 
+               Don't own a server? See Hosting services 
+               Get professional development and consulting  
+               Join MediaWiki Stakeholders user group
+               
+              
+             
+             
+             Edit and use MediaWiki 
+              
+              
+               Learn how to navigate  
+               Learn how to edit a page  
+               Learn more about reading, editing, and personal customization 
+               
+              
+             
+             
+             Develop and extend code 
+              
+              New to development?  
+              
+               Start coding for a Wikimedia project  
+               How to make a MediaWiki skin  
+               How to work on MediaWiki or extensions' code 
+               
+              Already a developer?  
+              
+               Interact with content by using the Action API or Web API 
+               Read the developer docs or visit the developer hub
+               
+              
+             
+            
+            
+             
+             Get help and contribute 
+              
+              
+               Cannot find the answer to a problem with MediaWiki? Ask the Support desk! 
+               Get involved as a translator, designer, documentation writer, tester, tech ambassador, … 
+               Report wrong software behavior or a feature proposal 
+               
+              
+             
+             
+             News 
+              
+               
+                
+                
+                 
+                  2022-04-06 to 2022-04-08
+                  
+                 
+                   EMWCon Spring 2022 (Houston, USA)
+                  
+                 
+                  2021-12-15
+                  
+                 
+                   MediaWiki 1.35.5, 1.36.3 and 1.37.1 security releases are now available.
+                  
+                 
+                  2021-11-18
+                  
+                 
+                   MediaWiki 1.37.0 is now available. 
+                 
+                
+                
+                More news    
+               
+              
+             
+            
+           
+           
+          
+           
+            Other languages:  
+            
+           
+            English &nbsp;• Afrikaans&nbsp;• العربية&nbsp;• asturianu&nbsp;• беларуская (тарашкевіца)&nbsp;• български&nbsp;• বাংলা&nbsp;• bosanski&nbsp;• català&nbsp;• کوردی&nbsp;• čeština&nbsp;• dansk&nbsp;• Deutsch&nbsp;• español&nbsp;• فارسی&nbsp;• suomi&nbsp;• français&nbsp;• ગુજરાતી&nbsp;• עברית&nbsp;• हिन्दी&nbsp;• hrvatski&nbsp;• magyar&nbsp;• հայերեն&nbsp;• Bahasa Indonesia&nbsp;• italiano&nbsp;• 日本語&nbsp;• Jawa&nbsp;• қазақша&nbsp;• 한국어&nbsp;• Bahasa Melayu&nbsp;• Mirandés&nbsp;• Nederlands&nbsp;• polski&nbsp;• português&nbsp;• português do Brasil&nbsp;• română&nbsp;• русский&nbsp;• sardu&nbsp;• සිංහල&nbsp;• slovenčina&nbsp;• Soomaaliga&nbsp;• shqip&nbsp;• српски / srpski&nbsp;• svenska&nbsp;• ไทย&nbsp;• Türkçe&nbsp;• українська&nbsp;• Tiếng Việt&nbsp;• 粵語&nbsp;• 中文
+            
+           
+               
+         
+         
+          
+          
+         
+          Retrieved from "https://www.mediawiki.org/w/index.php?title=MediaWiki&amp;oldid=3878227"
+         
+         
+        
+         
+          Hidden category: 
+          
+           Languages pages
+          
+         
+         
+        
+       
+      
+     
+     
+      
+       
+        
+         This page was last edited on 26 May 2020, at 13:38. 
+        Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. See Terms of Use for details. 
+        
+        
+        Privacy policy 
+        About MediaWiki.org 
+        Disclaimers 
+        Code of Conduct 
+        Mobile view 
+        Developers 
+        Statistics 
+        Cookie statement 
+        
+        
+         
+         
+        
+       
+      
+     
+    
+   
+   
+   
+    
+ 

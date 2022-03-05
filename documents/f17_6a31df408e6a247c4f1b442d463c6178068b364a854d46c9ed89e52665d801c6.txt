@@ -1,0 +1,1097 @@
+
+ 
+  
+   
+  Bibliometrics - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Bibliometrics 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       
+         
+        
+         
+          
+         Distribution of corresponding authors of scholarly articles on SARS-CoV-2 and COVID-19 between January and March 2020
+        
+       
+       
+      
+      
+       
+        
+         Information science
+        
+        
+          General aspects
+        
+        
+          
+           
+           
+            Access 
+            Architecture 
+            Behavior 
+            Management 
+            Retrieval 
+            Seeking 
+            Society 
+            Knowledge organization 
+            Ontology 
+            Philosophy 
+            Science and technology studies 
+            Taxonomy
+            
+           
+        
+        
+          Related fields and sub-fields
+        
+        
+          
+           
+           
+            Bibliometrics 
+            Categorization 
+            Censorship 
+            Classification 
+            Computer data storage 
+            Cultural studies 
+            Data modeling 
+            Informatics 
+            Information technology 
+            Intellectual freedom 
+            Intellectual property 
+            Library and information science 
+            Memory 
+            Preservation 
+            Privacy 
+            Quantum information science
+            
+           
+        
+        
+         
+          
+           
+            v
+            t
+            e
+           
+          
+        
+       
+       
+      
+      
+       
+        
+         Part of a series on
+        
+        
+         Research
+        
+        
+         
+        
+        
+          
+          
+           
+            List of academic fields
+           
+            
+            
+             Applied sciences 
+              
+               R &amp; D
+               
+             Formal sciences 
+             Humanities 
+             Natural sciences 
+             Professions 
+             Social sciences
+            
+           
+           
+        
+        
+          
+          
+           
+            Research design
+           
+            
+            
+             Research proposal 
+             Research question 
+             Writing 
+              
+               Argument 
+               Referencing
+              
+            
+           
+           
+        
+        
+          
+          
+           
+            Philosophy
+           
+            
+            
+              Constructivism 
+             Empiricism 
+             Positivism / Antipositivism / Postpositivism 
+             Realism 
+              
+               Critical realism 
+               Subtle realism
+              
+            
+           
+           
+        
+        
+          
+          
+           
+            Research strategy
+           
+            
+            
+             Interdisciplinary 
+             Multimethodology 
+             Qualitative 
+             Quantitative
+            
+           
+           
+        
+        
+          
+          
+           
+            Methodology
+           
+            
+            
+             Action research 
+             Art methodology 
+             Critical theory 
+             Feminism 
+             Grounded theory 
+             Hermeneutics 
+             Historiography 
+             Narrative inquiry 
+             Phenomenology 
+             Pragmatism 
+             Scientific method
+            
+           
+           
+        
+        
+          
+          
+           
+            Methods
+           
+            
+            
+             Case study 
+             Content analysis 
+             Descriptive statistics 
+             Discourse analysis 
+             Ethnography 
+             Experiment 
+              
+               Field experiment 
+               Social experiment 
+               Quasi-experiment
+               
+             Field research 
+             Historical method 
+             Inferential statistics 
+             Interviews 
+             Mapping 
+              
+               Cultural mapping
+               
+             Phenomenography 
+             Secondary research 
+              
+               Bibliometrics 
+               Literature review 
+               Meta-analysis 
+               Scoping review 
+               Systematic review
+               
+             Scientific modelling 
+              
+               Simulation
+               
+             Survey
+            
+           
+           
+        
+        
+          
+          
+           
+            Tools and software
+           
+            
+            
+             Argument technology 
+             Geographic information system software 
+             Library and information science software 
+              
+               Bibliometrics 
+               Reference management
+               
+             Science software 
+              
+               Qualitative data analysis 
+               Simulation 
+               Statistics
+              
+            
+           
+           
+        
+        
+          Philosophy portal
+        
+        
+         
+          
+          
+           
+            v
+            t
+            e
+           
+          
+        
+       
+       
+      Bibliometrics is the use of statistical methods to analyse books, articles and other publications. Bibliometric methods are frequently used in the field of library and information science. The sub-field of bibliometrics which concerns itself with the analysis of scientific publications is called scientometrics. Citation analysis is a commonly used bibliometric method which is based on constructing the citation graph, a network or graph representation of the citations between documents. Many research fields use bibliometric methods to explore the impact of their field, the impact of a set of researchers, the impact of a particular paper, or to identify particularly impactful papers within a specific field of research. Bibliometrics also has a wide range of other applications, such as in descriptive linguistics, the development of thesauri, and evaluation of reader usage.  
+      
+       
+       
+        Contents
+        
+        
+        1 Usage 
+        2 History 
+        3 See also 
+        4 References 
+        5 External links 
+        
+       
+      Usage 
+      Historically, bibliometric methods have been used to trace relationships amongst academic journal citations. Citation analysis, which involves examining an item's referring documents, is used in searching for materials and analyzing their merit. Citation indices, such as Institute for Scientific Information's Web of Science, allow users to search forward in time from a known article to more recent publications which cite the known item. 
+      Data from citation indexes can be analyzed to determine the popularity and impact of specific articles, authors, and publications. Using citation analysis to gauge the importance of one's work, for example, is a significant part of the tenure review process. Information scientists also use citation analysis to quantitatively assess the core journal titles and watershed publications in particular disciplines; interrelationships between authors from different institutions and schools of thought; and related data about the sociology of academia. Some more pragmatic applications of this information includes the planning of retrospective bibliographies, "giving some indication both of the age of material used in a discipline, and of the extent to which more recent publications supersede the older ones"; indicating through high frequency of citation which documents should be archived; comparing the coverage of secondary services which can help publishers gauge their achievements and competition, and can aid librarians in evaluating "the effectiveness of their stock". There are also some limitations to the value of citation data. They are often incomplete or biased; data has been largely collected by hand (which is expensive), though citation indexes can also be used; incorrect citing of sources occurs continually; thus, further investigation is required to truly understand the rationale behind citing to allow it to be confidently applied. 
+      Bibliometrics are now used in quantitative research assessment exercises of academic output which is starting to threaten practice based research. The UK government has considered using bibliometrics as a possible auxiliary tool in its Research Excellence Framework, a process which will assess the quality of the research output of UK universities and on the basis of the assessment results, allocate research funding. This has met with significant scepticism and, after a pilot study, looks unlikely to replace the current peer review process. Furthermore, excessive usage of bibliometrics in assessment of value of academic research encourages gaming the system in various ways including publishing large quantity of works with low new content (see least publishable unit), publishing premature research to satisfy the numbers, focusing on popularity of the topic rather than scientific value and author's interest, often with detrimental role to research. Some of these phenomena are addressed in a number of recent initiatives, including The San Francisco Declaration on Research Assessment. 
+      Guidelines have been written on the using of bibliometrics in academic research, in disciplines such as Management, Education and Information Science. Other bibliometrics applications include: creating thesauri; measuring term frequencies; as metrics in scientometric analysis, exploring grammatical and syntactical structures of texts; measuring usage by readers; quantifying value of online media of communication; measuring Jaccard distance cluster analysis and text mining based on binary logistic regression. 
+      In the context of the big deal cancellations by several library systems in the world, data analysis tools like Unpaywall Journals are used by libraries to assist with big deal cancellations: libraries can avoid subscriptions for materials already served by instant open access via open archives like PubMed Central.  
+      History 
+      The term bibliométrie was first used by Paul Otlet in 1934 and defined as "the measurement of all aspects related to the publication and reading of books and documents." The anglicised version bibliometrics was first used by Alan Pritchard in a paper published in 1969, titled "Statistical Bibliography or Bibliometrics?" He defined the term as "the application of mathematics and statistical methods to books and other media of communication". 
+      Citation analysis has a long history, the Science Citation Index began publication in 1961 and Derek J. de Solla Price discussed the citation graph describing the network of citations in his 1965 article "Networks of Scientific Papers". However this was done initially manually until large scale electronic databases and associated computer algorithms were able to cope with the vast numbers of documents in most bibliometric collections. The first such algorithm for automated citation extraction and indexing was by CiteSeer. Google's PageRank is based on the principle of citation analysis. Patent citation maps are also based upon citation analysis (in this case, the citation of one patent by another). However, one has to keep in mind that humans have been publishing and citing since very early in history with individual works containing citations that date back as far as antiquity.  
+      See also 
+      
+       Altmetrics 
+       Author-level metrics 
+       Bibliomining 
+       Citation impact 
+       Citation graph 
+       Hirsch number (or h-index) 
+       Impact factor 
+       Informetrics 
+       Journalology 
+       Rankings of academic publishers 
+       Webometrics
+       
+      References 
+      
+       
+        
+        ^ Hutchins, BI; Baker, KL; Davis, MT; Diwersy, MA; Haque, E; Harriman, RM; Hoppe, TA; Leicht, SA; Meyer, P; Santangelo, GM (October 2019). "The NIH Open Citation Collection: A public access, broad coverage resource". PLOS Biology. 17 (10): e3000385. doi:10.1371/journal.pbio.3000385. PMC&nbsp;6786512. PMID&nbsp;31600197.  
+        ^ 
+          Schaer, Philipp (2013). "Applied Informetrics for Digital Libraries: An Overview of Foundations, Problems and Current Approaches". Historical Social Research. 38 (3): 267–281. doi:10.12759/hsr.38.2013.3.267-281.  
+        ^ 
+          Sholinbeck, Michael. "Library Guides: Citation &amp; Research Management: Best Practice: Bibliometrics, Citation Analysis". guides.lib.berkeley.edu. Retrieved 2020-05-30.  
+        ^ 
+          Libraries, Science and Engineering. "Research Guides: Bibliometrics and Citation Analysis: Home". researchguides.library.wisc.edu. Retrieved 2020-05-30.  
+        ^ Steve Kolowich. Tenure-o-meter in Inside Higher Ed, December 15, 2009. This article refers to the bibliometrics tool now known as Scholarometer  
+        ^ 
+          Hoang, D.; Kaur, J.; Menczer, F. (2010), "Crowdsourcing Scholarly Data", Proceedings of the WebSci10: Extending the Frontiers of Society On-Line, April 26-27th, 2010, Raleigh, NC: US, archived from the original on 2015-04-17, retrieved 2010-05-25  
+        ^ Nicholas, David and Maureen Ritchie. Literature and Bibliometrics London: Clive Bingley: 1978. (12-28).  
+        ^ Nicholas, David and Maureen Ritchie. Literature and Bibliometrics London: Clive Bingley: 1978. (28-29).  
+        ^ 
+          Henderson, Michael; Shurville, Simon; Fernstrom, Ken (2009). "The quantitative crunch". Campus-Wide Information Systems. 26 (3): 149–167. doi:10.1108/10650740910967348.  
+        ^ Higher Education Funding Council for England, http://www.hefce.ac.uk/Research/ref/. Accessed 20 July 2009.  
+        ^ 
+          England, Higher Education Funding Council for. "Metrics cannot replace peer review in the next REF". www.hefce.ac.uk. Retrieved 2016-03-20.  
+        ^ American Society for Cell Biology, The San Francisco Declaration on Research Assessment (DORA), https://sfdora.org  
+        ^ 
+          Linnenluecke, Martina K; Marrone, Mauricio; Singh, Abhay K (May 2020). "Conducting systematic literature reviews and bibliometric analyses". Australian Journal of Management. 45 (2): 175–194. doi:10.1177/0312896219877678. ISSN&nbsp;0312-8962. S2CID&nbsp;211378937.  
+        ^ 
+          Diem, Andrea; Wolter, Stefan C. (2012-06-06). "The Use of Bibliometrics to Measure Research Performance in Education Sciences" (PDF). Research in Higher Education. 54 (1): 86–114. doi:10.1007/s11162-012-9264-5. ISSN&nbsp;0361-0365. S2CID&nbsp;144986574.  
+        ^ 
+          Kurtz, Michael J.; Bollen, Johan (2010). "Usage bibliometrics". Annual Review of Information Science and Technology. 44 (1): 3. arXiv:1102.2891. Bibcode:2010ARIST..44....3K. doi:10.1002/aris.2010.1440440108. ISSN&nbsp;1550-8382. S2CID&nbsp;484831.  
+        ^ 
+          Hovden, R. (2013). "Bibliometrics for Internet media: Applying the h-index to YouTube". Journal of the American Society for Information Science and Technology. 64 (11): 2326–2331. arXiv:1303.0766. doi:10.1002/asi.22936. S2CID&nbsp;38708903.  
+        ^ 
+          Aristovnik A, Ravšelj D, Umek L (November 2020). "A Bibliometric Analysis of COVID-19 across Science and Social Science Research Landscape". Sustainability. 12 (21): 9132. doi:10.3390/su12219132.  
+        ^ 
+          Fernández-Ramos, Andrés; Rodríguez Bravo, María Blanca; Alvite Díez, María Luisa; Santos de Paz, Lourdes; Morán Suárez, María Antonia; Gallego Lorenzo, Josefa; Olea Merino, Isabel (2019). "Evolution of the big deals use in the public universities of the Castile and Leon region, Spain = Evolución del uso de los big deals en las universidades públicas de Castilla y León". El Profesional de la Información (in Spanish). 28 (6). doi:10.3145/epi.2019.nov.19.  
+        ^ 
+          Denise Wolfe (2020-04-07). "SUNY Negotiates New, Modified Agreement with Elsevier - Libraries News Center University at Buffalo Libraries". library.buffalo.edu. University at Buffalo. Retrieved 2020-04-18.  
+        ^ 
+          Otlet, Paul (1934). Traité de Documentation: Le Livre sur le Livre. Théorie et Pratique. Bruxelles: Editiones Mundaneum.  
+        ^ 
+          Rousseau, Ronald (2014), "Library Science: Forgotten Founder of Bibliometrics.", Nature, 510 (7504): 218, Bibcode:2014Natur.510..218R, doi:10.1038/510218e, PMID&nbsp;24919911  
+        ^ 
+          Pritchard, Alan (1969). "Statistical Bibliography or Bibliometrics?". Journal of Documentation. 25 (4): 348–349. Retrieved 6 January 2015.  
+        ^ 
+          Derek J. de Solla Price (July 30, 1965). "Networks of Scientific Papers" (PDF). Science. 149 (3683): 510–515. Bibcode:1965Sci...149..510D. doi:10.1126/science.149.3683.510. PMID&nbsp;14325149.  
+        ^ 
+          Milos M. Jovanovic (2012). "Eine kleine Frühgeschichte der Bibliometrie". Information - Wissenschaft &amp; Praxis. 63 (2): 510–515. doi:10.1515/iwp-2012-0017. S2CID&nbsp;32450731.  
+       
+       
+      External links 
+      
+       The Research HUB published a full-length freely accessible Bibliometric Analysis video tutorial playlist.
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Science and technology studies
+           
+         
+         
+          Economics
+          
+            
+            
+             Economics of science 
+             Economics of scientific knowledge
+             
+           
+         
+         
+          History
+          
+            
+            
+             History and philosophy of science 
+             History of science 
+              
+               and technology
+               
+             History of technology
+             
+           
+         
+         
+          Philosophy
+          
+            
+            
+             Anthropocene 
+             Antipositivism 
+             Empiricism 
+             Fuzzy logic 
+             Neo-Luddism 
+             Philosophy of science 
+             Philosophy of social science 
+             Philosophy of technology 
+             Positivism 
+             Postpositivism 
+             Religion and science 
+             Scientism 
+             Social constructivism 
+             Social epistemology 
+             Transhumanism
+             
+           
+         
+         
+          Sociology
+          
+            
+            
+             Actor–network theory 
+             Social 
+              
+               construction of technology 
+               shaping of technology
+               
+             Sociology of knowledge 
+              
+               scientific
+               
+             Sociology of scientific ignorance 
+             Sociology of the history of science 
+             Sociotechnology 
+             Strong programme
+             
+           
+         
+         
+          Sciencestudies
+          
+            
+            
+             Antiscience 
+             Bibliometrics 
+             Boundary-work 
+             Consilience 
+             Criticism of science 
+             Demarcation problem 
+             Double hermeneutic 
+             Logology 
+             Mapping controversies 
+             Metascience 
+             Paradigm shift 
+              
+               black swan events
+               
+             Pseudoscience 
+             Psychology of science 
+             Science 
+              
+               citizen 
+               communication 
+               education 
+               normal 
+               Neo-colonial 
+               post-normal 
+               rhetoric 
+               wars
+               
+             Scientific 
+              
+               community 
+               consensus 
+               controversy 
+               dissent 
+               enterprise 
+               literacy 
+               method 
+               misconduct 
+               priority 
+               skepticism
+               
+             Scientocracy 
+             Scientometrics 
+             Team science 
+             Traditional knowledge 
+              
+               ecological
+               
+             Unity of science 
+             Women in science 
+              
+               STEM
+              
+             
+           
+         
+         
+          Technologystudies
+          
+            
+            
+             Co-production 
+             Cyborg anthropology 
+             Dematerialization 
+             Digital anthropology 
+             Digital media use and mental health 
+             Early adopter 
+             Hype cycle 
+             Innovation 
+              
+               diffusion 
+               disruptive 
+               linear model 
+               system 
+               user
+               
+             Leapfrogging 
+             Normalization process theory 
+             Reverse salient 
+             Skunkworks project 
+             Sociotechnical system 
+             Technical change 
+             Technocracy 
+             Technoscience 
+              
+               feminist
+               
+             Technological 
+              
+               change 
+               convergence 
+               determinism 
+               revolution 
+               transitions
+               
+             Technology 
+              
+               and society 
+               criticism of 
+               dynamics 
+               theories of 
+               transfer
+               
+             Engineering studies 
+             Women in engineering 
+             Financial technology
+             
+           
+         
+         
+          Policy
+          
+            
+            
+             Academic freedom 
+             Digital divide 
+             Evidence-based policy 
+             Factor 10 
+             Funding of science 
+             Horizon scanning 
+             Science policy 
+              
+               history of 
+               science of
+               
+             Politicization of science 
+             Regulation of science 
+             Research ethics 
+             Right to science 
+             Socio-scientific issues 
+             Technology assessment 
+             Technology policy 
+             Transition management
+             
+           
+         
+         
+          
+            
+            
+              Portals 
+              
+               Science 
+               History of science 
+               Technology
+               
+              Category 
+              
+               Associations 
+               Journals 
+               Scholars
+              
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Academic publishing
+           
+         
+         
+          Journals
+          
+            
+            
+             Academic journal 
+             Scientific journal 
+             Open access journal
+             
+           
+         
+         
+          Papers
+          
+            
+            
+             Scholarly paper 
+             Review article 
+             Position paper 
+             Literature review
+             
+           
+         
+         
+          Grey literature
+          
+            
+            
+             Working paper 
+             White paper 
+             Technical report 
+             Annual report 
+             Pamphlet 
+             Essay 
+             Lab notes
+             
+           
+         
+         
+          Other types of publication
+          
+            
+            
+             Thesis (Collection of articles, Monograph) 
+             Specialized patent (biological, chemical) 
+             Book 
+             Book chapter 
+             Poster session 
+             Abstract
+             
+           
+         
+         
+          Impact and ranking
+          
+            
+            
+             Acknowledgment index 
+             Altmetrics 
+             Article-level metrics 
+             Author-level metrics 
+             Bibliometrics 
+             Citation impact 
+             Citation index 
+             Journal ranking 
+             Eigenfactor 
+             h-index 
+             Impact factor 
+             SCImago Journal Rank 
+             Scientometrics
+             
+           
+         
+         
+          Reform
+          
+            
+            
+             Academic journal publishing reform 
+             Full-text-on-the-Net bias (FUTON bias) 
+             Open access 
+             Serials crisis 
+             Sci-Hub 
+             #ICanHazPDF
+             
+           
+         
+         
+          Versioning
+          
+            
+            
+             Preprint 
+             Postprint 
+             Version of Record 
+             Erratum/corrigendum 
+             Retraction
+             
+           
+         
+         
+          Indexes and search engines
+          
+            
+            
+             Google Scholar 
+             AMiner 
+             BASE 
+             CORE 
+             Semantic Scholar 
+             Scopus 
+             Web of Science
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Imprint 
+             Scientific writing 
+             Peer review 
+             Proceedings 
+             Scientific literature 
+             Learned society 
+             Open research 
+             Open science data 
+             ORCID 
+             Electronic publishing 
+             Ingelfinger rule 
+             Least publishable unit 
+             Publish or perish 
+             Public health journal
+             
+           
+         
+         
+          Lists
+          
+            
+            
+             Academic journals 
+             Scientific journals 
+             Open-access journals 
+             Academic databases and search engines 
+             University presses 
+             Copyright policies 
+             Preprint policies 
+             Style/formatting guides 
+             Category:Academic publishing 
+             Category:Scientific documents
+             
+           
+         
+         
+          
+           
+             Portal
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          Authority control: National libraries 
+          
+            
+            
+             France (data) 
+             Germany 
+             United States 
+             Japan
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Bibliometrics&amp;oldid=1069869705"
+     
+     
+    
+     
+      Categories: 
+      
+       Bibliometrics
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 Spanish-language sources (es)
+       Articles with BNF identifiers
+       Articles with GND identifiers
+       Articles with LCCN identifiers
+       Articles with NDL identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       Azərbaycanca
+       Català
+       Čeština
+       Dansk
+       Deutsch
+       Eesti
+       Español
+       فارسی
+       Français
+       Hrvatski
+       Italiano
+       עברית
+       Nederlands
+       日本語
+       Norsk bokmål
+       Polski
+       Português
+       Română
+       Русский
+       Slovenčina
+       Slovenščina
+       Suomi
+       Svenska
+       ไทย
+       Українська
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 4 February 2022, at 14:14&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

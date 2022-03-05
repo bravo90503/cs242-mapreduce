@@ -1,0 +1,945 @@
+
+ 
+  
+   
+  Alvin M. Weinberg - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+     
+     
+    
+   Alvin M. Weinberg 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+    
+     &nbsp;&nbsp;(Redirected from Alvin Weinberg)
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       American nuclear physicist
+       
+        
+      
+      
+       
+        
+         
+          
+           Alvin Martin Weinberg
+          
+        
+        
+         
+          
+           Alvin Weinberg, c. 1960
+          
+        
+        
+         Born
+         (1915-04-20)April 20, 1915
+          
+           Chicago, Illinois
+          
+        
+        
+         Died
+         October 18, 2006(2006-10-18) (aged&nbsp;91)
+          
+           Oak Ridge, Tennessee
+          
+        
+        
+         Citizenship
+         American
+        
+        
+         Alma&nbsp;mater
+         University of Chicago
+        
+        
+         Known&nbsp;for
+         
+          
+           
+            Manhattan Project
+            Aircraft Nuclear Propulsion
+            Aircraft Reactor Experiment
+           
+          
+        
+        
+         Awards
+         
+          
+           
+            Ernest Orlando Lawrence Award (1960)Atoms for Peace Award (1960) Enrico Fermi Award (1980) 
+           
+          
+        
+        
+         
+          Scientific career
+        
+        
+         Fields
+         Nuclear physics
+        
+        
+         Institutions
+         
+          
+           
+            Metallurgical Laboratory
+            Oak Ridge National Laboratory
+            
+             
+              U.S. Office of Energy Research and Development
+             
+            Oak Ridge Associated Universities
+            International Atomic Energy Agency
+           
+          
+        
+        
+         Thesis
+         Mathematical Foundations for a Theory of Biophysical Periodicity&nbsp;(1939)
+        
+        
+         Doctoral advisor
+         Carl Eckart
+        
+        
+          
+        
+       
+       
+      Alvin Martin Weinberg (/ˈwaɪnbɜːrɡ/; April 20, 1915 – October 18, 2006) was an American nuclear physicist who was the administrator at Oak Ridge National Laboratory (ORNL) during and after the Manhattan Project. He came to Oak Ridge, Tennessee, in 1945 and remained there until his death in 2006. He was the first to use the term "Faustian bargain" to describe nuclear energy. 
+      A graduate of the University of Chicago, which awarded him his doctorate in mathematical biophysics in 1939, Weinberg joined the Manhattan Project's Metallurgical Laboratory in September 1941. The following year he became part of Eugene Wigner's Theoretical Group, whose task was to design the nuclear reactors that would convert uranium into plutonium. 
+      Weinberg replaced Wigner as Director of Research at ORNL in 1948, and became director of the laboratory in 1955. Under his direction it worked on the Aircraft Nuclear Propulsion program, and pioneered many innovative reactor designs, including the pressurized water reactors (PWRs) and boiling water reactors (BWRs), which have since become the dominant reactor types in commercial nuclear power plants, and Aqueous Homogeneous Reactor designs. 
+      In 1960, Weinberg was appointed to the President's Science Advisory Committee in the Eisenhower administration and later served on it in the Kennedy administration. After leaving the ORNL in 1973, he was named director of the Office of Energy Research and Development in Washington, D.C., in 1974. The following year he founded and became the first director of the Institute for Energy Analysis at Oak Ridge Associated Universities (ORAU).  
+      
+       
+       
+        Contents
+        
+        
+        1 Early years in Chicago 
+        2 Metallurgical Laboratory 
+        3 Work at Oak Ridge 
+          
+          3.1 Reactor development 
+          3.2 Molten salt reactors 
+          3.3 Biological and environmental studies 
+          3.4 Leadership 
+           
+        4 After Oak Ridge 
+          
+          4.1 Washington and ORAU 
+          4.2 Retirement 
+          4.3 Legacy 
+           
+        5 Awards 
+        6 Books 
+        7 Notes 
+        8 References 
+        9 External links 
+        
+       
+      Early years in Chicago 
+      Alvin Martin Weinberg was born April 20, 1915, in Chicago, Illinois, the son of Jacob Weinberg and Emma Levinson Weinberg, two Russian Jewish emigrants who met in 1905 on board the boat carrying them to the United States. He had an older sister, Fay Goleman, who was born on November 30, 1910. She later became a sociology professor at the University of the Pacific (her son is Daniel Goleman). He attended Theodore Roosevelt High School in Chicago. 
+      Weinberg entered the University of Chicago, from which he received his Bachelor of Science (B.S.) degree in physics in 1935, and his Master of Science (M.S.) in physics the following year. He received his Ph.D. from the University of Chicago in mathematical biophysics in 1939, writing his thesis on Mathematical foundations for a theory of biophysical periodicity, under the supervision of Carl Eckart. Weinberg later lamented that, in restricting his thesis to linear systems, he had overlooked interesting nonlinear systems that Ilya Prigogine later received the Nobel Prize in Chemistry for studying. 
+      While at Chicago, Weinberg was hired by the family of Margaret Despres, a student at the University of Chicago, to tutor her in mathematics. They were married on June 14, 1940. They had two sons, David Robert Weinberg and Richard J. Weinberg.  
+      Metallurgical Laboratory 
+      
+       
+         
+        
+         
+          
+         Eugene Wigner (left) with Weinberg (right) at the Oak Ridge National Laboratory
+        
+       
+       
+      Weinberg taught courses at Wright Junior College. He applied for and received a National Research Council fellowship to study under Kenneth S. Cole at Columbia University, but never took it up, as Cole came to Chicago to work on the Manhattan Project as a radiation biologist. Weinberg was recruited to work at its Metallurgical Laboratory at the University of Chicago in September 1941 by Eckart and Samuel Allison, who needed someone to work on the latter's neutron capture calculations. 
+      In early 1942, Arthur Compton concentrated the Manhattan Project's various teams working on plutonium at the University of Chicago. This brought in many top scientists including Herbert Anderson, Bernard Feld, Enrico Fermi, Leó Szilárd and Walter Zinn from Columbia, and Edward Creutz, Gilbert Plass, Eugene Wigner and John Wheeler from Princeton University. Weinberg became a protégé of Wigner. 
+      Wigner led the Theoretical Group at the Metallurgical Laboratory that included Alvin Weinberg, Katharine Way, Gale Young and Edward Creutz. The group's task was to design the production nuclear reactors that would convert uranium into plutonium. At the time, reactors existed only on paper, and no reactor had yet gone critical. In July 1942, Wigner chose a conservative 100 MW design, with a graphite neutron moderator and water cooling. The choice of water as a coolant was controversial at the time. Water was known to absorb neutrons, thereby reducing the efficiency of the reactor, but Wigner was confident that his group's calculations were correct and that water would work, while the technical difficulties involved in using helium or liquid metal as a coolants would delay the project. 
+      After the United States Army Corps of Engineers took over the Manhattan Project, it gave responsibility for the detailed design and construction of the reactors to DuPont. There was friction between the company and Wigner and his team. Major differences between Wigner's reactor design and DuPont's included increasing the number of process tubes from 1,500 in a circular array to 2,004 in a square array, and cutting the power from 500 MW to 250 MW. As it turned out, the design decision by DuPont to give the reactor additional tubes came in handy when neutron poisoning became a problem for the B Reactor at the Hanford Site. The extra tubes allowed a greater fuel load to overcome the poisoning. Without them the reactor would have had to be run at low power until enough of the boron impurities in the graphite had been burned up to allow it to reach full power, which would have delayed full operation by up to a year. 
+      As the reactors at Hanford came online, the Metallurgical Laboratory turned its attention back to theoretical designs. The discovery of spontaneous fission in reactor-bred plutonium due to contamination by plutonium-240 led Wigner to propose switching to breeding uranium-233 from thorium, but the challenge was met by the Los Alamos Laboratory developing an implosion-type nuclear weapon design. Wigner was also intrigued by the possibility of doing away with much of the complexities of a reactor by having the uranium in solution or a slurry in heavy water. The Metallurgical Laboratory attempted to find a way of doing this. 
+      Amongst the competing designs, Weinberg proposed the pressurized water reactor, which ultimately became the most common design. This was only one of the many possibilities discussed by Weinberg and his colleagues at Chicago and Oak Ridge. Later, he wrote:  
+       
+       In these early days we explored all sorts of power reactors, comparing the advantages and disadvantages of each type. The number of possibilities was enormous, since there are many possibilities for each component of a reactor—fuel, coolant, moderator. The fissile material may be 233U, 235U, or 239Pu; the coolant may be: water, heavy water, gas, or liquid metal; the moderator may be: water, heavy water, beryllium, graphite—or, in a fast- neutron reactor, no moderator. I have calculated that, if one counted all the combinations of fuel, coolant, and moderator, one could identify about a thousand distinct reactors. Thus, at the very beginning of nuclear power, we had to choose which possibilities to pursue, which to ignore.  
+       
+      The ultimate success of the pressurized water reactor, he wrote, was due less to any superior characteristics of water, but rather to the decision to power the prototype of the Mark I submarine thermal reactor with a pressurized version of the Materials Testing Reactor at Oak Ridge. Once pressurized water was established, other possibilities became too expensive to pursue, but Weinberg remained interested in other possibilities. According to Freeman Dyson, he was the only nuclear pioneer who supported the wide universe of reactor designs.  
+      Work at Oak Ridge 
+      In 1945, Wigner accepted a position as the Director of Research at the Clinton Laboratories in Oak Ridge, Tennessee, which then had a staff of about 800. He took with him his protégés Gale Young, Katherine Way and Weinberg. Weinberg, who was the first to arrive at Oak Ridge in May 1945, became head of the Physics Division in 1946. But after the Atomic Energy Commission took over responsibility for the laboratory's operations from the Manhattan Project at the start of 1947, Wigner, feeling unsuited to a managerial role in the new environment, left Oak Ridge at the end of summer in 1947 and returned to Princeton University. 
+      The administration of the Clinton Laboratories passed from Monsanto to the University of Chicago in May 1947, and then to Union Carbide in December 1947. The Atomic Energy Commission's influential General Advisory Committee, chaired by J. Robert Oppenheimer, recommended that all work on reactors be concentrated at the Argonne National Laboratory, the successor to the Metallurgical Laboratory, near Chicago. There was also competition for staff and resources from the newly established Brookhaven National Laboratory near New York. Morale was low, and no one could be found to take on the job of Director of Research at the laboratory, renamed the Oak Ridge National Laboratory (ORNL) in January 1948. At least six people turned down the job before Union Carbide's acting Director, Nelson (Bunny) Rucker, asked Weinberg to become Director of Research in March 1948. 
+      Weinberg was subsequently appointed director in 1955. He often sat in the front row at ORNL division information meetings and he would ask the first, often very penetrating, question after each scientific talk. For young scientists giving their first presentation, the experience could be frightening, but it was also exciting and stimulating. When asked how he found the time to attend every meeting, Weinberg replied jokingly, "We didn't have a DOE in those days."  
+      Reactor development 
+      The Aircraft Nuclear Propulsion (ANP) project was ORNL's biggest program, using 25% of ORNL's budget. The ANP project's military goal was to produce a nuclear-powered aircraft (a bomber) to overcome the range limitations of jet-fueled aircraft at that time. That the project had little chance of success was not overlooked, but it provided employment and allowed ORNL to stay in the reactor development business. ORNL successfully built and operated a prototype of an aircraft reactor power plant by creating the world's first molten salt fueled and cooled reactor called the Aircraft Reactor Experiment (ARE) in 1954, which set a record high temperature of operation of 1,600&nbsp;°F (870&nbsp;°C). Due to the radiation hazard posed to aircrew, and people on the ground in the event of a crash, new developments in ballistic missile technology, aerial refueling and longer range jet bombers, President Kennedy canceled the program in June 1961. 
+      Weinberg had the Materials Testing Reactor converted into a mock-up of a real reactor called the Low Intensity Test Reactor (LITR) or "Poor Man's Pile". Experiments at the LITR led to the design of both pressurized water reactors (PWRs) and boiling water reactors (BWRs), which have since become the dominant reactor types in commercial nuclear power plants. Weinberg was attracted to the simplicity and self-controlling features of nuclear reactors that used fluid fuels, such as Harold Urey and Eugene Wigner's proposed Aqueous Homogeneous Reactor. Therefore, to support the Nuclear Aircraft project in the late 1940s, Weinberg asked ORNL's reactor engineers to design a reactor using liquid instead of solid fuel. 
+      This Homogeneous Reactor Experiment (HRE) was affectionately dubbed "Alvin's 3P reactor" because it required a pot, a pipe, and a pump. The HRE went into operation in 1950 and, at the criticality party, Weinberg brought the appropriate spirits: "When piles go critical in Chicago, we celebrate with wine. When piles go critical in Tennessee, we celebrate with Jack Daniel's." The HRE operated for 105 days before it was closed down. Despite its leaks and corrosion, valuable information was gained from its operation and it proved a simple and safe reactor to control. During the time the HRE was online, Senators John F. Kennedy and Albert Gore, Sr. visited ORNL and were hosted by Weinberg.  
+      Molten salt reactors 
+      
+       
+         
+        
+         
+          
+         Weinberg noting "6000 full-power hours!" of MSRE operation in 1967.
+        
+       
+       
+      Under Weinberg, ORNL shifted its focus to a civilian version of the meltdown-proof Molten Salt Reactor (MSR) away from the military's "daft" idea of nuclear-powered aircraft. The Molten-Salt Reactor Experiment (MSRE) set a record for continuous operation and was the first to use Thorium irradiated to produce uranium-233 as fuel. It also used plutonium-239 and the standard, naturally occurring uranium-235. The MSR was known as the "chemist's reactor" because it was proposed mainly by chemists (ORNL's Ray Briant and Ed Bettis (an engineer) and NEPA's Vince Calkins), and because it used a chemical solution of melted salts containing the actinides (uranium, thorium, and/or plutonium) in a carrier salt, most often composed of beryllium (BeF2) and lithium (LiF) (isotopically depleted in Lithium-6 to prevent excessive neutron capture or tritium production)&nbsp;– FLiBe. The MSR also afforded the opportunity to change the chemistry of the molten salt while the reactor was operating to remove fission products and add new fuel or change the fuel, all of which is called "online processing".  
+      Biological and environmental studies 
+      Under Weinberg's tenure as director, ORNL's Biology Division grew to five times the size of the next largest division. This division was charged with understanding how ionizing radiation interacts with living things and to try to find ways to help them survive radiation damage, such as bone marrow transplants. In the 1960s Weinberg also pursued new missions for ORNL, such as using nuclear energy to desalinate seawater. He recruited Philip Hammond from the Los Alamos National Laboratory to further this mission and in 1970 started the first big ecology project in the United States: the National Science Foundation&nbsp;– Research Applied to National Needs Environmental Program.  
+      Leadership 
+      
+       
+         
+        
+         
+          
+         Weinberg speaks with Senator John F. Kennedy at Oak Ridge in 1959
+        
+       
+       
+      In 1958, Weinberg coauthored the first nuclear reactor textbook, The Physical Theory of Neutron Chain Reactors, with Wigner. The following year, 1959, he was elected president of the American Nuclear Society and, in 1960, began service on the President's Science Advisory Committee under the Eisenhower and Kennedy administrations. Starting in 1945 with Patent #2,736,696, Weinberg, usually with Wigner, filed numerous patents on the light water reactor (LWR) technology that has provided the United States' primary nuclear reactors. The main LWR types are Pressurized Water Reactors (PWRs) and Boiling Water Reactors (BWRs), that serve in Naval propulsion and commercial nuclear power. In 1965 he was appointed vice president of Union Carbide's Nuclear Division. 
+       In a 1971 paper, Weinberg first used the term "Faustian bargain" to describe nuclear energy: 
+      
+       We nuclear people have made a Faustian bargain with society. On the one hand we offer—in the catalytic nuclear burner (i.e., the breeder)—an inexhaustible source of energy. Even in the short range, when we use ordinary reactors, we offer energy that is cheaper than energy from fossil fuel. Moreover, this source of energy when properly handled is almost nonpolluting. Whereas fossil-fuel burners emit oxides of carbon, nitrogen, and sulfur... there is no intrinsic reason why nuclear systems must emit any pollutant except heat and traces of radioactivity. But the price that we demand of society for this magical source is both a vigilance from and longevity of our social institutions that we are quite unaccustomed to. 
+       
+      Weinberg was fired by the Nixon administration from ORNL in 1973 after 18 years as the laboratory's director, because he continued to advocate increased nuclear safety and molten salt reactors (MSRs), instead of the Administration's chosen Liquid Metal Fast Breeder Reactor (LMFBR) that the AEC's Director of Reactor Division, Milton Shaw, was appointed to develop. Weinberg's firing effectively halted development of the MSR, as it was virtually unknown by other nuclear laboratories and specialists. There was a brief revival of MSR research at ORNL as part of the Carter administration's nonproliferation interests, culminating in ORNL-TM-7207, "Conceptual Design Characteristics of a Denatured Molten-Salt Reactor with Once-Through Fueling", by Engel, et al., which is still considered by many to be the "reference design" for commercial molten salt reactors.  
+      After Oak Ridge 
+      Washington and ORAU 
+      Weinberg was named director of the Office of Energy Research and Development in Washington, D.C., in 1974. The following year he founded and became the first director of Institute for Energy Analysis at Oak Ridge Associated Universities (ORAU). This institute focused on evaluating alternatives for meeting future energy requirements. From 1976 to 1984, the Institute for Energy Analysis was a center for study of diverse issues related to carbon dioxide and global warming. He worked at ORAU until retiring to become an ORAU distinguished fellow in 1985. 
+      In 1972 Weinberg published a landmark article in Minerva entitled Science and Trans-science, in which he focused on the interface between science and policy matters, especially governmental policy decisions:  
+      
+      
+       Many of the issues which arise in the course of the interaction between science or technology and society—e.g., the deleterious side effects of technology, or the attempts to deal with social problems through the procedures of science—hang on the answers to questions which can be asked of science and yet which cannot be answered by science. I propose the term trans-scientific for these questions since, though they are, epistemologically speaking, questions of fact and can be stated in the language of science, they are unanswerable by science; they transcend science. In so far as public policy involves trans-scientific rather than scientific issues, the role of the scientist in contributing to the promulgation of such policy must be different from his role when the issues can be unambiguously answered by science. 
+       
+      In June, 1977, Weinberg testified at a congressional hearing of the House Subcommittee on the Environment and the Atmosphere concerning the impact of increasing carbon dioxide emissions on global average temperatures. He stated that a doubling of global carbon dioxide emissions by 2025, which some scientists predicted would occur, would lead to a two-degree Celsius increase in global average temperature.  
+      Retirement 
+      Weinberg remained active in retirement. In 1992 he was named chairman of the International Friendship Bell Committee, which arranged for the installation of a Japanese bell in Oak Ridge. He also called for strengthening of the International Atomic Energy Agency and systems to defend against nuclear weapons. His first wife, Margaret, died in 1969. He later married a stock broker, Genevieve DePersio, who died in 2004. His son David died in 2003. Weinberg died at his home in Oak Ridge on October 18, 2006. He was survived by his other son, Richard, and sister Fay Goleman.  
+      Legacy 
+      The Alvin Weinberg Foundation is named for him.  
+      Awards 
+      
+       Outstanding Young American of the Year Award (1950–51) 
+       Ernest Orlando Lawrence Award (1960) 
+       Atoms for Peace Award (1960) 
+       Golden Plate Award of the American Academy of Achievement (1961) 
+       Enrico Fermi Award (1980)
+       
+      Books 
+      
+       The Physical Theory of Neutron Chain Reactors, Alvin M. Weinberg &amp; Eugene P. Wigner, University of Chicago Press, 1958. 
+       Reflections on Big Science, Cambridge: M.I.T. Press, 1967. 
+       The Second Nuclear Era: A New Start for Nuclear Power, Alvin M. Weinberg&nbsp;; Russ Manning, editor; New York: Praeger, 1985; ISBN&nbsp;0-030-04144-9. 
+       Continuing the Nuclear Dialogue: Selected Essays, Alvin M. Weinberg&nbsp;; selected and with introductory comments by Russell M. Ball; La Grange Park, Illinois: American Nuclear Society, 1985; 
+        ISBN&nbsp;0-8944-8552-0. 
+       Strategic Defenses and Arms Control, Edited by Alvin M. Weinberg, Jack N. Barkenbus. New York: Paragon House, 1988; 
+        ISBN&nbsp;0-887-02218-9. 
+       Stability and Strategic Defenses, Edited by Jack N. Barkenbus and Alvin M. Weinberg, Washington, DC: Washington Institute Press, 1989; 
+        ISBN&nbsp;0-887-02046-1. 
+       Nuclear Reactions: Science and Trans-Science, American Institute of Physics, 1992; 
+        ISBN&nbsp;0-88318-861-9. 
+       The First Nuclear Era: The Life and Times of a Technological Fixer, New York: AIP Press, 1994. 
+        ISBN&nbsp;1-56396-358-2. Weinberg's autobiography, covering the period from the early 1940s to the early 1990s.
+       
+      Notes 
+      
+       
+        
+        ^ a b 
+          "Alvin Weinberg (1915–2006)" (PDF). Oak Ridge National Laboratory Review. 40 (1): 26–27. 2007. Archived from the original (PDF) on August 14, 2007. Retrieved September 16, 2014.  
+        ^ International Who's Who 2003, p.&nbsp;1787.  
+        ^ 
+          "Goleman was Pacific professor, women's advocate". The Record. September 26, 2010. Retrieved September 13, 2015.  
+        ^ a b Weinberg 1994, pp.&nbsp;180–181.  
+        ^ Weinberg 1994, p.&nbsp;1.  
+        ^ 
+          "Alvin Weinberg". Array of Contemporary American Physicists. Archived from the original on March 4, 2016. Retrieved September 13, 2015.  
+        ^ 
+          "Mathematical foundations for a theory of biophysical periodicity". University of Chicago. Retrieved September 16, 2014.  
+        ^ a b c d e 
+          Zucker, Alexander (December 2008). "Alvin M. Weinberg" (PDF). Proceedings of the American Philosophical Society. 152 (4): 571–576. Archived from the original (PDF) on April 30, 2015. Retrieved September 16, 2014.  
+        ^ Weinberg 1994, p.&nbsp;8.  
+        ^ a b c 
+          Pearce, Jeremy (October 21, 2006). "Alvin M. Weinberg, 91, Dies; Advocated Nuclear Power". The New York Times. Retrieved September 13, 2015.  
+        ^ a b Wadsworth 2008, p.&nbsp;337.  
+        ^ Weinberg 1994, pp.&nbsp;9–10.  
+        ^ Weinberg 1994, pp.&nbsp;11–12.  
+        ^ Szanton 1992, pp.&nbsp;217–218.  
+        ^ Weinberg 1994, pp.&nbsp;22–24.  
+        ^ Szanton 1992, pp.&nbsp;233–235.  
+        ^ Weinberg 1994, pp.&nbsp;27–30.  
+        ^ Weinberg 1994, pp.&nbsp;36–38.  
+        ^ Weinberg 1994, pp.&nbsp;32–33.  
+        ^ Weinberg 1994, p.&nbsp;43.  
+        ^ Weinberg 1994, p.&nbsp;109.  
+        ^ Weinberg 1994, p.&nbsp;110.  
+        ^ 
+          "In Memory of Alvin Weinberg". Oak Ridge Associated Universities (ORAU). Retrieved February 4, 2015.  
+        ^ Weinberg 1994, pp.&nbsp;45–46.  
+        ^ a b c d e 
+          "Review of the Weinberg Years at ORNL". Oak Ridge National Laboratory. Archived from the original on June 22, 2014. Retrieved September 19, 2014.  
+        ^ 
+          Seitz, Frederick; Vogt, Erich; Weinberg, Alvin M. "Eugene Paul Wigner". Biographical Memoirs. National Academies Press. Retrieved August 20, 2013.  
+        ^ Johnson &amp; Schaffer 1994, pp.&nbsp;48–49.  
+        ^ Weinberg 1994, pp.&nbsp;68–71.  
+        ^ Johnson &amp; Schaffer 1994, pp.&nbsp;49–51.  
+        ^ 
+          "Metals and Ceramics Division History 1946–1996" (PDF). Oak Ridge National Laboratory. Archived from the original (PDF) on February 25, 2013. Retrieved September 19, 2014.  
+        ^ Weinberg 1994, pp.&nbsp;102–108.  
+        ^ Weinberg 1994, pp.&nbsp;84–85.  
+        ^ Weinberg 1994, pp.&nbsp;100–102.  
+        ^ a b Weinberg 1994, pp.&nbsp;118–122.  
+        ^ 
+          Cabage, Bill (November 2006). "Alvin Weinberg, 1915–2006 – Former Lab Director and Oak Ridge icon pioneered the art of science administration". Oak Ridge Reporter. Oak Ridge National Laboratory (83). Retrieved October 18, 2011.  
+        ^ 
+          Grimes, W.R. (June 1967). "Chemical Research and Development for Molten-Salt Breeder Reactors" (PDF). Oak Ridge National Laboratory. Archived from the original (PDF) on September 27, 2012. Retrieved September 20, 2014.  
+        ^ 
+          "Thorium-Fuelled Molten Salt Reactors" (PDF). The Weinberg Foundation. June 2013. Retrieved September 20, 2014.  
+        ^ Johnson &amp; Schaffer 1994, pp.&nbsp;109–115.  
+        ^ Weinberg 1994, pp.&nbsp;252–255.  
+        ^ 
+          "Eugene P. Wigner – Patents – 1958". Osti.gov. Retrieved October 18, 2011.  
+        ^ 
+          "Tribute to Alvin M. Weinberg". Ornl.gov. April 20, 1995. Archived from the original on October 22, 2011. Retrieved October 18, 2011.  
+        ^ Weinberg 1994, p.&nbsp;176.  
+        ^ Weinberg 1994, pp.&nbsp;198–200.  
+        ^ 
+          Engel, J. R.; Grimes, W. R.; Bauman, H.F.; McCoy, E.H.; Dearing, J.F.; Rhoades, W. A. "Conceptual Design Characteristics of a Denatured Molten-Salt Reactor with Once-Through Fueling" (PDF). Moltensalt.org. Retrieved September 20, 2014.  
+        ^ 
+          "Fluid Fueled Reactors' Documents (mainly Molten Salt Reactors, MSR)". Moltensalt.org. Retrieved October 18, 2011.  
+        ^ 
+          Oreskes, Naomi; Conway, Erik M.; Shindell, Matthew (2008). "From Chicken Little to Dr. Pangloss: William Nierenberg, Global Warming, and the Social Deconstruction of Scientific Knowledge" (PDF). Historical Studies in the Natural Sciences. University of California Press. 38 (1): 109–152. doi:10.1525/hsns.2008.38.1.109. Archived from the original (PDF) on July 20, 2013. Retrieved March 29, 2012. &amp; 
+          Nierenberg, Nicolas; Tschinkel, Walter R.; Tschinkel, Victoria J. (2010). "Early Climate Change Consensus at the National Academy: The Origins and Making of Changing Climate" (PDF). Historical Studies in the Natural Sciences. University of California Press. 40 (3): 318–349. doi:10.1525/hsns.2010.40.3.318. PMID&nbsp;20848755. Retrieved March 29, 2012.  
+        ^ 
+          Weinberg, Alvin M. (1972). "Science and Trans-Science". Minerva. 10 (2): 209–222. doi:10.1007/BF01682418. ISSN&nbsp;0026-4695. S2CID&nbsp;40854873.  
+        ^ Environmental Implications of the New Energy Plan: Hearings Before the Subcomm. on the Env't &amp; the Atmosphere of the H. Comm. on Sci. &amp; Tech. 95th Cong. 454–455 (1977).  
+        ^ 
+          "Alvin Weinberg". IEEE Global History Network. IEEE. Retrieved July 14, 2011.  
+        ^ 
+          Clark, Duncan (September 9, 2011). "Thorium advocates launch pressure group". The Guardian. Retrieved December 28, 2015.  
+        ^ 
+          "Award Laureates". U.S. DOE Office of Science. Retrieved September 20, 2014.  
+        ^ 
+          Craig-McCormack, Elizabeth (March 31, 2010). "Guide to Atoms for Peace Awards Records" (PDF). Archived from the original (PDF) on March 11, 2010. Retrieved September 20, 2014.  
+        ^ 
+          "Golden Plate Awardees of the American Academy of Achievement". www.achievement.org. American Academy of Achievement.  
+       
+       
+      References 
+      
+       
+        Johnson, Leland; Schaffer, Daniel (1994). Oak Ridge National Laboratory: the First Fifty Years. Knoxville: University of Tennessee Press. ISBN&nbsp;978-0-87049-853-4. 
+       
+        Szanton, Andrew (1992). The Recollections of Eugene P. Wigner. Plenum. ISBN&nbsp;0-306-44326-0. 
+       
+        Wadsworth, Jeffrey (2008). "Alvin M. Weinberg 1915–2006". Memorial Tributes. National Academy of Engineering. 12: 332–337. 
+       
+        Weinberg, Alvin (1994). The First Nuclear Era: The Life and Times of a Technological Fixer. New York: AIP Press. ISBN&nbsp;1-56396-358-2. 
+       
+        The International Who's Who 2004. London: Europa. 2003. ISBN&nbsp;978-1-85743-217-6. OCLC&nbsp;59342773.
+       
+      External links 
+       
+       
+         
+          
+         Wikiquote has quotations related to: Alvin M. Weinberg
+         
+       
+       
+      
+       Alvin Weinberg Memorial 
+       1986 Audio Interview with Alvin Weinberg by S. L. Sanger Voices of the Manhattan Project 
+       Alvin Weinberg Papers (Finding Aid), University of Tennessee Knoxville Libraries 
+       Biography from Oak Ridge National Laboratory
+       
+      
+      
+       Portals:
+       
+        
+         Biography
+        
+        
+         Physics
+        
+        
+         History of science
+        
+        
+         Nuclear technology
+        
+        
+         World War II
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Manhattan Project
+           
+         
+         
+          
+           
+            Timeline
+           
+         
+         
+          Sites
+          
+            
+            
+             Ames 
+             Berkeley 
+             Chicago 
+             Dayton 
+             Hanford 
+             Inyokern 
+             Los Alamos 
+             Montreal 
+             New York 
+             Oak Ridge 
+             Salt Wells Pilot Plant 
+             Trinity 
+             Wendover 
+             Heavy water sites
+             
+           
+          
+           
+            
+           
+         
+         
+          Administrators
+          
+            
+            
+             Vannevar Bush 
+             Arthur Compton 
+             James B. Conant 
+             Priscilla Duffield 
+             Thomas Farrell 
+             Leslie Groves 
+             John Lansdale 
+             Ernest Lawrence 
+             James Marshall 
+             Franklin Matthias 
+             Dorothy McKibbin 
+             Kenneth Nichols 
+             Robert Oppenheimer 
+             Deak Parsons 
+             William Purnell 
+             Frank Spedding 
+             Charles Thomas 
+             Paul Tibbets 
+             Bud Uanna 
+             Harold Urey 
+             Stafford Warren 
+             Ed Westcott 
+             Roscoe Wilson
+             
+           
+         
+         
+          Scientists
+          
+            
+            
+             Luis Alvarez 
+             Robert Bacher 
+             Hans Bethe 
+             Aage Bohr 
+             Niels Bohr 
+             Norris Bradbury 
+             James Chadwick 
+             John Cockcroft 
+             Charles Critchfield 
+             Harry Daghlian 
+             Enrico Fermi 
+             Richard Feynman 
+             Val Fitch 
+             James Franck 
+             Klaus Fuchs 
+             Maria Goeppert Mayer 
+             George Kistiakowsky 
+             George Koval 
+             Willard Libby 
+             Joseph L. McKibben 
+             Edwin McMillan 
+             Mark Oliphant 
+             Norman Ramsey 
+             Isidor Isaac Rabi 
+             James Rainwater 
+             Bruno Rossi 
+             Glenn Seaborg 
+             Emilio Segrè 
+             Louis Slotin 
+             Henry DeWolf Smyth 
+             Leo Szilard 
+             Edward Teller 
+             Stanisław Ulam 
+             John von Neumann 
+             John Wheeler 
+             Eugene Wigner 
+             Robert Wilson 
+             Leona Woods 
+             Chien-Shiung Wu
+             
+           
+         
+         
+          Operations
+          
+            
+            
+             Alsos Mission 
+             Bombings of Hiroshima and Nagasaki 
+             Operation Crossroads 
+             Operation Peppermint 
+             Project Alberta 
+             Silverplate 
+             509th Composite Group 
+             Enola Gay 
+             Bockscar 
+             The Great Artiste
+             
+           
+         
+         
+          Weapons
+          
+            
+            
+             Fat Man 
+             Little Boy 
+             Pumpkin bomb 
+             Thin Man
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Atomic Energy Act of 1946 
+             Bismuth phosphate process 
+             British contribution 
+             Chicago Pile-1 
+             Demon core 
+             Einstein–Szilárd letter 
+             Franck Report 
+             Interim Committee 
+             Oppenheimer security hearing 
+             Plutonium 
+             Quebec Agreement 
+             RaLa Experiment 
+             S-1 Executive Committee 
+             S-50 Project 
+             Smyth Report 
+             Uranium 
+             USS&nbsp;Indianapolis 
+             X-10 Graphite Reactor
+             
+           
+         
+         
+          
+           
+             Manhattan Project
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          General
+          
+            
+            
+             ISNI 
+              
+               1
+               
+             VIAF 
+              
+               1
+               
+             WorldCat
+             
+           
+         
+         
+          National libraries
+          
+            
+            
+             Norway 
+             France (data) 
+             Catalonia 
+             Germany 
+             United States 
+             Czech Republic 
+             Australia 
+             Israel 
+             Korea 
+             Netherlands 
+             Poland
+             
+           
+         
+         
+          Scientific databases
+          
+            
+            
+             CiNii (Japan)
+             
+           
+         
+         
+          Other
+          
+            
+            
+             Faceted Application of Subject Terminology 
+             RERO (Switzerland) 
+              
+               1
+               
+             Social Networks and Archival Context 
+             SUDOC (France) 
+              
+               1
+               
+             Trove (Australia) 
+              
+               1
+              
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Alvin_M._Weinberg&amp;oldid=1062927363"
+     
+     
+    
+     
+      Categories: 
+      
+       1915 births
+       2006 deaths
+       Scientists from Chicago
+       People from Oak Ridge, Tennessee
+       American people of Russian-Jewish descent
+       American nuclear physicists
+       Oak Ridge National Laboratory people
+       Atoms for Peace Award recipients
+       Manhattan Project people
+       Members of the United States National Academy of Sciences
+       Enrico Fermi Award recipients
+       Members of the American Philosophical Society
+       Fellows of the American Physical Society
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with short description
+       Short description matches Wikidata
+       Good articles
+       Use mdy dates from October 2011
+       Articles with hCards
+       Articles with ISNI identifiers
+       Articles with VIAF identifiers
+       Articles with WORLDCATID identifiers
+       Articles with BIBSYS identifiers
+       Articles with BNF identifiers
+       Articles with CANTIC identifiers
+       Articles with GND identifiers
+       Articles with LCCN identifiers
+       Articles with NKC identifiers
+       Articles with NLA identifiers
+       Articles with NLI identifiers
+       Articles with NLK identifiers
+       Articles with NTA identifiers
+       Articles with PLWABN identifiers
+       Articles with CINII identifiers
+       Articles with FAST identifiers
+       Articles with RERO identifiers
+       Articles with SNAC-ID identifiers
+       Articles with SUDOC identifiers
+       Articles with Trove identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       Wikiquote
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       تۆرکجه
+       Deutsch
+       Español
+       فارسی
+       Français
+       Italiano
+       Kreyòl ayisyen
+       مصرى
+       Nederlands
+       日本語
+       Norsk nynorsk
+       Polski
+       Português
+       Русский
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 31 December 2021, at 06:15&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

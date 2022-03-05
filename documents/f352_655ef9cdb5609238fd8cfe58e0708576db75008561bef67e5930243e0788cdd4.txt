@@ -1,0 +1,1095 @@
+
+ 
+  
+   
+  Library science - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Library science 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       
+         
+        
+         
+          
+         The Library of Alexandria, an early library.
+        
+       
+       
+      Library science (often termed library studies, bibliothecography, library economy, and informatics) is an interdisciplinary or multidisciplinary field that applies the practices, perspectives, and tools of management, information technology, education, and other areas to libraries; the collection, organization, preservation, and dissemination of information resources; and the political economy of information. Martin Schrettinger, a Bavarian librarian, coined the discipline within his work (1808–1828) Versuch eines vollständigen Lehrbuchs der Bibliothek-Wissenschaft oder Anleitung zur vollkommenen Geschäftsführung eines Bibliothekars. Rather than classifying information based on nature-oriented elements, as was previously done in his Bavarian library, Schrettinger organized books in alphabetical order. The first American school for library science was founded by Melvil Dewey at Columbia University in 1887. 
+      Historically, library science has also included archival science. This includes how information resources are organized to serve the needs of selected user groups, how people interact with classification systems and technology, how information is acquired, evaluated and applied by people in and outside libraries as well as cross-culturally, how people are trained and educated for careers in libraries, the ethics that guide library service and organization, the legal status of libraries and information resources, and the applied science of computer technology used in documentation and records management. 
+      There is no generally agreed-upon distinction between the terms library science and librarianship. To a certain extent they are interchangeable perhaps differing most significantly in connotation. The term library and information studies (alternatively library and information science), abbreviated as LIS, is most often used; most librarians consider it as only a terminological variation, intended to emphasize the scientific and technical foundations of the subject and its relationship with information science. LIS should not be confused with information theory, the mathematical study of the concept of information. Library philosophy has been contrasted with library science as the study of the aims and justifications of librarianship as opposed to the development and refinement of techniques.  
+      
+       
+       
+        Contents
+        
+        
+        1 History 
+          
+          1.1 17th century 
+          1.2 19th century 
+          1.3 20th century 
+          1.4 21st century 
+           
+        2 Education and training 
+        3 Employment outlook and opportunities 
+        4 American gender issues 
+          
+          4.1 Professional associations 
+          4.2 Scholastics 
+          4.3 Policies 
+          4.4 Other aspects 
+           
+        5 Diversity in librarianship 
+          
+          5.1 Statistics 
+          5.2 Strategies 
+            
+            5.2.1 Scholarships and grants 
+              
+              5.2.1.1 ALA Annual Research Diversity Grant Program 
+               
+            5.2.2 Cultural competencies 
+            5.2.3 Recruitment 
+             
+          5.3 Resources 
+          5.4 American deafness issues 
+            
+            5.4.1 Libraries 
+             
+           
+        6 Theory and practice 
+        7 ALA Code of Ethics 
+        8 Types of libraries 
+          
+          8.1 Public 
+          8.2 School 
+          8.3 Academic 
+          8.4 Archival 
+          8.5 Special 
+          8.6 Preservation 
+           
+        9 Further reading 
+        10 See also 
+        11 Notes 
+        12 References 
+        13 External links 
+        
+       
+      History 
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           The examples and perspective in this article deal primarily with the United States and do not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appropriate. (November 2016) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      17th century 
+      
+       
+         
+        
+         
+          
+         Portrait of Gabriel Naudé, author of Advis pour dresser une bibliothèque (1627), later translated into English in 1661
+        
+       
+       
+      The earliest text on "library operations", Advice on Establishing a Library was published in 1627 by French librarian and scholar Gabriel Naudé. Naudé wrote prolifically, producing works on many subjects including politics, religion, history, and the supernatural. He put into practice all the ideas put forth in Advice when given the opportunity to build and maintain the library of Cardinal Jules Mazarin.  
+      19th century 
+      
+       
+         
+        
+         
+          
+         
+        
+       
+       
+      Martin Schrettinger wrote the second textbook (the first in Germany) on the subject from 1808 to 1829. 
+      Thomas Jefferson, whose library at Monticello consisted of thousands of books, devised a classification system inspired by the Baconian method, which grouped books more or less by subject rather than alphabetically, as it was previously done. 
+      The Jefferson collection provided the start of what became the Library of Congress. 
+      The first American school of librarianship opened at Columbia University under the leadership of Melvil Dewey, noted for his 1876 decimal classification, on 5 January 1887 as the School of Library Economy. The term library economy was common in the U.S. until 1942, with the term, library science, predominant through much of the 20th century. Key events are described in "History of American Library Science: Its Origins and Early Development."  
+      20th century 
+      Later, the term was used in the title of S. R. Ranganathan's The Five Laws of Library Science, published in 1931, and in the title of Lee Pierce Butler's 1933 book, An introduction to library science (University of Chicago Press). 
+      S. R. Ranganathan conceived the five laws of library science and the development of the first major analytico-synthetic classification system, the colon classification. 
+      In the United States, Lee Pierce Butler's new approach advocated research using quantitative methods and ideas in the social sciences with the aim of using librarianship to address society's information needs. He was one of the first faculty at the University of Chicago Graduate Library School, which changed the structure and focus of education for librarianship in the twentieth century. This research agenda went against the more procedure-based approach of "library economy," which was mostly confined to practical problems in the administration of libraries. 
+      William Stetson Merrill's A Code for Classifiers, released in several editions from 1914 to 1939, is an example of a more pragmatic approach, where arguments stemming from in-depth knowledge about each field of study are employed to recommend a system of classification. While Ranganathan's approach was philosophical, it was also tied more to the day-to-day business of running a library. A reworking of Ranganathan's laws was published in 1995 which removes the constant references to books. Michael Gorman's Our Enduring Values: Librarianship in the 21st Century features his eight principles necessary by library professionals and incorporate knowledge and information in all their forms, allowing for digital information to be considered. 
+      In more recent years, with the growth of digital technology, the field has been greatly influenced by information science concepts. In the English speaking world the term "library science" seems to have been used for the first time in India in the 1916 book Punjab Library Primer, written by Asa Don Dickinson and published by the University of the Punjab, Lahore, Pakistan. This university was the first in Asia to begin teaching "library science". The Punjab Library Primer was the first textbook on library science published in English anywhere in the world. The first textbook in the United States was the Manual of Library Economy by James Duff Brown, published in 1903. In 1923, C. C. Williamson, who was appointed by the Carnegie Corporation, published an assessment of library science education entitled "The Williamson Report," which designated that universities should provide library science training. This report had a significant impact on library science training and education. Library research and practical work, the area of information science, has remained largely distinct both in training and in research interests.  
+      21st century 
+      The digital age has transformed how information is accessed and retrieved. "The library is now a part of a complex and dynamic educational, recreational, and informational infrastructure." Mobile devices and applications with wireless networking, high-speed computers and networks, and the computing cloud have deeply impacted and developed information science and information services. The evolution of the library sciences maintains its mission of access equity and community space, as well as the new means for information retrieval called information literacy skills. All catalogues, databases, and a growing number of books are all available on the Internet. In addition, the expanding free access to open source journals and sources such as Wikipedia have fundamentally impacted how information is accessed. Information literacy is the ability to "determine the extent of information needed, access the needed information effectively and efficiently, evaluate information and its sources critically, incorporate selected information into one’s knowledge base, use information effectively to accomplish a specific purpose, and understand the economic, legal, and social issues surrounding the use of information, and access and use information ethically and legally."  
+      Education and training 
+      
+      
+       Main article: Education for librarianship
+       
+      Academic courses in library science include collection management, information systems and technology, research methods, information literacy, cataloging and classification, preservation, reference, statistics and management. Library science is constantly evolving, incorporating new topics like database management, information architecture and information management, among others. With the mounting acceptance of Wikipedia as a valued and reliable reference source, many libraries, museums and archives have introduced the role of Wikipedian in residence. As a result, some universities are including coursework relating to Wikipedia and Knowledge Management in their MLIS programs. 
+      Most schools in the US only offer a master's degree in library science or an MLIS and do not offer an undergraduate degree in the subject. About fifty schools have this graduate program, and seven are still being ranked. Many have online programs, which makes attending more convenient if the college is not in a student's immediate vicinity. According to US News' online journal, University of Illinois is at the top of the list of best MLIS programs provided by universities. Second is University of North Carolina and third is University of Washington. 
+      Most professional library jobs require a professional post-baccalaureate degree in library science, or one of its equivalent terms. In the United States and Canada the certification usually comes from a master's degree granted by an ALA-accredited institution, so even non-scholarly librarians have an originally academic background. In the United Kingdom, however, there have been moves to broaden the entry requirements to professional library posts, such that qualifications in, or experience of, a number of other disciplines have become more acceptable. In Australia, a number of institutions offer degrees accepted by the ALIA (Australian Library and Information Association). Global standards of accreditation or certification in librarianship have yet to be developed. 
+      In academic regalia in the United States, the color for library science is lemon. 
+      The Master of Library Science (MLIS) is the master's degree that is required for most professional librarian positions in the United States and Canada. The MLIS is a relatively recent degree; an older and still common degree designation for librarians to acquire is the Master of Library Science (MLS), or Master of Science in Library Science (MSLS) degree. According to the American Library Association (ALA), "The master’s degree in library and information studies is frequently referred to as the MLS; however, ALA-accredited degrees have various names such as Master of Arts, Master of Librarianship, Master of Library and Information Studies, or Master of Science. The degree name is determined by the program. The  Committee for Accreditation evaluates programs based on their adherence to the Standards for Accreditation of Master's Programs in Library and Information Studies, not based on the name of the degree  
+      Employment outlook and opportunities 
+      According to 'U.S. News &amp; World Report', library and information science ranked as one of the "Best Careers of 2008." The median annual salary for 2020 was reported by the U.S. Bureau of Labor Statistics as $60,820 in the United States. Additional salary breakdowns available by metropolitan area show that the San Jose-Sunnyvale-Santa Clara metropolitan area has the highest average salary at $86,380. In September 2021, the BLS projected growth for the field "to grow 9 percent from 2020 to 2030", which is "about as fast as the average for all occupations". The 2010-2011 Occupational Outlook Handbook states, "Workers in this occupation tend to be older than workers in the rest of the economy. As a result, there may be more workers retiring from this occupation than other occupations. However, relatively large numbers of graduates from MLS programs may cause competition in some areas and for some jobs."  
+      American gender issues 
+      
+      
+       See also: Timeline of women in library science
+       
+      Librarianship manifests a dual career structure for men and women in the United States. While the ratio of female to male librarians remains roughly 4:1, top positions are more often held by men. In large academic libraries, there is less of a discrepancy; however, overall, throughout the profession, men tend to hold higher or leadership positions. Women, however, have made continuous progress toward equality. Women have also been largely left out of standard histories of U.S. librarianship, but Suzanne Hildenbrand's scholarly assessment of the work done by women has expanded the historical record.  
+      Professional associations 
+      There are multiple groups within the American Library Association dedicated to discussing, critiquing, and furthering gender-related and feminist issues within the profession. 
+      In 1969 the first library-related women's rights task force was founded: the National Women's Liberation Front for Librarians (NWFFL or New-Waffle). 
+      It was also in 1969 that children's librarians, after being unable to find children's books that included working mothers, worked to remedy the situation and succeeded in their efforts. 
+      The American Library Association's Social Responsibilities Round Table Feminist Task Force (FTF) was founded in 1970 by women who wished to address sexism in libraries and librarianship. FTF was the first ALA group to focus on women's issues. In recent years during Women's History Month (March), the FTF has dedicated their efforts to expanding women's library history online, using the website Women of Library History. 
+      The Committee on the Status of Women in Librarianship (COSWL) of the American Library Association, founded in 1976, represents the diversity of women's interest within ALA and ensures that the Association considers the rights of the majority (women) in the library field, and promotes and initiates the collection, analysis, dissemination, and coordination of information on the status of women in librarianship. The bibliographic history of women in U.S. librarianship and women librarians developing services for women has been well-documented in the series of publications initially issued by the Social Responsibilities Round Table Task Force on Women and later continued by COSWL. 
+      The ALA also has the Women &amp; Gender Studies Section (WGSS) of its Division "Association of College &amp; Research Libraries"; this section was formed to discuss, promote, and support women's studies collections and services in academic and research libraries. 
+      In 1970, the ALA founded the ALA's Task Force on Gay Liberation, becoming the first professional organization of LGBTQ in the U.S. In 1975 the name of the organization changed to "Gay Task Force," in 1986 it changed again to "Gay and Lesbian Task Force," in 1995 the name changed once more to "Gay, Lesbian, and Bisexual Task Force," and finally in 1999 it became the "Gay, Lesbian, Bisexual, Transgender Round Table." The group dealt with sexuality, with much of the roundtable's work feminist in nature, and was concerned with issues of gender. The GLBTRT was committed to serving the information needs of the GLBT professional library community, and the GLBT information and access needs of individuals at large. In 2019, it was renamed as the Rainbow Round Table (RRT) and fulfilled the same duties and responsibilities as the GLBTRT.  
+      Scholastics 
+      Many scholars within the profession have taken up gender and its relationship to the discipline of library and information science. Scholars like Hope A. Olson and Sanford Berman have directed efforts at the problematic nature of cataloging and classification standards and schemes that are obscuring or exclusionary to marginalized groups. Others have written about the implications of gendered stereotypes in librarianship, particularly as they relate to library instruction. Library instruction also intersects with feminist pedagogy, and scholars such as Maria Accardi have written about feminist pedagogical practices in libraries. Library scholars have also dealt with issues of gender and leadership, having equitable gender representation in library collection development, and issues of gender and young adult and children's librarianship.  
+      Policies 
+      The ALA Policy Manual states under B.2.1.15 Access to Library Resources and Services Regardless of Sex, Gender Identity, Gender Expression, or Sexual Orientation (Old Number 53.1.15): "The American Library Association stringently and unequivocally maintains that libraries and librarians have an obligation to resist efforts that systematically exclude materials dealing with any subject matter, including sex, gender identity or expression, or sexual orientation. The Association also encourages librarians to proactively support the First Amendment rights of all library users, regardless of sex, sexual orientation, or gender identity or expression. Adopted 1993, amended 2000, 2004, 2008, 2010." It also states under B.2.12 Threats to Library Materials Related to Sex, Gender Identity, or Sexual Orientation (Old Number 53.12), "The American Library Association supports the inclusion in library collections of materials that reflect the diversity of our society, including those related to sex, sexual orientation, and gender identity or expression. ALA encourages all American Library Association chapters to take active stands against all legislative or other government attempts to proscribe materials related to sex, sexual orientation, and gender identity or expression; and encourages all libraries to acquire and make available materials representative of all the people in our society. Adopted 2005, Amended 2009, 2010."  
+      Other aspects 
+      In 1852, the first female clerk was hired for the Boston Public Library. 
+      In 1890, Elizabeth Putnam Sohier and Anna Eliot Ticknor became the first women appointed to a United States state library agency—specifically, the Massachusetts Board of Library Commissioners. 
+      There was a "Women's Meeting" at the 1882 14th American Libraries Conference, where issues concerning the salaries of women librarians and what female patrons do in reading rooms were discussed. 
+      During the first 35 years of the American Library Association its presidency was held by men. In 1911 Theresa Elmendorf became the first woman elected president of the ALA. She was ALA president from May 24, 1911, until July 2, 1912. 
+      In 1919, an ALA resolution promoting equal pay and opportunities for women in librarianship was defeated by a large margin. 
+      In 1970, Betty Wilson brought forth a resolution that would have had the ALA refrain from using facilities that discriminate against women. That resolution was also defeated by the membership. 
+      Also in 1970, Clara Stanton Jones became the first woman (and the first African-American) to serve as director of a major library system in America, as director of the Detroit Public Library. 
+      In 1971, Effie Lee Morris became the first woman (and first black person) to serve as president of the Public Library Association. 
+      In 1972, Celeste West co-founded Booklegger Press, the first woman-owned American library publisher, with Sue Critchfield and Valerie Wheat. 
+      In 1973, Page Ackerman became University Librarian for the University of California, Los Angeles, and thus became the United States's first female librarian of a system as large and complex as UCLA's. 
+      In 1976, the Council of the American Library Association passed a "Resolution on Racism and Sexism Awareness" during the ALA's Centennial Conference in Chicago, July 18–24. 
+      In 1977, the ALA took a stand for the Equal Rights Amendment. The organization stated that they would no longer hold conferences in states that did not ratify the amendment, with the boycott measure set to take place in 1981. An ERA Task Force was formed in 1979 towards this goal and a sum of $25,000 was allocated towards task force operations in unratified states. At the time, a number of state library associations passed pro-ERA resolutions and formed committees on women in libraries. 
+      In 1985, Susan Luévano-Molina became the first female president of REFORMA. 
+      In 2013–2014, 82% of graduates in Master of Library Science (MLS) programs were female. 
+      In 2016, Carla Hayden became the first female Librarian of Congress. 
+      In 2018-2019, 82.2% of graduates with a MLS were women, although only 4.5% were Black women, 7.8% were Latina, and 2.5% were Asian/Pacific Islander. 
+      In 2020, 83.2% of librarians were women, and 77.5% of library technicians and assistants, above the average of 73.5% for women who were "employed in all education and library professions," in line with predominantly employment by women for many years.  
+      Diversity in librarianship 
+      
+      
+       See also: Libraries and the LGBTQ community
+       
+      The field of library science seeks to provide a diverse working environment in libraries across the United States. Ways to change the status quo include diversifying the job field with regards to age, class, disabilities, ethnicity, gender identity, race, sex, and sexual orientation. The demographics of America are changing; those who were once minorities will become the majority. Library facilities can best represent their communities by hiring diverse staffs. The American Library Association and many libraries around the country realize the issue of diversity in the workplace and are addressing this problem.  
+      Statistics 
+      The majority of librarians working in the U.S. are female, between the ages of 55–64, and Caucasian. A 2014 study by the American Library Association of research done from 2009 to 2010 shows that 98,273 of credentialed librarians were female while 20,393 were male. 15,335 of the total 111,666 were 35 and younger and only 6,222 were 65 or older. 104,393 were white; 6,160 African American, 3,260 American Pacific Islander; 185 Native American including Alaskan; 1,008 of two or more races, and 3,661 Latino. (ALA).  
+      Strategies 
+      Scholarships and grants 
+      To help change the lack of diversity in library jobs in the U.S., more scholarships and grants are emerging. Most library and information science students do not belong to an underrepresented group and as a reaction to these research statistics, the field is creating ways to encourage more diversity in the classroom.  
+      ALA Annual Research Diversity Grant Program 
+      The ALA Annual Research Diversity Grant Program is a way to encourage innovation in scholars and professionals to provide insight into how to diversify the field. The ALA Grant is directed toward those who have valuable and original research ideas that can add to the knowledge of diversity in the field of librarianship. The program awards up to three individuals once a year with a grant of $2,500 each. The applicants have submission guidelines, are given a timeline, and are shown the evaluation process online.  
+      Cultural competencies 
+      One way to nurture cultural diversity in the library field is with cultural competencies. Scholars recommend defining skills needed to serve and work with others who belong to different cultures. It is suggested that these definitions be posted in job listings and be referred to when promoting and giving raises. In library and information science graduate programs, it is also suggested by scholars that there is a lack of classes teaching students cultural competences. It is important for more classes to teach about diversity and measure the outcomes.  
+      Recruitment 
+      Another strategy is to create interest in the field of library and information science from a young age. If minorities do not desire to become librarians, they will not seek to obtain an MLS or MLIS and therefore will not fill high job roles in libraries. A recommended solutions are to create a great experience for all racial group's early on in life. This may inspire more young children to become interested in this field.  
+      Resources 
+      ALA Office for Diversity 
+      The Office for Diversity is a sector of the American Library Association whose purpose is to aid libraries in providing a diverse workforce, gathering data, and teaching others about the issue of diversity related to the field of library and information science. 
+      American Indian Library Association 
+      The American Indian Library Association (AILA) was created in 1979. It publishes a newsletter twice a year and educates individuals and groups about Indian culture. 
+      Asian Pacific American Librarians Association 
+      The Asian Pacific American Librarians Association (APALA) is an affiliate of the American Library Association (ALA) formed to "address the needs of Asian/Pacific American librarians and those who serve Asian/Pacific American communities." APALA was the successor to the Asian American Librarians Caucus (AALC), a discussion group within the ALA Office for Library Outreach Services that focused on providing library service to minority communities and on supporting minority librarians. APALA was established in 1980, was incorporated in 1981, and became part of the ALA in 1982. The founders of APALA included Lourdes Collantes, Suzine Har Nicolescu, Sharad Karkhanis, Conchita Pineda, Henry Chang, Betty Tsai, and Tamiye Trejo Meehan. 
+      Black Caucus of the American Library Association 
+      The Black Caucus of the American Library Association, founded in 1970, promotes not only library services that can be enjoyed by the African American community but also the emergence of African American librarians and library professionals. By joining the association, patrons have access to newsletters, the entirety of their website, and networking boards. 
+      Chinese American Librarians Association, also known as 華人圖書館員協會 
+      The Mid-West Chinese American Librarians Association began on March 31, 1973, founded by Dr. Tze-Chung Li and Dorothy Li, as a regional organization in Illinois. Then in 1974 the Chinese Librarians Association was founded in California. In 1976, the Mid-West Chinese American Librarians Association expanded to a national organization as the Chinese American Librarians Association. In 1983 the Chinese American Librarians Association and the Chinese Librarians Association were merged into one organization, under the name Chinese American Librarians Association (in English) and the Chinese Librarians Association's Chinese name (華人圖書館員協會). This one organization has members not only in America but in China, Hong Kong, Canada, and more. The organization promotes the Chinese culture through the outlet of libraries and communicates with others in the profession of librarianship. 
+      REFORMA 
+      REFORMA is the American national library association to promote library and information services to Latino and the Spanish speaking. The National Association of Spanish Speaking Librarians in the United States, which would later be called REFORMA, was founded in 1971 by Arnulfo Trejo. In 1983, the name was changed to REFORMA, the National Association to Promote Library Services to the Spanish Speaking, to better reflect the goal of the association. It is now known as REFORMA: The National Association to Promote Library &amp; Information Services to Latinos and the Spanish Speaking, or just REFORMA. REFORMA has pushed for Spanish collections in libraries, gives out yearly scholarships, and sends out quarterly newsletters. One of REFORMA‘s main goals is to recruit Latinos into professional positions of the library. 
+      Joint Council of Librarians of Color 
+      The Joint Council of Librarians of Color (JCLC, Inc.) was founded in June 2015 as an organization “that advocates for and addresses the common needs of the American Library Association ethnic affiliates.“ These ethnic affiliates include: the American Indian Library Association, the Asian Pacific American Librarians Association, the Black Caucus of the American Library Association, the Chinese American Librarians Association (also known as 華人圖書館員協會), and REFORMA: The National Association to Promote Library &amp; Information Services to Latinos and the Spanish Speaking.  
+      American deafness issues 
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This section may be unbalanced towards certain viewpoints. Please improve the article by adding information on neglected viewpoints, or discuss the issue on the talk page. (November 2016)
+          
+        
+       
+       
+      Deaf people have the same needs as any other library visitors, and often have more difficulty accessing materials and services. Over the last few decades, libraries in the United States have begun to implement services and collections for deaf and HoH patrons and are working to make more of their collections, services, their communities, and even the world more accessible to this group of underserved people. 
+      The history of the role of libraries in the Deaf community in the United States is a sordid one. The American Library Association readily admits that disabled people belong to a minority that is often overlooked and underrepresented by people in the library, and the Deaf community belongs in this minority group. However, in the last few decades, libraries across the United States have made great strides in the mission of making libraries more accessible to disabled people in general and to the Deaf community specifically. The Library Bill of Rights preamble states that "all libraries are forums for information and ideas" and as such libraries need to remove the physical and technological barriers which in turn would allow persons with disabilities full access to the resources available. 
+      One notable American activist in the library community working toward accessibility for the deaf was Alice Lougee Hagemeyer. 
+      Australian librarian Karen McQuigg stated in 2003 that "even ten years ago, when I was involved in a project looking at what public libraries could offer the deaf, it seemed as if the gap between the requirements of this group and what public libraries could offer was too great for public libraries to be able to serve them effectively." Clearly, not even so long ago, there was quite a dearth of information for or about the deaf community available in libraries across the nation and around the globe. 
+      New guidelines from library organizations such as International Federation of Library Associations and Institutions (IFLA) and the ALA were written in order to help libraries make their information more accessible to people with disabilities, and in some cases, specifically the deaf community. IFLA's Guidelines for Library Services to Deaf People is one such set of guidelines, was published to inform libraries of the services that should be provided for deaf patrons. Most of the guidelines pertain to ensuring that deaf patrons have equal access to all available library services. Other guidelines include training library staff to provide services for the deaf community, availability of text telephones or TTYs not only to assist patrons with reference questions but also for making outside calls, using the most recent technology in order to communicate more effectively with deaf patrons, including closed captioning services for any television services, and developing a collection that would interest the members of the deaf community. 
+      Over the years, library services have begun to evolve in order to accommodate the needs and desires of local deaf communities. There is now a Library Service to People Who Are Deaf or Hard of Hearing Forum for libraries to look at to find out what they can do to better serve their Deaf/HoH users. At the Queen Borough Public Library (QBPL) in New York, the staff implemented new and innovative ideas in order to involve the community and library staff with the deaf people in their community. The QBPL hired a deaf librarian, Lori Stambler, to train the library staff about deaf culture, to teach sign language classes for family members and people who are involved with deaf people, and to teach literacy classes for deaf patrons. In working with the library, Stambler was able to help the community reach out to its deaf neighbors, and helped other deaf people become more active in their outside community.  
+      Libraries 
+      The library at Gallaudet University, the only deaf liberal arts university in the United States, was founded in 1876. The library's collection has grown from a small number of reference books to the world's largest collection of deaf-related materials, with over 234,000 books and thousands of other materials in different formats. The collection is so large that the library had to create a hybrid classification system based on the Dewey Decimal Classification System in order to make cataloging and location within the library easier for both library staff and users. The library also houses the university's archives, which holds some of the oldest deaf-related books and documents in the world. 
+      In Nashville, Tennessee, Sandy Cohen manages the Library Services for the Deaf and Hard of Hearing (LSDHH). The program was created in 1979 in response to information accessibility issues for the deaf in the Nashville area. Originally, the only service provided was the news via a teletypewriter or TTY, but today, the program has expanded to serving the entire state of Tennessee by providing all different types of information and material on deafness, deaf culture, and information for family members of deaf people, as well as a historical and reference collection.  
+      Theory and practice 
+      Many practicing librarians do not contribute to LIS scholarship, but focus on daily operations within their own libraries or library systems. Other practicing librarians, particularly in academic libraries, do perform original scholarly LIS research and contribute to the academic end of the field. 
+      Whether or not individual professional librarians contribute to scholarly research and publication, many are involved with and contribute to the advancement of the profession and of library science through local, state, regional, national and international library or information organizations. 
+      Library science is very closely related to issues of knowledge organization; however, the latter is a broader term which covers how knowledge is represented and stored (computer science/linguistics), how it might be automatically processed (artificial intelligence), and how it is organized outside the library in global systems such as the internet. In addition, library science typically refers to a specific community engaged in managing holdings as they are found in university and government libraries, while knowledge organization in general refers to this and also to other communities (such as publishers) and other systems (such as the Internet). The library system is thus one socio-technical structure for knowledge organization. 
+      The terms information organization and knowledge organization are often used synonymously.: 106  The fundamentals of their study (particularly theory relating to indexing and classification) and many of the main tools used by the disciplines in modern times to provide access to digital resources (abstracting, metadata, resource description, systematic and alphabetic subject description, and terminology) originated in the 19th century and were developed, in part, to assist in making humanity's intellectual output accessible by recording, identifying, and providing bibliographic control of printed knowledge. : 105  
+      Information has been published which analyses the relations between philosophy of information (PI), library and information science (LIS), and social epistemology (SE).  
+      ALA Code of Ethics 
+      Practicing library professionals and members of the American Library Association recognize and abide by the ALA Code of Ethics. According to the American Library Association, "In a political system grounded in an informed citzenry, we are members of a profession explicitly comitted to intellectual freedom and freedom of access to information. We have a special obligation to ensure the free flow of information and ideas to present and future generations." The ALA Code of Ethics was adopted in the winter of 1939, and updated on June 29, 2021.  
+      Types of libraries 
+      Public 
+      The study of librarianship for public libraries covers issues such as cataloging; collection development for a diverse community; information literacy; readers' advisory; community standards; public services-focused librarianship; serving a diverse community of adults, children, and teens; intellectual freedom; censorship; and legal and budgeting issues. The public library as a commons or public sphere based on the work of Jürgen Habermas has become a central metaphor in the 21st century. 
+      Most people are familiar with municipal public libraries, but there are, in fact, four different types of public libraries: association libraries, municipal public libraries, school district libraries and special district public libraries. It is important to be able to distinguish among the four. Each receives its funding through different sources, each is established by a different set of voters, and not all are subject to municipal civil service governance.  
+      School 
+      The study of school librarianship covers library services for children in primary through secondary school. In some regions, the local government may have stricter standards for the education and certification of school librarians (who are often considered a special case of teacher), than for other librarians, and the educational program will include those local criteria. School librarianship may also include issues of intellectual freedom, pedagogy, information literacy, and how to build a cooperative curriculum with the teaching staff.  
+      Academic 
+      The study of academic librarianship covers library services for colleges and universities. Issues of special importance to the field may include copyright; technology, digital libraries, and digital repositories; academic freedom; open access to scholarly works; as well as specialized knowledge of subject areas important to the institution and the relevant reference works. Librarians often divide focus individually as liaisons on particular schools within a college or university. 
+      Some academic librarians are considered faculty, and hold similar academic ranks to those of professors, while others are not. In either case, the minimal qualification is a Master of Arts in Library Studies or Masters of Arts in Library Science. Some academic libraries may only require a master's degree in a specific academic field or a related field, such as educational technology.  
+      Archival 
+      The study of archives includes the training of archivists, librarians specially trained to maintain and build archives of records intended for historical preservation. Special issues include physical preservation, conservation and restoration of materials and mass deacidification; specialist catalogs; solo work; access; and appraisal. Many archivists are also trained historians specializing in the period covered by the archive. 
+      The archival mission includes three major goals: To identify papers and records that have enduring value, to preserve the identified papers, and to make the papers available to others. 
+      There are significant differences between libraries and archives, including differences in collections, records creation, item acquisition, and preferred behavior in the institution. The major difference in collections is that library collections typically comprise published items (books, magazines, etc.), while archival collections are usually unpublished works (letters, diaries, etc.) In managing their collections, libraries will categorize items individually, but archival items never stand alone. An archival record gains its meaning and importance from its relationship to the entire collection; therefore archival items are usually received by the archive in a group or batch. Library collections are created by many individuals, as each author and illustrator creates their own publication; in contrast, an archive usually collects the records of one person, family, institution, or organization, and so the archival items will have fewer source authors. 
+      Another difference between a library and an archive, is that library materials are created explicitly by authors or others who are working intentionally. They choose to write and publish a book, for example, and that occurs. Archival materials are not created intentionally. Instead, the items in an archive are what remain after a business, institution, or person conducts their normal business practices. The collection of letters, documents, receipts, ledger books, etc. were created with intention to perform daily tasks, they were not created in order to populate a future archive. 
+      As for item acquisition, libraries receive items individually, but archival items will usually become part of the archive's collection as a cohesive group. 
+      Behavior in an archive differs from behavior in a library, as well. In most libraries, patrons are allowed and encouraged to browse the stacks, because the books are openly available to the public. Archival items almost never circulate, and someone interested in viewing documents must request them of the archivist and may only view them in a closed reading room. Those who wish to visit an archive will usually begin with an entrance interview. This is an opportunity for the archivist to register the researcher, confirm their identity, and determine their research needs. This is also the opportune time for the archivist to review reading room rules, which vary but typically include policies on privacy, photocopying, the use of finding aids, and restrictions on food, drinks, and other activities or items that could damage the archival materials.  
+      Special 
+      Special libraries are libraries established to meet the highly specialised requirements of professional or business groups. A library is special depending on whether it covers a specialised collection, a special subject, or a particular group of users or even the type of parent organization. A library can be special if it only serves a particular group of users such as lawyers, doctors, nurses, etc. These libraries are called professional libraries and special librarians include almost any other form of librarianship, including those who serve in medical libraries (and hospitals or medical schools), corporations, news agencies, government organizations, or other special collections. The issues at these libraries are specific to the industries they inhabit, but may include solo work, corporate financing, specialized collection development, and extensive self-promotion to potential patrons. Special librarians have their own professional organization, the Special Library Association (SLA). 
+      National Center for Atmospheric Research (NCAR) is considered a special library. Its mission is to support, preserve, make accessible, and collaborate in the scholarly research and educational outreach activities of UCAR/NCAR. 
+      Another is the Federal Bureau of Investigations Library. According to its website, "The FBI Library supports the FBI in its statutory mission to uphold the law through investigation of violations of federal criminal law; to protect the United States from foreign intelligence and terrorist activities; and to provide leadership and law enforcement assistance to federal, state, local, and international agencies. 
+      A further example would be the classified CIA Library. It is a resource to employees of the Central Intelligence Agency, containing over 125,000 written materials, subscribes to around 1,700 periodicals, and had collections in three areas: Historical Intelligence, Circulating, and Reference. In February 1997, three librarians working at the institution spoke to Information Outlook, a publication of the SLA, revealing that the library had been created in 1947, the importance of the library in disseminating information to employees, even with a small staff, and how the library organizes its materials. In May 2021, an unnamed gay librarian, for the institution, was shown in a recruitment video for the Agency.  
+      Preservation 
+      
+      
+       Main article: Preservation (library and archival science)
+       
+      Preservation librarians most often work in academic libraries. Their focus is on the management of preservation activities that seek to maintain access to content within books, manuscripts, archival materials, and other library resources. Examples of activities managed by preservation librarians include binding, conservation, digital and analog reformatting, digital preservation, and environmental monitoring.  
+      Further reading 
+      
+       International Journal of Library Science (ISSN&nbsp;0975-7546) 
+       Lafontaine, Gerard S. (1958). Dictionary of Terms Used in the Paper, Printing, and Allied Industries. Toronto: H. Smith Paper Mills. 110 p. 
+       The Oxford Guide to Library Research (2005) – 
+        ISBN&nbsp;0-19-518998-1 
+       Thompson, Elizabeth H. (1943). A.L.A. Glossary of Library Terms, with a Selection of Terms in Related Fields, prepared under the direction of the Committee on Library Terminology of the American Library Association. Chicago, Ill.: American Library Association. viii, 189 p. SBN 8389-0000-3 
+       V-LIB 1.2 (2008 Vartavan Library Classification, over 700 fields of sciences &amp; arts classified according to a relational philosophy, currently sold under license in the UK by Rosecastle Ltd. (see Vartavan-Frame)
+       
+      See also 
+      
+       
+       
+        Archival science 
+        Bibliography 
+        Documentation science 
+        History of libraries 
+        Informatics (academic field) 
+        Information management 
+        Information retrieval 
+        Information science 
+        Information systems 
+        Internet search engines and libraries 
+        I-school 
+        Knowledge management 
+        Librarian 
+        Libraries and the LGBTQ community 
+        Library and information science 
+        Library history 
+        Library portal 
+        List of library associations 
+        Museology 
+        Museum informatics 
+        Outline of library science 
+        Subject indexing 
+        Timeline of women in library science
+        
+       
+      Notes 
+      
+       
+       
+         
+         ^ Dewey Decimal Classification (DDC) used the term "library economy" for class 19 in its first edition from 1876. In the second edition (and all subsequent editions) it was moved to class 20. The term "library economy" was used until (and including) 14. edition (1942). From the 15. edition (1951) class 20 was termed library science, which was used until (and including) 17th edition (1965) when it was replaced by "library and information sciences" (LIS) from 18th ed. (1971) and forward.  
+        
+       
+       
+      
+       
+       
+         
+         ^ All the listings can be found here.  
+         ^ See also The Role of women in librarianship, 1876–1976: the entry, advancement, and struggle for equalization in one profession, by Kathleen Weibel, Kathleen de la Peña McCook, and Dianne J. Ellsworth (1979), Phoenix, Ariz: Oryx Press.  
+        
+       
+       
+      References 
+      
+       
+       
+         
+         ^ 
+           "Schrettinger, Martin (Ordensname Willibald)" . Deutsche Biographie (in German). Archived from the original on April 15, 2021.  
+         ^ Buckland, M (2005, June 12). Information schools: a monk, library science, and the information age. Retrieved from http://people.ischool.berkeley.edu/~buckland/huminfo.pdf.  
+         ^ 
+           "Dewey Resources". OCLC. 2014. Archived from the original on February 3, 2006. Retrieved August 14, 2021.  
+         ^ Versuch eines vollständigen Lehrbuchs der Bibliothek-Wissenschaft. Oder, Anleitung zur vollkommenen Geschäftsführung eines Bibliothekars. In wissenschaftlicher Form abgefasst. München. (2 bind).Google books: Bd 1: http://babel.hathitrust.org/cgi/pt?id=nnc1.cu08321752&nbsp;; Bd 2: http://babel.hathitrust.org/cgi/pt?id=nnc1.cu08321760  
+         ^ 
+           Harris, Michael H. (1995). History of Libraries in the Western World. 4th ed. Lanham, Maryland 3 – "The distinction between a library and an archive is relatively modern". Scarecrow.  
+         ^ Bates, M.J. and Maack, M.N. (eds.). (2010). Encyclopedia of Library and Information Sciences. Vol. 1-7. CRC Press, Boca Raton, USA. Also available as an electronic source.  
+         ^ Library and Information Sciences is the name used in the Dewey Decimal Classification for class 20 from the 18th edition (1971) to the 22nd edition (2003)  
+         ^ 
+           "Accreditation Frequently Asked Questions:What is the difference between the MLS, the MILS, the MLIS, etc.?". American Library Association. 2017. Archived from the original on October 20, 2020. Retrieved August 14, 2021.  
+         ^ 
+           Cossette, Andre (2009). Humanism and Libraries: An Essay on the Philosophy of Librarianship. Duluth, MN: Library Juice Press.  
+         ^ 
+           Emblidge, D. (2014). "'Bibliomany has possessed me': Thomas Jefferson, the booksellers' customer extraordinaire". The International Journal of the Book. 12 (2): 17–41. doi:10.18848/1447-9516/CGP/v12i02/37034.  
+         ^ 
+           "History of the Library". Library of Congress. Archived from the original on August 12, 2021. Retrieved August 14, 2021.  
+         ^ Richardson, John (2010). "History of American Library Science: Its Origins and Early Development." In Encyclopedia of Library and Information Science, 3rd ed., edited by Mary Niles Maack and Marcia Bates (New York: CRC Press, 2010), vol. 5, pages 3440-3448.  
+         ^ 
+           Ranganathan, S. R. (1987). Colon Classification. 7th Edition. Revised and expanded by M.A. Gopinath.  
+         ^ 
+           Merrill, William Stetson (1939). Code for classifiers: principles governing the consistent placing of books in a system of classification. ISBN&nbsp;9780838900277.  
+         ^ Anwar, Mumtaz A. The Pioneers: Asa Don Dickinson Archived 2015-01-18 at the Wayback Machine. World Libraries. 1990–1991. Retrieved 1 November 2015.  
+         ^ Dickinson, Asa D. Punjab Library Primer. University of Panjab. 1916.  
+         ^ 
+           Rubin, Richard E. (2010). Foundations of Library and Information Science. New York: Neal-Schuman Publishers. pp.&nbsp;84–85.  
+         ^ 
+           Rubin, Richard E (2010). Foundations of Library and Information Science. New York: Neal-Schuman Publishers. p.&nbsp;1. ISBN&nbsp;978-1555706906.  
+         ^ 
+           Hu, Sharon (2013). "Technology impacts on curriculum of library science (LIS) – a United States (US) perspective". LIBRES: Library &amp; Information Science Research Electronic Journal. 23 (2): 1–9. Archived from the original on 5 June 2014. Retrieved October 20, 2014.  
+         ^ 
+           "Information Literacy Defined". Archived from the original on March 11, 2016. Retrieved August 14, 2021.  
+         ^ 
+           "Best Library and Information Studies Programs". U.S. News and World Report. Archived from the original on December 2, 2019. Retrieved August 14, 2021.  
+         ^ 
+           Evans, Kenneth D. "Woody" (April 7, 2016). "Librarians need Global Credentials". Library Journal. Archived from the original on October 28, 2020. Retrieved August 14, 2021.  
+         ^ 
+           "Best Careers 2008". U.S. News &amp; World Report. Archived from the original on December 22, 2007.  
+         ^ a b 
+           "Occupational Outlook Handbook: Librarians". Bureau of Labor Statistics. Archived from the original on August 14, 2021. Retrieved August 14, 2021.  
+         ^ 
+           "Occupational Employment Statistics: Librarians". Bureau of Labor Statistics. Archived from the original on April 9, 2021. Retrieved August 14, 2021.  
+         ^ U.S. Bureau of Labor Statistics, U.S. Department of Labor, Occupational Outlook Handbook, 2010-11 Library Edition, Bulletin 2800. Superintendent of Documents, U.S. Government Printing Office, Washington, DC.  
+         ^ 
+           Gordon, R. S. (2004). The men among us. Library Journal, 129(11), 49.  
+         ^ 
+           Wiebe, T. J. (2004). Issues faced by male librarians: Stereotypes, perceptions, and career ramifications. Colorado Libraries. pp.&nbsp;11–13.  
+         ^ a b 
+           Deyrup, Marta Mestrovic (2004). "Is the Revolution Over? Gender, Economic, and Professional Parity in Academic Library Leadership Positions". College &amp; Research Libraries. 65 (3): 242–249. doi:10.5860/crl.65.3.242. Retrieved August 14, 2021.  
+         ^ 
+           Delong, Kathleen (2013). "Career Advancement and Writing about Women Librarians: A Literature Review". Evidence Based Library and Information Practice. 8 (1): 64–69. doi:10.18438/B8CS4M. Retrieved August 14, 2021.  
+         ^ 
+           "Library directors: gender and salary". American Library Association. 1999. Archived from the original on February 25, 2021. Retrieved August 14, 2021.  
+         ^ 
+           Weibel, Kathleen; de la Peña McCook, Kathleen; Ellsworth, Dianne J. (1979). The Role of women in librarianship, 1876–1976: the entry, advancement, and struggle for equalization in one profession. Phoenix, Ariz: Oryx Press.  
+         ^ 
+           Hildenbrand, Suzanne (1996). Reclaiming the American library past: writing the women in. Norwood, N.J.: Ablex Pub.  
+         ^ a b 
+           "The Feminist Task Force". American Library Association. Archived from the original on March 31, 2016. Retrieved August 14, 2021.  
+         ^ 
+           "Women of Library History". Tumblr. American Library Association. Archived from the original on May 19, 2021. Retrieved August 14, 2021.  
+         ^ 
+           "American Library Association, Committee on the Status of Women in Librarianship". American Library Association. Archived from the original on February 9, 2021. Retrieved August 14, 2021.  
+         ^ Kathleen de la Peña McCook and Katharine Phenix, On Account of Sex: An Annotated Bibliography on the History of Women in Librarianship, 1977–1981 (Chicago: ALA, 1984) Katharine Phenix and Kathleen de la Peña McCook (1982–1986) (Chicago: ALA, 1989); later years by Lori A Goetsch; Sarah Watstein (1987–1992) (Metuchen: Scarecrow Press, 1993) Betsy Kruger; Catherine A Larson; Allison A Cowgill (1993–1997) Metuchen: Scarecrow Press, 2000).  
+         ^ 
+           "Women &amp; Gender Studies Section (WGSS) of the Association of College &amp; Research Libraries". Association of College &amp; Research Libraries. Archived from the original on June 3, 2016.  
+         ^ a b 
+           "Rainbow Round Table History Timeline". American Library Association. Archived from the original on February 21, 2021. Retrieved August 14, 2021.  
+         ^ 
+           "ALA GLBT Roundtable". American Library Association. Archived from the original on March 23, 2017. Retrieved August 14, 2021.  
+         ^ 
+           Pagowski, Nicole; DeFrain, Erica. "Ice Ice Baby: Are Librarian Stereotypes Freezing Us out of Instruction". In the Library with the Lead Pipe. Archived from the original on July 22, 2021. Retrieved August 14, 2021.  
+         ^ 
+           Accardi, Maria (July 2013). Feminist Pedagogy for Library Instruction. Library Juice Press. ISBN&nbsp;978-1-936117-55-0.  
+         ^ 
+           "B.2.1.15 Access to Library Resources and Services Regardless of Sex, Gender Identity, Gender Expression, or Sexual Orientation (Old Number 53.1.15)". American Library Association. Archived from the original on May 25, 2021. Retrieved August 14, 2021.  
+         ^ 
+           "B.2.12 Threats to Library Materials Related to Sex, Gender Identity, or Sexual Orientation (Old Number 53.12)". Archived from the original on May 25, 2021. Retrieved August 14, 2021.  
+         ^ 
+           Garrison, Dee (1972–1973). "The Tender Technicians: The Feminization of Public Librarianship, 1876-1905". Journal of Social History. 6 (2): 131–159. doi:10.1353/jsh/6.2.131. JSTOR&nbsp;3786606.  
+         ^ 
+           "ALA's Past Presidents". About ALA. American Library Association. November 20, 2007. Archived from the original on June 9, 2021. Retrieved August 14, 2021.  
+         ^ Thomison, p. 280 The death of her husband had forced Theresa Elmendorf to end her unpaid status, and for the next 20 years she held the position of vice-librarian at the Buffalo Public Library. Her new role also meant an increased participation in the American Library Association; in 1911–12 she served as its President, the first woman to hold that position.  
+         ^ Bulletin of the American Library Association, vol. 6, no. 4.  
+         ^ Schuman, P., &amp; Weibel, K.(1979).The Women Arisen. American Libraries, 10(6), 322.  
+         ^ 
+           James, Sheryl. "Trailblazing librarian, U-M alumna Clara Stanton Jones elected to Michigan Women's Hall of Fame". University of Michigan School of Information. Archived from the original on February 23, 2021.  
+         ^ 
+           Smith, Katisha (May 8, 2020). "13 Pioneering Black American Librarians You Oughta Know". Book Riot. Archived from the original on April 27, 2021. Retrieved August 14, 2021.  
+         ^ 
+           "Celeste West Leaves Legacy of Work for Peace, Justice" (PDF). GLGBTRT Newsletter. Vol.&nbsp;20, no.&nbsp;1. Gay, Lesbian, Bisexual, Transgendered Round Table. 2008. p.&nbsp;5. Archived (PDF) from the original on November 6, 2020. Retrieved August 14, 2021.  
+         ^ 
+           "Celeste West Papers". Online Archive of California. Archived from the original on November 4, 2020. Retrieved August 14, 2021.  
+         ^ 
+           Toni Samek; Moyra Lang; Keller R. Roberto (2010). She Was a Booklegger: Remembering Celeste West. Library Juice Press, LLC. pp.&nbsp;30–. ISBN&nbsp;978-1-936117-44-4.  
+         ^ 
+           Setzer, Dawn (March 9, 2006). "Obituary: Page Ackerman, Former UCLA University Librarian". UCLA News. Archived from the original on March 27, 2019. Retrieved August 14, 2021.  
+         ^ 
+           Barber, Peggy (July 1976). "Resolution on Racism and Sexism Awareness" (PDF) (Press release). Chicago, Illinois: American Library Association Public Information Office. American Library Association. Archived (PDF) from the original on February 27, 2021. Retrieved August 14, 2021.  
+         ^ a b Librarians for ERA. (1982). Wilson Library Bulletin, 57289-312.  
+         ^ ALA women's rights stand: Alabama warns of impact. (1977). Library Journal, 102(18), 2105.  
+         ^ 
+           REFORMA (Association). National Conference (2001). The Power of Language: Selected Papers from the Second REFORMA National Conference. Libraries Unlimited. pp.&nbsp;44, 45–. ISBN&nbsp;978-1-56308-945-9.  
+         ^ 
+           "Library Workers: Facts &amp; Figures". DPEAFLCIO. Archived from the original on August 11, 2019. Retrieved August 14, 2021.  
+         ^ 
+           "Carla Hayden is officially sworn in as the first woman and African-American librarian of Congress". Vox. September 14, 2016. Archived from the original on November 30, 2020. Retrieved August 14, 2021.  
+         ^ a b 
+           "Library Professionals: Facts &amp; Figures". DPEAFLCIO. Archived from the original on July 8, 2021. Retrieved August 14, 2021.  
+         ^ Al-Qallaf, C. L. &amp; Mika, J. J. (2013). The Role of Multiculturalism and Diversity in Library and Information science: LIS Education and the Job Market. Libri: International Journal of Libraries &amp; Information Services. 63 (1), p. 1-20.  
+         ^ a b Andrade, R. &amp; Rivera, A. (2011). Developing a Diversity-Competent Workforce: The UA Libraries’ Experience. Journal of Library Administration. 51:7–8.  
+         ^ a b 
+           "Diversity Counts". American Library Association. 2014. Archived from the original on June 17, 2020. Retrieved August 14, 2021.  
+         ^ a b Kumasi, K &amp; Hill, R. F. (2011). Are We There Yet? Results of a Gap Analysis to Measure LIS Students’ Prior Knowledge and Actual Learning of Cultural Competence Concepts. Journal of Education for Library &amp; Information Science. 42(4), p.251-264.  
+         ^ a b 
+           "ALA Annual Diversity Research Grant Program". American Library Association. Archived from the original on November 14, 2016. Retrieved August 14, 2021.  
+         ^ Hanken, T. (2010). Workforce Challenges with the Public Library Sector: Recruitment, Retention and Diversity. PA Times.  
+         ^ 
+           "Office for Diversity, Literacy and Outreach Services". American Library Association. Archived from the original on April 17, 2021. Retrieved August 14, 2021.  
+         ^ 
+           "Frequently Asked Questions". American Indian Library Association. Archived from the original on January 21, 2021. Retrieved August 14, 2021.  
+         ^ 
+           "About AILA". American Indian Library Association. Archived from the original on January 26, 2021. Retrieved August 14, 2021.  
+         ^ a b c 
+           "About". Asian Pacific American Librarians Association. Archived from the original on May 18, 2021. Retrieved August 14, 2021.  
+         ^ a b 
+           Plummer Alston Jones (2004). Still Struggling for Equality: American Public Library Services with Minorities. Libraries Unlimited. p.&nbsp;134. ISBN&nbsp;978-1-59158-243-4.  
+         ^ 
+           Franklin Ng (1995). The Asian American Encyclopedia. Vol.&nbsp;1. Marshall Cavendish. p.&nbsp;101. ISBN&nbsp;978-1-85435-678-9.  
+         ^ 
+           Yamashita, Kenneth A. (Summer 2000). "Asian/Pacific American Librarians Association: A History of APALA and Its Founders" (PDF). Library Trends. 49 (1): 98–99. Retrieved May 25, 2020.  
+         ^ a b 
+           "About BCALA". Black Caucus of the American Library Association. October 31, 2019. Archived from the original on March 8, 2021. Retrieved August 14, 2021.  
+         ^ 
+           "Home". Black Caucus of the American Library Association. Archived from the original on August 1, 2021. Retrieved August 14, 2021.  
+         ^ 
+           "Home". CALA – Chinese American Librarians Association. Archived from the original on May 7, 2021. Retrieved August 14, 2021.  
+         ^ 
+           "About". CALA – Chinese American Librarians Association. Archived from the original on May 7, 2021. Retrieved August 14, 2021.  
+         ^ 
+           Echavarria, Tami; Andrew B. Wertheimer (Fall 1997). "Surveying the Role of Ethnic-American Library Associations". Library Trends. 46 (2): 381. hdl:2142/8160.  
+         ^ a b 
+           Young, Christal. "Research Guides: Library &amp; Information Science *: Professional Associations". libguides.usc.edu. University of Southern California. Archived from the original on June 20, 2021. Retrieved August 14, 2021.  
+         ^ a b c 
+           "About REFORMA". REFORMA. Archived from the original on April 28, 2021. Retrieved August 14, 2021.  
+         ^ a b 
+           "Home". REFORMA. Archived from the original on June 10, 2021. Retrieved August 14, 2021.  
+         ^ a b 
+           "About". Joint Council of Librarians of Color. Archived from the original on May 8, 2021. Retrieved August 14, 2021.  
+         ^ 
+           "Library services for people with disabilities policy". American Library Association. 2012. Archived from the original on July 11, 2015. Retrieved August 14, 2021.  
+         ^ 
+           "Library Bill Of Rights". American Library Association. Archived from the original on April 27, 2021. Retrieved August 14, 2021.  
+         ^ 
+           "Visionary Leader - January 2014: Alice Lougee Hagemeyer". Gallaudet University. January 2014. Archived from the original on July 6, 2018. Retrieved August 14, 2021.  
+         ^ 
+           "Deaf Person of the Month". Deafpeople.com. Archived from the original on March 26, 2021. Retrieved August 14, 2021.  
+         ^ 
+           McQuigg, K. (2003). Are the deaf a disabled group, or a linguistic minority? Issues for librarians in Victoria's public libraries. Australian Library Journal, 52(4). Archived from the original on May 31, 2004.  
+         ^ 
+           Day, J. M. (2000). Guidelines for library services to deaf people (Report no. 62). The Hague: International Federation of Library Associations and Institutions.  
+         ^ 
+           Hollander, P. (1995). Deaf-advocacy at Queens Borough PL. American Libraries, 26(6). pp.&nbsp;560–562.  
+         ^ 
+           Harrington, T.R. (1998). The Deaf collection at the Gallaudet University Library. Education Libraries, 22(3). pp.&nbsp;5–12.  
+         ^ 
+           "Collections". Gallaudet University. Archived from the original on August 14, 2021. Retrieved August 14, 2021.  
+         ^ 
+           "History". Library Services for the Deaf and Hard of Hearing. Archived from the original on January 28, 2021. Retrieved August 14, 2021.  
+         ^ 
+           Cohen, S. (2006). Have you heard about the Library Services for the Deaf &amp; Hard of Hearing? Tennessee Libraries, 56(1). pp.&nbsp;51–56.  
+         ^ 
+           Hoetzlein, R. (2007). The Organization of Human Knowledge: Systems for Interdisciplinary Research. Rchoetzlein.com. Archived from the original on January 14, 2009.  
+         ^ a b 
+           Bawden, David; Robinson, Lyn (2013). Introduction to information science. Chicago: Neal-Schuman Publishers, Incorporated. ISBN&nbsp;978-1555708610.  
+         ^ 
+           Floridi, Luciano (2002). "On defining library and information science as applied philosophy of information". Social Epistemology. 16 (1): 37–49. CiteSeerX&nbsp;10.1.1.102.4609. doi:10.1080/02691720210132789. S2CID&nbsp;12243183.  
+         ^ 
+           American Library Association (2017-05-19). "Professional Ethics". Tools, Publications &amp; Resources. Retrieved 2021-10-29.}: CS1 maint: url-status (link)  
+         ^ 
+           American Library Association (2017-05-19). "Professional Ethics". Tools, Publications &amp; Resources. Retrieved 2021-10-29.}: CS1 maint: url-status (link)  
+         ^ 
+           McCook, Kathleen de la Peña (2011). Introduction to Public Librarianship. Neal-Schuman. p.&nbsp;65.  
+         ^ 
+           "Types of Public Libraries: A Comparison". New York State Library. University of the State of New York - New York State Education Department. Archived from the original on July 21, 2021. Retrieved August 14, 2021.  
+         ^ a b c d e f 
+           S., Hunter, Gregory (2003). Developing and maintaining practical archives&nbsp;: a how-to-do-it manual (2nd&nbsp;ed.). New York: Neal-Schuman Publishers. pp.&nbsp;219–223. ISBN&nbsp;1555704670. OCLC&nbsp;52540188.  
+         ^ 
+           "Mission and Strategic Plan". NCAR Library. Archived from the original on March 30, 2021. Retrieved August 14, 2021.  
+         ^ 
+           "The FBI Library". fbiacademy.edu. Archived from the original on August 11, 2005. Retrieved April 25, 2019.  
+         ^ 
+           "CIA Library". Central Intelligence Agency. Archived from the original on March 18, 2021. Retrieved August 14, 2021.  
+         ^ 
+           Wright, Susan L. (February 1, 1997). "50 Years of Silent Service: Inside the CIA Library". Information Outlook. Special Libraries Association. 1 (2): 33–35. Archived from the original on May 20, 2018. Retrieved August 14, 2021.  
+         ^ 
+           Maurice, Emma Powys (May 11, 2021). "Gay CIA employee 'stunned' by rainbow in another cringe-inducing recruitment ad". PinkNews. Archived from the original on May 14, 2021. Retrieved August 14, 2021.  
+         ^ 
+           Borger, Julian (May 4, 2021). "CIA forges unity in diversity: everybody hates their 'woke' recruitment ad". The Guardian. Archived from the original on July 28, 2021. Retrieved August 14, 2021.  
+        
+       
+       
+      External links 
+      
+      
+       
+        
+         Library resources about  Library science 
+          
+        
+        
+          
+          
+           Resources in your library 
+           Resources in other libraries
+           
+        
+       
+       
+      
+        Media related to Library and information science at Wikimedia Commons 
+       LISNews.org – librarian and information science news 
+       LISWire.com – librarian and information science wire 
+       Library and Information Science at Curlie
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Libraries and library science
+           
+         
+         
+          Types of library
+          
+            
+            
+             Academic 
+             Archive 
+             Branch 
+             Children's 
+             Christian 
+             Consortium 
+             Digital 
+              
+               Shadow
+               
+             Hybrid 
+             Law 
+             Lending 
+             Map 
+             Medicine 
+             Mobile 
+             Music 
+             National 
+             Presidential 
+             Prison 
+             Private 
+             Public 
+              
+               Carnegie
+               
+             Research 
+             School 
+              
+               Learning Resource Centre 
+               Virtual
+               
+             Special collections 
+             Special library 
+             Subscription 
+             Traveling
+             
+           
+         
+         
+          Types of librarian
+          
+            
+            
+             Distance education 
+             E-science 
+             Law 
+             Music 
+              
+               Ensemble
+               
+             Periodicals/serials 
+             School 
+             Information professional 
+             Informationist 
+             Library and information scientist
+             
+           
+         
+         
+          Library science
+          
+            
+            
+             Five laws 
+             Library and information science 
+             Education for librarianship 
+             Acquisitions 
+             Archival science 
+             Assessment 
+             Cataloging 
+              
+               Catalog 
+               OPAC
+               
+             Circulation 
+             Classification 
+             Collection development 
+             Collective collection 
+             Conservation 
+             Discovery system 
+             Electronic resource management 
+             Information literacy 
+             Inventory 
+             Legal deposit 
+             Library history 
+             Library instruction 
+             Library management 
+             Library publishing 
+             Preservation 
+             Readers' advisory 
+             Reference 
+              
+               Virtual 
+               Roving
+               
+             Technical services 
+             Weeding
+             
+           
+         
+         
+          History
+          
+            
+            
+             History of libraries 
+             History of library science
+             
+           
+         
+         
+          Lists
+          
+            
+            
+             Libraries 
+              
+               by country 
+               by size 
+               ancient 
+               destroyed 
+               medical 
+               national
+               
+             Library associations 
+             Library schools 
+             Librarians 
+              
+               women 
+               fictional
+               
+             Archivists 
+              
+               women
+              
+             
+           
+         
+         
+          
+            
+            
+              Category:Libraries 
+              Category:Library science 
+              Commons 
+              Glossary 
+              Outline 
+              WikiProject
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          National libraries
+          
+            
+            
+             France (data) 
+             Germany 
+             United States 
+             Japan
+             
+           
+         
+         
+          Other
+          
+            
+            
+             National Archives (US)
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Library_science&amp;oldid=1070624198"
+     
+     
+    
+     
+      Categories: 
+      
+       Library science
+       Humanities
+      
+     
+     
+      Hidden categories: 
+      
+       Wikipedia articles needing clarification from July 2021
+       CS1 German-language sources (de)
+       Webarchive template wayback links
+       CS1 maint: url-status
+       Articles with limited geographic scope from November 2016
+       United States-centric
+       Articles needing more viewpoints from November 2016
+       All articles with vague or ambiguous time
+       Vague or ambiguous time from April 2019
+       All articles with minor POV problems
+       Articles with minor POV problems from April 2019
+       Commons category link is on Wikidata
+       Articles with Curlie links
+       Articles with BNF identifiers
+       Articles with GND identifiers
+       Articles with LCCN identifiers
+       Articles with NDL identifiers
+       Articles with NARA identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       Afrikaans
+       አማርኛ
+       العربية
+       Azərbaycanca
+       Brezhoneg
+       Català
+       Čeština
+       Cymraeg
+       Dansk
+       Deutsch
+       Eesti
+       Ελληνικά
+       Español
+       Esperanto
+       Euskara
+       فارسی
+       Français
+       Gaelg
+       Galego
+       한국어
+       Հայերեն
+       हिन्दी
+       Hrvatski
+       Ido
+       Bahasa Indonesia
+       Íslenska
+       Italiano
+       עברית
+       Jawa
+       ಕನ್ನಡ
+       ລາວ
+       Lietuvių
+       Magyar
+       Македонски
+       മലയാളം
+       मराठी
+       Bahasa Melayu
+       Nederlands
+       नेपाली
+       日本語
+       Norsk bokmål
+       Occitan
+       Oʻzbekcha/ўзбекча
+       ਪੰਜਾਬੀ
+       پښتو
+       ភាសាខ្មែរ
+       Polski
+       Português
+       Русский
+       Shqip
+       සිංහල
+       Slovenčina
+       Slovenščina
+       کوردی
+       Српски / srpski
+       Srpskohrvatski / српскохрватски
+       Svenska
+       Tagalog
+       தமிழ்
+       ไทย
+       Türkçe
+       Українська
+       Tiếng Việt
+       Võro
+       Winaray
+       吴语
+       粵語
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 8 February 2022, at 12:20&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

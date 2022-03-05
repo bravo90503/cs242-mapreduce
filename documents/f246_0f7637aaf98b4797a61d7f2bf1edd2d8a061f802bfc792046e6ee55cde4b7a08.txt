@@ -1,0 +1,821 @@
+
+ 
+  
+  Automatic Retrieval of Recorded Information | The Computer Journal | Oxford Academic 
+   
+   
+   
+   
+   
+   
+    
+    
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+   
+   
+   
+   
+   
+   
+  
+   We use cookies to enhance your experience on our website.By continuing to use our website, you are agreeing to our use of cookies. You can change your cookie settings at any time. &lt;a href="https://global.oup.com/cookiepolicy/"&gt; Find out more
+   
+   
+   
+  
+  
+    
+   Skip to Main Content 
+  
+  
+  
+   
+   
+    
+     
+      
+       
+        
+         
+          
+         
+        
+         Advertisement
+         
+        
+       
+      
+      
+       
+           
+        
+        
+          Search Menu   
+             
+          Menu   
+             
+        
+        
+         
+        
+       
+      
+      
+       
+        
+         
+          Navbar Search Filter   This issueAll The Computer Journal   All BCS JournalsAll Journals   Mobile Microsite Search Term 
+           Search 
+          
+         
+        
+       
+       
+        
+          Sign In   
+          
+           
+             
+           
+        
+       
+       
+        
+          Issues   
+          More Content    
+          
+            Advance Articles   
+            Special Issues   
+           
+          Submit    
+          
+            Author Guidelines   
+            Submission Site   
+            Open Access   
+            Reviewer Guidelines   
+            Guidelines for Editors   
+            Review and Appeals Process   
+           
+          Purchase   
+          Alerts   
+          About    
+          
+            About The Computer Journal   
+            About the BCS, The Chartered Institute for IT   
+            Editorial Board   
+            Advertising and Corporate Services   
+            Journals Career Network   
+            Self-Archiving Policy   
+            Dispatch Dates   
+           
+        
+       
+      
+      
+          
+        
+            
+         
+        
+       
+      
+      
+       
+        
+         
+           Issues   
+           More Content    
+           
+             Advance Articles   
+             Special Issues   
+            
+           Submit    
+           
+             Author Guidelines   
+             Submission Site   
+             Open Access   
+             Reviewer Guidelines   
+             Guidelines for Editors   
+             Review and Appeals Process   
+            
+           Purchase   
+           Alerts   
+           About    
+           
+             About The Computer Journal   
+             About the BCS, The Chartered Institute for IT   
+             Editorial Board   
+             Advertising and Corporate Services   
+             Journals Career Network   
+             Self-Archiving Policy   
+             Dispatch Dates   
+            
+         
+        
+        Close 
+         
+          search filter   This issue All The Computer Journal   All BCS Journals All Journals   search input 
+           Search 
+          
+         
+        
+         Advanced Search
+         
+        
+       
+        Search Menu
+        
+       
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+     
+    
+    
+    
+    
+     
+      
+       
+       
+        
+         Article Navigation 
+         
+          Close mobile search navigation  
+         
+          Article Navigation
+          
+          
+           
+             
+              
+             
+             
+               
+               
+                Volume 1
+                
+               
+                Issue 1
+                 
+              
+             
+               1958 
+              
+             
+            
+           
+           
+            
+            Article Contents 
+             
+              
+               Abstract 
+                
+             
+            
+           
+           
+            
+             &lt; Previous  
+             Next &gt;  
+            
+           
+          
+         
+        
+        
+        
+         
+           Article Navigation  
+          
+         
+         
+           Article Navigation  
+          
+         
+         
+          
+           
+            
+            
+            
+             
+              Automatic Retrieval of Recorded Information   
+             
+             
+               R. A. Fairthorne  
+                 
+                  
+                  
+                    R. A. Fairthorne 
+                   
+                  
+                  
+                  
+                   Royal Aircraft Establishment, Farnborough, UK
+                   
+                  
+                 
+                   Search for other works by this author on: 
+                  
+                  Oxford Academic 
+                  
+                  Google Scholar 
+                  
+                   
+              
+             
+             
+              
+              
+               The Computer Journal, Volume 1, Issue 1, 1958, Pages 36–41, https://doi.org/10.1093/comjnl/1.1.36
+               
+              
+              
+               
+               
+                Published:
+                
+               
+                01 January 1958
+                
+               
+              
+             
+            
+           
+           
+          
+          
+          
+          
+           
+            
+             
+               PDF   
+                Split View   
+                
+                
+                
+                 Views
+                  
+                 
+               
+                
+                Article contents  
+                Figures &amp; tables  
+                Video  
+                Audio  
+                Supplementary Data  
+                
+              
+                 Cite  
+                
+                Cite 
+                 
+                 R. A. Fairthorne, Automatic Retrieval of Recorded Information, The Computer Journal, Volume 1, Issue 1, 1958, Pages 36–41, https://doi.org/10.1093/comjnl/1.1.36 
+                 
+                 
+                  
+                   
+                   Select Format  Select format .ris (Mendeley, Papers, Zotero) .enw (EndNote) .bibtex (BibTex) .txt (Medlars, RefWorks)  Download citation 
+                  
+                 Close 
+                
+                
+              
+               
+                  Permissions Icon  Permissions  
+                
+                
+                
+                
+                
+                 Share
+                  
+                 
+               
+                
+               Email 
+               Twitter 
+               Facebook 
+               More 
+                
+             
+             
+              
+               
+                
+                 
+                  
+                   Navbar Search Filter   This issueAll The Computer Journal   All BCS JournalsAll Journals   Mobile Microsite Search Term 
+                    Search 
+                   
+                  
+                 
+                
+                
+                 
+                   Sign In   
+                   
+                    
+                      
+                    
+                 
+                
+                
+                
+               
+               
+                
+                 
+                 
+                 Close 
+                  
+                   search filter   This issue All The Computer Journal   All BCS Journals All Journals   search input 
+                    Search 
+                   
+                  
+                 
+                  Advanced Search
+                  
+                 
+                
+                 Search Menu
+                 
+                
+               
+               
+               
+              
+             
+            
+           
+           
+            
+             
+              
+              Abstract 
+              
+               Mechanized retrieval of texts has developed in terms of rapid item-by-item scanning and selection. If texts are requested by content or relevance only, the major problems are indexing and specifying. In terms of mechanical translation, these are the most profitable targets for mechanization. Because all retrieval systems must ultimately produce legible documents, searching and output speeds inevitably differ (mismatch). Searches should be made for blocks of requests at a time, and multi-level access, based on some strategy of search, is always needed, however rapid the item-by-item scanning. Rational terminology and library principles are necessary in all filing systems, stores vocabularies, program libraries, etc., whether mechanized or not. Automata for library-type activities have to simulate the libary users, as well as the library organization.
+               
+                
+               
+                This content is only available as a PDF. 
+               
+                 
+              
+             
+            
+            
+             
+              
+              
+               Issue Section:
+               Article 
+              
+             
+            
+            
+            
+            
+            
+            
+            Download all slides 
+            
+            
+            
+            
+             
+             
+             
+             
+            
+           
+          
+         
+        
+        
+         
+          
+           
+            
+           
+          
+           Advertisement
+           
+          
+         
+         
+          
+           
+            
+             
+              
+               
+                
+                 387 Views 
+                 
+                  13  Citations 
+                 
+                 
+                  
+                    
+                    
+                    
+                   
+                  
+                 
+                
+                View Metrics 
+                
+               
+               
+                × 
+                
+               
+              
+             
+             
+              
+              Email alerts 
+               Article activity alert 
+               
+               Advance article alerts 
+               
+               New issue alert 
+               
+               Receive exclusive offers and updates from Oxford Academic 
+               
+               
+                   
+               
+              
+             
+             
+             
+             
+             Related articles in 
+              
+               
+                Web of Science  
+                Google Scholar  
+               
+              
+             
+             
+              
+              Citing articles via 
+               
+                Web of Science (13) 
+                
+                Google Scholar 
+                
+                Crossref 
+                
+               
+              
+             
+             
+              
+                Latest   
+                Most Read   
+                Most Cited   
+              
+              
+               
+                
+                 
+                  
+                     
+                    
+                      Optimal Symmetric Ratcheting for Secure Communication 
+                      
+                    
+                     
+                     
+                    
+                   
+                     
+                    
+                      Declarative Programming with Intensional Sets in Java Using JSetL 
+                      
+                    
+                     
+                     
+                    
+                   
+                     
+                    
+                      A New Method To Find All The High-Probability Word-Oriented Truncated Differentials: Application To Midori, SKINNY And CRAFT 
+                      
+                    
+                     
+                     
+                    
+                   
+                     
+                    
+                      An Educational Data Mining System For Predicting And Enhancing Tertiary Students’ Programming Skill 
+                      
+                    
+                     
+                     
+                    
+                   
+                     
+                    
+                      Low-Data Cryptanalysis On SKINNY Block Cipher 
+                      
+                    
+                     
+                     
+                    
+                   
+                  
+                 
+               
+               
+              
+              
+              
+              
+              
+             
+            
+           
+          
+         
+         
+          
+           
+            
+           
+          
+           Advertisement
+           
+          
+         
+        
+       
+       
+       
+       
+      
+     
+    
+    
+    
+    
+     
+      
+       
+        
+         
+          
+         
+        
+         Advertisement
+         
+        
+       
+      
+      
+       
+        
+         
+          About The Computer Journal  
+          Editorial Board  
+          Author Guidelines  
+          About BCS  
+          Facebook  
+        
+        
+          Twitter  
+          Purchase  
+          Recommend to your Library  
+          Advertising and Corporate Services  
+          Journals Career Network  
+         
+        
+            
+        
+        
+         
+         Online ISSN 1460-2067 
+         Print ISSN 0010-4620 
+         Copyright © 2022 British Computer Society 
+         
+        
+       
+      
+     
+     
+      
+       
+        
+         
+          
+           About Us  
+           Contact Us  
+           Careers  
+           Help  
+           Access &amp; Purchase 
+           Rights &amp; Permissions  
+           Open Access  
+           Potentially Offensive Content  
+          
+         
+         
+         Connect 
+          
+           Join Our Mailing List  
+           OUPblog  
+           Twitter  
+           Facebook  
+           YouTube  
+           Tumblr  
+          
+         
+         
+         Resources 
+          
+          Authors 
+          Librarians 
+          Societies 
+          Sponsors &amp; Advertisers 
+          Press &amp; Media 
+          Agents 
+          
+         
+         
+         Explore 
+          
+          Shop OUP Academic 
+          Oxford Dictionaries 
+          Epigeum 
+          OUP Worldwide 
+          University of Oxford 
+          
+         
+         
+         Oxford University Press is a department of the University of Oxford. It furthers the University's objective of excellence in research, scholarship, and education by publishing worldwide 
+          
+         
+        
+        
+         
+          
+          Copyright © 2021 Oxford University Press 
+          Cookie Policy 
+          Privacy Policy 
+          Legal Notice 
+          Site Map 
+          Accessibility 
+          
+         
+        
+        
+       
+      
+     
+     
+     
+    
+   
+   
+    
+     Close 
+    
+    
+     
+     This Feature Is Available To Subscribers Only 
+     Sign In or Create an Account 
+     Close 
+    
+    
+    This PDF is available to Subscribers Only View Article Abstract &amp; Purchase Options 
+     
+     For full access to this pdf, sign in to an existing account, or purchase an annual subscription. 
+     Close 
+    
+   
+   
+   
+   
+   
+   
+   
+   
+    
+   
+   
+    
+   
+   
+    
+    
+    
+ 

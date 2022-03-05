@@ -1,0 +1,693 @@
+
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+   
+   
+   
+   
+   
+   
+  The social and intellectual development of library and information science
+         
+   
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+ 
+    
+     
+      
+     
+     
+      
+      
+      
+      
+      
+     
+     
+      
+     
+    
+   
+   
+    
+     
+     Umeå University's logo  umu.sePublications 
+     
+    
+    
+     
+    
+    
+      
+       
+        
+         
+        Please wait ... 
+        
+       
+      
+    
+     
+    
+     Simple search Advanced search -  Research publicationsAdvanced search -  Student thesesStatistics  
+     
+     
+     
+      EnglishSvenskaNorsk 
+     Jump to content 
+     
+      
+       Change search
+       
+        
+         
+         Search
+         Search
+          Only documents with full text in DiVA 
+        
+       
+       
+      
+      
+      
+       
+        
+        
+        The social and intellectual development of library and information ...
+       
+       
+      
+     
+      CiteExport
+       
+        
+        
+         BibTex
+         CSL-JSON
+         CSV 1
+         CSV 2
+         CSV 3
+         CSV 4
+         CSV 5
+         CSV all metadata
+         CSV all metadata version 2
+         RIS
+         Mods
+         MARC-XML
+         ETDMS
+        
+       Link to record
+      
+        
+        
+         Permanent link 
+        http://urn.kb.se/resolve?urn=urn:nbn:se:umu:diva-943
+         
+         
+        
+         Direct link 
+        http://umu.diva-portal.org/smash/record.jsf?pid=diva2:145144
+        
+       
+      
+       
+      
+      
+       
+       
+     
+     
+      
+       Cite
+      
+       
+       
+        
+         
+          Citation style
+          
+           
+            
+             
+            
+            
+             apaieeemodern-language-association-8th-editionvancouverOther style
+            &nbsp;
+            
+             
+            
+            
+             
+              
+               apa
+               ieee
+               modern-language-association-8th-edition
+               vancouver
+               Other style
+              
+             
+            
+           
+           
+          
+         
+         
+          
+           
+           More styles
+          
+         
+         
+          Language
+          
+           
+            
+             
+            
+            
+             de-DEen-GBen-USfi-FInn-NOnn-NBsv-SEOther locale
+            &nbsp;
+            
+             
+            
+            
+             
+              
+               de-DE
+               en-GB
+               en-US
+               fi-FI
+               nn-NO
+               nn-NB
+               sv-SE
+               Other locale
+              
+             
+            
+           
+           
+          
+         
+         
+          
+           
+           More languages
+          
+         
+         
+          Output format
+          
+           
+            
+             
+            
+            
+             htmltextasciidocrtf
+            &nbsp;
+            
+             
+            
+            
+             
+              
+               html
+               text
+               asciidoc
+               rtf
+              
+             
+            
+           
+           
+          
+         
+        
+        
+         Create
+         Close
+         
+        
+         
+       
+      
+     
+      
+      
+      
+       The social and intellectual development of library and information science
+       
+        Åström, Fredrik 
+        
+         Umeå University, Faculty of Social Sciences, Sociology.
+        
+        
+       
+       
+       
+        
+       
+        
+       2006 (English)Doctoral thesis, comprehensive summary (Other academic) 
+       Abstract  The background of the project is partly found in a long tradition within library and information science (LIS) of meta-analyses on the field, partly in a science studies discussion on research fields and their contextual relation to wider academia, fields of professionalpractices and professionalization processes. The general purpose of the project is to analyze the social and intellectual development and organization of LIS; and to investigate the impact of the close relation to the practice field, as well as the relation to the academic world in general. Based on the general purpose of the project and results and interpretations of the four articles attached to the thesis, three questions were stated for discussion in the thesis proper, concerning: the effects of a dual origin and LIS as a discipline, a field of research and a field of practice, the purpose of meta-studies and implications in terms of identity and perception of LIS; and competition and cooperation with other fields of research. Because of the heterogeneous nature of LIS, a variety of methods and materials was used in the different articles; and methodological issues on limits and bias in bibliographic databases – and the implications on the perception of research areas with varying publication and citation behaviour – were discussed. The analyses were performed against a theoretical framework, providing key organizational characteristics of scientific fields, relating to social, intellectual and contextual aspects, in combination with theories on scientific and disciplinary development, professionalization and interdisciplinarity; but also, for analytical contrast: alternate theories on the development of the sciences since 1945. LIS shows two distinct paths of development: research areas developing out of other fields of research; and a disciplinary development originating out of the field of practice and institutions for educating practitioners. Analyzing meta-studies of LIS, the picture of a field with a vague identity and a diverse self-understanding, even in terms of core characteristics, emerges. The relation to the wider academic community is characterized by diffuse boundaries towards, and competition from, other fields of research. In general, LIS is a fragmented field with a multitude of wildly varying research areas; and with large variations in terms of organizational setting; which together with a vague identity and diffuse boundaries, as well as the close connections to the field of practice, might contribute towards explaining problems LIS have been experiencing, establishing itself in academia. However, there are also signs towards an integration of a number of LIS research areas, as well as an increase in interdisciplinary cooperation, contradicting theories suggesting a further fragmentation; and supporting ideas on the sciences developing towards e.g. interdisciplinarity and applicability of results. 
+       Place, publisher, year, edition, pagesUmeå: Sociologi , 2006. , p. 67 Series Akademiska avhandlingar vid Sociologiska institutionen, Umeå universitet, ISSN 1104-2508 ; 48 
+       Keywords  library and information science, sociology of science, scholarly communication, National Category Other Social Sciences not elsewhere specified  
+       IdentifiersURN: urn:nbn:se:umu:diva-943ISBN: 91-7264-197-5 (print)OAI: oai:DiVA.org:umu-943DiVA, id: diva2:145144 
+       Public defence 2006-12-15, Hörsal E, Humanisthuset, Umeå University, 10:15 
+       Opponent 
+       
+        Vakkari, Pertti, Professor
+        
+         University of Tampere, Department of Information Studies.
+        
+        
+       
+        
+       Supervisors 
+       
+        Persson, Olle, Professor
+        
+         Umeå University, Faculty of Social Sciences, Sociology.
+        
+        
+       
+        
+        
+       
+        
+       
+       Available from: 2006-11-20 Created: 2006-11-20Bibliographically approved List of papers  
+        
+         1. Visualizing library and information science concept spaces through keyword and citation based clusters
+         
+          
+           Open this publication in new window or tab &gt;&gt;Visualizing library and information science concept spaces through keyword and citation based clusters
+            
+             Åström, Fredrik
+             
+              Umeå University, Faculty of Social Sciences, Sociology.
+             
+             
+            
+            
+             
+            2002 In: Emerging frameworks and methods: Proceedings of the fourth international conference on conceptions of library and information science, 2002, p. 185-197Chapter in book (Other academic) Published Identifiersurn:nbn:se:umu:diva-5582 (URN)   
+            
+             
+              
+            
+             
+              
+            
+             
+                 Available from: 2006-11-20 Created: 2006-11-20Bibliographically approved
+          
+         
+          
+         
+        
+         2. Library and information science in context: The development of scientific fields and their relations to professional contexts
+         
+          
+           Open this publication in new window or tab &gt;&gt;Library and information science in context: The development of scientific fields and their relations to professional contexts
+            
+             Åström, Fredrik
+             
+              Umeå University, Faculty of Social Sciences, Sociology.
+             
+             
+            
+            
+             
+            2004 In: Aware and responsible: Papers of the Nordic-international colloquium on social and cultural awareness and responsibility in library, information and documentation studies (SCARLID), 2004, p. 1-27Chapter in book (Other academic) Published Identifiersurn:nbn:se:umu:diva-5583 (URN)   
+            
+             
+              
+            
+             
+              
+            
+             
+                 Available from: 2006-11-20 Created: 2006-11-20Bibliographically approved
+          
+         
+          
+         
+        
+         3. Changes in the LIS research front: time-sliced co-citation analyses of LIS journal articles, 1990-2004
+         
+          
+           Open this publication in new window or tab &gt;&gt;Changes in the LIS research front: time-sliced co-citation analyses of LIS journal articles, 1990-2004
+            
+             Åström, Fredrik
+             
+              Umeå University, Faculty of Social Sciences, Department of Sociology.
+             
+             
+            
+            
+             
+            2007 (English)In:  Journal of The American Society For Information Science And Technology, ISSN 1532-2882, E-ISSN 1532-2890, Vol. 58, no 7, p. 947-957Article in journal (Refereed) Published Abstract Based on articles published in 1990-2004 in 21 library and information science (LIS) journals, a set of cocitation analyses was performed to study changes in research fronts over the last 15 years, where LIS is at now, and to discuss where it is heading. To study research fronts, here defined as current and influential cocited articles, a citations among documents methodology was applied; and to study changes, the analyses were time-sliced into three 5-year periods. The results show a stable structure of two distinct research fields: informetrics and information seeking and retrieval (ISR). However, experimental retrieval research and user oriented research have merged into one ISR field; and IR and informetrics also show signs of coming closer together, sharing research interests and methodologies, making informetrics research more visible in mainstream LIS research. Furthermore, the focus on the Internet, both in ISR research and in informetrics-where webometrics quickly has become a dominating research area-is an important change. The future is discussed in terms of LIS dependency on technology, how integration of research areas as well as technical systems can be expected to continue to characterize LIS research, and how webometrics will continue to develop and find applications. Place, publisher, year, edition, pages Hoboken: John Wiley &amp; Sons, 2007 Keywordsinformation science, citation processes, author cocitation, stochastic model, visualization National Category Information Studies Identifiersurn:nbn:se:umu:diva-5584 (URN)10.1002/asi.20567 (DOI)000246678500003 () External cooperation:   
+            
+             
+              
+            
+             
+              
+            
+             
+                 Available from: 2006-11-20 Created: 2006-11-20 Last updated: 2018-03-15Bibliographically approved
+          
+         
+          
+         
+        
+         4. Becoming a discipline: the institutionalization of Library and Information Science in the Nordic countries
+         
+          
+           Open this publication in new window or tab &gt;&gt;Becoming a discipline: the institutionalization of Library and Information Science in the Nordic countries
+            
+             Åström, Fredrik
+             
+              Umeå University, Faculty of Social Sciences, Department of Sociology.
+             
+             
+            
+            
+             
+            2008 (English)In:  Journal of Documentation, ISSN 0022-0418, E-ISSN 1758-7379, Vol. 64, no 5, p. 721-737Article in journal (Refereed) Published Abstract Purpose - The paper's objective is to analyze the social organization of library and information Science (LIS) using the Nordic countries as example, focusing on organizational setting, research work and relations between LIS and academia as well as the field of professional practice.Design/methodology/approach - Based on a framework for analyzing scientific fields, as well as its application on LIS, aspects relating to the impact of contextual factors on research was identified and discussed based on information front, e.g. LIS institution web sites. The results were discussed, not only in relation to the framework primarily utilized, but also from a less disciplinary view on research organization, for analytical contrast.Findings - A close connection between academic affiliation and research orientation was found, reflected in organizational issues, media for communicating research and access to resources. This relates to general issues of levels of independence front other disciplines and lay groups, to what extent research is evaluated by intra-disciplinary standards and to the level of consensus on terminology and research processes.Research limitations/implications - Limiting the study to institutions in one particular geographical area, where several institutions being at an early stage of formalization, the possibility of reaching generalizable conclusions is limited. The strength of the conclusions is also somewhat restrained Clue to the nature oft he empirical material, being based on web documents with varying levels of exhaustability in terms of data provision.Originality/vallue - The intellectual organization of LIS research is well-known, whereas social and imstitutional aspects have been analyzed to a lesser degree; and with the differences in age and size of Nordic LIS institutions, they provide an interesting case of contemporary institutionalization of LIS research. Place, publisher, year, edition, pages Yorkshire: Emerald Group Publishing Limited, 2008 KeywordsResearch, Scandinavia, Information science and documentation, organizational design National Category Information Studies Computer Sciences Identifiersurn:nbn:se:umu:diva-5585 (URN)10.1108/00220410810899736 (DOI)000260562100006 ()   
+            
+             
+              
+            
+             
+              
+            
+             
+                 Available from: 2006-11-20 Created: 2006-11-20 Last updated: 2018-03-15Bibliographically approved
+          
+         
+          
+         
+       
+       
+      
+       
+        
+       Open Access in DiVA
+       
+        fulltext(832 kB)13651 downloads
+        
+         
+          
+          
+         
+        
+        
+        
+          
+          File information File name FULLTEXT01.pdfFile size 832 kBChecksum SHA-1
+          
+           
+            701758074072186a101a762b61b379d5cef9f41d6f9303a60b19f896c78c5ba74260fefc
+           
+          
+          Type fulltextMimetype application/pdf
+         
+        
+        
+       
+        
+         
+       By organisation Sociology 
+       On the subject Other Social Sciences not elsewhere specified 
+       Search outside of DiVAGoogleGoogle Scholar
+       
+       Total: 13651 downloads
+       
+        
+         The number of downloads is the sum of all downloads of full texts. It may include eg previous versions that are now no longer available
+        
+       
+       
+       
+        
+         
+       
+        
+        isbn 
+        urn-nbn
+         
+         Altmetric score 
+         isbn 
+         urn-nbn
+        
+        
+       
+       
+       Total: 6128 hits 
+       
+       
+      
+       CiteExport
+        
+         
+         
+          BibTex
+          CSL-JSON
+          CSV 1
+          CSV 2
+          CSV 3
+          CSV 4
+          CSV 5
+          CSV all metadata
+          CSV all metadata version 2
+          RIS
+          Mods
+          MARC-XML
+          ETDMS
+         
+        Link to record
+       
+         
+         
+          Permanent link 
+         http://urn.kb.se/resolve?urn=urn:nbn:se:umu:diva-943
+          
+          
+         
+          Direct link 
+         http://umu.diva-portal.org/smash/record.jsf?pid=diva2:145144
+         
+        
+       
+        
+       
+       
+        
+        
+      
+      
+       
+        Cite
+       
+        
+        
+         
+          
+           Citation style
+           
+            
+             
+              
+             
+             
+              apaieeemodern-language-association-8th-editionvancouverOther style
+             &nbsp;
+             
+              
+             
+             
+              
+               
+                apa
+                ieee
+                modern-language-association-8th-edition
+                vancouver
+                Other style
+               
+              
+             
+            
+            
+           
+          
+          
+           
+            
+            More styles
+           
+          
+          
+           Language
+           
+            
+             
+              
+             
+             
+              de-DEen-GBen-USfi-FInn-NOnn-NBsv-SEOther locale
+             &nbsp;
+             
+              
+             
+             
+              
+               
+                de-DE
+                en-GB
+                en-US
+                fi-FI
+                nn-NO
+                nn-NB
+                sv-SE
+                Other locale
+               
+              
+             
+            
+            
+           
+          
+          
+           
+            
+            More languages
+           
+          
+          
+           Output format
+           
+            
+             
+              
+             
+             
+              htmltextasciidocrtf
+             &nbsp;
+             
+              
+             
+             
+              
+               
+                html
+                text
+                asciidoc
+                rtf
+               
+              
+             
+            
+            
+           
+          
+         
+         
+          Create
+          Close
+          
+         
+          
+        
+       
+        
+       
+     
+     
+      
+     
+     
+      
+      
+       v. 2.37.7
+      | 
+       WCAG  
+      | 
+       Umeå University Library  
+      | 
+       Register in DiVA  
+      | 
+       Support  
+      | 
+       Search DiVA Portal  
+       
+      
+      
+        
+        DiVA  
+       
+        
+        Logotyp  
+         
+      
+    
+    
+     
+    
+    
+ 

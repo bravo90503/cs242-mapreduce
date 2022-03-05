@@ -1,0 +1,1069 @@
+
+ 
+  
+   
+  Interaction design - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Interaction design 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+       Interaction design, often abbreviated as IxD, is "the practice of designing interactive digital products, environments, systems, and services.": xxvii, 30  Beyond the digital aspect, interaction design is also useful when creating physical (non-digital) products, exploring how a user might interact with it. Common topics of interaction design include design, human–computer interaction, and software development. While interaction design has an interest in form (similar to other design fields), its main area of focus rests on behavior.: xxvii, 30  Rather than analyzing how things are, interaction design synthesizes and imagines things as they could be. This element of interaction design is what characterizes IxD as a design field as opposed to a science or engineering field. 
+      While disciplines such as software engineering have a heavy focus on designing for technical stakeholders, interaction design is focused on meeting the needs and optimizing the experience of users, within relevant technical or business constraints.: xviii   
+      
+       
+       
+        Contents
+        
+        
+        1 History 
+        2 Methodologies 
+          
+          2.1 Goal-oriented design 
+          2.2 Usability 
+          2.3 Personas 
+          2.4 Cognitive dimensions 
+          2.5 Affective interaction design 
+           
+        3 Five dimensions 
+          
+          3.1 Words 
+          3.2 Visual representations 
+          3.3 Physical objects or space 
+          3.4 Time 
+          3.5 Behavior 
+           
+        4 Interaction Design Association 
+        5 Related disciplines 
+        6 See also 
+        7 References 
+        8 Further reading 
+        
+       
+      History 
+      The term interaction design was coined by Bill Moggridge and Bill Verplank in the mid-1980s, but it took 10 years before the concept started to take hold.: 31  To Verplank, it was an adaptation of the computer science term user interface design for the industrial design profession. To Moggridge, it was an improvement over soft-face, which he had coined in 1984 to refer to the application of industrial design to products containing software. 
+      The earliest programs in design for interactive technologies were the Visible Language Workshop, started by Muriel Cooper at MIT in 1975, and the Interactive Telecommunications Program founded at NYU in 1979 by Martin Elton and later headed by Red Burns. 
+      The first academic program officially named "Interaction Design" was established at Carnegie Mellon University in 1994 as a Master of Design in Interaction Design. At the outset, the program focused mainly on screen interfaces, before shifting to a greater emphasis on the "big picture" aspects of interaction—people, organizations, culture, service and system. 
+      In 1990, Gillian Crampton Smith founded the Computer-related Design MA at the Royal College of Art (RCA) in London, changed in 2005 to Design Interactions, headed by Anthony Dunne. In 2001, Crampton Smith helped found the Interaction Design Institute Ivrea, a small institute in Olivetti's hometown in Northern Italy, dedicated solely to interaction design. The institute moved to Milan in October 2005 and merged with Domus Academy. In 2007, some of the people originally involved with IDII set up the Copenhagen Institute of Interaction Design (CIID). After Ivrea, Crampton Smith and Philip Tabor added the Interaction Design (IxD) track in the Visual and Multimedia Communication at Iuav, University of Venice, Italy, between 2006 and 2014. 
+      In 1998, the Swedish Foundation for Strategic Research founded The Interactive Institute—a Swedish research institute in the field of interaction design.  
+      Methodologies 
+      Goal-oriented design 
+      Goal-oriented design (or Goal-Directed design) "is concerned with satisfying the needs and desires of the users of a product or service.": xxviii, 31  
+      Alan Cooper argues in The Inmates Are Running the Asylum that we need a new approach to solving interactive software-based problems.: 1  The problems with designing computer interfaces are fundamentally different from those that do not include software (e.g., hammers). Cooper introduces the concept of cognitive friction, which is when the interface of a design is complex and difficult to use, and behaves inconsistently and unexpectedly, possessing different modes.: 22  
+      Alternatively, interfaces can be designed to serve the needs of the service/product provider. User needs may be poorly served by this approach.  
+      Usability 
+      Usability answers the question "can someone use this interface?". Jakob Nielsen describes usability as the quality attribute that describes how usable the interface is. Shneiderman proposes principles for designing more usable interfaces called "Eight Golden Rules of Interface Design"—which are well-known heuristics for creating usable systems.  
+      Personas 
+      Personas are archetypes that describe the various goals and observed behaviour patterns among users. 
+      A persona encapsulates critical behavioural data in a way that both designers and stakeholders can understand, remember, and relate to. Personas use storytelling to engage users' social and emotional aspects, which helps designers to either visualize the best product behaviour or see why the recommended design is successful.  
+      Cognitive dimensions 
+      The cognitive dimensions framework provides a vocabulary to evaluate and modify design solutions. Cognitive dimensions offer a lightweight approach to analysis of a design quality, rather than an in-depth, detailed description. They provide a common vocabulary for discussing notation, user interface or programming language design. 
+      Dimensions provide high-level descriptions of the interface and how the user interacts with it: examples include consistency, error-proneness, hard mental operations, viscosity and premature commitment. These concepts aid the creation of new designs from existing ones through design maneuvers that alter the design within a particular dimension.  
+      Affective interaction design 
+      Designers must be aware of elements that influence user emotional responses. For instance, products must convey positive emotions while avoiding negative ones. Other important aspects include motivational, learning, creative, social and persuasive influences. One method that can help convey such aspects is for example, the use of dynamic icons, animations and sound to help communicate, creating a sense of interactivity. Interface aspects such as fonts, color palettes and graphical layouts can influence acceptance. Studies showed that affective aspects can affect perceptions of usability. 
+      Emotion and pleasure theories exist to explain interface responses. These include Don Norman's emotional design model, Patrick Jordan's pleasure model and McCarthy and Wright's Technology as Experience framework.  
+      
+      
+       See also: Interaction cost
+       
+      Five dimensions 
+      The concept of dimensions of interaction design were introduced in Moggridge's book Designing Interactions. Crampton Smith wrote that interaction design draws on four existing design languages, 1D, 2D, 3D, 4D. Silver later proposed a fifth dimension, behaviour.  
+      Words 
+      This dimension defines interactions: words are the element that users interact with.  
+      Visual representations 
+      Visual representations are the elements of an interface that the user perceives; these may include but are not limited to "typography, diagrams, icons, and other graphics".  
+      Physical objects or space 
+      This dimension defines the objects or space "with which or within which users interact".  
+      Time 
+      The time during which the user interacts with the interface. An example of this includes "content that changes over time such as sound, video or animation".  
+      Behavior 
+      Behavior defines how users respond to the interface. Users may have different reactions in this interface.  
+      Interaction Design Association 
+      The Interaction Design Association was created in 2003 to serve the community. The organization has over 80,000 members and more than 173 local groups. IxDA hosts Interaction the annual interaction design conference, and the Interaction Awards.  
+      Related disciplines 
+      
+       
+        Industrial design
+        
+       
+        The core principles of industrial design overlap with those of interaction design. Industrial designers use their knowledge of physical form, color, aesthetics, human perception and desire, and usability to create a fit of an object with the person using it.
+       
+       
+      
+       
+        Human factors and ergonomics
+        
+       
+        Certain basic principles of ergonomics provide grounding for interaction design. These include anthropometry, biomechanics, kinesiology, physiology and psychology as they relate to human behavior in the built environment.
+       
+       
+      
+       
+        Cognitive psychology
+        
+       
+        Certain basic principles of cognitive psychology provide grounding for interaction design. These include mental models, mapping, interface metaphors, and affordances. Many of these are laid out in Donald Norman's influential book The Design of Everyday Things.
+       
+       
+      
+       
+        Human–computer interaction
+        
+       
+        Academic research in human–computer interaction (HCI) includes methods for describing and testing the usability of interacting with an interface, such as cognitive dimensions and the cognitive walkthrough.
+       
+       
+      
+       
+        Design research
+        
+       
+        Interaction designers are typically informed through iterative cycles of user research. User research is used to identify the needs, motivations and behaviors of end users. They design with an emphasis on user goals and experience, and evaluate designs in terms of usability and affective influence.
+       
+       
+      
+       
+        Architecture
+        
+       
+        As interaction designers increasingly deal with ubiquitous computing, urban informatics and urban computing, the architects' ability to make, place, and create context becomes a point of contact between the disciplines.
+       
+       
+      
+       
+        User interface design
+        
+       
+        Like user interface design and experience design, interaction design is often associated with the design of system interfaces in a variety of media but concentrates on the aspects of the interface that define and present its behavior over time, with a focus on developing the system to respond to the user's experience and not the other way around.
+       
+       
+      See also 
+      
+       
+       
+        Chief experience officer (CXO) 
+        Data presentation architecture 
+        Hardware interface design 
+        Human interface guidelines (user friendly computer application designs) 
+        Information architecture 
+        Instructional design 
+        Interaction Design Foundation 
+        Interaction design pattern 
+        Interactive systems engineering 
+        Interactivity 
+        Interface design 
+        Kinetic user interface 
+        Mobile interaction 
+        Service design 
+        Sonic interaction design 
+        Transgenerational design 
+        Usability 
+        User experience design 
+        User-centered design 
+        Web literacy (creating interactive experiences on the web) 
+        Media psychology 
+        Design prototyping
+       
+       
+      References 
+      
+       
+        
+        ^ a b c d e f Cooper, Alan; Reimann, Kaye; Keezer, Leiben (2007). About Face 3: The Essentials of Interaction Design. Indianapolis, Indiana: Wiley. ISBN&nbsp;978-0-470-08411-3. Retrieved 18 July 2011.  
+        ^ 
+          "Integrate business modeling and interaction design". 8 June 2007. Archived from the original on 12 February 2008.  
+        ^ 
+          "Bill Verplank - Professional". Archived from the original on 23 January 2008.  
+        ^ *
+          Moggridge, Bill (2007). Designing Interactions. MIT Press. ISBN&nbsp;978-0-262-13474-3.  
+        ^ 
+          Martin, Douglas (26 August 2013). "Red Burns, 'Godmother of Silicon Alley,' Dies at 88". The New York Times. ISSN&nbsp;0362-4331. Archived from the original on 24 May 2016. Retrieved 1 August 2016.  
+        ^ 
+          "Archived copy". Archived from the original on 30 November 2012. Retrieved 3 December 2012.}: CS1 maint: archived copy as title (link)  
+        ^ RCA Design Interactions Website Archived 10 July 2010 at the Wayback Machine  
+        ^ RCA Design Interactions About Students Staff &amp; Guests Research Graduating Projects Archived 5 December 2013 at the Wayback Machine  
+        ^ a b 
+          Cooper, Alan (2004). Inmates Are Running the Asylum, The: Why High-Tech Products Drive Us Crazy and How to Restore the Sanity. Sams Publishing. p.&nbsp;288. ISBN&nbsp;0-672-32614-0.  
+        ^ 
+          "Usability 101: Introduction to Usability". nngroup.com. Archived from the original on 1 September 2016.  
+        ^ 
+          "Shneiderman's Eight Golden Rules of Interface Design". faculty.washington.edu. Archived from the original on 9 January 2017.  
+        ^ a b 
+          Goodwin, Kim (2009). Designing for the Digital Age. Wiley. p.&nbsp;229. ISBN&nbsp;978-0-470-22910-1.  
+        ^ 
+          An, J.; Kwak, H.; Jung, S.; Salminen, J.; Admad, M.; Jansen, Bernard James (1 November 2018). "Imaginary people representing real numbers: Generating personas from online social media data". ACM Transactions on the Web. 12 (4): 27. doi:10.1145/3265986. ISSN&nbsp;1559-1131. S2CID&nbsp;53578657.  
+        ^ 
+          T. R. G. Green (2000). "Instructions and Descriptions: some cognitive aspects of programming and similar activities". CiteSeerX&nbsp;10.1.1.32.8003. }: Cite journal requires |journal= (help)  
+        ^ a b 
+          Sharp, Helen; Rogers, Yvonne; Preece, Jenny (2007). Interaction Design: Beyond Human–Computer Interaction (2nd&nbsp;ed.). John Wiley &amp; Sons. pp.&nbsp;181–217 .  
+        ^ 
+          "Four pleasures".  
+        ^ 
+          "Technology as Experience | the MIT Press".  
+        ^ 
+          Moggridge, Bill (2007). Designing Interactions. The MIT Press. ISBN&nbsp;978-0-262-13474-3.  
+        ^ 
+          Silver, Kevin. "What Puts the Design in Interaction Design". UX Matters. Archived from the original on 15 November 2011. Retrieved 6 March 2012.  
+        ^ 
+          "Interaction Design Association – IxDA". Archived from the original on 2 June 2016.  
+        ^ 
+          "Interaction Design Association - Homepage | IxDA". ixda.org. Archived from the original on 2 June 2016. Retrieved 3 June 2016.  
+        ^ 
+          "Interaction 16". Archived from the original on 17 November 2015.  
+        ^ 
+          "Home/ IxD Awards". Archived from the original on 13 October 2013.  
+        ^ a b c d 
+          "Disciplines &amp; Domains of Interaction Design". Archived from the original on 6 July 2011. Retrieved 19 July 2011.  
+       
+       
+      Further reading 
+      
+       
+        Bolter, Jay D.; Gromala, Diane (2008). Windows and Mirrors: Interaction Design, Digital Art, and the Myth of Transparency. Cambridge, Massachusetts: MIT Press. ISBN&nbsp;978-0-262-02545-4. 
+       
+        Buchenau, Marion; Suri, Jane Fulton. Experience Prototyping. DIS 2000. ISBN&nbsp;1-58113-219-0. 
+       
+        Buxton, Bill (2005). Sketching the User Experience. New Riders Press. ISBN&nbsp;0-321-34475-8. 
+       
+        Cooper, Alan (1999). The Inmates are Running the Asylum. Sams. ISBN&nbsp;0672316498. 
+       
+        Cooper, Alan; Reimann, Robert; Cronin, David; Noessel, Christopher (2014). About Face (4th&nbsp;ed.). Wiley. ISBN&nbsp;9781118766576. 
+       
+        Dawes, Brendan (2007). Analog In, Digital Out. Berkeley, California: New Riders Press. 
+       
+        Goodwin, Kim (2009). Designing for the Digital Age: How to Create Human-Centered Products and Services. ISBN&nbsp;978-0-470-22910-1. 
+       
+        Houde, Stephanie; Hill, Charles (1997). "What Do Prototypes Prototype?". In Helander, M; Landauer, T; Prabhu, P (eds.). Handbook of Human–Computer Interaction (2nd&nbsp;ed.). Elsevier Science. 
+       Jones, Matt &amp; Gary Marsden: Mobile Interaction Design, John Wiley &amp; Sons, 2006, 
+        ISBN&nbsp;0-470-09089-8. 
+       
+        Kolko, Jon (2009). Thoughts on Interaction Design. ISBN&nbsp;978-0-12-378624-1. 
+       
+        Laurel, Brenda; Lunenfeld, Peter (2003). Design Research: Methods and Perspectives. MIT Press. ISBN&nbsp;0-262-12263-4. 
+       
+        Tinauli, Musstanser; Pillan, Margherita (2008). "Interaction Design and Experiential Factors: A Novel Case Study on Digital Pen and Paper". Mobility '08: Proceedings of the International Conference on Mobile Technology, Applications, and Systems. New York: ACM. doi:10.1145/1506270.1506400. ISBN&nbsp;978-1-60558-089-0. 
+       
+        Norman, Donald (1988). The Design of Everyday Things. New York: Basic Books. ISBN&nbsp;978-0-465-06710-7. 
+       
+        Raskin, Jef (2000). The Humane Interface. ACM Press. ISBN&nbsp;0-201-37937-6. 
+       
+        Saffer, Dan (2006). Designing for Interaction. New Riders Press. ISBN&nbsp;0-321-43206-1.
+       
+      =  
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Design
+           
+         
+         
+          
+            
+            
+             Outline 
+             Designer
+             
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Disciplines
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Communicationdesign
+                  
+                    
+                    
+                     Advertising 
+                     Book design 
+                     Brand design 
+                     Exhibit design 
+                     Film title design 
+                     Graphic design 
+                      
+                       Motion 
+                       Postage stamp design 
+                       Print design
+                       
+                     Illustration 
+                     Information design 
+                     Instructional design 
+                     News design 
+                     Photography 
+                     Retail design 
+                     Signage&nbsp;/ Traffic sign design 
+                     Typography&nbsp;/ Type design 
+                     Video design 
+                     Visual merchandising
+                     
+                   
+                 
+                 
+                  Environmentaldesign
+                  
+                    
+                    
+                     Architecture 
+                     Architectural lighting design 
+                     Building design 
+                      
+                       Passive solar
+                       
+                     Ecological design 
+                     Environmental impact design 
+                     Garden design 
+                      
+                       Computer-aided
+                       
+                     Healthy community design 
+                     Hotel design 
+                     Interior architecture 
+                     Interior design 
+                      
+                       EID
+                       
+                     Keyline design 
+                     Landscape architecture 
+                      
+                       Sustainable
+                       
+                     Landscape design 
+                     Spatial design 
+                     Urban design
+                     
+                   
+                 
+                 
+                  Industrialdesign
+                  
+                    
+                    
+                     Automotive design 
+                     Automotive suspension design 
+                     CMF design 
+                     Corrugated box design 
+                     Electric guitar design 
+                     Furniture design 
+                      
+                       Sustainable
+                       
+                     Hardware interface design 
+                     Motorcycle design 
+                     Packaging and labeling 
+                     Photographic lens design 
+                     Product design 
+                     Production design 
+                     Sensory design 
+                     Service design
+                     
+                   
+                 
+                 
+                  Interactiondesign
+                  
+                    
+                    
+                     Experience design 
+                      
+                       EED
+                       
+                     Game design 
+                      
+                       Level design 
+                       Video game design
+                       
+                     Hardware interface design 
+                     Icon design 
+                     Immersive design 
+                     Information design 
+                     Sonic interaction design 
+                     User experience design 
+                     User interface design 
+                     Web design
+                     
+                   
+                 
+                 
+                  Otherapplied arts
+                  
+                    
+                    
+                     Public art design 
+                     Ceramic&nbsp;/ glass design 
+                     Fashion design 
+                      
+                       Costume design 
+                       Jewellery design
+                       
+                     Floral design 
+                     Game art design 
+                     Property design 
+                     Scenic design 
+                     Sound design 
+                     Stage/set lighting design 
+                     Textile design
+                     
+                   
+                 
+                 
+                  Otherdesign&amp; engineering
+                  
+                    
+                    
+                     Algorithm design 
+                     Behavioural design 
+                     Boiler design 
+                     Database design 
+                     Drug design 
+                     Electrical system design 
+                     Experimental design 
+                     Filter design 
+                     Geometric design 
+                     Work design 
+                     Integrated circuit design 
+                      
+                       Circuit design 
+                       Physical design 
+                       Power network design
+                       
+                     Mechanism design 
+                     Nuclear weapon design 
+                     Nucleic acid design 
+                     Organization design 
+                     Process design 
+                     Processor design 
+                     Protein design 
+                     Research design 
+                     Social design 
+                     Software design 
+                     Spacecraft design 
+                     Strategic design 
+                     Systems design
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Approaches
+               
+             
+             
+              
+                
+                
+                 Activity-centered 
+                 Adaptive web 
+                 Affective 
+                 Brainstorming 
+                 By committee 
+                 By contract 
+                 C-K theory 
+                 Closure 
+                 Co-design 
+                 Concept-oriented 
+                 Configuration 
+                 Contextual 
+                 Continuous 
+                 Cradle-to-cradle 
+                 Creative problem-solving 
+                 Creativity techniques 
+                 Critical 
+                  
+                   Design fiction
+                   
+                 Defensive 
+                 Design–bid–build 
+                 Design–build 
+                  
+                   architect-led
+                   
+                 Diffuse 
+                 Domain-driven 
+                 Ecological design 
+                 Energy neutral 
+                 Engineering design process 
+                  
+                   Probabilistic design
+                   
+                 Error-tolerant 
+                 Fault-tolerant 
+                 Framework-oriented 
+                 For assembly 
+                 For behaviour change 
+                 For manufacturability 
+                 For Six Sigma 
+                 For testing 
+                 For X 
+                 Functional 
+                 Generative 
+                 Geodesign 
+                 HCD 
+                 High-level 
+                 Inclusive 
+                 Integrated 
+                 Integrated topside 
+                 Intelligence-based 
+                 Iterative 
+                 KISS principle 
+                 Low-level 
+                 Metadesign 
+                 Mind mapping 
+                 Modular 
+                 New Wave 
+                 Object-oriented 
+                 Open 
+                 Parametric 
+                 Participatory 
+                 Platform-based 
+                 Policy-based 
+                 Process-centered 
+                 Public interest 
+                 Rational 
+                 Regenerative 
+                 Reliability engineering 
+                 Research-based 
+                 Responsibility-driven 
+                 RWD 
+                 Safe-life 
+                 Sustainable 
+                 Systemic 
+                  
+                   SOD
+                   
+                 Tableless web 
+                 Theory of constraints 
+                 Top-down and bottom-up 
+                 Transformation 
+                 Transgenerational 
+                 TRIZ 
+                 Universal 
+                  
+                   Design for All
+                   
+                 Usage-centered 
+                 Use-centered 
+                 User-centered 
+                  
+                   Empathic
+                   
+                 User innovation 
+                 Value-driven 
+                 Value sensitive 
+                  
+                   Privacy by
+                  
+                 
+                
+                 Design choice 
+                 computing 
+                 controls 
+                 culture 
+                 flow 
+                 leadership 
+                 management 
+                 marker 
+                 methods 
+                 pattern 
+                 research 
+                 science 
+                 sprint 
+                 strategy 
+                 theory 
+                 thinking
+                 
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                
+                 
+                  Tools
+                  Intellectual property
+                  Organizations
+                  Awards
+                 
+                
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Tools
+                  
+                    
+                    
+                     AAD 
+                     Architectural model 
+                     Blueprint 
+                     Comprehensive layout 
+                     CAD 
+                      
+                       CAID 
+                       Virtual home design software
+                       
+                     CAutoD 
+                     Design quality indicator 
+                     Electronic design automation 
+                     Flowchart 
+                     Mockup 
+                     Design specification 
+                     Prototype 
+                     Sketch 
+                     Storyboard 
+                     Technical drawing 
+                     HTML editor 
+                     Website wireframe
+                     
+                   
+                 
+                 
+                  Intellectualproperty
+                  
+                    
+                    
+                     Community design 
+                     Design around 
+                     Design infringement 
+                     Design patent 
+                     Fashion design copyright 
+                     Geschmacksmuster 
+                     Industrial design rights 
+                      
+                       European Union
+                      
+                     
+                   
+                 
+                 
+                  Organizations
+                  
+                    
+                    
+                     American Institute of Graphic Arts 
+                     Chartered Society of Designers 
+                     Design and Industries Association 
+                     Design Council 
+                     International Forum Design 
+                     The Design Society 
+                     Design Research Society
+                     
+                   
+                 
+                 
+                  Awards
+                  
+                    
+                    
+                     European Design Award 
+                     German Design Award 
+                     Good Design Award (Museum of Modern Art) 
+                     Good Design Award (Chicago Athenaeum) 
+                     Graphex 
+                     IF Product Design Award 
+                     James Dyson Award 
+                     Prince Philip Designers Prize
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Related topics
+               
+             
+             
+              
+                
+                
+                 Aesthetics 
+                 Agile 
+                 Concept art 
+                 Conceptual design 
+                 Creative industries 
+                 Cultural icon 
+                 .design 
+                 Enterprise architecture 
+                 Form factor 
+                 Futures studies 
+                 Indie design 
+                 Innovation management 
+                 Intelligent design 
+                 Lean startup 
+                 New product development 
+                 OODA loop 
+                 Philosophy of design 
+                 Process simulation 
+                 Slow design 
+                 STEAM fields 
+                 Unintelligent design 
+                 Visualization 
+                 Wicked problem
+                 
+                
+                 Design brief 
+                 change 
+                 classic 
+                 competition 
+                  
+                   architectural 
+                   student
+                   
+                 director 
+                 education 
+                 elements and principles 
+                 engineer 
+                 firm 
+                 history 
+                 knowledge 
+                 language 
+                 life 
+                 load 
+                 museum 
+                 paradigm 
+                 rationale 
+                 review 
+                 specification 
+                 studies 
+                 studio 
+                 technology
+                 
+               
+             
+            
+           
+           
+         
+         
+          
+            
+            
+              Commons  
+              Wikibooks  
+              Wikinews  
+              Wikiquote  
+              Wikisource  
+              Wiktionary 
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Interaction_design&amp;oldid=1060138915"
+     
+     
+    
+     
+      Categories: 
+      
+       Human–computer interaction
+       Design
+       Technical communication
+       Usability
+       Multimodal interaction
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 maint: archived copy as title
+       Webarchive template wayback links
+       CS1 errors: missing periodical
+       Use dmy dates from December 2020
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       Deutsch
+       Español
+       فارسی
+       Français
+       한국어
+       Italiano
+       עברית
+       Nederlands
+       日本語
+       Norsk bokmål
+       Polski
+       Português
+       Русский
+       Svenska
+       Українська
+       Tiếng Việt
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 13 December 2021, at 18:17&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

@@ -1,0 +1,1318 @@
+
+ 
+  
+   
+  Abnormal psychology - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Abnormal psychology 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Sub-discipline of psychology
+       
+      
+      
+       
+        
+         Part of a series on
+        
+        
+         Psychology
+        
+        
+         
+        
+        
+          
+          
+           Outline 
+           History 
+           Subfields
+          
+        
+        
+          
+          
+           
+            Basic types
+           
+            
+            
+             Abnormal 
+             Behavioral 
+             Behavioral genetics 
+             Biological 
+             Cognitive/Cognitivism 
+             Comparative 
+             Cross-cultural 
+             Cultural 
+             Differential 
+             Developmental 
+             Evolutionary 
+             Experimental 
+             Mathematical 
+             Neuropsychology 
+             Personality 
+             Positive 
+             Psychodynamic 
+             Quantitative 
+             Social
+            
+           
+           
+        
+        
+          
+          
+           
+            Applied psychology
+           
+            
+            
+             Applied behavior analysis 
+             Clinical 
+             Community 
+             Consumer 
+             Counseling 
+             Critical 
+             Educational 
+             Environmental 
+             Ergonomics 
+             Forensic 
+             Health 
+             Humanistic 
+             Industrial and organizational 
+             Psychometrics 
+             Legal 
+             Medical 
+             Military 
+             Music 
+             Occupational health 
+             Political 
+             Religion 
+             School 
+             Sport 
+             Traffic
+            
+           
+           
+        
+        
+          
+          
+           
+            Lists
+           
+            
+            
+             Disciplines 
+             Organizations 
+             Psychologists 
+             Psychotherapies 
+             Publications 
+             Research methods 
+             Theories 
+             Timeline 
+             Topics
+            
+           
+           
+        
+        
+          
+          
+           &nbsp;Psychology portal
+          
+        
+        
+         
+          
+           
+            v
+            t
+            e
+           
+          
+        
+       
+       
+      Abnormal psychology is the branch of psychology that studies unusual patterns of behavior, emotion and thought, which could possibly be understood as a mental disorder. Although many behaviors could be considered as abnormal, this branch of psychology typically deals with behavior in a clinical context.: 1–4  There is a long history of attempts to understand and control behavior deemed to be aberrant or deviant (statistically, functionally, morally or in some other sense), and there is often cultural variation in the approach taken. The field of abnormal psychology identifies multiple causes for different conditions, employing diverse theories from the general field of psychology and elsewhere, and much still hinges on what exactly is meant by "abnormal". There has traditionally been a divide between psychological and biological explanations, reflecting a philosophical dualism in regard to the mind-body problem. There have also been different approaches in trying to classify mental disorders. Abnormal includes three different categories; they are subnormal, supernormal and paranormal. 
+      The science of abnormal psychology studies two types of behaviors: adaptive and maladaptive behaviors. Behaviors that are maladaptive suggest that some problem(s) exist, and can also imply that the individual is vulnerable and cannot cope with environmental stress, which is leading them to have problems functioning in daily life in their emotions, mental thinking, physical actions and talks. Behaviors that are adaptive are ones that are well-suited to the nature of people, their lifestyles and surroundings, and to the people that they communicate with, allowing them to understand each other. 
+      Clinical psychology is the applied field of psychology that seeks to assess, understand, and treat psychological conditions in clinical practice. The theoretical field known as abnormal psychology may form a backdrop to such work, but clinical psychologists in the current field are unlikely to use the term abnormal in reference to their practice. Psychopathology is a similar term to abnormal psychology but has more of an implication of an underlying pathology (disease process), and as such is a term more commonly used in the medical specialty known as psychiatry.  
+      
+       
+       
+        Contents
+        
+        
+        1 History 
+          
+          1.1 Humors 
+          1.2 Asylums 
+          1.3 Deinstitutionalisation 
+           
+        2 Explaining abnormal behaviour 
+          
+          2.1 Supernatural explanations 
+          2.2 Biological explanations 
+          2.3 Psychological explanations 
+            
+            2.3.1 Irrational beliefs 
+            2.3.2 Sociocultural influences 
+             
+          2.4 Multiple causality 
+          2.5 Recent concepts of abnormality 
+            
+            2.5.1 Examples 
+             
+           
+        3 Approaches 
+        4 Classification 
+          
+          4.1 DSM-5 
+          4.2 Section I (DSM-5 Basics) 
+          4.3 Section II (Diagnostic Criteria and Codes) 
+          4.4 Section III (Emerging Measures and Models) 
+          4.5 ICD-10 
+          4.6 ICD-11 
+           
+        5 Perspectives of abnormal psychology 
+        6 Cause 
+          
+          6.1 Genetics 
+          6.2 Biological causal factors 
+          6.3 Socio-cultural factors 
+          6.4 Systemic factors 
+          6.5 Biopsychosocial factors 
+           
+        7 Therapies 
+        8 See also 
+        9 Notes 
+        10 References 
+        11 Further reading 
+        12 External links 
+        
+       
+      History 
+      
+      
+       Main article: History of mental disorders
+       
+      Humors 
+      Hippocrates (460-377 B.C.E.), hypothesized that the body and mind become unwell when the vital fluids in the body become unbalanced. These fluids include black bile, yellow bile, phlegm, and blood. Too much phlegm causes a person to be fatigued, too much black bile causes depression, yellow bile causes a quick temper, and too much blood causes optimism, cheerfulness, and confidence.  
+      Asylums 
+      The act of placing mentally ill individuals in a separate facility known as an asylum dates to 1547, when King Henry VIII of England established the St. Mary of Bethlehem asylum in London. This hospital, nicknamed Bedlam, was famous for its deplorable conditions. Asylums remained popular throughout the Middle Ages and the Renaissance era. These early asylums were often in miserable conditions. Patients were seen as a "burden" to society, locked away and treated almost like beasts to be dealt with rather than patients needing treatment. However, many of the patients received helpful medical treatment. There was scientific curiosity into abnormal behavior although it was rarely investigated in the early asylums. Inmates in these early asylums were often put on display for profit as they were viewed as less than human. The early asylums were basically modifications of the existing criminal institutions. 
+      In the late 18th century the idea of humanitarian treatment for the patients gained much favor due to the work of Philippe Pinel in France. He pushed for the idea that the patients should be treated with kindness and not the cruelty inflicted on them as if they were animals or criminals. His experimental ideas such as removing the chains from the patients were met with reluctance. The experiments in kindness proved to be a great success, which helped to bring about a reform in the way mental institutions would be run. 
+      Institutionalization would continue to improve throughout the 19th and 20th century due to work of many humanitarians such as Dorethea Dix, and the mental hygiene movement which promoted the physical well-being of the mental patients. "Dix more than any other figure in the nineteenth century, made people in America and virtually all of Europe aware that the insane were being subjected to incredible abuses." Through this movement millions of dollars were raised to build new institutions to house the mentally ill. Mental hospitals began to grow substantially in numbers during the 20th century as care for the mentally ill increased in them. 
+      By 1939, there were over 400,000 patients in state mental hospitals in the USA. Hospital stays were normally quite long for the patients, with some individuals being treated for many years. These hospitals, while better than the asylums of the past, were still lacking in the means of effective treatment for the patients. Even though the reform movement had occurred, patients were often still met with cruel and inhumane treatment. 
+      Things began to change in the year 1946 when Mary Jane Ward published the influential book titled The Snake Pit, which was made into a popular movie of the same name. The book called attention to the conditions which mental patients faced and helped to spark concern in the general public to create more humane mental health care in these overcrowded hospitals. 
+      In this same year the National Institute of Mental Health was also created which provided support for the training of hospital employees and research into the conditions which afflicted the patients. During this period the Hill-Burton Acts was also passed which was a program that funded mental health hospitals. Along with the Community Health Services Act of 1963, the Hill-Burton Acts helped with the creation of outpatient psychiatric clinics, inpatient general hospitals, and rehabilitation and community consultation centers.  
+      Deinstitutionalisation 
+      In the late twentieth century, however, a large number of mental hospitals were closed due to lack of funding and overpopulation. In England for example only 14 of the 130 psychiatric institutions that had been created in the early 20th century remained open at the start of the 21st century. In 1963, President John F. Kennedy launched the community health movement in the United States as a "bold new approach" to mental health care, aimed at coordinating mental health services for citizens in mental health centers. In the span of 40 years, the United States was able to see an about 90 percent drop in the number of patients in Psychiatric hospitals. 
+      This trend was not only in England and the United States but worldwide with countries like Australia having too many mentally ill patients and not enough treatment facilities. Recent studies have found that the prevalence of mental illness has not decreased significantly in the past 10 years, and has in fact increased in frequency regarding specific conditions such as anxiety and mood disorders. 
+      This led to a large number of the patients being released while not being fully cured of the disorder they were hospitalized for. This became known as the phenomenon of deinstitutionalization. This movement had noble goals of treating the individuals outside of the isolated mental hospital by placing them into communities and support systems. Another goal of this movement was to avoid the potential negative adaptations that can come with long-term hospital confinements. Many professionals for example were concerned that patients would find permanent refuge in mental hospitals which would take them up when the demands of everyday life were too difficult. However, the patients moved to the community living have not fared well typically, as they often speak of how they feel "abandoned" by the doctors who used to treat them. It also has had the unfortunate effect of placing many of the patients in homelessness. Many safe havens for the deinstitutionalized mentally ill have been created, but it is nevertheless estimated that around 26.2% of people who are currently homeless have some form of a mental illness. The placing of these individuals in homelessness is of major concern to their wellbeing as the added stress of living on the streets is not beneficial for the individual to recover from the particular disorder with which they are afflicted. In fact while some of the homeless who are able to find some temporary relief in the form of shelters, many of the homeless with a mental illness "lack safe and decent shelter".  
+      Explaining abnormal behaviour 
+      People have tried to explain and control abnormal behavior for thousands of years. Historically, there have been three main approaches to abnormal behavior: the supernatural, biological, and psychological traditions.: 7  Abnormal psychology revolves around two major paradigms for explaining mental disorders, the psychological paradigm and the biological paradigm. The psychological paradigm focuses more on the humanistic, cognitive and behavioral causes and effects of psychopathology. The biological paradigm includes theories that focus more on physical factors, such as genetics and neurochemistry.  
+      Supernatural explanations 
+      In the first supernatural tradition, also called the demonological method, abnormal behaviors are attributed to agents outside human bodies. According to this model, abnormal behaviors are caused by demons, spirits, or the influences of moon, planets, and stars. During the Stone Age, trepanning was performed on those who had mental illness to literally cut the evil spirits out of the victim's head. Conversely, Ancient Chinese, Ancient Egyptians, and Hebrews believed that these were evil demons or spirits and advocated exorcism. By the time of the Greeks and Romans, mental illnesses were thought to be caused by an imbalance of the four humors, leading to draining of fluids from the brain. During the Medieval period, many Europeans believed that the power of witches, demons, and spirits caused abnormal behaviors. People with psychological disorders were thought to be possessed by evil spirits that had to be exorcised through religious rituals. If exorcism failed, some authorities advocated steps such as confinement, beating, and other types of torture to make the body uninhabitable to witches, demons, and spirits. The belief that witches, demons, and spirits are responsible for the abnormal behavior continued into the 15th century.: 8  Swiss alchemist, astrologer, and physician Paracelsus (1493–1541), on the other hand, rejected the idea that abnormal behaviors were caused by witches, demons, and spirits and suggested that people's mind and behaviors were influenced by the movements of the moon and stars.: 11  This tradition is still alive today. Some people, especially in the developing countries and some followers of religious sects in the developed countries, continue to believe that supernatural powers influence human behaviors. In Western academia, the supernatural tradition has been largely replaced by the biological and psychological traditions.: 26  
+      Supernatural traditions 
+      Throughout time, societies have proposed several explanations of abnormal behavior within human beings. Beginning in some hunter-gatherer societies, animists have believed that people demonstrating abnormal behavior are possessed by malevolent spirits. This idea has been associated with trepanation, the practice of cutting a hole into the individual's skull in order to release the malevolent spirits. Although it has been difficult to define abnormal psychology, one definition includes characteristics such as statistical infrequency. 
+      A more formalized response to spiritual beliefs about abnormality is the practice of exorcism. Performed by religious authorities, exorcism is thought of as another way to release evil spirits who cause pathological behavior within the person. In some instances, individuals exhibiting unusual thoughts or behaviors have been exiled from society or worse. Perceived witchcraft, for example, has been punished by death. Two Catholic Inquisitors wrote the Malleus Maleficarum (Latin for "The Hammer Against Witches"), which was used by many Inquisitors and witch-hunters. It contained an early taxonomy of perceived deviant behavior and proposed guidelines for prosecuting deviant individuals.  
+      Biological explanations 
+      In the biological tradition, psychological disorders are attributed to biological causes and in the psychological tradition, disorders are attributed to faulty psychological development and to social context.: 26  The medical or biological perspective holds the belief that most or all abnormal behavior can be attributed to a medical factor; assuming all psychological disorders are diseases. 
+      The Greek physician Hippocrates, who is considered to be the father of Western medicine, played a major role in the biological tradition. Hippocrates and his associates wrote the Hippocratic Corpus between 450 and 350 BC, in which they suggested that abnormal behaviors can be treated like any other disease. Hippocrates viewed the brain as the seat of consciousness, emotion, intelligence, and wisdom and believed that disorders involving these functions would logically be located in the brain.: 11  
+      These ideas of Hippocrates and his associates were later adopted by Galen, the Roman physician. Galen extended these ideas and developed a strong and influential school of thought within the biological tradition that extended well into the 18th century. 
+      Medical: Kendra Cherry states: "The medical approach to abnormal psychology focuses on the biological causes of mental illness. This perspective emphasizes understanding the underlying cause of disorders, which might include genetic inheritance, related physical disorders, infections, and chemical imbalances. Medical treatments are often pharmacological in nature, although medication is often used in conjunction with some other type of psychotherapy."  
+      Psychological explanations 
+      According to Sigmund Freud's structural model, the Id, Ego and Superego are three theoretical constructs that define the way an individual interacts with the external world as well as responding to internal forces The Id represents the instinctual drives of an individual that remain unconscious; the superego represents a person's conscience and their internalization of societal norms and morality, and finally the ego serves to realistically integrate the drives of the id with the prohibitions of the super-ego. Lack of development in the Superego, or an incoherently developed Superego within an individual, will result in thoughts and actions that are irrational and abnormal, contrary to the norms and beliefs of society.  
+      Irrational beliefs 
+      Irrational beliefs that are driven by unconscious fears, can result in abnormal behavior. Rational emotive therapy helps to drive irrational and maladaptive beliefs out of one's mind.  
+      Sociocultural influences 
+      The term sociocultural refers to the various circles of influence on the individual ranging from close friends and family to the institutions and policies of a country or the world as a whole. Discriminations, whether based on social class, income, race, and ethnicity, or gender, can influence the development of abnormal behaviour.  
+      Multiple causality 
+      The number of different theoretical perspectives in the field of psychological abnormality has made it difficult to properly explain psychopathology. The attempt to explain all mental disorders with the same theory leads to reductionism (explaining a disorder or other complex phenomena using only a single idea or perspective). Most mental disorders are composed of several factors, which is why one must take into account several theoretical perspectives when attempting to diagnose or explain a particular behavioral abnormality or mental disorder. Explaining mental disorders with a combination of theoretical perspectives is known as multiple causality. 
+      The diathesis–stress model emphasizes the importance of applying multiple causality to psychopathology by stressing that disorders are caused by both precipitating causes and predisposing causes. A precipitating cause is an immediate trigger that instigates a person's action or behavior. A predisposing cause is an underlying factor that interacts with the immediate factors to result in a disorder. Both causes play a key role in the development of a psychological disorder. For example, high neuroticism antedates most types of psychopathology.  
+      Recent concepts of abnormality 
+      
+       Statistical abnormality&nbsp;– when a certain behavior/characteristic is relevant to a low percentage of the population. However, this does not necessarily mean that such individuals are suffering from mental illness (for example, statistical abnormalities such as extreme wealth/attractiveness) 
+       Psychometric abnormality&nbsp;– Psychometric abnormality implicates abnormality as a deviation from a statistically determined norm, such as the population average IQ of 100. In this case, an IQ score less than about 70–75 may define someone as having a learning disability and suggests they will have some difficulties coping with life. However, the problems associated with a low IQ differ widely across individuals depending on their life circumstances. So, even when an individual is defined as psycho-metrically 'abnormal', this tells us little about their actual condition or problems. Furthermore, if one takes the other end of the IQ spectrum, a deviation of 30 points above the mean is generally not considered to be abnormal or to indicate the presence of mental health problems. 
+       Deviant behavior&nbsp;– this is not always a sign of mental illness, as mental illness can occur without deviant behavior, and such behavior may occur in the absence of mental illness. 
+       Combinations&nbsp;– including distress, dysfunction, distorted psychological processes, inappropriate responses in given situations and causing/risking harm to oneself.
+       
+      Examples 
+      There is a wide range of mental disorders that are considered to be forms of Abnormal Psychology. These include, but are not limited to: 
+      Schizophrenia 
+      Schizophrenia can be described as a disorder that causes extreme loss of touch with reality. The Psychotic nature of schizophrenia manifests itself through delusions, as well as auditory and visual hallucinations. Schizophrenia is known to have a genetic etiology, as well as other biological components such as brain disruptions in the prenatal development period.: 323–326  
+      Attention deficit hyperactivity disorder 
+      Attention deficit hyperactivity disorder (ADHD) is characterized by high amounts of inattention and hyperactive impulsiveness. Inattentive symptoms include not listening, careless errors, disorganization, loss of items, easily distracted, and forgetfulness. Symptoms of hyperactive impulsiveness include fidgeting, talking excessively, and interrupting others.: 225–253  
+      Antisocial personality disorder 
+      Antisocial personality disorder can be described as a cluster of personality traits that lead to specific outcomes and violate the rights of other people. These personality traits include callousness, deceitfulness, remorselessness, lack of empathy, manipulativeness, impulsiveness, and grandiosity. Additional traits may include superficial charm, sexual promiscuousness, and pathological lying. 
+      Dissociative identity disorder 
+      Dissociative identity disorder (DID) involves one individual having multiple personalities. Those with DID are described as having multiple selves that each have their own consciousness and awareness. 
+      DID has two main etiologies, which are the post-traumatic and socio-cognitive models. The post-traumatic model states that DID is caused by inescapable past trauma, such as child abuse. The child dissociates and forms alternate personalities as a coping mechanism in response to the current trauma. Even when the trauma ends, the personalities continue to disrupt the person's life longitudinally. The socio cognitive model states that people implicitly act as if they have multiple personalities and this is done to align with cultural norms. 
+      Social anxiety disorder 
+      Those with social anxiety disorder (SAD) have a very intense fear of social situations. This fear stems from the belief that the person will be evaluated negatively, or embarrass themselves. 
+      SAD is also considered to be one of the more disabling mental disorders. Symptoms of this disorder include fear in most, if not all social situations. SAD can develop after a traumatic and/or embarrassing experience has occurred while the person was being observed by other people.: 200–202  
+      Generalized anxiety disorder 
+      Generalized anxiety disorder is characterized by a constant, chronic state of worry and anxiety that is related to a large variety of situations, and is difficult to control. Additional symptoms may include irritability, fatigue, concentration difficulties, and restlessness. 
+      Specific phobia 
+      Individuals with specific phobias have an extreme fear and avoidance of various objects or situations. Specifically, fears become phobias when there is excessive and unreasonable fear that is disproportionate to the culture that the individual is in.: 199–200  Examples of specific phobias include, but are not limited to, phobias of school, blood, Injury, needles, small animals, and heights. 
+      Post-traumatic stress disorder 
+      Post-traumatic stress disorder (PTSD) is described as a failure to overcome traumatic experiences. PTSD can manifest a large variety of symptoms including, but not limited to Nightmares, flashbacks, avoidance and/or physiological reactions related to stimuli regarding the trauma, shame, guilt, anger, hypervigilance, and social withdrawal. 
+      PTSD symptoms can arise due to various experiences that involve actual or threatened violence, injury, or death. Firsthand experience, witnessing, or learning about traumatic experiences can possibly lead to the development of PTSD.  
+      Approaches 
+      
+       Somatogenic&nbsp;– abnormality is seen as a result of biological disorders in the brain. This approach has led to the development of radical biological treatments, e.g. lobotomy. 
+       Psychogenic&nbsp;– abnormality is caused by psychological problems. Psychoanalytic (Freud), Cathartic, Hypnotic and Humanistic Psychology (Carl Rogers, Abraham Maslow) treatments were all derived from this paradigm. This approach has, as well, led to some esoteric treatments: Franz Mesmer used to place his patients in a darkened room with music playing, then enter it wearing a flamboyant outfit and poke the "infected" body areas with a stick.
+       
+      Classification 
+      DSM-5 
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2013) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      The standard abnormal psychology and psychiatry reference book in North America is the Diagnostic and Statistical Manual of the American Psychiatric Association. The current version of the book is known as the DSM-5. It lists a set of disorders and provides detailed descriptions on what constitutes a mental disorder. 
+      The DSM-5 identifies three key elements that must be present to constitute a mental disorder. These elements include:  
+      
+       Symptoms that involve disturbances in behavior, thoughts, or emotions. 
+       Symptoms associated with personal distress or impairment. 
+       Symptoms that stem from internal dysfunctions (i.e. specifically having biological and/or psychological roots).
+       
+      The DSM-5 uses three main sections to organize its contents. These sections include I,II, and III. Section I includes the introduction, use, and basics of the DSM-5. Section II includes diagnostic criteria and codes. Section III includes emerging measures and models.  
+      Section I (DSM-5 Basics) 
+      Section I of the DSM-5 briefly prefaces purpose, content, structure, and use. This includes basics, introductions and cautionary statements for forensic use. Information is also given about the revision and review processes as well as the DSM-5's goals to harmonize with the ICD-11. An explanation regarding the change from the previous multi-axial classification system to the current three section system is also included here.  
+      Section II (Diagnostic Criteria and Codes) 
+      Section II of the DSM-5 Contains a wide range of diagnostic criteria and codes used for establishing, and diagnosing the vast amount of abnormal psychological constructs. This sections replaced the bulk of the axis system in the previous DSM versions and includes the following categories:  
+      
+       Diagnostic Criteria and codes
+       
+      
+       Neurodevelopmental Disorders 
+       Schizophrenia Spectrum and Other Psychotic Disorders 
+       Bipolar and related Disorders 
+       Depressive Disorders 
+       Anxiety Disorders 
+       Obsessive-Compulsive and related Disorders 
+       Trauma and Stressor related disorders 
+       Dissociative Disorders 
+       Somatic Symptom and Related Disorders 
+       Feeding and eating Disorders 
+       Elimination Disorders 
+       Sleep Wake Disorders 
+       Sexual Dysfunctions 
+       Gender Dysphoria 
+       Disruptive, Impulse control, and Conduct Disorders 
+       Substance related and addictive Disorders 
+       Neurocognitive Disorders 
+       Personality Disorders 
+       Paraphilic Disorders 
+       Medication induced movement disorders and effects of medication.
+       
+      
+       Other Mental disorders and additional Codes
+       
+      These categories are used to organize the various Abnormal psychological concepts based on their similarity.  
+      Section III (Emerging Measures and Models) 
+      Section III of the DSM-5 contains the various methods and strategies that are used to make clinical decisions, understand culture, and explore emerging diagnoses.  
+      ICD-10 
+      The major international nosologic system for the classification of mental disorders can be found in the International Classification of Diseases, 10th revision (ICD-10). The ICD-10 has been used by World Health Organization (WHO) Member States since 1994. Chapter five covers some 300 mental and behavioral disorders. The ICD-10's chapter five has been influenced by APA's DSM-IV and there is a great deal of concordance between the two. Beginning in January 2022, the ICD-11 will replace the ICD-10 in WHO member states. WHO maintains free access to the ICD-10 Online. Below are the main categories of disorders:  
+      
+       F00–F09 Organic, including symptomatic, mental disorders 
+       F10–F19 Mental and behavioral disorders due to psychoactive substance use 
+       F20–F29 Schizophrenia, schizotypal and delusional disorders 
+       F30–F39 Mood  disorders 
+       F40–F48 Neurotic, stress-related and somatoform disorders 
+       F50–F59 Behavioral syndromes associated with physiological disturbances and physical factors 
+       F60–F69 Disorders of adult personality and behavior 
+       F70–F79 Mental retardation 
+       F80–F89 Disorders of psychological development 
+       F90–F98 Behavioral and emotional disorders with onset usually occurring in childhood and adolescence 
+       F99 Unspecified mental disorder
+       
+      ICD-11 
+      The ICD-11 is the most recent version of the International Classification of Diseases. The Mental, behavioral, or Neurodevelopmental disorders section highlights forms of abnormal psychology. 
+      Mental, behavioral, or Neurodevelopmental disorders  
+      
+       6A00-6A0Z Neurodevelopmental disorders 
+       6A20-6A2Z Schizophrenia or other primary psychotic disorders 
+       6A40-6A4Z Catatonia 
+       6A60-6A8Z Mood Disorders 
+       6B00-6B0Z Anxiety or fear related disorders 
+       6B20-6B2Z Obsessive-compulsive or related disorders 
+       6B40-6B4Z Disorders specifically associated with stress 
+       6B60-6B6Z Dissociative disorders 
+       6B80-6B8Z Feeding or eating disorders 
+       6C00-6C0Z Elimination Disorders 
+       6C20-6C2Z Disorders of bodily distress or bodily experience 
+       Disorders due to substance use or addictive behaviors 
+       6C70-6C7Z Impulse control disorders 
+       6C90-6C9Z Disruptive behavior or dissocial disorders 
+       6D10-6E68 personality disorders and related traits 
+       6D30-6D3Z Paraphilic disorders 
+       6D50-6D5Z Factitious disorders 
+       6D70-6E0Z Neurocognitive disorders 
+       6E20-6E2Z Mental or behavioral disorders associated with pregnancy, childbirth or the puerperium 
+       6E40.0-6E40.Z (6E40) Psychological or behavioral factors affecting disorders or diseases classified elsewhere 
+       6E60-6E6Z secondary mental or behavioral syndromes associated with disorders or diseases classified elsewhere
+       
+      Perspectives of abnormal psychology 
+      Psychologists may use different perspectives to try to get better understanding on abnormal psychology. Some of them may just concentrate on a single perspective. But the professionals prefer to combine two or three perspectives together in order to get significant information for better treatments.  
+      
+       Behavioral&nbsp;– the perspective focus on observable behaviors 
+       Medical&nbsp;– the perspective focus on biological causes on mental illness 
+       Cognitive&nbsp;– the perspective focus on how internal thoughts, perceptions and reasoning contribute to psychological disorders
+       
+      Cause 
+      Genetics 
+      
+       Investigated through family studies, mainly of monozygotic (identical) and dizygotic (fraternal) twins, often in the context of adoption. Monozygotic twins should be more likely than dizygotic twins to have the same disorder because they share 100% of their genetic material, whereas dizygotic twins share only 50%. For many disorders, this is exactly what research shows. But given that monozygotic twins share 100% of their genetic material, it may be expected of them to have the same disorders 100% of the time, but in fact they have the same disorders only about 50% of the time 
+       These studies allow calculation of a heritability coefficient. 
+       Genetic vulnerabilities (Diathesis stress Model): 290–291 
+       
+      Biological causal factors 
+      
+       Neurotransmitter  and hormonal imbalances in the brain 
+       Constitutional liabilities  
+       Brain dysfunction and neural plasticity 
+       Physical deprivation or disruption 
+       
+      Socio-cultural factors 
+      
+       Effects of urban/rural dwelling, gender and minority status on state of mind 
+       Generalizations about cultural practices and beliefs may fail to capture the diversity that exists within and across cultural groups, so we must be extremely careful not to stereotype individuals of any cultural group
+       
+      
+       Experiences with child physical and or sexual abuse. 
+       Encounters with environments that involve actual or threatened death
+       
+      Systemic factors 
+      
+       Family systems 
+       Negatively Expressed Emotion playing a part in schizophrenic relapse and anorexia nervosa.
+       
+      Biopsychosocial factors 
+      
+       Illness dependent on stress "triggers".
+       
+      Therapies 
+      
+       
+        Psychoanalysis (Freud)
+       
+       
+      Psychoanalytic theory is heavily based on the theory of the neurologist Sigmund Freud. These ideas often represented repressed emotions and memories from a patient's childhood. According to psychoanalytic theory, these repressions cause the disturbances that people experience in their daily lives and by finding the source of these disturbances, one should be able to eliminate the disturbance itself. This is accomplished by a variety of methods, with some popular ones being free association, hypnosis, and insight. The goal of these methods is to induce a catharsis or emotional release in the patient, which should indicate that the source of the problem has been tapped and it can then be helped. Freud's psychosexual stages also played a key role in this form of therapy, as he would often believe that problems the patient was experiencing were due to them becoming stuck or "fixated" in a particular stage. Dreams also played a major role in this form of therapy as Freud viewed dreams as a way to gain insight into the unconscious mind. Patients were often asked to keep dream journals to bring in for discussion during the next therapy session. There are many potential problems associated with this style of therapy, including resistance to the repressed memory or feeling, and negative transference onto the therapist. Psychoanalysis was carried on by many after Freud, including his daughter Ana Freud and Jacques Lacan. These and many others have gone on to elaborate on Freud's original theory and to add their own take on defense mechanisms or dream analysis. While psychoanalysis has fallen out of favor to more modern forms of therapy it is still used by some clinical psychologists to varying degrees.  
+      
+       
+        Behavioral therapy (Wolpe)
+       
+       
+      Behavior therapy relies on the principles of behaviorism, such as involving classical and operant conditioning. Behaviorism arose in the early 20th century due to the work of psychologists such as James Watson and B. F. Skinner. Behaviorism states that all behaviors humans do is because of a stimulus and reinforcement. While this reinforcement is normally for good behavior, it can also occur for maladaptive behavior. In this therapeutic view, the patients maladaptive behavior has been reinforced which will cause the maladaptive behavior to be repeated. The goal of the therapy is to reinforce less maladaptive behaviors so that with time these adaptive behaviors will become the primary ones in the patient.  
+      
+       
+        Humanistic therapy (Rogers)
+       
+       
+      Humanistic therapy aims to achieve self-actualization (Carl Rogers, 1961). In this style of therapy, the therapist will focus on the patient themselves as opposed to the problem which the patient is afflicted with. The goal of this therapy is, by treating the patient as "human" instead of client, to get to the source of the problem and resolve the problem in an effective manner. Humanistic therapy has been on the rise in recent years and has been associated with numerous positive benefits. It is considered to be one of the core elements needed therapeutic effectiveness and a significant contributor to not only the well being of the patient but society as a whole. Some say that all of the therapeutic approaches today draw from the humanistic approach in some regard and that humanistic therapy is the best way for treat a patient. Humanistic therapy can be used on people of all ages; however, it is very popular among children in its variant known as "play therapy".  
+      
+       
+        Cognitive behavioural therapy (Ellis and Beck)
+       
+       
+      Cognitive behavioural therapy (CBT) aims to influence thought and cognition (Beck, 1977). This form of therapy relies on not only the components of behavioral therapy as mentioned before, but also the elements of cognitive psychology.: 101–102  This relies on not only the clients behavioral problems that could have arisen from conditioning, but also their negative schemas and distorted perceptions of the world around them. These negative schemas may cause distress in the life of the patient; for example, the schemas may give them unrealistic expectations for how well they should perform at their job, or how they should look physically. When these expectations are not met it will often result in maladaptive behaviors such as depression, obsessive compulsions, and anxiety. With CBT, the goal is to change the schemas that are causing the stress in a person's life and replace them with more realistic ones. Once the negative schemas have been replaced, it will hopefully cause a remission of the patients symptoms. CBT is considered particularly effective in the treatment of depression and has even been used lately in group settings. It is felt that using CBT in a group setting aids in giving its members a sense of support and decreasing the likelihood of them dropping out of therapy before the treatment has had time to work properly. CBT has been found to be an effective treatment for many patients even those who do not have diseases and disorders typically thought of as psychiatric ones. For example, patients with the disease multiple sclerosis have found a lot of help using CBT. The treatment often helps the patients cope with the disorder they have and how they can adapt to their new lives without developing new problems such as depression or negative schemas about themselves. 
+      According to RAND, therapies are difficult to provide to all patients in need. A lack of funding and understanding of symptoms provides a major roadblock that is not easily avoided. Individual symptoms and responses to treatments vary, creating a disconnect between patient, society and care givers/professionals. 
+      Play therapy (Humanistic) 
+      Children are often sent to therapy due to outbursts that they have in a school or home setting; the theory is that by treating the child in a setting that is similar to the area that they are having their disruptive behavior, the child will be more likely to learn from the therapy and have an effective outcome. In play therapy, the clinicians will "play" with their client, usually with toys, or a tea party. Playing is the typical behavior of a child and therefore playing with the therapist will come as a natural response to the child. In playing together the clinician will ask the patient questions, but due to the setting, the questions seem less intrusive and therapeutic and more like a normal conversation. This should help the patient realize issues they have and confess them to the therapist with less difficulty than they may experience in a traditional counselling setting. 
+      Play therapy involves a therapist observing a child, as the child plays with toys and interacts with their surrounding environment. The therapist plays an observational, as well as an interactional role in the intervention. This process allows for the child to enact their problems through play, and speak more comfortably with the therapist.: 102–103  Although somewhat controversial, due to data that suggests a lack of effectiveness in children older than 10 years old, play therapy has been shown to be a valuable treatment. This therapy is particularly useful for younger children under the age of 10, who are consciously aware of their environment. Play therapy is important, seeing as many therapeutic interventions that are effective for adults have shown to be less effective for children. 
+      Family systems therapies 
+      Family systems therapies are based on the belief that children's problems revolve around problems that occur within the family. Family systems therapy attempts to improve the relations between multiple people involved in specific families via therapeutic intervention. For the best effect, it is recommended that the entire family be included in the therapy. The treatments include family management skill development and child-parent attachment development. These interventions help to improve family functioning.: 102–103  
+      Family management skill development (Family systems therapy) 
+      Family management skills can be taught by family therapists, and include methods such as improving supervision, disciplinary practices, and creating environments that allow for positive interactions between parents and children.: 102–103  
+      Child-parent attachment development (Family systems therapy) 
+      Child-parent attachment development involves altering or creating relationships between parents and children in attempts to create secure bases for the child and to facilitate trust, independence, and positive perceptions of family relationships. These goals are often achieved by creating understanding regarding behaviors, creating opportunities for attachment, and increasing the family's ability to think about their history and relationships.  
+      See also 
+      
+      
+       Main article: Outline of abnormal psychology
+       
+      
+       
+       
+        Abuse 
+        Cognitive behavioral therapy 
+        International Classification of Diseases 
+        Insanity defense 
+        Mental Health Act 1983 
+        Mental Health Act 2007 
+        M'Naghten Rules 
+        Models of abnormality 
+        Outline of psychology 
+        Parapsychology 
+        Seasonal affective disorder 
+        Zero stroke 
+        Society of Clinical Child &amp; Adolescent Psychology 
+        List of organizations in psychology
+       
+       
+      Notes 
+      
+       
+       
+         
+         ^ "Abnormal Psychology" (PDF). Pearson International Schools.  
+         ^ a b c d e f g 
+           Barlow D (2012). Abnormal Psychology: An Integrative Approach. Belmont, CA, USA: Wadsworth Cengage Learning. ISBN&nbsp;978-1-111-34362-0.  
+         ^ 
+           Bridges JW (1930). "What is abnormal psychology?". The Journal of Abnormal and Social Psychology. 24 (4): 430–2. doi:10.1037/h0074965.  
+         ^ 
+           Sarason IG, Sarason BR. Abnormal Psychology (6th&nbsp;ed.). USA: Prentice Hall.  
+         ^ 
+           Stanghellini G (June 2013). "Psychopathology: re-humanizing psychiatry". Acta Psychiatrica Scandinavica. 127 (6): 436–7. doi:10.1111/acps.12091. PMID&nbsp;23663272.  
+         ^ 
+           Nevid J, Rathus S, Greene B (2018). Abnormal Psychology in a changing world. New York, NY: Pearson. p.&nbsp;11. ISBN&nbsp;978-0-134-44758-2.  
+         ^ a b 
+           Nolen-Hoeksema S (2013). Abnormal Psychology (6th&nbsp;ed.). Boston: McGraw-Hill. ISBN&nbsp;978-0078035388.  
+         ^ a b c 
+           Fadul JA (2014). Encyclopedia of Theory &amp; Practice in Psychotherapy &amp; Counseling. Raleigh, NC: Lulu Press Inc. p.&nbsp;3. ISBN&nbsp;978-1-312-34920-9.  
+         ^ 
+           Rimm DC, Somervill JW (1977). Abnormal Psychology. New York: Academic Press. ISBN&nbsp;978-0-12-588840-0.  
+         ^ a b c 
+           Osborn LA (December 2009). "From beauty to despair: the rise and fall of the American State Mental Hospital". The Psychiatric Quarterly. 80 (4): 219–31. doi:10.1007/s11126-009-9109-3. PMID&nbsp;19633958. S2CID&nbsp;11812547.  
+         ^ 
+           Clifford K (2010). "The thin blue line of mental health in Australia". Police Practice and Research. 11 (4): 355–370. doi:10.1080/15614263.2010.496561. S2CID&nbsp;72525851.  
+         ^ 
+           Page J, Petrovich J, Kang SY (December 2012). "Characteristics of homeless adults with serious mental illnesses served by three street-level federally funded homelessness programs". Community Mental Health Journal. 48 (6): 699–704. doi:10.1007/s10597-011-9473-y. PMID&nbsp;22370894. S2CID&nbsp;27447526.  
+         ^ 
+           Jones BE (1986). Treating the Homeless: Urban Psychiatry's Challenge. Washington, D.C.: American Psychiatric Press. ISBN&nbsp;978-0-88048-080-2.  
+         ^ Hansell &amp; Damour 2005, pp.&nbsp;Ch 3. pp. 30–33  
+         ^ 
+           Davison GC (2008). Abnormal Psychology. Toronto: Veronica Visentin. p.&nbsp;3. ISBN&nbsp;978-0-470-84072-6.  
+         ^ 
+           Herzig T (2010). "Malleus maleficarum (review)". Magic, Ritual, and Witchcraft. 5 (1): 135–138. doi:10.1353/mrw.0.0161. ISSN&nbsp;1940-5111. S2CID&nbsp;161336612.  
+         ^ 
+           "Perspectives: Medical". A Beginner's Guide to Abnormal Psychology.  
+         ^ 
+           Cherry K (May 9, 2016). "What Is Abnormal Psychology?". Verywell. Retrieved 2017-03-10.  
+         ^ a b 
+           Boag S (July 1, 2014). "Ego, drives, and the dynamics of internal objects". Frontiers in Psychology. 5 (5): 666. doi:10.3389/fpsyg.2014.00666. PMC&nbsp;4076885. PMID&nbsp;25071640.  
+         ^ a b 
+           Turner MJ (2016-09-20). "Rational Emotive Behavior Therapy (REBT), Irrational and Rational Beliefs, and the Mental Health of Athletes". Frontiers in Psychology. 7: 1423. doi:10.3389/fpsyg.2016.01423. PMC&nbsp;5028385. PMID&nbsp;27703441.  
+         ^ 
+           Whitbourne SK, Halgin RP (2013). Abnormal Psychology: Clinical Perspectives on Psychological Disorders (7th&nbsp;ed.). New York, NY: McGraw-Hill Higher Education. ISBN&nbsp;978-0-07-803527-2.  
+         ^ a b Hansell &amp; Damour 2005, pp.&nbsp;Ch 3. pp. 37  
+         ^ 
+           Zvolensky MJ, Kotov R, Antipova AV, Schmidt NB (April 2005). "Diathesis stress model for panic-related distress: a test in a Russian epidemiological sample". Behaviour Research and Therapy. 43 (4): 521–32. doi:10.1016/j.brat.2004.09.001. PMID&nbsp;15701361.  
+         ^ 
+           Jeronimus BF, Kotov R, Riese H, Ormel J (October 2016). "Neuroticism's prospective association with mental disorders halves after adjustment for baseline symptoms and psychiatric history, but the adjusted association hardly decays with time: a meta-analysis on 59 longitudinal/prospective studies with 443 313 participants". Psychological Medicine. 46 (14): 2883–2906. doi:10.1017/S0033291716001653. PMID&nbsp;27523506. S2CID&nbsp;23548727.  
+         ^ Bennett 2003, pp.&nbsp;3–5  
+         ^ a b c d e f g h i 
+           Phares V. Understanding abnormal Child Psychology. Haboken NJ: Wiley.  
+         ^ a b 
+           Sánchez de Ribera O, Kavish N, Katz IM, Boutwell BB, Back M (September 2019). "Untangling Intelligence, Psychopathy, Antisocial Personality Disorder, and Conduct Problems: A Meta–Analytic Review". European Journal of Personality. 33 (5): 529–564. doi:10.1002/per.2207. ISSN&nbsp;0890-2070. S2CID&nbsp;202253144.  
+         ^ a b c 
+           Boysen GA, VanBergen A (January 2013). "A review of published research on adult dissociative identity disorder: 2000-2010". The Journal of Nervous and Mental Disease. 201 (1): 5–11. doi:10.1097/NMD.0b013e31827aaf81. PMID&nbsp;23274288. S2CID&nbsp;25189072.  
+         ^ a b 
+           McEnery C, Lim MH, Tremain H, Knowles A, Alvarez-Jimenez M (June 2019). "Prevalence rate of social anxiety disorder in individuals with a psychotic disorder: A systematic review and meta-analysis". Schizophrenia Research. 208: 25–33. doi:10.1016/j.schres.2019.01.045. PMID&nbsp;30722947. S2CID&nbsp;73425627.  
+         ^ 
+           Tyrer P, Baldwin D (December 2006). "Generalised anxiety disorder". Lancet. 368 (9553): 2156–66. doi:10.1016/S0140-6736(06)69865-6. PMID&nbsp;17174708. S2CID&nbsp;18959359.  
+         ^ a b 
+           Ipser JC, Singh L, Stein DJ (July 2013). "Meta-analysis of functional brain imaging in specific phobia". Psychiatry and Clinical Neurosciences. 67 (5): 311–22. doi:10.1111/pcn.12055. PMID&nbsp;23711114. S2CID&nbsp;46155186.  
+         ^ a b c d 
+           Kube T, Berg M, Kleim B, Herzog P (June 2020). "Rethinking post-traumatic stress disorder - A predictive processing perspective". Neuroscience and Biobehavioral Reviews. 113: 448–460. doi:10.1016/j.neubiorev.2020.04.014. PMID&nbsp;32315695. S2CID&nbsp;215814023.  
+         ^ 
+           Kraepelin E (1883). Compendium der Psychiatrie  (in German). Leipzig: Abel. OCLC&nbsp;604107351.  
+         ^ Bennett 2003, pp.&nbsp;7–10  
+         ^ a b c d e f g h i j k l m n o p q r s t u v w x y z aa ab ac ad ae af 
+           American Psychiatric Association (2013). Diagnostic and Statistical Manual of Mental Disorders (DSM-5). American Psychiatric Publishing.  
+         ^ 
+           Schacter D, Gilbert D, Wegner D (2010). "Identifying Psychological Disorders: What is Abnormal?". Psychology (2nd&nbsp;ed.). New York, NY: Worth Publishers. ISBN&nbsp;978-1-4292-3719-2.  
+         ^ 
+           Reed GM, First MB, Kogan CS, Hyman SE, Gureje O, Gaebel W, et&nbsp;al. (February 2019). "Innovations and changes in the ICD-11 classification of mental, behavioural and neurodevelopmental disorders". World Psychiatry. 18 (1): 3–19. doi:10.1002/wps.20611. PMC&nbsp;6313247. PMID&nbsp;30600616.  
+         ^ a b c d e f g h i j k 
+           ICD-10: international statistical classification of diseases and related health problems. (10th revision, Fifth edition.). World Health Organization. 2016.  
+         ^ a b c d e f g h i j k l m n o p q r s t u v 
+           World Health Organization. "International Classification of Diseases for mortality and Morbidity Statistics (ICD-11)". WHO. Archived from the original on 2018-06-19.  
+         ^ 
+           Davila J, Fincham FD. "Abnormal Psychology" (PDF). Psychology.  
+         ^ 
+           Nevid J, Rathus S, Greene B (2018). Abnormal Psychology in the changing world. New York: Pearson. pp.&nbsp;41–42. ISBN&nbsp;978-0-134-44758-2.  
+         ^ 
+           Fitzgerald K (2020). Sociology of Sexualities. SAGE. pp.&nbsp;204–205.  
+         ^ 
+           Mash EJ, Wolfe DA (2013). Abnormal Child Psychology. Belmont, CA: Jon-David Hague. p.&nbsp;110. ISBN&nbsp;978-1-111-83449-4. Generalizations about cultural practices and beliefs may fail to capture the diversity that exists within and across cultural groups, so we must be extremely careful not to stereotype individuals of any cultural group  
+         ^ a b c 
+           Barbato A, D'Avanzo B, Vadilonga F, Cortinovis M, Lombardi S, Pili F, et&nbsp;al. (November 2020). "Systemic family therapy integrated with attachment interventions for adoptive families. Development of a treatment manual". Journal of Family Therapy. 42 (4): 539–540. doi:10.1111/1467-6427.12278. ISSN&nbsp;0163-4445. S2CID&nbsp;198768158.  
+         ^ Bennett 2003, pp.&nbsp;17–26  
+         ^ 
+           Kovacevic F (2013). "A Lacanian approach to dream interpretation". Dreaming. 23 (1): 78–89. doi:10.1037/a0032206.  
+         ^ 
+           Smit Y, Huibers MJ, Ioannidis JP, van Dyck R, van Tilburg W, Arntz A (March 2012). "The effectiveness of long-term psychoanalytic psychotherapy--a meta-analysis of randomized controlled trials". Clinical Psychology Review. 32 (2): 81–92. doi:10.1016/j.cpr.2011.11.003. PMID&nbsp;22227111.  
+         ^ 
+           Edwards J (2016). "Behaviorism and Control in the History of Economics and Psychology". History of Political Economy. 48 (suppl 1): 170–197. doi:10.1215/00182702-3619262. ISSN&nbsp;0018-2702.  
+         ^ 
+           Schneider KJ, Längle A (December 2012). "The renewal of humanism in psychotherapy: summary and conclusion". Psychotherapy. 49 (4): 480–1. doi:10.1037/a0028026. PMID&nbsp;23205836.  
+         ^ a b 
+           Lin YW, Bratton SC (January 2015). "A Meta-Analytic Review of Child-Centered Play Therapy Approaches". Journal of Counseling &amp; Development. 93 (1): 45–58. doi:10.1002/j.1556-6676.2015.00180.x.  
+         ^ 
+           Hans E, Hiller W (February 2013). "Effectiveness of and dropout from outpatient cognitive behavioral therapy for adult unipolar depression: a meta-analysis of nonrandomized effectiveness studies". Journal of Consulting and Clinical Psychology. 81 (1): 75–88. doi:10.1037/a0031080. PMID&nbsp;23379264.  
+         ^ 
+           Moss-Morris R, Dennison L, Landau S, Yardley L, Silber E, Chalder T (April 2013). "A randomized controlled trial of cognitive behavioral therapy (CBT) for adjusting to multiple sclerosis (the saMS trial): does CBT work and for whom does it work?". Journal of Consulting and Clinical Psychology. 81 (2): 251–62. doi:10.1037/a0029132. PMID&nbsp;22730954.  
+         ^ 
+           Gresenz CR, Stockdale SE, Wells KB. "Are People With Mental Illness Getting the Help They Need?". Health Services Research. 35 (1): 295–306.  
+         ^ 
+           Bratton SC, Ceballos PL, Sheely-Moore AI, Meany-Walen K, Pronchenko Y, Jones LD (2013). "Head start early mental health intervention: Effects of child-centered play therapy on disruptive behaviors". International Journal of Play Therapy. 22: 28–42. doi:10.1037/a0030318.  
+        
+       
+       
+      References 
+      
+       
+       
+        
+         Barlow DH, Durand VM (2004). Abnormal Psychology: An Integrative Approach. Thomson Wadsworth. ISBN&nbsp;978-0-534-63362-2. 
+        
+         Bennett P (2003). Abnormal and Clinical Psychology. Open University Press. ISBN&nbsp;978-0-335-21236-1. 
+        
+         Cherry K (May 9, 2016). "What Is Abnormal Psychology?". Verywell. Retrieved 2017-03-10. 
+        
+         Hansell J, Damour L (2005). Abnormal Psychology. Von Hoffman Press. ISBN&nbsp;978-0-471-38982-8. 
+        
+         Ormel J, Jeronimus BF, Kotov R, Riese H, Bos EH, Hankin B, et&nbsp;al. (July 2013). "Neuroticism and common mental disorders: meaning and utility of a complex relationship". Clinical Psychology Review. 33 (5): 686–697. doi:10.1016/j.cpr.2013.04.003. PMC&nbsp;4382368. PMID&nbsp;23702592.
+        
+       
+      Further reading 
+      
+       
+       
+        
+         Ahn WK, Novick LR, Kim NS (September 2003). "Understanding behavior makes it more normal" (PDF). Psychonomic Bulletin &amp; Review. 10 (3): 746–52. doi:10.3758/bf03196541. PMC&nbsp;2654343. PMID&nbsp;14620373. 
+        
+         Zvolensky MJ, Kotov R, Antipova AV, Schmidt NB (April 2005). "Diathesis stress model for panic-related distress: a test in a Russian epidemiological sample". Behaviour Research and Therapy. 43 (4): 521–32. doi:10.1016/j.brat.2004.09.001. PMID&nbsp;15701361.
+        
+       
+      External links 
+      
+      
+       
+        
+         Library resources about  Abnormal psychology 
+          
+        
+        
+          
+          
+           Resources in your library 
+           Resources in other libraries
+           
+        
+       
+       
+      
+       Abnormal Psychology Students Practice Resources 
+       Psychology Terms – a 600-page dictionary pdf 
+       A Course in Abnormal Psychology
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Psychology
+           
+         
+         
+          
+            
+            
+             History 
+             Philosophy 
+             Portal 
+             Psychologist
+             
+           
+         
+         
+          Basic psychology
+          
+            
+            
+             Abnormal 
+             Affective science 
+             Affective neuroscience 
+             Behavioral genetics 
+             Behavioral neuroscience 
+             Behaviorism 
+             Cognitive/Cognitivism 
+             Cognitive neuroscience 
+              
+               Social
+               
+             Comparative 
+             Cross-cultural 
+             Cultural 
+             Developmental 
+             Differential 
+             Ecological 
+             Evolutionary 
+             Experimental 
+             Gestalt 
+             Intelligence 
+             Mathematical 
+             Moral 
+             Neuropsychology 
+             Perception 
+             Personality 
+             Positive 
+             Psycholinguistics 
+             Psychophysiology 
+             Quantitative 
+             Social 
+             Theoretical
+             
+           
+         
+         
+          Applied psychology
+          
+            
+            
+             Anomalistic 
+             Applied behavior analysis 
+             Assessment 
+             Clinical 
+             Coaching 
+             Community 
+             Consumer 
+             Counseling 
+             Critical 
+             Educational 
+             Ergonomics 
+             Feminist 
+             Forensic 
+             Health 
+             Industrial and organizational 
+             Legal 
+             Media 
+             Medical 
+             Military 
+             Music 
+             Occupational health 
+             Pastoral 
+             Political 
+             Psychometrics 
+             Psychotherapy 
+             Religion 
+             School 
+             Sport and exercise 
+             Suicidology 
+             Systems 
+             Traffic
+             
+           
+         
+         
+          Methodologies
+          
+            
+            
+             Animal testing 
+             Archival research 
+             Behavior epigenetics 
+             Case study 
+             Content analysis 
+             Experiments 
+             Human subject research 
+             Interviews 
+             Neuroimaging 
+             Observation 
+             Psychophysics 
+             Qualitative research 
+             Quantitative research 
+             Self-report inventory 
+             Statistical surveys
+             
+           
+         
+         
+          
+           
+            Psychologists
+           
+          
+            
+            
+             Wilhelm Wundt&nbsp;(1832–1920) 
+             William James&nbsp;(1842–1910) 
+             Ivan Pavlov&nbsp;(1849–1936) 
+             Sigmund Freud&nbsp;(1856–1939) 
+             Edward Thorndike&nbsp;(1874–1949) 
+             Carl Jung&nbsp;(1875–1961) 
+             John B. Watson&nbsp;(1878–1958) 
+             Clark L. Hull&nbsp;(1884–1952) 
+             Kurt Lewin&nbsp;(1890–1947) 
+             Jean Piaget&nbsp;(1896–1980) 
+             Gordon Allport&nbsp;(1897–1967) 
+             J. P. Guilford&nbsp;(1897–1987) 
+             Carl Rogers&nbsp;(1902–1987) 
+             Erik Erikson&nbsp;(1902–1994) 
+             B. F. Skinner&nbsp;(1904–1990) 
+             Donald O. Hebb&nbsp;(1904–1985) 
+             Ernest Hilgard&nbsp;(1904–2001) 
+             Harry Harlow&nbsp;(1905–1981) 
+             Raymond Cattell&nbsp;(1905–1998) 
+             Abraham Maslow&nbsp;(1908–1970) 
+             Neal E. Miller&nbsp;(1909–2002) 
+             Jerome Bruner&nbsp;(1915–2016) 
+             Donald T. Campbell&nbsp;(1916–1996) 
+             Hans Eysenck&nbsp;(1916–1997) 
+             Herbert A. Simon&nbsp;(1916–2001) 
+             David McClelland&nbsp;(1917–1998) 
+             Leon Festinger&nbsp;(1919–1989) 
+             George A. Miller&nbsp;(1920–2012) 
+             Richard Lazarus&nbsp;(1922–2002) 
+             Stanley Schachter&nbsp;(1922–1997) 
+             Robert Zajonc&nbsp;(1923–2008) 
+             Albert Bandura&nbsp;(1925–2021) 
+             Roger Brown&nbsp;(1925–1997) 
+             Endel Tulving&nbsp;(b.&nbsp;1927) 
+             Lawrence Kohlberg&nbsp;(1927–1987) 
+             Noam Chomsky&nbsp;(b.&nbsp;1928) 
+             Ulric Neisser&nbsp;(1928–2012) 
+             Jerome Kagan&nbsp;(1929–2021) 
+             Walter Mischel&nbsp;(1930–2018) 
+             Elliot Aronson&nbsp;(b.&nbsp;1932) 
+             Daniel Kahneman&nbsp;(b.&nbsp;1934) 
+             Paul Ekman&nbsp;(b.&nbsp;1934) 
+             Michael Posner&nbsp;(b.&nbsp;1936) 
+             Amos Tversky&nbsp;(1937–1996) 
+             Bruce McEwen&nbsp;(1938–2020) 
+             Larry Squire&nbsp;(b.&nbsp;1941) 
+             Richard E. Nisbett&nbsp;(b.&nbsp;1941) 
+             Martin Seligman&nbsp;(b.&nbsp;1942) 
+             Ed Diener&nbsp;(1946–2021) 
+             Shelley E. Taylor&nbsp;(b.&nbsp;1946) 
+             John Anderson&nbsp;(b.&nbsp;1947) 
+             Ronald C. Kessler&nbsp;(b.&nbsp;1947) 
+             Joseph E. LeDoux&nbsp;(b.&nbsp;1949) 
+             Richard Davidson&nbsp;(b.&nbsp;1951) 
+             Susan Fiske&nbsp;(b.&nbsp;1952) 
+             Roy Baumeister&nbsp;(b.&nbsp;1953)
+             
+           
+         
+         
+          Lists
+          
+            
+            
+             Counseling topics 
+             Disciplines 
+             Important publications 
+             Organizations 
+             Outline 
+             Psychologists 
+             Psychotherapies 
+             Research methods 
+             Schools of thought 
+             Timeline 
+             Topics
+             
+           
+         
+         
+          
+            
+            
+             Wiktionary definition 
+             Wiktionary category 
+             Wikisource 
+             Wikimedia Commons 
+             Wikiquote 
+             Wikinews 
+             Wikibooks
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Social sciences
+           
+         
+         
+          
+            
+            
+             Outline 
+             History 
+             Index
+             
+           
+         
+         
+          Primary
+          
+            
+            
+             Anthropology (archaeology 
+             cultural 
+             linguistics 
+             social) 
+             Economics (microeconomics 
+             macroeconomics 
+             econometrics 
+             mathematical) 
+             Geography (physical 
+             human 
+             integrated 
+             geomatics 
+             regional) 
+             History 
+              
+               cultural 
+               auxiliary sciences 
+               economic 
+               human 
+               military 
+               political 
+               social
+               
+             Law (jurisprudence 
+             legal history 
+             legal systems 
+             public law 
+             private law) 
+             Political science (international relations 
+             comparative 
+             theory 
+             public policy) 
+             Psychology (abnormal 
+             cognitive 
+             developmental 
+             personality 
+             social) 
+             Sociology (criminology 
+             demography 
+             internet 
+             rural 
+             urban)
+             
+           
+         
+         
+          Interdisciplinary
+          
+            
+            
+             Administration (business 
+             public) 
+             Anthrozoology 
+             Area studies 
+             Business studies 
+             Cognitive science 
+             Communication studies 
+             Community studies 
+             Cultural studies 
+             Development studies 
+             Education 
+             Environmental (social science 
+             studies) 
+             Food studies 
+             Gender studies 
+             Global studies 
+             Historical sociology 
+             History of technology 
+             Human ecology 
+             Information science 
+             International studies 
+             Linguistics 
+             Media studies 
+             Philosophy of science (economics 
+             history 
+             psychology 
+             social science) 
+             Planning (land use 
+             regional 
+             urban) 
+             Political ecology 
+             Political economy 
+             Political sociology 
+             Public health 
+             Regional science 
+             Science and technology studies 
+             Science studies 
+              
+               historical 
+               Quantum social science
+               
+             Social work 
+             Vegan studies
+             
+           
+         
+         
+          List
+          
+            
+            
+             List of social science journals
+             
+           
+         
+         
+          Other categorizations
+          
+            
+            
+             Humanities 
+             Geisteswissenschaft 
+             Human science
+             
+           
+         
+         
+          
+            
+            
+              Category 
+              Commons 
+             &nbsp;Society portal 
+              Wikiversity
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          Authority control: National libraries 
+          
+            
+            
+             Japan
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Abnormal_psychology&amp;oldid=1069587372"
+     
+     
+    
+     
+      Categories: 
+      
+       Abnormal psychology
+       Clinical psychology
+       Behavioural sciences
+      
+     
+     
+      Hidden categories: 
+      
+       Wikipedia articles needing page number citations from October 2013
+       Wikipedia articles needing page number citations from May 2013
+       CS1 German-language sources (de)
+       Articles with short description
+       Short description is different from Wikidata
+       Articles needing additional references from May 2013
+       All articles needing additional references
+       Articles with NDL identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       Wikiversity
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       বাংলা
+       Български
+       Čeština
+       Eesti
+       Español
+       فارسی
+       Gaeilge
+       한국어
+       Հայերեն
+       हिन्दी
+       Bahasa Indonesia
+       Македонски
+       മലയാളം
+       Bahasa Melayu
+       日本語
+       Português
+       Română
+       Русский
+       සිංහල
+       Simple English
+       Svenska
+       தமிழ்
+       Türkçe
+       Українська
+       粵語
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 3 February 2022, at 02:22&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

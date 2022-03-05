@@ -1,0 +1,752 @@
+
+ 
+  
+   
+  Generalized vector space model - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Generalized vector space model 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Generalization of the vector space model used in information retrieval
+       
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This article may be confusing or unclear to readers. Please help clarify the article. There might be a discussion about this on the talk page. (January 2010) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      The Generalized vector space model is a generalization of the vector space model used in information retrieval. Wong et al. presented an analysis of the problems that the pairwise orthogonality assumption of the vector space model (VSM) creates. From here they extended the VSM to the generalized vector space model (GVSM).  
+      Definitions 
+      GVSM introduces term to term correlations, which deprecate the pairwise orthogonality assumption. More specifically, the factor considered a new space, where each term vector ti was expressed as a linear combination of 2n vectors mr where r = 1...2n. 
+      For a document dk and a query q the similarity function now becomes:  
+      
+       
+        
+            
+             
+              
+              
+               s
+               
+              
+               i
+               
+              
+               m
+               
+              
+               (
+               
+               
+               
+                d
+                
+                
+                
+                 k
+                 
+                
+               
+              
+               ,
+               
+              
+               q
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                  
+                  
+                   ∑
+                   
+                   
+                   
+                    j
+                    
+                   
+                    =
+                    
+                   
+                    1
+                    
+                   
+                   
+                   
+                    n
+                    
+                   
+                  
+                  
+                  
+                   ∑
+                   
+                   
+                   
+                    i
+                    
+                   
+                    =
+                    
+                   
+                    1
+                    
+                   
+                   
+                   
+                    n
+                    
+                   
+                  
+                  
+                  
+                   w
+                   
+                   
+                   
+                    i
+                    
+                   
+                    ,
+                    
+                   
+                    k
+                    
+                   
+                  
+                 
+                  ∗
+                  
+                  
+                  
+                   w
+                   
+                   
+                   
+                    j
+                    
+                   
+                    ,
+                    
+                   
+                    q
+                    
+                   
+                  
+                 
+                  ∗
+                  
+                  
+                  
+                   t
+                   
+                   
+                   
+                    i
+                    
+                   
+                  
+                 
+                  ⋅
+                  
+                  
+                  
+                   t
+                   
+                   
+                   
+                    j
+                    
+                   
+                  
+                 
+                 
+                  
+                   
+                    
+                    
+                     ∑
+                     
+                     
+                     
+                      i
+                      
+                     
+                      =
+                      
+                     
+                      1
+                      
+                     
+                     
+                     
+                      n
+                      
+                     
+                    
+                    
+                    
+                     w
+                     
+                     
+                     
+                      i
+                      
+                     
+                      ,
+                      
+                     
+                      k
+                      
+                     
+                     
+                     
+                      2
+                      
+                     
+                    
+                   
+                  
+                 
+                  ∗
+                  
+                  
+                   
+                    
+                    
+                     ∑
+                     
+                     
+                     
+                      i
+                      
+                     
+                      =
+                      
+                     
+                      1
+                      
+                     
+                     
+                     
+                      n
+                      
+                     
+                    
+                    
+                    
+                     w
+                     
+                     
+                     
+                      i
+                      
+                     
+                      ,
+                      
+                     
+                      q
+                      
+                     
+                     
+                     
+                      2
+                      
+                     
+                    
+                   
+                  
+                 
+                
+               
+              
+             
+            
+             ,q)=^\sum _^w_*w_*t_\cdot t_}^w_^}}*^w_^}}}}}
+             
+            
+          
+       
+       
+      where ti and tj are now vectors of a 2n dimensional space. 
+      Term correlation 
+           
+            
+             
+              
+              
+               t
+               
+               
+               
+                i
+                
+               
+              
+             
+              ⋅
+              
+              
+              
+               t
+               
+               
+               
+                j
+                
+               
+              
+             
+            
+           
+            \cdot t_}
+            
+           
+          can be implemented in several ways. For an example, Wong et al. uses the term occurrence frequency matrix obtained from automatic indexing as input to their algorithm. The term occurrence and the output is the term correlation between any pair of index terms.  
+      Semantic information on GVSM 
+      There are at least two basic directions for embedding term to term relatedness, other than exact keyword matching, into a retrieval model:  
+      
+       compute semantic correlations between terms 
+       compute frequency co-occurrence statistics from large corpora
+       
+      Recently Tsatsaronis focused on the first approach. 
+      They measure semantic relatedness (SR) using a thesaurus (O) like WordNet. It considers the path length, captured by compactness (SCM), and the path depth, captured by semantic path elaboration (SPE). They estimate the 
+           
+            
+             
+              
+              
+               t
+               
+               
+               
+                i
+                
+               
+              
+             
+              ⋅
+              
+              
+              
+               t
+               
+               
+               
+                j
+                
+               
+              
+             
+            
+           
+            \cdot t_}
+            
+           
+          inner product by: 
+      
+           
+            
+             
+              
+              
+               t
+               
+               
+               
+                i
+                
+               
+              
+             
+              ⋅
+              
+              
+              
+               t
+               
+               
+               
+                j
+                
+               
+              
+             
+              =
+              
+             
+              S
+              
+             
+              R
+              
+             
+              (
+              
+             
+              (
+              
+              
+              
+               t
+               
+               
+               
+                i
+                
+               
+              
+             
+              ,
+              
+              
+              
+               t
+               
+               
+               
+                j
+                
+               
+              
+             
+              )
+              
+             
+              ,
+              
+             
+              (
+              
+              
+              
+               s
+               
+               
+               
+                i
+                
+               
+              
+             
+              ,
+              
+              
+              
+               s
+               
+               
+               
+                j
+                
+               
+              
+             
+              )
+              
+             
+              ,
+              
+             
+              O
+              
+             
+              )
+              
+             
+            
+           
+            \cdot t_=SR((t_,t_),(s_,s_),O)}
+            
+           
+          
+      where si and sj are senses of terms ti and tj respectively, maximizing 
+           
+            
+             
+             
+              S
+              
+             
+              C
+              
+             
+              M
+              
+             
+              ⋅
+              
+             
+              S
+              
+             
+              P
+              
+             
+              E
+              
+             
+            
+           
+            
+            
+           
+         . 
+      Building also on the first approach, Waitelonis et. al. have computed semantic relatedness from Linked Open Data resources including DBpedia as well as the YAGO taxonomy. Thereby they exploits taxonomic relationships among semantic entities in documents and queries after named entity linking. 
+       
+        
+      References 
+      
+       
+       
+         
+         ^ Wong, S. K. M.; Ziarko, Wojciech; Wong, Patrick C. N. (1985-06-05), "Generalized vector spaces model in information retrieval", Proceedings of the 8th annual international ACM SIGIR conference on Research and development in information retrieval - SIGIR '85, SIGIR ACM, pp.&nbsp;18–25, doi:10.1145/253495.253506, ISBN&nbsp;0897911598  
+         ^ 
+           Tsatsaronis, George; Panagiotopoulou, Vicky (2009-04-02), A Generalized Vector Space Model for Text Retrieval Based on Semantic Relatedness (PDF), EACL ACM  
+         ^ 
+           Waitelonis, Jörg; Exeler, Claudia; Sack, Harald (2015-09-11), Linked Data enabled Generalized Vector Space Model to improve document retrieval (PDF), ISWC 2015, CEUR-WS 1581  
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Generalized_vector_space_model&amp;oldid=983970115"
+     
+     
+    
+     
+      Categories: 
+      
+       Vector space model
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with short description
+       Short description matches Wikidata
+       Wikipedia articles needing clarification from January 2010
+       All Wikipedia articles needing clarification
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Español
+       한국어
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 17 October 2020, at 10:52&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

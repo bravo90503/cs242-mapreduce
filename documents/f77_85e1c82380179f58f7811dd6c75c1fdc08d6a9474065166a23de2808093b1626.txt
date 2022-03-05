@@ -1,0 +1,308 @@
+
+ 
+  
+   
+  Cross-language information retrieval - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Cross-language information retrieval 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources:&nbsp;"Cross-language information retrieval"&nbsp;–&nbsp;news&nbsp;· newspapers&nbsp;· books&nbsp;· scholar&nbsp;· JSTOR (September 2014) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      Cross-language information retrieval (CLIR) is a subfield of information retrieval dealing with retrieving information written in a language different from the language of the user's query. The term "cross-language information retrieval" has many synonyms, of which the following are perhaps the most frequent: cross-lingual information retrieval, translingual information retrieval, multilingual information retrieval. The term "multilingual information retrieval" refers more generally both to technology for retrieval of multilingual collections and to technology which has been moved to handle material in one language to another. The term Multilingual Information Retrieval (MLIR) involves the study of systems that accept queries for information in various languages and return objects (text, and other media) of various languages, translated into the user's language. Cross-language information retrieval refers more specifically to the use case where users formulate their information need in one language and the system retrieves relevant documents in another. To do so, most CLIR systems use various translation techniques. CLIR techniques can be classified into different categories based on different translation resources:  
+      
+       Dictionary-based CLIR techniques 
+       Parallel corpora based CLIR techniques 
+       Comparable corpora based CLIR techniques 
+       Machine translator based CLIR techniques
+       
+      CLIR systems have improved so much that the most accurate multi-lingual and cross-lingual adhoc information retrieval systems today are nearly as effective as monolingual systems. Other related information access tasks, such as media monitoring, information filtering and routing, sentiment analysis, and information extraction require more sophisticated models and typically more processing and analysis of the information items of interest. Much of that processing needs to be aware of the specifics of the target languages it is deployed in. 
+      Mostly, the various mechanisms of variation in human language pose coverage challenges for information retrieval systems: texts in a collection may treat a topic of interest but use terms or expressions which do not match the expression of information need given by the user. This can be true even in a mono-lingual case, but this is especially true in cross-lingual information retrieval, where users may know the target language only to some extent. The benefits of CLIR technology for users with poor to moderate competence in the target language has been found to be greater than for those who are fluent. Specific technologies in place for CLIR services include morphological analysis to handle inflection, decompounding or compound splitting to handle compound terms, and translations mechanisms to translate a query from one language to another. 
+      The first workshop on CLIR was held in Zürich during the SIGIR-96 conference. Workshops have been held yearly since 2000 at the meetings of the Cross Language Evaluation Forum (CLEF). Researchers also convene at the annual Text Retrieval Conference (TREC) to discuss their findings regarding different systems and methods of information retrieval, and the conference has served as a point of reference for the CLIR subfield. 
+      Google Search had a cross-language search feature that was removed in 2013.  
+      See also 
+      
+       EXCLAIM (EXtensible Cross-Linguistic Automatic Information Machine) 
+       CLEF (Conference and Labs of the Evaluation Forum, formerly known as Cross-Language Evaluation Forum) 
+       MLIR (Multi-Lingual Information Retrieval)
+       
+      References 
+      
+        
+        ^ Wang, Jianqiang, and Douglas W. Oard. "Matching meaning for cross-language information retrieval." Information Processing &amp; Management48.4 (2012): 631-53.  
+        ^ Thai, Perishan."An Introduction to Cross-Language Information Retrieval Approaches". Web. Web.simmons.edu  
+        ^ Oard, Douglas. "Multilingual Information Access." Understanding Information Retrieval Systems(2011): 373-80. Web.  
+        ^ Airio, Eija (2008). "Who benefits from CLIR in web retrieval?". Journal of Documentation. 64 (5): 760–778. doi:10.1108/00220410810899754.  
+        ^ The proceedings of this workshop can be found in the book Cross-Language Information Retrieval (Grefenstette, ed; Kluwer, 1998) 
+          ISBN&nbsp;0-7923-8122-X.  
+        ^ Olvera-Lobo, María-Dolores. "Cross-Language Information Retrieval on the Web." Handbook of Research on Social Dimensions of Semantic Technologies and Web Services(n.d.): 704-19. Web.  
+        ^ 
+          "Google Drops "Translated Foreign Pages" Search Option Due To Lack Of Use". 20 May 2013.  
+       
+       
+      External links 
+      
+       A resource page for CLIR 
+       A search engine for CLIR
+       
+        
+      
+      
+       
+        
+         
+          
+          This computational linguistics-related article is a stub. You can help Wikipedia by expanding it.
+         
+        
+       
+       
+       
+        
+         v
+         t
+         e
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Cross-language_information_retrieval&amp;oldid=1022818134"
+     
+     
+    
+     
+      Categories: 
+      
+       Information retrieval genres
+       Natural language processing
+       Computational linguistics stubs
+      
+     
+     
+      Hidden categories: 
+      
+       Articles needing additional references from September 2014
+       All articles needing additional references
+       All stub articles
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Euskara
+       Suomi
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 12 May 2021, at 17:26&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

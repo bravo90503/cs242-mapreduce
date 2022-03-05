@@ -1,0 +1,1393 @@
+
+ 
+  
+   
+  Quantum information science - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Quantum information science 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Interdisciplinary theory behind quantum computing
+      
+      
+      
+       
+        
+         Part of a series of articles about
+        
+        
+         Quantum mechanics
+        
+        
+         
+              
+               
+                
+                
+                 i
+                 
+                
+                 ℏ
+                 
+                 
+                  
+                  
+                   ∂
+                   
+                   
+                   
+                    ∂
+                    
+                   
+                    t
+                    
+                   
+                  
+                 
+                 
+                 
+                  |
+                  
+                 
+                
+                 ψ
+                 
+                
+                 (
+                 
+                
+                 t
+                 
+                
+                 )
+                 
+                
+                 ⟩
+                 
+                
+                 =
+                 
+                 
+                  
+                   
+                   
+                    H
+                    
+                   
+                    ^
+                    
+                   
+                  
+                 
+                 
+                 
+                  |
+                  
+                 
+                
+                 ψ
+                 
+                
+                 (
+                 
+                
+                 t
+                 
+                
+                 )
+                 
+                
+                 ⟩
+                 
+                
+               
+              
+               }|\psi (t)\rangle =}|\psi (t)\rangle }
+               
+              
+            
+          
+           Schrödinger equation
+          
+        
+        
+          
+          
+           Introduction 
+           Glossary 
+           History
+          
+        
+        
+          
+          
+           
+            Background
+           
+            
+            
+             Classical mechanics 
+             Old quantum theory 
+             Bra–ket notation
+             
+             
+             
+              Hamiltonian 
+              Interference
+              
+            
+           
+           
+        
+        
+          
+          
+           
+            Fundamentals
+           
+           
+             
+             
+              Complementarity 
+              Decoherence 
+              Entanglement 
+              Energy level 
+              Measurement 
+              Nonlocality 
+              Quantum number 
+              State 
+              Superposition 
+              Symmetry 
+              Tunnelling 
+              Uncertainty 
+              Wave function 
+               
+                Collapse
+               
+              
+            
+           
+           
+        
+        
+          
+          
+           
+            Experiments
+           
+           
+             
+             
+              Bell's inequality 
+              Davisson–Germer 
+              Double-slit 
+              Elitzur–Vaidman 
+              Franck–Hertz 
+              Leggett–Garg inequality 
+              Mach–Zehnder 
+              Popper
+              
+             
+            
+             Quantum eraser 
+              
+               Delayed-choice
+              
+             
+             
+             
+              Schrödinger's cat 
+              Stern–Gerlach 
+              Wheeler's delayed-choice
+              
+            
+           
+           
+        
+        
+          
+          
+           
+            Formulations
+           
+            
+            
+             Overview
+             
+             
+             
+              Heisenberg 
+              Interaction 
+              Matrix 
+              Phase-space 
+              Schrödinger 
+              Sum-over-histories (path integral)
+              
+            
+           
+           
+        
+        
+          
+          
+           
+            Equations
+           
+           
+             
+             
+              Dirac 
+              Klein–Gordon 
+              Pauli 
+              Rydberg 
+              Schrödinger
+              
+            
+           
+           
+        
+        
+          
+          
+           
+            Interpretations
+           
+            
+            
+             Overview
+             
+             
+             
+              Bayesian 
+              Consistent histories 
+              Copenhagen 
+              de Broglie–Bohm 
+              Ensemble 
+              Hidden-variable 
+               
+                Local
+                
+              Many-worlds 
+              Objective collapse 
+              Quantum logic 
+              Relational 
+              Transactional
+              
+            
+           
+           
+        
+        
+          
+          
+           
+            Advanced topics
+           
+            
+            
+             Relativistic quantum mechanics 
+             Quantum field theory 
+             Quantum information science 
+             Quantum computing 
+             Quantum chaos 
+             Density matrix 
+             Scattering theory 
+             Quantum statistical mechanics 
+             Quantum machine learning
+            
+           
+           
+        
+        
+          
+          
+           
+            Scientists
+           
+           
+             
+             
+              Aharonov 
+              Bell 
+              Bethe 
+              Blackett 
+              Bloch 
+              Bohm 
+              Bohr 
+              Born 
+              Bose 
+              de Broglie 
+              Compton 
+              Dirac 
+              Davisson 
+              Debye 
+              Ehrenfest 
+              Einstein 
+              Everett 
+              Fock 
+              Fermi 
+              Feynman 
+              Glauber 
+              Gutzwiller 
+              Heisenberg 
+              Hilbert 
+              Jordan 
+              Kramers 
+              Pauli 
+              Lamb 
+              Landau 
+              Laue 
+              Moseley 
+              Millikan 
+              Onnes 
+              Planck 
+              Rabi 
+              Raman 
+              Rydberg 
+              Schrödinger 
+              Simmons 
+              Sommerfeld 
+              von Neumann 
+              Weyl 
+              Wien 
+              Wigner 
+              Zeeman 
+              Zeilinger
+              
+            
+           
+           
+        
+        
+         
+          
+           
+            v
+            t
+            e
+           
+          
+        
+       
+      
+      
+      
+       
+        
+         Information science
+        
+        
+          General aspects
+        
+        
+          
+           
+           
+            Access 
+            Architecture 
+            Behavior 
+            Management 
+            Retrieval 
+            Seeking 
+            Society 
+            Knowledge organization 
+            Ontology 
+            Philosophy 
+            Science and technology studies 
+            Taxonomy
+            
+           
+        
+        
+          Related fields and sub-fields
+        
+        
+          
+           
+           
+            Bibliometrics 
+            Categorization 
+            Censorship 
+            Classification 
+            Computer data storage 
+            Cultural studies 
+            Data modeling 
+            Informatics 
+            Information technology 
+            Intellectual freedom 
+            Intellectual property 
+            Library and information science 
+            Memory 
+            Preservation 
+            Privacy 
+            Quantum information science
+            
+           
+        
+        
+         
+          
+          
+           
+            v
+            t
+            e
+           
+          
+        
+       
+       
+      Quantum information science is an interdisciplinary field that seeks to understand the analysis, processing, and transmission of information using quantum mechanics principles. It combines the study of Information science with quantum effects in physics. It includes theoretical issues in computational models and more experimental topics in quantum physics, including what can and cannot be done with quantum information. The term quantum information theory is also used, but it fails to encompass experimental research, and can be confused with a subfield of quantum information science that addresses the processing of quantum information.  
+      
+       
+       
+        Contents
+        
+        
+        1 Scientific and engineering studies 
+        2 Related mathematical subjects 
+        3 See also 
+        4 References 
+        5 External links 
+        
+       
+      Scientific and engineering studies 
+      To understand quantum teleportation, quantum entanglement and the manufacturing of quantum computer hardware requires a thorough understanding of quantum physics and engineering. Since 2010s, there has been remarkable progress in the manufacturing quantum computers, with companies like Google and IBM investing heavily in quantum computer hardware research. Today, it is possible to build a quantum computer with more than 100 qubits. However, the error rate is very large due to the lack of material suitable for the manufacture of quantum computers. Majorana fermions may be one of the key materials lacking (Chiu et al., Rev. Mod. Phys. 88, 2016.) . 
+      Devices for quantum cryptography have already been commercialized. There is an old cipher called a one time pad widely used among spies in the Cold War era. It uses a long sequence of random keys. If two people exchanged the same random keys safely, it is possible to decrypt a one time pad only by accident. However, key exchanging problems can be solved by using quantum entangled particle pairs in the exchange. Quantum mechanical laws such as the no-cloning theorem and wave function collapse provide the basis for secure exchange of random keys. Therefore the manufacturing of devices that can transport quantum entangled particles is an important scientific and engineering goal. 
+      Programming languages for quantum computers are also needed. Qiskit, Cirq and Q Sharp are popular quantum programming languages.  
+      Related mathematical subjects 
+      Quantum algorithm and quantum complexity theory are two of the subjects in algorithms and computational complexity theory. In 1994, mathematician Peter Shor published his prime factorization algorithm. If one has a 4,000 logical qubits quantum computer, one can threaten most widely used ciphers such as RSA and ECC by using Shor's algorithm. It can result in serious security problems for many countries. Therefore, his paper triggered a lot of investment in quantum computing research. Many mathematicians and cryptologists are preparing to enter the quantum computing era. See post quantum cryptography.  
+      See also 
+      
+       
+       
+        Information theory 
+        Quantum mechanics 
+        Quantum computing 
+        Quantum error correction 
+        Quantum information theory 
+        Quantum cryptography and its generalization, quantum communication 
+        Quantum communication complexity 
+        Quantum entanglement, as seen from an information-theoretic point of view 
+        Quantum dense coding 
+        Quantum teleportation 
+        Entanglement-assisted classical capacity 
+        No-communication theorem 
+        Quantum capacity 
+        Quantum communication channel 
+        Quantum decision tree complexity 
+        Timeline of quantum computing and communication
+        
+       
+      References 
+      
+       Nielsen, Michael A.; Chuang, Isaac L. (June 2012). Quantum Computation and Quantum Information (10th anniversary&nbsp;ed.). Cambridge: Cambridge University Press. ISBN&nbsp;9780511992773. OCLC&nbsp;700706156.
+       
+      External links 
+      
+       Quantiki – quantum information science portal and wiki. 
+       ERA-Pilot QIST WP1 European roadmap on Quantum Information Processing and Communication 
+       QIIC – Quantum Information, Imperial College London. 
+       QIP – Quantum Information Group, University of Leeds. The quantum information group at the University of Leeds is engaged in researching a wide spectrum of aspects of quantum information. This ranges from algorithms, quantum computation, to physical implementations of information processing and fundamental issues in quantum mechanics. Also contains some basic tutorials for the lay audience. 
+       mathQI Research Group on Mathematics and Quantum Information. 
+       CQIST Center for Quantum Information Science &amp; Technology at the University of Southern California 
+       CQuIC Center for Quantum Information and Control, including theoretical and experimental groups from University of New Mexico, University of Arizona. 
+       CQT Centre for Quantum Technologies at the National University of Singapore 
+       CQC2T Centre for Quantum Computation and Communication Technology 
+       QST@LSU Quantum Science and Technologies Group at Louisiana State University
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Quantum information science
+           
+         
+         
+          General
+          
+            
+            
+             DiVincenzo's criteria 
+             NISQ era 
+             Quantum computing 
+              
+               Timeline 
+               Cloud-based
+               
+             Quantum information 
+             Quantum programming 
+             Qubit 
+              
+               physical vs. logical
+               
+             Quantum processors
+             
+           
+          
+           
+            
+            
+           
+         
+         
+          Theorems
+          
+            
+            
+             Bell's 
+             Gleason's 
+             Gottesman–Knill 
+             Holevo's 
+             Margolus–Levitin 
+             No-broadcast 
+             No-cloning 
+             No-communication 
+             No-deleting 
+             No-hiding 
+             No-teleportation 
+             PBR 
+             Quantum threshold 
+             Solovay–Kitaev
+             
+           
+         
+         
+          Quantumcommunication
+          
+            
+            
+             Classical capacity 
+              
+               entanglement-assisted 
+               Quantum capacity
+               
+             Entanglement distillation 
+             LOCC 
+             Quantum channel 
+              
+               Quantum network
+               
+             Quantum cryptography 
+              
+               Quantum key distribution 
+               BB84 
+               SARG04 
+               Three-stage quantum cryptography protocol 
+               Quantum Secret Sharing
+               
+             Quantum teleportation 
+             Superdense coding
+             
+           
+         
+         
+          Quantum algorithms
+          
+            
+            
+             
+              
+               Bernstein–Vazirani 
+               Deutsch–Jozsa 
+               Grover's 
+               Quantum counting 
+               Quantum phase estimation 
+               Shor's 
+               Simon's
+               
+             Amplitude amplification 
+             Linear systems of equations 
+             Quantum annealing 
+             Quantum Fourier transform 
+             Quantum neural network
+             
+            
+             Universal quantum simulator
+             
+           
+         
+         
+          Quantumcomplexity theory
+          
+            
+            
+             BQP 
+             EQP 
+             QIP 
+             QMA 
+             PostBQP
+             
+           
+         
+         
+          Quantumcomputing models
+          
+            
+            
+             Adiabatic quantum computation 
+             Differentiable quantum computing 
+             One-way quantum computer 
+              
+               cluster state
+               
+             Quantum circuit 
+              
+               Quantum logic gate
+               
+             Quantum Turing machine 
+             Topological quantum computer
+             
+           
+         
+         
+          Quantumerror correction
+          
+            
+            
+             Codes 
+              
+               CSS 
+               Quantum convolutional 
+               stabilizer 
+               Shor 
+               Steane 
+               Toric 
+               gnu
+               
+             Entanglement-assisted quantum error correction
+             
+           
+         
+         
+          Physicalimplementations
+          
+           
+           
+            
+             
+              Quantum optics
+              
+                
+                
+                 Boson sampling 
+                 Cavity QED 
+                 Circuit QED 
+                 Linear optical quantum computing 
+                 KLM protocol
+                 
+               
+             
+             
+              Ultracold atoms
+              
+                
+                
+                 Optical lattice 
+                 Trapped ion quantum computer
+                 
+               
+             
+             
+              Spin-based
+              
+                
+                
+                 Kane QC 
+                 Spin qubit QC 
+                 Nitrogen-vacancy center 
+                 Nuclear magnetic resonance QC
+                 
+               
+             
+             
+              Superconductingquantum computing
+              
+                
+                
+                 Charge qubit 
+                 Flux qubit 
+                 Phase qubit 
+                 Transmon
+                 
+               
+             
+            
+           
+           
+         
+         
+          Quantumprogramming
+          
+            
+            
+             OpenQASM-Qiskit-IBM QX 
+             Quil-Forest/Rigetti QCS 
+             Cirq 
+             Q# 
+             libquantum 
+             many others...
+             
+           
+         
+         
+          
+           
+            
+             
+               Quantum mechanics topics
+             
+            
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Quantum mechanics
+           
+         
+         
+          Background
+          
+            
+            
+             Introduction 
+             History 
+              
+               Timeline
+               
+             Classical mechanics 
+             Old quantum theory 
+             Glossary
+             
+           
+         
+         
+          Fundamentals
+          
+            
+            
+             Born rule 
+             Bra–ket notation 
+              Complementarity 
+             Density matrix 
+             Energy level 
+              
+               Ground state 
+               Excited state 
+               Degenerate levels 
+               Zero-point energy
+               
+             Entanglement 
+             Hamiltonian 
+             Interference 
+             Decoherence 
+             Measurement 
+             Nonlocality 
+             Quantum state 
+             Superposition 
+             Tunnelling 
+             Scattering theory 
+             Symmetry in quantum mechanics 
+             Uncertainty 
+             Wave function 
+              
+               Collapse 
+               Wave–particle duality
+              
+             
+           
+         
+         
+          Formulations
+          
+            
+            
+             Formulations 
+             Heisenberg 
+             Interaction 
+             Matrix mechanics 
+             Schrödinger 
+             Path integral formulation 
+             Phase space
+             
+           
+         
+         
+          Equations
+          
+            
+            
+             Dirac 
+             Klein–Gordon 
+             Pauli 
+             Rydberg 
+             Schrödinger
+             
+           
+         
+         
+          Interpretations
+          
+            
+            
+             Interpretations 
+             Bayesian 
+             Consistent histories 
+             Copenhagen 
+             de Broglie–Bohm 
+             Ensemble 
+             Hidden-variable 
+              
+               Local
+               
+             Many-worlds 
+             Objective collapse 
+             Quantum logic 
+             Relational 
+             Transactional 
+             Van Neumann-Wigner
+             
+           
+         
+         
+          Experiments
+          
+            
+            
+             Bell's inequality 
+             Davisson–Germer 
+             Delayed-choice quantum eraser 
+             Double-slit 
+             Franck–Hertz 
+             Mach–Zehnder interferometer 
+             Elitzur–Vaidman 
+             Popper 
+             Quantum eraser 
+             Stern–Gerlach 
+             Wheeler's delayed choice
+             
+           
+         
+         
+          Science
+          
+            
+            
+             Quantum biology 
+             Quantum chemistry 
+             Quantum chaos 
+             Quantum cosmology 
+             Quantum differential calculus 
+             Quantum dynamics 
+             Quantum geometry 
+             Quantum measurement problem 
+             Quantum stochastic calculus 
+             Quantum spacetime
+             
+           
+         
+         
+          Technology
+          
+            
+            
+             Quantum algorithms 
+             Quantum amplifier 
+             Quantum bus 
+             Quantum cellular automata 
+              
+               Quantum finite automata
+               
+             Quantum channel 
+             Quantum circuit 
+             Quantum complexity theory 
+             Quantum computing 
+              
+               Timeline
+               
+             Quantum cryptography 
+             Quantum electronics 
+             Quantum error correction 
+             Quantum imaging 
+             Quantum image processing 
+             Quantum information 
+             Quantum key distribution 
+             Quantum logic 
+             Quantum logic gates 
+             Quantum machine 
+             Quantum machine learning 
+             Quantum metamaterial 
+             Quantum metrology 
+             Quantum network 
+             Quantum neural network 
+             Quantum optics 
+             Quantum programming 
+             Quantum sensing 
+             Quantum simulator 
+             Quantum teleportation
+             
+           
+         
+         
+          Extensions
+          
+            
+            
+             Casimir effect 
+             Quantum statistical mechanics 
+             Quantum field theory 
+              
+               History
+               
+             Quantum gravity 
+             Relativistic quantum mechanics
+             
+           
+         
+         
+          
+            
+            
+              Category 
+              Physics portal 
+              Commons
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Branches of physics
+           
+         
+         
+          Divisions
+          
+            
+            
+             Pure 
+             Applied 
+              
+               Engineering
+              
+             
+           
+         
+         
+          Approaches
+          
+            
+            
+             Experimental 
+             Theoretical 
+              
+               Computational
+              
+             
+           
+         
+         
+          Classical
+          
+            
+            
+             Classical mechanics 
+              
+               Newtonian 
+               Analytical 
+               Celestial 
+               Continuum
+               
+             Acoustics 
+             Classical electromagnetism 
+             Classical optics 
+              
+               Ray 
+               Wave
+               
+             Thermodynamics 
+              
+               Statistical 
+               Non-equilibrium
+              
+             
+           
+         
+         
+          Modern
+          
+            
+            
+             Relativistic mechanics 
+              
+               Special 
+               General
+               
+             Nuclear physics 
+             Quantum mechanics 
+             Particle physics 
+             Atomic, molecular, and optical physics 
+              
+               Atomic 
+               Molecular 
+               Modern optics
+               
+             Condensed matter physics
+             
+           
+         
+         
+          Interdisciplinary
+          
+            
+            
+             Astrophysics 
+             Atmospheric physics 
+             Biophysics 
+             Chemical physics 
+             Geophysics 
+             Materials science 
+             Mathematical physics 
+             Medical physics 
+             Ocean physics 
+             Quantum information science
+             
+           
+         
+         
+          Related
+          
+            
+            
+             History of physics 
+             Nobel Prize in Physics 
+             Physics education 
+             Timeline of physics discoveries
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          Authority control: National libraries 
+          
+            
+            
+             Germany
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Quantum_information_science&amp;oldid=1058999522"
+     
+     
+    
+     
+      Categories: 
+      
+       Quantum information science
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with short description
+       Short description matches Wikidata
+       All articles with unsourced statements
+       Articles with unsourced statements from August 2020
+       Articles with GND identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       Català
+       Deutsch
+       Español
+       Français
+       한국어
+       Italiano
+       Lombard
+       Македонски
+       日本語
+       ਪੰਜਾਬੀ
+       Polski
+       Português
+       Русский
+       Српски / srpski
+       Svenska
+       Tagalog
+       Українська
+       Vèneto
+       Tiếng Việt
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 6 December 2021, at 20:57&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

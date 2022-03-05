@@ -1,0 +1,516 @@
+
+ 
+  
+   
+  Ricardo Baeza-Yates - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Ricardo Baeza-Yates 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+      
+       
+        
+         
+          
+           Ricardo Baeza-Yates
+          
+        
+        
+         
+        
+        
+         Born
+         1961 (age&nbsp;60–61)
+          
+           Chile
+          
+        
+        
+         Alma&nbsp;mater
+         University of WaterlooUniversity of Chile
+        
+        
+         Awards
+         ACM FellowIEEE Fellow
+        
+        
+         
+          Scientific career
+        
+        
+         Fields
+         Computer scienceData Science
+        
+        
+         Institutions
+         Northeastern UniversityNTENTYahoo! LabsPompeu Fabra UniversityUniversity of Chile
+        
+        
+         Doctoral advisor
+         Gaston Gonnet
+        
+        
+          
+        
+        
+         Website
+         www.baeza.cl
+        
+       
+       
+      Ricardo A. Baeza-Yates (born March 21, 1961) is a Chilean-Catalan computer scientist that currently is a Research Professor at the Institute for Experiential AI of Northeastern University in the Silicon Valley campus. He is also part-time professor at Universitat Pompeu Fabra in Barcelona and Universidad de Chile in Santiago. He is an expert member of the Global Partnership on Artificial Intelligence, a member of Spain's Advisory Council on AI, and a member of the Association for Computing Machinery's US Technology Policy Subcommittee on AI and Algorithms. 
+      From June 2016 until June 2020 he was CTO of NTENT, a semantic search technology company. Before, until February 2016, he was VP of Research for Yahoo! Labs, leading teams in United States, Europe and Latin America. 
+      He obtained a Ph.D. from the University of Waterloo with Efficient Text Searching, supervised by Gaston Gonnet and granted in 1989. 
+      His research interests include:  
+      
+       Algorithms and data structures. His contributions include algorithms for string search such as the Shift Or Algorithm and algorithms for Fuzzy string searching, inspiring also the Bitap algorithm; co-author of the Handbook of Algorithms and Data Structures ISBN&nbsp;0-201-14218-X with his former Ph.D. advisor Gaston Gonnet, 
+       Information retrieval. Co-author of Modern Information retrieval Addison Wesley, 
+        ISBN&nbsp;0-201-39829-X, first edition in 1999 and a second edition in 2011 that won the 2012 book of the year award of the Association for Information Science and Technology. 
+       Web search and mining. Baeza-Yates founded in 2002 and directed until 2005 the Center for Web Research in the Department of Computer Science of the University of Chile. His latest work on this area focuses on bias on the Web, giving the Gödel Lecture 2017 in Viena.
+       
+      Dr. Baeza-Yates was awarded one of the Spanish national Computer Science awards in 2018 as well as the J.W. Graham Medal in Computing and Innovation by the University of Waterloo, Canada, in 2007. In August 2008, Dr. Baeza-Yates was proposed for the first time to the Chilean National Prize in Applied Sciences (Premio Nacional de Ciencias Aplicadas). He has been proposed again most of even years when this award is given. He is corresponding member of the Chilean Academy of Sciences (2003), founding member of the Chilean Academy of Engineering (2010), and corresponding member of the Brazilian Academy of Sciences (2018). He is an ACM Fellow (2009). and an IEEE Fellow (2011).  
+      See also 
+      
+       List of University of Waterloo people
+       
+      References 
+      
+       
+       
+         
+         ^ 
+           "Former Yahoo! Chief Research Scientist Joins NTENT". Business Wire. 7 July 2016. Retrieved 21 September 2016.  
+         ^ 
+           Baker, Loren (23 January 2006). "Dr. Ricardo Baeza-Yates Leading Yahoo Labs in Chile &amp; Spain". Search Engine Journal. Retrieved 21 September 2016.  
+         ^ Ricardo A. Baeza-Yates at the Mathematics Genealogy Project  
+         ^ 
+           "dblp: Ricardo A. Baeza-Yates". DBLP Computer Science Bibliography. Retrieved 21 September 2016.  
+         ^ 
+           Baeza-Yates, Ricardo; Gonnet, Gaston (1992). "A New Approach to Text Searching". Communications of the ACM. 35 (10): 74–82. doi:10.1145/135239.135243. S2CID&nbsp;207166926. (first Published at SIGIR 1989)  
+         ^ 
+           "ASIS&amp;T Book of the Year award winners". Association for Information Science and Technology. Retrieved 21 September 2016.  
+         ^ 
+           Baeza-Yates, Ricardo (2018). "Bias on the Web". Communications of the ACM. 61 (6): 54–61. doi:10.1145/3209581. S2CID&nbsp;44111303.  
+         ^ 
+           Baeza-Yates, Ricardo, Gödel Lecture 2017: Bias in the Web   
+         ^ News of the three 2018 national computer science awards of the Spanish CS Society  
+         ^ Member profile, Chilean Academy of Sciences, retrieved 2013-02-14.  
+         ^ ACM Fellow award citation, retrieved 2013-02-14.  
+         ^ 
+           "Introducing the 2011 Fellows: The IEEE Fellows class for 2011 has been announced", The Institute, IEEE, 7 March 2011, archived from the original on 26 September 2013.  
+        
+       
+       
+      External links 
+      
+       Official website 
+       Ricardo Baeza-Yates on LinkedIn 
+       Ricardo Baeza-Yates publications indexed by Google Scholar 
+       Publications in DBLP 
+       Website of Modern Information Retrieval, 2nd. edition, Addison Wesley, 2011 
+       Cómo funciona la web (2008) Full text in the Electronic Books Portal of the University of Chile
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          General
+          
+            
+            
+             ISNI 
+              
+               1
+               
+             ORCID 
+              
+               1
+               
+             VIAF 
+              
+               1
+               
+             WorldCat
+             
+           
+         
+         
+          National libraries
+          
+            
+            
+             Norway 
+             France (data) 
+             Catalonia 
+             Germany 
+             United States 
+             Czech Republic 
+             Korea 
+             Croatia 
+             Netherlands 
+             Poland 
+             Sweden
+             
+           
+         
+         
+          Scientific databases
+          
+            
+            
+             Association for Computing Machinery 
+             CiNii (Japan) 
+             DBLP (computer science) 
+             Google Scholar 
+             Mathematics Genealogy Project 
+             ResearcherID 
+             Scopus author
+             
+           
+         
+         
+          Other
+          
+            
+            
+             RERO (Switzerland) 
+              
+               1
+               
+             SUDOC (France) 
+              
+               1
+              
+             
+           
+         
+        
+       
+       
+        
+      
+      
+       
+        
+         
+           
+          This article about a Chilean scientist is a stub. You can help Wikipedia by expanding it.
+         
+        
+       
+       
+       
+        
+         v
+         t
+         e
+        
+       
+       
+      
+      
+       
+        
+         
+          
+          This biographical article relating to a computer specialist is a stub. You can help Wikipedia by expanding it.
+         
+        
+       
+       
+       
+        
+         v
+         t
+         e
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Ricardo_Baeza-Yates&amp;oldid=1061471040"
+     
+     
+    
+     
+      Categories: 
+      
+       Chilean computer scientists
+       Spanish computer scientists
+       Yahoo! employees
+       Fellows of the Association for Computing Machinery
+       Fellow Members of the IEEE
+       1961 births
+       Living people
+       J.W. Graham Medal awardees
+       Chilean people stubs
+       South American scientist stubs
+       Computer specialist stubs
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with hCards
+       All articles with unsourced statements
+       Articles with unsourced statements from February 2013
+       Articles with ISNI identifiers
+       Articles with ORCID identifiers
+       Articles with VIAF identifiers
+       Articles with WORLDCATID identifiers
+       Articles with BIBSYS identifiers
+       Articles with BNF identifiers
+       Articles with CANTIC identifiers
+       Articles with GND identifiers
+       Articles with LCCN identifiers
+       Articles with NKC identifiers
+       Articles with NLK identifiers
+       Articles with NSK identifiers
+       Articles with NTA identifiers
+       Articles with PLWABN identifiers
+       Articles with SELIBR identifiers
+       Articles with ACM-DL identifiers
+       Articles with CINII identifiers
+       Articles with DBLP identifiers
+       Articles with Google Scholar identifiers
+       Articles with MGP identifiers
+       Articles with RID identifiers
+       Articles with Scopus identifiers
+       Articles with RERO identifiers
+       Articles with SUDOC identifiers
+       All stub articles
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       تۆرکجه
+       مصرى
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 21 December 2021, at 22:35&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

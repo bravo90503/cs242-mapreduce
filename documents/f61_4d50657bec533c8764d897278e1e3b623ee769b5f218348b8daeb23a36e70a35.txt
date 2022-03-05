@@ -1,0 +1,370 @@
+
+ 
+  
+   
+  Geographic information retrieval - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Geographic information retrieval 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Technologies for discovering content about a place
+       
+      Geographic information retrieval (GIR) or geographical information retrieval systems are search tools for searching the Web, enterprise documents, and mobile local search that combine traditional text-based queries with location querying, such as a map or placenames. Like traditional information retrieval systems, GIR systems index text and information from structured and unstructured documents, and also augment those indices with geographic information. The development and engineering of GIR systems aims to build systems that can reliably answer queries that include a geographic dimension, such as "What wars were fought in Greece?" or "restaurants in Beirut". Semantic similarity and word-sense disambiguation are important components of GIR. To identify place names, GIR systems often rely on natural language processing or other metadata to associate text documents with locations. Such georeferencing, geotagging, and geoparsing tools often need databases of location names, known as gazetteers.  
+      
+       
+       
+        Contents
+        
+        
+        1 GIR architecture 
+        2 GIR systems 
+        3 Study &amp; Evaluation 
+        4 Applications 
+        5 References 
+        6 See also 
+        
+       
+      GIR architecture 
+      GIR involves extracting and resolving the meaning of locations in unstructured text. This is known as geoparsing. After identifying mentions of places and locations in text, a GIR system indexes this information for search and retrieval. GIR systems can commonly be broken down into the following stages: geoparsing, text and geographic indexing, data storage, geographic relevance ranking with respect to a geographic query and browsing results commonly with a map interface. 
+      Some GIR systems separate text indexing from geographic indexing, which enables the use of generic database joins, or multi-stage filtering, and others combine them for efficiency. 
+      GIR must manage several forms of uncertainty, including semantic ambiguity of mentions of places in natural language text and position precision.  
+      GIR systems 
+      
+       MetaCarta created and patented one of the first commercial products to offer GIR capabilities. 
+       Frankenplace: a general-purpose geographic search engine. 
+       Web-a-where
+       
+      Study &amp; Evaluation 
+      The study of GIR systems has a rich history dating back to the 1970s and possibly earlier. See Ray Larson’s book Geographic information retrieval and spatial browsing for references to much of the pre-Web literature on GIR. 
+      In 2005 the Cross-Language Evaluation Forum added a geographic track, GeoCLEF. GeoCLEF was the first TREC-style evaluation forum for GIR systems and provided participants a chance to compare systems.  
+      Applications 
+      GIR has many applications in geoweb, neogeography, and mobile local search and has been a focus of many conferences, including the ESRI Users Conferences and O'Reilly’s Where 2.0 conferences.  
+      References 
+      
+       
+       
+         
+         ^ Purves, Ross; Jones, Christopher (2011-07-01). "Geographic Information Retrieval". SIGSPATIAL Special. 3 (2): 2–4. CiteSeerX&nbsp;10.1.1.130.3521. doi:10.1145/2047296.2047297. ISSN&nbsp;1946-7729. S2CID&nbsp;1940653.  
+         ^ 
+           Kuhn, Werner; Raubal, Martin; Janowicz, Krzysztof (2011-05-25). "The semantics of similarity in geographic information retrieval | Janowicz | Journal of Spatial Information Science". Journal of Spatial Information Science. 2011 (2): 29–57. doi:10.5311/JOSIS.2011.2.26 (inactive 31 October 2021). Retrieved 2015-09-12.}: CS1 maint: DOI inactive as of October 2021 (link)  
+         ^ 
+           "MetaCarta: Putting Natural Language on the Map". GIS Monitor. 2003-08-21. Archived from the original on 2003-10-03.  
+         ^ 
+           Smith, Susan. "The Space Between Maps, Search and Content".  
+         ^ a b 
+           Dinan, Elizabeth (2003-11-10). "Ware-Withal: MIT-rooted MetaCarta stakes its claim with automatic geoparsing software".  
+         ^ 
+           "MetaCarta Unveils First Geo-referencing Solution to Support Arabic and Spanish Languages". 2007-06-20.  
+         ^ 
+           Frank, John; Warren, Bob. "Locating All Content" (PDF).  
+         ^ 
+           "Chapter 15. Query performance tuning". PostGIS In Action (Second&nbsp;ed.). Manning Publications.  
+         ^ 
+           "Apache Solr - Lucene Reference Guide - Spatial Search". Retrieved 2021-01-03.  
+         ^ 
+           "CartaTrees Map Search Text Index". Archived from the original on 2004-04-02.  
+         ^ 
+           Bordognaa, Gloria; Ghisalbertib, Giorgio; Psailac, Giuseppe (2012-06-01). "Geographic information retrieval: Modeling uncertainty of user's context". Fuzzy Sets and Systems. 196: 105–124. doi:10.1016/j.fss.2011.04.005. Geographic information retrieval (GIR) is nowadays a hot research issue that involves the management of uncertainty and imprecision and the modeling of user preferences and context. Indexing the geographic content of documents implies dealing with the ambiguity, synonymy and homonymy of geographic names in texts. On the other side, the evaluation of queries specifying both content based conditions and spatial conditions on documents’ contents requires representing the vagueness and context dependency of spatial conditions and the personal user's preferences.  
+         ^ 
+           Jennifer 8. Lee (2002-01-14). "Federal Agents Look to Adapt Private Technology". New York Times.  
+         ^ 
+           "The revenge of geography". The Economist. 2003-03-13. Archived from the original on 2020-12-31.  
+         ^ 
+           Levy, Steven (2004-06-07). "Making the Ultimate Map - When digital geography teams up with wireless technology and the Web, the world takes on some new dimensions". Newsweek. Archived from the original on 2004-06-03.  
+         ^ US granted 7117199, Frank, John R.; Rauch, Erik M. &amp; Donoghue, Karen, "Spatially coding and displaying information", issued 2006-10-03&nbsp;  
+         ^ 
+           Erik Rauch, Michael Bukatin, and Kenneth Baker from MetaCarta. A confidence-based framework for disambiguating geographic terms (Speech). Retrieved 2021-01-03.}: CS1 maint: uses authors parameter (link)  
+         ^ 
+           András Kornai, MetaCarta (2005). MetaCarta at GeoCLEF 2005. GeoCLEF. In Memoriam Erik Rauch  
+         ^ 
+           Adams, Benjamin; McKenzie, Grant; Gahegan, Mark (2015-01-01). Frankenplace: Interactive Thematic Mapping for Ad Hoc Exploratory Search. Proceedings of the 24th International Conference on World Wide Web. WWW '15. Republic and Canton of Geneva, Switzerland: International World Wide Web Conferences Steering Committee. pp.&nbsp;12–22. doi:10.1145/2736277.2741137. ISBN&nbsp;978-1-4503-3469-3. S2CID&nbsp;1639723.  
+         ^ 
+           Amitay, Einat; Har'El, Nadav; Sivan, Ron; Soffer, Aya (July 2004). Web-a-where: geotagging web content. SIGIR '04: Proceedings of the 27th annual international ACM SIGIR conference on Research and development in information retrieval. pp.&nbsp;273–280. doi:10.1145/1008992.1009040. We describe Web-a-Where, a system for associating geography with Web pages. Web-a-Where locates mentions of places and determines the place each name refers to. In addition, it assigns to each page a geographic focus --- a locality that the page discusses as a whole.  
+         ^ 
+           Larson, Ray R. (1996). Geographic information retrieval and spatial browsing. Graduate School of Library and Information Science, University of Illinois at Urbana-Champaign. hdl:2142/416. ISBN&nbsp;0878450971. ISSN&nbsp;0069-4789.  
+         ^ 
+           Gey, Fredric; Larson, Ray; Sanderson, Mark; Joho, Hideo; Clough, Paul; Petras, Vivien (2005-09-21). Peters, Carol; Gey, Fredric C.; Gonzalo, Julio; Müller, Henning; Jones, Gareth J. F.; Kluck, Michael; Magnini, Bernardo; Rijke, Maarten de (eds.). GeoCLEF: The CLEF 2005 Cross-Language Geographic Information Retrieval Track Overview. Lecture Notes in Computer Science. Springer Berlin Heidelberg. pp.&nbsp;908–919. CiteSeerX&nbsp;10.1.1.156.6368. doi:10.1007/11878773_101. ISBN&nbsp;978-3-540-45697-1.  
+         ^ 
+           Local Search Faces Off - Craig Donato, Perry Evans, John Frank, Jeremy Kreitler, Shailesh Rao (Speech). Where 2.0. 2005-06-29. Archived from the original on 2013-07-29.  
+         ^ 
+           Himmelstein, Marty (2005). "Local Search: The Internet Is the Yellow Pages". Computer. Published by the IEEE Computer Society. 38 (2): 26–34. doi:10.1109/MC.2005.65. Every day, millions of people use their local newspapers, classified ad circulars, Yellow Pages directories, regional magazines, and the Internet to find information pertaining to the activities of daily life…  
+        
+       
+       
+      See also 
+      
+       Geographic information system 
+       Geoparsing 
+       Information retrieval 
+       MetaCarta 
+       Semantic similarity 
+       Search engine (computing) 
+       Toponymy
+       
+      
+      
+       
+        
+         
+          
+          This computer science article is a stub. You can help Wikipedia by expanding it.
+         
+        
+       
+       
+       
+        
+         v
+         t
+         e
+        
+       
+       
+      
+      
+       
+        
+         
+          
+          This computational linguistics-related article is a stub. You can help Wikipedia by expanding it.
+         
+        
+       
+       
+       
+        
+         v
+         t
+         e
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Geographic_information_retrieval&amp;oldid=1053469429"
+     
+     
+    
+     
+      Categories: 
+      
+       Geographic data and information
+       Information retrieval
+       Computer science stubs
+       Computational linguistics stubs
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 maint: DOI inactive as of October 2021
+       CS1 maint: uses authors parameter
+       Articles with short description
+       Short description matches Wikidata
+       All stub articles
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+       
+      
+       Add links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 4 November 2021, at 02:32&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

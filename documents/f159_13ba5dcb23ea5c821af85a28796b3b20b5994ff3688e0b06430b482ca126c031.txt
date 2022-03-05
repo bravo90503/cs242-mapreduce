@@ -1,0 +1,526 @@
+
+ 
+  
+   
+  Conference on Information and Knowledge Management - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Conference on Information and Knowledge Management 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      The ACM Conference on Information and Knowledge Management (CIKM, pronounced /ˈsikəm/) is an annual computer science research conference dedicated to information management (IM) and knowledge management (KM). Since the first event in 1992, the conference has evolved into one of the major forums for research on database management, information retrieval, and knowledge management. The conference is noted for its interdisciplinarity, as it brings together communities that otherwise often publish at separate venues. Recent editions have attracted well beyond 500 participants. In addition to the main research program, the conference also features a number of workshops, tutorials, and industry presentations. 
+      For many years, the conference was held in the USA. Since 2005, venues in other countries have been selected as well. Locations include:  
+      
+       1992: Baltimore, Maryland, USA  
+       1993: Washington, D.C., USA  
+       1994: Gaithersburg, Maryland, USA  
+       1995: Baltimore, Maryland, USA, 
+       1996: Rockville, Maryland, USA 
+       1997: Las Vegas, Nevada, USA 
+       1998: Bethesda, Maryland, USA 
+       1999: Kansas City, Missouri, USA 
+       2000: Washington, D.C., USA 
+       2001: Atlanta, Georgia, USA 
+       2002: McLean, Virginia, USA 
+       2003: New Orleans, Louisiana, USA 
+       2004: Washington, D.C., USA 
+       2005: Bremen, Germany 
+       2006: Arlington, Virginia, USA 
+       2007: Lisbon, Portugal  
+       2008: Napa Valley, California, USA  
+       2009: Hong Kong, China  
+       2010: Toronto, Ontario, Canada 
+       2011: Glasgow, Scotland, UK  
+       2016: Indianapolis, USA  
+       2017: Singapore, Singapore  
+       2018: Turin, Italy  
+       2019: Beijing, China  
+       2020: Galway, Ireland
+       
+      See also 
+      
+       SIGIR Conference
+       
+      References 
+      
+       
+       
+         
+         ^ Official home page  
+         ^ "Arnetminer ranking list: WWW, IR". Arnetminer. Retrieved 2011-06-11.  
+         ^ 
+           "CIKM 2011 sponsorship page". Archived from the original on 2011-05-29. Retrieved 2011-06-11.  
+         ^ CIKM 2011 home page  
+         ^ CIKM. DBLP  
+         ^ comp.ai email  
+         ^ comp.ai email  
+         ^ ACM digital library  
+         ^ ACM digital library  
+         ^ 
+           "Archived copy". Archived from the original on 2007-01-08. Retrieved 2011-06-20.}: CS1 maint: archived copy as title (link)  
+         ^   
+         ^ 
+           "Archived copy". Archived from the original on 2011-08-07. Retrieved 2011-06-14.}: CS1 maint: archived copy as title (link)  
+         ^ 
+           "The 19th ACM International Conference on Information and Knowledge Management".  
+         ^   
+         ^   
+         ^   
+         ^   
+         ^   
+        
+       
+       
+      External links 
+      
+       Official website 
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Association for Computing Machinery
+           
+         
+         
+          Special Interest Groups
+          
+            
+            
+             SIGACCESS 
+             SIGACT 
+             SIGAda 
+             SIGAI 
+             SIGAPP 
+             SIGARCH 
+             SIGBED 
+             SIGBio 
+             SIGCAS 
+             SIGCHI 
+             SIGCOMM 
+             SIGCSE 
+             SIGDA 
+             SIGDOC 
+             SIGecom 
+             SIGEVO 
+             SIGGRAPH 
+             SIGHPC 
+             SIGIR 
+             SIGITE 
+             SIGKDD 
+             SIGLOG 
+             SIGMETRICS 
+             SIGMICRO 
+             SIGMIS 
+             SIGMM 
+             SIGMOBILE 
+             SIGMOD 
+             SIGOPS 
+             SIGPLAN 
+             SIGSAC 
+             SIGSAM 
+             SIGSIM 
+             SIGSOFT 
+             SIGSPATIAL 
+             SIGUCCS 
+             SIGWEB
+             
+           
+         
+         
+          Awards
+          
+           
+           
+            
+             
+              ACM
+              
+                
+                
+                 Turing Award 
+                 ACM Fellowship 
+                 ACM-AAAI Allen Newell Award 
+                 Athena Lecturer Award 
+                 Eckert–Mauchly Award 
+                 Eugene L. Lawler Award 
+                 ACM Doctoral Dissertation Award 
+                 Gordon Bell Prize 
+                 Grace Murray Hopper Award 
+                 Ken Kennedy Award 
+                 Paris Kanellakis Theory and Practice Award 
+                 ACM Prize in Computing 
+                 ACM Software System Award 
+                 SIAM/ACM Prize in Computational Science and Engineering
+                 
+               
+             
+             
+              SIGs
+              
+                
+                
+                 CHI Academy 
+                 Gödel Prize 
+                 Knuth Prize 
+                 Steven A. Coons Award
+                 
+               
+             
+            
+           
+           
+         
+         
+          Publications
+          
+            
+            
+             Journal of the ACM 
+             Communications of the ACM 
+             RISKS Digest 
+             ACM Digital Library 
+             ACM Computing Surveys 
+             Computers in Entertainment 
+             ACM Interactions 
+             ACM Queue 
+             ACM XRDS
+             
+           
+         
+         
+          Conferences
+          
+            
+            
+             ACM-MM 
+             ASPLOS 
+             CHI 
+             CIKM 
+             DAC 
+             DEBS 
+             FAccT 
+             FCRC 
+             GECCO 
+             GHC 
+             HOPL 
+             Hot Chips 
+             Hypertext 
+             SenSys 
+             ISCA 
+             ISMM 
+             ISPD 
+             ISSAC 
+             JCDL 
+             MobiCom 
+             PLDI 
+             PODC 
+             PODS 
+             POPL 
+             PPoPP 
+             SC 
+             SIGCOMM 
+             SIGCSE 
+             SIGGRAPH 
+             SoCG 
+             SODA 
+             SOSP 
+             SPAA 
+             SPLASH 
+             STOC 
+             TAPIA 
+             UIST 
+             VRIC
+             
+           
+         
+         
+          Educational programs
+          
+            
+            
+             ACM-W 
+             ACM International Collegiate Programming Contest 
+             ACM Student Research Competition 
+             Upsilon Pi Epsilon
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          General
+          
+            
+            
+             VIAF 
+              
+               1
+               
+             WorldCat (via VIAF)
+             
+           
+         
+         
+          National libraries
+          
+            
+            
+             Germany 
+             United States
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Conference_on_Information_and_Knowledge_Management&amp;oldid=1049687474"
+     
+     
+    
+     
+      Categories: 
+      
+       Computer science conferences
+       Association for Computing Machinery conferences
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 maint: archived copy as title
+       Articles with VIAF identifiers
+       Articles with GND identifiers
+       Articles with LCCN identifiers
+       Articles with WorldCat-VIAF identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+       
+      
+       Add links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 13 October 2021, at 07:42&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

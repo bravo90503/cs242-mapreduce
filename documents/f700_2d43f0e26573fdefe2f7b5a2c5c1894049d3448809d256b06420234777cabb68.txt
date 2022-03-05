@@ -1,0 +1,2748 @@
+
+ 
+  
+   
+  Pictogram - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Pictogram 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Ideogram that conveys its meaning through its pictorial resemblance to a physical object
+       
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources:&nbsp;"Pictogram"&nbsp;–&nbsp;news&nbsp;· newspapers&nbsp;· books&nbsp;· scholar&nbsp;· JSTOR (November 2006) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      
+       
+         
+        
+         
+          
+         US sign warning that a stop sign is ahead
+        
+       
+       
+      A pictogram, also called a pictogramme, pictograph, or simply picto, and in computer usage an icon, is a graphic symbol that conveys its meaning through its pictorial resemblance to a physical object. Pictographs are often used in writing and graphic systems in which the characters are to a considerable extent pictorial in appearance. A pictogram may also be used in subjects such as leisure, tourism, and geography. 
+      Pictography is a form of writing which uses representational, pictorial drawings, similarly to cuneiform and, to some extent, hieroglyphic writing, which also uses drawings as phonetic letters or determinative rhymes. Some pictograms, such as Hazards pictograms, are elements of formal languages. 
+      "Pictograph" has a different definition in the field of prehistoric art (which includes recent art by traditional societies), where it means art painted on rock surfaces. This is in comparison to petroglyphs, where the images are carved or incised. Such images may or may not be considered pictograms in the general sense.  
+      
+       
+       
+        Contents
+        
+        
+        1 Historical 
+        2 Modern uses 
+        3 In mathematics 
+        4 Standardization 
+        5 See also 
+        6 Notes 
+        7 References 
+        8 External links 
+        
+       
+      Historical 
+      
+       
+         
+        
+         
+          
+         Ojibwa pictographs on cliff-face at Agawa Rock, Lake Superior Provincial Park of a boat and Mishipeshu, an animal with horns, painted with red ochre
+        
+       
+       
+      Early written symbols were based on pictographs (pictures which resemble what they signify) and ideograms (symbols which represent ideas). Ancient Sumerian, Egyptian, and Chinese civilizations began to adapt such symbols to represent concepts, developing them into logographic writing systems. Pictographs are still in use as the main medium of written communication in some non-literate cultures in Africa, the Americas, and Oceania. Pictographs are often used as simple, pictorial, representational symbols by most contemporary cultures.  
+      
+       
+         
+        
+         
+          
+         Several prehistoric engravings can be found around La Silla Observatory.
+        
+       
+       
+      Pictographs can be considered an art form, or can be considered a written language and are designated as such in Pre-Columbian art, Native American art, Ancient Mesopotamia and Painting in the Americas before Colonization. One example of many is the Rock art of the Chumash people, part of the Native American history of California. In 2011, UNESCO's World Heritage List added "Petroglyph Complexes of the Mongolian Altai, Mongolia" to celebrate the importance of the pictograms engraved in rocks. 
+      Some scientists in the field of neuropsychiatry and neuropsychology, such as Mario Christian Meyer, are studying the symbolic meaning of indigenous pictograms and petroglyphs, aiming to create new ways of communication between native people and modern scientists to safeguard and valorize their cultural diversity.  
+      Modern uses 
+      An early modern example of the extensive use of pictographs may be seen in the map in the London suburban timetables of the London and North Eastern Railway, 1936–1947, designed by George Dow, in which a variety of pictographs was used to indicate facilities available at or near each station. Pictographs remain in common use today, serving as pictorial, representational signs, instructions, or statistical diagrams. Because of their graphical nature and fairly realistic style, they are widely used to indicate public toilets, or places such as airports and train stations. Because they are a concise way to communicate a concept to people who speak many different languages, pictograms have also been used extensively at the Olympics since 1964 Tokyo Summer Olympics, designed by Masaru Katsumi, and are redesigned for each set of games. 
+      Pictographic writing as a modernist poetic technique is credited to Ezra Pound, though French surrealists credit the Pacific Northwest American Indians of Alaska who introduced writing, via totem poles, to North America. 
+      Contemporary artist Xu Bing created Book from the Ground, a universal language made up of pictograms collected from around the world. A Book from the Ground chat program has been exhibited in museums and galleries internationally. 
+      Pictograms are used in many areas of modern life for commodity purposes, often as a formal language (see the In mathematics section).  
+      In mathematics 
+      
+       
+         
+        
+         
+          
+         A compound pictogram showing the breakdown of the survivors and deaths of the maiden voyage of the RMS Titanic by class and age/gender.
+        
+       
+       
+      In statistics, pictograms are charts in which icons represent numbers to make it more interesting and easier to understand. A key is often included to indicate what each icon represents. All icons must be of the same size, but a fraction of an icon can be used to show the respective fraction of that amount. 
+      For example, the following table:  
+       
+       
+         
+         Day 
+         Letters sent 
+         
+         
+         Monday 
+         10 
+         
+         
+         Tuesday 
+         17 
+         
+         
+         Wednesday 
+         29 
+         
+         
+         Thursday 
+         41 
+         
+         
+         Friday 
+         18 
+        
+       
+       
+      can be graphed as follows:  
+       
+        
+        
+       
+         
+         Day 
+         Letters sent 
+         
+         
+         Monday 
+          
+         
+         
+         Tuesday 
+         &nbsp; 
+         
+         
+         Wednesday 
+         &nbsp;&nbsp; 
+         
+         
+         Thursday 
+         &nbsp;&nbsp;&nbsp; 
+         
+         
+         Friday 
+         &nbsp; 
+        
+       
+       
+      Key:  = 10 letters 
+      As the values are rounded to the nearest 5 letters, the second icon on Tuesday is the left half of the original.  
+      Standardization 
+      Pictographs can often transcend languages in that they can communicate to speakers of a number of tongues and language families equally effectively, even if the languages and cultures are completely different. This is why road signs and similar pictographic material are often applied as global standards expected to be understood by nearly all. 
+      A standard set of pictographs was defined in the international standard ISO 7001: Public Information Symbols. Other common sets of pictographs are the laundry symbols used on clothing tags and the chemical hazard symbols as standardized by the GHS system. 
+      Pictograms have been popularized in use on the web and in software, better known as "icons" displayed on a computer screen in order to help user navigate a computer system or mobile device.  
+       
+       
+         
+         
+          
+           
+          
+          
+          
+          Native American Pictographs from the Great Gallery, Horseshoe Canyon, Canyonlands National Park  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          Sample National Park Service pictographs  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          Pictograph from 1510 telling a story of coming of missionaries to Hispaniola  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          This highly influential pictogram design was introduced at the 1972 Munich Olympics, although pictograms first began to appear in the games at Tokyo in 1964.  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          British Rail passenger safety pictographs at the end of the platform at Meols railway station  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          The top traffic sign warns people of horses and riders.  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          Water, rabbit, deer pictographs on a replica of an Aztec Stone of the Sun  
+          
+         
+       
+      See also 
+      
+       
+       
+        Bouba/kiki effect 
+        Crop art 
+        Emoticon 
+        Emoji 
+        Icon (computing) 
+        Ideasthesia 
+        Ideogram 
+        List of Stone Age art 
+        List of symbols 
+        List of writing systems §&nbsp;Pictographic/ideographic writing systems 
+        Pecked curvilinear nucleated 
+        Petroform 
+        Petroglyph 
+        Rebus 
+        Road sign 
+        Rock art 
+        Rock art of the Chumash people 
+        Sound symbolism 
+        Stick figure, in art 
+        Symbol 
+        Traffic sign 
+        Warning sign 
+        Yakima Indian Painted Rocks
+        
+       
+      Notes 
+      
+       
+       
+         
+         ^ Gove, Philip Babcock. (1993). Webster's Third New International Dictionary of the English Language Unabridged. Merriam-Webster Inc. ISBN&nbsp;0-87779-201-1.  
+         ^ 
+           Goody, Jack (1987). The interface between the written and the oral. Cambridge . p.&nbsp;4. ISBN&nbsp;0-521-33268-0. OCLC&nbsp;14242868.  
+         ^ 
+           "Signatures from the Past". ESO.org. European Southern Observatory. 30 January 2017. Retrieved 30 January 2017.  
+         ^ 
+           Pharo, Lars Kirkhusmo (2018). "Multilingualism and Lingua Francae of Indigenous Civilizations of America". In Braarvig, Jens; Geller, Markham J. (eds.). Studies in Multilingualism, Lingua Franca and Lingua Sacra. Edition Open Access Max Planck Institute for the History of Science. p.&nbsp;488. ISBN&nbsp;9783945561133.  
+         ^ 
+           Ambrosino, Gordon (2018-10-20). "Painted origins: inscribed landscape histories in the Fortaleza pictograph style during the Andean, late pre-Hispanic period". World Archaeology. 50 (5): 804–819. doi:10.1080/00438243.2019.1612272. ISSN&nbsp;0043-8243. S2CID&nbsp;198820112.  
+         ^ 
+           "Petroglyphic Complexes of the Mongolian Altai". WHC.UNESCO.org. UNESCO World Heritage Centre. 2011.  
+         ^ 
+           Meyer, Mario Christian (December 1985). Apprentissage de la langue maternelle écrite: étude sur des populations "les moins favorisées" dans une approche interdisciplinaire (PDF). ED-85/WS/65.  
+         ^ 
+           Meyer, Mario Christian. "Out Of The Forest &amp; Into The Lab: Amerindian Initiation Into Sacred Science" (PDF). In Bloom, Pamela (ed.). Amazon Up Close. Archived from the original (PDF) on 2012-03-17.  
+         ^ 
+           Hall, C. Justin; Allen, Zachary. "Olympic Pictograms". Visual Rhetoric.  
+         ^ 
+           "Olympic Pictograms: Design through History". MediaMadeGreat.com. 16 August 2016.  
+         ^ 
+           Popovic, John Jan (ed.). "Olympic Games Pictograms". 1stMuse.com.  
+         ^ Reed 2003, p. xix  
+         ^ 
+           "Understanding pictograms". BBC — Skillswise. Archived from the original on 2013-12-29. Retrieved 2014-05-11.  
+        
+       
+       
+      References 
+      
+       
+       
+        Reed, Ishmael (2003). From Totems to Hip-Hop: A Multicultural Anthology of Poetry Across the Americas, 1900-2002, Ishmael Reed, ed. 
+         ISBN&nbsp;1-56025-458-0.
+        
+       
+      External links 
+       
+       
+         
+          
+         Wikimedia Commons has media related to Pictograms.
+         
+       
+       
+       
+       
+         
+          
+         Look up pictogram in Wiktionary, the free dictionary.
+         
+       
+       
+      
+       
+       
+        Pictogram &amp; Communication: About 1,500 practical pictograms based on Design principles of pictorial symbols for communication support(JIS T 0103:2005) 
+        CAPL:The Culturally Authentic Pictorial Lexicon, photographic illustrations of objects for multiple languages 
+        Pictogram Encyclopedia, The collection site of more than 500 pictograms, Pictograms are categorized, and easy to find unique pictogram 
+        Pictopen - Modern Pictographic Writing 
+        NounProject - Free Pictograms under open licences 
+        Modern Pictograms - Explore word and pictogram relationships 
+        Wolfram|Alpha - Number to pictogram translator 
+        icons - download free icons for commercial and non commercial uses
+        
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Writing systems
+           
+         
+         
+          
+           
+            Index of language articles
+           
+         
+         
+          Overview
+          
+            
+            
+             History of writing 
+             History of the alphabet 
+             Graphemes 
+             Scripts in Unicode
+             
+           
+         
+         
+          Lists
+          
+            
+            
+             Writing systems 
+             Languages by writing system&nbsp;/ by first written account 
+             Undeciphered writing systems 
+             Creators of writing systems
+             
+           
+         
+         
+          Types
+          
+            
+            
+             Abjads 
+             Alphasyllabaries&nbsp;/ Abugidas 
+             Alphabets 
+             Featural 
+             Hieroglyph 
+             Ideogrammic 
+             Logographic 
+             Logophonetic 
+             Numeral 
+             Pictographic 
+             Semi-syllabaries 
+             Shorthand 
+             Syllabaries
+             
+           
+         
+         
+          Current examples
+          
+            
+            
+             Latin alphabet 
+             Cyrillic script 
+             Chinese characters 
+             Arabic alphabet 
+             Devanagari 
+             Kana 
+             Hangul 
+             Hebrew alphabet 
+             Greek alphabet
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Pictogram 
+             Ideogram
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Types of writing systems
+           
+         
+         
+          
+           
+           
+            
+             
+              Overview
+              
+                
+                
+                 History of writing 
+                 Grapheme
+                 
+               
+             
+             
+              Lists
+              
+                
+                
+                 Writing systems 
+                  
+                   undeciphered 
+                   inventors 
+                   constructed
+                   
+                 Languages by writing system / by first written accounts
+                 
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Types
+               
+             
+             
+              
+               
+               
+                
+                 
+                  
+                   
+                   
+                    
+                     
+                      
+                       
+                        Abjads
+                       
+                     
+                     
+                      
+                        
+                        
+                         Numerals
+                         
+                        
+                         Aramaic 
+                          
+                           Hatran
+                           
+                         Arabic 
+                         Egyptian hieroglyphs 
+                         Hebrew 
+                          
+                           Ashuri 
+                           Cursive 
+                           Rashi 
+                           Solitreo
+                           
+                         Tifinagh 
+                         Mandaic 
+                         Manichaean 
+                         Nabataean 
+                         Old North Arabian 
+                         Pahlavi 
+                         Pegon 
+                         Phoenician 
+                          
+                           Paleo-Hebrew
+                           
+                         Pitman shorthand 
+                         Proto-Sinaitic 
+                         Psalter Pahlavi 
+                         Punic 
+                         Samaritan 
+                         South Arabian 
+                          
+                           Zabur 
+                           Musnad
+                           
+                         Sogdian 
+                         Syriac 
+                          
+                           ʾEsṭrangēlā 
+                           Serṭā 
+                           Maḏnḥāyā
+                           
+                         Teeline Shorthand 
+                         Ugaritic
+                         
+                       
+                     
+                    
+                   
+                   
+                 
+                 
+                  
+                   
+                   
+                    
+                     
+                      
+                       
+                        Abugidas
+                       
+                     
+                     
+                      
+                       
+                       
+                        
+                         
+                          Brahmic
+                          
+                           
+                           
+                            
+                             
+                              Northern
+                              
+                               
+                              
+                              Assamese 
+                              Bengali 
+                              Bhaiksuki 
+                              Bhujimol 
+                              Brāhmī 
+                              Devanāgarī 
+                              Dogri 
+                              Gujarati 
+                              Gupta 
+                              Gurmukhī 
+                              Kaithi 
+                              Kalinga 
+                              Khojki 
+                              Khudabadi 
+                              Laṇḍā 
+                              Lepcha 
+                              Limbu 
+                              Mahajani 
+                              Meitei 
+                              Modi 
+                              Multani 
+                              Nagari 
+                              Nandinagari 
+                              Odia 
+                              
+                              Karani
+                               
+                              ʼPhags-pa 
+                              Pracalit (Newar) 
+                              Ranjana 
+                              Sharada 
+                              Siddhaṃ 
+                              Soyombo 
+                              Sylheti Nagri 
+                              Takri 
+                              Tibetan 
+                              
+                              Uchen 
+                              Umê
+                               
+                              Tirhuta 
+                              Tocharian 
+                              Zanabazar Square 
+                              Marchen 
+                              
+                              Marchung 
+                              Pungs-chen 
+                              Pungs-chung 
+                              Drusha
+                              
+                               
+                              
+                             
+                             
+                              Southern
+                              
+                               
+                              
+                              Ahom 
+                              Balinese 
+                              Batak 
+                              Baybayin 
+                              Bhattiprolu 
+                              Buda 
+                              Buhid 
+                              Burmese 
+                              Chakma 
+                              Cham 
+                              Fakkham 
+                              Grantha 
+                              Goykanadi 
+                              Hanunuo (Hanunó'o) 
+                              Javanese 
+                              Kadamba 
+                              Kannada 
+                              Karen 
+                              Kawi 
+                              Khmer 
+                              
+                              Khom Thai
+                               
+                              Kulitan 
+                              Lanna 
+                              Lao 
+                              Leke 
+                              Lampung 
+                              Lontara 
+                              
+                              Bilang-bilang
+                               
+                              Makasar 
+                              Malayalam 
+                              Old Maldivian 
+                              
+                              Dhives Akuru 
+                              Eveyla Akuru
+                               
+                              Mon 
+                              
+                              Old Mon
+                               
+                              New Tai Lue 
+                              Pallava 
+                              Pyu 
+                              Rejang 
+                              Rencong 
+                              Saurashtra 
+                              Shan 
+                              Sinhala 
+                              Sukhothai 
+                              Sundanese 
+                              
+                              Old Sundanese
+                               
+                              Tagbanwa 
+                              Tai Le 
+                              Tai Noi 
+                              Tai Tham 
+                              Tai Viet 
+                              Tamil 
+                              Tamil-Brahmi 
+                              Tanchangya 
+                              Telugu 
+                              Thai 
+                              Tigalari 
+                              Vatteluttu 
+                              
+                              Kolezhuthu 
+                              Malayanma
+                              
+                               
+                              
+                             
+                            
+                           
+                           
+                         
+                         
+                          Others
+                          
+                            
+                            
+                             Boyd's syllabic shorthand 
+                             Canadian syllabics 
+                              
+                              Blackfoot 
+                              Déné syllabics
+                               
+                             Fox I 
+                             Geʽez 
+                             Gunjala Gondi 
+                             Japanese Braille 
+                             Jenticha 
+                             Kharosthi 
+                             Mandombe 
+                             Masaram Gondi 
+                             Meroitic 
+                             Miao 
+                             Mwangwego 
+                             Pahawh Hmong 
+                             Sorang Sompeng 
+                             Thaana 
+                             Thomas Natural Shorthand 
+                             Warang Citi
+                             
+                           
+                         
+                        
+                       
+                       
+                     
+                    
+                   
+                   
+                 
+                 
+                  
+                   
+                   
+                    
+                     
+                      
+                       
+                        Alphabets
+                       
+                     
+                     
+                      
+                       
+                       
+                        
+                         
+                          Linear
+                          
+                            
+                            
+                             Adlam 
+                             Armenian 
+                             Avestan 
+                             Avoiuli 
+                             Bassa Vah 
+                             Borama 
+                             Carian 
+                             Caucasian Albanian 
+                             Coelbren 
+                             Coorgi–Cox alphabet 
+                             Coptic 
+                             Cyrillic 
+                              
+                              Early
+                               
+                             Deseret 
+                             Duployan shorthand 
+                              
+                              Chinook writing
+                               
+                             Eclectic shorthand 
+                             Elbasan 
+                             Etruscan 
+                             Evenki 
+                             Fox II 
+                             Fraser 
+                             Gabelsberger shorthand 
+                             Garay 
+                             Georgian 
+                              
+                              Asomtavruli 
+                              Nuskhuri 
+                              Mkhedruli
+                               
+                             Glagolitic 
+                             Gothic 
+                             Gregg shorthand 
+                             Greek (archaic forms) 
+                             Greco-Iberian alphabet 
+                             Hangul 
+                             Hanifi 
+                             Jenticha 
+                             Kaddare 
+                             Kayah Li 
+                             Klingon 
+                             Latin 
+                              
+                              Beneventan 
+                              Blackletter 
+                              Carolingian minuscule 
+                              Fraktur 
+                              Gaelic 
+                              Insular 
+                              IPA 
+                              Kurrent 
+                              Merovingian 
+                              Sigla 
+                              Sütterlin 
+                              Tironian notes 
+                              Visigothic
+                               
+                             Luo 
+                             Lycian 
+                             Lydian 
+                             Manchu 
+                             Medefaidrin 
+                             Molodtsov 
+                             Mongolian 
+                             Mru 
+                             Neo-Tifinagh 
+                             N'Ko 
+                             Ogham 
+                             Oirat 
+                             Ol Chiki 
+                             Old Hungarian 
+                             Old Italic 
+                             Old Permic 
+                             Orkhon 
+                             Old Uyghur 
+                             Osage 
+                             Osmanya 
+                             Pau Cin Hau 
+                             Runic 
+                              
+                              Anglo-Saxon 
+                              Cipher 
+                              Dalecarlian 
+                              Elder Futhark 
+                              Younger Futhark 
+                              Gothic 
+                              Marcomannic 
+                              Medieval 
+                              Staveless
+                               
+                             Sidetic 
+                             Shavian 
+                             Sorang Sompeng 
+                             Tifinagh 
+                             Tolong Siki 
+                             Vagindra 
+                             Visible Speech 
+                             Vithkuqi 
+                             Wancho 
+                             Warang Citi 
+                             Zaghawa
+                             
+                           
+                         
+                         
+                          Non-linear
+                          
+                            
+                            
+                             Braille 
+                             Maritime flags 
+                             Telegraph code 
+                             New York Point 
+                             Flag semaphore 
+                             Moon type
+                             
+                           
+                         
+                        
+                       
+                       
+                     
+                    
+                   
+                   
+                 
+                 
+                  
+                   
+                   
+                    
+                     
+                      
+                       
+                        Ideograms and pictograms
+                       
+                     
+                     
+                      
+                        
+                        
+                         Adinkra 
+                         Aztec 
+                         Blissymbol 
+                         Dongba 
+                         Ersu Shaba 
+                         Emoji 
+                         IConji 
+                         Isotype 
+                         Kaidā 
+                         Miꞌkmaw 
+                         Mixtec 
+                         New Epoch Notation Painting 
+                         Nsibidi 
+                         Ojibwe Hieroglyphs 
+                         Olmec 
+                         Siglas poveiras 
+                         Testerian 
+                         Yerkish 
+                         Zapotec
+                         
+                       
+                     
+                    
+                   
+                   
+                 
+                 
+                  
+                   
+                   
+                    
+                     
+                      
+                       
+                        Logograms
+                       
+                     
+                     
+                      
+                       
+                       
+                        
+                         
+                          Chinese family of scripts
+                          
+                           
+                           
+                            
+                             
+                              Chinese Characters
+                              
+                               
+                              
+                              Simplified 
+                              Traditional 
+                              Oracle bone script 
+                              Bronze Script 
+                              Seal Script 
+                              
+                              large 
+                              small 
+                              bird-worm
+                               
+                              Hanja 
+                              Idu 
+                              Kanji 
+                              Chữ Nôm 
+                              Zhuang
+                               
+                              
+                             
+                             
+                              Chinese-influenced
+                              
+                               
+                              
+                              Jurchen 
+                              Khitan large script 
+                              Sui 
+                              Tangut
+                               
+                              
+                             
+                            
+                           
+                           
+                         
+                         
+                          Cuneiform
+                          
+                            
+                            
+                             Akkadian 
+                             Assyrian 
+                             Elamite 
+                             Hittite 
+                             Luwian 
+                             Sumerian
+                             
+                           
+                         
+                         
+                          Other logo-syllabic
+                          
+                            
+                            
+                             Anatolian 
+                             Bagam 
+                             Cretan 
+                             Isthmian 
+                             Maya 
+                             Proto-Elamite 
+                             Yi (Classical)
+                             
+                           
+                         
+                         
+                          Logo-consonantal
+                          
+                            
+                            
+                             Demotic 
+                             Hieratic 
+                             Hieroglyphs
+                             
+                           
+                         
+                         
+                          Numerals
+                          
+                            
+                            
+                             Hindu-Arabic 
+                             Abjad 
+                             Attic (Greek) 
+                             Muisca 
+                             Roman
+                             
+                           
+                         
+                        
+                       
+                       
+                     
+                    
+                   
+                   
+                 
+                 
+                  
+                   
+                   
+                    
+                     
+                      
+                       
+                        Semi-syllabaries
+                       
+                     
+                     
+                      
+                       
+                       
+                        
+                         
+                          Full
+                          
+                            
+                            
+                             Celtiberian 
+                             Northeastern Iberian 
+                             Southeastern Iberian 
+                             Khom
+                             
+                           
+                         
+                         
+                          Redundant
+                          
+                            
+                            
+                             Espanca 
+                             Pahawh Hmong 
+                             Khitan small script 
+                             Southwest Paleohispanic 
+                             Zhuyin fuhao
+                             
+                           
+                         
+                        
+                       
+                       
+                     
+                    
+                   
+                   
+                 
+                 
+                  
+                   
+                   
+                    
+                     
+                      
+                       
+                        Sign languages
+                       
+                     
+                     
+                      
+                        
+                        
+                         ASLwrite 
+                         SignWriting 
+                         si5s 
+                         Stokoe Notation
+                         
+                       
+                     
+                    
+                   
+                   
+                 
+                 
+                  
+                   
+                   
+                    
+                     
+                      
+                       
+                        Syllabaries
+                       
+                     
+                     
+                      
+                        
+                        
+                         Afaka 
+                         Bamum 
+                         Bété 
+                         Byblos 
+                         Canadian Aboriginal 
+                         Cherokee 
+                         Cypriot 
+                         Cypro-Minoan 
+                         Ditema tsa Dinoko 
+                         Eskayan 
+                         Geba 
+                         Great Lakes Algonquian 
+                         Iban 
+                         Idu 
+                         Japanese 
+                          
+                           Hiragana 
+                           Katakana 
+                           Man'yōgana 
+                           Hentaigana 
+                           Sōgana 
+                           Jindai moji
+                           
+                         Kikakui 
+                         Kpelle 
+                         Linear B 
+                         Linear Elamite 
+                         Lisu 
+                         Loma 
+                         Nüshu 
+                         Nwagu Aneke script 
+                         Old Persian Cuneiform 
+                         Sumerian 
+                         Vai 
+                         Woleai 
+                         Yi (Modern) 
+                         Yugtun
+                         
+                       
+                     
+                    
+                   
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+               
+                
+                 v
+                 t
+                 e
+                
+               
+               
+                Braille&nbsp;⠃⠗⠁⠊⠇⠇⠑
+               
+             
+             
+              Braille cell
+              
+                
+                
+                 1829 braille 
+                 International uniformity 
+                 ASCII braille 
+                 Unicode braille patterns
+                 
+               
+             
+             
+              Braille scripts
+              
+               
+               
+                
+                 
+                  French-ordered
+                  
+                    
+                    
+                     Albanian 
+                     Azerbaijani 
+                     Cantonese 
+                     Catalan 
+                     Chinese (mainland Mandarin) (largely reassigned) 
+                     Czech 
+                     Dutch 
+                     English (Unified English) 
+                     Esperanto 
+                     French 
+                     German 
+                     Ghanaian 
+                     Guarani 
+                     Hawaiian 
+                     Hungarian 
+                     Iñupiaq 
+                     IPA 
+                     Irish 
+                     Italian 
+                     Latvian 
+                     Lithuanian 
+                     Luxembourgish (extended to 8-dot) 
+                     Maltese 
+                     Māori 
+                     Navajo 
+                     Nigerian 
+                     Philippine 
+                     Polish 
+                     Portuguese 
+                     Romanian 
+                     Samoan 
+                     Slovak 
+                     South African 
+                     Spanish 
+                     Taiwanese Mandarin (largely reassigned) 
+                     Turkish 
+                     Vietnamese 
+                     Welsh 
+                     Yugoslav 
+                     Zambian
+                     
+                   
+                   
+                    
+                     
+                      Nordic family
+                      
+                        
+                        
+                         Estonian 
+                         Faroese 
+                         Icelandic 
+                         Northern Sami 
+                         Scandinavian 
+                          
+                           Danish 
+                           Finnish 
+                           Greenlandic 
+                           Norwegian 
+                           Swedish
+                          
+                         
+                       
+                     
+                     
+                      Russian lineage familyi.e. Cyrillic-mediated scripts
+                      
+                        
+                        
+                         Belarusian 
+                         Bulgarian 
+                         Kazakh 
+                         Kyrgyz 
+                         Mongolian 
+                         Russian 
+                         Tatar 
+                         Ukrainian
+                         
+                       
+                     
+                     
+                      Egyptian lineage familyi.e. Arabic-mediated scripts
+                      
+                        
+                        
+                         Arabic 
+                         Persian 
+                         Urdu (Pakistan)
+                         
+                       
+                     
+                     
+                      Indian lineage familyi.e. Bharati Braille
+                      
+                        
+                        
+                         Devanagari (Hindi / Marathi / Nepali) 
+                         Bengali (Bangla / Assamese) 
+                         Gujarati 
+                         Kannada 
+                         Malayalam 
+                         Odia 
+                         Punjabi 
+                         Sinhala 
+                         Tamil 
+                         Telugu 
+                         Urdu (India)
+                         
+                       
+                     
+                     
+                      Other scripts
+                      
+                        
+                        
+                         Amharic 
+                         Armenian 
+                         Burmese 
+                         Dzongkha (Bhutanese) 
+                         Georgian 
+                         Greek 
+                         Hebrew 
+                         Inuktitut (reassigned vowels) 
+                         Khmer 
+                         Thai and Lao (Japanese vowels) 
+                         Tibetan
+                         
+                       
+                     
+                    
+                   
+                    
+                   
+                 
+                 
+                  Reordered
+                  
+                    
+                    
+                     Algerian Braille (obsolete)
+                     
+                   
+                 
+                 
+                  Frequency-based
+                  
+                    
+                    
+                     American Braille (obsolete)
+                     
+                   
+                 
+                 
+                  Independent
+                  
+                    
+                    
+                     Chinese semi-syllabaries 
+                      
+                       Cantonese 
+                       Mainland Chinese Mandarin 
+                       Taiwanese Mandarin 
+                       Two-cell Chinese (Shuangpin)
+                       
+                     Japanese 
+                     Korean
+                     
+                   
+                 
+                 
+                  Eight-dot
+                  
+                    
+                    
+                     Luxembourgish 
+                     Kanji 
+                     Gardner–Salinas braille codes (GS8)
+                     
+                   
+                 
+                
+               
+               
+             
+             
+              Symbols in braille
+              
+                
+                
+                 Braille music 
+                 Canadian currency marks 
+                 Computer Braille Code 
+                 Gardner–Salinas braille codes (science; GS8/GS6) 
+                 International Phonetic Alphabet (IPA) 
+                 Nemeth braille code
+                 
+               
+             
+             
+              Braille technology
+              
+                
+                
+                 Braille e-book 
+                 Braille embosser 
+                 Braille translator 
+                 Braille watch 
+                 Mountbatten Brailler 
+                 Optical braille recognition 
+                 Perforation 
+                 Perkins Brailler 
+                 Refreshable braille display 
+                 Slate and stylus 
+                 Braigo
+                 
+               
+             
+             
+              Persons
+              
+                
+                
+                 Louis Braille 
+                 Charles Barbier 
+                 Valentin Haüy 
+                 Thakur Vishva Narain Singh 
+                 Sabriye Tenberken 
+                 William Bell Wait
+                 
+               
+             
+             
+              Organisations
+              
+                
+                
+                 Braille Institute of America 
+                 Braille Without Borders 
+                 Japan Braille Library 
+                 National Braille Association 
+                 Blindness organizations 
+                 Schools for the blind 
+                 American Printing House for the Blind
+                 
+               
+             
+             
+              Other tactile alphabets
+              
+                
+                
+                 Decapoint 
+                 Moon type 
+                 New York Point 
+                 Night writing 
+                 Vibratese
+                 
+               
+             
+             
+              Related topics
+              
+                
+                
+                 Accessible publishing 
+                 Braille literacy 
+                 RoboBraille
+                 
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+               
+                
+                 v
+                 t
+                 e
+                
+               
+               
+                Electronic writing systems
+               
+             
+             
+              
+                
+                
+                 Emoticons 
+                 Emoji 
+                 Kaomoji 
+                 iConji 
+                 Unicode
+                 
+               
+             
+             
+              
+               
+               
+                
+                 
+                  
+                   
+                   
+                    
+                     v
+                     t
+                     e
+                    
+                   
+                   
+                    Internet slang variants
+                   
+                 
+                 
+                  
+                    
+                    
+                     3arabizi 
+                     Alay (Indonesia) 
+                     Denglisch 
+                     Doge 
+                     DoggoLingo 
+                     Fingilish (Persian) 
+                     Greeklish 
+                     Gyaru-moji (Japan) 
+                     Jejemon (Philippines) 
+                     Leet ("1337") 
+                     Lolspeak / LOLspeak / Kitteh 
+                     Martian language (Chinese) 
+                     Miguxês (Portuguese) 
+                     Padonkaffsky jargon (Russian) 
+                     Pseudo-Chinese 
+                     Translit 
+                     Volapuk
+                     
+                   
+                 
+                 
+                  
+                    
+                    
+                     See also English internet slang (at Wiktionary) 
+                     SMS language
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Prehistoric technology
+           
+         
+         
+          
+            
+            
+             Prehistory 
+              
+               Timeline 
+               Outline 
+               Stone Age 
+               Subdivisions 
+               New Stone Age
+               
+             Technology 
+              
+               history
+               
+             Glossary
+             
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Tools
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Farming
+                  
+                    
+                    
+                     Neolithic Revolution 
+                      
+                       Founder crops 
+                       New World crops
+                       
+                     Ard&nbsp;/ plough 
+                     Celt 
+                     Digging stick 
+                     Domestication 
+                     Goad 
+                     Irrigation 
+                     Secondary products 
+                     Sickle 
+                     Terracing
+                     
+                   
+                 
+                 
+                  Food processing
+                  
+                    
+                    
+                     Fire 
+                     Basket 
+                     Cooking 
+                      
+                       Earth oven
+                       
+                     Granaries 
+                     Grinding slab 
+                     Ground stone 
+                     Hearth 
+                      
+                       Aşıklı Höyük 
+                       Qesem cave
+                       
+                     Manos 
+                     Metate 
+                     Mortar and pestle 
+                     Pottery 
+                     Quern-stone 
+                     Storage pits
+                     
+                   
+                 
+                 
+                  Hunting
+                  
+                   
+                   
+                    
+                     
+                      
+                        
+                        
+                         Arrow 
+                         Boomerang 
+                          
+                           throwing stick
+                           
+                         Bow and arrow 
+                          
+                           history
+                           
+                         Nets 
+                         Spear 
+                          
+                           spear-thrower 
+                           baton 
+                           harpoon 
+                           woomera 
+                           Schöningen spears
+                          
+                         
+                       
+                     
+                     
+                      Projectile points
+                      
+                        
+                        
+                         Arrowhead 
+                         Bare Island 
+                         Cascade 
+                         Clovis 
+                         Cresswell 
+                         Cumberland 
+                         Eden 
+                         Folsom 
+                         Lamoka 
+                         Manis Site 
+                         Plano 
+                         Transverse arrowhead
+                         
+                       
+                     
+                     
+                      Systems
+                      
+                        
+                        
+                         Game drive system 
+                          
+                           Buffalo jump
+                          
+                         
+                       
+                     
+                    
+                   
+                   
+                 
+                 
+                  Toolmaking
+                  
+                    
+                    
+                     Earliest toolmaking 
+                      
+                       Oldowan 
+                       Acheulean 
+                       Mousterian
+                       
+                     Aurignacian 
+                     Clovis culture 
+                     Cupstone 
+                     Fire hardening 
+                     Gravettian culture 
+                     Hafting 
+                     Hand axe 
+                      
+                       Grooves
+                       
+                     Langdale axe industry 
+                     Levallois technique 
+                     Lithic core 
+                     Lithic reduction 
+                      
+                       analysis 
+                       debitage 
+                       flake
+                       
+                     Lithic technology 
+                     Magdalenian culture 
+                     Metallurgy 
+                     Microblade technology 
+                     Mining 
+                     Prepared-core technique 
+                     Solutrean industry 
+                     Striking platform 
+                     Tool stone 
+                     Uniface 
+                     Yubetsu technique
+                     
+                   
+                 
+                 
+                  Other tools
+                  
+                    
+                    
+                     Adze 
+                     Awl 
+                      
+                       bone
+                       
+                     Axe 
+                     Bannerstone 
+                     Blade 
+                      
+                       prismatic
+                       
+                     Bone tool 
+                     Bow drill 
+                     Burin 
+                     Canoe 
+                      
+                       Oar 
+                       Pesse canoe
+                       
+                     Chopper 
+                      
+                       tool
+                       
+                     Cleaver 
+                     Denticulate tool 
+                     Fire plough 
+                     Fire-saw 
+                     Hammerstone 
+                     Knife 
+                     Microlith 
+                     Quern-stone 
+                     Racloir 
+                     Rope 
+                     Scraper 
+                      
+                       side
+                       
+                     Stone tool 
+                     Tally stick 
+                     Weapons 
+                     Wheel 
+                      
+                       illustration
+                      
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Architecture
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Ceremonial
+                  
+                    
+                    
+                     Kiva 
+                     Pyramid 
+                     Standing stones 
+                      
+                       megalith 
+                       row 
+                       Stonehenge
+                      
+                     
+                   
+                 
+                 
+                  Dwellings
+                  
+                    
+                    
+                     Neolithic architecture 
+                      
+                       long house
+                       
+                     British megalith architecture 
+                     Nordic megalith architecture 
+                     Burdei 
+                     Cave 
+                     Cliff dwelling 
+                     Dugout 
+                     Hut 
+                      
+                       Quiggly hole
+                       
+                     Jacal 
+                     Longhouse 
+                     Mudbrick 
+                      
+                       Mehrgarh
+                       
+                     Pit-house 
+                     Pueblitos 
+                     Pueblo 
+                     Rock shelter 
+                      
+                       Blombos Cave 
+                       Abri de la Madeleine 
+                       Sibudu Cave
+                       
+                     Roundhouse 
+                     Stilt house 
+                      
+                       Alp pile dwellings
+                       
+                     Stone roof 
+                     Wattle and daub
+                     
+                   
+                 
+                 
+                  Water management
+                  
+                    
+                    
+                     Check dam 
+                     Cistern 
+                     Flush toilet 
+                     Reservoir 
+                     Well
+                     
+                   
+                 
+                 
+                  Other architecture
+                  
+                    
+                    
+                     Archaeological features 
+                     Broch 
+                     Burnt mound 
+                      
+                       fulacht fiadh
+                       
+                     Causewayed enclosure 
+                      
+                       Tor enclosure
+                       
+                     Circular enclosure 
+                      
+                       Goseck
+                       
+                     Cursus 
+                     Henge 
+                      
+                       Thornborough
+                       
+                     Megalithic architectural elements 
+                     Midden 
+                     Oldest surviving buildings 
+                     Timber circle 
+                     Timber trackway 
+                      
+                       Sweet Track
+                      
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Arts and culture
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Material goods
+                  
+                    
+                    
+                     Baskets 
+                     Beadwork 
+                     Beds 
+                     Chalcolithic 
+                     Clothing/textiles 
+                      
+                       timeline
+                       
+                     Cosmetics 
+                     Glue 
+                     Hides 
+                      
+                       shoes 
+                       Ötzi
+                       
+                     Jewelry 
+                      
+                       amber use
+                       
+                     Mirrors 
+                     Pottery 
+                      
+                       Cardium 
+                       Cord-marked 
+                       Grooved ware 
+                       Linear 
+                       Jōmon 
+                       Unstan ware
+                       
+                     Sewing needle 
+                     Weaving 
+                     Wine 
+                      
+                       winery 
+                       wine press
+                      
+                     
+                   
+                 
+                 
+                  Prehistoric art
+                  
+                    
+                    
+                     Art of the Upper Paleolithic 
+                     Art of the Middle Paleolithic 
+                      
+                       Blombos Cave
+                       
+                     List of Stone Age art 
+                     Bird stone 
+                     Cairn 
+                     Carved stone balls 
+                     Cave paintings 
+                     Cup and ring mark 
+                     Geoglyph 
+                     Golden hats 
+                     Guardian stones 
+                     Gwion Gwion rock paintings 
+                      
+                       painting 
+                       pigment
+                       
+                     Megalithic art 
+                     Petroform 
+                     Petroglyph 
+                     Petrosomatoglyph 
+                     Pictogram 
+                     Rock art 
+                      
+                       Rock cupule 
+                       Stone carving
+                       
+                     Sculpture 
+                     Statue menhir 
+                     Stone circle 
+                      
+                       list 
+                       British Isles and Brittany
+                       
+                     Venus figurine
+                     
+                   
+                 
+                 
+                  Burial
+                  
+                    
+                    
+                     Burial mounds 
+                      
+                       Bowl barrow 
+                       Round barrow
+                       
+                     Mound Builders culture 
+                      
+                       U.S. sites
+                       
+                     Chamber tomb 
+                      
+                       Cotswold-Severn
+                       
+                     Cist 
+                      
+                       Dartmoor kistvaens
+                       
+                     Clava cairn 
+                     Court tomb 
+                     Cremation 
+                     Dolmen 
+                      
+                       Great dolmen
+                       
+                     Funeral pyre 
+                     Gallery grave 
+                      
+                       transepted 
+                       wedge-shaped
+                       
+                     Grave goods 
+                     Jar burial 
+                     Long barrow 
+                      
+                       unchambered 
+                       Grønsalen
+                       
+                     Megalithic tomb 
+                     Mummy 
+                     Passage grave 
+                     Rectangular dolmen 
+                     Ring cairn 
+                     Simple dolmen 
+                     Stone box grave 
+                     Tor cairn 
+                     Unchambered long cairn
+                     
+                   
+                 
+                 
+                  Other cultural
+                  
+                    
+                    
+                     Archaeoastronomy 
+                      
+                       sites 
+                       lunar calendar
+                       
+                     Behavioral modernity 
+                     Evolutionary musicology 
+                      
+                       music archaeology
+                       
+                     Evolutionary origin of religions 
+                      
+                       Paleolithic religion 
+                       Prehistoric religion 
+                       Spiritual drug use
+                       
+                     Origin of language 
+                     Prehistoric counting 
+                     Prehistoric medicine 
+                      
+                       trepanning
+                       
+                     Prehistoric music 
+                      
+                       Alligator drum 
+                       flutes 
+                       Divje Babe flute 
+                       gudi
+                       
+                     Prehistoric warfare 
+                     Symbols 
+                      
+                       symbolism
+                      
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          Authority control: National libraries 
+          
+            
+            
+             Germany
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Pictogram&amp;oldid=1070083803"
+     
+     
+    
+     
+      Categories: 
+      
+       Infographics
+       Prehistoric inscriptions
+       Pictograms
+       Rock art
+       Petroglyphs
+       Pre-Columbian art
+       Indigenous art
+       History of communication
+       Proto-writing
+       Statistical charts and diagrams
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with short description
+       Short description matches Wikidata
+       Articles needing additional references from November 2006
+       All articles needing additional references
+       All articles with unsourced statements
+       Articles with unsourced statements from November 2019
+       Commons category link is on Wikidata
+       Articles with GND identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       Afrikaans
+       العربية
+       Arpetan
+       Asturianu
+       বাংলা
+       Беларуская
+       Български
+       Català
+       Čeština
+       Dansk
+       Deutsch
+       Eesti
+       Español
+       Esperanto
+       Euskara
+       فارسی
+       Français
+       Frysk
+       Gaelg
+       Galego
+       한국어
+       Hrvatski
+       Bahasa Indonesia
+       עברית
+       ქართული
+       Қазақша
+       Кыргызча
+       Македонски
+       Bahasa Melayu
+       Nederlands
+       日本語
+       Norsk bokmål
+       ਪੰਜਾਬੀ
+       Polski
+       Português
+       Română
+       Русский
+       Shqip
+       Simple English
+       Slovenščina
+       Српски / srpski
+       Srpskohrvatski / српскохрватски
+       Suomi
+       Svenska
+       ไทย
+       Тоҷикӣ
+       Türkçe
+       Українська
+       اردو
+       粵語
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 5 February 2022, at 15:58&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

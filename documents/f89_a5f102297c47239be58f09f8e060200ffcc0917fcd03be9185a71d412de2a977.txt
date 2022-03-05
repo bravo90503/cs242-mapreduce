@@ -1,0 +1,917 @@
+
+ 
+  
+   
+  Binary Independence Model - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Binary Independence Model 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      The Binary Independence Model (BIM) in computing and information science is a probabilistic information retrieval technique. The model makes some simple assumptions to make the estimation of document/query similarity probable and feasible.  
+      
+       
+       
+        Contents
+        
+        
+        1 Definitions 
+          
+          1.1 Query Terms Weighting 
+           
+        2 See also 
+        3 Further reading 
+        4 References 
+        
+       
+      Definitions 
+      The Binary Independence Assumption is that documents are binary vectors. That is, only the presence or absence of terms in documents are recorded. Terms are independently distributed in the set of relevant documents and they are also independently distributed in the set of irrelevant documents. The representation is an ordered set of Boolean variables. That is, the representation of a document or query is a vector with one Boolean element for each term under consideration. More specifically, a document is represented by a vector d = (x1, ..., xm) where xt=1 if term t is present in the document d and xt=0 if it's not. Many documents can have the same vector representation with this simplification. Queries are represented in a similar way. "Independence" signifies that terms in the document are considered independently from each other and no association between terms is modeled. This assumption is very limiting, but it has been shown that it gives good enough results for many situations. This independence is the "naive" assumption of a Naive Bayes classifier, where properties that imply each other are nonetheless treated as independent for the sake of simplicity. This assumption allows the representation to be treated as an instance of a Vector space model by considering each term as a value of 0 or 1 along a dimension orthogonal to the dimensions used for the other terms. 
+      The probability 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+             
+              R
+              
+              
+              
+               |
+               
+              
+             
+              d
+              
+             
+              ,
+              
+             
+              q
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          that a document is relevant derives from the probability of relevance of the terms vector of that document 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+             
+              R
+              
+              
+              
+               |
+               
+              
+             
+              x
+              
+             
+              ,
+              
+             
+              q
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+         . By using the Bayes rule we get:  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               R
+               
+               
+               
+                |
+                
+               
+              
+               x
+               
+              
+               ,
+               
+              
+               q
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  x
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                  R
+                  
+                 
+                  ,
+                  
+                 
+                  q
+                  
+                 
+                  )
+                  
+                 
+                  ∗
+                  
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  R
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                  q
+                  
+                 
+                  )
+                  
+                 
+                 
+                 
+                  P
+                  
+                 
+                  (
+                  
+                 
+                  x
+                  
+                  
+                  
+                   |
+                   
+                  
+                 
+                  q
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+             
+            
+             }}
+             
+            
+          
+       
+       
+      where 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+             
+              x
+              
+              
+              
+               |
+               
+              
+             
+              R
+              
+             
+              =
+              
+             
+              1
+              
+             
+              ,
+              
+             
+              q
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          and 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+             
+              x
+              
+              
+              
+               |
+               
+              
+             
+              R
+              
+             
+              =
+              
+             
+              0
+              
+             
+              ,
+              
+             
+              q
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          are the probabilities of retrieving a relevant or nonrelevant document, respectively. If so, then that document's representation is x. The exact probabilities can not be known beforehand, so estimates from statistics about the collection of documents must be used. 
+      
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+             
+              R
+              
+             
+              =
+              
+             
+              1
+              
+              
+              
+               |
+               
+              
+             
+              q
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          and 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+             
+              R
+              
+             
+              =
+              
+             
+              0
+              
+              
+              
+               |
+               
+              
+             
+              q
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+          indicate the previous probability of retrieving a relevant or nonrelevant document respectively for a query q. If, for instance, we knew the percentage of relevant documents in the collection, then we could use it to estimate these probabilities. Since a document is either relevant or nonrelevant to a query we have that:  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+              
+               R
+               
+              
+               =
+               
+              
+               1
+               
+               
+               
+                |
+                
+               
+              
+               x
+               
+              
+               ,
+               
+              
+               q
+               
+              
+               )
+               
+              
+               +
+               
+              
+               P
+               
+              
+               (
+               
+              
+               R
+               
+              
+               =
+               
+              
+               0
+               
+               
+               
+                |
+                
+               
+              
+               x
+               
+              
+               ,
+               
+              
+               q
+               
+              
+               )
+               
+              
+               =
+               
+              
+               1
+               
+              
+             
+            
+             
+             
+            
+          
+       
+       
+      Query Terms Weighting 
+      Given a binary query and the dot product as the similarity function between a document and a query, the problem is to assign weights to the terms in the query such that the retrieval effectiveness will be high. Let 
+           
+            
+             
+              
+              
+               p
+               
+               
+               
+                i
+                
+               
+              
+             
+            
+           
+            }
+            
+           
+          and 
+           
+            
+             
+              
+              
+               q
+               
+               
+               
+                i
+                
+               
+              
+             
+            
+           
+            }
+            
+           
+          be the probability that a relevant document and an irrelevant document has the ith term respectively. Yu and Salton, who first introduce BIM, propose that the weight of the ith term is an increasing function of 
+           
+            
+             
+              
+              
+               Y
+               
+               
+               
+                i
+                
+               
+              
+             
+              =
+              
+              
+               
+                
+                 
+                 
+                  p
+                  
+                  
+                  
+                   i
+                   
+                  
+                 
+                
+                 ∗
+                 
+                
+                 (
+                 
+                
+                 1
+                 
+                
+                 −
+                 
+                 
+                 
+                  q
+                  
+                  
+                  
+                   i
+                   
+                  
+                 
+                
+                 )
+                 
+                
+                
+                
+                 (
+                 
+                
+                 1
+                 
+                
+                 −
+                 
+                 
+                 
+                  p
+                  
+                  
+                  
+                   i
+                   
+                  
+                 
+                
+                 )
+                 
+                
+                 ∗
+                 
+                 
+                 
+                  q
+                  
+                  
+                  
+                   i
+                   
+                  
+                 
+                
+               
+              
+             
+            
+           
+            =*(1-q_)})*q_}}}
+            
+           
+         . Thus, if 
+           
+            
+             
+              
+              
+               Y
+               
+               
+               
+                i
+                
+               
+              
+             
+            
+           
+            }
+            
+           
+          is higher than 
+           
+            
+             
+              
+              
+               Y
+               
+               
+               
+                j
+                
+               
+              
+             
+            
+           
+            }
+            
+           
+         , the weight of term i will be higher than that of term j. Yu and Salton showed that such a weight assignment to query terms yields better retrieval effectiveness than if query terms are equally weighted. Robertson and Spärck Jones later showed that if the ith term is assigned the weight of 
+           
+            
+             
+             
+              log
+              
+             
+              ⁡
+              
+              
+              
+               Y
+               
+               
+               
+                i
+                
+               
+              
+             
+            
+           
+            }
+            
+           
+         , then optimal retrieval effectiveness is obtained under the Binary Independence Assumption. 
+      The Binary Independence Model was introduced by Yu and Salton. The name Binary Independence Model was coined by Robertson and Spärck Jones.  
+      See also 
+      
+       Bag of words model
+       
+      Further reading 
+      
+       Christopher D. Manning; Prabhakar Raghavan; Hinrich Schütze (2008), Introduction to Information Retrieval, Cambridge University Press 
+       
+        Stefan Büttcher; Charles L. A. Clarke; Gordon V. Cormack (2010), Information Retrieval: Implementing and Evaluating Search Engines, MIT Press
+       
+      References 
+      
+       
+       
+         
+         ^ a b c d 
+           Yu, C. T.; Salton, G. (1976). "Precision Weighting – An Effective Automatic Indexing Method" (PDF). Journal of the ACM. 23: 76. doi:10.1145/321921.321930. hdl:1813/7313.  
+         ^ a b c 
+           Robertson, S. E.; Spärck Jones, K. (1976). "Relevance weighting of search terms". Journal of the American Society for Information Science. 27 (3): 129. doi:10.1002/asi.4630270302.  
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Binary_Independence_Model&amp;oldid=1054415525"
+     
+     
+    
+     
+      Categories: 
+      
+       Information retrieval techniques
+       Probabilistic models
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Español
+       日本語
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 9 November 2021, at 22:26&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

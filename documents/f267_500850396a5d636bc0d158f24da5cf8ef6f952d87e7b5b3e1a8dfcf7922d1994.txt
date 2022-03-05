@@ -1,0 +1,636 @@
+
+ 
+  
+   
+  View source for Information retrieval - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   View source for Information retrieval 
+    
+    
+     ← Information retrieval
+     
+     
+     Jump to navigation Jump to search 
+    
+     You do not have permission to edit this page, for the following reasons:  
+      
+       
+        
+        
+          
+           
+           
+            
+             You are currently unable to edit Wikipedia.
+             
+            Editing from your IP address range (185.242.5.0/24) has been blocked (disabled) on all Wikimedia wikis until 20:14, 15 August 2023 by Martin Urbanec (meta.wikimedia.org) for the following reason:  
+             
+            
+             No open proxies: please read the FAQ should you be affected
+             
+            This block began on 20:14, 15 August 2020 
+            Your current IP address is 185.242.5.178. Please include all above details in any queries you make. 
+            If you believe you were blocked by mistake, you can find additional information and instructions in the No open proxies global policy. Otherwise, to discuss the block post a request for review on Meta-Wiki or send an email to the stewards Volunteer Response Team queue at stewards@wikimedia.org including all above details.  
+            
+         
+        
+        
+       
+        
+        
+          You are currently unable to edit Wikipedia due to a block affecting this IP address.
+         This does not affect your ability to read Wikipedia pages.
+        
+         
+        Most people who see this message have done nothing wrong. Some kinds of blocks restrict editing from specific service providers or telecom companies in response to recent abuse or vandalism, and affect other users who are unrelated to that abuse. See below if you do not believe you have done anything wrong.
+         
+        Editing from 185.242.4.0/22 has been blocked (disabled) by ‪ST47‬ for the following reason(s):  
+         
+          
+          
+           
+          The IP address that you are currently using has been blocked because it is believed to be a web host provider or colocation provider. To prevent abuse, web hosts and colocation providers may be blocked from editing Wikipedia. 
+          
+           You will not be able to edit Wikipedia using a web host or colocation provider because it hides your IP address, much like a proxy or VPN. 
+           We recommend that you attempt to use another connection to edit. For example, if you use a proxy or VPN to connect to the internet, turn it off when editing Wikipedia. If you edit using a mobile connection, try using a Wi-Fi connection, and vice versa. If you have a Wikipedia account, please log in. If you do not have any other way to edit Wikipedia, you will need to request an IP block exemption. 
+           If you are confident that you are not using a web host, you may appeal this block by adding the following text on your talk page: }. You must fill in the blank with your IP address for this block to be investigated. Your IP address can be determined here. Alternatively, if you wish to keep your IP address private you can use the unblock ticket request system. There are several reasons you might be editing using the IP address of a web host or colocation provider (such as if you are using VPN software or a business network); please use this method of appeal only if you think your IP address is in fact not a web host or colocation provider. 
+           Administrators: The IP block exemption user right should only be applied to allow users to edit using web host in exceptional circumstances, and requests should usually be directed to the functionaries team via email. If you intend to give the IPBE user right, a CheckUser needs to take a look at the account. This can be requested most easily at SPI Quick Checkuser Requests. Unblocking an IP or IP range with this template is highly discouraged without at least contacting the blocking administrator.  
+          
+          
+         
+        This block has been set to expire: 21:09, 18 June 2023.  
+        
+        Even when blocked, you will usually still be able to edit your user talk page, and email administrators and other editors. 
+        For information on how to proceed, first see the FAQ for blocked users and the guideline on block appeals. The guide to appealing blocks may also be helpful. 
+        Other useful links: Blocking policy · Help:I have been blocked  
+        
+     
+      
+     
+      You can view and copy the source of this page:
+     }
+}
+
+'''Information retrieval''' ('''IR''') in ] and ] is the process of obtaining ] resources that are relevant to an information need from a collection of those resources.  Searches can be based on ] or other content-based indexing. Information retrieval is the science of searching for information in a document, searching for documents themselves, and also searching for the ] that describes data, and for ] of texts, images or sounds.
+
+Automated information retrieval systems are used to reduce what has been called ]. An IR system is a software system that provides access to books, journals and other documents; stores and manages those documents. ]s are the most visible IR applications.
+
+== Overview ==
+An information retrieval process begins when a user enters a query into the system. Queries are formal statements of information needs, for example search strings in web search engines. In information retrieval a query does not uniquely identify a single object in the collection. Instead, several objects may match the query, perhaps with different degrees of ].
+
+An object is an entity that is represented by information in a content collection or ]. User queries are matched against the database information. However, as opposed to classical SQL queries of a database, in information retrieval the results returned may or may not match the query, so results are typically ranked. This ] of results is a key difference of information retrieval searching compared to database searching.&lt;ref&gt;Jansen, B. J. and Rieh, S. (2010)  }. Journal of the American Society for Information Sciences and Technology. 61(8), 1517-1534.&lt;/ref&gt;
+
+Depending on the ] the data objects may be, for example, text documents, images,&lt;ref name=goodron2000&gt;}&lt;/ref&gt; audio,&lt;ref name=Foote99&gt;}&lt;/ref&gt; ]&lt;ref name=Beel2009&gt;}&lt;/ref&gt; or videos. Often the documents themselves are not kept or stored directly in the IR system, but are instead represented in the system by document surrogates or ].
+
+Most IR systems compute a numeric score on how well each object in the database matches the query, and rank the objects according to this value. The top ranking objects are then shown to the user. The process may then be iterated if the user wishes to refine the query.&lt;ref name="Frakes1992"&gt;}&lt;/ref&gt;
+
+== History ==
+}
+The idea of using computers to search for relevant pieces of information was popularized in the article '']'' by ] in 1945.&lt;ref name="Singhal2001"&gt;}&lt;/ref&gt; It would appear that Bush was inspired by patents for a 'statistical machine' - filed by ] in the 1920s and '30s - that searched for documents stored on film.&lt;ref name="Sanderson2012"&gt;}&lt;/ref&gt; The first description of a computer searching for information was described by Holmstrom in 1948,&lt;ref name="Holmstrom1948"&gt;}&lt;/ref&gt; detailing an early mention of the ] computer. Automated information retrieval systems were introduced in the 1950s: one even featured in the 1957 romantic comedy, ]. In the 1960s, the first large information retrieval research group was formed by ] at Cornell. By the 1970s several different retrieval techniques had been shown to perform well on small ] such as the Cranfield collection (several thousand documents).&lt;ref name="Singhal2001" /&gt; Large-scale retrieval systems, such as the Lockheed Dialog system, came into use early in the 1970s.
+
+In 1992, the US Department of Defense along with the ] (NIST), cosponsored the ] (TREC) as part of the TIPSTER text program. The aim of this was to look into the information retrieval community by supplying the infrastructure that was needed for evaluation of text retrieval methodologies on a very large text collection. This catalyzed research on methods that ] to huge corpora. The introduction of ]s has boosted the need for very large scale retrieval systems even further.
+
+==Applications==
+Areas where information retrieval techniques are employed include (the entries are in alphabetical order within each category):
+
+===General applications===
+* ]
+*  ]
+** ]
+*  Media search
+** Blog search
+** ]
+** ]
+** ]
+** News search
+** Speech retrieval
+** ]
+* ]
+** ]
+** ]
+** ]
+** ]
+** ]
+** ]
+** ]
+
+===Domain-specific applications===
+* Expert search finding
+* Genomic information retrieval
+* ]
+*  Information retrieval for chemical structures
+* Information retrieval in ]
+* ]
+* ]
+
+===Other retrieval methods===
+Methods/Techniques in which information retrieval techniques are employed include:
+* ]
+* ]
+**]
+* ]
+* ]
+* ]
+* ]
+* ]
+
+== Model types ==
+], original source ).]]
+For effectively retrieving relevant documents by IR strategies, the documents are typically transformed into a suitable representation. Each retrieval strategy incorporates a specific model for its document representation purposes. The picture on the right illustrates the relationship of some common models. In the picture, the models are categorized according to two dimensions: the mathematical basis and the properties of the model.
+
+=== First dimension: mathematical basis ===
+* ''Set-theoretic'' models represent documents as ]s of words or phrases. Similarities are usually derived from set-theoretic operations on those sets. Common models are:
+** ]
+** ]
+** ]
+* ''Algebraic models'' represent documents and queries usually as vectors, matrices, or tuples. The similarity of the query vector and document vector is represented as a scalar value.
+** ]
+** ]
+** ]
+** ]
+** ] a.k.a. ]
+* ''Probabilistic models'' treat the process of document retrieval as a probabilistic inference. Similarities are computed as probabilities that a document is relevant for a given query. Probabilistic theorems like the ] are often used in these models.
+** ]
+** ] on which is based the ] relevance function
+** ]
+** ]s
+** ]
+** ]
+* ''Feature-based retrieval models'' view documents as vectors of values of ''feature functions'' (or just ''features'') and seek the best way to combine these features into a single relevance score, typically by ] methods. Feature functions are arbitrary functions of document and query, and as such can easily incorporate almost any other retrieval model as just another feature.
+
+=== Second dimension: properties of the model ===
+* ''Models without term-interdependencies'' treat different terms/words as independent. This fact is usually represented in vector space models by the ] assumption of term vectors or in probabilistic models by an ] assumption for term variables.
+* ''Models with immanent term interdependencies'' allow a representation of interdependencies between terms. However the degree of the interdependency between two terms is defined by the model itself. It is usually directly or indirectly derived (e.g. by ]) from the ] of those terms in the whole set of documents.
+* ''Models with transcendent term interdependencies'' allow a representation of interdependencies between terms, but they do not allege how the interdependency between two terms is defined. They rely an external source for the degree of interdependency between two terms. (For example, a human or sophisticated algorithms.)
+
+== } Performance and correctness measures ==
+}
+The evaluation of an information retrieval system' is the process of assessing how well a system meets the information needs of its users. In general, measurement considers a collection of documents to be searched and a search query. Traditional evaluation metrics, designed for ]} or top-k retrieval, include ]. All measures assume a ] notion of relevancy: every document is known to be either relevant or non-relevant to a particular query. In practice, queries may be ] and there may be different shades of relevancy.
+
+== Timeline ==
+
+* Before the '''1900s'''
+*: '''1801''': ] invents the ], the first machine to use punched cards to control a sequence of operations.
+*: '''1880s''': ] invents an electro-mechanical data tabulator using punch cards as a machine readable medium.
+*: '''1890''' Hollerith ], ]es and ] used to process the ] data.
+* '''1920s-1930s'''
+*: ] submits patents for his "Statistical Machine” a document search engine that used photoelectric cells and pattern recognition to search the metadata on rolls of microfilmed documents.
+* '''1940s–1950s'''
+*: '''late 1940s''': The US military confronted problems of indexing and retrieval of wartime scientific research documents captured from Germans.
+*:: '''1945''': ]'s '']'' appeared in '']''.
+*:: '''1947''': ] (research engineer at IBM since 1941) began work on a mechanized punch card-based system for searching chemical compounds.
+*: '''1950s''': Growing concern in the US for a "science gap" with the USSR motivated, encouraged funding and provided a backdrop for mechanized literature searching systems (] ''et al.'') and the invention of the ] by ].
+*: '''1950''': The term "information retrieval" was coined by ].&lt;ref&gt;Mooers, Calvin N.; '''' (Zator Technical Bulletin No. 48), cited in }&lt;/ref&gt;
+*: '''1951''': Philip Bagley conducted the earliest experiment in computerized document retrieval in a master thesis at ].&lt;ref name="Doyle1975"&gt;}&lt;/ref&gt;
+*: '''1955''': Allen Kent joined ], and eventually became associate director of the Center for Documentation and Communications Research. That same year, Kent and colleagues published a paper in American Documentation describing the precision and recall measures as well as detailing a proposed "framework" for evaluating an IR system which included statistical sampling methods for determining the number of relevant documents not retrieved.&lt;ref&gt;}&lt;/ref&gt;
+*: '''1958''': International Conference on Scientific Information Washington DC included consideration of IR systems as a solution to problems identified. See: ''Proceedings of the International Conference on Scientific Information, 1958'' (National Academy of Sciences, Washington, DC, 1959)
+*: '''1959''': ] published "Auto-encoding of documents for information retrieval."
+* '''1960s''':
+*: '''early 1960s''': ] began work on IR at Harvard, later moved to Cornell.
+*: '''1960''': ] and John Lary&lt;!-- sic --&gt; Kuhns&lt;ref name="Maron2008"&gt;}&lt;/ref&gt; published "On relevance, probabilistic indexing, and information retrieval" in the Journal of the ACM 7(3):216–244, July 1960.
+*: '''1962''':
+*:* ] published early findings of the Cranfield studies, developing a model for IR system evaluation. See: Cyril W. Cleverdon, "Report on the Testing and Analysis of an Investigation into the Comparative Efficiency of Indexing Systems". Cranfield Collection of Aeronautics, Cranfield, England, 1962.
+*:* Kent published ''Information Analysis and Retrieval''.
+*: '''1963''':
+*:* Weinberg report "Science, Government and Information" gave a full articulation of the idea of a "crisis of scientific information."  The report was named after Dr. ].
+*:* Joseph Becker and ] published text on information retrieval. Becker, Joseph; Hayes, Robert Mayo. ''Information storage and retrieval: tools, elements, theories''. New York, Wiley (1963).
+*: '''1964''':
+*:* ] finished her thesis at Cambridge, ''Synonymy and Semantic Classification'', and continued work on ] as it applies to IR.
+*:* The ] sponsored a symposium titled "Statistical Association Methods for Mechanized Documentation." Several highly significant papers, including G. Salton's first published reference (we believe) to the ] system.
+*:'''mid-1960s''':
+*::* National Library of Medicine developed ] Medical Literature Analysis and Retrieval System, the first major machine-readable database and batch-retrieval system.
+*::* Project Intrex at MIT.
+*:: '''1965''': ] published ''Libraries of the Future''.
+*:: '''1966''': ] was involved in studies at University of Chicago on Requirements for Future Catalogs.
+*: '''late 1960s''': ] completed evaluation studies of the MEDLARS system and published the first edition of his text on information retrieval.
+*:: '''1968''':
+*:* Gerard Salton published ''Automatic Information Organization and Retrieval''.
+*:* John W. Sammon, Jr.'s RADC Tech report "Some Mathematics of Information Storage and Retrieval..." outlined the vector model.
+*:: '''1969''': Sammon's "" (IEEE Transactions on Computers) was the first proposal for visualization interface to an IR system.
+* '''1970s'''
+*: '''early 1970s''':
+*::* First online systems—NLM's AIM-TWX, MEDLINE; Lockheed's Dialog; SDC's ORBIT.
+*::* ] promoting concept of ], published ''Computer Lib/Dream Machines''.
+*: '''1971''': ] and ] published "The use of ] in information retrieval", which articulated the "cluster hypothesis."&lt;ref&gt;}&lt;/ref&gt;
+*: '''1975''': Three highly influential publications by Salton fully articulated his vector processing framework and ] model:
+*::* ''A Theory of Indexing'' (Society for Industrial and Applied Mathematics)
+*::* ''A Theory of Term Importance in Automatic Text Analysis'' (] v. 26)
+*::* ''A Vector Space Model for Automatic Indexing'' (] 18:11)
+*: '''1978''': The First ] ] conference.
+*: '''1979''': C. J. van Rijsbergen published ''Information Retrieval'' (Butterworths). Heavy emphasis on probabilistic models.
+*: '''1979''': Tamas Doszkocs implemented the CITE ] for MEDLINE at the National Library of Medicine. The CITE system supported free form query input, ranked output and relevance feedback.&lt;ref&gt;Doszkocs, T.E. &amp; Rapp, B.A. (1979). "Searching MEDLINE in English: a Prototype User Inter-face with Natural Language Query, Ranked Output, and relevance feedback," In: Proceedings of the ASIS Annual Meeting, 16: 131-139.&lt;/ref&gt;
+* '''1980s'''
+*: '''1980''': First international ACM SIGIR conference, joint with British Computer Society IR group in Cambridge.
+*: '''1982''': ], Robert N. Oddy, and Helen M. Brooks proposed the ASK (Anomalous State of Knowledge) viewpoint for information retrieval. This was an important concept, though their automated analysis tool proved ultimately disappointing.
+*: '''1983''': Salton (and Michael J. McGill) published ''Introduction to Modern Information Retrieval'' (McGraw-Hill), with heavy emphasis on vector models.
+*: '''1985''': David Blair and ] publish: An Evaluation of Retrieval Effectiveness for a Full-Text Document-Retrieval System
+*: '''mid-1980s''': Efforts to develop end-user versions of commercial IR systems.
+*:: '''1985–1993''': Key papers on and experimental systems for visualization interfaces.
+*:: Work by ], ], Matthew Chalmers, Anselm Spoerri and others.
+*: '''1989''': First ] proposals by ] at ].
+* '''1990s'''
+*: '''1992''': First ] conference.
+*: '''1997''': Publication of ]'s ''Information Storage and Retrieval''&lt;ref name="Korfhage1997"&gt;}&lt;/ref&gt; with emphasis on visualization and multi-reference point systems.
+*: '''1999''': Publication of ] and Berthier Ribeiro-Neto's ''Modern Information Retrieval'' by Addison Wesley, the first book that attempts to cover all IR. 
+*: '''late 1990s''': ]s implementation of many features formerly found only in experimental IR systems. Search engines become the most common and maybe best instantiation of IR models.
+
+== Major conferences ==
+* SIGIR: 
+* ECIR: ]
+* CIKM: ]
+* WWW: ]
+* WSDM: 
+* ICTIR: 
+
+== Awards in the field ==
+
+* ]
+* ]
+* ]
+
+==See also==
+
+}
+
+* }
+* }
+* }
+* }
+* }
+* }
+* }
+* }
+* }
+** }
+** }
+** }
+* }
+* }
+* }
+* }
+* }
+* }
+* }
+* }
+* }
+* }
+* }
+* }
+* }
+* }
+* }
+}
+
+== References ==
+}
+
+==Further reading==
+* Ricardo Baeza-Yates, Berthier Ribeiro-Neto. . Addison-Wesley, UK, 2011.
+* Stefan Büttcher, Charles L. A. Clarke, and Gordon V. Cormack. . MIT Press, Cambridge, Massachusetts, 2010.
+*}
+* Christopher D. Manning, Prabhakar Raghavan, and Hinrich Schütze. . Cambridge University Press, 2008.
+
+==External links==
+}
+}
+*
+*
+*
+*
+* (online book) by ]
+*
+*
+*
+*
+*
+*
+
+}
+
+}
+
+]
+]
+
+     
+      
+       Pages transcluded onto the current version of this page (help): 
+      
+       
+       Adversarial information retrieval (edit) 
+       Collaborative information seeking (edit) 
+       Computer memory (edit) 
+       Controlled vocabulary (edit) 
+       Cross-language information retrieval (edit) 
+       Data mining (edit) 
+       European Summer School in Information Retrieval (edit) 
+       Human–computer information retrieval (edit) 
+       Information Retrieval Facility (edit) 
+       Information extraction (edit) 
+       Information retrieval (edit) 
+       Information seeking (edit) 
+       Knowledge visualization (edit) 
+       Multimedia information retrieval (edit) 
+       Nearest centroid classifier (edit) 
+       Personal information management (edit) 
+       Query understanding (edit) 
+       Relevance (information retrieval) (edit) 
+       Relevance feedback (edit) 
+       Search engine indexing (edit) 
+       Social information seeking (edit) 
+       Special Interest Group on Information Retrieval (edit) 
+       Subject indexing (edit) 
+       Temporal information retrieval (edit) 
+       Tf–idf (edit) 
+       Web mining (edit) 
+       XML retrieval (edit) 
+       Template:Anchor (view source) (template editor protected)
+       Template:Annotated link (view source) (template editor protected)
+       Template:Authority control (view source) (template editor protected)
+       Template:Blockquote (view source) (template editor protected)
+       Template:Blockquote/styles.css (view source) (template editor protected)
+       Template:Category handler (view source) (protected)
+       Template:Cite book (view source) (protected)
+       Template:Cite conference (view source) (protected)
+       Template:Cite journal (view source) (protected)
+       Template:Cite web (view source) (protected)
+       Template:Clarify (view source) (template editor protected)
+       Template:Comma separated entries (view source) (template editor protected)
+       Template:Commons category (view source) (template editor protected)
+       Template:Commonscat (view source) (template editor protected)
+       Template:Delink (view source) (template editor protected)
+       Template:Div col (view source) (template editor protected)
+       Template:Div col/styles.css (view source) (template editor protected)
+       Template:Div col end (view source) (template editor protected)
+       Template:EditAtWikidata (view source) (protected)
+       Template:Fix-span (view source) (template editor protected)
+       Template:Fix/category (view source) (template editor protected)
+       Template:Flatlist (view source) (template editor protected)
+       Template:Huh (view source) (semi-protected)
+       Template:If empty (view source) (template editor protected)
+       Template:If then show (view source) (template editor protected)
+       Template:Information science (edit) 
+       Template:Main (view source) (template editor protected)
+       Template:Main other (view source) (protected)
+       Template:Pagetype (view source) (protected)
+       Template:Reflist (view source) (protected)
+       Template:Reflist/styles.css (view source) (protected)
+       Template:Replace (view source) (template editor protected)
+       Template:Rquote (view source) (template editor protected)
+       Template:Rquote/styles.css (view source) (template editor protected)
+       Template:SDcat (view source) (template editor protected)
+       Template:Section link (view source) (template editor protected)
+       Template:Short description (view source) (template editor protected)
+       Template:Short description/lowercasecheck (view source) (template editor protected)
+       Template:Side box (view source) (template editor protected)
+       Template:Sidebar (view source) (template editor protected)
+       Template:Sister project (view source) (template editor protected)
+       Template:Template parameter value (view source) (template editor protected)
+       Template:Trim quotes (view source) (template editor protected)
+       Template:Void (view source) (template editor protected)
+       Template:Webarchive (view source) (template editor protected)
+       Template:Wikiquote (view source) (template editor protected)
+       Module:Anchor (view source) (template editor protected)
+       Module:Arguments (view source) (protected)
+       Module:Authority control (view source) (template editor protected)
+       Module:Category handler (view source) (protected)
+       Module:Category handler/blacklist (view source) (protected)
+       Module:Category handler/config (view source) (protected)
+       Module:Category handler/data (view source) (protected)
+       Module:Category handler/shared (view source) (protected)
+       Module:Check for unknown parameters (view source) (template editor protected)
+       Module:Citation/CS1 (view source) (protected)
+       Module:Citation/CS1/COinS (view source) (protected)
+       Module:Citation/CS1/Configuration (view source) (protected)
+       Module:Citation/CS1/Date validation (view source) (protected)
+       Module:Citation/CS1/Identifiers (view source) (protected)
+       Module:Citation/CS1/Utilities (view source) (protected)
+       Module:Citation/CS1/Whitelist (view source) (protected)
+       Module:Citation/CS1/styles.css (view source) (protected)
+       Module:Delink (view source) (template editor protected)
+       Module:EditAtWikidata (view source) (protected)
+       Module:Format link (view source) (template editor protected)
+       Module:Hatnote (view source) (template editor protected)
+       Module:Hatnote/styles.css (view source) (template editor protected)
+       Module:Hatnote list (view source) (template editor protected)
+       Module:If empty (view source) (template editor protected)
+       Module:Labelled list hatnote (view source) (template editor protected)
+       Module:Namespace detect (view source) (protected)
+       Module:Namespace detect/config (view source) (protected)
+       Module:Namespace detect/data (view source) (protected)
+       Module:Navbar (view source) (protected)
+       Module:Navbar/configuration (view source) (protected)
+       Module:Navbar/styles.css (view source) (protected)
+       Module:Navbox (view source) (template editor protected)
+       Module:Navbox/configuration (view source) (template editor protected)
+       Module:Navbox/styles.css (view source) (template editor protected)
+       Module:No globals (view source) (protected)
+       Module:Pagetype (view source) (protected)
+       Module:Pagetype/config (view source) (protected)
+       Module:ResolveEntityId (view source) (template editor protected)
+       Module:SDcat (view source) (template editor protected)
+       Module:Section link (view source) (template editor protected)
+       Module:Separated entries (view source) (protected)
+       Module:Side box (view source) (template editor protected)
+       Module:Sidebar (view source) (template editor protected)
+       Module:Sidebar/configuration (view source) (template editor protected)
+       Module:Sidebar/styles.css (view source) (template editor protected)
+       Module:String (view source) (protected)
+       Module:TableTools (view source) (protected)
+       Module:Template parameter value (view source) (template editor protected)
+       Module:Trim quotes (view source) (template editor protected)
+       Module:Unsubst (view source) (protected)
+       Module:Webarchive (view source) (template editor protected)
+       Module:Webarchive/data (view source) (template editor protected)
+       Module:WikidataIB (view source) (template editor protected)
+       Module:WikidataIB/nolinks (view source) (template editor protected)
+       Module:WikidataIB/titleformats (view source) (template editor protected)
+       Module:Yesno (view source) (protected)
+      
+     
+     Return to Information retrieval. 
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/wiki/Information_retrieval"
+     
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Page information
+       Wikidata item
+       
+      
+     
+     
+      Languages  
+      
+       
+      
+       
+       
+      
+     
+    
+   
+   
+    
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+    
+ 

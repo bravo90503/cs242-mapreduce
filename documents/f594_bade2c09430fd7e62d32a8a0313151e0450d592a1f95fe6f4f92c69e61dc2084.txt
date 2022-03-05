@@ -1,0 +1,1944 @@
+
+ 
+  
+   
+  Jurisprudence - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Jurisprudence 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Theoretical study of law
+       
+      
+      
+       For the "jurisprudence" of courts, see Case law.
+       
+      
+      
+       "Concept of law" redirects here. For the book by H. L. A. Hart, see The Concept of Law.
+       
+        
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           
+            This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages) 
+             
+             
+              
+               
+                
+                 
+                  
+                 
+                
+                 
+                  This article possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed. (June 2018) (Learn how and when to remove this template message)
+                 
+               
+              
+              
+             
+              
+               
+                
+                 
+                  
+                 
+                
+                 
+                  This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources:&nbsp;"Jurisprudence"&nbsp;–&nbsp;news&nbsp;· newspapers&nbsp;· books&nbsp;· scholar&nbsp;· JSTOR (June 2018) (Learn how and when to remove this template message)
+                 
+               
+              
+              
+             
+            (Learn how and when to remove this template message)
+          
+        
+       
+       
+      
+       
+         
+        
+         
+          
+         Philosophers of law ask "what is law, and what should it be?"
+        
+       
+       
+      Jurisprudence, or legal theory, is the theoretical study of the propriety of law. Scholars of jurisprudence seek to explain the nature of law in its most general form and provide a deeper understanding of legal reasoning and analogy, legal systems, legal institutions, and the proper application and role of law in society. 
+      Modern jurisprudence began in the 18th century and was focused on the first principles of natural law, civil law, and the law of nations. General jurisprudence can be divided into categories both by the type of question scholars seek to answer and by the theories of jurisprudence, or schools of thought, regarding how those questions are best answered. Contemporary philosophy of law, which deals with general jurisprudence, addresses problems internal to law and legal systems and problems of law as a social institution that relates to the larger political and social context in which it exists. 
+      This article addresses three distinct branches of thought in general jurisprudence. Ancient natural law is the idea that there are rational objective limits to the power of legislative rulers. The foundations of law are accessible through reason, and it is from these laws of nature that human laws gain whatever force they have. Analytic jurisprudence (Clarificatory jurisprudence) rejects natural law's fusing of what law is and what it ought to be. It espouses the use of a neutral point of view and descriptive language when referring to aspects of legal systems. It encompasses such theories of jurisprudence as "legal positivism", which holds that there is no necessary connection between law and morality and that the force of law comes from basic social facts; and "legal realism", which argues that the real-world practice of law determines what law is, the law having the force that it does because of what legislators, lawyers, and judges do with it. Normative jurisprudence is concerned with "evaluative" theories of law. It deals with what the goal or purpose of law is, or what moral or political theories provide a foundation for the law. It not only addresses the question "What is law?", but also tries to determine what the proper function of law should be, or what sorts of acts should be subject to legal sanctions, and what sorts of punishment should be permitted.  
+      
+       
+       
+        Contents
+        
+        
+        1 Etymology 
+        2 History 
+        3 Natural law 
+          
+          3.1 Aristotle 
+          3.2 Thomas Aquinas 
+          3.3 School of Salamanca 
+          3.4 Lon Fuller 
+          3.5 John Finnis 
+           
+        4 Analytic jurisprudence 
+          
+          4.1 Historical school 
+          4.2 Sociological jurisprudence 
+          4.3 Legal positivism 
+            
+            4.3.1 Thomas Hobbes 
+            4.3.2 Bentham and Austin 
+            4.3.3 Hans Kelsen 
+            4.3.4 H.&nbsp;L.&nbsp;A. Hart 
+            4.3.5 Joseph Raz 
+             
+          4.4 Legal realism 
+          4.5 Critical legal studies 
+          4.6 Critical rationalism 
+          4.7 Legal interpretivism 
+          4.8 Therapeutic jurisprudence 
+           
+        5 Normative jurisprudence 
+          
+          5.1 Virtue jurisprudence 
+          5.2 Deontology 
+          5.3 Utilitarianism 
+          5.4 John Rawls 
+           
+        6 See also 
+        7 Notes 
+        8 References 
+        9 Further reading 
+        10 External links 
+        
+       
+      Etymology 
+      The English word is derived from the Latin, iurisprudentia. Iuris is the genitive form of ius meaning law, and prudentia meaning prudence (also: discretion, foresight, forethought, circumspection). It refers to the exercise of good judgment, common sense, and caution, especially in the conduct of practical matters. The word first appeared in written English in 1628, at a time when the word prudence meant knowledge of, or skill in, a matter. It may have entered English via the French jurisprudence, which appeared earlier.  
+      History 
+      Ancient Indian jurisprudence is mentioned in various Dharmaśāstra texts, starting with the Dharmasutra of Bhodhayana. 
+      In Ancient China, the Daoists, Confucians, and Legalists all had competing theories of jurisprudence. 
+      Jurisprudence in Ancient Rome had its origins with the (periti)—experts in the jus mos maiorum (traditional law), a body of oral laws and customs. 
+      Praetors established a working body of laws by judging whether or not singular cases were capable of being prosecuted either by the edicta, the annual pronunciation of prosecutable offense, or in extraordinary situations, additions made to the edicta. An iudex would then prescribe a remedy according to the facts of the case. 
+      The sentences of the iudex were supposed to be simple interpretations of the traditional customs, but—apart from considering what traditional customs applied in each case—soon developed a more equitable interpretation, coherently adapting the law to newer social exigencies. The law was then adjusted with evolving institutiones (legal concepts), while remaining in the traditional mode. Praetors were replaced in the 3rd century BC by a laical body of prudentes. Admission to this body was conditional upon proof of competence or experience. 
+      Under the Roman Empire, schools of law were created, and practice of the law became more academic. From the early Roman Empire to the 3rd century, a relevant body of literature was produced by groups of scholars, including the Proculians and Sabinians. The scientific nature of the studies was unprecedented in ancient times. 
+      After the 3rd century, juris prudentia became a more bureaucratic activity, with few notable authors. It was during the Eastern Roman Empire (5th century) that legal studies were once again undertaken in depth, and it is from this cultural movement that Justinian's Corpus Juris Civilis was born.  
+      Natural law 
+      In its general sense, natural law theory may be compared to both state-of-nature law and general law understood on the basis of being analogous to the laws of physical science. Natural law is often contrasted to positive law which asserts law as the product of human activity and human volition. 
+      Another approach to natural-law jurisprudence generally asserts that human law must be in response to compelling reasons for action. There are two readings of the natural-law jurisprudential stance.  
+      
+       The strong natural law thesis holds that if a human law fails to be in response to compelling reasons, then it is not properly a "law" at all. This is captured, imperfectly, in the famous maxim: lex iniusta non est lex (an unjust law is no law at all). 
+       The weak natural law thesis holds that if a human law fails to be in response to compelling reasons, then it can still be called a "law", but it must be recognised as a defective law.
+       
+      Notions of an objective moral order, external to human legal systems, underlie natural law. What is right or wrong can vary according to the interests one is focused on. John Finnis, one of the most important of modern natural lawyers, has argued that the maxim "an unjust law is no law at all" is a poor guide to the classical Thomist position. 
+      Strongly related to theories of natural law are classical theories of justice, beginning in the West with Plato's Republic.  
+      Aristotle 
+      
+       
+         
+        
+         
+          
+         Aristotle, by Francesco Hayez
+        
+       
+       
+      Aristotle is often said to be the father of natural law. Like his philosophical forefathers Socrates and Plato, Aristotle posited the existence of natural justice or natural right (dikaion physikon, δικαίον φυσικόν, Latin ius naturale). His association with natural law is largely due to how he was interpreted by Thomas Aquinas. This was based on Aquinas' conflation of natural law and natural right, the latter of which Aristotle posits in Book V of the Nicomachean Ethics (Book IV of the Eudemian Ethics). Aquinas's influence was such as to affect a number of early translations of these passages, though more recent translations render them more literally. 
+      Aristotle's theory of justice is bound up in his idea of the golden mean. Indeed, his treatment of what he calls "political justice" derives from his discussion of "the just" as a moral virtue derived as the mean between opposing vices, just like every other virtue he describes. His longest discussion of his theory of justice occurs in Nicomachean Ethics and begins by asking what sort of mean a just act is. He argues that the term "justice" actually refers to two different but related ideas: general justice and particular justice. When a person's actions toward others are completely virtuous in all matters, Aristotle calls them "just" in the sense of "general justice"; as such, this idea of justice is more or less coextensive with virtue. "Particular" or "partial justice", by contrast, is the part of "general justice" or the individual virtue that is concerned with treating others equitably. 
+      Aristotle moves from this unqualified discussion of justice to a qualified view of political justice, by which he means something close to the subject of modern jurisprudence. Of political justice, Aristotle argues that it is partly derived from nature and partly a matter of convention. This can be taken as a statement that is similar to the views of modern natural law theorists. But it must also be remembered that Aristotle is describing a view of morality, not a system of law, and therefore his remarks as to nature are about the grounding of the morality enacted as law, not the laws themselves. 
+      The best evidence of Aristotle's having thought there was a natural law comes from the Rhetoric, where Aristotle notes that, aside from the "particular" laws that each people has set up for itself, there is a "common" law that is according to nature. The context of this remark, however, suggests only that Aristotle thought that it could be rhetorically advantageous to appeal to such a law, especially when the "particular" law of one's own city was adverse to the case being made, not that there actually was such a law. Aristotle, moreover, considered certain candidates for a universally valid, natural law to be wrong. Aristotle's theoretical paternity of the natural law tradition is consequently disputed.  
+      Thomas Aquinas 
+      
+      
+       Main articles: Thomas Aquinas and Treatise on Law
+       
+      
+       
+         
+        
+         
+          
+         Thomas Aquinas was the most influential Western medieval legal scholar.
+        
+       
+       
+      Thomas Aquinas is the foremost classical proponent of natural theology, and the father of the Thomistic school of philosophy, for a long time the primary philosophical approach of the Roman Catholic Church. The work for which he is best known is the Summa Theologiae. One of the thirty-five Doctors of the Church, he is considered by many Catholics to be the Church's greatest theologian. Consequently, many institutions of learning have been named after him. 
+      Aquinas distinguished four kinds of law: eternal, natural, divine, and human:  
+      
+       Eternal law refers to divine reason, known only to God. It is God's plan for the universe. Man needs this plan, for without it he would totally lack direction. 
+       Natural law is the "participation" in the eternal law by rational human creatures, and is discovered by reason 
+       Divine law is revealed in the scriptures and is God's positive law for mankind 
+       Human law is supported by reason and enacted for the common good.
+       
+      Natural law is based on "first principles":  
+      
+       ...&nbsp;this is the first precept of the law, that good is to be done and promoted, and evil is to be avoided. All other precepts of the natural law are based on this&nbsp;...
+       
+      The desires to live and to procreate are counted by Aquinas among those basic (natural) human values on which all other human values are based.  
+      School of Salamanca 
+      
+      
+       Main articles: School of Salamanca and ius gentium
+       
+      Francisco de Vitoria was perhaps the first to develop a theory of ius gentium (the rights of peoples), and thus is an important figure in the transition to modernity. He extrapolated his ideas of legitimate sovereign power to international affairs, concluding that such affairs ought to be determined by forms respecting of the rights of all and that the common good of the world should take precedence before the good of any single state. This meant that relations between states ought to pass from being justified by force to being justified by law and justice. Some scholars have upset the standard account of the origins of International law, which emphasises the seminal text De iure belli ac pacis by Hugo Grotius, and argued for Vitoria and, later, Suárez's importance as forerunners and, potentially, founders of the field. Others, such as Koskenniemi, have argued that none of these humanist and scholastic thinkers can be understood to have founded international law in the modern sense, instead placing its origins in the post-1870 period. 
+      Francisco Suárez, regarded as among the greatest scholastics after Aquinas, subdivided the concept of ius gentium. Working with already well-formed categories, he carefully distinguished ius inter gentes from ius intra gentes. Ius inter gentes (which corresponds to modern international law) was something common to the majority of countries, although, being positive law, not natural law, it was not necessarily universal. On the other hand, ius intra gentes, or civil law, is specific to each nation.  
+      Lon Fuller 
+      
+      
+       Main article: Lon L. Fuller
+       
+      Writing after World War II, Lon L. Fuller defended a secular and procedural form of natural law. He emphasised that the (natural) law must meet certain formal requirements (such as being impartial and publicly knowable). To the extent that an institutional system of social control falls short of these requirements, Fuller argued, we are less inclined to recognise it as a system of law, or to give it our respect. Thus, the law must have a morality that goes beyond the societal rules under which laws are made.  
+      John Finnis 
+      
+      
+       Main article: John Finnis
+       
+      Sophisticated positivist and natural law theories sometimes resemble each other and may have certain points in common. Identifying a particular theorist as a positivist or a natural law theorist sometimes involves matters of emphasis and degree, and the particular influences on the theorist's work. The natural law theorists of the distant past, such as Aquinas and John Locke made no distinction between analytic and normative jurisprudence, while modern natural law theorists, such as John Finnis, who claim to be positivists, still argue that law is moral by nature. In his book Natural Law and Natural Rights (1980, 2011), John Finnis provides a restatement of natural law doctrine.  
+      Analytic jurisprudence 
+      
+      
+       Main article: Analytic jurisprudence
+       
+      Analytic, or "clarificatory", jurisprudence means taking a neutral point of view and using descriptive language when referring to various aspects of legal systems. This was a philosophical development that rejected natural law's fusing of what law is and what it ought to be. David Hume argued, in A Treatise of Human Nature, that people invariably slip from describing what the world is to asserting that we therefore ought to follow a particular course of action. But as a matter of pure logic, one cannot conclude that we ought to do something merely because something is the case. So analysing and clarifying the way the world is must be treated as a strictly separate question from normative and evaluative questions of what ought to be done. 
+      The most important questions of analytic jurisprudence are: "What are laws?"; "What is the law?"; "What is the relationship between law and power/sociology?"; and "What is the relationship between law and morality?" Legal positivism is the dominant theory, although there is a growing number of critics who offer their own interpretations.  
+      Historical school 
+      Historical jurisprudence came to prominence during the debate on the proposed codification of German law. In his book On the Vocation of Our Age for Legislation and Jurisprudence, Friedrich Carl von Savigny argued that Germany did not have a legal language that would support codification because the traditions, customs, and beliefs of the German people did not include a belief in a code. Historicists believe that law originates with society.  
+      Sociological jurisprudence 
+      
+      
+       Main article: Sociology of Law
+       
+      An effort to systematically inform jurisprudence from sociological insights developed from the beginning of the twentieth century, as sociology began to establish itself as a distinct social science, especially in the United States and in continental Europe. In Germany, Austria and France, the work of the "free law" theorists (e.g. Ernst Fuchs, Hermann Kantorowicz, Eugen Ehrlich and Francois Geny) encouraged the use of sociological insights in the development of legal and juristic theory. The most internationally influential advocacy for a "sociological jurisprudence" occurred in the United States, where, throughout the first half of the twentieth century, Roscoe Pound, for many years the Dean of Harvard Law School, used this term to characterise his legal philosophy. In the United States, many later writers followed Pound's lead or developed distinctive approaches to sociological jurisprudence. In Australia, Julius Stone strongly defended and developed Pound's ideas. In the 1930s, a significant split between the sociological jurists and the American legal realists emerged. In the second half of the twentieth century, sociological jurisprudence as a distinct movement declined as jurisprudence came more strongly under the influence of analytical legal philosophy; but with increasing criticism of dominant orientations of legal philosophy in English-speaking countries in the present century, it has attracted renewed interest. Increasingly, its contemporary focus is on providing theoretical resources for jurists to aid their understanding of new types of regulation (for example, the diverse kinds of developing transnational law) and the increasingly important interrelations of law and culture, especially in multicultural Western societies.  
+      Legal positivism 
+      
+      
+       Main article: Legal positivism
+       
+      Legal positivism is the view that the content of law is dependent on social facts and that a legal system's existence is not constrained by morality. Within legal positivism, theorists agree that law's content is a product of social facts, but theorists disagree whether law's validity can be explained by incorporating moral values. Legal positivists who argue against the incorporation of moral values to explain law's validity are labeled exclusive (or hard) legal positivists. Joseph Raz's legal positivism is an example of exclusive legal positivism. Legal positivists who argue that law's validity can be explained by incorporating moral values are labeled inclusive (or soft) legal positivists. The legal positivist theories of H.&nbsp;L.&nbsp;A. Hart and Jules Coleman are examples of inclusive legal positivism.  
+      Thomas Hobbes 
+      
+      
+       Main article: Thomas Hobbes
+       
+      Hobbes was a social contractarian and believed that the law had peoples' tacit consent. He believed that society was formed from a state of nature to protect people from the state of war that would exist otherwise. In Leviathan, Hobbes argues that without an ordered society life would be "solitary, poor, nasty, brutish and short." It is commonly said that Hobbes's views on human nature were influenced by his times. The English Civil War and the Cromwellian dictatorship had taken place; and, in reacting to that, Hobbes felt that absolute authority vested in a monarch, whose subjects obeyed the law, was the basis of a civilized society.  
+      Bentham and Austin 
+      
+       
+         
+        
+         
+          
+         Bentham's utilitarian theories remained dominant in law until the twentieth century.
+        
+       
+       
+      
+      
+       Main articles: Jeremy Bentham and John Austin (legal philosopher)
+       
+      John Austin and Jeremy Bentham were early legal positivists who sought to provide a descriptive account of law that describes the law as it is. Austin explained the descriptive focus for legal positivism by saying, "The existence of law is one thing; its merit and demerit another. Whether it be or be not is one enquiry; whether it be or be not conformable to an assumed standard, is a different enquiry." For Austin and Bentham, a society is governed by a sovereign who has de facto authority. Through the sovereign's authority come laws, which for Austin and Bentham are commands backed by sanctions for non-compliance. Along with Hume, Bentham was an early and staunch supporter of the utilitarian concept, and was an avid prison reformer, advocate for democracy, and firm atheist. Bentham's views about law and jurisprudence were popularized by his student John Austin. Austin was the first chair of law at the new University of London, from 1829. Austin's utilitarian answer to "what is law?" was that law is "commands, backed by threat of sanctions, from a sovereign, to whom people have a habit of obedience". H.&nbsp;L.&nbsp;A. Hart criticized Austin and Bentham's early legal positivism because the command theory failed to account for individual's compliance with the law.  
+      Hans Kelsen 
+      
+      
+       Main article: Hans Kelsen
+       
+      Hans Kelsen is considered one of the prominent jurists of the 20th century and has been highly influential in Europe and Latin America, although less so in common-law countries. His Pure Theory of Law describes law as "binding norms", while at the same time refusing to evaluate those norms. That is, "legal science" is to be separated from "legal politics". Central to the Pure Theory of Law is the notion of a "basic norm" (Grundnorm)'—a hypothetical norm, presupposed by the jurist, from which all "lower" norms in the hierarchy of a legal system, beginning with constitutional law, are understood to derive their authority or the extent to which they are binding. Kelsen contends that the extent to which legal norms are binding, their specifically "legal" character, can be understood without tracing it ultimately to some suprahuman source such as God, personified Nature or—of great importance in his time—a personified State or Nation.  
+      H.&nbsp;L.&nbsp;A. Hart 
+      
+      
+       Main article: H. L. A. Hart
+       
+      In the English-speaking world, the most influential legal positivist of the twentieth century was H.&nbsp;L.&nbsp;A. Hart, professor of jurisprudence at Oxford University. Hart argued that the law should be understood as a system of social rules. In The Concept of Law, Hart rejected Kelsen's views that sanctions were essential to law and that a normative social phenomenon, like law, cannot be grounded in non-normative social facts. 
+      Hart claimed that law is the union primary rules and secondary rules. Primary rules require individuals to act or not act in certain ways and create duties for the governed to obey. Secondary rules are rules that confer authority to create new primary rules or modify existing ones. Secondary rules are divided into rules of adjudication (how to resolve legal disputes), rules of change (how laws are amended), and the rule of recognition (how laws are identified as valid). The validity of a legal system comes from the "rule of recognition", which is a customary practice of officials (especially barristers and judges) who identify certain acts and decisions as sources of law. In 1981, Neil MacCormick wrote a pivotal book on Hart (second edition published in 2008), which further refined and offered some important criticisms that led MacCormick to develop his own theory (the best example of which is his Institutions of Law, 2007). Other important critiques include those of Ronald Dworkin, John Finnis, and Joseph Raz. 
+      In recent years, debates on the nature of law have become increasingly fine-grained. One important debate is within legal positivism. One school is sometimes called "exclusive legal positivism" and is associated with the view that the legal validity of a norm can never depend on its moral correctness. A second school is labeled "inclusive legal positivism", a major proponent of which is Wil Waluchow, and is associated with the view that moral considerations may, but do not necessarily, determine the legal validity of a norm.  
+      Joseph Raz 
+      
+      
+       Main article: Joseph Raz
+       
+      Joseph Raz's theory of legal positivism argues against the incorporation of moral values to explain law's validity. In Raz's 1979 book The Authority of Law, he criticised what he called the "weak social thesis" to explain law. He formulates the weak social thesis as "(a) Sometimes the identification of some laws turn on moral arguments, but also with, (b) In all legal systems the identification of some law turns on moral argument." Raz argues that law's authority is identifiable purely through social sources, without reference to moral reasoning. This view he calls "the sources thesis". Raz suggests that any categorisation of rules beyond their role as authority is better left to sociology than to jurisprudence. Some philosophers used to contend that positivism was the theory that held that there was "no necessary connection" between law and morality; but influential contemporary positivists—including Joseph Raz, John Gardner, and Leslie Green—reject that view. As Raz points out, it is a necessary truth that there are vices that a legal system cannot possibly have (for example, it cannot commit rape or murder).  
+      Legal realism 
+      
+      
+       Main article: Legal realism
+       
+      
+       
+         
+        
+         
+          
+         Oliver Wendell Holmes was a self-styled legal realist.
+        
+       
+       
+      Legal realism is the view that a theory of law should be descriptive and account for the reasons why judges decide cases as they do. Legal realism had some affinities with the sociology of law and sociological jurisprudence. The essential tenet of legal realism is that all law is made by humans and thus should account for reasons besides legal rules that led to a legal decision. 
+      There are two separate schools of legal realism: American legal realism and Scandinavian legal realism. American legal realism grew out of the writings of Oliver Wendell Holmes. At the start of Holmes's The Common Law, he claims that "he life of the law has not been logic: it has been experience". This view was a reaction to legal formalism that was popular the time due to the Christopher Columbus Langdell. Holmes's writings on jurisprudence also laid the foundations for the predictive theory of law. In his article "The Path of the Law", Holmes argues that "the object of  study...is prediction, the prediction of the incidence of the public force through the instrumentality of the courts." 
+      For the American legal realists of the early twentieth century, legal realism sought to describe the way judges decide cases. For legal realists such as Jerome Frank, judges start with the facts before them and then move to legal principles. Before legal realism, theories of jurisprudence turned this method around where judges were thought to begin with legal principles and then look to facts. 
+      It has become common today to identify Justice Oliver Wendell Holmes Jr., as the main precursor of American Legal Realism (other influences include Roscoe Pound, Karl Llewellyn, and Justice Benjamin Cardozo). Karl Llewellyn, another founder of the U.S. legal realism movement, similarly believed that the law is little more than putty in the hands of judges who are able to shape the outcome of cases based on their personal values or policy choices. 
+      The Scandinavian school of legal realism argued that law can be explained through the empirical methods used by social scientists. Prominent Scandinavian legal realists are Alf Ross, Axel Hägerström, and Karl Olivecrona. Scandinavian legal realists also took a naturalist approach to law. 
+      Despite its decline in popularity, legal realism continues to influence a wide spectrum of jurisprudential schools today, including critical legal studies, feminist legal theory, critical race theory, sociology of law, and law and economics.  
+      Critical legal studies 
+      Critical legal studies are a new theory of jurisprudence that has developed since the 1970s. The theory can generally be traced to American legal realism and is considered "the first movement in legal theory and legal scholarship in the United States to have espoused a committed Left political stance and perspective". It holds that the law is largely contradictory, and can be best analyzed as an expression of the policy goals of a dominant social group.  
+      Critical rationalism 
+      Karl Popper originated the theory of critical rationalism. According to Reinhold Zippelius many advances in law and jurisprudence take place by operations of critical rationalism. He writes, "daß die Suche nach dem Begriff des Rechts, nach seinen Bezügen zur Wirklichkeit und nach der Gerechtigkeit experimentierend voranschreitet, indem wir Problemlösungen versuchsweise entwerfen, überprüfen und verbessern" (that we empirically search for solutions to problems, which harmonise fairly with reality, by projecting, testing and improving the solutions).  
+      Legal interpretivism 
+      
+      
+       Main article: Interpretivism (legal)
+       
+      American legal philosopher Ronald Dworkin's legal theory attacks legal positivists that separate law's content from morality. In his book Law's Empire, Dworkin argued that law is an "interpretive" concept that requires barristers to find the best-fitting and most just solution to a legal dispute, given their constitutional traditions. According to him, law is not entirely based on social facts, but includes the best moral justification for the institutional facts and practices that form a society's legal tradition. It follows from Dworkin's view that one cannot know whether a society has a legal system in force, or what any of its laws are, until one knows some truths about the moral justifications of the social and political practices of that society. It is consistent with Dworkin's view—in contrast with the views of legal positivists or legal realists—that no-one in a society may know what its laws are, because no-one may know the best moral justification for its practices. 
+      Interpretation, according to Dworkin's "integrity theory of law", has two dimensions. To count as an interpretation, the reading of a text must meet the criterion of "fit". Of those interpretations that fit, however, Dworkin maintains that the correct interpretation is the one that portrays the practices of the community in their best light, or makes them "the best that they can be". But many writers have doubted whether there is a single best moral justification for the complex practices of any given community, and others have doubted whether, even if there is, it should be counted as part of the law of that community.  
+      Therapeutic jurisprudence 
+      
+      
+       Main article: Therapeutic jurisprudence
+       
+      Consequences of the operation of legal rules or legal procedures—or of the behavior of legal actors (such as lawyers and judges)—may be either beneficial (therapeutic) or harmful (anti-therapeutic) to people. Therapeutic jurisprudence ("TJ") studies law as a social force (or agent) and uses social science methods and data to study the extent to which a legal rule or practice affects the psychological well-being of the people it impacts.  
+      Normative jurisprudence 
+      
+      
+       See also: Political philosophy
+       
+      In addition to the question, "What is law?", legal philosophy is also concerned with normative, or "evaluative" theories of law. What is the goal or purpose of law? What moral or political theories provide a foundation for the law? What is the proper function of law? What sorts of acts should be subject to punishment, and what sorts of punishment should be permitted? What is justice? What rights do we have? Is there a duty to obey the law? What value has the rule of law? Some of the different schools and leading thinkers are discussed below.  
+      Virtue jurisprudence 
+      
+       
+         
+        
+         
+          
+         Plato (left) and Aristotle (right), a detail of The School of Athens
+        
+       
+       
+      
+      
+       Main article: Virtue jurisprudence
+       
+      Aretaic moral theories, such as contemporary virtue ethics, emphasize the role of character in morality. Virtue jurisprudence is the view that the laws should promote the development of virtuous character in citizens. Historically, this approach has been mainly associated with Aristotle or Thomas Aquinas. Contemporary virtue jurisprudence is inspired by philosophical work on virtue ethics.  
+      Deontology 
+      
+      
+       Main article: Deontological ethics
+       
+      Deontology is the "theory of duty or moral obligation". The philosopher Immanuel Kant formulated one influential deontological theory of law. He argued that any rule we follow must be able to be universally applied, i.e. we must be willing for everyone to follow that rule. A contemporary deontological approach can be found in the work of the legal philosopher Ronald Dworkin.  
+      Utilitarianism 
+      
+       
+         
+        
+         
+          
+         Mill believed law should create happiness.
+        
+       
+       
+      
+      
+       Main article: Utilitarianism
+       
+      
+      
+       See also: Lysander Spooner
+       
+      Utilitarianism is the view that the laws should be crafted so as to produce the best consequences for the greatest number of people. Historically, utilitarian thinking about law has been associated with the philosopher Jeremy Bentham. John Stuart Mill was a pupil of Bentham's and was the torch bearer for utilitarian philosophy throughout the late nineteenth century. In contemporary legal theory, the utilitarian approach is frequently championed by scholars who work in the law and economics tradition.  
+      John Rawls 
+      
+      
+       Main articles: John Rawls and A Theory of Justice
+       
+      John Rawls was an American philosopher; a professor of political philosophy at Harvard University; and author of A Theory of Justice (1971), Political Liberalism, Justice as Fairness: A Restatement, and The Law of Peoples. He is widely considered one of the most important English-language political philosophers of the 20th century. His theory of justice uses a method called "original position" to ask us which principles of justice we would choose to regulate the basic institutions of our society if we were behind a "veil of ignorance". Imagine we do not know who we are—our race, sex, wealth, status, class, or any distinguishing feature—so that we would not be biased in our own favour. Rawls argued from this "original position" that we would choose exactly the same political liberties for everyone, like freedom of speech, the right to vote, and so on. Also, we would choose a system where there is only inequality because that produces incentives enough for the economic well-being of all society, especially the poorest. This is Rawls's famous "difference principle". Justice is fairness, in the sense that the fairness of the original position of choice guarantees the fairness of the principles chosen in that position. 
+      There are many other normative approaches to the philosophy of law, including critical legal studies and libertarian theories of law.  
+      See also 
+      
+       
+       
+        Analytical jurisprudence 
+        Artificial intelligence and law 
+        Brocard (law) 
+        Cautelary jurisprudence 
+        Comparative law 
+        Constitution 
+        Constitutional law 
+        Constitutionalism 
+        Constitutional economics 
+        Critical legal studies 
+        Critical race theory 
+        Critical rationalism 
+        Defeasible reasoning 
+        Divine law 
+        Feminist jurisprudence 
+        Feminist legal theory 
+        Fiqh 
+        International legal theory 
+        Judicial activism 
+        Justice 
+        Law and economics 
+        Law and literature 
+        Legal formalism 
+        Legal history 
+        Legalism 
+        Legal pluralism 
+        Legal positivism 
+        Legal realism 
+        Legal science 
+        Libertarian theories of law 
+        Living Constitution 
+        Originalism 
+        Natural law 
+        New legal realism 
+        Political jurisprudence 
+        Postmodernist jurisprudence 
+        Publius Juventius Celsus 
+        Philosophy of law 
+        Rule of law 
+        Rule according to higher law 
+        Sociological jurisprudence 
+        Sociology of law 
+        Strict interpretation 
+        Virtue jurisprudence
+        
+       
+      Notes 
+      
+       
+        
+        ^ LII Staff (6 August 2007). "Jurisprudence". LII / Legal Information Institute. Retrieved 22 September 2018.  
+        ^ 
+          Garner, Bryan A. (2009). Black's law dictionary (9th&nbsp;ed.). Saint Paul, Minnesota, USA: West. pp.&nbsp;Jurisprudence entry. ISBN&nbsp;978-0-314-19949-2.  
+        ^ a b Shiner, "Philosophy of Law", Cambridge Dictionary of Philosophy  
+        ^ a b See H L A Hart, 'Positivism and the Separation of Law and Morals' (1958) 71 Harv. L. Rev. 593  
+        ^ Soper, "Legal Positivism", Cambridge Dictionary of Philosophy  
+        ^ 
+          "jurisprudence - Wiktionary". en.wiktionary.org. Retrieved 24 May 2019.  
+        ^ Oxford English Dictionary, 2nd edition 1989  
+        ^ 
+          Katju, Markandey (27 November 2010). "Ancient Indian Jurisprudence" (PDF). Banaras Hindu University. Retrieved 11 April 2019.  
+        ^ 
+          Chang, Wejen (Spring 2010). "Classical Chinese Jurisprudence and the Development of the Chinese Legal System". Tsinghua China Law Review. 2 (2). Retrieved 27 June 2019.  
+        ^ 
+          The Blackwell Guide to the Philosophy of Law and Legal Theory. Golding, Martin P. (Martin Philip), 1930-, Edmundson, William A. (William Atkins), 1948-, Credo Reference. Malden, Mass.: Blackwell Pub. 2013. ISBN&nbsp;9781782683131. OCLC&nbsp;841495455.}: CS1 maint: others (link)  
+        ^ Shellens, "Aristotle on Natural Law."  
+        ^ Jaffa, Thomism and Aristotelianism.  
+        ^ H. Rackham, trans., Nicomachean Ethics, Loeb Classical Library; J. A. K. Thomson, trans. (revised by Hugh Tedennick), Nicomachean Ethics, Penguin Classics.  
+        ^ Joe Sachs, trans., Nicomachean Ethics, Focus Publishing  
+        ^ "Nicomachean Ethics" Bk. II ch. 6  
+        ^ Terrence Irwin, trans. Nicomachean Ethics, 2nd Ed., Hackett Publishing  
+        ^ a b Nicomachean Ethics, Bk. V, ch. 3  
+        ^ "Nicomachean Ethics", Bk. V, ch. 1  
+        ^ Nicomachean Ethics, Bk. V, ch. 7.  
+        ^ Rhetoric 1373b2–8.  
+        ^ Shellens, "Aristotle on Natural Law," 75–81  
+        ^ "Natural Law," International Encyclopedia of the Social Sciences.  
+        ^ 
+          "Greek Theory of Natural Law".  
+        ^ Louis Pojman, Ethics (Belmont, CA: Wadsworth Publishing Company, 1995)  
+        ^ 
+          "Summa Theologica".  
+        ^ e.g. James Brown Scott, cited in Cavallar, The Rights of Strangers: theories of international hospitality, the global community, and political justice since Vitoria, p.164  
+        ^ Koskenniemi: "International Law and raison d'état: Rethinking the Prehistory of International Law", in Kingsbury &amp; Strausmann, The Roman Foundations of the Law of Nations, pp. 297–339  
+        ^ 
+          Finnis, John (1980). Natural Law and Natural Rights. Oxford: Clarendon Press. pp.&nbsp;18–19.  
+        ^ David Hume, A Treatise of Human Nature (1739) Etext Archived 20 August 2006 at the Wayback Machine  
+        ^ Friedrich Carl von Savigny, On the Vocation of Our Age for Legislation and Jurisprudence (Abraham A. Hayward trans., 1831)  
+        ^ For full discussion see Cotterrell 2018  
+        ^ 
+          Green, Leslie (Spring 2018). "Legal Positivism". The Stanford Encyclopedia of Philosophy.  
+        ^ 
+          Murphy, Mark C. (2006). Philosophy of law: the fundamentals. Malden, MA: Blackwell. pp.&nbsp;132–135. ISBN&nbsp;9781405129466. OCLC&nbsp;62281976.  
+        ^ 
+          Himma, Kenneth Einar. "Legal Positivism". The Internet Encyclopedia of Philosophy. Retrieved 31 May 2019.  
+        ^ 
+          Martinich, A.P. (2013). Hobbes. New York: Routledge. p.&nbsp;54. ISBN&nbsp;9781135180799.  
+        ^ 
+          Hobbes, Thomas (1668). "Of the Natural Condition of Mankind". In Curley, Edwin (ed.). Leviathan: With selected variants from the Latin edition of 1668. Hackett Publishing. p.&nbsp;76. ISBN&nbsp;9781603844857.  
+        ^ 
+          Austin, John (1832). The province of jurisprudence determined&nbsp;; and, the uses of the study of jurisprudence. Indianapolis, IN: Hackett Pub. p.&nbsp;184. ISBN&nbsp;0872204332. OCLC&nbsp;39539515.  
+        ^ John Austin, The Providence of Jurisprudence Determined (1831)  
+        ^ 
+          Hart, H.&nbsp;L.&nbsp;A. (2012). The Concept of Law (3rd&nbsp;ed.). Oxford: Oxford University Press. pp.&nbsp;79–99.  
+        ^ a b 
+          Hart, H.&nbsp;L.&nbsp;A. (2012). The Concept of Law (3rd&nbsp;ed.). Oxford: Oxford University Press. p.&nbsp;81.  
+        ^ 
+          "The University of Edinburgh". Archived from the original on 1 June 2006. Retrieved 24 May 2006.  
+        ^ 
+          Raz, Joseph (1979). The Authority of Law: Essays on Law and Morality. Oxford: Oxford University Press. p.&nbsp;45. ISBN&nbsp;9780199573561.  
+        ^ a b 
+          Raz, Joseph (1979). The Authority of Law: Essays on Law and Morality. Oxford: Oxford University Press. p.&nbsp;47. ISBN&nbsp;9780199573561.  
+        ^ 
+          Raz, Joseph (1979). The Authority of Law: Essays on Law and Morality. Oxford: Oxford University Press. pp.&nbsp;47–48. ISBN&nbsp;9780199573561.  
+        ^ ch. 2, Joseph Raz, The Authority of Law (1979)  
+        ^ 
+          Leiter, Brian (December 1997). "Rethinking Legal Realism: Toward a Naturalized Jurisprudence". Texas Law Review. 76: 268.  
+        ^ 
+          Holmes Jr., O.W. (1881). The Common Law. Boston: Little, Brown, and Co. p.&nbsp;1.  
+        ^ 
+          Langdell, C.C. (1871). A Selection of Cases on the Law of Contracts. Boston: Little, Brown, and Co. pp.&nbsp;vi.  
+        ^ 
+          Holmes, O.W. (1897). "The Path of the Law". Harvard Law Review. 10 (8): 457–478. doi:10.2307/1322028. JSTOR&nbsp;1322028.  
+        ^ "Jurisprudence". West's Encyclopedia of American Law. Ed. Jeffrey Lehman, Shirelle Phelps. Detroit: Thomson/Gale, 2005.  
+        ^ 
+          Schauer, Frederick (2009). Thinking Like a Lawyer. Cambridge: Harvard University Press. pp.&nbsp;124 n.1. ISBN&nbsp;9780674032705.  
+        ^ 
+          Olivecrona, Karl (1971). Law as Fact. London: Stevens &amp; Sons. pp.&nbsp;vii. ISBN&nbsp;978-0420432506.  
+        ^ a b Kristoffel Grechenig &amp; Martin Gelter, The Transatlantic Divergence in Legal Thought: American Law and Economics vs. German Doctrinalism, Hastings International and Comparative Law Review 2008, vol. 31, pp. 295–360.  
+        ^ Alan Hunt, "The Theory of Critical Legal Studies," Oxford Journal of Legal Studies, Vol. 6, No. 1 (1986): 1-45, esp. 1, 5. See . DOI, 10.1093/ojls/6.1.1.  
+        ^ Moore, "Critical Legal Studies", Cambridge Dictionary of Philosophy  
+        ^ Reinhold Zippelius, Rechtsphilosophie, 6. Aufl. 2011 Vorwort.  
+        ^ Brooks, "Review of Dworkin and His Critics with Replies by Dworkin", Modern Law Review, vol. 69 no. 6  
+        ^ Ronald Dworkin, Law's Empire (1986) Harvard University Press  
+        ^ 
+          Wexler, David B; Perlin, Michael L; Vols, Michel; et&nbsp;al. (December 2016). "Editorial: Current Issues in Therapeutic Jurisprudence". QUT Law Review. 16 (3): 1–3. doi:10.5204/qutlr.v16i3.692. ISSN&nbsp;2201-7275.  
+        ^ Webster's New World Dictionary of the American Language, p. 378 (2d Coll. Ed. 1978).  
+        ^ see, Utilitarianism Archived 5 May 2007 at the Wayback Machine at Metalibri Digital Library  
+        ^ 
+          Nussbaum, Martha (20 July 2001). "The Enduring Significance of John Rawls" (PDF). The Chronicle of Higher Education. John Rawls, who turned 80 this year, is the most distinguished moral and political philosopher of our age.  
+        ^ 
+          Dorf, Michael C. (11 December 2002). "In Praise of John Rawls, The Man Who Made Moral Philosophy Respectable Again – And Whose Views Also Profoundly Informed American Legal Thought". FindLaw. Rawls remained the most important American philosopher since John Dewey.  
+        ^ 
+          Jedediah, Purdy (29 October 2019). "What John Rawls Missed". The New Republic. John Rawls, who died in 2002, was the most influential American philosopher of the twentieth century.  
+       
+       
+      References 
+      
+       Hastings International and Comparative Law Review 2008, vol. 31, pp. 295–36.
+       
+      Further reading 
+      
+       
+        Austin, John (1831). The Province of Jurisprudence Determined. 
+       Cotterrell, R. (1995). Law's Community: Legal Theory in Sociological Perspective. Oxford: Oxford University Press. 
+       Cotterrell, R. (2003). The Politics of Jurisprudence: A Critical Introduction to Legal Philosophy, 2nd ed. Oxford: Oxford University Press. 
+       Cotterrell, R. (2018). Sociological Jurisprudence: Juristic Thought and Social Inquiry. New York/London: Routledge. 
+       Freeman, M. D. A. (2014). Lloyd's Introduction to Jurisprudence. 9th ed. London: Sweet and Maxwell. 
+       
+        Hart, H. L. A. (1994) . The Concept of Law (2nd (with postscript)&nbsp;ed.). Oxford: Clarendon Press. ISBN&nbsp;978-0-19-876122-8. 
+       Hartzler, H. Richard (1976). Justice, Legal Systems, and Social Structure. Port Washington, NY: Kennikat Press. 
+       
+        Engle, Eric (July 2010). Lex Naturalis, Ius Naturalis: Law as Positive Reasoning &amp; Natural Rationality. Eric Engle. ISBN&nbsp;978-0-9807318-4-2. 
+       Hutchinson, Allan C., ed. (1989). Critical Legal Studies. Totowa, NJ: Rowman &amp; Littlefield. 
+       Kempin Jr., Frederick G. (1963). Legal History: Law and Social Change. Englewood Cliffs, NJ: Prentice-Hall. 
+       Llewellyn, Karl N. (1986). Karl N. Llewellyn on Legal Realism. Birmingham, AL: Legal Classics Library. (Contains penetrating classic "The Bramble Bush" on nature of law). 
+       Murphy, Cornelius F. (1977). Introduction to Law, Legal Process, and Procedure. St. Paul, MN: West Publishing. 
+       Rawls, John (1999). A Theory of Justice, revised ed. Cambridge: Harvard University Press. (Philosophical treatment of justice). 
+       Wacks, Raymond (2009). Understanding Jurisprudence: An Introduction to Legal Theory Oxford University Press. 
+       Washington, Ellis (2002). The Inseparability of Law and Morality: Essays on Law, Race, Politics and Religion University Press of America. 
+       Washington, Ellis (2013). The Progressive Revolution, 2007–08 Writings-Vol. 1; 2009 Writings-Vol. 2, Liberal Fascism through the Ages University Press of America. 
+       Zinn, Howard (1990). Declarations of Independence: Cross-Examining American Ideology. New York: Harper Collins Publishers. 
+       Zippelius, Reinhold (2011). Rechtsphilosophie, 6th ed. Munich: C.H. Beck. 
+        ISBN&nbsp;978-3-406-61191-9 
+       Zippelius, Reinhold (2012). Das Wesen des Rechts (The Concept of Law), an introduction to Legal Theory, 6th ed., Stuttgart: W. Kohlhammer. 
+        ISBN&nbsp;978-3-17-022355-4 
+       Zippelius, Reinhold (2008). Introduction to German Legal Methods (Juristische Methodenlehre), translated from the tenth German Edition by Kirk W. Junker, P. Matthew Roy. Durham: Carolina Academic Press. 
+       Heinze, Eric, The Concept of Injustice (Routledge, 2013) 
+       Pillai, P. S. A. (2016). Jurisprudence and Legal Theory, 3rd Edition, Reprinted 2016: Eastern Book Company. 
+        ISBN&nbsp;978-93-5145-326-0
+       
+      External links 
+       
+       
+         
+          
+         Look up jurisprudence in Wiktionary, the free dictionary.
+         
+       
+       
+      
+       John Witte Jr.: A Brief Biography of Dooyeweerd, based on Hendrik van Eikema Hommes, Inleiding tot de Wijsbegeerte van Herman Dooyeweerd (The Hague, 1982; pp.&nbsp;1–4, 132). Redeemer University College 
+       LII Law about&nbsp;... Jurisprudence. 
+       Lircocervo.it "L'Ircocervo. Rivista elettronica italiana di metodologia giuridica, teoria generale del diritto e dottrina dello stato" 
+       The Case of the Speluncean Explorers: Nine New Opinions, by Peter Suber (Routledge, 1998.) Lon Fuller's classic of jurisprudence brought up to date 50 years later. 
+       The Roman Law Library, incl. Responsa prudentium by Professor Yves Lassard and Alexandr Koptev. 
+       Evgeny Pashukanis - General Theory of Law and Marxism. 
+       Internet Encyclopedia: Philosophy of Law. 
+       The Opticon: Online Repository of Materials covering Spectrum of U.S. Jurisprudence. 
+       Foundation for Law, Justice and Society 
+       Bibliography on the Philosophy of Law. Peace Palace Library 
+       Norwegian Association for Legal Philosophy
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Jurisprudence
+           
+         
+         
+          
+            
+            
+             Index
+             
+           
+         
+         
+          Legal theory
+          
+            
+            
+             Critical legal studies 
+             Comparative law 
+             Economic analysis 
+             Legal norms 
+             International legal theory 
+             Legal history 
+             Philosophy of law 
+             Sociology of law
+             
+           
+         
+         
+          Philosophers
+          
+            
+            
+             Alexy 
+             Allan 
+             Aquinas 
+             Aristotle 
+             Austin 
+             Bastiat 
+             Beccaria 
+             Bentham 
+             Betti 
+             Bickel 
+             Blackstone 
+             Bobbio 
+             Bork 
+             Brożek 
+             Cardozo 
+             Castanheira Neves 
+             Chafee 
+             Coleman 
+             Del Vecchio 
+             Diniz 
+             Durkheim 
+             Dworkin 
+             Ehrlich 
+             Feinberg 
+             Fineman 
+             Finnis 
+             Frank 
+             Fuller 
+             Gardner 
+             George 
+             Green 
+             Grisez 
+             Grotius 
+             Gurvitch 
+             Habermas 
+             Han 
+             Hart 
+             Hegel 
+             Hobbes 
+             Hohfeld 
+             Hägerström 
+             Jellinek 
+             Jhering 
+             Kant 
+             Kelsen 
+             Köchler 
+             Kramer 
+             Leoni 
+             Llewellyn 
+             Lombardía 
+             Luhmann 
+             Lundstedt 
+             Lyons 
+             MacCormick 
+             Marx 
+             Nussbaum 
+             Olivecrona 
+             Pashukanis 
+             Perelman 
+             Petrażycki 
+             Pontes de Miranda 
+             Posner 
+             Pound 
+             Puchta 
+             Pufendorf 
+             Radbruch 
+             Rawls 
+             Raz 
+             Reale 
+             Reinach 
+             Renner 
+             Ross 
+             Rumi 
+             Savigny 
+             Scaevola 
+             Schauer 
+             Schmitt 
+             Shang 
+             Simmonds 
+             Somló 
+             Suárez 
+             Tribe 
+             Unger 
+             Voegelin 
+             Waldron 
+             Walzer 
+             Weber 
+             Wronkowska 
+             Ziembiński 
+             Znamierowski
+             
+           
+         
+         
+          Theories
+          
+            
+            
+             Analytical jurisprudence 
+             Deontological ethics 
+             Fundamental theory of Catholic canon law 
+             Interpretivism 
+             Legalism 
+             Legal moralism 
+             Legal positivism 
+             Legal realism 
+             Libertarian theories of law 
+             Natural law 
+             Paternalism 
+             Utilitarianism 
+             Virtue jurisprudence
+             
+           
+         
+         
+          Concepts
+          
+            
+            
+             Dharma 
+             Fa 
+             Judicial interpretation 
+             Justice 
+             Legal system 
+             Li 
+             Question of law 
+             Rational-legal authority 
+             Usul al-Fiqh
+             
+           
+         
+         
+          
+            
+            
+              Category 
+              Law portal 
+             Philosophy portal 
+              WikiProject Law 
+             WikiProject Philosophy 
+             changes
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Law
+           
+         
+         
+          Core subjects
+          
+            
+            
+             Administrative law 
+             Civil law 
+             Constitutional law 
+             Contract 
+             Criminal law 
+             Deed 
+             Equity 
+             Evidence 
+             International law 
+             Law of obligations 
+             Private law 
+             Procedure 
+              
+               Civil 
+               Criminal
+               
+             Property law 
+             Public law 
+             Restitution 
+             Statutory law 
+             Tort
+             
+           
+         
+         
+          Other subjects
+          
+            
+            
+             Agricultural law 
+             Aviation law 
+             Amnesty law 
+             Banking law 
+             Bankruptcy 
+             Commercial law 
+             Competition law 
+             Conflict of laws 
+             Construction law 
+             Consumer protection 
+             Corporate law 
+             Cyberlaw 
+             Election law 
+             Energy law 
+             Entertainment law 
+             Environmental law 
+             Family law 
+             Financial law 
+             Financial regulation 
+             Health law 
+             History of the legal profession 
+             History of the American legal profession 
+             Immigration law 
+             Intellectual property 
+             International criminal law 
+             International human rights 
+             International slavery laws 
+             Jurimetrics 
+             Labour 
+             Law of war 
+             Legal archaeology 
+             Legal fiction 
+             Maritime law 
+             Media law 
+             Military law 
+             Nationality law 
+             Probate 
+              
+               Estate 
+               Will and testament
+               
+             Product liability 
+             Pseudolaw 
+             Public international law 
+             Space law 
+             Sports law 
+             Tax law 
+             Transport law 
+             Trust law 
+             Unenforced law 
+             Women in law
+             
+           
+         
+         
+          Sources of law
+          
+            
+            
+             Charter 
+             Legal code / Statutory law 
+             Constitution 
+             Custom 
+             Divine right 
+              
+               Divine law
+               
+             Human rights 
+             Natural law 
+              
+               Natural and legal rights
+               
+             Case law 
+              
+               Precedent 
+               Law reports
+               
+             Legal treatise 
+             Regulations
+             
+           
+         
+         
+          Law making
+          
+            
+            
+             Ballot measure 
+             Codification 
+             Decree 
+              
+               Edict 
+               Executive order 
+               Proclamation
+               
+             Legislation 
+              
+               Delegated legislation 
+               Regulation 
+               Rulemaking
+               
+             Promulgation 
+             Repeal 
+             Treaty 
+              
+               Concordat
+               
+             Statutory law 
+              
+               Statute 
+               Act of Parliament 
+               Act of Congress (US)
+              
+             
+           
+         
+         
+          Legal systems
+          
+            
+            
+             Civil law 
+             Common law 
+             Chinese law 
+             Legal pluralism 
+             Religious law 
+              
+               Canon law 
+                
+                 Catholic canon law
+                 
+               Hindu law 
+               Jain law 
+               Jewish law 
+               Parsi law 
+               Sharia
+               
+             Roman law 
+             Socialist law 
+             Statutory law 
+             Xeer 
+             Yassa
+             
+           
+         
+         
+          Legal theory
+          
+            
+            
+             Anarchist 
+             Contract theory 
+             Critical legal studies 
+             Comparative law 
+             Expressive function 
+             Feminist 
+             Law and economics 
+             Legal formalism 
+             History 
+             Libertarian 
+             International legal theory 
+             Principle of legality 
+             Principle of typicality 
+             Rule of law 
+             Sociology
+             
+           
+         
+         
+          Jurisprudence
+          
+            
+            
+             Adjudication 
+             Administration of justice 
+             Criminal justice 
+             Court-martial 
+             Dispute resolution 
+             Fiqh 
+             Lawsuit/Litigation 
+             Legal opinion 
+             Legal remedy 
+             Judge 
+              
+               Justice of the peace 
+               Magistrate
+               
+             Judgment 
+             Judicial review 
+             Jurisdiction 
+             Jury 
+             Justice 
+             Practice of law 
+              
+               Attorney 
+               Barrister 
+               Counsel 
+               Lawyer 
+               Legal representation 
+               Prosecutor 
+               Solicitor
+               
+             Question of fact 
+             Question of law 
+             Trial 
+             Trial advocacy 
+             Trier of fact 
+             Verdict
+             
+           
+         
+         
+          Legal institutions
+          
+            
+            
+             Barristers' chambers 
+             Bureaucracy 
+             The bar 
+             The bench 
+             Civil society 
+             Court 
+             Court of equity 
+             Election commission 
+             Executive 
+             Judiciary 
+             Law enforcement 
+             Legal education 
+              
+               Law school
+               
+             Legislature 
+             Military 
+             Police 
+             Political party 
+             Tribunal
+             
+           
+         
+         
+          
+            
+            
+             &nbsp;Law portal 
+             Category 
+             Index 
+             Outline
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Social and political philosophy
+           
+         
+         
+          Ancient
+          
+            
+            
+             Aristotle 
+             Augustine 
+             Chanakya 
+             Cicero 
+             Confucius 
+             Han Fei 
+             Lactantius 
+             Laozi 
+             Mencius 
+             Mozi 
+             Origen 
+             Philo 
+             Plato 
+             Plutarch 
+             Polybius 
+             Shang 
+             Sun Tzu 
+             Tertullian 
+             Thucydides 
+             Valluvar 
+             Xenophon 
+             Xunzi
+             
+           
+         
+         
+          Medieval
+          
+            
+            
+             Alpharabius 
+             Aquinas 
+             Avempace 
+             Averroes 
+             Baldus 
+             Bartolus 
+             Bruni 
+             Dante 
+             Gelasius 
+             al-Ghazali 
+             Giles 
+             Gratian 
+             Gregory 
+             Ibn Khaldun 
+             John of Salisbury 
+             Latini 
+             Maimonides 
+             Marsilius 
+             Muhammad 
+             Nizam al-Mulk 
+             Ockham 
+             Photios 
+             Ibn Tufail 
+             Wang
+             
+           
+         
+         
+          Early modern
+          
+            
+            
+             Beza 
+             Boétie 
+             Bodin 
+             Bossuet 
+             Buchanan 
+             Calvin 
+             Duplessis-Mornay 
+             Erasmus 
+             Filmer 
+             Grotius 
+             Guicciardini 
+             Harrington 
+             Hayashi 
+             Hobbes 
+             Hotman 
+             James 
+             Leibniz 
+             Locke 
+             Luther 
+             Machiavelli 
+             Malebranche 
+             Milton 
+             Montaigne 
+             More 
+             Müntzer 
+             Pufendorf 
+             Sidney 
+             Spinoza 
+             Suárez
+             
+           
+         
+         
+          18th–19th-century
+          
+            
+            
+             Bakunin 
+             Bastiat 
+             Bentham 
+             Bolingbroke 
+             Bonald 
+             Burke 
+             Comte 
+             Condorcet 
+             Constant 
+             Cortés 
+             Emerson 
+             Engels 
+             Fichte 
+             Fourier 
+             Franklin 
+             Godwin 
+             Hamann 
+             Hegel 
+             Herder 
+             Hume 
+             Jefferson 
+             Kant 
+              
+               political philosophy
+               
+             Kierkegaard 
+             Le Bon 
+             Le Play 
+             Madison 
+             Maistre 
+             Marx 
+             Mazzini 
+             Mill 
+             Montesquieu 
+             Nietzsche 
+             Novalis 
+             Paine 
+             Renan 
+             Rousseau 
+             Royce 
+             Sade 
+             Schiller 
+             Smith 
+             Spencer 
+             Spooner 
+             de Staël 
+             Stirner 
+             Taine 
+             Thoreau 
+             Tocqueville 
+             Vico 
+             Vivekananda 
+             Voltaire
+             
+           
+         
+         
+          20th–21st-century
+          
+            
+            
+             Adorno 
+             Ambedkar 
+             Arendt 
+             Aurobindo 
+             Aron 
+             Badiou 
+             Baudrillard 
+             Bauman 
+             Benoist 
+             Berlin 
+             Bernstein 
+             Butler 
+             Camus 
+             Chomsky 
+             de Beauvoir 
+             Debord 
+             Deleuze 
+             Dewey 
+             Dmowski 
+             Du Bois 
+             Durkheim 
+             Dworkin 
+             Evola 
+             Foucault 
+             Fromm 
+             Gandhi 
+             Gehlen 
+             Gentile 
+             Gramsci 
+             Guénon 
+             Habermas 
+             Hayek 
+             Heidegger 
+             Irigaray 
+             Kautsky 
+             Kirk 
+             Kropotkin 
+             Laclau 
+             Lenin 
+             Luxemburg 
+             MacIntyre 
+             Mansfield 
+             Mao 
+             Marcuse 
+             Maritain 
+             Maurras 
+             Michels 
+             Mises 
+             Mouffe 
+             Negri 
+             Niebuhr 
+             Nozick 
+             Nursî 
+             Oakeshott 
+             Ortega 
+             Pareto 
+             Polanyi 
+             Popper 
+             Qutb 
+             Radhakrishnan 
+             Rand 
+             Rawls 
+             Röpke 
+             Rothbard 
+             Russell 
+             Santayana 
+             Sarkar 
+             Sartre 
+             Schmitt 
+             Scruton 
+             Searle 
+             Shariati 
+             Simmel 
+             Skinner 
+             Sombart 
+             Sorel 
+             Spann 
+             Strauss 
+             Sun 
+             Taylor 
+             Tucker 
+             Voegelin 
+             Walzer 
+             Weber 
+             Weil 
+             Žižek
+             
+           
+         
+         
+          Social theories
+          
+            
+            
+             Anarchism 
+             Authoritarianism 
+             Collectivism 
+             Communism 
+             Communitarianism 
+             Conflict theories 
+             Confucianism 
+             Consensus theory 
+             Conservatism 
+             Contractualism 
+             Cosmopolitanism 
+             Culturalism 
+             Elitism 
+             Fascism 
+             Feminist political theory 
+             Gandhism 
+             Hindu nationalism (Hindutva) 
+             Individualism 
+             Islam 
+              
+               Islamism
+               
+             Legalism 
+             Liberalism 
+             Libertarianism 
+             Mohism 
+             National liberalism 
+             Republicanism 
+             Social constructionism 
+             Social constructivism 
+             Social Darwinism 
+             Social determinism 
+             Socialism 
+             Utilitarianism
+             
+           
+         
+         
+          Related articles
+          
+            
+            
+             Critique of political economy 
+             Critique of work 
+             Jurisprudence 
+             Philosophy and economics 
+             Philosophy of education 
+             Philosophy of history 
+             Philosophy of love 
+             Philosophy of social science 
+             Political ethics 
+             Social epistemology 
+             Index
+             
+           
+         
+         
+          
+            
+            
+             Category
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Social sciences
+           
+         
+         
+          
+            
+            
+             Outline 
+             History 
+             Index
+             
+           
+         
+         
+          Primary
+          
+            
+            
+             Anthropology (archaeology 
+             cultural 
+             linguistics 
+             social) 
+             Economics (microeconomics 
+             macroeconomics 
+             econometrics 
+             mathematical) 
+             Geography (physical 
+             human 
+             integrated 
+             geomatics 
+             regional) 
+             History 
+              
+               cultural 
+               auxiliary sciences 
+               economic 
+               human 
+               military 
+               political 
+               social
+               
+             Law (jurisprudence 
+             legal history 
+             legal systems 
+             public law 
+             private law) 
+             Political science (international relations 
+             comparative 
+             theory 
+             public policy) 
+             Psychology (abnormal 
+             cognitive 
+             developmental 
+             personality 
+             social) 
+             Sociology (criminology 
+             demography 
+             internet 
+             rural 
+             urban)
+             
+           
+         
+         
+          Interdisciplinary
+          
+            
+            
+             Administration (business 
+             public) 
+             Anthrozoology 
+             Area studies 
+             Business studies 
+             Cognitive science 
+             Communication studies 
+             Community studies 
+             Cultural studies 
+             Development studies 
+             Education 
+             Environmental (social science 
+             studies) 
+             Food studies 
+             Gender studies 
+             Global studies 
+             Historical sociology 
+             History of technology 
+             Human ecology 
+             Information science 
+             International studies 
+             Linguistics 
+             Media studies 
+             Philosophy of science (economics 
+             history 
+             psychology 
+             social science) 
+             Planning (land use 
+             regional 
+             urban) 
+             Political ecology 
+             Political economy 
+             Political sociology 
+             Public health 
+             Regional science 
+             Science and technology studies 
+             Science studies 
+              
+               historical 
+               Quantum social science
+               
+             Social work 
+             Vegan studies
+             
+           
+         
+         
+          List
+          
+            
+            
+             List of social science journals
+             
+           
+         
+         
+          Other categorizations
+          
+            
+            
+             Humanities 
+             Geisteswissenschaft 
+             Human science
+             
+           
+         
+         
+          
+            
+            
+              Category 
+              Commons 
+             &nbsp;Society portal 
+              Wikiversity
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          Authority control: National libraries 
+          
+            
+            
+             Germany 
+             United States 
+             Latvia 
+             Japan
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Jurisprudence&amp;oldid=1070609565"
+     
+     
+    
+     
+      Categories: 
+      
+       Jurisprudence
+       Academic disciplines
+       Law
+       Legal ethics
+       Philosophy of law
+       Roman law
+       Social philosophy
+       Social sciences
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 maint: others
+       Webarchive template wayback links
+       Articles with short description
+       Short description is different from Wikidata
+       Use dmy dates from July 2020
+       Articles that may contain original research from June 2018
+       All articles that may contain original research
+       Articles needing additional references from June 2018
+       All articles needing additional references
+       Articles with multiple maintenance issues
+       Articles with GND identifiers
+       Articles with LCCN identifiers
+       Articles with LNB identifiers
+       Articles with NDL identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       Alemannisch
+       العربية
+       Արեւմտահայերէն
+       Asturianu
+       Azərbaycanca
+       Беларуская
+       Беларуская (тарашкевіца)
+       भोजपुरी
+       Български
+       Boarisch
+       Català
+       Чӑвашла
+       Čeština
+       Cymraeg
+       Dansk
+       Deutsch
+       Eesti
+       Ελληνικά
+       Español
+       Esperanto
+       Euskara
+       فارسی
+       Français
+       Frysk
+       Galego
+       ગુજરાતી
+       한국어
+       Հայերեն
+       हिन्दी
+       Bahasa Indonesia
+       Interlingue
+       Íslenska
+       Italiano
+       עברית
+       Kabɩyɛ
+       ಕನ್ನಡ
+       Кыргызча
+       ລາວ
+       Latviešu
+       Lietuvių
+       Magyar
+       Македонски
+       മലയാളം
+       Nederlands
+       नेपाली
+       日本語
+       Norsk bokmål
+       Norsk nynorsk
+       Occitan
+       Олык марий
+       Oʻzbekcha/ўзбекча
+       ਪੰਜਾਬੀ
+       ភាសាខ្មែរ
+       Plattdüütsch
+       Polski
+       Português
+       Română
+       Русский
+       Scots
+       Shqip
+       Simple English
+       Slovenčina
+       کوردی
+       Српски / srpski
+       Srpskohrvatski / српскохрватски
+       Suomi
+       Svenska
+       Tagalog
+       தமிழ்
+       తెలుగు
+       Тоҷикӣ
+       Українська
+       Tiếng Việt
+       Võro
+       Winaray
+       吴语
+       粵語
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 8 February 2022, at 10:27&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

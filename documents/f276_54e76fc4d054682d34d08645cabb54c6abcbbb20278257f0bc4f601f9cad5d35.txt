@@ -1,0 +1,341 @@
+
+ 
+  
+   
+  İnformasiya axtarışı — Vikipediya 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   İnformasiya axtarışı 
+    
+    
+     Vikipediya, azad ensiklopediya
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      İnformasiya axtarışı— İnformasiya sisteminin başlıca vəzifəsi olub, sorğulara cavab verən informasiyanın axtarılıb — tapılması və istifadəçilərə çatdırılmasıdır.  
+      
+       
+       
+        Mündəricat
+        
+        
+        1 Ümumi məlumat 
+        2 Sistemin istifadəçiləri 
+        3 Axtarış şərtləri 
+        4 Sorğular əsasında axtarış 
+        
+       
+      Ümumi məlumat 
+      İnformasiya axtarışı istifadəçinin sorğusuna uyğun cavabları özündə əks etdirən sənədlərin və ya həmin sənədlərin göstəricilərinin tapılması prosedurundan ibarətdir. Faktoqrafik informasiya sistemlərindlə istifadəçinin sorğusuna cavab kimi konkret faktlar (verilənlər) təqdim edilir, sənədli sistemlərdə isə informasiya axtarışı nəticəsində istifadəçiyə onun sorğusuna uyğun sənədlər verilir. Bəzən elə hallar olur ki, istifadəçiyə sənədlərin özü yox, onların göstəriciləri (saxlandıqları yer və ya şəbəkə ünvanı (URL) təqdim edilir. İstənilən sənədli və faktoqrafik sistemlərdə informasiya axtarışı, istifadəçinin informasiyaya olan tələbatlarını ödəmək üçün verdiyi sorğu əsasında aparılır. 
+      Bu münasibətlərin istifadə edilməsi üçün İAS-nin nəzəriyyəsinə iki fundamental axtarış daxil edilmişdir. Onlar pertinentlik və relevantlıqdır. Pertinentlik dedikdə sənədin məzmununun istifadəçinin informasiya tələbatına uyğunluğu başa düşülür. İnformasiya tələbatını ödəyən sənədlərə pertinent sənədlər deyilir. Relevantlıq sənədin məzmununun informasiya sorğusuna uyğunluğunun göstəricisidir. Sorğulara cavab verən sənədlərə relevant sənədlər deyilir. İstənilən sistemlərdə lazım olan informasiyanın axtarışı prosesində sənədin axtarış sürətini sorğunun axtarış sürəti ilə müqayisə etməklə sənədin və sorğunun məzmunlarının uyğunluq dərəcəsi müəyyənləşdirilir. Bu cür müqayisə əsasında sənədin sorğuya relevant olub-olmaması təyin edilir. 
+      Ümumiyyətlə informasiya — axtarış sistemlərinin yaradılması üçün əvvəllər proqramçılar və ya mütəxssislər tərəfindən çoxlu sayda proqramlar tərtib edirdilər. Bu proqramların müəyyənləri sənədlərin saxlanması üçün informasiya bazasının (İB) yaradılmasına, müəyyənləri isə istifadəçilərin sorğularına əsasən informasiya axtarışının aparılmasına və alınmış nəticələrin abunəçilərə çatdırılmasına qulluq edirdilər. Hal-hazırda V nəsil maşınlar olan fərdi kompyuterlərdə, yuxarıda göstərilən proseslər tətbiqi proqram paketlərinin (TPP) köməyi ilə yerinə yetirilir. 
+      İstifadəçilər sistemlə interfeys vasitəsilə əlaqə saxlayırlar. Müasir İAS-də istifadəçilərin sistemlə rahat işləmələri üçün müxtəlif menyulardan, formalardan, düymələrdən və s. ibarət olan qrafik interfeysdən istifadə olunur. Burada sistemin girişinə daxil olan sənədlər kağız formada, həm də müxtəlif formalı elenktron variantda ola bilər. Fərdi kompyuterlərə daxil olan sənədlər və sorğular daimi yaddaş qurğusunda (vinçesterdə) fayllar şəklində saxlanılır. Fayllar vinçesterdə cığırlara ardıcıl şəkildə yazılır və onların ünvanları (cığır və sektorlarda) FAT 16 — da yerləşir. Hər bir ünvan üçün 2 bayt və ya 16 bit ayrılır. Onda ümumi ünvanların və faylların sayı 65536 bərabər olacaq.  
+      Sistemin istifadəçiləri 
+      Ümumiyyətlə informasiya — axtarış sistemləri formallaşdırılarkən sistemə daxil edilən informasiya kompyuterləri daimi yaddaş qurğularında müəyyən üsullar vasitəsilə yazılırlar. Həmin üsullardan (metodlardan) ardıcıl yazılma, birbaşa, assosiativ və s. metodları göstərmək olar. 
+      İnformasiya-axtarış displeylərin köməyi ilə dialoq rejimində aparılır. Sistemin istifadəçilərini şərti olaraq müxtəlif qruplara bölmək olar. Məsələn&nbsp;:  
+      
+       sistemlə alqoritmik dillərdə işləyən mütəxəsislər, proqramçılar&nbsp;; 
+       sorğu və alqoritmik dillərin köməyi ilə sistemlə işləyən istismarçılar&nbsp;; 
+       dialoq rejimində sistemlə formallaşdırılmış sxemlə işləyən mütəxəsislər.
+       
+      Axtarış şərtləri 
+      İşlənib hazırlanmış İAS-da sistemin istifadəçilərinin və mütəxəssislərinin sorğularına görə müxtəlif rejimlərdə axtarış aparmaq olar. Onlara aşağıdakıları misal göstərmək olar. 1.* Əgər informasiya axtarışı, bütün informasiya bazası və ya onun istənilən bir hissəsi üçün aparılırsa, İAS — nin işi iki rejimə bölünür&nbsp;:  
+      
+       retrospektiv rejimdə informasiya axtarışı; 
+       seçki rejimində informasiya axtarışı.
+       
+      2.* Sistemlə əlaqə metodu rejimində işlənirsə aşağıdakı rejimləri misal göstərmək olar:  
+      
+       paket rejimində sorğuların emalı; 
+       dialoq rejimində sorğuların emalı.
+       
+      Yuxarıda göstərilən rejimlərdə istifadəçilərin sistemə müraciətlər iki növ sorğuların köməyi ilə aparılır:  
+      
+       Həmişə fəaliyyətdə olan (reqlamentli) sorğular; 
+       Birdəfəlik (fərdi) sorğular.
+       
+      Qabaqcadan tərtib olunmuş reqlament (sorgu dilinə çevrildikdən sonra) növlə sorğular fayllar şəklində xarici yaddaş qurğularında yadda saxlanılır. Burada hər bir sorğunun şifri (açarı) və ya ünvanı qeyd olunur. Sonradan sistemlə işləyən şəxs emal üçün həmin sorğuları əməli yaddaş qurğusuna çağırır və sorğulara görə axtarış aparılır. Buna misal olaraq istənilən neft emalı zavodlarında istehsal olunan neft məhsullarının keyfiyət göstəricilərinin gündəlik, həftəlik, aylıq, kvartallıq və illik qrafik hesablamalarını göstərmək olar (bu halda sorğuların sayı onlarla və ya yüzlərlə ola bilər). 
+      Beləliklə reqlament növlü sorğular adətən paket şəklində olurlar və buraya daxil olan sorğuların sayı yüzlərlə olur.  
+      Sorğular əsasında axtarış 
+      İAS-a daxil olan birdəfəlik sorğuların məzmunu və axtarışın tezliyi, reqlament sorğulara nəzərən qabaqcadan məlum olmur. Ona görə hər dəfə birdəfəlik sorğular üzrə İS-da axtarış aparılır. Sistemin informasiya bazasından, birdəfəlik sorğulara görə istənilən informasiyanı almaq olar. İstənilən avtomatlaşdırılmış İAS-lar müxtəlif iş rejimlərində işləyirlər. Onlardan retrospektiv, seçmə və dialoq rejimlərini göstərmək olar. Retrospektiv axtarış rejimində, İAS bütün VB üzrə tələb olunan informasiyalar axtarılır. Belə rejimdə sorğuların əsas hissəsi birdəfəlik sorğulara aid edilir. Lakin elə hallar olur ki, bazada uzun müddət saxlanmış massivlərdə, retrospektiv rejimdə informasiya axtarışında reqlament tipli sorğulardan istifadə olunur. Ona misal olaraq neft emalı sahəsində neftdən alınan aylıq göstəriciləri göstərmək olar. 
+      Seçmə rejimində informasiya axtarışında, reqlament tipli sorğulardan istifadə olunur. Burada istifadəçilərin tələbləri əsasında informasiya axtarışı müəyyən olunmuş vaxtlar arasında aparılır. Belə halda informasiya axtarışı yalnız İB daxil edilmiş yeni sənədlər üzərində aparılır. Dialoq rejimində informasiya axtarışında birdəfəlik sorğulardan istifadə olunur və sorğular müəyyən təhlildən sonra maşına klaviaturanın köməyilə daxil edilir, sonra bütün İB üzrə axtarış aparılır. Sistemdə informasiya axtarışının tapılmış nəticələri abunəçilərin rəyindən asılı olaraq ya çap və ya displey qurğusuna çıxarılır. Sənədli və faktoqrafík informasiya sistemlərində, informasiya axtarışında müxtəlif axtarış metodlarından istifadə edilir. Onlardan açarsız və açarlı axtarış üsullarını göstərmək olar. 
+      Axtarış açarlardan istifadə olunub-olunmamasından asılı olaraq, yuxarıda göstərdiyimiz kimi, axtarış metodlarına açarlı və açarsız siniflərə bölmək olar. Faylın nizamlanmış olub-olmamasından asılı olaraq açarlı axtarış nizamli və nizamsız aparıla bilər. Nizamlı axtarış bloklarla axtarış, iki bölmə ilə axtarış və indekslərlə axtarış metodları aiddir. 
+      Yazıları açarlara malik olan nizamsız faylda axtarış ardıcıl və birbaşa aparıla bilər. Ardıcıl axtarışda faylın yazıları onların yaddaşda yerləşmə ardıcıllığı ilə emal olunur. Bu cur axtarışa çox vaxt sərf olunduğundan praktikada nisbətən az istifadə olunur. 
+      Birbaşa axtarış üsulu yazılara onların fiziki ünvanları vasitəsilə müraciət etməyə əsaslanır. Həmin ünvan ya bilavasitə sorğuda verilir, ya da ki, açarın ünvana çevrilməsi vasitəsilə təyin edilir. Birbaşa axtarış üsulu yalnız ünvanalaşdırıla bilən daşıyıcılar üçün (əməli yaddaş, maqnit disk yaddaşı və s.) mümkündür. Açarsız axtarış iki üsulla aparıla bilər:  
+      
+       ardıcıl; 
+       assosiativ.
+       
+      Ardıcıl axtarışda sorğuda və yazılarda açarlar olmadığından, axtarışa daha çox vaxt sərf olunur, ona görə ki, sorğunun əlamətləri bir-bir yazıdakı əlamətlərlə müqayisə olunur. Ardıcıl axtarışı sürətləndirmək üçün assosiativ-ünvanlı əlaqələr üsulundan geniş istifadə olunur. Bu üsulda yeni əlamətə malik olan yazılar bir-birilə zəncirvari əlaqələri ilə əlaqələndirilir. Bu cür axtarışa assosiativ axtarış deyilir. Bəzi informasiya daşıyıcıları üçün (məsələn maqnit lenti) ardıcıl axtarış yeganə mümkün olan üsuldur. 
+      Sənədli informasiya sistemlərində informasiya axtarışı sorğuda göstərilmiş bütün əlamətlərə (terminlərə) görə aparıldığından, əsasən ardıcıl və ya assosiativ axtarış metodlarından istifadə edilir. 
+      Yuxarıda baxılan axtarış metodlarının birgə tətbiqi də mümkündür. Məsələn, ikiyə bölmə və ya indekslə axtarış metodları ilə maqnit diskində axtarılan yazının yerləşdiyi cığırı tapılan, cığırın daxilində isə yazının özünün axtarış ardıcıl metodla aparılır. İnformasiya axtarışı prosesində sənədin axtarış sürətini sorğunun axtarış sürəti ilə müqayisə etməklə sənədin və sorğunun axtarış sürəti ilə müqayisə etməklə sənədin və sorğunun məzmunlarının uyğunluq dərəcəsi müəyyənləşdirilir. Bu cür müqayisə əsasında sənədin sorğuya relevant olub-olmaması təyin edilir. Baxılan sənədin sorğuya cavab verib-verməməsi haqqında qərar sənədin axtarış sürəti və sorğunun axtarış sürəti (SOAS) arasında mənа oxşarlılığının dərəcəsini təyin edən müəyyən qaydalar əsasında qəbul edilir. Bu cür qaydalar dəstinə məna oxşarlığının dərəcəsini təyin edən müəyyən qaydalar əsasında qəbul edilir. Bu cür qaydalar dəstinə тəпа oxşarlıq kriterisi (МОК) deyilir. Elə hallar olur ki, sənədin axtarış sürəti ilə sorğunun axtarış sürətinin müəyyən hissəsinin üst-üstə düşməsi kriteriyası ilə kifayətlənirlər. 
+      Əgər biz SAS-ın və SOAS-ın üst-üstə düşmələrini faiz hesabı ilə P işarə etsək  
+       
+       R = (100 * С) / P  
+       
+      olar. Burada P ► SAS-ın daxilində olan ümumi deskriptorların sayı, С ► isə SOAS-da olan deskriptorların sayını göstərir. Ən sadə halda SAS-ın və SOAS-ın deskriptorları tamamilə üst-üstə düşürlərsə (с=p), onda R=100% olacaq. Lakin praktiki hallarda kifayətdir ki, R&gt;25&nbsp;% olsun.     
+     
+     
+      
+      
+     
+      Mənbə — "https://az.wikipedia.org/w/index.php?title=İnformasiya_axtarışı&amp;oldid=6178363"
+     
+     
+    
+     
+      Kateqoriya: 
+      
+       İnformasiya axtarışı
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Naviqasiya menyusu 
+    
+     
+      Alətlər sandığı  
+      
+      
+       Daxil olmamısınız
+       Müzakirə
+       Töhfələr
+       Hesab yarat
+       Daxil ol
+       
+      
+     
+     
+      
+       Ad fəzaları  
+       
+       
+        Məqalə
+        Müzakirə
+        
+       
+      
+      
+       
+       azərbaycanca expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Görünüş  
+       
+       
+        Oxu
+        Redaktə
+        Mənbəni redaktə et
+        Tarixçəyə bax
+        
+       
+      
+      
+       
+       Daha çox expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Axtar  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Bələdçi  
+      
+      
+       Ana səhifə
+       Kənd meydanı
+       İcma portalı
+       Son dəyişikliklər
+       Təsadüfi məqalə
+       
+      
+     
+     
+      Layihələr  
+      
+      
+       Seçilmiş məqalələr
+       Seçilmiş siyahılar
+       Seçilmiş portallar
+       Yaxşı məqalələr
+       Məqalə namizədləri
+       Mövzulu ay
+       
+      
+     
+     
+      Xüsusi  
+      
+      
+       Əlaqə səhifəsi
+       Maddi kömək
+       Kömək
+       
+      
+     
+     
+      Alətlər  
+      
+      
+       Səhifəyə keçidlər
+       Əlaqəli redaktələr
+       Fayl yüklə
+       Xüsusi səhifələr
+       Daimi keçid
+       Səhifə məlumatları
+       Bu məqaləyə istinad et
+       Vikiverilənlər elementi
+       
+      
+     
+     
+      Çap et/ixrac  
+      
+      
+       Kitab yarat
+       PDF olaraq yüklə
+       Çap versiyası
+       
+      
+     
+     
+      Digər layihələrdə  
+      
+      
+       Vikianbar
+       
+      
+     
+     
+      Başqa dillərdə  
+      
+      
+       العربية
+       Български
+       Català
+       Čeština
+       Dansk
+       Deutsch
+       Ελληνικά
+       English
+       Esperanto
+       Español
+       Euskara
+       فارسی
+       Suomi
+       Français
+       Gaeilge
+       Galego
+       हिन्दी
+       Bahasa Indonesia
+       İtaliano
+       日本語
+       한국어
+       Монгол
+       Bahasa Melayu
+       Nederlands
+       Norsk nynorsk
+       Norsk bokmål
+       Polski
+       Português
+       Русский
+       Simple English
+       Српски / srpski
+       Svenska
+       Тоҷикӣ
+       Türkçe
+       Українська
+       Tiếng Việt
+       中文
+       
+      
+       Keçidlərin redaktəsi
+       
+      
+     
+    
+   
+   
+    
+     Bu səhifə sonuncu dəfə 17 oktyabr 2021 17:24 tarixində redaktə edilib. 
+    Mətn Creative Commons Attribution-ShareAlike lisenziyası altındadır, bəzi hallarda əlavə şərtlər tətbiq oluna bilər. Ətraflı məlumat üçün istifadə şərtlərinə baxın. 
+    
+    
+    Gizlilik siyasəti 
+    Vikipediya haqqında 
+    İmtina etmə 
+    Mobil görüntü 
+    Tərtibatçılar 
+    Statistikalar 
+    Kuki məlumatı 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

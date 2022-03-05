@@ -1,0 +1,878 @@
+
+  
+  
+  Information architecture for the World Wide Web : Peter Morville : Free Download, Borrow, and Streaming : Internet Archive 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  Skip to main content  
+   
+    
+     
+     Due to a planned power outage on Friday, 1/14, between 8am-1pm PST, some services may be impacted. 
+      
+        
+       
+      
+     
+    
+     
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+       
+       
+         
+          
+           
+           Internet Archive logo 
+            A line drawing of the Internet Archive headquarters building façade.
+             
+             
+              
+             
+             
+             
+              
+             
+            
+            
+          
+           
+            
+             
+             
+             
+             
+             
+             
+             
+            
+            
+             
+             
+             
+             
+             
+             
+             
+             
+            
+           
+             
+           
+           Search icon 
+            An illustration of a magnifying glass.
+             
+            
+          
+           
+            
+             
+              
+              
+              Search icon 
+               An illustration of a magnifying glass.
+                
+               
+            
+          
+           
+           
+           Upload icon 
+            An illustration of a horizontal line over an up pointing arrow.
+             
+           Upload  
+          
+            
+             
+              
+              User icon 
+               An illustration of a person's head and chest.
+                
+                Sign up | Log in  
+            
+           
+          
+           
+           
+             
+              
+               
+                
+                Web icon 
+                 An illustration of a computer application window
+                  
+                 Wayback Machine  
+              
+              
+               
+                
+                Texts icon 
+                 An illustration of an open book.
+                  
+                 Books  
+              
+              
+               
+                
+                Video icon 
+                 An illustration of two cells of a film strip.
+                  
+                 Video  
+              
+              
+               
+                
+                Audio icon 
+                 An illustration of an audio speaker.
+                  
+                  
+                   
+                   
+                  
+                 
+                 Audio  
+              
+              
+               
+                
+                Software icon 
+                 An illustration of a 3.5" floppy disk.
+                  
+                 Software  
+              
+              
+               
+                
+                Images icon 
+                 An illustration of two photographs.
+                  
+                 Images  
+              
+              
+               
+                
+                Donate icon 
+                 An illustration of a heart shape
+                  
+                 Donate  
+              
+              
+               
+                
+                Ellipses icon 
+                 An illustration of text ellipses.
+                  
+                 More  
+              
+            
+           
+           
+          
+            
+            
+            Hamburger icon 
+             An icon used to represent a menu that can be toggled by interacting with this icon.
+              
+            
+            
+         
+        
+         
+         
+          
+           
+            
+            
+           
+          
+         
+        
+       
+        
+         
+         About   
+         Blog   
+         Projects   
+         Help   
+         Donate 
+           
+           Donate icon 
+            An illustration of a heart shape
+             
+              
+         Contact   
+         Jobs   
+         Volunteer   
+         People   
+        
+       
+        
+           Search Metadata     Search text contents     Search TV news captions     Search archived websites   Advanced Search 
+        
+       
+        
+        
+          
+         Sign up for free  
+         Log in  
+         
+        
+       
+      
+     
+    
+     
+    
+      
+     
+     
+     
+      
+      
+      
+      Information architecture for the World Wide Web  
+      Item Preview  
+      
+       
+        
+         
+         
+          
+          
+          
+           
+          
+          
+         
+        
+       
+       
+        
+         
+           remove-circle  
+          Share or Embed This Item 
+          
+          
+           
+            
+              
+               Share to Twitter   
+               Share to Facebook   
+               Share to Reddit   
+               Share to Tumblr   
+               Share to Pinterest   
+               Share via email  
+             
+             
+            
+           
+           
+            
+             EMBED &lt;iframe src="https://archive.org/embed/informationarchi00morv" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt; 
+             
+            
+           
+           
+            
+             EMBED (for wordpress.com hosted blogs and archive.org item &lt;description&gt; tags)  
+             
+            
+           
+          
+            Want more? Advanced embedding details, examples, and help! 
+           
+          
+         
+        
+       
+      
+      
+      
+     
+     
+     
+     
+      
+       
+        
+         
+           
+            Favorite 
+             
+          
+           Share  
+          
+          
+           Flag 
+            
+            Flag this item for 
+             
+               Graphic Violence   
+               Explicit Sexual Content   
+               Hate Speech   
+               Misinformation/Disinformation   
+             
+             
+            
+          
+         
+        
+        
+        
+         texts
+         
+         Information architecture for the World Wide Web  
+         
+         
+          by
+          
+         
+          Peter Morville
+          
+         
+         
+        
+       
+      
+     
+     
+      
+       
+        
+         
+         
+         
+          
+          
+           Publication date
+           
+            2007  
+           
+          
+          
+          
+           Topics
+           
+          
+           Web sites -- Design, Information storage and retrieval systems -- Architecture
+           
+          
+          
+          
+           Publisher
+           
+          
+           O'Reilly
+           
+         
+          
+          
+           Collection
+           
+          
+           inlibrary; printdisabled; internetarchivebooks; china
+           
+           
+          
+          
+           Digitizing sponsor
+           
+          
+           Internet Archive
+           
+           
+          
+          
+           Contributor
+           
+          
+           Internet Archive
+           
+          
+          
+          
+           Language
+           
+          
+           English
+           
+          
+          
+         
+         
+          
+          
+           Access-restricted-item
+           
+          
+           true
+           
+          
+          
+          
+           Addeddate
+           
+          
+           2012-05-09 14:03:49
+           
+          
+          
+          
+           Bookplateleaf
+           
+          
+           0002
+           
+          
+          
+          
+           Boxid
+           
+          
+           IA183701
+           
+          
+          
+          
+           Camera
+           
+          
+           Canon EOS 5D Mark II
+           
+          
+          
+          
+           City
+           
+          
+           Beijing 
+           
+          
+          
+          
+           Donor
+           
+          
+            bostonpubliclibrary 
+           
+          
+          
+          
+           Edition
+           
+          
+           3. ed.
+           
+          
+          
+          
+           External-identifier
+           
+          
+            urn:asin:0596527349 
+            urn:oclc:record:1035656042 
+           
+          
+          
+          
+           Extramarc
+           
+          
+           University of Toronto
+           
+          
+          
+          
+           Foldoutcount
+           
+          
+           0
+           
+          
+          
+          
+           Identifier
+           
+          
+           informationarchi00morv
+           
+          
+          
+          
+           Identifier-ark
+           
+          
+           ark:/13960/t7gq85t9h
+           
+          
+          
+          
+           Isbn
+           
+          
+           9780596527341
+           0596527349
+           
+          
+          
+          
+           Lccn
+           
+          
+           2007272712
+           2007000027
+           
+          
+          
+          
+           Ocr
+           
+          
+           ABBYY FineReader 8.0
+           
+          
+          
+          
+           Ocr_converted
+           
+          
+           abbyy-to-hocr 1.1.11
+           
+          
+          
+          
+           Ocr_module_version
+           
+          
+           0.0.14
+           
+          
+          
+          
+           Openlibrary
+           
+          
+           OL15976037M
+           
+          
+          
+          
+           Openlibrary_edition
+           
+          
+            OL15976037M 
+           
+          
+          
+          
+           Openlibrary_work
+           
+          
+            OL12041378W 
+           
+          
+          
+          
+           Page_number_confidence
+           
+          
+           93.61
+           
+          
+          
+          
+           Pages
+           
+          
+           534
+           
+          
+          
+          
+           Ppi
+           
+          
+           350
+           
+          
+          
+          
+           Related-external-id
+           
+          
+           urn:isbn:0596553803
+           urn:lccn:2007272712
+           urn:oclc:609840938
+           urn:oclc:781295604
+           urn:oclc:770008347
+           urn:oclc:804501258
+           urn:isbn:0596515480
+           urn:oclc:856515044
+           urn:oclc:861529952
+           urn:isbn:1565922824
+           urn:lccn:98149802
+           urn:oclc:297913501
+           urn:oclc:38540954
+           urn:oclc:441838284
+           urn:oclc:468443709
+           urn:oclc:470572261
+           urn:oclc:503002085
+           urn:oclc:628918959
+           urn:oclc:717668487
+           urn:oclc:722267501
+           urn:oclc:754875410
+           urn:oclc:757631362
+           urn:oclc:757675040
+           urn:oclc:772686660
+           urn:oclc:807885496
+           urn:oclc:830577893
+           urn:oclc:845062161
+           urn:oclc:856761704
+           urn:oclc:860557620
+           urn:isbn:7302065330
+           urn:oclc:659928772
+           urn:oclc:866022002
+           urn:isbn:0596000359
+           urn:lccn:2002070413
+           urn:oclc:186072345
+           urn:oclc:226109505
+           urn:oclc:248279551
+           urn:oclc:416174495
+           urn:oclc:421621097
+           urn:oclc:456480214
+           urn:oclc:49736854
+           urn:oclc:51681829
+           urn:oclc:639933811
+           urn:oclc:709556578
+           urn:oclc:729548998
+           urn:oclc:768411764
+           urn:oclc:772683451
+           urn:oclc:781688184
+           urn:oclc:801316038
+           urn:oclc:807736055
+           urn:oclc:829102662
+           urn:oclc:847931050
+           urn:oclc:849881628
+           urn:oclc:851243333
+           urn:oclc:856650842
+           urn:oclc:865237603
+           urn:oclc:868430534
+           
+          
+          
+          
+           Republisher_date
+           
+          
+           20120922102718
+           
+          
+          
+          
+           Republisher_operator
+           
+          
+           scanner-shenzhen-beck@archive.org
+           
+          
+          
+          
+           Scandate
+           
+          
+           20120920144958
+           
+          
+          
+          
+           Scanner
+           
+          
+           scribe28.shenzhen.archive.org
+           
+          
+          
+          
+           Scanningcenter
+           
+          
+           shenzhen
+           
+          
+          
+          
+           Worldcat (source edition)
+           
+          
+            255681208 
+           
+           
+          
+           Show More
+           
+          
+           Show Less
+            
+          
+         
+          
+          
+           Full catalog record
+           
+          
+           MARCXML
+           
+          
+         
+         
+          
+           plus-circle Add Review
+            
+           
+          
+           comment
+           Reviews  
+         
+           There are no reviews yet. Be the first one to write a review. 
+          
+         
+        
+        
+         
+          
+           244 Previews  
+          8 Favorites  
+         
+         
+         
+           Purchase options 
+          
+          Better World Books  
+         
+         
+          DOWNLOAD OPTIONS  
+          
+             download 1 file   
+            ENCRYPTED DAISY download  
+          For print-disabled users 
+          
+         14 day loan required to access EPUB and PDF files. 
+         
+         
+          
+          IN COLLECTIONS 
+           Books to Borrow 
+             
+            
+           
+           Books for People with Print Disabilities 
+             
+            
+           
+           Internet Archive Books 
+             
+            
+           
+           Scanned in China 
+             
+            
+           
+          
+         
+         
+          Uploaded by  Lotu Tii  on May 9, 2012  
+         
+        
+       
+      
+     
+     
+      
+       
+       SIMILAR ITEMS (based on metadata) 
+        
+       
+      
+     
+     
+      
+      
+     
+     Terms of Service (last updated 12/31/2014) 
+     
+    
+    
+   
+   
+   
+    
+   
+     
+ 

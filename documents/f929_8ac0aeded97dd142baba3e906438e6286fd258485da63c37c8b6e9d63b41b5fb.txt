@@ -1,0 +1,610 @@
+
+ 
+  
+   
+  Education for librarianship - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Education for librarianship 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      Education for librarianship, including for paraprofessional library workers, varies around the world, and has changed over time. In recent decades, many institutions offering librarianship education have changed their names to reflect the shift from print media to electronic media, and to information contained outside of traditional libraries. Some call themselves schools of library and information science (abbreviated to SLIS), or have dropped the word "library" altogether. 
+      In the United States and Canada, the academic training for a librarian generally consists of a master's degree program in library science (formerly commonly known as librarianship). In Germany, the first step for an academic librarian is a PhD in a subject field, followed by additional training in librarianship. In Australia, the courses are called Master in Information Management or Master in Information Studies. 
+      There are also bachelor's, associate, and certificate programs in library science, which provide formal training of paraprofessional library workers (aka library technicians), and clerks—as well as preparation for graduate study in library science. In Australia, the courses for library technicians is known as a Diploma of Library and Information Services.  
+      
+       
+       
+        Contents
+        
+        
+        1 Historical development 
+          
+          1.1 Library schools 
+          1.2 Changes in courses and terminology 
+           
+        2 Course components 
+          
+          2.1 Faculty 
+           
+        3 By region or country 
+          
+          3.1 Americas 
+            
+            3.1.1 United States and Canada 
+             
+          3.2 Europe 
+            
+            3.2.1 Denmark 
+            3.2.2 Germany 
+            3.2.3 United Kingdom 
+             
+          3.3 Oceania 
+            
+            3.3.1 Australia 
+            3.3.2 New Zealand 
+             
+          3.4 Southeast Asia 
+            
+            3.4.1 Philippines 
+             
+           
+        4 See also 
+        5 Notes 
+        6 References 
+        7 Further reading 
+        8 External links 
+        
+       
+      Historical development 
+      Until the 19th century, the librarian in charge of an academic collection was normally a scholar, often a university professor with a special interest in the library. There were no training programs, and the new librarian was expected to follow the practices of other similar libraries. (Popular libraries in the modern sense had not yet developed.) In the 19th century, although some librarians followed this older pattern, others prepared as apprentices under the direction of established librarians. 
+      Charles Churchwell wrote a history of education for librarians in the U.S. before 1975. 
+      In Britain, the Library Association was the first body to conduct examinations and accredit librarians in this way, giving its first examinations in 1885. Successful students attained a Library Association degree in librarianship. Apart from the library-related subjects (encountered in the second set of examinations), students were tested in English grammar, arithmetic, history, geography, English literature, and another European literature, and had to demonstrate of a working knowledge of at least three languages. Before the degree was granted, two years' experience of working in a library was also essential. Library schools did not exist, and there were no courses to help with preparation for the three levels of exams.  
+      Library schools 
+      A library school is an institution of higher learning specializing in the professional training of librarians. The first library school in the United States was established by Melvil Dewey (the originator of the Dewey decimal system) in 1887 at Columbia University. Since then many library schools have been founded in the United States and Canada, with Canada's first formal librarianship program established at McGill University in 1904. 
+      Inspired by Dewey's example at Columbia, several British librarians pushed for a formal system of education in the UK. The first step was the organisation of some summer schools in London between 1893 and 1897, with the first formal library science course at university level established in 1902 at the London School of Economics, which was interrupted by the First World War in 1914. The first formal library school was established in 1919 at the University of London. From these beginnings arose a split between public librarians, who for the most part took the Library Association examinations, and academic and special librarians, for the most parts the university graduates. Eight library schools were established around the country in the post-WW2 period, but it was not until 1964 that the LA stopped conducting exams and reduced its role to that of an accrediting body overseeing the quality of the courses given in library schools. 
+      The development of library schools have followed different paths in the United Kingdom, compared with the US. The American Library Association was founded in 1876 and the (UK) Library Association in 1877, but they exercised completely different roles with regard to library education in their respective countries. US library schools developed independently of the national organization, and have always been able to set their own curriculum and examinations as well as what to call their degrees. While the ALA does perform the accreditation of the schools and plays a role in determining quality, the requirements are left up to the individual schools. In the UK, until the last decade of the 20th century, by which time all library schools were departments of universities, library education was dominated by the LA. 
+      In 1914, the University of the Philippines offered the first courses in Library education in the country. The development of library schools in other countries began in 1915, when librarians' schools were founded at Leipzig and Barcelona (currently, as a faculty of the Universitat de Barcelona, Facultat de Biblioteconomia i Documentació (UB) is the oldest library school in Europe). Many others were founded during World War II. 
+      The University of Chicago Graduate Library School, established in 1928, became the first library school to confer a master's degree in  The pivotal role of the doctoral degree at Chicago from 1921–1951 has been analyzed by John Richardson in his study, The Spirit of Inquiry. Many faculty members at the Graduate Library School (1928–1979) were at the forefront of the field's development in the twentieth century: Lester Asheim, Lee Pierce Butler, Leon Carnovsky, Herman H. Fussler, Frances E. Henne, Carleton B. Joeckel, Jesse Shera, Peggy Sullivan, Douglas Waples, Louis Round Wilson, Howard Winger, and Robert Wadsworth. The Library Quarterly was first published by the Graduate Library School in 1931. 
+      The University of the Philippines established the first separate library school in that country in 1961; the Institute of Library Science, a former department of the now defunct College of Liberal Arts.  
+      Changes in courses and terminology 
+      In recent decades, many schools offering librarianship education have changed their names to reflect the shift from print media to electronic media, and to information contained outside of traditional libraries. Some call themselves schools of library and information science (abbreviated to "SLIS", hence the term "SLISters" for their students), while others have dropped the word "library" altogether. This trend began as early as the 1960s with the recognition that information and access to it was shifting to electronic resources with the development of telecommunications and computer networks, and away from the traditional definition of librarianship. This shift led a number of library schools to change or broaden their mission to be more inclusive of information sciences across many disciplines, including library sciences, archives, computer sciences and more, and led to the development by a number of schools of an iSchool organization, to advance the field of information as a whole.  
+      Course components 
+      Master of Library Science (or equivalent, such as Master of Information Management in Australia) programs are typically structured to offer a combination of required and elective courses in library science and information science. The required courses focus on core library skills such as cataloging, reference, collection development as well as related areas such as the philosophy underlying the profession, information technology and management. Elective courses may include information management, children's literature, genealogy and archives, as well as specialized courses related to different types of libraries (academic libraries, music libraries, special libraries, etc.).   
+      Faculty 
+      The usual preparation for a faculty member in a department of library science (or other name) is a PhD in Library science or Information science. In some fields of librarianship, a PhD in another related subject, such as archival studies, is the equivalent, and some faculty have doctorates in various subject fields, as well as an MLS (or similar) degree.  
+      By region or country 
+      Americas 
+      United States and Canada 
+      Most library schools in North America offer graduate programs only. Accreditation of these programs is granted by the American Library Association. The bachelor's degree in Library Science (or Library Economy as it was called in early days) was, for the most part, phased out several decades ago. Prior to this, bachelor degree programs in library science were often intended to be pursued concurrently with a subject-based bachelor's degree, with the student usually spending an additional year of study. 
+      Librarians in North America typically earn a master's degree, typically the Master of Library Science (MLS) or the . This degree allows one to work as a practising librarian in public libraries, academic libraries, school library media centers, and special libraries, while many individuals with the MLS credential work with major library vendors. The degree is also applicable to related sectors such as publishing. 
+      In the United States and Canada, a professional librarian normally has a one or two-year master's degree in library and information science, library science or information science (Master of Library and Information Science) with abbreviations such as MLS, MSLS, MIS, MS-LIS, MISt, MI, MLIS, or MILS. Many professional librarians have degrees obtained from programs accredited by the American Library Association (ALA) and can have specializations within fields such as archives, records management, information architecture, information policy, knowledge management, public librarianship, medical librarianship, law librarianship, special librarianship, academic librarianship, or school (K-12) librarianship. School librarians often are required to have a teaching credential and school librarian license in addition to a library science degree. Master's degree programs for school library media specialist initial preparation are also accredited by the National Council for Accreditation of Teacher Education (NCATE), which ALA recognizes. Many, if not most, academic librarians also have a second, subject-based master's degree. 
+      At the turn of the millennium (1999–2000), problems related to the graduate education of professional librarians pervaded professional and academic discourse. These were initially identified by the Council of the American Library Association as the growing elimination of the word "library" from the names of schools, the seeming lack of attention to core competencies (cataloguing was often mentioned), and the national shortage of professionals to work with particular groups (specifically young people in public libraries and disadvantaged populations), and in particular environments (such as schools). The Final Report of the Steering Committee on the Congress for Professional Education provides an analysis of these issues. The Coalition on Reinventing Information Science, Technology, and Literary Education supported by the Kellogg Foundation provided additional analysis of future educational needs and direction. Bernie Sloan compiled an extensive 2004 bibliography on changes in LIS education. 
+      Distinguished service to education for librarianship in the U.S. and Canada is recognized by the annual Beta Phi Mu Award sponsored by the International Honorary Society, Beta Phi Mu. The first award was made in 1954 to Rudolph Hjalmar Gjelsness Dean of the University of Michigan's Library Science Department from 1940 to 1964. 
+      The primary association for faculty teaching in library and information science programs is the Association for Library and Information Science Education. Besides Chicago (mentioned above), other prominent American library schools are located at the University of Illinois at Urbana-Champaign and at the University of North Carolina at Chapel Hill. 
+      In academic regalia in the United States, the color for library science is lemon.  
+      Europe 
+      Denmark 
+      In Denmark, the first step to become a librarian is a 3-year long bachelor's degree in Library and Information Science (B.Sc.) at The Royal School of Library and Information Science. The students then have the choice between taking a half-year-long education for librarianship called Librarian D.B or take a 2-year master's degree called Master of Library and Information Science (M.L.I.Sc.). All the already mentioned courses takes place in Danish but The Royal School of Library and Information Science also offers an English-speaking 2-year master's degree called Master of Library and Information Science (M.L.I.Sc.). Students who complete the bachelor's degree, the librarianship or one of the master's degrees offered get work as librarians, information employees or organization staff. The students can also obtain a Ph.D. in Library and Information Science at The Royal School of Library and Information Science (first awarded at The Royal School of Library and Information Science in 2004). The students can also obtain a doctorate in Library and Information Science at The Royal School of Library and Information Science (first awarded at The Royal School of Library and Information Science in 2006).  
+      Germany 
+      In Germany, the first step for an academic librarian is a Ph.D. in a subject field, followed by additional training in librarianship.  
+      United Kingdom 
+      In the UK, a librarian can have a three- or four-year bachelor's degree in library and information studies or information science; separate master's degrees in librarianship, archive management, and records management are also available. These degrees are accredited by the Chartered Institute of Library and Information Professionals (established in 2002 as a merger of the Library Association and the Institute of Information Scientists) and the Society of Archivists. 
+      In 2006, there were 14 universities offering LIS education, and enrolments were declining. The word "library" had been dropped from many courses and "information" added, and library schools were mostly called LIS departments. Although there were more jobs being offered, fewer required a professional qualification. There was no single national scheme of qualifications for paraprofessionals.  
+      Oceania 
+      The Diploma of Library and Information Services (Level 5) at the Pacific Technical and Further Education (Pacific TAFE) at the University of the South Pacific in Fiji provides library technician training which is accredited in Australia.  
+      Australia 
+      Kennan, Carroll and Thompson provide a historical overview of librarianship in Australia, "with a particular focus on LIS education and how the goals and focus of both librarianship and LIS education have evolved over the centuries". 
+      The Australian Library and Information Association (ALIA), founded in 1937, is the professional organisation for the Australian library and information services sector and accredits qualifications enabling graduates to be eligible for Associate membership of ALIA, a common requirement for librarian positions in Australia. As of 2021, professional entry as a librarian (with eligibility to become ALIA associate members) is at three levels:  
+      
+       Three-year undergraduate (bachelor) qualification (Bachelor of Information Studies (with specialisations) at Charles Sturt University) 
+       One-year postgraduate (graduate diploma) qualification (Graduate Diploma in Information and Library Studies, Curtin University, Open Universities Australia, University of South Australia) 
+       One-, one-and-a-half, or two-year postgraduate (master's level) qualification (Master of Information Management, Charles Sturt, Curtin, RMIT University, University of South Australia)
+       
+      There is a separate course for teacher librarians (also eligible for ALIA associateship), the Master of Education (Teacher Librarianship) at Charles Sturt University. 
+      For library technicians, who are eligible for ALIA Library Technician membership, a specified package of courses within a Diploma of Library and Information Services is required. Courses are available at various TAFEs and other institutions across Australia, and also at the Pacific Technical and Further Education (Pacific TAFE) at the University of the South Pacific in Fiji.  
+      New Zealand 
+      In New Zealand, Victoria University of Wellington is the only university providing postgraduate education in librarianship. The Open Polytechnic of New Zealand offers a bachelor's degree for information professionals, and a range of certificate and diploma courses for para-professionals. Te Wananga-o-Raukawa offers diploma and certificate courses in Puna Maumahara/Information Management, which provide bilingual and bicultural (across Māori culture) training.  
+      Southeast Asia 
+      Philippines 
+      As of 2007, librarians in the Philippines usually have a four-year bachelor's degree in library and information studies, or a master's degree in LIS, or one with a concentration in Library Science. It is also not uncommon for librarians to possess a degree in Education, with a specialization or major in Library Science. With passage of the Republic Act No. 6966 (Repealed in 2003 with the passing of R.A. 9246 or "The Philippine Librarianship Act of 2003") in 1990, graduates of library and information science are required to take the licensure examinations for librarians in order to practice librarianship in the Philippines or countries which have reciprocity as regards the practice of the field.  
+      See also 
+      
+       List of Library Science schools
+       
+      Notes 
+      
+       
+       
+         
+         ^ Churchwell, Charles D. 1975. The shaping of American library education. Chicago: American Library Association.  
+         ^ a b c Thomas, Caroline E. (November 1999). Library Education in the United Kingdom: Past History, Current Trends, Future Possibilities and Implications for Library Education in the United States (PDF) (Masters). School of Information and Library Science, University of North Carolina at Chapel Hill.  
+         ^ Eberhart, M. (2016). "Things you didn't know about ALA history, 1876-1900." Retrieved from https://americanlibrariesmagazine.org/blogs/the-scoop/things-you-didnt-know-about-ala-history-1876-1900/; Yates, M. (1997). "A Capital Asset: The History and Resources of the New York State Library." Retrieved from http://www.nysl.nysed.gov/library/otherpubs/capasset.htm.  
+         ^ Churchwell, Charles D. 1975. The shaping of American library education. Chicago: American Library Association.  
+         ^ 
+           "Mission &amp; history". McGill University School of Information Studies. Retrieved 23 November 2014.  
+         ^ a b c  Archived April 15, 2007, at the Wayback Machine  
+         ^ 
+           Sylvan), Bobinski, George S. (George (2007). Libraries and librarianship&nbsp;: sixty years of challenge and change, 1945-2005. Lanham, Md.: Scarecrow Press. p.&nbsp;124. ISBN&nbsp;9780810858992. OCLC&nbsp;74029187.  
+         ^ Wilson, Louis R. "Impact of the Graduate Library School on American Librarianship," in Education and Libraries: Selected Papers by Louis R. Wilson, ed. Maurice F. Tauber and Jerald Orne. Hamden, CT: Shoe String Press, 1966, pp.&nbsp;268–277.  
+         ^ Richardson, John V. 1982. The spirit of inquiry: the Graduate Library School at Chicago, 1921–51. Chicago: American Library Association.  
+         ^ Steve Norman (1988) The Library Quarterly in the 1930s: a journal of discussion's early years.The Library Quarterly 58: 327–351.  
+         ^ Olson, G., &amp; Grudin, J. (2009, March 1). The information school phenomenon. Interactions: New Visions of Human-Computer Interaction, 15-19.  
+         ^ 
+           "About". iSchools. Retrieved 23 November 2014.  
+         ^ 
+           "Master of Information Management". Open Universities Australia. 2021. Retrieved 25 October 2021.  
+         ^ 
+           "LIBRARY &amp; INFORMATION SCIENCE". Kent.edu. Kent State University. 2021. Retrieved 25 October 2021.  
+         ^ White, Carl Milton. 1976. A historical introduction to library education: problems and progress to 1951. Metuchen, N.J.: Scarecrow Press.  
+         ^ Final Report of the Steering Committee on the Congress for Professional Education  
+         ^ Drabenstott, K. M., et al., The Kellogg CRISTAL-ED Project: creating a model program to support libraries in the digital age . In: Advances in librarianship, v20. Academic Press, 1996  
+         ^ Sloan, Bernie. 2004. Changes in LIS Education.  
+         ^ George S. Bobinski (2007) Libraries and Librarianship: Sixty Years of Challenge and Change, 1945-2005, pp. 129-146. Scarecrow Press  
+         ^ 
+           Lowe, Michael (December 2006). "LIS Education in Britain: an overview". BiD: textos universitaris de biblioteconomia i documentació (17 (desembre)). Retrieved 6 March 2021.  
+         ^ a b 
+           "Library Technicians". Australian Library and Information Association. Retrieved 5 March 2021.  
+         ^ a b 
+           "The Diploma of Library and Information Services (Level 5)" (PDF). USP.  
+         ^ 
+           Kennan, M. A.; Carroll, M.; Thompson, K.M. (17 May 2018). "Chapter 12: Letting Go, Holding On, or Re-Envisioning? Challenges and Opportunities for LIS Education in Australia". In Percell, J.; Sarin, L. C.; Jaeger, P. T.; Bertot, J. C. (eds.). Re-envisioning the MLS: Perspectives on the Future of Library and Information Science Education. Emerald Publishing Limited. pp.&nbsp;161–176. doi:10.1108/S0065-28302018000044A016. ISBN&nbsp;978-1-78754-880-0. ISSN&nbsp;0065-2830.  
+         ^ 
+           "History of the Association". Australian Library and Information Association. 31 May 2020. Retrieved 5 March 2021.  
+         ^ 
+           "Librarians and information specialists". Australian Library and Information Association. Retrieved 5 March 2021.  
+         ^ 
+           "Teacher Librarians". Australian Library and Information Association. Retrieved 5 March 2021.  
+         ^ 
+           "Qualification details: BSB50520 - Diploma of Library and Information Services (Release 1)". training.gov.au. 19 October 2020. Retrieved 5 March 2021.  
+         ^ 
+           "Library and Information Studies". Open Polytechnic of New Zealand. Retrieved 10 March 2021.  
+         ^ 
+           "Qualifications". Libraries Aotearoa. Retrieved 10 March 2021.  
+        
+       
+       
+      References 
+      
+       Reitz, Joan M. (2004). Library School in ODLIS — Online Dictionary for Library and Information Science.
+       
+      Further reading 
+      
+       
+        Walter, Frank K. (1920). "Library Training"&nbsp;. Encyclopedia Americana.
+       
+      External links 
+      
+       American Library Association (ALA) Official Website 
+       Association for Library and Information Science Education (ALISE) 
+       ALA Directory of accredited programs 
+       Historical List of ALA-Accredited Programs
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Libraries and library science
+           
+         
+         
+          Types of library
+          
+            
+            
+             Academic 
+             Archive 
+             Branch 
+             Children's 
+             Christian 
+             Consortium 
+             Digital 
+              
+               Shadow
+               
+             Hybrid 
+             Law 
+             Lending 
+             Map 
+             Medicine 
+             Mobile 
+             Music 
+             National 
+             Presidential 
+             Prison 
+             Private 
+             Public 
+              
+               Carnegie
+               
+             Research 
+             School 
+              
+               Learning Resource Centre 
+               Virtual
+               
+             Special collections 
+             Special library 
+             Subscription 
+             Traveling
+             
+           
+         
+         
+          Types of librarian
+          
+            
+            
+             Distance education 
+             E-science 
+             Law 
+             Music 
+              
+               Ensemble
+               
+             Periodicals/serials 
+             School 
+             Information professional 
+             Informationist 
+             Library and information scientist
+             
+           
+         
+         
+          Library science
+          
+            
+            
+             Five laws 
+             Library and information science 
+             Education for librarianship 
+             Acquisitions 
+             Archival science 
+             Assessment 
+             Cataloging 
+              
+               Catalog 
+               OPAC
+               
+             Circulation 
+             Classification 
+             Collection development 
+             Collective collection 
+             Conservation 
+             Discovery system 
+             Electronic resource management 
+             Information literacy 
+             Inventory 
+             Legal deposit 
+             Library history 
+             Library instruction 
+             Library management 
+             Library publishing 
+             Preservation 
+             Readers' advisory 
+             Reference 
+              
+               Virtual 
+               Roving
+               
+             Technical services 
+             Weeding
+             
+           
+         
+         
+          History
+          
+            
+            
+             History of libraries 
+             History of library science
+             
+           
+         
+         
+          Lists
+          
+            
+            
+             Libraries 
+              
+               by country 
+               by size 
+               ancient 
+               destroyed 
+               medical 
+               national
+               
+             Library associations 
+             Library schools 
+             Librarians 
+              
+               women 
+               fictional
+               
+             Archivists 
+              
+               women
+              
+             
+           
+         
+         
+          
+            
+            
+              Category:Libraries 
+              Category:Library science 
+              Commons 
+              Glossary 
+              Outline 
+              WikiProject
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          Authority control: National libraries 
+          
+            
+            
+             United States
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Education_for_librarianship&amp;oldid=1056320172"
+     
+     
+    
+     
+      Categories: 
+      
+       Librarians
+       Library science education
+      
+     
+     
+      Hidden categories: 
+      
+       Webarchive template wayback links
+       All articles with unsourced statements
+       Articles with unsourced statements from March 2021
+       Articles with unsourced statements from November 2021
+       Articles containing potentially dated statements from 2021
+       All articles containing potentially dated statements
+       Articles containing potentially dated statements from 2007
+       Wikipedia articles incorporating a citation from the Encyclopedia Americana with a Wikisource reference
+       Articles with LCCN identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Français
+       日本語
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 21 November 2021, at 02:50&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

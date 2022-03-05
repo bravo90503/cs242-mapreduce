@@ -1,0 +1,417 @@
+
+ 
+  
+   
+  Information retrieval - Wikiquote 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+    
+    
+   Information retrieval 
+    
+    
+     From Wikiquote
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       
+         
+        
+         
+          
+         Categorization of Information retrieval models
+        
+       
+       
+      Information retrieval is the activity of obtaining information resources relevant to an information need from a collection of information resources, and the part of information science, which studies of these activity. Searches can be based on metadata or on full-text (or other content-based) indexing.  
+      
+       
+       
+        Contents
+        
+        
+        1 Quotes 
+          
+          1.1 A -F 
+          1.2 G-L 
+          1.3 M-R 
+          1.4 S-T 
+           
+        2 See also 
+        3 External links 
+        
+       
+      Quotes 
+      A -F 
+      
+       Calvin Mooers was a participant in early developmental work on digital computers, a researcher, author, and implementer of applications in information retrieval; and a prophet in the 1950s describing the future importance of what is now called computer networks and distributive processing, and daring to predict that machines could simulate thought processes in retrieving computerized information. In 1947, he proposed the Zator, an electronic, film-scanning retrieval machine, and made the first proposal to use the Boolean operations or, and, and not to prescribe selections in retrieval machines. He developed his own Zatocoding System in 1948 using superimposed subject codes on edge-notched cards. He coined the term "Information Retrieval" in 1950, and went on from there to obtain several patents in information retrieval and signaling, produce a text-handling language (TRAC), author some 200 publications, and form one of the first companies whose only concern was information. His thinking has affected all who are in the field of Information and his early ideas are now incorporated into today's reality. 
+        
+         American Society for Information Science (1978) American Society for Information Science's Award of Merit in 1978.
+        
+       
+      
+       The index of a search engine can be thought of as analogous to the stars in  sky. What we see has never existed, as the light has traveled different distances to reach our eye. Similarly, Web pages referenced in an index were also explored at different dates and they may not exist any more. 
+        
+         Ricardo Baeza-Yates and Berthier Ribeiro-Neto, Modern Information Retrieval, Addison-Wesley/ACM Press, p. 382 (1999).
+        
+       
+      
+       The WWW project merges the techniques of information retrieval and hypertext to make an easy but powerful global information system. The project started with the philosophy that much academic information should be freely available to anyone. It aims to allow information sharing within internationally dispersed teams, and the dissemination of information by support groups. 
+        
+         Tim Berners-Lee (1991), Usenet article &lt;6487@cernvax.cern.ch&gt; (the first public announcement of CERN's "WorldWideWeb" system, made this day in 1991).
+        
+       
+      
+       Information retrieval consists of four main stages: Identifying the exact subject of the search; Locating this subject in a guide which refers the searcher to one or more documents; Locating the documents; Locating the required information in the documents. 
+        
+         Douglas John Foskett (1963) Classification and indexing in the social sciences. p. 6.
+        
+       
+      
+       The retrieval process begins when a lack of information shows itself in a human mind and the decision is taken to ﬁnd out if this information has been discovered and published 
+        
+         Douglas John Foskett (1963) Classification and indexing in the social sciences. p. 86.
+        
+       
+      
+       Whether computers are used for engineering design, medical data processing, composing music, or other purposes, the structure of computing is much the same. We are extremely short of talented people in this field, and so we need departments, curricula, and research and degree programs in computer science... I think of the Computer Science Department as eventually including experts in Programming, Numerical Analysis, Automata Theory, Data Processing, Business Games, Adaptive Systems, Information Theory, Information Retrieval, Recursive Function Theory, Computer Linguistics, etc., as these fields emerge in structure... Universities must respond  with far reaching changes in the educational structure. 
+        
+         George Forsythe As cited in Donald Knuth (1972). "George Forsythe and the Development of Computer Science". Comms. ACM.
+        
+       
+      G-L 
+      
+       'Information management' is a term that is preferred to 'information retrieval' by System Development Corporation. Information management is defined as the establishment and utilization of effective procedures for controlling the generation, processing, flow, and use of information. 
+        
+         Government Reports Announcements (1966) Vol 41, Nr 9-12. p. 11.
+        
+       
+      
+       Brian Campbell Vickery was an enormously influential figure in the field of classification and information retrieval, a powerful force in the development of faceted classification and retrieval theory, and a prolific writer and researcher throughout his life. 
+        
+         ISKO UK (2010) "Professor Brian Vickery 1918 - 2009" at iskouk.blogspot.nl, Jan 29, 2010.
+        
+       
+      
+       It can be useful to distinguish between knowledge and information and data; it is also difficult and contentious. Four points should be made.  Knowledge, information and data is what the systems to be discussed are for: by storing it in an organized manner, they are intended to enable it to be found when needed. Secondly, there is a spectrum of increased size and organization between data, where the units are quite small, through to knowledge, where the units are large and distinguished by their complex internal structure and relationships, and overlap with other units... Meunier (1987) presents a typology of levels of representation which is useful for the breath of its approach and its classification of relationships. Thirdly, "information" in the expression "information retrieval" is generally abused, because what is retrieved is not information, but bibliographic details of sources in which desired information potentially exists. Very many information retrieval systems are at best document retrieval systems, and more usually they are systems which retrieve surrogates for documents... Finally, although the expression knowledge retrieval is particularly associated with artificial intelligence and expert systems, it should not be forgotten that this is what cataloguers, indexers and bibliographers have been doing, and devising systems for, for many years. 
+        
+         D. Alasdair Kemp (1988). Computer-based Knowledge Retrieval. Oxford: Aslib. p. 1; Cited in: Birger Hjørland (2006) "Information retrival (IR)" on iva.dk.
+        
+       
+      M-R 
+      
+       Biological classifications have two major objectives: to serve as a basis of biological generalizations in all sort of comparative studies and to serve as a key to an information storage system... Is the classification that is soundest as a basis of generalizations also most convenient for information retrieval? This, indeed, seems to have been true in most cases I have encountered. 
+        
+         Ernst Mayr (1981) as cited in: C. Gnoli (2011) "Ontological foundations in knowledge organization: the theory of integrative levels applied in citation order". Scire actas. 17-1.
+        
+       
+      
+       The problem of directing a user to stored information, some of which may be unknown to him, is the problem of "information retrieval"… In information retrieval, the addressee or receiver rather than the sender is the active party. Other differences are that communication is temporal from one epoch to a later epoch in time, though possibly at the same point in space; communication is in all cases unidirectional; the sender cannot know the particular message that will be of later use to the receiver and must send all possible messages; the message is digitally representable; a "channel" is the physical document left in storage which contains the message; and there is no channel noise because all messages are presumed to be completely accessible to the receiver. The technical goal is finding in minimum time those messages of interest to the receiver, where the receiver has available a selective device with a finite digital scanning rate. 
+        
+         Calvin Mooers (1950). "Information retrieval viewed as temporal signaling". Proceedings of the International Congress of Mathematicians. Vol. 1, S.572-573.
+        
+       
+      
+       An information retrieval system will tend not to be used whenever it is more painful and troublesome for a customer to have information than for him not to have it.  Where an information retrieval system tends not to be used, a more capable information retrieval system may tend to be used even less. 
+        
+         Calvin Mooers (1959) Mooers' law: or, why some retrieval systems are used and others are not. p. 138.
+        
+       
+      
+       The task of keeping up with scientific literature is becoming an impossible one and is in turn leading to inefficiency and to a certain amount of frustration in scientific research and in the application of science. 
+        
+         Royal Society (Great Britain). Scientific Information Conference (1948) Report and Papers Submitted. p. 236 as cited in: Brian Campbell Vickery (1970) Techniques of information retrieval. p. 5. 
+         Vickery commented: "The crux of the retrieval problem is that selecting documents to read grows ever more difficult, and new techniques are continually needed."
+        
+       
+      
+       Information retrieval is a wide, often loosely-defined term but in these pages I shall be concerned only with automatic information retrieval systems. Automatic as opposed to manual and information as opposed to data or fact. Unfortunately the word information can be very misleading. In the context of information retrieval (IR), information, in the technical meaning given in Shannon's theory of communication, is not readily measured (Shannon &amp; Weaver). In fact in many cases, one can adequately describe the kind of retrieval by simply substituting "document" for "information". Nevertheless, "information retrieval" has become accepted as a description of the kind of work published by Cleverdon, Salton, Spark Jones, Lancaster and others. A perfectly straightforward definition along this line is given by Lancaster 2: "Information retrieval is the term conventionally, though somewhat inaccurately, applied to the type of activity discussed in this volume. An information retrieval system does not inform (i.e. change the knowledge of) the user on the subject of his inquiry. It merely informs on the existence (or non-existence) and whereabouts of documents relating to his request". This specifically excludes Question-Answering systems as typified by Winograd 3 and those described by Minsky 4. It also excludes data retrieval systems such as used by, say, the stock exchange for on-line quotations. 
+        
+         C.J. van Rijsbergen (1979). Information Retrieval. 2. ed. London: Butterworths. Online edition 1999. p. 1; Cited in: Birger Hjørland (2006) "Information retrival (IR)" on iva.dk.
+        
+       
+      S-T 
+      
+       But do you know that, although I have kept the diary  for months past, it never once struck me how I was going to find any particular part of it in case I wanted to look it up?| 
+        
+         Dr Seward in Bram Stoker's (1897) Dracula.
+        
+       
+      
+       An information retrieval system is therefore defined here as any device which aids access to documents specified by subject, and the operations associated with it. The documents can be books, journals, reports, atlases, or other records of thought, or any parts of such records—articles, chapters, sections, tables, diagrams, or even particular words. The retrieval devices can range from a bare list of contents to a large digital computer and its accessories. The operations can range from simple visual scanning to the most detailed programming. 
+        
+         Brian Vickery (1959) "The Structure of Information Retrieval Systems" in: National Academies Press (1959) Proceedings of the International Conference on Scientific Information. p. 1275.
+        
+       
+      
+       Four years ago, when the first edition of this book was written, information retrieval was beginning to crystallize out as a unified discipline. The process has gone further today. Several other books... have also offered a general survey, although each has contributed its own special emphasis. Many conferences on the subject have been held, and a constant stream of new articles has appeared, both in documentation journals and in those in the data processing field.  Information retrieval is now recognized as a discipline, and further advances in theory are being made, What I described in the first edition as the key operation in retrieval — the subject description of documents — is being explored theoretically and experimentally, although we are still a long way from reducing this operation to rule (Chapter 3). There has been less new work on the design of descriptor languages, although ideas on the display of descriptor relations through thesauri and 'semantic maps' have been developed (Chapter 4). Access to files has been examined, particularly by those experienced in data processing. 
+        
+         Brian Vickery (1961/65) On Retrieval System Theory. Preface to second edition (1965). p. v.
+        
+       
+      
+       Information retrieval is now an accepted part of the new discipline of information science and technology... I have concentrated on the field with which I am most familiar, the problems of bibliographic description and subject analysis. 
+        
+         Brian Vickery (1970) Techniques of information retrieval, London: Butterworth. p. v; As cited in: Lyn Robinson and David Bawden (2011) "Brian Vickery and the foundations of information science".
+        
+       
+      
+       In 1958 the classification ideas in it were felt to controversial, needing to be championed. A few years before, the } had issued a memorandum proclaiming "the need for a faceted classification as the basis of all methods of information retrieval'. As part-author of this memorandum, I must now judge the claim to have been too bold, even brash. 
+        
+         Brian Vickery (1975) Classification and indexing in science Preface to third edition. (First edition 1958).
+        
+       
+      
+       What surprised me, which Google was part of, is that superficial search techniques over large bodies of stuff could get you what you wanted. I grew up in the AI tradition, where you have a complete conceptual model, and the information retrieval tradition, where you have complex vectors of key terms and Boolean queries. The idea that you can index billions of pages and look for a word and get what you want is quite a trick. To put it in more abstract terms, it's the power of using simple techniques over very large numbers versus doing carefully constructed systematic analysis. 
+        
+         Terry Winograd (2002) "Talking with Terry Winograd", Ubiquity 3 (23), 29 July 2002.
+        
+       
+      See also 
+      
+       Information 
+       Information theory 
+       Internet
+       
+      External links 
+       
+       
+        
+         
+        
+        
+       
+        Wikipedia has an article about: 
+        
+         Information retrieval
+         
+        
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikiquote.org/w/index.php?title=Information_retrieval&amp;oldid=1946208"
+     
+     
+    
+     
+      Category: 
+      
+       Computer science
+      
+     
+     
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Page
+        Discussion
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Community portal
+       Village pump
+       Recent changes
+       Random page
+       Help
+       Donate
+       Contact Wikiquote
+       
+      
+     
+     
+      Wikiquote links  
+      
+      
+       People
+       Literary works
+       Proverbs
+       Films
+       TV shows
+       Themes
+       Categories
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Create a book
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       Wikipedia
+       
+      
+     
+     
+      In other languages  
+      
+       
+      
+       Add links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 7 May 2015, at 09:58. 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. 
+    
+    
+    Privacy policy 
+    About Wikiquote 
+    Disclaimers 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

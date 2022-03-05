@@ -1,0 +1,480 @@
+
+ 
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  <meta name="citation_author_institution" content=" Institute of Systems Science, National University of Singapore, Heng Mui Keng Terrace, Singapore 119597
+, , SG"> 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  An overview of audio information retrieval | SpringerLink 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+   
+    
+    
+   Skip to main content 
+    
+    
+     
+     Advertisement 
+      
+     
+    
+    
+     
+      
+        
+         
+          
+          
+          
+       
+         Search 
+           
+            
+        
+         
+          <button class="c-header__link" type="submit" style="
+        appearance: none;
+        border: none;
+        background: none;
+        color: inherit;
+    "> 
+             
+           Go to cart 
+          
+         
+        
+        
+         
+          Log in  
+         
+        
+       
+      
+     
+     
+      
+       
+        
+         
+          Search SpringerLink 
+           
+             Search 
+              
+              
+            
+           
+          
+         
+        
+       
+      
+     
+    
+    
+     
+      
+      
+      
+      
+      
+       
+        
+         
+         Published: January 1999 
+         
+        An overview of audio information retrieval 
+        
+         Jonathan Foote1&nbsp;
+         
+         Multimedia Systems volume&nbsp;7,&nbsp;pages 2–10 (1999)Cite this article  
+         
+          
+           
+            
+             1172 Accesses  
+             187 Citations  
+             9 Altmetric  
+             Metrics details  
+            
+           
+          
+         
+        
+       
+       
+       
+        
+         Abstract.
+         
+           The problem of audio information retrieval is familiar to anyone who has returned from vacation to find an answering machine full of messages. While there is not yet an “AltaVista” for the audio data type, many workers are finding ways to automatically locate, index, and browse audio using recent advances in speech recognition and machine listening. This paper reviews the state of the art in audio information retrieval, and presents recent advances in automatic speech recognition, word spotting, speaker and music identification, and audio similarity with a view towards making audio less “opaque”. A special section addresses intelligent interfaces for navigating and browsing audio and multimedia documents, using automatically derived information to go beyond the tape recorder metaphor.
+         
+        
+        
+        
+        This is a preview of subscription content, access via your institution. 
+        
+        
+          
+         Access options 
+          
+          Buy single article 
+           
+            
+            Instant access to the full article PDF. 
+            
+            
+            USD 39.95 
+            Price includes VAT (USA)Tax calculation will be finalised during checkout. 
+             
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+             
+            
+           
+           
+          
+          
+           
+            
+            Rent this article via DeepDyve. 
+            
+           
+           
+          
+          
+           
+            
+            Learn more about Institutional subscriptions 
+            
+           
+          
+          
+          
+         
+        
+        
+        
+       
+       
+        
+         
+        
+       
+       
+        
+         Author information
+         
+          Affiliations
+          
+            Institute of Systems Science, National University of Singapore, Heng Mui Keng Terrace, Singapore 119597 , SGJonathan Foote
+          
+          
+           Authors
+           
+            Jonathan Foote
+             
+              
+               View author publications
+              
+              
+               You can also search for this author in PubMed&nbsp;Google Scholar
+              
+             
+           
+          
+         
+        
+       
+       
+        
+         Rights and permissions
+         
+          Reprints and Permissions
+         
+        
+       
+       
+        
+         About this article
+         
+          
+           
+            Cite this article
+            Foote, J. An overview of audio information retrieval. Multimedia Systems 7, 2–10 (1999). https://doi.org/10.1007/s005300050106
+            Download citation
+              
+               
+              
+            
+             Issue Date: January 1999
+             DOI: https://doi.org/10.1007/s005300050106
+            
+            
+             
+              Share this article
+              Anyone you share the following link with will be able to read this content:Get shareable link
+              
+               Sorry, a shareable link is not currently available for this article.
+              
+              
+               Copy to clipboard
+              
+               Provided by the Springer Nature SharedIt content-sharing initiative 
+             
+            
+            Keywords
+            
+             Information Retrieval
+             Data Type
+             Speech Recognition
+             Special Section
+             Tape Record
+            
+            
+           
+          
+         
+        
+        
+       
+      
+     
+     
+      
+       
+       
+       
+       
+       
+       
+       
+        
+         
+           
+          Access options 
+           
+           Buy single article 
+            
+             
+             Instant access to the full article PDF. 
+             
+             
+             USD 39.95 
+             Price includes VAT (USA)Tax calculation will be finalised during checkout. 
+              
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+              
+             
+            
+            
+           
+           
+            
+             
+             Rent this article via DeepDyve. 
+             
+            
+            
+           
+           
+            
+             
+             Learn more about Institutional subscriptions 
+             
+            
+           
+           
+           
+          
+         
+         
+          
+           
+            
+            Advertisement 
+             
+            
+           
+          
+         
+         
+         
+        
+       
+      
+     
+    
+    
+    
+    
+     
+      
+      Over 10 million scientific documents at your fingertips 
+       Switch Edition 
+        
+         Academic Edition  
+         Corporate Edition  
+        
+       
+      
+     
+     
+      
+      Home 
+      Impressum 
+      Legal information 
+      Privacy statement 
+      California Privacy Statement 
+      How we use cookies 
+      Manage cookies/Do not sell my data 
+      Accessibility 
+      FAQ 
+      Contact us 
+      Affiliate program 
+      
+      
+       Not logged in  - 185.242.5.178  
+       Not affiliated  
+       Springer Nature 
+        
+        
+        
+     © 2022 Springer Nature Switzerland AG. Part of Springer Nature. 
+     
+    
+   
+    
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+    
+    
+ 

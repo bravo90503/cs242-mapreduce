@@ -1,0 +1,537 @@
+
+ 
+  
+   
+  Alan MacEachren - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Alan MacEachren 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      Alan M. MacEachren (born 1952) is an American geographer, Professor of Geography and Director, GeoVISTA Center, Department of Geography, The Pennsylvania State University. He is known for his cross-disciplinary work in the fields of human-centered geographic visualization, scientific and information visualization, and in statistics.  
+      
+       
+       
+        Contents
+        
+        
+        1 Biography 
+        2 See also 
+        3 Publications 
+        4 References 
+        5 External links 
+        
+       
+      Biography 
+      Alan MacEachren received a B.A. in geography in 1974 at the Ohio University, an M.A. in geography in 1976 from the University of Kansas and a Ph.D. in geography 1979 from University of Kansas. 
+      From 1979 to 1983, he was Assistant Professor of Geography at the Virginia Polytechnic Institute and State University and Director of the Department of Geography Cartography Laboratory. From 1980 to 1983, he was Director of the Department of Geography Spatial Analysis Laboratory, Virginia Polytechnic Institute and State University. In 1983, he became Assistant Professor of Geography at the University of Colorado-Boulder and in 1985 switched to Associate Professor of Geography and Director of the Deasy GeoGraphics Laboratory at the Pennsylvania State University, where he worked until 1992. From 1992 he was Professor of Geography, and since 1998 Director, GeoVISTA Center, Department of Geography, Penn State University. In Fall 2007 he was Visiting Professor, Department of Computer Science, Stanford University, and since 2007 also Affiliate Professor of Information Sciences and Technology, Penn State University. 
+      Awards for Alan MacEachren in 2004-2007 include the E. Willard and Ruby S. Miller Professor of Geography, College of Earth and Mineral Science, Penn State University. He became an Honorary Fellow of the International Cartographic Association in 2005, making him only the sixth Fellow from the U.S. since 1974. In 2004, he was also recognized for Exceptional Scholarly Contributions to the Practice of Cartography, by the Canadian Cartographic Association.  
+      See also 
+      
+       2.5D 
+       Animated mapping 
+       Figure-ground in map design 
+       History of cartography 
+       Spatial analysis 
+       Theresa-Marie Rhyne
+       
+      Publications 
+      Alan MacEachren has written several books and articles. A selection:  
+      
+       1994. Visualization in modern cartography. With D.R. Fraser (ed.). Taylor. 
+       1995. How maps work&nbsp;: representation, visualization, and design  How maps work&nbsp;: representation, 
+       1994. Some truth with maps&nbsp;: a primer on symbolization and design 
+       1997. Rediscovering Geography: New Relevance for the New Century. With 13 other authors. Washington, D. C.: National Academy of Science Press. 
+       2005. Exploring Geovisualization. With Jason Dykes and M.J. Kraak. International Cartographic Association. 
+       2005. Illuminating the Path: The Research and Development Agenda for Visual Analytics. With 25 other authors. Pacific Northwest National Laboratory and Department of Homeland Security.
+       
+      References 
+      
+       
+       
+         
+         ^ MacEachren, Alan at www.infovis-wiki.net.  
+         ^ Alan M. MacEachren List of publications from the DBLP Bibliography Server.  
+        
+       
+       
+      External links 
+       
+       
+         
+          
+         Wikiquote has quotations related to: Alan MacEachren
+         
+       
+       
+      
+       Alan M. MacEachren. Director, GeoVISTA Center. The Pennsylvania State University. 
+       List of Influences: Alan MacEachren by Robert Kosara, 2007-04-03.
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          General
+          
+            
+            
+             ISNI 
+              
+               1
+               
+             VIAF 
+              
+               1
+               
+             WorldCat
+             
+           
+         
+         
+          National libraries
+          
+            
+            
+             Norway 
+             France (data) 
+             Germany 
+             United States 
+             Latvia 
+             Czech Republic 
+             Netherlands
+             
+           
+         
+         
+          Scientific databases
+          
+            
+            
+             DBLP (computer science)
+             
+           
+         
+         
+          Other
+          
+            
+            
+             SUDOC (France) 
+              
+               1
+              
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Alan_MacEachren&amp;oldid=1063233848"
+     
+     
+    
+     
+      Categories: 
+      
+       1952 births
+       American geographers
+       Historians of cartography
+       Living people
+       Information visualization experts
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with ISNI identifiers
+       Articles with VIAF identifiers
+       Articles with WORLDCATID identifiers
+       Articles with BIBSYS identifiers
+       Articles with BNF identifiers
+       Articles with GND identifiers
+       Articles with LCCN identifiers
+       Articles with LNB identifiers
+       Articles with NKC identifiers
+       Articles with NTA identifiers
+       Articles with DBLP identifiers
+       Articles with SUDOC identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikiquote
+       
+      
+     
+     
+      Languages  
+      
+       
+      
+       Add links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 2 January 2022, at 00:08&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

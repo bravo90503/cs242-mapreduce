@@ -1,0 +1,2895 @@
+
+ 
+  
+   
+  Language model - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Language model 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Statistical model of structure of language
+       
+      A statistical language model is a probability distribution over sequences of words. Given such a sequence, say of length m, it assigns a probability 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+              
+              
+               w
+               
+               
+               
+                1
+                
+               
+              
+             
+              ,
+              
+             
+              …
+              
+             
+              ,
+              
+              
+              
+               w
+               
+               
+               
+                m
+                
+               
+              
+             
+              )
+              
+             
+            
+           
+            ,\ldots ,w_)}
+            
+           
+          to the whole sequence. 
+      The language model provides context to distinguish between words and phrases that sound phonetically similar. For example, in American English, the phrases "recognize speech" and "wreck a nice beach" sound similar, but mean different things. 
+      Data sparsity is a major problem in building language models. Most possible word sequences are not observed in training. One solution is to make the assumption that the probability of a word only depends on the previous n words. This is known as an n-gram model or unigram model when n&nbsp;=&nbsp;1. 
+      Estimating the relative likelihood of different phrases is useful in many natural language processing applications, especially those that generate text as an output. Language modeling is used in speech recognition, machine translation, part-of-speech tagging, parsing, Optical Character Recognition, handwriting recognition, information retrieval and other applications. 
+      In speech recognition, sounds are matched with word sequences. Ambiguities are easier to resolve when evidence from the language model is integrated with a pronunciation model and an acoustic model. 
+      Language models are used in information retrieval in the query likelihood model. There, a separate language model is associated with each document in a collection. Documents are ranked based on the probability of the query Q in the document's language model 
+           
+            
+             
+              
+              
+               M
+               
+               
+               
+                d
+                
+               
+              
+             
+            
+           
+            }
+            
+           
+         : 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+             
+              Q
+              
+             
+              ∣
+              
+              
+              
+               M
+               
+               
+               
+                d
+                
+               
+              
+             
+              )
+              
+             
+            
+           
+            )}
+            
+           
+         . Commonly, the unigram language model is used for this purpose.  
+      
+       
+       
+        Contents
+        
+        
+        1 Model types 
+          
+          1.1 Unigram 
+          1.2 n-gram 
+            
+            1.2.1 Bidirectional 
+            1.2.2 Example 
+             
+          1.3 Exponential 
+          1.4 Neural network 
+          1.5 Other 
+           
+        2 Benchmarks 
+        3 Criticism 
+        4 See also 
+        5 Notes 
+        6 References 
+          
+          6.1 Citations 
+          6.2 Sources 
+           
+        7 External links 
+          
+          7.1 Software 
+           
+        
+       
+      Model types 
+      Unigram 
+      A unigram model can be treated as the combination of several one-state finite automata. It splits the probabilities of different terms in a context, e.g. from  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+               
+               
+                t
+                
+                
+                
+                 1
+                 
+                
+               
+               
+               
+                t
+                
+                
+                
+                 2
+                 
+                
+               
+               
+               
+                t
+                
+                
+                
+                 3
+                 
+                
+               
+              
+               )
+               
+              
+               =
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                t
+                
+                
+                
+                 1
+                 
+                
+               
+              
+               )
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                t
+                
+                
+                
+                 2
+                 
+                
+               
+              
+               ∣
+               
+               
+               
+                t
+                
+                
+                
+                 1
+                 
+                
+               
+              
+               )
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                t
+                
+                
+                
+                 3
+                 
+                
+               
+              
+               ∣
+               
+               
+               
+                t
+                
+                
+                
+                 1
+                 
+                
+               
+               
+               
+                t
+                
+                
+                
+                 2
+                 
+                
+               
+              
+               )
+               
+              
+             
+            
+             t_t_)=P(t_)P(t_\mid t_)P(t_\mid t_t_)}
+             
+            
+          
+       
+       
+      to  
+      
+       
+        
+            
+             
+              
+               
+               
+                P
+                
+                
+                
+                 uni
+                 
+                
+               
+              
+               (
+               
+               
+               
+                t
+                
+                
+                
+                 1
+                 
+                
+               
+               
+               
+                t
+                
+                
+                
+                 2
+                 
+                
+               
+               
+               
+                t
+                
+                
+                
+                 3
+                 
+                
+               
+              
+               )
+               
+              
+               =
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                t
+                
+                
+                
+                 1
+                 
+                
+               
+              
+               )
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                t
+                
+                
+                
+                 2
+                 
+                
+               
+              
+               )
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                t
+                
+                
+                
+                 3
+                 
+                
+               
+              
+               )
+               
+              
+               .
+               
+              
+             
+            
+             }(t_t_t_)=P(t_)P(t_)P(t_).}
+             
+            
+          
+       
+       
+      In this model, the probability of each word only depends on that word's own probability in the document, so we only have one-state finite automata as units. The automaton itself has a probability distribution over the entire vocabulary of the model, summing to 1. The following is an illustration of a unigram model of a document.  
+       
+       
+         
+         Terms 
+         Probability in doc 
+         
+         
+         a 
+         0.1 
+         
+         
+         world 
+         0.2 
+         
+         
+         likes 
+         0.05 
+         
+         
+         we 
+         0.05 
+         
+         
+         share 
+         0.3 
+         
+         
+         ... 
+         ... 
+        
+       
+       
+      
+       
+        
+            
+             
+              
+               
+               
+                ∑
+                
+                
+                
+                 term in doc
+                 
+                
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                term
+                
+               
+              
+               )
+               
+              
+               =
+               
+              
+               1
+               
+              
+             
+            
+             }P(})=1}
+             
+            
+          
+       
+       
+      The probability generated for a specific query is calculated as  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+               
+               
+                query
+                
+               
+              
+               )
+               
+              
+               =
+               
+               
+               
+                ∏
+                
+                
+                
+                 term in query
+                 
+                
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                term
+                
+               
+              
+               )
+               
+              
+             
+            
+             })=\prod _}P(})}
+             
+            
+          
+       
+       
+      Different documents have unigram models, with different hit probabilities of words in it. The probability distributions from different documents are used to generate hit probabilities for each query. Documents can be ranked for a query according to the probabilities. Example of unigram models of two documents:  
+       
+       
+         
+         Terms 
+         Probability in Doc1 
+         Probability in Doc2 
+         
+         
+         a 
+         0.1 
+         0.3 
+         
+         
+         world 
+         0.2 
+         0.1 
+         
+         
+         likes 
+         0.05 
+         0.03 
+         
+         
+         we 
+         0.05 
+         0.02 
+         
+         
+         share 
+         0.3 
+         0.2 
+         
+         
+         ... 
+         ... 
+         ... 
+        
+       
+       
+      In information retrieval contexts, unigram language models are often smoothed to avoid instances where P(term)&nbsp;=&nbsp;0. A common approach is to generate a maximum-likelihood model for the entire collection and linearly interpolate the collection model with a maximum-likelihood model for each document to smooth the model.  
+      n-gram 
+      
+      
+       Main article: n-gram
+       
+      In an n-gram model, the probability 
+           
+            
+             
+             
+              P
+              
+             
+              (
+              
+              
+              
+               w
+               
+               
+               
+                1
+                
+               
+              
+             
+              ,
+              
+             
+              …
+              
+             
+              ,
+              
+              
+              
+               w
+               
+               
+               
+                m
+                
+               
+              
+             
+              )
+              
+             
+            
+           
+            ,\ldots ,w_)}
+            
+           
+          of observing the sentence 
+           
+            
+             
+              
+              
+               w
+               
+               
+               
+                1
+                
+               
+              
+             
+              ,
+              
+             
+              …
+              
+             
+              ,
+              
+              
+              
+               w
+               
+               
+               
+                m
+                
+               
+              
+             
+            
+           
+            ,\ldots ,w_}
+            
+           
+          is approximated as  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+               
+               
+                w
+                
+                
+                
+                 1
+                 
+                
+               
+              
+               ,
+               
+              
+               …
+               
+              
+               ,
+               
+               
+               
+                w
+                
+                
+                
+                 m
+                 
+                
+               
+              
+               )
+               
+              
+               =
+               
+               
+               
+                ∏
+                
+                
+                
+                 i
+                 
+                
+                 =
+                 
+                
+                 1
+                 
+                
+                
+                
+                 m
+                 
+                
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                w
+                
+                
+                
+                 i
+                 
+                
+               
+              
+               ∣
+               
+               
+               
+                w
+                
+                
+                
+                 1
+                 
+                
+               
+              
+               ,
+               
+              
+               …
+               
+              
+               ,
+               
+               
+               
+                w
+                
+                
+                
+                 i
+                 
+                
+                 −
+                 
+                
+                 1
+                 
+                
+               
+              
+               )
+               
+              
+               ≈
+               
+               
+               
+                ∏
+                
+                
+                
+                 i
+                 
+                
+                 =
+                 
+                
+                 1
+                 
+                
+                
+                
+                 m
+                 
+                
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                w
+                
+                
+                
+                 i
+                 
+                
+               
+              
+               ∣
+               
+               
+               
+                w
+                
+                
+                
+                 i
+                 
+                
+                 −
+                 
+                
+                 (
+                 
+                
+                 n
+                 
+                
+                 −
+                 
+                
+                 1
+                 
+                
+                 )
+                 
+                
+               
+              
+               ,
+               
+              
+               …
+               
+              
+               ,
+               
+               
+               
+                w
+                
+                
+                
+                 i
+                 
+                
+                 −
+                 
+                
+                 1
+                 
+                
+               
+              
+               )
+               
+              
+             
+            
+             ,\ldots ,w_)=\prod _^P(w_\mid w_,\ldots ,w_)\approx \prod _^P(w_\mid w_,\ldots ,w_)}
+             
+            
+          
+       
+       
+      It is assumed that the probability of observing the ith word wi in the context history of the preceding i&nbsp;−&nbsp;1 words can be approximated by the probability of observing it in the shortened context history of the preceding n&nbsp;−&nbsp;1 words (nth order Markov property). 
+      The conditional probability can be calculated from n-gram model frequency counts:  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+               
+               
+                w
+                
+                
+                
+                 i
+                 
+                
+               
+              
+               ∣
+               
+               
+               
+                w
+                
+                
+                
+                 i
+                 
+                
+                 −
+                 
+                
+                 (
+                 
+                
+                 n
+                 
+                
+                 −
+                 
+                
+                 1
+                 
+                
+                 )
+                 
+                
+               
+              
+               ,
+               
+              
+               …
+               
+              
+               ,
+               
+               
+               
+                w
+                
+                
+                
+                 i
+                 
+                
+                 −
+                 
+                
+                 1
+                 
+                
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                 
+                  
+                  
+                   c
+                   
+                  
+                   o
+                   
+                  
+                   u
+                   
+                  
+                   n
+                   
+                  
+                   t
+                   
+                  
+                 
+                  (
+                  
+                  
+                  
+                   w
+                   
+                   
+                   
+                    i
+                    
+                   
+                    −
+                    
+                   
+                    (
+                    
+                   
+                    n
+                    
+                   
+                    −
+                    
+                   
+                    1
+                    
+                   
+                    )
+                    
+                   
+                  
+                 
+                  ,
+                  
+                 
+                  …
+                  
+                 
+                  ,
+                  
+                  
+                  
+                   w
+                   
+                   
+                   
+                    i
+                    
+                   
+                    −
+                    
+                   
+                    1
+                    
+                   
+                  
+                 
+                  ,
+                  
+                  
+                  
+                   w
+                   
+                   
+                   
+                    i
+                    
+                   
+                  
+                 
+                  )
+                  
+                 
+                 
+                  
+                  
+                   c
+                   
+                  
+                   o
+                   
+                  
+                   u
+                   
+                  
+                   n
+                   
+                  
+                   t
+                   
+                  
+                 
+                  (
+                  
+                  
+                  
+                   w
+                   
+                   
+                   
+                    i
+                    
+                   
+                    −
+                    
+                   
+                    (
+                    
+                   
+                    n
+                    
+                   
+                    −
+                    
+                   
+                    1
+                    
+                   
+                    )
+                    
+                   
+                  
+                 
+                  ,
+                  
+                 
+                  …
+                  
+                 
+                  ,
+                  
+                  
+                  
+                   w
+                   
+                   
+                   
+                    i
+                    
+                   
+                    −
+                    
+                   
+                    1
+                    
+                   
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+             
+            
+             \mid w_,\ldots ,w_)= (w_,\ldots ,w_,w_)} (w_,\ldots ,w_)}}}
+             
+            
+          
+       
+       
+      The terms bigram and trigram language models denote n-gram models with n&nbsp;=&nbsp;2 and n&nbsp;=&nbsp;3, respectively. 
+      Typically, the n-gram model probabilities are not derived directly from frequency counts, because models derived this way have severe problems when confronted with any n-grams that have not been explicitly seen before. Instead, some form of smoothing is necessary, assigning some of the total probability mass to unseen words or n-grams. Various methods are used, from simple "add-one" smoothing (assign a count of 1 to unseen n-grams, as an uninformative prior) to more sophisticated models, such as Good-Turing discounting or back-off models.  
+      Bidirectional 
+      Bidirectional representations condition on both pre- and post- context (e.g., words) in all layers.  
+      Example 
+      In a bigram (n&nbsp;=&nbsp;2) language model, the probability of the sentence I saw the red house is approximated as  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+               
+               
+                I, saw, the, red, house
+                
+               
+              
+               )
+               
+              
+               ≈
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                I
+                
+               
+              
+               ∣
+               
+              
+               ⟨
+               
+              
+               s
+               
+              
+               ⟩
+               
+              
+               )
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                saw
+                
+               
+              
+               ∣
+               
+               
+               
+                I
+                
+               
+              
+               )
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                the
+                
+               
+              
+               ∣
+               
+               
+               
+                saw
+                
+               
+              
+               )
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                red
+                
+               
+              
+               ∣
+               
+               
+               
+                the
+                
+               
+              
+               )
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                house
+                
+               
+              
+               ∣
+               
+               
+               
+                red
+                
+               
+              
+               )
+               
+              
+               P
+               
+              
+               (
+               
+              
+               ⟨
+               
+               
+               
+                /
+                
+               
+              
+               s
+               
+              
+               ⟩
+               
+              
+               ∣
+               
+               
+               
+                house
+                
+               
+              
+               )
+               
+              
+             
+            
+             })\approx P(}\mid \langle s\rangle )P(}\mid })P(}\mid })P(}\mid })P(}\mid })P(\langle /s\rangle \mid })}
+             
+            
+          
+       
+       
+      whereas in a trigram (n&nbsp;=&nbsp;3) language model, the approximation is  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+               
+               
+                I, saw, the, red, house
+                
+               
+              
+               )
+               
+              
+               ≈
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                I
+                
+               
+              
+               ∣
+               
+              
+               ⟨
+               
+              
+               s
+               
+              
+               ⟩
+               
+              
+               ,
+               
+              
+               ⟨
+               
+              
+               s
+               
+              
+               ⟩
+               
+              
+               )
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                saw
+                
+               
+              
+               ∣
+               
+              
+               ⟨
+               
+              
+               s
+               
+              
+               ⟩
+               
+              
+               ,
+               
+              
+               I
+               
+              
+               )
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                the
+                
+               
+              
+               ∣
+               
+               
+               
+                I, saw
+                
+               
+              
+               )
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                red
+                
+               
+              
+               ∣
+               
+               
+               
+                saw, the
+                
+               
+              
+               )
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                house
+                
+               
+              
+               ∣
+               
+               
+               
+                the, red
+                
+               
+              
+               )
+               
+              
+               P
+               
+              
+               (
+               
+              
+               ⟨
+               
+               
+               
+                /
+                
+               
+              
+               s
+               
+              
+               ⟩
+               
+              
+               ∣
+               
+               
+               
+                red, house
+                
+               
+              
+               )
+               
+              
+             
+            
+             })\approx P(}\mid \langle s\rangle ,\langle s\rangle )P(}\mid \langle s\rangle ,I)P(}\mid })P(}\mid })P(}\mid })P(\langle /s\rangle \mid })}
+             
+            
+          
+       
+       
+      Note that the context of the first n&nbsp;–&nbsp;1 n-grams is filled with start-of-sentence markers, typically denoted &lt;s&gt;. 
+      Additionally, without an end-of-sentence marker, the probability of an ungrammatical sequence *I saw the would always be higher than that of the longer sentence I saw the red house.  
+      Exponential 
+      Maximum entropy language models encode the relationship between a word and the n-gram history using feature functions. The equation is  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+               
+               
+                w
+                
+                
+                
+                 m
+                 
+                
+               
+              
+               ∣
+               
+               
+               
+                w
+                
+                
+                
+                 1
+                 
+                
+               
+              
+               ,
+               
+              
+               …
+               
+              
+               ,
+               
+               
+               
+                w
+                
+                
+                
+                 m
+                 
+                
+                 −
+                 
+                
+                 1
+                 
+                
+               
+              
+               )
+               
+              
+               =
+               
+               
+                
+                
+                 1
+                 
+                 
+                 
+                  Z
+                  
+                 
+                  (
+                  
+                  
+                  
+                   w
+                   
+                   
+                   
+                    1
+                    
+                   
+                  
+                 
+                  ,
+                  
+                 
+                  …
+                  
+                 
+                  ,
+                  
+                  
+                  
+                   w
+                   
+                   
+                   
+                    m
+                    
+                   
+                    −
+                    
+                   
+                    1
+                    
+                   
+                  
+                 
+                  )
+                  
+                 
+                
+               
+              
+               exp
+               
+              
+               ⁡
+               
+              
+               (
+               
+               
+               
+                a
+                
+                
+                
+                 T
+                 
+                
+               
+              
+               f
+               
+              
+               (
+               
+               
+               
+                w
+                
+                
+                
+                 1
+                 
+                
+               
+              
+               ,
+               
+              
+               …
+               
+              
+               ,
+               
+               
+               
+                w
+                
+                
+                
+                 m
+                 
+                
+               
+              
+               )
+               
+              
+               )
+               
+              
+             
+            
+             \mid w_,\ldots ,w_)=,\ldots ,w_)}}\exp(a^f(w_,\ldots ,w_))}
+             
+            
+          
+       
+       
+      where 
+           
+            
+             
+             
+              Z
+              
+             
+              (
+              
+              
+              
+               w
+               
+               
+               
+                1
+                
+               
+              
+             
+              ,
+              
+             
+              …
+              
+             
+              ,
+              
+              
+              
+               w
+               
+               
+               
+                m
+                
+               
+                −
+                
+               
+                1
+                
+               
+              
+             
+              )
+              
+             
+            
+           
+            ,\ldots ,w_)}
+            
+           
+          is the partition function, 
+           
+            
+             
+             
+              a
+              
+             
+            
+           
+            
+            
+           
+          is the parameter vector, and 
+           
+            
+             
+             
+              f
+              
+             
+              (
+              
+              
+              
+               w
+               
+               
+               
+                1
+                
+               
+              
+             
+              ,
+              
+             
+              …
+              
+             
+              ,
+              
+              
+              
+               w
+               
+               
+               
+                m
+                
+               
+              
+             
+              )
+              
+             
+            
+           
+            ,\ldots ,w_)}
+            
+           
+          is the feature function. In the simplest case, the feature function is just an indicator of the presence of a certain n-gram. It is helpful to use a prior on 
+           
+            
+             
+             
+              a
+              
+             
+            
+           
+            
+            
+           
+          or some form of regularization. 
+      The log-bilinear model is another example of an exponential language model. 
+        
+      Neural network 
+      Neural language models (or continuous space language models) use continuous representations or embeddings of words to make their predictions. These models make use of Neural networks. 
+      Continuous space embeddings help to alleviate the curse of dimensionality in language modeling: as language models are trained on larger and larger texts, the number of unique words (the vocabulary) increases. The number of possible sequences of words increases exponentially with the size of the vocabulary, causing a data sparsity problem because of the exponentially many sequences. Thus, statistics are needed to properly estimate probabilities. Neural networks avoid this problem by representing words in a distributed way, as non-linear combinations of weights in a neural net. An alternate description is that a neural net approximates the language function. The neural net architecture might be feed-forward or recurrent, and while the former is simpler the latter is more common. 
+      Typically, neural net language models are constructed and trained as probabilistic classifiers that learn to predict a probability distribution  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+               
+               
+                w
+                
+                
+                
+                 t
+                 
+                
+               
+              
+               ∣
+               
+               
+               
+                c
+                
+               
+                o
+                
+               
+                n
+                
+               
+                t
+                
+               
+                e
+                
+               
+                x
+                
+               
+                t
+                
+               
+              
+               )
+               
+               
+              
+               ∀
+               
+              
+               t
+               
+              
+               ∈
+               
+              
+               V
+               
+              
+             
+            
+             \mid \mathrm  )\,\forall t\in V}
+             
+            
+          .
+       
+       
+      I.e., the network is trained to predict a probability distribution over the vocabulary, given some linguistic context. This is done using standard neural net training algorithms such as stochastic gradient descent with backpropagation. The context might be a fixed-size window of previous words, so that the network predicts  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+               
+               
+                w
+                
+                
+                
+                 t
+                 
+                
+               
+              
+               ∣
+               
+               
+               
+                w
+                
+                
+                
+                 t
+                 
+                
+                 −
+                 
+                
+                 k
+                 
+                
+               
+              
+               ,
+               
+              
+               …
+               
+              
+               ,
+               
+               
+               
+                w
+                
+                
+                
+                 t
+                 
+                
+                 −
+                 
+                
+                 1
+                 
+                
+               
+              
+               )
+               
+              
+             
+            
+             \mid w_,\dots ,w_)}
+             
+            
+          
+       
+       
+      from a feature vector representing the previous k words. Another option is to use "future" words as well as "past" words as features, so that the estimated probability is  
+      
+       
+        
+            
+             
+              
+              
+               P
+               
+              
+               (
+               
+               
+               
+                w
+                
+                
+                
+                 t
+                 
+                
+               
+              
+               ∣
+               
+               
+               
+                w
+                
+                
+                
+                 t
+                 
+                
+                 −
+                 
+                
+                 k
+                 
+                
+               
+              
+               ,
+               
+              
+               …
+               
+              
+               ,
+               
+               
+               
+                w
+                
+                
+                
+                 t
+                 
+                
+                 −
+                 
+                
+                 1
+                 
+                
+               
+              
+               ,
+               
+               
+               
+                w
+                
+                
+                
+                 t
+                 
+                
+                 +
+                 
+                
+                 1
+                 
+                
+               
+              
+               ,
+               
+              
+               …
+               
+              
+               ,
+               
+               
+               
+                w
+                
+                
+                
+                 t
+                 
+                
+                 +
+                 
+                
+                 k
+                 
+                
+               
+              
+               )
+               
+              
+             
+            
+             \mid w_,\dots ,w_,w_,\dots ,w_)}
+             
+            
+          .
+       
+       
+      This is called a bag-of-words model. When the feature vectors for the words in the context are combined by a continuous operation, this model is referred to as the continuous bag-of-words architecture (CBOW). 
+      A third option that trains slower than the CBOW but performs slightly better is to invert the previous problem and make a neural network learn the context, given a word. More formally, given a sequence of training words 
+           
+            
+             
+              
+              
+               w
+               
+               
+               
+                1
+                
+               
+              
+             
+              ,
+              
+              
+              
+               w
+               
+               
+               
+                2
+                
+               
+              
+             
+              ,
+              
+              
+              
+               w
+               
+               
+               
+                3
+                
+               
+              
+             
+              ,
+              
+             
+              …
+              
+             
+              ,
+              
+              
+              
+               w
+               
+               
+               
+                T
+                
+               
+              
+             
+            
+           
+            ,w_,w_,\dots ,w_}
+            
+           
+         , one maximizes the average log-probability  
+      
+       
+        
+            
+             
+              
+               
+                
+                
+                 1
+                 
+                
+                 T
+                 
+                
+               
+               
+               
+                ∑
+                
+                
+                
+                 t
+                 
+                
+                 =
+                 
+                
+                 1
+                 
+                
+                
+                
+                 T
+                 
+                
+               
+               
+               
+                ∑
+                
+                
+                
+                 −
+                 
+                
+                 k
+                 
+                
+                 ≤
+                 
+                
+                 j
+                 
+                
+                 ≤
+                 
+                
+                 k
+                 
+                
+                 ,
+                 
+                
+                 j
+                 
+                
+                 ≠
+                 
+                
+                 0
+                 
+                
+               
+              
+               log
+               
+              
+               ⁡
+               
+              
+               P
+               
+              
+               (
+               
+               
+               
+                w
+                
+                
+                
+                 t
+                 
+                
+                 +
+                 
+                
+                 j
+                 
+                
+               
+              
+               ∣
+               
+               
+               
+                w
+                
+                
+                
+                 t
+                 
+                
+               
+              
+               )
+               
+              
+             
+            
+             }\sum _^\sum _\log P(w_\mid w_)}
+             
+            
+          
+       
+       
+      where k, the size of the training context, can be a function of the center word 
+           
+            
+             
+              
+              
+               w
+               
+               
+               
+                t
+                
+               
+              
+             
+            
+           
+            }
+            
+           
+         . This is called a skip-gram language model. Bag-of-words and skip-gram models are the basis of the word2vec program. 
+      Instead of using neural net language models to produce actual probabilities, it is common to instead use the distributed representation encoded in the networks' "hidden" layers as representations of words; each word is then mapped onto an n-dimensional real vector called the word embedding, where n is the size of the layer just before the output layer. The representations in skip-gram models have the distinct characteristic that they model semantic relations between words as linear combinations, capturing a form of compositionality. For example, in some such models, if v is the function that maps a word w to its n-d vector representation, then  
+      
+       
+        
+            
+             
+              
+              
+               v
+               
+              
+               (
+               
+               
+               
+                k
+                
+               
+                i
+                
+               
+                n
+                
+               
+                g
+                
+               
+              
+               )
+               
+              
+               −
+               
+              
+               v
+               
+              
+               (
+               
+               
+               
+                m
+                
+               
+                a
+                
+               
+                l
+                
+               
+                e
+                
+               
+              
+               )
+               
+              
+               +
+               
+              
+               v
+               
+              
+               (
+               
+               
+               
+                f
+                
+               
+                e
+                
+               
+                m
+                
+               
+                a
+                
+               
+                l
+                
+               
+                e
+                
+               
+              
+               )
+               
+              
+               ≈
+               
+              
+               v
+               
+              
+               (
+               
+               
+               
+                q
+                
+               
+                u
+                
+               
+                e
+                
+               
+                e
+                
+               
+                n
+                
+               
+              
+               )
+               
+              
+             
+            
+              )-v(\mathrm  )+v(\mathrm  )\approx v(\mathrm  )}
+             
+            
+          
+       
+       
+      where ≈ is made precise by stipulating that its right-hand side must be the nearest neighbor of the value of the left-hand side.  
+      Other 
+      A positional language model assesses the probability of given words occurring close to one another in a text, not necessarily immediately adjacent. Similarly, bag-of-concepts models leverage the semantics associated with multi-word expressions such as buy_christmas_present, even when they are used in information-rich sentences like "today I bought a lot of very nice Christmas presents". 
+      Despite the limited successes in using neural networks, authors acknowledge the need for other techniques when modelling sign languages.  
+      Benchmarks 
+      Various data sets have been developed to use to evaluate language processing systems. These include:  
+      
+       Corpus of Linguistic Acceptability 
+       GLUE benchmark 
+       Microsoft Research Paraphrase Corpus 
+       Multi-Genre Natural Language Inference 
+       Question Natural Language Inference 
+       Quora Question Pairs 
+       Recognizing Textual Entailment 
+       Semantic Textual Similarity Benchmark 
+       SQuAD question answering Test 
+       Stanford Sentiment Treebank 
+       Winograd NLI
+       
+      Criticism 
+      Although contemporary language models, such as GPT-2, can be shown to match human performance on some tasks, it is not clear they are plausible cognitive models. For instance, recurrent neural networks have been shown to learn patterns humans do not learn and fail to learn patterns that humans do learn.  
+      See also 
+      
+       
+       
+        Statistical model 
+        Factored language model 
+        Cache language model 
+        Katz's back-off model 
+        Transformer 
+        BERT 
+        GPT-2 
+        GPT-3
+        
+       
+      Notes 
+      
+       
+       
+         
+         ^ See Heaps' law.  
+        
+       
+       
+      References 
+      Citations 
+      
+       
+       
+         
+         ^ Kuhn, Roland, and Renato De Mori. "A cache-based natural language model for speech recognition." IEEE transactions on pattern analysis and machine intelligence 12.6 (1990): 570-583.  
+         ^ a b Andreas, Jacob, Andreas Vlachos, and Stephen Clark. "Semantic parsing as machine translation." Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers). 2013.  
+         ^ Pham, Vu, et al. "Dropout improves recurrent neural networks for handwriting recognition." 2014 14th International Conference on Frontiers in Handwriting Recognition. IEEE, 2014.  
+         ^ Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze: An Introduction to Information Retrieval, pages 237–240. Cambridge University Press, 2009  
+         ^ Buttcher, Clarke, and Cormack. Information Retrieval: Implementing and Evaluating Search Engines. pg. 289–291. MIT Press.  
+         ^ Craig Trim, What is Language Modeling?, April 26th, 2013.  
+         ^ a b Devlin, Jacob; Chang, Ming-Wei; Lee, Kenton; Toutanova, Kristina (2018-10-10). "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding". arXiv:1810.04805 .  
+         ^ 
+           Karpathy, Andrej. "The Unreasonable Effectiveness of Recurrent Neural Networks".  
+         ^ a b c 
+           Bengio, Yoshua (2008). "Neural net language models". Scholarpedia. Vol.&nbsp;3. p.&nbsp;3881. Bibcode:2008SchpJ...3.3881B. doi:10.4249/scholarpedia.3881.  
+         ^ a b c 
+           Mikolov, Tomas; Chen, Kai; Corrado, Greg; Dean, Jeffrey (2013). "Efficient estimation of word representations in vector space". arXiv:1301.3781 .  
+         ^ a b 
+           Mikolov, Tomas; Sutskever, Ilya; Chen, Kai; Corrado irst4=Greg S.; Dean, Jeff (2013). Distributed Representations of Words and Phrases and their Compositionality (PDF). Advances in Neural Information Processing Systems. pp.&nbsp;3111–3119.  
+         ^ 
+           Harris, Derrick (16 August 2013). "We're on the cusp of deep learning for the masses. You can thank Google later". Gigaom.  
+         ^ 
+           Lv, Yuanhua; Zhai, ChengXiang (2009). "Positional Language Models for Information Retrieval in" (PDF). Proceedings. 32nd international ACM SIGIR conference on Research and development in information retrieval (SIGIR).  
+         ^ 
+           Cambria, Erik; Hussain, Amir (2012-07-28). Sentic Computing: Techniques, Tools, and Applications. Springer Netherlands. ISBN&nbsp;978-94-007-5069-2.  
+         ^ 
+           Mocialov, Boris; Hastie, Helen; Turner, Graham (August 2018). "Transfer Learning for British Sign Language Modelling". Proceedings of the Fifth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2018): 101–110. arXiv:2006.02144. Retrieved 14 March 2020.  
+         ^ 
+           "The Corpus of Linguistic Acceptability (CoLA)". nyu-mll.github.io. Retrieved 2019-02-25.  
+         ^ 
+           "GLUE Benchmark". gluebenchmark.com. Retrieved 2019-02-25.  
+         ^ 
+           "Microsoft Research Paraphrase Corpus". Microsoft Download Center. Retrieved 2019-02-25.  
+         ^ 
+           Aghaebrahimian, Ahmad (2017), "Quora Question Answer Dataset", Text, Speech, and Dialogue, Lecture Notes in Computer Science, vol.&nbsp;10415, Springer International Publishing, pp.&nbsp;66–73, doi:10.1007/978-3-319-64206-2_8, ISBN&nbsp;9783319642055  
+         ^ 
+           Sammons, V.G.Vinod Vydiswaran, Dan Roth, Mark; Vydiswaran, V.G.; Roth, Dan. "Recognizing Textual Entailment" (PDF). Retrieved February 24, 2019.}: CS1 maint: multiple names: authors list (link)  
+         ^ 
+           "The Stanford Question Answering Dataset". rajpurkar.github.io. Retrieved 2019-02-25.  
+         ^ 
+           "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank". nlp.stanford.edu. Retrieved 2019-02-25.  
+         ^ 
+           Hornstein, Norbert; Lasnik, Howard; Patel-Grosz, Pritty; Yang, Charles (2018-01-09). Syntactic Structures after 60 Years: The Impact of the Chomskyan Revolution in Linguistics. Walter de Gruyter GmbH &amp; Co KG. ISBN&nbsp;978-1-5015-0692-5.  
+        
+       
+       
+      Sources 
+      
+       
+       
+        
+         J M Ponte and W B Croft (1998). "A Language Modeling Approach to Information Retrieval". Research and Development in Information Retrieval. pp.&nbsp;275–281. CiteSeerX&nbsp;10.1.1.117.4237.}: CS1 maint: uses authors parameter (link) 
+        
+         F Song and W B Croft (1999). "A General Language Model for Information Retrieval". Research and Development in Information Retrieval. pp.&nbsp;279–280. CiteSeerX&nbsp;10.1.1.21.6467.}: CS1 maint: uses authors parameter (link) 
+        
+         Chen, Stanley; Joshua Goodman (1998). An Empirical Study of Smoothing Techniques for Language Modeling (Technical report). Harvard University. CiteSeerX&nbsp;10.1.1.131.5458.
+        
+       
+      External links 
+      Software 
+      
+       BERT – Bidirectional Encoder Representations from Transformers 
+       CSLM – Free toolkit for feedforward neural language models 
+       DALM – Fast, Free software for language model queries 
+       Generative Pre-trained Transformer 
+       IRSTLM on SourceForge – Free software for language modeling 
+       Kylm (Kyoto Language Modeling Toolkit) – Free language modeling toolkit in Java 
+       KenLM – Fast, Free software for language modeling 
+       LMSharp – Free language model toolkit for Kneser–Ney-smoothed n-gram models and recurrent neural network models 
+       MITLM – MIT Language Modeling toolkit. Free software 
+       NPLM – Free toolkit for feedforward neural language models 
+       OpenGrm NGram library – Free software for language modeling. Built on OpenFst. 
+       OxLM – Free toolkit for feedforward neural language models 
+       Positional Language Model 
+       RandLM on SourceForge – Free software for randomised language modeling 
+       RNNLM – Free recurrent neural network language model toolkit 
+       SRILM – Proprietary software for language modeling 
+       VariKN – Free software for creating, growing and pruning Kneser-Ney smoothed n-gram models. 
+       Language models trained on newswire data
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Language_model&amp;oldid=1069004163"
+     
+     
+    
+     
+      Categories: 
+      
+       Language modeling
+       Statistical natural language processing
+       Markov models
+      
+     
+     
+      Hidden categories: 
+      
+       CS1 maint: multiple names: authors list
+       Articles with short description
+       Short description matches Wikidata
+       All articles needing examples
+       Articles needing examples from December 2017
+       All articles with unsourced statements
+       Articles with unsourced statements from December 2017
+       CS1 maint: uses authors parameter
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       Български
+       Català
+       Español
+       فارسی
+       Français
+       日本語
+       Norsk nynorsk
+       Suomi
+       Українська
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 31 January 2022, at 05:52&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

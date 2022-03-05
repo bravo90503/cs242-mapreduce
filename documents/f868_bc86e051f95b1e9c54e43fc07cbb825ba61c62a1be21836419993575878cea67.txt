@@ -1,0 +1,364 @@
+
+ 
+  
+   
+  Documentation science - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Documentation science 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+    
+     &nbsp;&nbsp;(Redirected from Library, information and documentation)
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       The study of the recording and retrieval of information
+       
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This article includes a list of references, related reading or external links, but its sources remain unclear because it lacks inline citations. Please help to improve this article by introducing more precise citations. (January 2014) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      
+       
+         
+        
+         
+          
+         Archeologist in the process of documenting her work; in this case, exploration of early medieval cremation burials in Chodlik, Poland.
+        
+       
+       
+      Documentation science is the study of the recording and retrieval of information. Documentation science gradually developed into the broader field of information science. 
+      Paul Otlet (1868–1944) and Henri La Fontaine (1854–1943), both Belgian lawyers and peace activists, established documentation science as a field of study. Otlet, who coined the term documentation science, is the author of two treatises on the subject: Traité de Documentation (1934) and Monde: Essai d'universalisme (1935). He, in particular, is regarded as the progenitor of information science. 
+      In the United States, 1968 was a landmark year in the transition from documentation science to information science: the American Documentation Institute became the American Society for Information Science and Technology, and Harold Borko introduced readers of the journal American Documentation to the term in his paper "Information science: What is it?". Information science has not entirely subsumed documentation science, however. Berard (2003, p.&nbsp;148) writes that word documentation is still much used in Francophone countries, where it is synonymous with information science. One potential explanation is that these countries made a clear division of labour between libraries and documentation centres, and the personnel employed at each kind of institution have different educational backgrounds. Documentation science professionals are called documentalists.  
+      
+       
+       
+        Contents
+        
+        
+        1 Developments 
+        2 See also 
+        3 References 
+        4 Further reading 
+        
+       
+      Developments 
+      1931: The International Institute for Documentation, (Institut International de Documentation, IID) was the new name for the International Institute of Bibliography (originally Institut International de Bibliographie, IIB) established on 12 September 1895, in Brussels. 
+      1937: American Documentation Institute was founded (1968 nameshift to American Society for Information Science). 
+      1948: S. R. Ranganathan "discovers" documentation. 
+      1965-1990: Documentation departments were established in, for example, large research libraries with the appearance of commercial online computer retrieval systems. The persons doing the searches for clients were termed documentalists. With the appearance of first CD-ROM databases and later the internet these intermediary searches have decreased and most such departments have been closed or merged with other departments. (This is perhaps a European terminology, in the USA the term Information Centers was often used). 
+      1986: Information service and - management started under the name "Bibliotheek en Documentaire Informatieverzorging" as third level education in The Netherlands. 
+      1996: "Dokvit", Documentation Studies, was established in 1996 at the University of Tromsø in Norway (see Lund, 2007). 
+      2002: The Document Academy, an international network chaired and cosponsored by The Program of Documentation Studies, University of Tromsoe, Norway and The School of Information Management and Systems, UC Berkeley. 
+      2003: Document Research Conference (DOCAM) is a series of conferences made by the Document Academy. DOCAM '03 (2003) was The first conference in the series. It was held August 13–15, 2003 at The School of Information Management and Systems (SIMS) at the University of California, Berkeley.(See https://web.archive.org/web/20120410005416/http://thedocumentacademy.org/?q=node%2F4 ). 
+      2004: The term Library, information and documentation studies (LID) has been suggested as an alternative to Library and information science (LIS), (cf., Rayward et al., 2004)  
+      See also 
+      
+       
+       
+        Document 
+        Documentation Research and Training Centre 
+        Information science#European documentation 
+        Institut für Dokumentologie und Editorik 
+        International Federation for Information and Documentation 
+        Journal of Documentation 
+        Library and information science 
+        Memory institution 
+        Mundaneum 
+        Subject (documents) 
+        Suzanne Briet 
+        World Congress of Universal Documentation
+       
+       
+      References 
+      
+       
+       
+         
+         ^ Rayward, W. B. (1994). "Visions of Xanadu: Paul Otlet (1868-1944) and hypertext". Journal of the American Society for Information Science. 45 (4): 235–250. doi:10.1002/(SICI)1097-4571(199405)45:4&lt;235::AID-ASI2&gt;3.0.CO;2-Y.  
+         ^ Ranganathan, S.R. (1950). Library tour 1948. Europe and America, impressions and reflections. London: G.Blunt.  
+         ^ The Document Academy  
+        
+       
+       
+      Further reading 
+      
+       Berard, R. (2003). Documentation. IN: International Encyclopedia of Information and Library Science. 2nd. ed. Ed. by John Feather &amp; Paul Sturges. London: Routledge (pp.&nbsp;147–149). 
+       Bradford, S. C. (1948). Documentation. London: Crosby Lockwood. 
+       Bradford, S. C. (1953). Documentation. 2nd ed. London: Crosby Lockwood. 
+       Briet, Suzanne (1951). Qu'est-ce que la documentation? Paris: Editions Documentaires Industrielle et Techniques. 
+       Briet, Suzanne, 2006. What is Documentation? English Translation of the Classic French Text. Transl. and ed. by Ronald E. Day and Laurent Martinet. Lanham, MD: Scarecrow Press. 
+       Buckland, Michael, 1996. Documentation, Information Science, and Library Science in the U.S.A. Information Processing &amp; Management 32, 63-76. Reprinted in Historical Studies in Information Science, eds. Trudi B. Hahn, and Michael Buckland. Medford, NJ: Information Today, 159- 172. 
+       Buckland, Michael (2007). Northern Light: Fresh Insights into Enduring Concerns. In: Document (re)turn. Contributions from a research field in transition. Ed. By Roswitha Skare, Niels Windfeld Lund &amp; Andreas Vårheim. Frankfurt am Main: Peter Lang. (pp.&nbsp;315–322). Retrieved 2011-10-16 from: http://people.ischool.berkeley.edu/~buckland/tromso07.pdf 
+       Farkas-Conn, I. S. (1990). From Documentation to Information Science. The Beginnings and Early Development of the American Documentation Institute - American Society for information Science. Westport, CT: Greenwood Press. 
+       Frohmann, Bernd, 2004. Deflating Information: From Science Studies to Documentation. Toronto; Buffalo; London: University of Toronto Press. 
+       Garfield, E. (1953). Librarian versus documentalist. Manuscript submitted to Special Libraries. http://www.garfield.library.upenn.edu/papers/librarianvsdocumentalisty1953.html 
+       Graziano, E. E. (1968). On a theory of documentation. American Documentalist 19, 85-89. 
+       Hjørland, Birger (2000). Documents, memory institutions and information science. JOURNAL OF DOCUMENTATION, 56(1), 27-41. Retrieved 2013-02-17 from: https://web.archive.org/web/20160303222759/http://iva.dk/bh/Core%20Concepts%20in%20LIS/articles%20a-z/Documents_memory%20institutions%20and%20IS.pdf 
+       Konrad, A. (2007). On inquiry: Human concept formation and construction of meaning through library and information science intermediation (Unpublished doctoral dissertation). University of California, Berkeley. Retrieved from http://escholarship.org/uc/item/1s76b6hp 
+       Lund, Niels Windfeld, 2004. Documentation in a Complementary Perspective. In Aware and responsible: Papers of the Nordic-International Colloquium on Social and Cultural Awareness and Responsibility in Library, Information and Documentation Studies (SCARLID), ed. Rayward, Lanham, Md.: Scarecrow Press, 93-102. 
+       Lund, Niels Windfeld (2007). Building a Discipline, Creating a Profession: An Essay on the Childhood of "Dokvit". IN: Document (re)turn. Contributions from a research field in transition. Ed. By Roswitha Skare, Niels Windfeld Lund &amp; Andreas Vårheim. Frankfurt am Main: Peter Lang. (pp.&nbsp;11–26). Retrieved 2011-10-16 from: http://www.ub.uit.no/munin/bitstream/handle/10037/966/paper.pdf?sequence=1 
+       Lund, Niels Windfeld (2009). Document Theory. ANNUAL REVIEW OF INFORMATION SCIENCE AND TECHNOLOGY, 43, 399-432. 
+       W. Boyd Rayward; Hansson,Joacim &amp; Suominen, Vesa (eds). (2004). Aware and Responsible: Papers of the Nordic-International Colloquium on Social and Cultural Awareness and Responsibility in Library, Information and Documentation Studies. Lanham, MD: Scarecrow Press. (pp.&nbsp;71–91). https://web.archive.org/web/20070609223747/http://www.db.dk/binaries/social%20and%20cultural%20awareness.pdf 
+       Simon, E. N. (1947). A novice on "documentation". Journal of Documentation, 3(2), 238-341. 
+       Williams, R. V. (1998). The Documentation and Special Libraries Movement in the United States, 1910-1960. IN: Hahn, T. B. &amp; Buckland, M. (eds.): Historical Studies in Information Science. Medford, NJ: Information Today, Inc. (pp.&nbsp;173–180). 
+       Woledge, G. (1983). Bibliography and Documentation - Words and Ideas. Journal of Documentation, 39(4), 266-279. 
+       Ørom, Anders (2007). The concept of information versus the concept of document. IN: Document (re)turn. Contributions from a research field in transition. Ed. By Roswitha Skare, Niels Windfeld Lund &amp; Andreas Vårheim. Frankfurt am Main: Peter Lang. (pp.&nbsp;53–72).
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Documentation_science&amp;oldid=1057169290"
+     
+     
+    
+     
+      Categories: 
+      
+       Information science
+       Library science
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with short description
+       Short description matches Wikidata
+       Articles lacking in-text citations from January 2014
+       All articles lacking in-text citations
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Català
+       Čeština
+       Deutsch
+       Español
+       Français
+       Hrvatski
+       Italiano
+       Norsk bokmål
+       Norsk nynorsk
+       Română
+       Slovenščina
+       Suomi
+       Українська
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 25 November 2021, at 22:10&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

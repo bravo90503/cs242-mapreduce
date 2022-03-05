@@ -1,0 +1,756 @@
+
+ 
+  
+   
+  Wikipedia:Please clarify - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+     
+     
+    
+   Wikipedia:Please clarify 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+        
+      
+       Wikipedia information page
+      
+      
+       
+        
+         
+         
+          
+           This is an information page.
+           
+           
+            It is not one of Wikipedia's policies or guidelines, but rather intends to describe some aspect(s) of the Wikipedia:Writing better articles guideline. It may reflect varying levels of consensus and vetting.
+           
+          
+         
+          
+           
+          
+          
+           
+            Shortcuts
+           
+           
+            WP:CLARIFY
+            WP:CONFUSE
+           
+          
+        
+       
+       
+      The aim of this page is to describe ways to clarify text or request such clarification. There are inline cleanup tags to flag specific wording that is likely to be confusing to the average reader.  
+      
+       
+       
+        Contents
+        
+        
+        1 When you need to flag unclear text 
+        2 How to mark articles for clarification 
+        3 How to improve articles that need clarification 
+        4 Specific clarification 
+        5 See also 
+          
+          5.1 Related inline templates 
+          5.2 Message-box templates 
+          5.3 Related pages 
+           
+        6 References 
+        
+       
+      When you need to flag unclear text 
+      It is always best to take care of something when you notice it, but that is not always possible. You can choose one of these templates that tag text with inline messages to request specific clarifications that you cannot provide yourself:  
+      
+       } to mark individual phrases or sentences 
+       } to mark sections (or entire articles, though this is undesirable because it makes it unclear what exactly needs to be improved) 
+       } to mark a term as ambiguous or unclear and in need of a definition 
+       } to mark individual phrases or sentences which require examples for clarification 
+       } to mark individual phrases or sections which require further explanation for general (i.e. non-expert) readers 
+       } to mark individual mentions of someone or something in an out-of-context way, the relevance of which is unclear
+       
+      When using these templates, be specific: mark individual phrases, sentences, and sections in preference to entire articles. Also be sure to leave specific suggestions for improvement on the article's talk-page. 
+      The templates' pages will almost always have additional documentation on usage and parameters. If not, you can leave a message on the template's talk page requesting such information be added.  
+      How to mark articles for clarification 
+      
+       To ask for clarification for a particular phrase or sentence, simply type } or } (after the phrase or sentence) to display a superscripted tag (the tag will link here):
+       
+      
+       
+        
+         
+          This is a confusing sentence, which needs readers to apply much energy and time in order to understand the implicit meanings behind it, and needs to be clarified/rewritten.
+         
+        
+       
+       
+      
+       To ask for further explanation of a point made in a particular phrase or sentence, simply type } or } (after the phrase or sentence) to display a superscripted tag (the tag will link here):
+       
+      
+       
+        
+         
+          This sentence contains unexplained jargon.
+         
+        
+       
+       
+      
+       To ask for clarification for a particular section, simply type } at the top of the section, to generate the following tag-box:
+       
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This section may be confusing or unclear to readers. Please help clarify the section. There might be a discussion about this on the talk page. (July 2019) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      
+       
+        then update the article's talk page with specific aspects to be improved.
+       
+       
+      
+       To ask for clarification for an entire article, consider first whether it would be more productive to tag individual phrases, sentences, or sections with }. If you cannot identify specific parts of the article that need clarification, write what aspects of the article you believe need clarification on the article's talk page before tagging the entire article with }.
+       
+      How to improve articles that need clarification 
+      
+       Explain jargon: Define technical terms: 
+        
+         Add a brief definition when first using new terms, like: blog (a web log of journal entries) 
+         Add a link to an unfamiliar topic 
+         Define extra terms early (such as: Related terms include:) 
+         Explain regional variations and the slang of certain professions (e.g. "Massachusetts rotary")
+         
+       Could it be shorter?: Some guidelines which often help: 
+        
+         Delete extraneous rambling words (especially weasel words and/or peacock terms) 
+         Replace clauses with adverbs (to limit prepositions to about four per sentence) 
+         Replace longer words with shorter words 
+         Split long sentences into shorter sentences (again, four prepositions per sentence) 
+         Use idioms, or familiar phrases: rather than "electron flow field" use "electric current"; replace "computer program text" with "source code"; idioms seem simpler: as in "viewpoint" vs. "idiosyncratic approach to the perceived issue"
+        
+       
+      
+       
+        Compare two sentences: "Notwithstanding the controversy, she, with practiced skill, proceeded to navigate MegaX Corporation through difficult financial straits" versus "Despite the controversy, she navigated MegaX through difficult financial straits" (two prepositions, and note the removal of non-neutral assessment).
+       
+       
+      
+       Add a diagram or photo: Complex text might be illustrated by a diagram. Wikimedia Commons also has over 12 million images, which can be searched (such as for "galaxy"). Even if the image or diagram is not exact, mention extra details in the caption-area, or use Template:Superimpose or Template:Location map to overlay a custom label/symbol onto an image. 
+       Add a wikitable or list: Multi-column wikitables could clarify groups of data; however, simple lists (with colon-asterisk ":*" bullets) might be enough. See: spark plug, with a list of risks/benefits. 
+       Make it clear what's happening and to what: A common example is a vague pronoun reference: "Emily was friends with Francine until she changed her job" (vague: Who changed jobs? Pronoun "she" equally applies to both). Also referring back to a list but not specifying the entry. 
+       Use specific wording rather than vague whenever possible: For example, instead of saying, "in the old days", specify the time period you are referring to (say, the 19th century, or the 1960s). 
+        
+         Similarly, do not reference "now": the word "Recently" or "Soon" or their synonyms will become meaningless quickly. Use "As of" or a specific date.
+         
+       Make sure you're using the right word(s): In one of the great critiques of a fellow author, Mark Twain listed eighteen rules of writing romantic fiction violated by James Fenimore Cooper. Besides the criticism of Cooper's characterisation and plot, Twain also said that a writer should: 
+        
+         Avoid slovenliness of form 
+         Employ a simple and straightforward style 
+         Eschew surplusage (see KISS principle) 
+         Not omit necessary details 
+         Say what he is proposing to say, not merely come near it. (Avoid euphemisms; we don't have to bowdlerize) 
+         Use good grammar 
+         Use the right word, not its second cousin
+         
+       Check your intent: Wikipedia is a place to inform and to educate. It is not a technical journal. Information from technical journals might need to be reduced to short sentences (four prepositions), because some journals encourage writing multi-level sentences spanning fifteen lines, with sub-sub-clauses. 
+       Check your spelling: Usually misspelled words are obvious in their intent (e.g., "Qualty" is obviously "Quality"), however "Tedting" could be "Testing" or "Texting" (or "editing"). If it is not actually misspelled, or it is intended to be so, use the } template. 
+       Make use of headings: A huge block of text can be daunting, but dividing it into sections, and subsections, can organize a logical structure onto the text, separating statements into each grouped section.
+       
+      Specific clarification 
+      There are some common situations where use of a more specific clarification template might make the desired clarification clearer. A common case is an article citing a scientific measurement without indicating how the measurement was taken. For example, the following statement about solar intensity at the earth's surface without specifying the sun's elevation could be annotated with the following tag:  
+      
+       The following tag links to a Wikipedia project to clear bias based on the source of the information:
+       
+      
+       
+        
+         
+          "The sun's intensity is 90 watts per square meter."
+         
+        
+       
+       
+      See also 
+      
+       }
+       
+      Related inline templates 
+      
+       } 
+       } 
+       } 
+       } 
+       } 
+       } 
+       } 
+       }
+       
+      Message-box templates 
+      
+       } 
+       } 
+       } 
+       }
+       
+      Related pages 
+      
+       Wikipedia:Citing sources 
+       Wikipedia:Expert help 
+       Wikipedia:Explain jargon 
+       Wikipedia:Template messages/Cleanup for an overview of clean-up templates of various formats
+       
+      References 
+      
+       
+       
+         
+         ^ Fenimore Cooper's Literary Offences by Mark Twain  
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Inline cleanup tags
+           
+         
+         
+          Attribution
+          
+            
+            
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             }
+             
+           
+         
+         
+          Clarity
+          
+            
+            
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             }
+             
+           
+         
+         
+          Miscellaneous
+          
+            
+            
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             }
+             
+           
+         
+         
+          Neutrality
+          
+            
+            
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             }
+             
+           
+         
+         
+          Precision
+          
+           
+           
+            
+             
+              
+                
+                
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 }
+                 
+               
+             
+             
+              Excessive
+              
+                
+                
+                 } 
+                 } 
+                 } 
+                 } 
+                 }
+                 
+               
+             
+            
+           
+           
+         
+         
+          Time-sensitivity
+          
+            
+            
+             } 
+             } 
+             } 
+             } 
+             } 
+             } 
+             }
+             
+           
+         
+         
+          Verifiability
+          
+           
+           
+            
+             
+              Dubious
+              
+                
+                
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 }
+                 
+               
+             
+             
+              Incomplete orbroken citation
+              
+                
+                
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 }
+                 
+               
+             
+             
+              Missing orproblematicreference
+              
+                
+                
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 } 
+                 }
+                 
+               
+             
+            
+           
+           
+         
+         
+          Wording
+          
+            
+            
+             } 
+             } 
+             } 
+             } 
+             } 
+             }
+             
+           
+         
+         
+          General advice
+          
+            
+            
+             Citing sources 
+             Reliable sources 
+             Maintenance template removal 
+             Citation needed 
+             Find sources 
+             Combining sources 
+             Referencing styles
+             
+           
+         
+         
+          
+            
+            
+              Inline cleanup templates 
+             &nbsp;WikiProject Inline Templates
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Please_clarify&amp;oldid=1035996598"
+     
+     
+    
+     
+      Categories: 
+      
+       Wikipedia information pages
+       Wikipedia how-to
+      
+     
+     
+      Hidden categories: 
+      
+       Wikipedia semi-protected project pages
+       Wikipedia move-protected project pages
+       Project pages with short description
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Project page
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        <a href="/w/index.php?title=Wikipedia:Please_clarify&amp;action=edit" title="This page is protected.
+You can view its source " accesskey="e">View source
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Español
+       فارسی
+       Français
+       Bahasa Indonesia
+       Italiano
+       ଓଡ଼ିଆ
+       Português
+       සිංහල
+       Slovenčina
+       Slovenščina
+       Српски / srpski
+       Türkçe
+       Tiếng Việt
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 28 July 2021, at 21:39&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+    
+ 

@@ -1,0 +1,1240 @@
+
+ 
+  
+   
+  Neuroimaging - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Neuroimaging 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+      
+       This article is about imaging. For imagery and creating maps, see Brain mapping and Outline of brain mapping.
+       
+      
+      
+       
+        
+         Neuroimaging
+        
+        
+         
+          
+           Para-sagittal MRI of the head in a patient with benign familial macrocephaly.
+          
+        
+        
+         Purpose
+         indirectly(directly) image structure, function/pharmacology of the nervous system
+        
+       
+       
+      Neuroimaging is the use of quantitative (computational) techniques to study the structure and function of the central nervous system, developed as an objective way of scientifically studying the healthy human brain in a non-invasive manner (e.g. SPM FSL AFNI). Increasingly it is also being used for quantitative studies of brain disease and psychiatric illness. Neuroimaging is a highly multidisciplinary research field and is not a medical specialty. 
+      Neuroimaging differs from neuroradiology which is a medical specialty and uses brain imaging in a clinical setting. Neuroradiology is practiced by radiologists who are medical practitioners. Neuroradiology primarily focuses on identifying brain lesions, such as vascular disease, strokes, tumors and inflammatory disease. In contrast to neuroimaging, neuroradiology is qualitative (based on subjective impressions and extensive clinical training) but sometimes uses basic quantitative methods. Functional brain imaging techniques, such as functional magnetic resonance imaging (fMRI), are common in neuroimaging but rarely used in neuroradiology. Neuroimaging falls into two broad categories:  
+      
+       Structural imaging, which is used to quantify brain structure using e,g, voxel based morphometry. 
+       Functional imaging, which is used to study brain function, often using fMRI and other techniques such as PET and MEG (see below).
+       
+      
+       
+       
+        Contents
+        
+        
+        1 History 
+        2 Indications 
+        3 Brain-imaging techniques 
+          
+          3.1 Computed axial tomography 
+          3.2 Diffuse optical imaging 
+          3.3 Event-related optical signal 
+          3.4 Magnetic resonance imaging 
+          3.5 Functional magnetic resonance imaging 
+          3.6 Magnetoencephalography 
+          3.7 Positron emission tomography 
+          3.8 Single-photon emission computed tomography 
+          3.9 Cranial ultrasound 
+          3.10 Functional ultrasound imaging 
+          3.11 Quantum optically-pumped magnetometer 
+           
+        4 Advantages and concerns of neuroimaging techniques 
+          
+          4.1 Functional Magnetic Resonance Imaging (fMRI) 
+          4.2 Computed Tomography (CT) scan 
+          4.3 Positron Emission Tomography (PET) 
+          4.4 Magnetoencephalography (MEG) and Electroencephalography (EEG) 
+           
+        5 See also 
+        6 References 
+        7 External links 
+        
+       
+      History 
+      
+      
+       Main article: History of neuroimaging
+       
+      
+       
+         
+        
+         
+          
+         Functional magnetic resonance imaging (fMRI) of a head, from top to base of the skull
+        
+       
+       
+      The first chapter of the history of neuroimaging traces back to the Italian neuroscientist Angelo Mosso who invented the 'human circulation balance', which could non-invasively measure the redistribution of blood during emotional and intellectual activity. 
+      In 1918, the American neurosurgeon Walter Dandy introduced the technique of ventriculography. X-ray images of the ventricular system within the brain were obtained by injection of filtered air directly into one or both lateral ventricles of the brain. Dandy also observed that air introduced into the subarachnoid space via lumbar spinal puncture could enter the cerebral ventricles and also demonstrate the cerebrospinal fluid compartments around the base of the brain and over its surface. This technique was called pneumoencephalography. 
+      In 1927, Egas Moniz introduced cerebral angiography, whereby both normal and abnormal blood vessels in and around the brain could be visualized with great precision. 
+      In the early 1970s, Allan McLeod Cormack and Godfrey Newbold Hounsfield introduced computerized axial tomography (CAT or CT scanning), and ever more detailed anatomic images of the brain became available for diagnostic and research purposes. Cormack and Hounsfield won the 1979 Nobel Prize for Physiology or Medicine for their work. Soon after the introduction of CAT in the early 1980s, the development of radioligands allowed single-photon emission computed tomography (SPECT) and positron emission tomography (PET) of the brain. 
+      More or less concurrently, magnetic resonance imaging (MRI or MR scanning) was developed by researchers including Peter Mansfield and Paul Lauterbur, who were awarded the Nobel Prize for Physiology or Medicine in 2003. In the early 1980s MRI was introduced clinically, and during the 1980s a veritable explosion of technical refinements and diagnostic MR applications took place. Scientists soon learned that the large blood flow changes measured by PET could also be imaged by the correct type of MRI. Functional magnetic resonance imaging (fMRI) was born, and since the 1990s, fMRI has come to dominate the brain mapping field due to its low invasiveness, lack of radiation exposure, and relatively wide availability. 
+      In the early 2000s, the field of neuroimaging reached the stage where limited practical applications of functional brain imaging have become feasible. The main application area is crude forms of brain–computer interface.  
+      Indications 
+      Neuroradiology follows a neurological examination in which a physician has found cause to more deeply investigate a patient who has or may have a neurological disorder. 
+      One of the more common neurological problems which a person may experience is simple syncope. In cases of simple syncope in which the patient's history does not suggest other neurological symptoms, the diagnosis includes a neurological examination but routine neurological imaging is not indicated because the likelihood of finding a cause in the central nervous system is extremely low and the patient is unlikely to benefit from the procedure. 
+      Neuroradiology is not indicated for patients with stable headaches which are diagnosed as migraine. Studies indicate that presence of migraine does not increase a patient's risk for intracranial disease. A diagnosis of migraine which notes the absence of other problems, such as papilledema, would not indicate a need for radiological investigations. In the course of conducting a careful diagnosis, the physician should consider whether the headache has a cause other than the migraine and might require radiological investigations. 
+      Another indication for meuroradiology is CT-, MRI- and PET-guided stereotactic surgery or radiosurgery for treatment of intracranial tumors, arteriovenous malformations and other surgically treatable conditions.  
+      Brain-imaging techniques 
+      Computed axial tomography 
+      
+      
+       Main article: CT head
+       
+      Computed tomography (CT) or Computed Axial Tomography (CAT) scanning uses a series of x-rays of the head taken from many different directions. Typically used for quickly viewing brain injuries, CT scanning uses a computer program that performs a numerical integral calculation (the inverse Radon transform) on the measured x-ray series to estimate how much of an x-ray beam is absorbed in a small volume of the brain. Typically the information is presented as cross-sections of the brain.  
+      Diffuse optical imaging 
+      Diffuse optical imaging (DOI) or diffuse optical tomography (DOT) is a medical imaging modality which uses near infrared light to generate images of the body. The technique measures the optical absorption of haemoglobin, and relies on the absorption spectrum of haemoglobin varying with its oxygenation status. High-density diffuse optical tomography (HD-DOT) has been compared directly to fMRI using response to visual stimulation in subjects studied with both techniques, with reassuringly similar results. HD-DOT has also been compared to fMRI in terms of language tasks and resting state functional connectivity.  
+      Event-related optical signal 
+      Event-related optical signal (EROS) is a brain-scanning technique which uses infrared light through optical fibers to measure changes in optical properties of active areas of the cerebral cortex. Whereas techniques such as diffuse optical imaging (DOT) and near-infrared spectroscopy (NIRS) measure optical absorption of haemoglobin, and thus are based on blood flow, EROS takes advantage of the scattering properties of the neurons themselves and thus provides a much more direct measure of cellular activity. EROS can pinpoint activity in the brain within millimeters (spatially) and within milliseconds (temporally). Its biggest downside is the inability to detect activity more than a few centimeters deep. EROS is a new, relatively inexpensive technique that is non-invasive to the test subject. It was developed at the University of Illinois at Urbana-Champaign where it is now used in the Cognitive Neuroimaging Laboratory of Dr. Gabriele Gratton and Dr. Monica Fabiani.  
+      Magnetic resonance imaging 
+      
+      
+       Main article: Magnetic resonance imaging of the brain
+       
+      
+       
+         
+        
+         
+          
+         Sagittal MRI slice at the midline
+        
+       
+       
+      Magnetic resonance imaging (MRI) uses magnetic fields and radio waves to produce high quality two- or three-dimensional images of brain structures without the use of ionizing radiation (X-rays) or radioactive tracers. 
+      the record for the highest spatial resolution of a whole intact brain (postmortem) is 100 microns, from Massachusetts General Hospital. The data was published in NATURE on 30 October 2019.  
+      Functional magnetic resonance imaging 
+      
+       
+         
+        
+         Axial MRI slice at the level of the basal ganglia, showing fMRI BOLD signal changes overlaid in red (increase) and blue (decrease) tones.
+        
+       
+       
+      Functional magnetic resonance imaging (fMRI) and arterial spin labeling (ASL) relies on the paramagnetic properties of oxygenated and deoxygenated hemoglobin to see images of changing blood flow in the brain associated with neural activity. This allows images to be generated that reflect which brain structures are activated (and how) during the performance of different tasks or at resting state. According to the oxygenation hypothesis, changes in oxygen usage in regional cerebral blood flow during cognitive or behavioral activity can be associated with the regional neurons as being directly related to the cognitive or behavioral tasks being attended. 
+      Most fMRI scanners allow subjects to be presented with different visual images, sounds and touch stimuli, and to make different actions such as pressing a button or moving a joystick. Consequently, fMRI can be used to reveal brain structures and processes associated with perception, thought and action. The resolution of fMRI is about 2-3 millimeters at present, limited by the spatial spread of the hemodynamic response to neural activity. It has largely superseded PET for the study of brain activation patterns. PET, however, retains the significant advantage of being able to identify specific brain receptors (or transporters) associated with particular neurotransmitters through its ability to image radiolabeled receptor "ligands" (receptor ligands are any chemicals that stick to receptors). 
+      As well as research on healthy subjects, fMRI is increasingly used for the medical diagnosis of disease. Because fMRI is exquisitely sensitive to oxygen usage in blood flow, it is extremely sensitive to early changes in the brain resulting from ischemia (abnormally low blood flow), such as the changes which follow stroke. Early diagnosis of certain types of stroke is increasingly important in neurology, since substances which dissolve blood clots may be used in the first few hours after certain types of stroke occur, but are dangerous to use afterward. Brain changes seen on fMRI may help to make the decision to treat with these agents. With between 72% and 90% accuracy where chance would achieve 0.8%, fMRI techniques can decide which of a set of known images the subject is viewing.  
+      Magnetoencephalography 
+      Magnetoencephalography (MEG) is an imaging technique used to measure the magnetic fields produced by electrical activity in the brain via extremely sensitive devices such as superconducting quantum interference devices (SQUIDs) or spin exchange relaxation-free (SERF) magnetometers. MEG offers a very direct measurement of neural electrical activity (compared to fMRI for example) with very high temporal resolution but relatively low spatial resolution. The advantage of measuring the magnetic fields produced by neural activity is that they are likely to be less distorted by surrounding tissue (particularly the skull and scalp) compared to the electric fields measured by electroencephalography (EEG). Specifically, it can be shown that magnetic fields produced by electrical activity are not affected by the surrounding head tissue, when the head is modeled as a set of concentric spherical shells, each being an isotropic homogeneous conductor. Real heads are non-spherical and have largely anisotropic conductivities (particularly white matter and skull). While skull anisotropy has a negligible effect on MEG (unlike EEG), white matter anisotropy strongly affects MEG measurements for radial and deep sources. Note, however, that the skull was assumed to be uniformly anisotropic in this study, which is not true for a real head: the absolute and relative thicknesses of diploë and tables layers vary among and within the skull bones. This makes it likely that MEG is also affected by the skull anisotropy, although probably not to the same degree as EEG. 
+      There are many uses for MEG, including assisting surgeons in localizing a pathology, assisting researchers in determining the function of various parts of the brain, neurofeedback, and others.  
+      Positron emission tomography 
+      Positron emission tomography (PET) and brain positron emission tomography, measure emissions from radioactively labeled metabolically active chemicals that have been injected into the bloodstream. The emission data are computer-processed to produce 2- or 3-dimensional images of the distribution of the chemicals throughout the brain.: 57  The positron emitting radioisotopes used are produced by a cyclotron, and chemicals are labeled with these radioactive atoms. The labeled compound, called a radiotracer, is injected into the bloodstream and eventually makes its way to the brain. Sensors in the PET scanner detect the radioactivity as the compound accumulates in various regions of the brain. A computer uses the data gathered by the sensors to create multicolored 2- or 3-dimensional images that show where the compound acts in the brain. Especially useful are a wide array of ligands used to map different aspects of neurotransmitter activity, with by far the most commonly used PET tracer being a labeled form of glucose (see Fludeoxyglucose (18F) (FDG)). 
+      The greatest benefit of PET scanning is that different compounds can show blood flow and oxygen and glucose metabolism in the tissues of the working brain. These measurements reflect the amount of brain activity in the various regions of the brain and allow to learn more about how the brain works. PET scans were superior to all other metabolic imaging methods in terms of resolution and speed of completion (as little as 30 seconds) when they first became available. The improved resolution permitted better study to be made as to the area of the brain activated by a particular task. The biggest drawback of PET scanning is that because the radioactivity decays rapidly, it is limited to monitoring short tasks.: 60  Before fMRI technology came online, PET scanning was the preferred method of functional (as opposed to structural) brain imaging, and it continues to make large contributions to neuroscience. 
+      PET scanning is also used for diagnosis of brain disease, most notably because brain tumors, strokes, and neuron-damaging diseases which cause dementia (such as Alzheimer's disease) all cause great changes in brain metabolism, which in turn causes easily detectable changes in PET scans. PET is probably most useful in early cases of certain dementias (with classic examples being Alzheimer's disease and Pick's disease) where the early damage is too diffuse and makes too little difference in brain volume and gross structure to change CT and standard MRI images enough to be able to reliably differentiate it from the "normal" range of cortical atrophy which occurs with aging (in many but not all) persons, and which does not cause clinical dementia.  
+      Single-photon emission computed tomography 
+      Single-photon emission computed tomography (SPECT) is similar to PET and uses gamma ray-emitting radioisotopes and a gamma camera to record data that a computer uses to construct two- or three-dimensional images of active brain regions. SPECT relies on an injection of radioactive tracer, or "SPECT agent," which is rapidly taken up by the brain but does not redistribute. Uptake of SPECT agent is nearly 100% complete within 30 to 60 seconds, reflecting cerebral blood flow (CBF) at the time of injection. These properties of SPECT make it particularly well-suited for epilepsy imaging, which is usually made difficult by problems with patient movement and variable seizure types. SPECT provides a "snapshot" of cerebral blood flow since scans can be acquired after seizure termination (so long as the radioactive tracer was injected at the time of the seizure). A significant limitation of SPECT is its poor resolution (about 1&nbsp;cm) compared to that of MRI. Today, SPECT machines with Dual Detector Heads are commonly used, although Triple Detector Head machines are available in the marketplace. Tomographic reconstruction, (mainly used for functional "snapshots" of the brain) requires multiple projections from Detector Heads which rotate around the human skull, so some researchers have developed 6 and 11 Detector Head SPECT machines to cut imaging time and give higher resolution. 
+      Like PET, SPECT also can be used to differentiate different kinds of disease processes which produce dementia, and it is increasingly used for this purpose. Neuro-PET has a disadvantage of requiring the use of tracers with half-lives of at most 110 minutes, such as FDG. These must be made in a cyclotron, and are expensive or even unavailable if necessary transport times are prolonged more than a few half-lives. SPECT, however, is able to make use of tracers with much longer half-lives, such as technetium-99m, and as a result, is far more widely available.  
+      Cranial ultrasound 
+      Cranial ultrasound is usually only used in babies, whose open fontanelles provide acoustic windows allowing ultrasound imaging of the brain. Advantages include the absence of ionising radiation and the possibility of bedside scanning, but the lack of soft-tissue detail means MRI is preferred for some conditions.  
+      Functional ultrasound imaging 
+      Functional ultrasound imaging (fUS) is a medical ultrasound imaging technique of detecting or measuring changes in neural activities or metabolism, for example, the loci of brain activity, typically through measuring blood flow or hemodynamic changes. Functional ultrasound relies on Ultrasensitive Doppler and ultrafast ultrasound imaging which allows high sensitivity blood flow imaging.  
+      Quantum optically-pumped magnetometer 
+      
+      
+       See also: Magnetometer
+       
+      In June 2021, researchers reported the development of the first modular quantum brain scanner which uses magnetic imaging and could become a novel whole-brain scanning approach.  
+      Advantages and concerns of neuroimaging techniques 
+      Functional Magnetic Resonance Imaging (fMRI)
+       fMRI is commonly classified as a minimally-to-moderate risk due to its non-invasiveness compared to other imaging methods. fMRI uses blood oxygenation level dependent (BOLD)-contrast in order to produce its form of imaging. BOLD-contrast is a naturally occurring process in the body so fMRI is often preferred over imaging methods that require radioactive markers to produce similar imaging. A concern in the use of fMRI is its use in individuals with medical implants or devices and metallic items in the body. The magnetic resonance (MR) emitted from the equipment can cause failure of medical devices and attract metallic objects in the body if not properly screened for. Currently, the FDA classifies medical implants and devices into three categories, depending on MR-compatibility: MR-safe (safe in all MR environments), MR-unsafe (unsafe in any MR environment), and MR-conditional (MR-compatible in certain environments, requiring further information).
+       
+       FDA MR safety labels for implants and devices 
+       
+         
+         
+          
+           
+          
+          
+          
+          MR Safe  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          MR Conditional  
+          
+         
+       
+         
+         
+          
+           
+          
+          
+          
+          MR Unsafe  
+          
+         
+       
+      Computed Tomography (CT) scan 
+      The CT scan was introduced in the 1970s and quickly became one of the most widely used methods of imaging. A CT scan can be performed in under a second and produce rapid results for clinicians, with its ease of use leading to an increase in CT scans performed in the United States from 3 million in 1980 to 62 million in 2007. Clinicians oftentimes take multiple scans, with 30% of individuals undergoing at least 3 scans in one study of CT scan usage. CT scans can expose patients to levels of radiation 100-500 times higher than traditional x-rays, with higher radiation doses producing better resolution imaging. While easy to use, increases in CT scan use, especially in asymptomatic patients, is a topic of concern since patients are exposed to significantly high levels of radiation.  
+      Positron Emission Tomography (PET) 
+      In PET scans, imaging does not rely on intrinsic biological processes, but relies on a foreign substance injected into the bloodstream traveling to the brain. Patients are injected with radioisotopes that are metabolized in the brain and emit positrons to produce a visualization of brain activity. The amount of radiation a patient is exposed to in a PET scan is relatively small, comparable to the amount of environmental radiation an individual is exposed to across a year. PET radioisotopes have limited exposure time in the body as they commonly have very short half-lives (~2 hours) and decay rapidly. Currently, fMRI is a preferred method of imaging brain activity compared to PET, since it does not involve radiation, has a higher temporal resolution than PET, and is more readily available in most medical settings.  
+      Magnetoencephalography (MEG) and Electroencephalography (EEG) 
+      The high temporal resolution of MEG and EEG allow these methods to measure brain activity down to the millisecond. Both MEG and EEG do not require exposure of the patient to radiation to function. EEG electrodes detect electrical signals produced by neurons to measure brain activity and MEG uses oscillations in the magnetic field produced by these electrical currents to measure activity. A barrier in the widespread usage of MEG is due to pricing, as MEG systems can cost millions of dollars. EEG is a much more widely used method to achieve such temporal resolution as EEG systems cost much less than MEG systems. A disadvantage of EEG and MEG is that both methods have poor spatial resolution when compared to fMRI.  
+      See also 
+      
+       
+        
+        Medicine portal
+       
+       
+      
+       
+       
+        Brain mapping 
+         
+          Outline of brain mapping
+          
+        Connectogram 
+        Functional integration (neurobiology) 
+        Functional near-infrared spectroscopy 
+        Functional neuroimaging 
+        History of neuroimaging 
+        Human brain 
+         
+          Cognitive neuroscience 
+          Outline of the human brain
+          
+        List of neuroimaging software 
+        List of neuroscience databases 
+        Magnetic resonance imaging 
+        Magnetoencephalography 
+        Medical image computing 
+        Medical imaging 
+        Neuroimaging journals 
+        Statistical parametric mapping 
+        Transcranial magnetic stimulation 
+        Voxel-based morphometry
+        
+       
+      References 
+      
+       
+        
+        ^ Sandrone S, Bacigaluppi M, Galloni MR, Martino G (November 2012). "Angelo Mosso (1846-1910)". Journal of Neurology. 259 (11): 2513–4. doi:10.1007/s00415-012-6632-1. hdl:2318/140004. PMID&nbsp;23010944. S2CID&nbsp;13365830.  
+        ^ 
+          Miller TH, Kruse JE (October 2005). "Evaluation of syncope". American Family Physician. 72 (8): 1492–500. PMID&nbsp;16273816.  
+        ^ a b 
+          American College of Physicians (September 2013), "Five Things Physicians and Patients Should Question", Choosing Wisely: an initiative of the ABIM Foundation, American College of Physicians, retrieved 10 December 2013, which cites 
+          
+           
+            American College of Radiology; American Society of Neuroradiology (2010), "ACR-ASNR practice guideline for the performance of computed tomography (CT) of the brain", Agency for Healthcare Research and Quality, Reston, VA, USA: American College of Radiology, archived from the original on 15 September 2012, retrieved 9 September 2012 
+           
+            Transient loss of consciousness in adults and young people: NICE guideline, National Institute for Health and Clinical Excellence, 25 August 2010, retrieved 9 September 2012 
+           
+            Moya A, Sutton R, Ammirati F, Blanc JJ, Brignole M, Dahm JB, Deharo JC, Gajek J, Gjesdal K, Krahn A, Massin M, Pepi M, Pezawas T, Ruiz Granell R, Sarasin F, Ungar A, van Dijk JG, Walma EP, Wieling W (November 2009). "Guidelines for the diagnosis and management of syncope (version 2009)". European Heart Journal. 30 (21): 2631–71. doi:10.1093/eurheartj/ehp298. PMC&nbsp;3295536. PMID&nbsp;19713422.
+            
+        ^ a b c d 
+          American Headache Society (September 2013), "Five Things Physicians and Patients Should Question", Choosing Wisely: an initiative of the ABIM Foundation, American Headache Society, archived from the original on 3 December 2013, retrieved 10 December 2013, which cites 
+          
+           
+            Lewis DW, Dorbad D (September 2000). "The utility of neuroimaging in the evaluation of children with migraine or chronic daily headache who have normal neurological examinations". Headache. 40 (8): 629–32. doi:10.1046/j.1526-4610.2000.040008629.x. PMID&nbsp;10971658. S2CID&nbsp;14443890. 
+           
+            Silberstein SD (September 2000). "Practice parameter: evidence-based guidelines for migraine headache (an evidence-based review): report of the Quality Standards Subcommittee of the American Academy of Neurology". Neurology. 55 (6): 754–62. doi:10.1212/WNL.55.6.754. PMID&nbsp;10993991. 
+           
+            "Neuroimaging for the evaluation of chronic headaches: an evidence-based analysis". Ontario Health Technology Assessment Series. 10 (26): 1–57. 2010. PMC&nbsp;3377587. PMID&nbsp;23074404.
+            
+        ^ 
+          Thomas DG, Anderson RE, du Boulay GH (January 1984). "CT-guided stereotactic neurosurgery: experience in 24 cases with a new stereotactic system". Journal of Neurology, Neurosurgery, and Psychiatry. 47 (1): 9–16. doi:10.1136/jnnp.47.1.9. PMC&nbsp;1027634. PMID&nbsp;6363629.  
+        ^ 
+          Heilbrun MP, Sunderland PM, McDonald PR, Wells TH, Cosman E, Ganz E (1987). "Brown-Roberts-Wells stereotactic frame modifications to accomplish magnetic resonance imaging guidance in three planes". Applied Neurophysiology. 50 (1–6): 143–52. doi:10.1159/000100700. PMID&nbsp;3329837.  
+        ^ 
+          Leksell L, Leksell D, Schwebel J (January 1985). "Stereotaxis and nuclear magnetic resonance". Journal of Neurology, Neurosurgery, and Psychiatry. 48 (1): 14–8. doi:10.1136/jnnp.48.1.14. PMC&nbsp;1028176. PMID&nbsp;3882889.  
+        ^ 
+          Levivier M, Massager N, Wikler D, Lorenzoni J, Ruiz S, Devriendt D, David P, Desmedt F, Simon S, Van Houtte P, Brotchi J, Goldman S (July 2004). "Use of stereotactic PET images in dosimetry planning of radiosurgery for brain tumors: clinical experience and proposed classification". Journal of Nuclear Medicine. 45 (7): 1146–54. PMID&nbsp;15235060.  
+        ^ 
+          Jeeves MA (1994). Mind Fields: Reflections on the Science of Mind and Brain. Grand Rapids, MI: Baker Books. p.&nbsp;21.  
+        ^ 
+          Eggebrecht AT, White BR, Ferradal SL, Chen C, Zhan Y, Snyder AZ, Dehghani H, Culver JP (July 2012). "A quantitative spatial comparison of high-density diffuse tomography and fMRI cortical mapping". NeuroImage. 61 (4): 1120–8. doi:10.1016/j.neuroimage.2012.01.124. PMC&nbsp;3581336. PMID&nbsp;22330315.  
+        ^ 
+          Eggebrecht AT, Ferradal SL, Robichaux-Viehoever A, Hassanpour MS, Dehghani H, Snyder AZ, Hershey T, Culver JP (June 2014). "Mapping distributed brain function and networks with diffuse optical tomography". Nature Photonics. 8 (6): 448–454. Bibcode:2014NaPho...8..448E. doi:10.1038/nphoton.2014.107. PMC&nbsp;4114252. PMID&nbsp;25083161.  
+        ^ 
+          Dockrill, Peter. "100-Hour-Long MRI of Human Brain Produces Most Detailed 3D Images Yet". www.sciencealert.com.  
+        ^ 
+          Hospital, Massachusetts General. "Team publishes on highest resolution brain MRI scan". medicalxpress.com.  
+        ^ 
+          Smith K (March 5, 2008). "Mind-reading with a brain scan". Nature News. Nature Publishing Group. Retrieved 2008-03-05.  
+        ^ 
+          Keim B (March 5, 2008). "Brain Scanner Can Tell What You're Looking At". Wired News. CondéNet. Retrieved 2015-09-16.  
+        ^ 
+          Boto, Elena; Holmes, Niall; Leggett, James; Roberts, Gillian; Shah, Vishal; Meyer, Sofie S.; Muñoz, Leonardo Duque; Mullinger, Karen J.; Tierney, Tim M. (March 2018). "Moving magnetoencephalography towards real-world applications with a wearable system". Nature. 555 (7698): 657–661. Bibcode:2018Natur.555..657B. doi:10.1038/nature26147. ISSN&nbsp;1476-4687. PMC&nbsp;6063354. PMID&nbsp;29562238.  
+        ^ 
+          Wolters CH, Anwander A, Tricoche X, Weinstein D, Koch MA, MacLeod RS (April 2006). "Influence of tissue conductivity anisotropy on EEG/MEG field and return current computation in a realistic head model: a simulation and visualization study using high-resolution finite element modeling". NeuroImage. 30 (3): 813–26. doi:10.1016/j.neuroimage.2005.10.014. hdl:11858/00-001M-0000-0019-1079-8. PMID&nbsp;16364662. S2CID&nbsp;5578998.  
+        ^ 
+          Ramon C, Haueisen J, Schimpf PH (October 2006). "Influence of head models on neuromagnetic fields and inverse source localizations". BioMedical Engineering OnLine. 5 (1): 55. doi:10.1186/1475-925X-5-55. PMC&nbsp;1629018. PMID&nbsp;17059601.  
+        ^ a b 
+          Nilsson L, Markowitsch HJ (1999). Cognitive Neuroscience of Memory. Seattle: Hogrefe &amp; Huber Publishers.  
+        ^ Philip Ball Brain Imaging Explained  
+        ^ 
+          "SPECT Systems for Brain Imaging". Retrieved July 24, 2014.  
+        ^ 
+          "SPECT Brain Imaging". Retrieved January 12, 2016.  
+        ^ 
+          "Researchers build first modular quantum brain sensor, record signal". phys.org. Retrieved 11 July 2021.  
+        ^ 
+          Coussens, Thomas; Abel, Christopher; Gialopsou, Aikaterini; Bason, Mark G.; James, Tim M.; Orucevic, Fedja; Kruger, Peter (10 June 2021). "Modular optically-pumped magnetometer system". arXiv:2106.05877 . arXiv:2106.05877. Retrieved 11 July 2021.  
+        ^ a b c d 
+          Crosson B, Ford A, McGregor KM, Meinzer M, Cheshkov S, Li X, Walker-Batson D, Briggs RW (2010). "Functional imaging and related techniques: an introduction for rehabilitation researchers". Journal of Rehabilitation Research and Development. 47 (2): vii–xxxiv. doi:10.1682/jrrd.2010.02.0017. PMC&nbsp;3225087. PMID&nbsp;20593321.  
+        ^ 
+          Tsai LL, Grant AK, Mortele KJ, Kung JW, Smith MP (October 2015). "A Practical Guide to MR Imaging Safety: What Radiologists Need to Know". Radiographics. 35 (6): 1722–37. doi:10.1148/rg.2015150108. PMID&nbsp;26466181.  
+        ^ 
+          Center for Devices and Radiological Health. "MRI (Magnetic Resonance Imaging) - MRI Safety Posters". www.fda.gov. Retrieved 2018-04-10.  
+        ^ a b 
+          Brenner DJ, Hall EJ (November 2007). "Computed tomography--an increasing source of radiation exposure". The New England Journal of Medicine. 357 (22): 2277–84. doi:10.1056/NEJMra072149. PMID&nbsp;18046031.  
+        ^ 
+          Smith-Bindman R (July 2010). "Is computed tomography safe?". The New England Journal of Medicine. 363 (1): 1–4. doi:10.1056/NEJMp1002530. PMID&nbsp;20573919.  
+        ^ 
+          "What happens during a PET scan?". PubMed Health. 2016-12-30.  
+       
+       
+      External links 
+       
+       
+         
+          
+         Wikimedia Commons has media related to Neuroimaging.
+         
+       
+       
+      
+       The Whole Brain Atlas @ Harvard 
+       Lecture notes on mathematical aspects of neuroimaging by Will Penny, University College London 
+       "Transcranial Magnetic Stimulation". by Michael Leventon in association with MIT AI Lab. 
+       NeuroDebian – a complete operating system targeting neuroimaging
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Psychiatry
+           
+         
+         
+          Subspecialties
+          
+            
+            
+             Addiction psychiatry 
+             Biological psychiatry 
+             Child and adolescent psychiatry 
+             Cognitive neuropsychiatry 
+             Cross-cultural psychiatry 
+             Developmental disability 
+             Descriptive psychiatry 
+             Eating disorder 
+             Emergency psychiatry 
+             Forensic psychiatry 
+             Geriatric psychiatry 
+             Immuno-psychiatry 
+             Liaison psychiatry 
+             Military psychiatry 
+             Narcology 
+             Neuropsychiatry 
+             Palliative medicine 
+             Pain medicine 
+             Psychotherapy 
+             Sleep medicine
+             
+           
+         
+         
+          Organizations
+          
+            
+            
+             American Academy of Child and Adolescent Psychiatry 
+             American Board of Psychiatry and Neurology 
+             American Neuropsychiatric Association 
+             American Psychiatric Association 
+             Campaign Against Psychiatric Abuse 
+             Chinese Society of Psychiatry 
+             Democratic Psychiatry 
+             European Psychiatric Association 
+             Global Initiative on Psychiatry 
+             Hong Kong College of Psychiatrists 
+             Independent Psychiatric Association of Russia 
+             Indian Psychiatric Society 
+             National Institute of Mental Health 
+             Philadelphia Association 
+             Royal Australian and New Zealand College of Psychiatrists 
+             Royal College of Psychiatrists 
+             Working Commission to Investigate the Use of Psychiatry for Political Purposes 
+             World Psychiatric Association 
+             Taiwanese Society of Child and Adolescent Psychiatry
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Anti-psychiatry 
+             Behavioral medicine 
+             Clinical neuroscience 
+             Imaging genetics 
+             Neuroimaging 
+             Neurophysiology 
+             Philosophy of psychiatry 
+             Political abuse of psychiatry 
+             Insulin shock therapy 
+             Electroconvulsive therapy 
+             Pentylenetetrazol 
+             Biopsychiatry controversy 
+             Controversies about psychiatry 
+             Psychiatrist 
+             Psychiatric epidemiology 
+             Psychiatric genetics 
+             Psychiatric hospital 
+             Psychiatric survivors movement 
+             Psychosomatic medicine 
+             Psycho-oncology 
+             Psychopharmacology 
+             Psychosurgery 
+             Psychoanalysis
+             
+           
+         
+         
+          Lists
+          
+            
+            
+             Outline of the psychiatric survivors movement 
+             Psychiatrists 
+             Neurological conditions and disorders 
+             Counseling topics 
+             Psychotherapies 
+             Psychiatric medications 
+              
+               by condition treated
+              
+             
+           
+         
+         
+          
+            
+            
+              Portal 
+              Outline
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Neuroscience
+           
+         
+         
+          
+            
+            
+             Outline of neuroscience 
+             History of neuroscience
+             
+           
+         
+         
+          Basicscience
+          
+            
+            
+             Behavioral epigenetics 
+             Behavioral genetics 
+             Brain mapping 
+             Brain-reading 
+             Cellular neuroscience 
+             Computational neuroscience 
+             Connectomics 
+             Imaging genetics 
+             Integrative neuroscience 
+             Molecular neuroscience 
+             Neural decoding 
+             Neural engineering 
+             Neuroanatomy 
+             Neurochemistry 
+             Neuroendocrinology 
+             Neurogenetics 
+             Neuroinformatics 
+             Neurometrics 
+             Neuromorphology 
+             Neurophysics 
+             Neurophysiology 
+             Systems neuroscience
+             
+           
+          
+           
+            
+           
+         
+         
+          Clinicalneuroscience
+          
+            
+            
+             Behavioral neurology 
+             Clinical neurophysiology 
+             Neurocardiology 
+             Neuroepidemiology 
+             Neurogastroenterology 
+             Neuroimmunology 
+             Neurointensive care 
+             Neurology 
+             Neurooncology 
+             Neuro-ophthalmology 
+             Neuropathology 
+             Neuropharmacology 
+             Neuroprosthetics 
+             Neuropsychiatry 
+             Neuroradiology 
+             Neurorehabilitation 
+             Neurosurgery 
+             Neurotology 
+             Neurovirology 
+             Nutritional neuroscience 
+             Psychiatry
+             
+           
+         
+         
+          Cognitiveneuroscience
+          
+            
+            
+             Affective neuroscience 
+             Behavioral neuroscience 
+             Chronobiology 
+             Molecular cellular cognition 
+             Motor control 
+             Neurolinguistics 
+             Neuropsychology 
+             Sensory neuroscience 
+             Social cognitive neuroscience
+             
+           
+         
+         
+          Interdisciplinaryfields
+          
+            
+            
+             Consumer neuroscience 
+             Cultural neuroscience 
+             Educational neuroscience 
+             Evolutionary neuroscience 
+             Neuroanthropology 
+             Neurobioengineering 
+             Neurobiotics 
+             Neurocriminology 
+             Neuroeconomics 
+             Neuroepistemology 
+             Neuroesthetics 
+             Neuroethics 
+             Neuroethology 
+             Neurohistory 
+             Neurolaw 
+             Neuromarketing 
+             Neuromorphics 
+             Neurophenomenology 
+             Neurophilosophy 
+             Neuropolitics 
+             Neurorobotics 
+             Neurotheology 
+             Paleoneurobiology 
+             Social neuroscience
+             
+           
+         
+         
+          Concepts
+          
+            
+            
+             Brain–computer interface 
+             Neural development 
+             Neural network (artificial) 
+             Neural network (biological) 
+             Detection theory 
+             Intraoperative neurophysiological monitoring 
+             Neurochip 
+             Neurodegenerative disease 
+             Neurodevelopmental disorder 
+             Neurodiversity 
+             Neurogenesis 
+             Neuroimaging 
+             Neuroimmune system 
+             Neuromanagement 
+             Neuromodulation 
+             Neuroplasticity 
+             Neurotechnology 
+             Neurotoxin
+             
+           
+         
+         
+          
+            
+            
+              Category
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Tests and procedures involving the central nervous system
+           
+         
+         
+          
+           
+            Neurosurgery
+           
+         
+         
+          Skull
+          
+            
+            
+             Craniotomy 
+             Decompressive craniectomy 
+             Cranioplasty
+             
+           
+         
+         
+          Brain
+          
+           
+           
+            
+             
+              thalamus and globus pallidus
+              
+                
+                
+                 Thalamotomy 
+                 Thalamic stimulator 
+                 Pallidotomy
+                 
+               
+             
+             
+              
+               ventricular system
+              
+                
+                
+                 Cerebral shunt 
+                 Ventriculostomy 
+                 Suboccipital puncture 
+                 Intracranial pressure monitoring
+                 
+               
+             
+             
+              
+               cerebrum
+              
+                
+                
+                 Psychosurgery 
+                  
+                   Lobotomy 
+                   Bilateral cingulotomy
+                   
+                 Multiple subpial transection 
+                 Hemispherectomy 
+                 Corpus callosotomy 
+                 Anterior temporal lobectomy
+                 
+               
+             
+             
+              Other
+              
+                
+                
+                 pituitary gland 
+                  
+                   Hypophysectomy
+                   
+                 hippocampus 
+                  
+                   Amygdalohippocampectomy
+                   
+                 Brain biopsy
+                 
+               
+             
+            
+           
+           
+         
+         
+          Meninges
+          
+            
+            
+             Meningeal biopsy
+             
+           
+         
+         
+          Spinal cord and spinal canal
+          
+            
+            
+             Spinal decompression 
+             Discectomy 
+             Intervertebral disc annuloplasty 
+             Cordotomy 
+             Rhizotomy
+             
+           
+         
+         
+          Imaging
+          
+            
+            
+             Neuroimaging 
+             Head CT 
+             Cerebral angiography 
+             Pneumoencephalography 
+             Echoencephalography/Transcranial Doppler 
+             Brain MRI 
+             Brain PET 
+             Magnetoencephalography 
+             Myelography 
+             Wada test 
+             Microneurography
+             
+           
+         
+         
+          Diagnostic
+          
+            
+            
+             Electroencephalography 
+             Lumbar puncture 
+              
+               CSF tap test
+               
+             Polysomnography
+             
+           
+         
+         
+          Clinical prediction rules
+          
+            
+            
+             Glasgow Coma Scale 
+             Mini–Mental State Examination 
+             National Institutes of Health Stroke Scale 
+             CHADS2 score
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Neuroimaging&amp;oldid=1069348633"
+     
+     
+    
+     
+      Categories: 
+      
+       Neuroimaging
+       Radiology
+      
+     
+     
+      Hidden categories: 
+      
+       Pages using div col with small parameter
+       Commons category link from Wikidata
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       Català
+       Čeština
+       Deutsch
+       Español
+       فارسی
+       Français
+       한국어
+       Íslenska
+       Italiano
+       עברית
+       Magyar
+       Polski
+       Português
+       Русский
+       Shqip
+       Svenska
+       ไทย
+       Türkçe
+       Українська
+       粵語
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 1 February 2022, at 21:18&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

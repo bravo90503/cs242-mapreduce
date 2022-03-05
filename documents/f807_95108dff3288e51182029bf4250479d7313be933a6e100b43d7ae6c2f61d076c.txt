@@ -1,0 +1,349 @@
+
+ 
+  
+   
+  Ciència de la informació - Viquipèdia, l'enciclopèdia lliure 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Ciència de la informació 
+    
+    
+     De Viquipèdia
+     
+     
+     
+     Salta a la navegació Salta a la cerca 
+    
+     
+      
+       
+         
+        
+         
+          
+         Representació artística de l'interior de la Biblioteca d'Alexandria, a partir d'algunes evidències arqueològiques (O. Von Corven).
+        
+       
+       
+      La Ciència de la Informació és un camp acadèmic interdisciplinari que s'ocupa de l'anàlisi, recol·lecció, classificació, ús, emmagatzematge, recuperació, difusió i protecció de la informació. Aquestes pràctiques proporcionen l'estudi i aplicació de la informació i el coneixement en organitzacions, interacció entre persones i els sistemes d'informació per tal d'entendre els fluxos i el comportament de la informació. 
+      Acostuma a relacionar-se amb altres àrees de coneixement com l' Enginyeria en sistemes d'informació, Ciències de la computació, Ciència de dades, Ciències de la comunicació, la Museologia, Arxivística i la Biblioteconomia. La relació entre aquests conceptes es deu al fet que en aquestes àrees de coneixement, la informació és un punt de convergència, independentment de la seva mediació amb les noves tecnologies.  
+      
+       
+       
+        Contingut
+        
+        
+        1 Antecedents 
+        2 Ciències de la Informació Documental 
+        3 Altres denominacions 
+        4 Referències 
+        
+       
+      Antecedents 
+      L'aparició de la ciència de la informació és pròpia de segle XX encara que no es pot explicar si no fos per certs esdeveniments propis d'aquest segle. Aquests esdeveniments estan relacionats amb els mecanismes de comunicació en la ciència i les necessitats de disseminar i recuperar informació de les diferents disciplines científiques. Els processos naturals de la producció i divulgació del coneixement científic van implicar un augment en la informació disponible i amb això els mitjans per tractar la informació: identificar, analitzar, classificar i recuperar. 
+      L'entorn informacional que emergeix a inicis de segle XX a partir d'accions propiciades des de les últimes dècades de segle XIX, entre elles la creació de la Documentació com una àrea de coneixement a càrrec de Paul Otlet i Henry La Fontaine. Resultat de l'anàlisi i els mitjans per abordar el problema de controlar l'accelerada producció documental de les ciències. La Documentació es proposa com una evolució als mètodes de la "vella Biblioteconomia". 
+      El 1934 es publica el Tractat de la documentació en on s'estableixen les diferències entre llibre i document, entenent a aquest últim des d'un concepte més ampli i universal. Es veu necessari el maneig i processament de nous formats com les fotografies, diapositives, fotocòpies, pel·lícules i programes de ràdio. Es presenta al document com "una cosa que transmet informació principalment escrits de tota mena, però també 'coses' que depenen dels usos a què conceptualment van ser destinats".   
+      Ciències de la Informació Documental 
+      Diversos autors sostenen que la "Informació documental" és part autònoma dins de les Ciències de la Informació, amb la finalitat d'oferir l'organització, conservació, disposició i recuperació dels registres d'informació cultural, representant la memòria bibliogràfica, històrica i cultural a tota mena de suport. Les biblioteques, els arxius, els centres de documentació i els museus són llocs que custodien i permeten l'accés al patrimoni de la humanitat, i per tant tenen funcions educatives i culturals.  
+      
+       
+         
+        
+         
+          
+         Aquest gràfic mostra els enllaços entre articles de Viquipèdia. La ciència de la informació inclou estudis sobre com els temes es relacionen entre ells i com els lectors relacionen conceptes.
+        
+       
+       
+      Altres denominacions 
+      
+       Ciències de la Informació i la Comunicació: presents a França i Espanya, els pares fundadors Robert Escarpit i Jean Meyriat (entre d'altres), es caracteritza per postular la comunicació com un procés on la informació és el contingut, s'enforteixen les eines metodològiques pròpies d’aquesta àrea com són l'anàlisi de continguts, d'audiències, estudis bibliomètrics i infomètrics. Al final, fa èmfasi en el fet que els professos relacionats amb l'estudi de la informació i la comunicació estan intervinguts pels aspectes socials i culturals. 
+       Informàtica: denominació donada en 1966, en la desapareguda URSS a el camp d'estudi encarregat d'optimitzar els processos de la informació científica en exclusiva, mitjançant la seva recol·lecció, registre, processament, analític-sintètic, emmagatzematge, recuperació i difusió.
+       
+      Referències 
+       
+       
+         
+         ↑ Stock, W.G., &amp; Stock, M. (2013). Handbook of Information Science. Berlin, Boston, MA: De Gruyter Saur.  
+         ↑ 2,0 2,1 Linares Columbié, Radamés. «Ciencia, tecnología y situación informacional en el siglo XIX y primera mitad del siglo XX». A: Ciencia de la Información: su historia y epistemología (en español). Rojas Heberhard Editores Ltda., 2005, p.&nbsp;75. ISBN 9589121799.&nbsp;  
+         ↑ Rayward, W. B. The History and Historiography in Information Science: some reflections. In: Buckland M. and T. B. Hahn. Historical Studies in Information Science. Washington DC.: ASIS, 1995 p. 32-42.  
+         ↑ Castro Quintero Nathalia Giraldo Lopera Marta Lucía Bernal Vinasco Isabel Cristina Arango Carmen Viana Taborda Ortiz Jair Gonzalo. «».  
+         ↑ Moreiro González, José A. Introducción bibliográfica y conceptual al estudio evolutivo de la Documentación. DM PPU Barcelona, 1990  
+        
+       
+          
+     
+     
+      
+      
+     
+      Obtingut de «https://ca.wikipedia.org/w/index.php?title=Ciència_de_la_informació&amp;oldid=28565573»
+     
+     
+    
+     
+      Categoria: 
+      
+       Ciències de la informació
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Menú de navegació 
+    
+     
+      Eines personals  
+      
+      
+       Sense sessió iniciada
+       Discussió per aquest IP
+       Contribucions
+       Crea un compte
+       Inicia la sessió
+       
+      
+     
+     
+      
+       Espais de noms  
+       
+       
+        Pàgina
+        Discussió
+        
+       
+      
+      
+       
+       català expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Vistes  
+       
+       
+        Mostra
+        Modifica
+        Mostra l'historial
+        
+       
+      
+      
+       
+       Més expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Cerca  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navegació  
+      
+      
+       Portada
+       Article a l'atzar
+       Articles de qualitat
+       
+      
+     
+     
+      Comunitat  
+      
+      
+       Portal viquipedista
+       Agenda d'actes
+       Canvis recents
+       La taverna
+       Contacte
+       Xat
+       Donatius
+       Ajuda
+       
+      
+     
+     
+      Eines  
+      
+      
+       Què hi enllaça
+       Canvis relacionats
+       Pàgines especials
+       Enllaç permanent
+       Informació de la pàgina
+       Citau aquest article
+       Element a Wikidata
+       
+      
+     
+     
+      Imprimeix/exporta  
+      
+      
+       Crear un llibre
+       Baixa com a PDF
+       Versió per a impressora
+       
+      
+     
+     
+      En altres projectes  
+      
+      
+       Commons
+       
+      
+     
+     
+      En altres idiomes  
+      
+      
+       Afrikaans
+       العربية
+       Asturianu
+       Azərbaycanca
+       تۆرکجه
+       Башҡортса
+       Български
+       Čeština
+       Cymraeg
+       Dansk
+       Deutsch
+       Ελληνικά
+       English
+       Español
+       Eesti
+       Euskara
+       فارسی
+       Suomi
+       Français
+       Galego
+       עברית
+       हिन्दी
+       Magyar
+       Bahasa Indonesia
+       日本語
+       ქართული
+       한국어
+       Lietuvių
+       Latviešu
+       Македонски
+       Bahasa Melayu
+       Nederlands
+       Norsk bokmål
+       ਪੰਜਾਬੀ
+       Polski
+       Português
+       Română
+       Русский
+       Srpskohrvatski / српскохрватски
+       Slovenčina
+       Slovenščina
+       Shqip
+       Српски / srpski
+       Svenska
+       தமிழ்
+       ไทย
+       Türkçe
+       Українська
+       اردو
+       Tiếng Việt
+       中文
+       粵語
+       
+      
+       Modifica els enllaços
+       
+      
+     
+    
+   
+   
+    
+     La pàgina va ser modificada per darrera vegada el 8 nov 2021 a les 13:16. 
+    El text està disponible sota la  Llicència de Creative Commons Reconeixement i Compartir-Igual; es poden aplicar termes addicionals. Vegeu les Condicions d'ús. Wikipedia® (Viquipèdia™) és una marca registrada de Wikimedia Foundation, Inc. 
+    
+    
+    Política de privadesa 
+    Quant al projecte Viquipèdia 
+    Descàrrec de responsabilitat 
+    Versió per a mòbils 
+    Desenvolupadors 
+    Estadístiques 
+    Declaració de cookies 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

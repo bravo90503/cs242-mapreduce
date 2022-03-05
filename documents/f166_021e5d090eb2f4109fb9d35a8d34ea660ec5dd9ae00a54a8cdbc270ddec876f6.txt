@@ -1,0 +1,280 @@
+
+ 
+  
+   
+  Karen Spärck Jones Award - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Karen Spärck Jones Award 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      To commemorate the achievements of Karen Spärck Jones, the Karen Spärck Jones Award was created in 2008 by the British Computer Society (BCS) and its Information Retrieval Specialist Group (BCS IRSG), which is sponsored by Microsoft Research. 
+      The winner of the award is invited to present a keynote talk at the European Conference on Information Retrieval (ECIR) the following year.  
+      Chronological recipients and keynote talks 
+      
+       2009: Mirella Lapata &nbsp;: “Image and Natural Language Processing for Multimedia Information Retrieval”  
+       2010: Evgeniy Gabrilovich &nbsp;: “Ad Retrieval Systems in vitro and in vivo: Knowledge-Based Approaches to Computational Advertising”  
+       2011: No award was made 
+       2012: Diane Kelly &nbsp;: “Contours and Convergence”  
+       2013: Eugene Agichtein &nbsp;: “Inferring Searcher Attention and Intention by Mining Behavior Data” 
+       2014: Ryen White &nbsp;: “Mining and Modeling Online Health Search”  
+       2015: Jordan Boyd-Graber &nbsp;: “Opening up the Black Box: Interactive Machine Learning for Understanding Large Document Collections, Characterizing Social Science, and Language-Based Games”, Emine Yilmaz&nbsp;: “A Task-Based Perspective to Information Retrieval”  
+       2016: Jaime Teevan&nbsp;: “Search, Re-Search.”  
+       2017: Fernando Diaz (computer scientist)&nbsp;: “The Harsh Reality of Production Information Access Systems”  
+       2018: Krisztian Balog&nbsp;: “On Entities and Evaluation”  
+       2019: Chirag Shah&nbsp;: “Task-Based Intelligent Retrieval and Recommendation”  
+       2020: Ahmed H. Awadallah&nbsp;: “Learning with Limited Labeled Data: The Role of User Interactions” 
+       
+      References 
+      
+       
+       
+         
+         ^ "KSJ Award". irsg.bcs.org.  
+         ^ 
+           topic_models.pdf (PDF), British Computer Society, retrieved 2020-06-09  
+         ^ 
+           gabr_ksj.pdf (PDF), British Computer Society, retrieved 2020-06-09  
+         ^ 
+           kelly_keynote_ecir.pdf (PDF), British Computer Society, retrieved 2020-06-09  
+         ^ 
+           Keynotes ECIR 2015, ECIR 2015, retrieved 2020-06-09  
+         ^ 
+           Keynotes ECIR 2016, ECIR 2016, retrieved 2020-06-09  
+         ^ 
+           Keynotes ECIR 2016, ECIR 2016, retrieved 2020-06-09  
+         ^ 
+           KSJ Award 39th ECIR, ECIR 2017, retrieved 2020-06-09  
+         ^ 
+           ECIR 2018 Keynote Speakers, ECIR 2018, retrieved 2020-06-09  
+         ^ 
+           ECIR 2019 Keynote Speaker, ECIR 2019, retrieved 2020-06-09  
+         ^ 
+           ECIR 2020 Keynote Speaker, ECIR 2020, retrieved 2020-06-09  
+         ^ 
+           ECIR 2021 Keynote Speaker, ECIR 2021, retrieved 2021-03-29  
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Karen_Spärck_Jones_Award&amp;oldid=1063661496"
+     
+     
+    
+     
+      Categories: 
+      
+       Computer science awards
+      
+     
+     
+      Hidden categories: 
+      
+       All articles with unsourced statements
+       Articles with unsourced statements from November 2020
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Deutsch
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 4 January 2022, at 06:35&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

@@ -1,0 +1,792 @@
+
+ 
+  
+   
+  Well-posed problem - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Well-posed problem 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+    
+     &nbsp;&nbsp;(Redirected from Ill-posed)
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Term regarding the properties that mathematical models of physical phenomena should have
+       
+      The mathematical term well-posed problem stems from a definition given by 20th-century French mathematician Jacques Hadamard. He believed that mathematical models of physical phenomena should have the properties that:  
+      
+       a solution exists, 
+       the solution is unique, 
+       the solution's behaviour changes continuously with the initial conditions.
+       
+      Examples of archetypal well-posed problems include the Dirichlet problem for Laplace's equation, and the heat equation with specified initial conditions. These might be regarded as 'natural' problems in that there are physical processes modelled by these problems. 
+      Problems that are not well-posed in the sense of Hadamard are termed ill-posed. Inverse problems are often ill-posed. For example, the inverse heat equation, deducing a previous distribution of temperature from final data, is not well-posed in that the solution is highly sensitive to changes in the final data. 
+      Continuum models must often be discretized in order to obtain a numerical solution. While solutions may be continuous with respect to the initial conditions, they may suffer from numerical instability when solved with finite precision, or with errors in the data. Even if a problem is well-posed, it may still be ill-conditioned, meaning that a small error in the initial data can result in much larger errors in the answers. Problems in nonlinear complex systems (so-called chaotic systems) provide well-known examples of instability. An ill-conditioned problem is indicated by a large condition number. 
+      If the problem is well-posed, then it stands a good chance of solution on a computer using a stable algorithm. If it is not well-posed, it needs to be re-formulated for numerical treatment. Typically this involves including additional assumptions, such as smoothness of solution. This process is known as regularization. Tikhonov regularization is one of the most commonly used for regularization of linear ill-posed problems.  
+      Energy method 
+      A method to determine the well-posedness of a problem is the energy method. The method is based upon deriving an energy estimate for a given problem. 
+      Example: Consider the linear advection equation with homogenous Dirichlet boundary conditions and suitable initial data 
+           
+            
+             
+             
+              f
+              
+             
+              (
+              
+             
+              x
+              
+             
+              )
+              
+             
+            
+           
+            
+            
+           
+         . 
+      
+         0,\\u(x,0)=f(x),\\u(0,t)=0,\\u(1,t)=0,\\\end}}">  
+            
+             
+              
+               
+               
+                {
+                
+                
+                 
+                  
+                   
+                   
+                    u
+                    
+                    
+                    
+                     t
+                     
+                    
+                   
+                  
+                   +
+                   
+                  
+                   α
+                   
+                   
+                   
+                    u
+                    
+                    
+                    
+                     x
+                     
+                    
+                   
+                  
+                   =
+                   
+                  
+                   0
+                   
+                  
+                   ,
+                   
+                  
+                   0
+                   
+                  
+                   &lt;
+                   
+                  
+                   x
+                   
+                  
+                   &lt;
+                   
+                  
+                   1
+                   
+                  
+                   ,
+                   
+                  
+                   α
+                   
+                  
+                   &gt;
+                   
+                  
+                   0
+                   
+                  
+                   ,
+                   
+                  
+                 
+                 
+                  
+                  
+                   u
+                   
+                  
+                   (
+                   
+                  
+                   x
+                   
+                  
+                   ,
+                   
+                  
+                   0
+                   
+                  
+                   )
+                   
+                  
+                   =
+                   
+                  
+                   f
+                   
+                  
+                   (
+                   
+                  
+                   x
+                   
+                  
+                   )
+                   
+                  
+                   ,
+                   
+                  
+                 
+                 
+                  
+                  
+                   u
+                   
+                  
+                   (
+                   
+                  
+                   0
+                   
+                  
+                   ,
+                   
+                  
+                   t
+                   
+                  
+                   )
+                   
+                  
+                   =
+                   
+                  
+                   0
+                   
+                  
+                   ,
+                   
+                  
+                 
+                 
+                  
+                  
+                   u
+                   
+                  
+                   (
+                   
+                  
+                   1
+                   
+                  
+                   ,
+                   
+                  
+                   t
+                   
+                  
+                   )
+                   
+                  
+                   =
+                   
+                  
+                   0
+                   
+                  
+                   ,
+                   
+                  
+                 
+                
+                
+               
+              
+             
+            
+           
+            u_+\alpha u_=0,0&lt;x&lt;1,\alpha &gt;0,\\u(x,0)=f(x),\\u(0,t)=0,\\u(1,t)=0,\\\end}}
+            
+           
+         0,\\u(x,0)=f(x),\\u(0,t)=0,\\u(1,t)=0,\\\end}}"> 
+      Then carrying out the energy method for this problem, one would multiply the equation by 
+           
+            
+             
+             
+              u
+              
+             
+            
+           
+            
+            
+           
+          and integrate in space over the given interval. 
+      
+           
+            
+             
+              
+              
+               ∂
+               
+               
+               
+                t
+                
+               
+              
+              
+              
+               ∫
+               
+               
+               
+                0
+                
+               
+               
+               
+                1
+                
+               
+              
+              
+               
+                
+                
+                 u
+                 
+                 
+                 
+                  2
+                  
+                 
+                
+               
+                2
+                
+               
+              
+             
+              d
+              
+             
+              x
+              
+             
+              =
+              
+             
+              −
+              
+             
+              α
+              
+              
+              
+               ∫
+               
+               
+               
+                0
+                
+               
+               
+               
+                1
+                
+               
+              
+             
+              u
+              
+              
+              
+               u
+               
+               
+               
+                x
+                
+               
+              
+             
+              d
+              
+             
+              x
+              
+             
+              ⇒
+              
+              
+               
+               
+                1
+                
+               
+                2
+                
+               
+              
+              
+              
+               ∂
+               
+               
+               
+                t
+                
+               
+              
+             
+              ‖
+              
+             
+              u
+              
+              
+              
+               ‖
+               
+               
+               
+                2
+                
+               
+               
+               
+                2
+                
+               
+              
+             
+              =
+              
+             
+              −
+              
+             
+              α
+              
+              
+               
+                
+                
+                 u
+                 
+                 
+                 
+                  2
+                  
+                 
+                
+               
+                2
+                
+               
+              
+              
+               
+                
+                
+                 |
+                 
+                
+               
+               
+               
+                0
+                
+               
+               
+               
+                1
+                
+               
+              
+             
+              =
+              
+             
+              0
+              
+             
+            
+           
+            \int _^}}dx=-\alpha \int _^uu_dx\Rightarrow }\partial _\|u\|_^=-\alpha }}_^=0}
+            
+           
+          
+      Then one would integrate in time and one would obtain the energy estimate 
+      
+           
+            
+             
+             
+              ‖
+              
+             
+              u
+              
+             
+              (
+              
+             
+              ⋅
+              
+             
+              ,
+              
+             
+              t
+              
+             
+              )
+              
+              
+              
+               ‖
+               
+               
+               
+                2
+                
+               
+              
+             
+              ≤
+              
+             
+              ‖
+              
+             
+              f
+              
+             
+              (
+              
+             
+              ⋅
+              
+             
+              )
+              
+              
+              
+               ‖
+               
+               
+               
+                2
+                
+               
+              
+             
+            
+           
+            \leq \|f(\cdot )\|_}
+            
+           
+          (p-norm) 
+      From this energy estimate one can conclude that the problem is well-posed.  
+      See also 
+      
+       Total absorption spectroscopy – an example of an inverse problem or ill-posed problem in a real-life situation that is solved by means of the expectation–maximization algorithm
+       
+      References 
+      
+       Hadamard, Jacques (1902). Sur les problèmes aux dérivées partielles et leur signification physique. Princeton University Bulletin. pp.&nbsp;49–52. 
+       
+        Parker, Sybil B., ed. (1989) . McGraw-Hill Dictionary of Scientific and Technical Terms (4th&nbsp;ed.). New York: McGraw-Hill. ISBN&nbsp;0-07-045270-9. 
+       
+        Tikhonov, A. N.; Arsenin, V. Y. (1977). Solutions of ill-Posed Problems. New York: Winston. ISBN&nbsp;0-470-99124-0.
+       
+        
+      
+       
+      
+      
+       
+        
+         
+          Authority control: National libraries 
+          
+            
+            
+             Germany
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Well-posed_problem&amp;oldid=1000080927"
+     
+     
+    
+     
+      Categories: 
+      
+       Numerical analysis
+       Partial differential equations
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with short description
+       Short description is different from Wikidata
+       Articles with GND identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       Deutsch
+       Español
+       فارسی
+       Français
+       Монгол
+       日本語
+       Polski
+       Português
+       Русский
+       Suomi
+       Українська
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 13 January 2021, at 13:40&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

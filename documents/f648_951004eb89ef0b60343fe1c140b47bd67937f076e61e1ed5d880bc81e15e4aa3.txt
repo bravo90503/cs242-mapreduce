@@ -1,0 +1,2158 @@
+
+ 
+  
+   
+  Philosophy of psychology - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Philosophy of psychology 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.Find sources:&nbsp;"Philosophy of psychology"&nbsp;–&nbsp;news&nbsp;· newspapers&nbsp;· books&nbsp;· scholar&nbsp;· JSTOR (December 2008) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      Philosophy of psychology refers to the many issues that lie at the theoretical foundations of modern psychology.  
+      
+       
+       
+        Contents
+        
+        
+        1 Overview 
+        2 See also 
+        3 References 
+        4 Further reading 
+        5 External links 
+        
+       
+      Overview 
+      Some of the issues studied by the philosophy of psychology are epistemological concerns about the methodology of psychological investigation. For example:  
+      
+       What is the most appropriate methodology for psychology: mentalism, behaviorism, or a compromise? 
+       Are self-reports a reliable data-gathering method? 
+       What conclusions can be drawn from null hypothesis tests? 
+       Can first-person experiences (emotions, desires, beliefs, etc.) be measured objectively? 
+       What are the scientific decision-making practices and laboratory routines used in psychology and cognitive neuroscience?
+       
+      Other issues in philosophy of psychology are philosophical questions about the nature of mind, brain, and cognition, and are perhaps more commonly thought of as part of cognitive science, or philosophy of mind, such as:  
+      
+       What is a cognitive module? 
+       Are humans rational creatures? 
+       What psychological phenomena come up to the standard required for calling it knowledge? 
+       What is innateness?
+       
+      Philosophy of psychology also closely monitors contemporary work conducted in cognitive neuroscience, evolutionary psychology, and artificial intelligence, for example questioning whether psychological phenomena can be explained using the methods of neuroscience, evolutionary theory, and computational modeling, respectively. Although these are all closely related fields, some concerns still arise about the appropriateness of importing their methods into psychology. Some such concerns are whether psychology, as the study of individuals as information processing systems (see Donald Broadbent), is autonomous from what happens in the brain (even if psychologists largely agree that the brain in some sense causes behavior (see supervenience)); whether the mind is "hard-wired" enough for evolutionary investigations to be fruitful; and whether computational models can do anything more than offer possible implementations of cognitive theories that tell us nothing about the mind (Fodor &amp; Pylyshyn 1988). 
+      Philosophy of psychology is a relatively young field because "scientific" psychology—that is, the psychology that favors experimental methods over introspection—came to dominate psychological studies only in the late 19th century. One of philosophy of psychology's concerns is to evaluate the merits of the many different schools of psychology that have been and are practiced. For example, cognitive psychology's use of internal mental states might be compared with behaviorism, and the reasons for the widespread rejection of behaviorism in the mid-20th century examined. 
+      Topics that fall within the Philosophy of mind go back much farther. For example, questions about the very nature of mind, the qualities of experience, and particular issues like the debate between dualism and monism have been discussed in philosophy for many centuries. 
+      Related to the philosophy of psychology are philosophical and epistemological inquiries about clinical psychiatry and psychopathology. Philosophy of psychiatry is mainly concerned with the role of values in psychiatry: derived from philosophical value theory and phenomenology, values-based practice is aimed at improving and humanizing clinical decision-making in the highly complex environment of mental health care. Philosophy of psychopathology is mainly involved in the epistemological reflection about the implicit philosophical foundations of psychiatric classification and evidence-based psychiatry. It aims is to unveil the constructive activity underlying the description of mental phenomena.  
+      See also 
+      
+       
+        
+        Psychology portal 
+        Philosophy portal 
+        Mythology portal
+       
+       
+      
+       Philosophy of psychiatry 
+       Philosophy of social science 
+       Moral psychology
+       
+      References 
+      
+       
+       
+         
+         ^ R. Stewart Ellis (2010). "Research data gathering techniques". Kettering University.  
+         ^ 
+           Barwich, Ann-Sophie (2020). Smellosophy: What the Nose tells the Mind. Harvard University Press. ISBN&nbsp;9780674983694.  
+         ^ 
+           Coltheart, Max (January 2006). "What has Functional Neuroimaging told us about the Mind (so far)? (Position Paper Presented to the European Cognitive Neuropsychology Workshop, Bressanone, 2005)". Cortex. 42 (3): 323–331. doi:10.1016/S0010-9452(08)70358-7. PMID&nbsp;16771037.  
+         ^ 
+           Klein, Colin (14 November 2016). "Brain regions as difference-makers". Philosophical Psychology. 30 (1–2): 1–20. doi:10.1080/09515089.2016.1253053.  
+         ^ 
+           Fulford KWM, Stanghellini G. (2008). "The Third Revolution: Philosophy into Practice in Twenty-first Century Psychiatry". Dialogues in Philosophy, Mental and Neuro Sciences. 1 (1): 5–14.  
+         ^ 
+           Aragona M (2009). Il mito dei fatti. Una introduzione alla Filosofia della Psicopatologia. Crossing Dialogues. Archived from the original on 2012-03-06.  
+        
+       
+       
+      Further reading 
+      The London Philosophy Study Guide offers many suggestions on what to read, depending on the student's familiarity with the subject: Philosophy of psychology.  
+      
+       J. Stacy Adams. 1976. Advances in Experimental Social Psychology. Academic Press, 1976 
+        ISBN&nbsp;0120152096, 9780120152094. 
+       Leonard Berkowitz. 1972. Social psychology. Scott Foresman &amp; Co, 1972. 
+       Ned Block. 1980. Readings in Philosophy of Psychology, Volume 1. Harvard University Press, 1980. 
+        ISBN&nbsp;067474876X, 9780674748767. 
+       Stuart C. Brown, Royal Institute of Philosophy. 1974. Macmillan, 1974. Original from the University of Michigan 
+       Joseph Margolis. 2008. Philosophy of Psychology. Prentice-Hall foundations of philosophy series. Prentice-Hall, 1984. 
+        ISBN&nbsp;0136643264, 9780136643265. 
+       Ken Richardson. 2008. Understanding psychology. Open University Press, 1988. 
+        ISBN&nbsp;0335098428, 9780335098422. 
+       George Botterill, Peter Carruthers. 1999. The Philosophy of Psychology. Cambridge University Press. 
+        ISBN&nbsp;0521559154, 9780521559157. 
+       Craig Steven Titus. 2009. Philosophical Psychology: Psychology, Emotions, and Freedom. CUA Press. 
+        ISBN&nbsp;0977310361, 9780977310364. 
+       Jose Bermudez. 2005. Philosophy of Psychology: A Contemporary Introduction. Routledge. 
+        ISBN&nbsp;9780415368629. 
+       Terence Horgan, John Tienson. 1996. Connectionism and the Philosophy of Psychology. MIT Press. 
+        ISBN&nbsp;0262082489, 9780262082488
+       
+      External links 
+      
+       Part 7 of MindPapers: Philosophy of Cognitive Science (contains over 1,500 articles, many with online copies) 
+       Philosophy of Psychology
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Philosophy
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Branches
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Traditional
+                  
+                    
+                    
+                     Axiology 
+                      
+                       Aesthetics 
+                       Ethics
+                       
+                     Epistemology 
+                     Logic 
+                     Metaphysics 
+                      
+                       Ontology
+                      
+                     
+                   
+                 
+                 
+                  Philosophy of...
+                  
+                    
+                    
+                     Action 
+                     Art 
+                      
+                       Design 
+                       Music 
+                       Film
+                       
+                     Color 
+                     Cosmology 
+                     Culture 
+                     Education 
+                     Environment 
+                     Geography 
+                     History 
+                     Human nature 
+                     Feminism 
+                     Language 
+                     Law 
+                     Life 
+                     Literature 
+                     Logic 
+                     Mathematics 
+                     Medicine 
+                      
+                       Healthcare 
+                       Psychiatry
+                       
+                     Mind 
+                      
+                       Pain 
+                       Happiness 
+                       Humor 
+                       Psychology
+                       
+                     Perception 
+                     Philosophy 
+                     Religion 
+                     Science 
+                      
+                       Physics 
+                       Chemistry 
+                       Biology
+                       
+                     Sexuality 
+                     Social science 
+                      
+                       Business 
+                       Economics 
+                       Politics 
+                       Society
+                       
+                     Space and time 
+                     Sport 
+                     Technology 
+                      
+                       Artificial intelligence 
+                       Computer science 
+                       Engineering 
+                       Information
+                       
+                     War
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Schools of thought
+               
+             
+             
+              
+               
+               
+                
+                 
+                  By era
+                  
+                    
+                    
+                     Ancient 
+                     Western 
+                      
+                       Medieval 
+                       Renaissance 
+                       Early modern 
+                       Modern 
+                       Contemporary
+                      
+                     
+                   
+                 
+                 
+                  Ancient
+                  
+                   
+                   
+                    
+                     
+                      Chinese
+                      
+                        
+                        
+                         Agriculturalism 
+                         Confucianism 
+                         Legalism 
+                         Logicians 
+                         Mohism 
+                         Chinese naturalism 
+                         Neotaoism 
+                         Taoism 
+                         Yangism 
+                         Chan
+                         
+                       
+                     
+                     
+                      Greco-Roman 
+                      
+                        
+                        
+                         Aristotelianism 
+                         Atomism 
+                         Cynicism 
+                         Cyrenaics 
+                         Eleatics 
+                         Eretrian school 
+                         Epicureanism 
+                         Hermeneutics 
+                         Ionian 
+                          
+                           Ephesian 
+                           Milesian
+                           
+                         Megarian school 
+                         Neoplatonism 
+                         Peripatetic 
+                         Platonism 
+                         Pluralism 
+                         Presocratic 
+                         Pyrrhonism 
+                         Pythagoreanism 
+                         Neopythagoreanism 
+                         Sophistic 
+                         Stoicism
+                         
+                       
+                     
+                     
+                      Indian
+                      
+                        
+                        
+                         Hindu 
+                         Samkhya 
+                         Nyaya 
+                         Vaisheshika 
+                         Yoga 
+                         Mīmāṃsā 
+                         Ājīvika 
+                         Ajñana 
+                         Cārvāka 
+                         Jain 
+                          
+                           Anekantavada 
+                           Syādvāda
+                           
+                         Buddhist 
+                          
+                           Śūnyatā 
+                           Madhyamaka 
+                           Yogacara 
+                           Sautrāntika 
+                           Svatantrika
+                          
+                         
+                       
+                     
+                     
+                      Persian
+                      
+                        
+                        
+                         Mazdakism 
+                         Mithraism 
+                         Zoroastrianism 
+                         Zurvanism
+                         
+                       
+                     
+                    
+                   
+                   
+                 
+                 
+                  Medieval
+                  
+                   
+                   
+                    
+                     
+                      European
+                      
+                        
+                        
+                         Christian 
+                          Augustinianism 
+                         Scholasticism 
+                         Thomism 
+                         Scotism 
+                         Occamism 
+                         Renaissance humanism
+                         
+                       
+                     
+                     
+                      East Asian
+                      
+                        
+                        
+                         Korean Confucianism 
+                         Edo neo-Confucianism 
+                         Neo-Confucianism
+                         
+                       
+                     
+                     
+                      Indian
+                      
+                        
+                        
+                         Vedanta 
+                          
+                           Acintya bheda abheda 
+                           Advaita 
+                           Bhedabheda 
+                           Dvaita 
+                           Nimbarka Sampradaya 
+                           Shuddhadvaita 
+                           Vishishtadvaita
+                           
+                         Navya-Nyāya
+                         
+                       
+                     
+                     
+                      Islamic
+                      
+                        
+                        
+                         Averroism 
+                         Avicennism 
+                         Illuminationism 
+                         ʿIlm al-Kalām 
+                         Sufi
+                         
+                       
+                     
+                     
+                      Jewish
+                      
+                        
+                        
+                         Judeo-Islamic
+                         
+                       
+                     
+                    
+                   
+                   
+                 
+                 
+                  Modern
+                  
+                   
+                   
+                    
+                     
+                      People
+                      
+                        
+                        
+                         Cartesianism 
+                         Kantianism 
+                          
+                           Neo
+                           
+                         Kierkegaardianism 
+                         Krausism 
+                         Hegelianism 
+                         Marxism 
+                         Newtonianism 
+                         Nietzscheanism 
+                         Spinozism
+                         
+                       
+                     
+                     
+                      0
+                      
+                        
+                        
+                         Anarchism 
+                         Classical Realism 
+                         Liberalism 
+                         Collectivism 
+                         Conservatism 
+                         Determinism 
+                         Dualism 
+                         Empiricism 
+                         Existentialism 
+                         Foundationalism 
+                         Historicism 
+                         Holism 
+                         Humanism 
+                          
+                           Anti-
+                           
+                         Idealism 
+                          
+                           Absolute 
+                           British 
+                           German 
+                           Objective 
+                           Subjective 
+                           Transcendental
+                           
+                         Individualism 
+                         Kokugaku 
+                         Materialism 
+                         Modernism 
+                         Monism 
+                         Naturalism 
+                         Natural law 
+                         Nihilism 
+                         New Confucianism 
+                         Neo-scholasticism 
+                         Pragmatism 
+                         Phenomenology 
+                         Positivism 
+                         Reductionism 
+                         Rationalism 
+                         Social contract 
+                         Socialism 
+                         Transcendentalism 
+                         Utilitarianism
+                         
+                       
+                     
+                    
+                   
+                   
+                 
+                 
+                  Contemporary
+                  
+                   
+                   
+                    
+                     
+                      Analytic
+                      
+                        
+                        
+                         Applied ethics 
+                         Analytic feminism 
+                         Analytical Marxism 
+                         Communitarianism 
+                         Consequentialism 
+                         Critical rationalism 
+                         Experimental philosophy 
+                         Falsificationism 
+                         Foundationalism&nbsp;/ Coherentism 
+                         Internalism and externalism 
+                         Logical positivism 
+                         Legal positivism 
+                         Normative ethics 
+                         Meta-ethics 
+                         Moral realism 
+                         Quinean naturalism 
+                         Ordinary language philosophy 
+                         Postanalytic philosophy 
+                         Quietism 
+                         Rawlsian 
+                         Reformed epistemology 
+                         Systemics 
+                         Scientism 
+                         Scientific realism 
+                         Scientific skepticism 
+                         Transactionalism 
+                         Contemporary utilitarianism 
+                         Vienna Circle 
+                         Wittgensteinian
+                         
+                       
+                     
+                     
+                      Continental
+                      
+                        
+                        
+                         Critical theory 
+                         Deconstruction 
+                         Existentialism 
+                         Feminist 
+                         Frankfurt School 
+                         New Historicism 
+                         Hermeneutics 
+                         Neo-Marxism 
+                         Phenomenology 
+                         Posthumanism 
+                         Postmodernism 
+                         Post-structuralism 
+                         Social constructionism 
+                         Structuralism 
+                         Western Marxism
+                         
+                       
+                     
+                     
+                      Other
+                      
+                        
+                        
+                         Kyoto School 
+                         Objectivism 
+                         Postcritique 
+                         Russian cosmism 
+                         more...
+                         
+                       
+                     
+                    
+                   
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Positions
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Aesthetics
+                  
+                    
+                    
+                     Formalism 
+                     Institutionalism 
+                     Aesthetic response
+                     
+                   
+                 
+                 
+                  Ethics
+                  
+                    
+                    
+                     Consequentialism 
+                     Deontology 
+                     Virtue
+                     
+                   
+                 
+                 
+                  Free will
+                  
+                    
+                    
+                     Compatibilism 
+                     Determinism 
+                      
+                       Hard
+                       
+                     Incompatibilism 
+                      
+                       Hard
+                       
+                     Libertarianism
+                     
+                   
+                 
+                 
+                  Metaphysics
+                  
+                    
+                    
+                     Atomism 
+                     Dualism 
+                     Idealism 
+                     Monism 
+                     Naturalism 
+                     Realism
+                     
+                   
+                 
+                 
+                  Epistemology
+                  
+                    
+                    
+                     Empiricism 
+                     Fideism 
+                     Naturalism 
+                     Particularism 
+                     Rationalism 
+                     Skepticism 
+                     Solipsism
+                     
+                   
+                 
+                 
+                  Mind
+                  
+                    
+                    
+                     Behaviorism 
+                     Emergentism 
+                     Eliminativism 
+                     Epiphenomenalism 
+                     Functionalism 
+                     Objectivism 
+                     Subjectivism
+                     
+                   
+                 
+                 
+                  Normativity
+                  
+                    
+                    
+                     Absolutism 
+                     Particularism 
+                     Relativism 
+                     Nihilism 
+                     Skepticism 
+                     Universalism
+                     
+                   
+                 
+                 
+                  Ontology
+                  
+                    
+                    
+                     Action 
+                     Event 
+                     Process
+                     
+                   
+                 
+                 
+                  Reality
+                  
+                    
+                    
+                     Anti-realism 
+                     Conceptualism 
+                     Idealism 
+                     Materialism 
+                     Naturalism 
+                     Nominalism 
+                     Physicalism 
+                     Realism
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                
+                 
+                  By region
+                  Related lists
+                  Miscellaneous
+                 
+                
+               
+             
+             
+              
+               
+               
+                
+                 
+                  By region
+                  
+                   
+                   
+                    
+                     
+                      African
+                      
+                        
+                        
+                         Bantu 
+                         Egyptian 
+                         Ethiopian
+                         
+                       
+                     
+                     
+                      Eastern
+                      
+                        
+                        
+                         Chinese 
+                         Indian 
+                         Indonesian 
+                         Japanese 
+                         Korean 
+                         Taiwanese 
+                         Pakistani 
+                         Vietnamese
+                         
+                       
+                     
+                     
+                      Middle Eastern
+                      
+                        
+                        
+                         Iranian 
+                         Jewish 
+                         Turkish
+                         
+                       
+                     
+                     
+                      Western
+                      
+                        
+                        
+                         American 
+                         Australian 
+                         British 
+                          
+                           Scottish
+                           
+                         Canada 
+                         Czech 
+                         Danish 
+                         Dutch 
+                         French 
+                         German 
+                         Greek 
+                         Italian 
+                         Maltese 
+                         Polish 
+                         Slovene 
+                         Spanish
+                         
+                       
+                     
+                     
+                      Miscellaneous
+                      
+                        
+                        
+                         Amerindian 
+                         Aztec 
+                         Yugoslav 
+                         Romanian 
+                         Russian
+                         
+                       
+                     
+                    
+                   
+                   
+                 
+                 
+                  Lists
+                  
+                    
+                    
+                     Outline 
+                     Index 
+                     Years 
+                     Problems 
+                     Schools 
+                     Glossary 
+                     Philosophers 
+                     Movements 
+                     Publications
+                     
+                   
+                 
+                 
+                  Miscellaneous
+                  
+                    
+                    
+                     Natural law 
+                     Sage 
+                     Theoretical philosophy&nbsp;/ Practical philosophy 
+                     Women in philosophy
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+            
+            
+              Portal 
+              Category
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Philosophy of science
+           
+         
+         
+          
+           
+           
+            
+             
+              Concepts
+              
+                
+                
+                 Analysis 
+                 Analytic–synthetic distinction 
+                 A priori and a posteriori 
+                 Causality 
+                 Commensurability 
+                 Consilience 
+                 Construct 
+                 Creative synthesis 
+                 Demarcation problem 
+                 Empirical evidence 
+                 Explanatory power 
+                 Fact 
+                 Falsifiability 
+                 Feminist method 
+                 Functional contextualism
+                 
+                
+                 Ignoramus et ignorabimus 
+                 Inductive reasoning 
+                 Intertheoretic reduction 
+                 Inquiry 
+                 Nature 
+                 Objectivity 
+                 Observation 
+                 Paradigm 
+                 Problem of induction 
+                 Scientific law 
+                 Scientific method 
+                 Scientific pluralism 
+                 Scientific revolution 
+                 Scientific theory 
+                 Testability 
+                 Theory choice 
+                 Theory-ladenness 
+                 Underdetermination 
+                 Unity of science
+                 
+               
+             
+             
+              Metatheoryof science
+              
+                
+                
+                 Coherentism 
+                 Confirmation holism 
+                 Constructive empiricism 
+                 Constructive realism 
+                 Constructivist epistemology 
+                 Contextualism 
+                 Conventionalism 
+                 Deductive-nomological model 
+                 Hypothetico-deductive model 
+                 Inductionism 
+                 Epistemological anarchism 
+                 Evolutionism 
+                 Fallibilism 
+                 Foundationalism 
+                 Instrumentalism 
+                 Pragmatism 
+                 Model-dependent realism 
+                 Naturalism 
+                 Physicalism 
+                 Positivism&nbsp;/ Reductionism&nbsp;/ Determinism 
+                 Rationalism&nbsp;/ Empiricism 
+                 Received view&nbsp;/ Semantic view of theories 
+                 Scientific realism&nbsp;/ Anti-realism 
+                 Scientific essentialism 
+                 Scientific formalism 
+                 Scientific skepticism 
+                 Scientism 
+                 Structuralism 
+                 Uniformitarianism 
+                 Vitalism
+                 
+               
+             
+             
+              Philosophy of
+              
+                
+                
+                 Physics 
+                  
+                   thermal and statistical 
+                   Motion
+                   
+                 Chemistry 
+                 Biology 
+                 Geography 
+                 Social science 
+                 Technology 
+                  
+                   Engineering 
+                   Artificial intelligence 
+                   Computer science
+                   
+                 Information 
+                 Mind 
+                 Psychiatry 
+                 Psychology 
+                 Perception 
+                 Space and time
+                 
+               
+             
+             
+              Related topics
+              
+                
+                
+                 Alchemy 
+                 Criticism of science 
+                 Descriptive science 
+                 Epistemology 
+                 Faith and rationality 
+                 Hard and soft science 
+                 History and philosophy of science 
+                 History of science 
+                 History of evolutionary thought 
+                 Logic 
+                 Metaphysics 
+                 Normative science 
+                 Pseudoscience 
+                 Relationship between religion and science 
+                 Rhetoric of science 
+                 Science studies 
+                 Sociology of scientific knowledge 
+                 Sociology of scientific ignorance
+                 
+               
+             
+            
+           
+           
+         
+         
+          
+           
+           
+            
+             
+              
+               
+                Philosophers of science by era
+               
+             
+             
+              
+               
+               
+                
+                 
+                  Ancient
+                  
+                    
+                    
+                     Plato 
+                     Aristotle 
+                     Stoicism 
+                     Epicureans
+                     
+                   
+                 
+                 
+                  Medieval
+                  
+                    
+                    
+                     Averroes 
+                     Avicenna 
+                     Roger Bacon 
+                     William of Ockham 
+                     Hugh of Saint Victor 
+                     Dominicus Gundissalinus 
+                     Robert Kilwardby
+                     
+                   
+                 
+                 
+                  Early modern
+                  
+                    
+                    
+                     Francis Bacon 
+                     Thomas Hobbes 
+                     René Descartes 
+                     Galileo Galilei 
+                     Pierre Gassendi 
+                     Isaac Newton 
+                     David Hume
+                     
+                   
+                 
+                 
+                  Late modern
+                  
+                    
+                    
+                     Immanuel Kant 
+                     Friedrich Schelling 
+                     William Whewell 
+                     Auguste Comte 
+                     John Stuart Mill 
+                     Herbert Spencer 
+                     Wilhelm Wundt 
+                     Charles Sanders Peirce 
+                     Wilhelm Windelband 
+                     Henri Poincaré 
+                     Pierre Duhem 
+                     Rudolf Steiner 
+                     Karl Pearson
+                     
+                   
+                 
+                 
+                  Contemporary
+                  
+                    
+                    
+                     Alfred North Whitehead 
+                     Bertrand Russell 
+                     Albert Einstein 
+                     Otto Neurath 
+                     C. D. Broad 
+                     Michael Polanyi 
+                     Hans Reichenbach 
+                     Rudolf Carnap 
+                     Karl Popper 
+                     Carl Gustav Hempel 
+                     W. V. O. Quine 
+                     Thomas Kuhn 
+                     Imre Lakatos 
+                     Paul Feyerabend 
+                     Jürgen Habermas 
+                     Ian Hacking 
+                     Bas van Fraassen 
+                     Larry Laudan 
+                     Daniel Dennett
+                     
+                   
+                 
+                
+               
+               
+             
+            
+           
+           
+         
+         
+          
+            
+            
+             Category 
+             &nbsp;Philosophy portal 
+             &nbsp;Science portal
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Psychology
+           
+         
+         
+          
+            
+            
+             History 
+             Philosophy 
+             Portal 
+             Psychologist
+             
+           
+         
+         
+          Basic psychology
+          
+            
+            
+             Abnormal 
+             Affective science 
+             Affective neuroscience 
+             Behavioral genetics 
+             Behavioral neuroscience 
+             Behaviorism 
+             Cognitive/Cognitivism 
+             Cognitive neuroscience 
+              
+               Social
+               
+             Comparative 
+             Cross-cultural 
+             Cultural 
+             Developmental 
+             Differential 
+             Ecological 
+             Evolutionary 
+             Experimental 
+             Gestalt 
+             Intelligence 
+             Mathematical 
+             Moral 
+             Neuropsychology 
+             Perception 
+             Personality 
+             Positive 
+             Psycholinguistics 
+             Psychophysiology 
+             Quantitative 
+             Social 
+             Theoretical
+             
+           
+         
+         
+          Applied psychology
+          
+            
+            
+             Anomalistic 
+             Applied behavior analysis 
+             Assessment 
+             Clinical 
+             Coaching 
+             Community 
+             Consumer 
+             Counseling 
+             Critical 
+             Educational 
+             Ergonomics 
+             Feminist 
+             Forensic 
+             Health 
+             Industrial and organizational 
+             Legal 
+             Media 
+             Medical 
+             Military 
+             Music 
+             Occupational health 
+             Pastoral 
+             Political 
+             Psychometrics 
+             Psychotherapy 
+             Religion 
+             School 
+             Sport and exercise 
+             Suicidology 
+             Systems 
+             Traffic
+             
+           
+         
+         
+          Methodologies
+          
+            
+            
+             Animal testing 
+             Archival research 
+             Behavior epigenetics 
+             Case study 
+             Content analysis 
+             Experiments 
+             Human subject research 
+             Interviews 
+             Neuroimaging 
+             Observation 
+             Psychophysics 
+             Qualitative research 
+             Quantitative research 
+             Self-report inventory 
+             Statistical surveys
+             
+           
+         
+         
+          
+           
+            Psychologists
+           
+          
+            
+            
+             Wilhelm Wundt&nbsp;(1832–1920) 
+             William James&nbsp;(1842–1910) 
+             Ivan Pavlov&nbsp;(1849–1936) 
+             Sigmund Freud&nbsp;(1856–1939) 
+             Edward Thorndike&nbsp;(1874–1949) 
+             Carl Jung&nbsp;(1875–1961) 
+             John B. Watson&nbsp;(1878–1958) 
+             Clark L. Hull&nbsp;(1884–1952) 
+             Kurt Lewin&nbsp;(1890–1947) 
+             Jean Piaget&nbsp;(1896–1980) 
+             Gordon Allport&nbsp;(1897–1967) 
+             J. P. Guilford&nbsp;(1897–1987) 
+             Carl Rogers&nbsp;(1902–1987) 
+             Erik Erikson&nbsp;(1902–1994) 
+             B. F. Skinner&nbsp;(1904–1990) 
+             Donald O. Hebb&nbsp;(1904–1985) 
+             Ernest Hilgard&nbsp;(1904–2001) 
+             Harry Harlow&nbsp;(1905–1981) 
+             Raymond Cattell&nbsp;(1905–1998) 
+             Abraham Maslow&nbsp;(1908–1970) 
+             Neal E. Miller&nbsp;(1909–2002) 
+             Jerome Bruner&nbsp;(1915–2016) 
+             Donald T. Campbell&nbsp;(1916–1996) 
+             Hans Eysenck&nbsp;(1916–1997) 
+             Herbert A. Simon&nbsp;(1916–2001) 
+             David McClelland&nbsp;(1917–1998) 
+             Leon Festinger&nbsp;(1919–1989) 
+             George A. Miller&nbsp;(1920–2012) 
+             Richard Lazarus&nbsp;(1922–2002) 
+             Stanley Schachter&nbsp;(1922–1997) 
+             Robert Zajonc&nbsp;(1923–2008) 
+             Albert Bandura&nbsp;(1925–2021) 
+             Roger Brown&nbsp;(1925–1997) 
+             Endel Tulving&nbsp;(b.&nbsp;1927) 
+             Lawrence Kohlberg&nbsp;(1927–1987) 
+             Noam Chomsky&nbsp;(b.&nbsp;1928) 
+             Ulric Neisser&nbsp;(1928–2012) 
+             Jerome Kagan&nbsp;(1929–2021) 
+             Walter Mischel&nbsp;(1930–2018) 
+             Elliot Aronson&nbsp;(b.&nbsp;1932) 
+             Daniel Kahneman&nbsp;(b.&nbsp;1934) 
+             Paul Ekman&nbsp;(b.&nbsp;1934) 
+             Michael Posner&nbsp;(b.&nbsp;1936) 
+             Amos Tversky&nbsp;(1937–1996) 
+             Bruce McEwen&nbsp;(1938–2020) 
+             Larry Squire&nbsp;(b.&nbsp;1941) 
+             Richard E. Nisbett&nbsp;(b.&nbsp;1941) 
+             Martin Seligman&nbsp;(b.&nbsp;1942) 
+             Ed Diener&nbsp;(1946–2021) 
+             Shelley E. Taylor&nbsp;(b.&nbsp;1946) 
+             John Anderson&nbsp;(b.&nbsp;1947) 
+             Ronald C. Kessler&nbsp;(b.&nbsp;1947) 
+             Joseph E. LeDoux&nbsp;(b.&nbsp;1949) 
+             Richard Davidson&nbsp;(b.&nbsp;1951) 
+             Susan Fiske&nbsp;(b.&nbsp;1952) 
+             Roy Baumeister&nbsp;(b.&nbsp;1953)
+             
+           
+         
+         
+          Lists
+          
+            
+            
+             Counseling topics 
+             Disciplines 
+             Important publications 
+             Organizations 
+             Outline 
+             Psychologists 
+             Psychotherapies 
+             Research methods 
+             Schools of thought 
+             Timeline 
+             Topics
+             
+           
+         
+         
+          
+            
+            
+             Wiktionary definition 
+             Wiktionary category 
+             Wikisource 
+             Wikimedia Commons 
+             Wikiquote 
+             Wikinews 
+             Wikibooks
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Social sciences
+           
+         
+         
+          
+            
+            
+             Outline 
+             History 
+             Index
+             
+           
+         
+         
+          Primary
+          
+            
+            
+             Anthropology (archaeology 
+             cultural 
+             linguistics 
+             social) 
+             Economics (microeconomics 
+             macroeconomics 
+             econometrics 
+             mathematical) 
+             Geography (physical 
+             human 
+             integrated 
+             geomatics 
+             regional) 
+             History 
+              
+               cultural 
+               auxiliary sciences 
+               economic 
+               human 
+               military 
+               political 
+               social
+               
+             Law (jurisprudence 
+             legal history 
+             legal systems 
+             public law 
+             private law) 
+             Political science (international relations 
+             comparative 
+             theory 
+             public policy) 
+             Psychology (abnormal 
+             cognitive 
+             developmental 
+             personality 
+             social) 
+             Sociology (criminology 
+             demography 
+             internet 
+             rural 
+             urban)
+             
+           
+         
+         
+          Interdisciplinary
+          
+            
+            
+             Administration (business 
+             public) 
+             Anthrozoology 
+             Area studies 
+             Business studies 
+             Cognitive science 
+             Communication studies 
+             Community studies 
+             Cultural studies 
+             Development studies 
+             Education 
+             Environmental (social science 
+             studies) 
+             Food studies 
+             Gender studies 
+             Global studies 
+             Historical sociology 
+             History of technology 
+             Human ecology 
+             Information science 
+             International studies 
+             Linguistics 
+             Media studies 
+             Philosophy of science (economics 
+             history 
+             psychology 
+             social science) 
+             Planning (land use 
+             regional 
+             urban) 
+             Political ecology 
+             Political economy 
+             Political sociology 
+             Public health 
+             Regional science 
+             Science and technology studies 
+             Science studies 
+              
+               historical 
+               Quantum social science
+               
+             Social work 
+             Vegan studies
+             
+           
+         
+         
+          List
+          
+            
+            
+             List of social science journals
+             
+           
+         
+         
+          Other categorizations
+          
+            
+            
+             Humanities 
+             Geisteswissenschaft 
+             Human science
+             
+           
+         
+         
+          
+            
+            
+              Category 
+              Commons 
+             &nbsp;Society portal 
+              Wikiversity
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Science and technology studies
+           
+         
+         
+          Economics
+          
+            
+            
+             Economics of science 
+             Economics of scientific knowledge
+             
+           
+         
+         
+          History
+          
+            
+            
+             History and philosophy of science 
+             History of science 
+              
+               and technology
+               
+             History of technology
+             
+           
+         
+         
+          Philosophy
+          
+            
+            
+             Anthropocene 
+             Antipositivism 
+             Empiricism 
+             Fuzzy logic 
+             Neo-Luddism 
+             Philosophy of science 
+             Philosophy of social science 
+             Philosophy of technology 
+             Positivism 
+             Postpositivism 
+             Religion and science 
+             Scientism 
+             Social constructivism 
+             Social epistemology 
+             Transhumanism
+             
+           
+         
+         
+          Sociology
+          
+            
+            
+             Actor–network theory 
+             Social 
+              
+               construction of technology 
+               shaping of technology
+               
+             Sociology of knowledge 
+              
+               scientific
+               
+             Sociology of scientific ignorance 
+             Sociology of the history of science 
+             Sociotechnology 
+             Strong programme
+             
+           
+         
+         
+          Sciencestudies
+          
+            
+            
+             Antiscience 
+             Bibliometrics 
+             Boundary-work 
+             Consilience 
+             Criticism of science 
+             Demarcation problem 
+             Double hermeneutic 
+             Logology 
+             Mapping controversies 
+             Metascience 
+             Paradigm shift 
+              
+               black swan events
+               
+             Pseudoscience 
+             Psychology of science 
+             Science 
+              
+               citizen 
+               communication 
+               education 
+               normal 
+               Neo-colonial 
+               post-normal 
+               rhetoric 
+               wars
+               
+             Scientific 
+              
+               community 
+               consensus 
+               controversy 
+               dissent 
+               enterprise 
+               literacy 
+               method 
+               misconduct 
+               priority 
+               skepticism
+               
+             Scientocracy 
+             Scientometrics 
+             Team science 
+             Traditional knowledge 
+              
+               ecological
+               
+             Unity of science 
+             Women in science 
+              
+               STEM
+              
+             
+           
+         
+         
+          Technologystudies
+          
+            
+            
+             Co-production 
+             Cyborg anthropology 
+             Dematerialization 
+             Digital anthropology 
+             Digital media use and mental health 
+             Early adopter 
+             Hype cycle 
+             Innovation 
+              
+               diffusion 
+               disruptive 
+               linear model 
+               system 
+               user
+               
+             Leapfrogging 
+             Normalization process theory 
+             Reverse salient 
+             Skunkworks project 
+             Sociotechnical system 
+             Technical change 
+             Technocracy 
+             Technoscience 
+              
+               feminist
+               
+             Technological 
+              
+               change 
+               convergence 
+               determinism 
+               revolution 
+               transitions
+               
+             Technology 
+              
+               and society 
+               criticism of 
+               dynamics 
+               theories of 
+               transfer
+               
+             Engineering studies 
+             Women in engineering 
+             Financial technology
+             
+           
+         
+         
+          Policy
+          
+            
+            
+             Academic freedom 
+             Digital divide 
+             Evidence-based policy 
+             Factor 10 
+             Funding of science 
+             Horizon scanning 
+             Science policy 
+              
+               history of 
+               science of
+               
+             Politicization of science 
+             Regulation of science 
+             Research ethics 
+             Right to science 
+             Socio-scientific issues 
+             Technology assessment 
+             Technology policy 
+             Transition management
+             
+           
+         
+         
+          
+            
+            
+              Portals 
+              
+               Science 
+               History of science 
+               Technology
+               
+              Category 
+              
+               Associations 
+               Journals 
+               Scholars
+              
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          Authority control: National libraries 
+          
+            
+            
+             United States
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Philosophy_of_psychology&amp;oldid=1014398463"
+     
+     
+    
+     
+      Categories: 
+      
+       Philosophy of psychology
+       Philosophy of mind
+       Philosophy of social science
+      
+     
+     
+      Hidden categories: 
+      
+       Articles needing additional references from December 2008
+       All articles needing additional references
+       Articles with LCCN identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       Башҡортса
+       Български
+       Deutsch
+       Español
+       فارسی
+       Français
+       Italiano
+       עברית
+       Македонски
+       日本語
+       Română
+       Русский
+       Српски / srpski
+       Srpskohrvatski / српскохрватски
+       Suomi
+       ไทย
+       Türkçe
+       Українська
+       粵語
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 26 March 2021, at 20:58&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

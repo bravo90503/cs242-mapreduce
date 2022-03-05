@@ -1,0 +1,893 @@
+
+ 
+  
+   
+  Edward Tufte - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Edward Tufte 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       American statistician (b.1942) noted for his writings on information design
+       
+      
+      
+       
+        
+         
+          
+           Edward Tufte
+          
+        
+        
+         
+          
+           Tufte during his one-day course in Dallas, May 21, 2015
+          
+        
+        
+         Born
+          (1942-03-14) March 14, 1942 (age&nbsp;79)Kansas City, Missouri
+        
+        
+         Occupation
+         Professor, statistician, writer, sculptor
+        
+        
+         Nationality
+         American
+        
+        
+         Notable works
+         
+          
+           
+            The Visual Display of Quantitative Information
+            Beautiful Evidence
+           
+          
+        
+        
+         Website
+        
+        
+         www.edwardtufte.com 
+        
+       
+       
+      Edward Rolf Tufte (/ˈtʌfti/; born March 14, 1942), sometimes known as "ET", is an American statistician and professor emeritus of political science, statistics, and computer science at Yale University. He is noted for his writings on information design and as a pioneer in the field of data visualization.  
+      
+       
+       
+        Contents
+        
+        
+        1 Biography 
+        2 Work 
+          
+          2.1 Information design 
+          2.2 Criticism of PowerPoint 
+          2.3 Small multiple 
+          2.4 Sparkline 
+          2.5 Sculpture 
+           
+        3 Bibliography 
+          
+          3.1 Works on political economy 
+          3.2 Works of analytic design 
+          3.3 Exhibitions 
+           
+        4 References 
+        5 External links 
+        
+       
+      Biography 
+      Edward Rolf Tufte was born in 1942 in Kansas City, Missouri, to Virginia Tufte (1918–2020) and Edward E. Tufte (1912–1999). He grew up in Beverly Hills, California, where his father was a longtime city official, and he graduated from Beverly Hills High School. He received a BS and MS in statistics from Stanford University and a PhD in political science from Yale. His dissertation, completed in 1968, was entitled The Civil Rights Movement and Its Opposition. He was then hired by Princeton University's Woodrow Wilson School, where he taught courses in political economy and data analysis while publishing three quantitatively inclined political science books. 
+      In 1975, while at Princeton, Tufte was asked to teach a statistics course to a group of journalists who were visiting the school to study economics. He developed a set of readings and lectures on statistical graphics, which he further developed in joint seminars he taught with renowned statistician John Tukey, a pioneer in the field of information design. These course materials became the foundation for his first book on information design, The Visual Display of Quantitative Information. 
+      After negotiations with major publishers failed, Tufte decided to self-publish Visual Display in 1982, working closely with graphic designer Howard Gralla. He financed the work by taking out a second mortgage on his home. The book quickly became a commercial success and secured his transition from political scientist to information expert. 
+      On March 5, 2010, President Barack Obama appointed Tufte to the American Recovery and Reinvestment Act's Recovery Independent Advisory Panel "to provide transparency in the use of Recovery-related funds".  
+      Work 
+      Tufte is an expert in the presentation of informational graphics such as charts and diagrams, and is a fellow of the American Statistical Association. He has held fellowships from the Guggenheim Foundation and the Center for Advanced Study in the Behavioral Sciences.  
+      Information design 
+      
+       
+         
+        
+         
+          
+         Charles Joseph Minard's Carte Figurative illustrates facts related to the French invasion of Russia in 1812
+        
+       
+       
+      Tufte's writing is important in such fields as information design and visual literacy, which deal with the visual communication of information. He coined the word chartjunk to refer to useless, non-informative, or information-obscuring elements of quantitative information displays. Tufte's other key concepts include what he calls the lie factor, the data-ink ratio, and the data density of a graphic. 
+      He uses the term "data-ink ratio" to argue against using excessive decoration in visual displays of quantitative information. In Visual Display, Tufte explains, "Sometimes decoration can help editorialize about the substance of the graphic. But it is wrong to distort the data measures—the ink locating values of numbers—in order to make an editorial comment or fit a decorative scheme." 
+      Tufte encourages the use of data-rich illustrations that present all available data. When such illustrations are examined closely, every data point has a value, but when they are looked at more generally, only trends and patterns can be observed. Tufte suggests these macro/micro readings be presented in the space of an eye-span, in the high resolution format of the printed page, and at the unhurried pace of the viewer's leisure. 
+      He uses several historical examples to make his case. These include John Snow's cholera outbreak map, Charles Joseph Minard's Carte Figurative, early space debris plots, Galileo Galilei's Sidereus Nuncius, and Maya Lin's Vietnam Veterans Memorial. For instance, the listing of the names of deceased soldiers on the black granite of Lin's sculptural memorial is shown to be more powerful as a chronological list rather than as an alphabetical one. The sacrifice each fallen individual has made is thus highlighted within the overall time scope of the war. In Sidereus Nuncius Galilei presents the nightly observations of the moons of Jupiter in relation to the body itself, interwoven with the two-month narrative record.  
+      Criticism of PowerPoint 
+      Tufte has criticized the way Microsoft PowerPoint is typically used. In his essay "The Cognitive Style of PowerPoint", Tufte criticizes many aspects of the software:  
+      
+       Its use as a way to guide and reassure a presenter, rather than to enlighten the audience; 
+       Its unhelpfully simplistic tables and charts, a design decision holdover from the low resolution of early computer displays; 
+       The outliner's causing ideas to be arranged in an artificially deep hierarchy, itself subverted by the need to restate the hierarchy on each slide; 
+       Enforcement of the audience's lockstep linear progression through that hierarchy (whereas with handouts, readers could browse and relate items at their leisure); 
+       Poor typography and chart layout, from presenters who are poor designers or who use poorly designed templates and default settings (in particular, difficulty in using scientific notation); 
+       Simplistic thinking—from ideas being squashed into bulleted lists; and stories with a beginning, middle, and end being turned into a collection of disparate, loosely disguised points—presenting a misleading façade of objectivity and neutrality that people associate with science, technology, and "bullet points".
+       
+      Tufte cites the way PowerPoint was used by NASA engineers in the events leading to the Space Shuttle Columbia disaster as an example of PowerPoint's many problems. The software style is designed to persuade rather than to inform people of technical details. Tufte's analysis of a NASA PowerPoint slide is included in the Columbia Accident Investigation Board’s report -- including an engineering detail buried in small type on a crowded slide with six bullet points, that if presented in a regular engineering white paper, might have been noticed and the disaster prevented. 
+      Instead, Tufte argues that the most effective way of presenting information in a technical setting, such as an academic seminar or a meeting of industry experts, is by distributing a brief written report that can be read by all participants in the first 5 to 10 minutes of the meeting. Tufte believes that this is the most efficient method of transferring knowledge from the presenter to the audience and then the rest of the meeting is devoted to discussion and debate.  
+      Small multiple 
+      One method Tufte encourages to allow quick visual comparison of multiple series is the small multiple, a chart with many series shown on a single pair of axes that can often be easier to read when displayed as several separate pairs of axes placed next to each other. He suggests this is particularly helpful when the series are measured on quite different vertical (y-axis) scales, but over the same range on the horizontal x-axis (usually time).  
+      Sparkline 
+      
+       
+         
+        
+         
+          
+         Earliest known implementation of sparklines, around January 1998 by interaction designer Peter Zelchenko for programmer Michael Medved and the QuoteTracker application (sold to TD Ameritrade).
+        
+       
+       
+      Sparklines are a condensed way to present trends and variation, associated with a measurement such as average temperature or stock market activity, often embedded directly in the text; for example: The Dow Jones index for February 7, 2006 . These are often used as elements of a small multiple with several lines used together. Tufte explains the sparkline as a kind of "word" that conveys rich information without breaking the flow of a sentence or paragraph made of other "words" both visual and conventional. To date, the earliest known implementation of sparklines was conceived by interaction designer Peter Zelchenko and implemented by programmer Mike Medved in early 1998.   
+      Sculpture 
+      Beyond his academic endeavors over the years, Tufte has created sculptures, often large outdoor ones made of metal or stone, which were first primarily exhibited on his own rural Connecticut property. In 2009–10, some of these artworks were exhibited at the Aldrich Contemporary Art Museum in Ridgefield, Connecticut, in the one-man show Edward Tufte: Seeing Around. The Tufte sculpture garden in Woodbury, Connecticut is open to the public one day per year. 
+      In 2010, Edward Tufte opened a gallery, ET Modern, in New York City's Chelsea Art District" at 11th Avenue and 20th Street. The gallery closed in 2013.  
+      Bibliography 
+      Works on political economy 
+      
+       
+       
+        Brody, Richard A.; Tufte, Edward R. (March 1964). "Constituent-Congressional Communication on Fallout Shelters: The Congressional Polls". Journal of Communication. 14 (1): 34–39. doi:10.1111/j.1460-2466.1964.tb02345.x. 
+        
+         Ekman, Paul; Tufte, Edward R.; Archibald, Kathleen; Brody, Richard A (June 1966). "Coping with Cuba: Divergent Policy Preferences of State Political Leaders". The Journal of Conflict Resolution. 10 (2): 180–97. doi:10.1177/002200276601000203. S2CID&nbsp;154210702. 
+        
+         Tufte, Edward R. (1968), The Civil Rights Movement and Its Opposition (PhD thesis). 
+        
+         ——— (July 1969). "Improving Data Analysis in Political Science". World Politics. Cambridge University Press. 21 (4): 641–54. doi:10.2307/2009670. JSTOR&nbsp;2009670. 
+        
+         ———; Reed, John Shelton (Winter 1969–1970). "A Note of Caution in Using Variables That Have Common Elements". The Public Opinion Quarterly. 33 (4): 622–6. doi:10.1086/267756. 
+        
+         ———; Kish, Ed L. (1970). Some statistical problems in research design. The Quantitative Analysis of Social Problems. Reading, MA: Addison–Wesley. 
+        Edward R. Tufte reviewed work: 
+         Palumbo, Dennis J. (September 1970). "Statistics in Political and Behavioral Science". Journal of the American Statistical Association. 65 (331): 1414–5. doi:10.2307/2284317. JSTOR&nbsp;2284317. 
+        
+         ———; Dahl, Robert (1973), Size &amp; Democracy: The Politics of the smaller European democracies, Stanford, CA, US: Stanford University Press, ISBN&nbsp;0-8047-0834-7. 
+        
+         ——— (June 1973). "The Relationship between Seats and Votes in Two-Party Systems". The American Political Science Review. 67 (2): 540–54. doi:10.2307/1958782. JSTOR&nbsp;1958782. 
+        
+         ——— (1974), The Political Manipulation of the Economy: Influence of the Electoral Cycle on Macroeconomic Performance and Policy (mimeo), Department of Politics, Princeton University }: |format= requires |url= (help). 
+        
+         ——— (1974), Data Analysis for Politics and Policy, Prentice Hall College Div, ISBN&nbsp;0-13-197525-0. 
+        
+         Lemieux, Peter H.; Kort, Fred; Pfotenhauer, David; Stewart, Philip R; Burnham, Walter Dean; Tufte, Edward R. (March 1974). "Communications". The American Political Science Review. 68 (1): 202–13. doi:10.1017/S0003055400235478. 
+        
+         Tufte, Edward R. (June 1974). "Electoral Reform: An Introduction". Policy Studies Journal. 2 (4): 240–2. doi:10.1111/j.1541-0072.1974.tb00406.x. 
+        
+         ———; Sun, Richard A (1974). "Are there Bellwether Electoral Districts?". Public Opin Q. 39 (1): 1–18. doi:10.1086/268196. 
+        
+         ——— (November 1975). "Electronic Calculators and Data Analysis: A Consumer's Report on the SR-51, HP-21, HP-55, and HP-65". American Journal of Political Science. 19 (4): 783–94. doi:10.2307/2110727. JSTOR&nbsp;2110727. 
+        
+         ——— (1977). "Improving Data Display". Dept. Of Statistics. University of Chicago. 
+        
+         ——— (March 1977). "Political Statistics for the United States: Observations on Some Major Data Sources". The American Political Science Review. 71 (1): 305–14. doi:10.2307/1956972. JSTOR&nbsp;1956972. 
+        
+         ——— (1978), Political Control of the Economy, Princeton, NJ: Princeton University Press, ISBN&nbsp;0-691-07594-8. 
+        
+         ——— (January 1979). "Political Parties, Social Class, and Economic Policy Preferences". Government and Opposition. 14 (1): 18–36. doi:10.1111/j.1477-7053.1979.tb00240.x. 
+        Edward R. Tufte reviewed work: 
+         Shultz, George P.; Dam, Kenneth W. (June 1979). "Economic Policy Beyond the Headlines". The American Political Science Review. 73 (2): 605. doi:10.2307/1954949. JSTOR&nbsp;1954949. 
+        Edward R. Tufte reviewed work: 
+         Cohen, Jacob; Cohen, Patricia (December 1979). "Applied Multiple Regression/Correlation Analysis for the Behavioral Sciences". Journal of the American Statistical Association. 74 (368): 935. doi:10.2307/2286442. JSTOR&nbsp;2286442. 
+        
+         Hoffman, David; Matisse, Henri; Tufte, Edward R (1987). "The computer-aided discovery of new embedded minimal surfaces". The Mathematical Intelligencer. 9 (3): 8–21. doi:10.1007/BF03023947. S2CID&nbsp;121320768. 
+        Edward R. Tufte reviewed work: 
+         Rose, Richard; Peters, Guy (June 1980). "Can Government Go Bankrupt?". The American Political Science Review. 74 (2): 567–8. doi:10.2307/1960736. JSTOR&nbsp;1960736. 
+        
+         ——— (1985). "Evidence Selection in Statistical Studies of Political Economy: The Distribution of Published Statistics" (unpublished manuscript). }: Cite journal requires |journal= (help). 
+        
+         ——— (November 1987). "Dynamic Graphics for Data Analysis: Comment". Statistical Science. 2 (4): 389–92. doi:10.1214/ss/1177013109. 
+        
+         ——— (November 1988). "A Conversation with Cuthbert Daniel". Statistical Science. 3 (4): 413–24. doi:10.1214/ss/1177012760.
+        
+       
+      Works of analytic design 
+      
+       
+       
+        
+         Tufte, Edward R (2001) , The Visual Display of Quantitative Information (2nd&nbsp;ed.), Cheshire, CT: Graphics Press, ISBN&nbsp;0-9613921-4-2. 
+        
+         ——— (June 1990). "Data-Ink Maximization and Graphical Design". Oikos. 58 (2): 130–144. doi:10.2307/3545420. JSTOR&nbsp;3545420. 
+        
+         ——— (2001b) , Envisioning Information, Cheshire, CT: Graphics Press, ISBN&nbsp;0-9613921-1-8. 
+        
+         ——— (1991). Dequantification in scientific visualization: Is this science or television. New Haven, CT: Yale University. 
+        
+         ——— (1993). "Design of a cancer atlas". National Center for Health Statistics Contract Report. 
+        
+         Powsner, SM; Tufte, Edward R (August 1994). "Graphical Summary of Patient Status". Lancet. 344 (8919): 386–9. doi:10.1016/S0140-6736(94)91406-0. PMID&nbsp;7914312. S2CID&nbsp;6144051. 
+        
+         ———; Tufte, Edward R (1997). "Summarizing clinical psychiatric data". Psychiatr Serv. 48 (11): 1458–61. doi:10.1176/ps.48.11.1458. PMID&nbsp;9355175. 
+        
+         Tufte, Edward R (1997), Visual Explanations: Images and Quantities, Evidence and Narrative, Cheshire, CT: Graphics Press, ISBN&nbsp;0-9613921-2-6. 
+        
+         ——— (2003), "PowerPoint is evil", Wired, 11 (9), ISSN&nbsp;1059-1028. 
+        
+         ——— (2003), The Cognitive Style of PowerPoint, Cheshire, CT: Graphics Press, ISBN&nbsp;0-9613921-6-9. 
+        
+         ——— (2006), Beautiful Evidence, Cheshire, CT: Graphics Press, Bibcode:2006beev.book.....T, ISBN&nbsp;0-9613921-7-7. 
+        
+         ——— (2020), Seeing With Fresh Eyes, Cheshire, CT: Graphics Press, ISBN&nbsp;0-9613921-9-3.
+        
+       
+      Exhibitions 
+      
+       
+        Visual Explanations: Prints and Sculptures, 2000–1, New York: Artists Space. 
+       
+        Escaping Flatland, Los Angeles: Architecture+Design Museum, 7 November 2002 – 13 February 2003, archived from the original on 2012-11-16. 
+       
+        Seeing Around, June 13, 2009, to April 11, 2010, Ridgefield, Connecticut: Aldrich Contemporary Art Museum. Unavailable 19 Feb. 2020.
+       
+      References 
+      
+       
+        
+        ^ a b 
+          "Edward Tufte". Art Directors Club. 2004. Retrieved March 27, 2018.  
+        ^ 
+          Tufte, Edward. "Pronunciation of "Tufte"?". Retrieved 12 December 2016.  
+        ^ a b 
+          The Many Faces (And Sculptures) of Edward Tufte, NPR, June 5, 2010, retrieved 2010-06-06.  
+        ^ Edward Tufte, Yale University: Political Science webpage.  
+        ^ 
+          Yaffa, Joshua. "The Information Sage". Washington Monthly.  
+        ^ 
+          "Edward E. Tufte, FASCE" (PDF). Archived from the original (PDF) on 6 April 2016. Retrieved 10 November 2015.  
+        ^ a b Reynolds, Christopher. "ART; Onward means going upward; Edward Tufte has spent his career fighting the visually dull and flat. Even his sculpture is a leap.", Los Angeles Times, November 14, 2002. Accessed April 23, 2008. ", who shares 20 acres (81,000&nbsp;m2) in Cheshire, Conn., with his wife, graphic design professor Inge Druckrey, and three golden retrievers, is a 1960 graduate of Beverly Hills High School."  
+        ^ a b 
+          President Obama Announces More Key Administration Posts, White House Office of the Press Secretary, March 5, 2010.  
+        ^ a b 
+          Zachry, Mark; Thralls, Charlotte (2004), "An interview with Edward R. Tufte" (PDF), Technical Communication Quarterly, 13 (4): 447–462, doi:10.1207/s15427625tcq1304_5, S2CID&nbsp;144937435.  
+        ^ Tufte 2001.  
+        ^ 
+          Mulrow, EJ (2002). "The Visual Display of Quantitative Information". Technometrics. 44 (4): 400. doi:10.1198/tech.2002.s78. S2CID&nbsp;30430506.  
+        ^ 
+          Kosslyn, Stephen Michael (2006). Graph design for the eye and mind. Oxford University Press. p.&nbsp;126. ISBN&nbsp;978-0-19-531184-6.  
+        ^ Tufte 2001, p.&nbsp;59.  
+        ^ Tufte 2001b, pp.&nbsp;43–44.  
+        ^ 
+          ——— (2006), Beautiful Evidence, Cheshire, CT: Graphics Press, Bibcode:2006beev.book.....T, ISBN&nbsp;0-9613921-7-7  
+        ^ 
+          Tufte, Edward Rolf, "Analysis", Forum.  
+        ^ 
+          Report (PDF), vol.&nbsp;1, Columbia Accident Investigation Board, August 2003, p.&nbsp;15, archived from the original (PDF) on 2011-07-24, retrieved 2008-08-11.  
+        ^ 
+          Tufte, Edward Rolf, PowerPoint Does Rocket Science—and Better Techniques for Technical Reports.  
+        ^ 
+          Oppenheimer, Diego. "Sparklines in Excel". The Microsoft Office Blog. Microsoft. Retrieved 2011-03-20.  
+        ^ 
+          Rimlinger, Fabrice. "Project Summary". Sparklines for Microsoft Excel. SourceForge. Retrieved 2011-03-20.  
+        ^ 
+          Tufte, Edward. "Microsoft patent claim for "sparklines in the grid"".  
+        ^ 
+          "Edward Tufte: Seeing Around". Aldrich Contemporary Art Museum. Retrieved 2012-06-03.  
+        ^ 
+          "The Work of Edward Tufte and Graphics Press". www.edwardtufte.com.  
+        ^ 
+          Tufte, Edward Rolf, ET Modern gallery opening (announcement), retrieved 2010-06-30.  
+        ^ 
+          "Edward Tufte's Twitter feed". Twitter. Retrieved 12 July 2014.  
+       
+       
+      External links 
+      
+        Media related to Edward Tufte at Wikimedia Commons
+       
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This article's use of external links may not follow Wikipedia's policies or guidelines. Please improve this article by removing excessive or inappropriate external links, and converting useful links where appropriate into footnote references. (May 2016) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      
+       
+        Tufte, Edward Rolf, Website. 
+       
+        "The Data Artist", Salon, 1997-03-10. 
+       
+        Tufte, Edward Rolf (2007), "Intelligent Designs", Magazine (article), Stanford University's Alumni, archived from the original on 2011-06-11, retrieved 2007-03-27. 
+       
+        Pen and Parchment – The Beautiful Evidence of Medieval Drawings (video), The Metropolitan Museum of Art, 47 min. 
+       
+        Robison, Wade; Boisjoly, Roger; Hoeker, David; Young, Stefan (2002) , "Representation and Misrepresentation: Tufte and the Morton Thiokol Engineers on the Challenger", Science and Engineering Ethics, Online Ethics Center for Engineering, 8 (1): 59–81, doi:10.1007/s11948-002-0033-2, PMID&nbsp;11840958, S2CID&nbsp;19219936, retrieved 2013-04-17 sharply criticizes Tufte's analysis of pre-disaster non-employment of graphics in Visual Explanations. Robison was a Rochester Institute of Technology professor; Boisjoly a directly involved Thiokol engineer; Hoeker and Young freshman RIT students. Alternative link. 
+       
+        Ivy League Rock and Roll – A day with Edward Tufte (review of a Tufte seminar, including discussion of his work). 
+       
+        Art Directors Club (biography, portrait and images of work). 
+       
+        Edward Tufte's 'Beautiful Evidence' (review), Yuri web. 
+       
+        "Portrait of the artist", News, UK: The BBC. 
+       
+        Tufte, Edward Rolf (2011-06-29), "How the government conveys information", The Washington Post (interview), archived from the original on 2012-01-17.
+       
+       
+       
+         
+         Awards 
+         
+         
+         Preceded&nbsp;by
+          
+           John Chapline
+            
+          ACM SIGDOC Rigo Award 1992  
+         Succeeded&nbsp;by
+          
+           Jay Bolter
+           
+         
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Visualization of technical information
+           
+         
+         
+          Fields
+          
+            
+            
+             Biological data visualization 
+             Chemical imaging 
+             Crime mapping 
+             Data visualization 
+             Educational visualization 
+             Flow visualization 
+             Geovisualization 
+             Information visualization 
+             Mathematical visualization 
+             Medical imaging 
+             Molecular graphics 
+             Product visualization 
+             Scientific visualization 
+             Software visualization 
+             Technical drawing 
+             User interface design 
+             Visual culture 
+             Volume visualization
+             
+           
+         
+         
+          Image types
+          
+            
+            
+             Chart 
+             Diagram 
+             Engineering drawing 
+             Graph of a function 
+             Ideogram 
+             Map 
+             Photograph 
+             Pictogram 
+             Plot 
+             Sankey diagram 
+             Schematic 
+             Skeletal formula 
+             Statistical graphics 
+             Table 
+             Technical drawings 
+             Technical illustration
+             
+           
+         
+         
+          People
+          
+            
+            
+             Jacques Bertin 
+             Cynthia Brewer 
+             Stuart Card 
+             Sheelagh Carpendale 
+             Thomas A. DeFanti 
+             Borden Dent 
+             Michael Friendly 
+             George Furnas 
+             Pat Hanrahan 
+             Nigel Holmes 
+             Christopher R. Johnson 
+             Gordon Kindlmann 
+             August Kekulé 
+             Manuel Lima 
+             Alan MacEachren 
+             Jock D. Mackinlay 
+             Michael Maltz 
+             Bruce H. McCormick 
+             Miriah Meyer 
+             Charles Joseph Minard 
+             Rudolf Modley 
+             Gaspard Monge 
+             Tamara Munzner 
+             Otto Neurath 
+             Florence Nightingale 
+             Hanspeter Pfister 
+             Clifford A. Pickover 
+             Catherine Plaisant 
+             William Playfair 
+             Karl Wilhelm Pohlke 
+             Adolphe Quetelet 
+             George G. Robertson 
+             Arthur H. Robinson 
+             Lawrence J. Rosenblum 
+             Ben Shneiderman 
+             Claudio Silva 
+             Fraser Stoddart 
+             Edward Tufte 
+             Fernanda Viégas 
+             Ade Olufeko 
+             Howard Wainer 
+             Martin Wattenberg 
+             Bang Wong 
+             Mauro Martino 
+             Moritz Stefaner
+             
+           
+         
+         
+          Related topics
+          
+            
+            
+             Cartography 
+             Chartjunk 
+             Computer graphics 
+              
+               in computer science
+               
+             CPK coloring 
+             Graph drawing 
+             Graphic design 
+             Graphic organizer 
+             Imaging science 
+             Information graphics 
+             Information science 
+             Misleading graph 
+             Neuroimaging 
+             Patent drawing 
+             Scientific modelling 
+             Spatial analysis 
+             Visual analytics 
+             Visual perception 
+             Volume cartography 
+             Volume rendering 
+             Information art
+             
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            Authority control 
+           
+         
+         
+          General
+          
+            
+            
+             ISNI 
+              
+               1
+               
+             VIAF 
+              
+               1
+               
+             WorldCat
+             
+           
+         
+         
+          National libraries
+          
+            
+            
+             Norway 
+             Spain 
+             France (data) 
+             Catalonia 
+             Germany 
+             United States 
+             Latvia 
+             Japan 
+             Czech Republic 
+             Korea 
+             Croatia 
+             Netherlands 
+             Poland 
+             Vatican
+             
+           
+         
+         
+          Art research institutes
+          
+            
+            
+             Artist Names (Getty)
+             
+           
+         
+         
+          Scientific databases
+          
+            
+            
+             CiNii (Japan) 
+             DBLP (computer science) 
+             Mathematics Genealogy Project
+             
+           
+         
+         
+          Other
+          
+            
+            
+             Faceted Application of Subject Terminology 
+             RERO (Switzerland) 
+              
+               1
+               
+             Social Networks and Archival Context 
+             SUDOC (France) 
+              
+               1
+               
+             Trove (Australia) 
+              
+               1
+              
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Edward_Tufte&amp;oldid=1066732633"
+     
+     
+    
+     
+      Categories: 
+      
+       1942 births
+       Living people
+       People from Kansas City, Missouri
+       American statisticians
+       Design writers
+       Information graphic designers
+       Information visualization experts
+       Beverly Hills High School alumni
+       Stanford University alumni
+       Yale University alumni
+       Yale University faculty
+       AIGA medalists
+       Fellows of the American Statistical Association
+       Center for Advanced Study in the Behavioral Sciences fellows
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with short description
+       Short description matches Wikidata
+       All articles with unsourced statements
+       Articles with unsourced statements from November 2019
+       CS1 errors: format without URL
+       CS1 errors: missing periodical
+       Commons category link from Wikidata
+       Wikipedia external links cleanup from May 2016
+       Wikipedia spam cleanup from May 2016
+       All articles with dead external links
+       Articles with dead external links from August 2021
+       Articles with ISNI identifiers
+       Articles with VIAF identifiers
+       Articles with WORLDCATID identifiers
+       Articles with BIBSYS identifiers
+       Articles with BNE identifiers
+       Articles with BNF identifiers
+       Articles with CANTIC identifiers
+       Articles with GND identifiers
+       Articles with LCCN identifiers
+       Articles with LNB identifiers
+       Articles with NDL identifiers
+       Articles with NKC identifiers
+       Articles with NLK identifiers
+       Articles with NSK identifiers
+       Articles with NTA identifiers
+       Articles with PLWABN identifiers
+       Articles with VcBA identifiers
+       Articles with ULAN identifiers
+       Articles with CINII identifiers
+       Articles with DBLP identifiers
+       Articles with MGP identifiers
+       Articles with FAST identifiers
+       Articles with RERO identifiers
+       Articles with SNAC-ID identifiers
+       Articles with SUDOC identifiers
+       Articles with Trove identifiers
+       AC with 26 elements
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       Variants expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       تۆرکجه
+       Cymraeg
+       Deutsch
+       Español
+       فارسی
+       Français
+       Italiano
+       Norsk bokmål
+       Português
+       Русский
+       Српски / srpski
+       Українська
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 19 January 2022, at 21:19&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

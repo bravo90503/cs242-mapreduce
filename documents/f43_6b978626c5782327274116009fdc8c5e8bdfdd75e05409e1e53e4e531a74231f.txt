@@ -1,0 +1,629 @@
+
+ 
+  
+   
+  Text corpus - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Text corpus 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+    
+     &nbsp;&nbsp;(Redirected from Text corpora)
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      
+       Large and structured set of texts being the basis for linguistic research
+       
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           This article includes a list of general references, but it remains largely unverified because it lacks sufficient corresponding inline citations. Please help to improve this article by introducing more precise citations. (December 2009) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      In linguistics, a corpus (plural corpora) or text corpus is a language resource consisting of a large and structured set of texts (nowadays usually electronically stored and processed). In corpus linguistics, they are used to do statistical analysis and hypothesis testing, checking occurrences or validating linguistic rules within a specific language territory.  
+      
+       
+       
+        Contents
+        
+        
+        1 Overview 
+        2 Applications 
+        3 Some notable text corpora 
+        4 See also 
+        5 References 
+        6 External links 
+        
+       
+      Overview 
+      A corpus may contain texts in a single language (monolingual corpus) or text data in multiple languages (multilingual corpus). 
+      In order to make the corpora more useful for doing linguistic research, they are often subjected to a process known as annotation. An example of annotating a corpus is part-of-speech tagging, or POS-tagging, in which information about each word's part of speech (verb, noun, adjective, etc.) is added to the corpus in the form of tags. Another example is indicating the lemma (base) form of each word. When the language of the corpus is not a working language of the researchers who use it, interlinear glossing is used to make the annotation bilingual. 
+      Some corpora have further structured levels of analysis applied. In particular, smaller corpora may be fully parsed. Such corpora are usually called Treebanks or Parsed Corpora. The difficulty of ensuring that the entire corpus is completely and consistently annotated means that these corpora are usually smaller, containing around one to three million words. Other levels of linguistic structured analysis are possible, including annotations for morphology, semantics and pragmatics.  
+      Applications 
+      Corpora are the main knowledge base in corpus linguistics. Other notable areas of application include:  
+      
+       Language technology, natural language processing, computational linguistics 
+        
+         The analysis and processing of various types of corpora are also the subject of much work in computational linguistics, speech recognition and machine translation, where they are often used to create hidden Markov models for part of speech tagging and other purposes. Corpora and frequency lists derived from them are useful for language teaching. Corpora can be considered as a type of foreign language writing aid as the contextualised grammatical knowledge acquired by non-native language users through exposure to authentic texts in corpora allows learners to grasp the manner of sentence formation in the target language, enabling effective writing.
+        
+       
+      
+       Machine translation 
+        
+         Multilingual corpora that have been specially formatted for side-by-side comparison are called aligned parallel corpora. There are two main types of parallel corpora which contain texts in two languages. In a translation corpus, the texts in one language are translations of texts in the other language. In a comparable corpus, the texts are of the same kind and cover the same content, but they are not translations of each other. To exploit a parallel text, some kind of text alignment identifying equivalent text segments (phrases or sentences) is a prerequisite for analysis. Machine translation algorithms for translating between two languages are often trained using parallel fragments comprising a first language corpus and a second language corpus which is an element-for-element translation of the first language corpus.
+         
+       Philologies 
+        
+         Text corpora are also used in the study of historical documents, for example in attempts to decipher ancient scripts, or in Biblical scholarship. Some archaeological corpora can be of such short duration that they provide a snapshot in time. One of the shortest corpora in time may be the 15–30 year Amarna letters texts (1350 BC). The corpus of an ancient city, (for example the "Kültepe Texts" of Turkey), may go through a series of corpora, determined by their find site dates.
+        
+       
+      Some notable text corpora 
+      
+      
+       Main article: List of text corpora
+       
+      See also 
+      
+       Concordance 
+       Corpus linguistics 
+       Distributional–relational database 
+       Linguistic Data Consortium 
+       Natural language processing 
+       Natural Language Toolkit 
+       Parallel text alignment 
+       Search engines: they access the "web corpus". 
+       Speech corpus 
+       Translation memory 
+       Treebank 
+       Zipf's Law
+       
+      References 
+      
+       
+       
+         
+         ^ Yoon, H., &amp; Hirvela, A. (2004). ESL Student Attitudes toward Corpus Use in L2 Writing. Journal of Second Language Writing, 13(4), 257–283. Retrieved 21 March 2012.  
+         ^ Wołk, K.; Marasek, K. (7 April 2014). "A Sentence Meaning Based Alignment Method for Parallel Text Corpora Preparation". Advances in Intelligent Systems and Computing. Springer. 275: 107–114. arXiv:1509.09090. doi:10.1007/978-3-319-05951-8_11. ISBN&nbsp;978-3-319-05950-1. ISSN&nbsp;2194-5357. S2CID&nbsp;15361632.  
+         ^ 
+           Wołk, K.; Marasek, K. (2015). "Tuned and GPU-accelerated Parallel Data Mining from Comparable Corpora". Lecture Notes in Artificial Intelligence. Springer: 32–40. arXiv:1509.08639. ISBN&nbsp;978-3-319-24032-9.  
+        
+       
+       
+      External links 
+      
+       ACL SIGLEX Resource Links: Text Corpora Archived 2013-08-13 at the Wayback Machine 
+       Developing Linguistic Corpora: a Guide to Good Practice 
+       Free samples (not free), web-based corpora (45-425 million words each): American (COCA, COHA, TIME), British (BNC), Spanish, Portuguese 
+       Intercorp Building synchronous parallel corpora of the languages taught at the Faculty of Arts of Charles University. 
+       Sketch Engine: Open corpora with free access 
+       TS Corpus - A Turkish Corpus freely available for academic research. 
+       Turkish National Corpus - A general-purpose corpus for contemporary Turkish 
+       Corpus of Political Speeches, Free access to political speeches by American and Chinese politicians, developed by Hong Kong Baptist University Library
+       
+      
+       Russian National Corpus
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Natural language processing
+           
+         
+         
+          General terms
+          
+            
+            
+             AI-complete 
+             Bag-of-words 
+             n-gram 
+              
+               Bigram 
+               Trigram
+               
+             Computational linguistics 
+             Natural-language understanding 
+             Stop words 
+             Text processing
+             
+           
+         
+         
+          Text analysis
+          
+            
+            
+             Collocation extraction 
+             Concept mining 
+             Coreference resolution 
+             Deep linguistic processing 
+             Distant reading 
+             Information extraction 
+             Named-entity recognition 
+             Ontology learning 
+             Parsing 
+             Part-of-speech tagging 
+             Semantic role labeling 
+             Semantic similarity 
+             Sentiment analysis 
+             Terminology extraction 
+             Text mining 
+             Textual entailment 
+             Truecasing 
+             Word-sense disambiguation 
+             Word-sense induction
+             
+           
+           
+            
+             
+              Text segmentation
+              
+                
+                
+                 Compound-term processing 
+                 Lemmatisation 
+                 Lexical analysis 
+                 Text chunking 
+                 Stemming 
+                 Sentence segmentation 
+                 Word segmentation
+                 
+               
+             
+            
+           
+            
+           
+         
+         
+          Automatic summarization
+          
+            
+            
+             Multi-document summarization 
+             Sentence extraction 
+             Text simplification
+             
+           
+         
+         
+          Machine translation
+          
+            
+            
+             Computer-assisted 
+             Example-based 
+             Rule-based 
+             Statistical 
+             Transfer-based 
+             Neural
+             
+           
+         
+         
+          Distributional semantics models
+          
+            
+            
+             BERT 
+             Document-term matrix 
+             Explicit semantic analysis 
+             fastText 
+             GloVe 
+             Latent semantic analysis 
+             Word embedding 
+             Word2vec
+             
+           
+         
+         
+          Language resources, datasets and corpora
+          
+           
+           
+            
+             
+              Types and standards
+              
+                
+                
+                 Corpus linguistics 
+                 Lexical resource 
+                 Linguistic Linked Open Data 
+                 Machine-readable dictionary 
+                 Parallel text 
+                 PropBank 
+                 Semantic network 
+                 Simple Knowledge Organization System 
+                 Speech corpus 
+                 Text corpus 
+                 Thesaurus (information retrieval) 
+                 Treebank 
+                 Universal Dependencies
+                 
+               
+             
+             
+              Data
+              
+                
+                
+                 BabelNet 
+                 Bank of English 
+                 DBpedia 
+                 FrameNet 
+                 Google Ngram Viewer 
+                 ThoughtTreasure 
+                 UBY 
+                 WordNet
+                 
+               
+             
+            
+           
+           
+         
+         
+          Automatic identificationand data capture
+          
+            
+            
+             Speech recognition 
+             Speech segmentation 
+             Speech synthesis 
+             Natural language generation 
+             Optical character recognition
+             
+           
+         
+         
+          Topic model
+          
+            
+            
+             Document classification 
+             Latent Dirichlet allocation 
+             Pachinko allocation
+             
+           
+         
+         
+          Computer-assistedreviewing
+          
+            
+            
+             Automated essay scoring 
+             Concordancer 
+             Grammar checker 
+             Predictive text 
+             Spell checker 
+             Syntax guessing
+             
+           
+         
+         
+          Natural languageuser interface
+          
+            
+            
+             Chatbot 
+             Interactive fiction 
+             Question answering 
+             Virtual assistant 
+             Voice user interface
+             
+           
+         
+         
+          Other software
+          
+            
+            
+             Natural Language Toolkit 
+             spaCy
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Text_corpus&amp;oldid=1065312637"
+     
+     
+    
+     
+      Categories: 
+      
+       Discourse analysis
+       Corpus linguistics
+       Computational linguistics
+       Works based on multiple works
+       Test items
+      
+     
+     
+      Hidden categories: 
+      
+       Articles with short description
+       Short description matches Wikidata
+       Articles lacking in-text citations from December 2009
+       All articles lacking in-text citations
+       Webarchive template wayback links
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      In other projects  
+      
+      
+       Wikimedia Commons
+       
+      
+     
+     
+      Languages  
+      
+      
+       Afrikaans
+       العربية
+       Беларуская
+       Беларуская (тарашкевіца)
+       Български
+       Català
+       Чӑвашла
+       Čeština
+       Dansk
+       Deutsch
+       Eesti
+       Ελληνικά
+       Español
+       Esperanto
+       Euskara
+       فارسی
+       Français
+       Galego
+       한국어
+       Հայերեն
+       हिन्दी
+       Ido
+       Italiano
+       Lietuvių
+       Magyar
+       മലയാളം
+       Bahasa Melayu
+       Nederlands
+       日本語
+       Norsk bokmål
+       Oʻzbekcha/ўзбекча
+       Polski
+       Português
+       Русский
+       Slovenčina
+       Slovenščina
+       Suomi
+       ไทย
+       Українська
+       Tiếng Việt
+       粵語
+       中文
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 12 January 2022, at 22:33&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

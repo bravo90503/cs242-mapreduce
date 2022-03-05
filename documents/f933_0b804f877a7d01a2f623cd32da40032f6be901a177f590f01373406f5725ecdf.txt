@@ -1,0 +1,889 @@
+
+ 
+  
+   
+  Records management - Wikipedia 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+   Records management 
+    
+    
+     From Wikipedia, the free encyclopedia
+     
+    
+     &nbsp;&nbsp;(Redirected from Records Management)
+     
+     
+     Jump to navigation Jump to search 
+    
+     
+      Records management, also known as records and information management, is an organizational function devoted to the  management of information in an organization throughout its life cycle, from the time of creation or receipt to its eventual disposition. This includes identifying, classifying, storing, securing, retrieving, tracking and destroying or permanently preserving records. The ISO 15489-1: 2001 standard ("ISO 15489-1:2001") defines records management as " field of management responsible for the efficient and systematic control of the creation, receipt, maintenance, use and disposition of records, including the processes for capturing and maintaining evidence of and information about business activities and transactions in the form of records". 
+      An organization's records preserve aspects of institutional memory. In determining how long to retain records, their capacity for re-use is important. Many are kept as evidence of activities, transactions, and decisions. Others document what happened and why. The purpose of records management is part of an organization's broader function of governance, risk management, and compliance and is primarily concerned with managing the evidence of an organization's activities as well as the reduction or mitigation of risk associated with it. Recent research shows linkages between records management and accountability in governance.  
+      
+       
+       
+        Contents
+        
+        
+        1 Concepts of record 
+        2 Key records management terminology 
+        3 Records management theory 
+          
+          3.1 Records life-cycle 
+          3.2 Records continuum theory 
+           
+        4 Records management practices and concepts 
+          
+          4.1 Defensible solutions 
+          4.2 Classification 
+            
+            4.2.1 Enterprise records 
+            4.2.2 Industry records 
+            4.2.3 Legal hold records 
+             
+          4.3 Records retention schedule 
+           
+        5 Managing physical records 
+        6 Managing digital records 
+        7 Current issues 
+        8 Education and certification 
+        9 Electronic records management systems 
+          
+          9.1 Commercial records centers 
+           
+        10 See also 
+        11 References 
+        12 External links 
+        
+       
+      Concepts of record 
+      The concept of record is variously defined. The ISO 15489-1:2016 defines records as "information created, received, and maintained as evidence and as an asset by an organization or person, in pursuit of legal obligations or in the transaction of business". While there are many purposes of and benefits to records management, as this definition highlights, a key feature of records is their ability to serve as evidence of an event. Proper records management can help preserve this feature of records. 
+      Recent and comprehensive studies have defined records as "persistent representations of activities" as recorded or created by participants or observers. This transactional view emphasizes the importance of context and process in the determination and meaning of records. In contrast, previous definitions have emphasized the evidential and informational properties of records. In organizational contexts, records are materials created or received by an organization in the transaction of business, or in pursuit of or in compliance with legal obligations. This organizational definition of record stems from the early theorization of archives as organic aggregations of records, that is "the written documents, drawings and printed matter, officially received or produced by an administrative body or one of its officials".  
+      Key records management terminology 
+      
+       
+        
+         
+          
+           
+          
+         
+          
+           The examples and perspective in this article may not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appropriate. (March 2016) (Learn how and when to remove this template message)
+          
+        
+       
+       
+      Not all documents are records. A record is a document consciously retained as evidence of an action. Records management systems generally distinguish between records and non-records (convenience copies, rough drafts, duplicates), which do not need formal management. Many systems, especially for electronic records, require documents to be formally declared as a record so they can be managed. Once declared, a record cannot be changed and can only be disposed of within the rules of the system. 
+      Records may be covered by access controls to regulate who can access them and under what circumstances. Physical controls may be used to keep confidential records secure – personnel files, for instance, which hold sensitive personal data, may be held in a locked cabinet with a control log to track access. Digital records systems may include role-based access controls, allowing permissions (to view, change and/or delete) to be allocated to staff depending on their role in the organisation. An audit trail showing all access and changes can be maintained to ensure the integrity of the records. 
+      Just as the records of the organization come in a variety of formats, the storage of records can vary throughout the organization. File maintenance may be carried out by the owner, designee, a records repository, or clerk. Records may be managed in a centralized location, such as a records center or repository, or the control of records may be decentralized across various departments and locations within the entity. Records may be formally and discretely identified by coding and housed in folders specifically designed for optimum protection and storage capacity, or they may be casually identified and filed with no apparent indexing. Organizations that manage records casually find it difficult to access and retrieve information when needed. The inefficiency of filing maintenance and storage systems can prove to be costly in terms of wasted space and resources expended searching for records. 
+      An inactive record is a record that is no longer needed to conduct current business but is being preserved until it meets the end of its retention period, such as when a project ends, a product line is retired, or the end of a fiscal reporting period is reached. These records may hold business, legal, fiscal, or historical value for the entity in the future and, therefore, are required to be maintained for a short or permanent duration. Records are managed according to the retention schedule. Once the life of a record has been satisfied according to its predetermined period and there are no legal holds pending, it is authorized for final disposition, which may include destruction, transfer, or permanent preservation. 
+      A disaster recovery plan is a written and approved course of action to take after a disaster strikes that details how an organization will restore critical business functions and reclaim damaged or threatened records. 
+      An active record is a record needed to perform current operations, subject to frequent use, and usually located near the user. In the past, 'records management' was sometimes used to refer only to the management of records which were no longer in everyday use but still needed to be kept – "semi-current" or "inactive" records, often stored in basements or offsite. More modern usage tends to refer to the entire "lifecycle" of records – from the point of creation right through until their eventual disposal. 
+      The format and media of records is generally irrelevant for the purposes of records management from the perspective that records must be identified and managed, regardless of their form. The ISO considers management of both physical and electronic records. Also, section DL1.105 of the United States Department of Defense standard DoD 5015.02-STD (2007) defines Records Management as "the planning, controlling, directing, organizing, training, promoting, and other managerial activities involving the life cycle of information, including creation, maintenance (use, storage, retrieval), and disposal, regardless of media".  
+      Records management theory 
+      Records life-cycle 
+      
+      
+       Main article: Records life-cycle
+       
+      The records life-cycle consists of discrete phases covering the life span of a record from its creation to its final disposition. In the creation phase, records growth is expounded by modern electronic systems. Records will continue to be created and captured by the organization at an explosive rate as it conducts the business of the organization. Correspondence regarding a product failure is written for internal leadership, financial statements and reports are generated for public and regulatory scrutiny, the old corporate logo is retired, and a new one – including color scheme and approved corporate font – takes its place in the organization's history. 
+      Examples of records phases include those for creation of a record, modification of a record, movement of a record through its different states while in existence, and destruction of a record. 
+      Throughout the records life cycle, issues such as security, privacy, disaster recovery, emerging technologies, and mergers are addressed by the records and information management professional responsible for organizational programs. Records and information management professionals are instrumental in controlling and safeguarding the information assets of the entity. They understand how to manage the creation, access, distribution, storage, and disposition of records and information in an efficient and cost-effective manner using records and information management methodology, principles, and best practices in compliance with records and information laws and regulations.  
+      Records continuum theory 
+      
+      
+       Main article: Records Continuum Model
+       
+      The records continuum theory is an abstract conceptual model that helps to understand and explore recordkeeping activities in relation to multiple contexts over space and time.  
+      Records management practices and concepts 
+      A records manager is someone who is responsible for records management in an organization. 
+      Section 4 of the ISO 15489-1:2001 states that records management includes:  
+      
+       setting policies and standards 
+       assigning responsibilities and authorities 
+       establishing and promulgating procedures and guidelines 
+       providing a range of services relating to the management and use of records 
+       designing, implementing and administering specialized systems for managing records 
+       integrating records management into business systems and processes
+       
+      Thus, the practice of records management may involve:  
+      
+       planning the information needs of an organization 
+       identifying information requiring capture 
+       creating, approving, and enforcing policies and practices regarding records, including their organization and disposal 
+       developing a records storage plan, which includes the short and long-term housing of physical records and digital information 
+       identifying, classifying, and storing records 
+       coordinating access to records internally and outside of the organization, balancing the requirements of business confidentiality, data privacy, and public access. 
+       identification and maintenance of records per a specified retention period 
+       executing a retention policy on the disposal of records which are no longer required for operational reasons; according to organizational policies, statutory requirements, and other regulations this may involve either their destruction or permanent preservation in an archive.
+       
+      Records-management principles and automated records-management systems aid in the capture, classification, and ongoing management of records throughout their lifecycle. ARMA International defines records management as "the field of management responsible for establishing and implementing policies, systems, and procedures to capture, create, access, distribute, use, store, secure, retrieve, and ensure disposition of an organization's records and information". Such a system may be paper-based (such as index cards as used in a library), or may involve a computer system, such as an electronic records-management application.  
+      Defensible solutions 
+      A defensible solution is one that can be supported with clearly documented policies, processes and procedures that drive how and why work is performed, as well as one that has clearly documented proof of behavior patterns, proving that an organization follows such documented constraints to the best of their ability. 
+      While defensibility applies to all aspects of records life cycle, it is considered most important in the context of records destruction, where it is known as "defensible disposition" or "defensible destruction," and helps an organization explicitly justify and prove things like who destroys records, why they destroy them, how they destroy them, when they destroy them, and where they destroy them.  
+      Classification 
+      Records managers use classification or categorization of record types to logically organize records created and maintained by an institution. Such classifications assist in functions such as creation, organization, storage, retrieval, movement, and destruction of records. 
+      At the highest level of classification are physical versus electronic records. (This is disputable; records are defined as such regardless of media. ISO 15489 and other best practices promulgate a functions based, rather than media based classification, because the law defines records as certain kinds of information regardless of media.) 
+      Physical records are those records, such as paper, that can be touched and which take up physical space. 
+      Electronic records, also often referred to as digital records, are those records that are generated with and used by information technology devices. 
+      Classification of records is achieved through the design, maintenance, and application of taxonomies, which allow records managers to perform functions such as the categorization, tagging, segmenting, or grouping of records according to various traits.  
+      Enterprise records 
+      Enterprise records represent those records that are common to most enterprises, regardless of their function, purpose, or sector. Such records often revolve around the day-to-day operations of an enterprise and cover areas such as but not limited litigation, employee management, consultant or contractor management, customer engagements, purchases, sales, and contracts. 
+      The types of enterprises that produce and work with such records include but are not limited to for-profit companies, non-profit companies, and government agencies.  
+      Industry records 
+      Industry records represent those records that are common and apply only to a specific industry or set of industries. Examples include but are not limited to medical industry records (e.g., the Health Insurance Portability and Accountability Act), pharmaceutical industry records, and food industry records.  
+      Legal hold records 
+      Legal hold records are those records that are mandated, usually by legal counsel or compliance personnel, to be held for a period of time, either by a government or by an enterprise, and for the purposes of addressing potential issues associated with compliance audits and litigation. Such records are assigned Legal Hold traits that are in addition to classifications which are as a result of enterprise or industry classifications. 
+      Legal hold data traits may include but are not limited to things such as legal hold flags (e.g. Legal Hold = True or False), the organization driving the legal hold, descriptions of why records must be legally held, what period of time records must be held for, and the hold location.  
+      Records retention schedule 
+      A records retention schedule is a document, often developed using archival appraisal concepts and analysis of business and legal contexts within the intended jurisdictions, that outlines how long certain types of records need to be retained for before they can be destroyed. For the retention schedule to be utilized a number of guidelines need to be put in place so as to be considered for implementation.  
+      Managing physical records 
+      Managing physical records involves different disciplines or capabilities and may draw on a variety of forms of expertise.  
+      
+       
+        Identifying records
+        
+       
+        If an item is presented as a legal record, it needs to be authenticated. Forensic experts may need to examine a document or artifact to determine that it is not a forgery, and that any damage, alteration, or missing content is documented. In extreme cases, items may be subjected to a microscope, x-ray, radiocarbon dating or chemical analysis. This level of authentication is rare but requires that special care be taken in the creation and retention of the records of an organization.
+       
+       
+      
+       
+        Storing records
+        
+       
+        Records must be stored in such a way that they are accessible and safeguarded against environmental damage. A typical paper document may be stored in a filing cabinet in an office. However, some organisations employ file rooms with specialized environmental controls including temperature and humidity. Vital records may need to be stored in a disaster-resistant safe or vault to protect against fire, flood, earthquakes and conflict. In extreme cases, the item may require both disaster-proofing and public access, such as the original, signed US Constitution. Civil engineers may need to be consulted to determine that the file room can effectively withstand the weight of shelves and file cabinets filled with paper; historically, some military vessels were designed to take into account the weight of their operating procedures on paper as part of their ballast equation (modern record-keeping technologies have transferred much of that information to electronic storage). In addition to on-site storage of records, many organizations operate their own off-site records centers or contract with commercial records centres.
+       
+       
+      
+       
+        Retrieval of records
+        
+       
+        In addition to being able to store records, enterprises must also establish the proper capabilities for retrieval of records, in the event they are needed for a purpose such as an audit or litigation, or for the case of destruction. Record retrieval capabilities become complex when dealing with electronic records, especially when they have not been adequately tagged or classified for discovery.
+       
+       
+      
+       
+        Circulating records
+        
+       
+        Tracking the record while it is away from the normal storage area is referred to as circulation. Often this is handled by simple written recording procedures. However, many modern records environments use a computerized system involving bar code scanners, or radio-frequency identification technology (RFID) to track the movement of the records. These can also be used for periodic auditing to identify the unauthorized movement of the record.
+       
+       
+      
+       
+        Disposal of records
+        
+       
+        Disposal of records does not always mean destruction. It can also include transfer to a historical archive, museum, or private individual. The large volumes of paper records and the inaccessibility of active paper records are some of the reasons that drive organizations to dispose or destroy records. Destruction of records ought to be authorized by law, statute, regulation, or operating procedure, and the records should be disposed of with care to avoid inadvertent disclosure of information. The process needs to be well-documented, starting with a records retention schedule and policies and procedures that have been approved at the highest level. An inventory of the records disposed of should be maintained, including certification that they have been destroyed. Records should never simply be discarded as refuse. Most organizations use processes including pulverization, paper shredding or incineration.
+       
+       
+      Commercially available products can manage records through all processes active, inactive, archival, retention scheduling and disposal. Some also utilize RFID technology for the tracking of physical file.  
+      Managing digital records 
+      The general principles of records management apply to records in any format. Digital records, however, raise specific issues. It is more difficult to ensure that the content, context and structure of records is preserved and protected when the records do not have a physical existence. This has important implications for the authenticity, reliability, and trustworthiness of records. 
+      Much research is being conducted on the management of digital records. The International Research on Permanent Authentic Records in Electronic Systems (InterPARES) Project is one example of such an initiative. Based at the School of Library, Archival and Information Studies at the University of British Columbia, in Vancouver, British Columbia, Canada, the InterPARES Project is a collaborative project between researchers all across the world committed to developing theories and methodologies to ensure the reliability, accuracy, and authenticity of digital records. 
+      Functional requirements for computer systems to manage digital records have been produced by the US Department of Defense, The United Kingdom's National Archives and the European Commission, whose MoReq (Model Requirements for the Management of Electronic Records) specification has been translated into at least twelve languages funded by the European Commission. 
+      Particular concerns exist about the ability to access and read digital records over time, since the rapid pace of change in technology can make the software used to create the records obsolete, leaving the records unreadable. A considerable amount of research is being undertaken to address this, under the heading of digital preservation. The Public Record Office Victoria (PROV) located in Melbourne, Australia published the Victorian Electronic Records Strategy (VERS) which includes a standard for the preservation, long-term storage and access to permanent electronic records. The VERS standard has been adopted by all Victorian Government departments. A digital archive has been established by PROV to enable the general public to access permanent records. Archives New Zealand is also setting up a digital archive.  
+      
+       
+        Electronic tax records
+       
+       
+      Electronic Tax Records are computer-based/non-paper versions of records required by tax agencies like the Internal Revenue Service. There is substantial confusion about what constitutes acceptable digital records for the IRS, as the concept is relatively new. The subject is discussed in Publication 583 and Bulletin 1997-13, but not in specific detail. 
+      Businesses and individuals wishing to convert their paper records into scanned copies may be at risk if they do so. For example, it is unclear if an IRS auditor would accept a JPEG, PNG, or PDF format scanned copy of a purchase receipt for a deducted expense item.  
+      Current issues 
+      
+       
+        Compliance and legal issues
+       
+       
+      While public administration, healthcare and the legal profession have a long history of records management, the corporate sector has generally shown less interest. This has changed in recent years due to new compliance requirements, driven in part by scandals such as the Enron/Andersen affair and more recent problems at Morgan Stanley. Corporate records compliance issues including retention period requirements and the need to disclose information as a result of litigation have come to be seen as important. Statutes such as the US Sarbanes-Oxley Act have resulted in greater standardization of records management practices. Since the 1990s the shift towards electronic records has seen a need for close working relations between records managers and IT managers, particularly including the legal aspects, focused on compliance and risk management.  
+      
+       
+        Security
+       
+       
+      Privacy, data protection, and identity theft have become issues of increasing interest. The role of the records manager in the protection of an organization's records has grown as a result. The need to ensure personal information is not retained unnecessarily has brought greater focus to retention schedules and records disposal.  
+      
+       
+        Transparency
+       
+       
+      The increased importance of transparency and accountability in public administration, marked by the widespread adoption of Freedom of Information laws, has led to a focus on the need to manage records so that they can be easily accessed by the public. For instance, in the United Kingdom, Section 46 of the Freedom of Information Act 2000 required the government to publish a Code of Practice on Records Management for public authorities. Similarly, European Union legislation on Data Protection and Environmental Information, requiring organisations to disclose information on request, create a need for effective management of such records.  
+      
+       
+        Adoption and implementation
+       
+       
+      Implementing required changes to organisational culture is a major challenge, since records management is often seen as an unnecessary or low priority administrative task that can be performed at the lowest levels within an organization. Reputational damage caused by poor records management has demonstrated that records management is the responsibility of all individuals within an organization. 
+      An issue that has been very controversial among records managers has been the uncritical adoption of Electronic document and records management systems.  
+      
+       
+        Impact of internet and social media
+       
+       
+      Another issue of great interest to records managers is the impact of the internet and related social media, such as wikis, blogs, forums, and companies such as Facebook and Twitter, on traditional records management practices, principles, and concepts, since many of these tools allow rapid creation and dissemination of records and, often, even in anonymous form.  
+      
+       
+        Records life cycle management
+       
+       
+      A difficult challenge for many enterprises is tied to the tracking of records through their entire information life cycle so that it's clear, at all times, where a record exists or if it still exists at all. The tracking of records through their life cycles allows records management staff to understand when and how to apply records related rules, such as rules for legal hold or destruction.  
+      
+       
+        Conversion of paper records to electronic form
+       
+       
+      As the world becomes more digital in nature, an ever-growing issue for the records management community is the conversion of existing or incoming paper records to electronic form. Such conversions are most often performed with the intent of saving storage costs, storage space, and in hopes of reducing records retrieval time. 
+      Tools such as document scanners, optical character recognition software, and electronic document management systems are used to facilitate such conversions.  
+      Education and certification 
+      Many colleges and universities offer degree programs in library and information sciences which cover records management. Furthermore, there are professional organizations which provide a separate, non-degreed, professional certification for practitioners, the Certified Records Manager designation or CRM.  
+      Electronic records management systems 
+      An Electronic Document and Records Management System is a computer program or set of programs used to track and store records. The term is distinguished from imaging and document management systems that specialize in paper capture and document management respectively. Electronic records management Systems commonly provide specialized security and auditing functionality tailored to the needs of records managers. 
+      The National Archives and Records Administration (NARA) has endorsed the U.S. Department of Defense standard 5015.2 as an "adequate and appropriate basis for addressing the basic challenges of managing records in the automated environment that increasingly characterizes the creation and use of records". Records Management Vendors can be certified as compliant with the DoD 5015.2-STD after verification from the Joint Interoperability Test Command which builds test case procedures, writes detailed and summary final reports on 5015.2-certified products, and performs on-site inspection of software. 
+      The National Archives in the UK has published two sets of functional requirements to promote the development of the electronic records management software market (1999 and 2002). It ran a program to evaluate products against the 2002 requirements. While these requirements were initially formulated in collaboration with central government, they have been taken up with enthusiasm by many parts of the wider public sector in the UK and in other parts of the world. The testing program has now closed; The National Archives is no longer accepting applications for testing. The National Archives 2002 requirements remain current. 
+      The European Commission has published "MoReq", the Model Requirements for Electronic Records and Document Management in 2001. Although not a formal standard, it is widely regarded and referred to as a standard. This was funded by the Commission's IDA program, and was developed at the instigation of the DLM Forum. A major update of MoReq, known as MoReq2, was published in February 2008. This too was initiated by the DLM Forum and funded by the European Commission, on this occasion by its IDABC program (the successor to IDA). A software testing framework and an XML schema accompany MoReq2; a software compliance testing regime was agreed at the DLM Forum conference in Toulouse in December 2008. 
+      The National Archives of Australia (NAA) published the Functional Specifications for Electronic Records Management Systems Software (ERMS), and the associated Guidelines for Implementing the Functional Specifications for Electronic Records Management Systems Software, as exposure drafts in February 2006. 
+      Archives New Zealand published a 'discretionary best practice' Electronic Recordkeeping Systems Standard (Standard 5) in June 2005, issued under the authority of Section 27 of the Public Records Act 2005.  
+      Commercial records centers 
+      Commercial records centers are facilities which provide services for the storage for paper records for organizations. In some cases, they also offer storage for records maintained in electronic formats. Commercial records centers provide high density storage for paper records and some offer climate controlled storage for sensitive non-paper and critical (vital) paper media. There is a trade organization for commercial records centers (for example, PRISM International), however, not all service providers are members.  
+      See also 
+      
+       Corporate memory 
+       Design and implementation of record keeping systems (DIRKS) 
+       Design Criteria Standard for Electronic Records Management Software Applications (DoD 5015.2) 
+       Document imaging 
+       Document management 
+       Enterprise content management (ECM) or Content management 
+       Information and Records Management Society 
+       Machine-Readable Documents 
+       Paperless office 
+       Picture archiving and communication system 
+       Records life cycle 
+       Records management taxonomy 
+       Records manager 
+       Relational database management system 
+       Retention schedule 
+       United Kingdom National Archives, The 
+       United States National Archives and Records Administration
+       
+      References 
+      
+       
+        
+        ^ ARMA International. "Glossary of Records and Information Management Terms, 3rd Edition". ARMA International. Archived from the original on 2013-09-28.  
+        ^ a b c d 
+          International Organization for Standardization – ISO (2001). "ISO 15489-1:2001 – Information and Documentation – Records Management – Part 1: General". International Organization for Standardization – ISO. Archived from the original on 2014-04-02.  
+        ^ 
+          Megill, Kenneth (2005). Corporate Memory: Records and Information Management in the Knowledge Age (2nd&nbsp;ed.). Munich: K.G. Saur/Thomson.  
+        ^ 
+          Anthony Tarantino (2008-02-25). Governance, Risk, and Compliance to the Handbook. ISBN&nbsp;978-0-470-09589-8.  
+        ^ David, R. (2017). Contribution of records management to audit opinions and accountability in government. South African Journal of Information Management, 19(1), 1-14.https://doi.org/10.4102/sajim.v19i1.771  
+        ^ 
+          Yeo, Geoffrey (2007). "Concepts of Record (1): Evidence, Information, and Persistent Representations". American Archivist. 70 (2): 315–343. doi:10.17723/aarc.70.2.u327764v1036756q.  
+        ^ 
+          Schellenberg, T. R. (October 1956). "The Appraisal of Modern Records". Bulletins of the National Archives (8). Archived from the original on 2016-11-24.  
+        ^ 
+          "Glossary of Records and Information Management Terms, 3rd Edition". ARMA International. Archived from the original on September 27, 2013. Retrieved September 3, 2016.  
+        ^ 
+          Pearce-Moses, Richard. "Record". Glossary of Archival and Records Terminology. Society of American Archivists. Archived from the original on 24 November 2016. Retrieved 23 November 2016.  
+        ^ 
+          Muller, S.; Feith, J. A.; Fruin, R (1968). Arthur H. Leavitt (ed.). Manual for the Arrangement and Description of Archives (1898) (2nd&nbsp;ed.). New York.  
+        ^ 
+          Cook, Terry (1997). "What Is Past Is Prologue: A History of Archival Ideas Since 1898, and the Future Paradigm Shift". Archivaria. 43: 17–63. Archived from the original on 24 November 2016. Retrieved 23 November 2016.  
+        ^ a b 
+          Assistant Secretary of Defence for Networks and Information Integration, Department of Defence Chief Information Officer (April 25, 2007). "United States Department of Defense Standard 5015.02 (DoD Std 5012.02), Electronic Records Management Software Applications Design Criteria Standard" (PDF). United States Department of Defense – US DOD. Archived from the original (PDF) on 2013-02-22.  
+        ^ 
+          "Records &amp; Information Management (RIM) - ARMA International". www.arma.org. Retrieved 2020-03-07.  
+        ^ 
+          Hale, Judith (December 2011). Performance-Based Certification: How to Design a Valid, Defensible, Cost-Effective Program. John Wiley &amp; Sons, Inc. ISBN&nbsp;978-1-118-02724-0. Archived from the original on 2013-09-27.  
+        ^ 
+          Hulme, Tony (June 2012). "Information Governance: Sharing the IBM approach". Business Information Review. 29 (2): 99–104. doi:10.1177/0266382112449221. S2CID&nbsp;154276859.  
+        ^ 
+          Caravaca, Maria Mata (May 2017). "Elements and Relationships within a records classification scheme". JLIS.it. 8 (2): 19–33.  
+        ^ 
+          Jeremy C. Maxwell; Annie I. Antón; Peter Swire; Maria Riaz; Christopher M. McCraw (June 2012). "A legal cross-references taxonomy for reasoning about compliance requirements". Requirements Engineering. 17 (2): 99–115. doi:10.1007/s00766-012-0152-5. S2CID&nbsp;15603509.  
+        ^ https://www.ica.org/sites/default/files/SPA_2008_Guidelines_Developing-a-retention-schedule_EN.pdf  
+        ^ 
+          European Commission (2011). MoReq2010, modular requirements for records systems, Core services &amp; plug-in modules, version 1.1, Volume 1. European Commission. doi:10.2792/2045. ISBN&nbsp;978-92-79-18519-9.  
+        ^ 
+          "Records management code". The National Archives. Archived from the original on 2016-02-02.  
+        ^ https://www.archives.gov/records_management/policy_and_guidance/automated_recordkeeping_requirements.html Archived April 9, 2005, at the Wayback Machine  
+        ^ http://jitc.fhu.disa.mil/recmgt/register.html Archived March 16, 2005, at the Wayback Machine  
+        ^ http://www.nationalarchives.gov.uk/electronicrecords/function.htm Archived February 13, 2006, at the Wayback Machine  
+        ^ http://ec.europa.eu/idabc/en/document/2303/5644 Archived December 25, 2007, at the Wayback Machine  
+        ^ 
+          "Archived copy". Archived from the original on 2009-02-10. Retrieved 2008-12-20.}: CS1 maint: archived copy as title (link)  
+        ^ http://www.eneclann.ie/Records_Management/legislation_standards.html Archived February 5, 2009, at the Wayback Machine  
+        ^ 
+          "The Society of Qualified Archivists: The Hidden Hand of the Malvine Project". thesocietyofqualifiedarchivists.blogspot.com. Archived from the original on 17 July 2009. Retrieved 9 May 2018.  
+        ^ Negotiating the RM standards maze Archived November 11, 2007, at the Wayback Machine  
+        ^ 
+          "Archived copy". Archived from the original on 2009-02-10. Retrieved 2008-12-20.}: CS1 maint: archived copy as title (link) (in French)  
+        ^ 
+          "Home - MoReq2". www.moreq2.eu. Archived from the original on 19 July 2011. Retrieved 9 May 2018.  
+        ^ 
+          "Archived copy". Archived from the original on 2008-03-02. Retrieved 2008-03-18.}: CS1 maint: archived copy as title (link)  
+        ^ 
+          National Archives of Australia. "Electronic document and records management system (EDRMS)". National Archives of Australia. Archived from the original on 2011-10-06.  
+        ^ Public Records Act 2005 Archived 2008-10-18 at the Wayback Machine  
+       
+       
+      External links 
+      
+       ARMA's generally accepted recordkeeping principles 
+       Records Management Listserv
+       
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            
+             v
+             t
+             e
+            
+           
+           
+            Management
+           
+         
+         
+          
+            
+            
+             Outline of business management 
+             Index of management articles
+             
+           
+         
+         
+          By type of organization
+          
+            
+            
+             Academic 
+             Association 
+             Business 
+              
+               Restaurant
+               
+             Healthcare 
+             Military 
+             Public
+             
+           
+         
+         
+          By focus (within an organization)
+          
+           
+           
+            
+             
+              By scope
+              
+               
+               
+                
+                 
+                  Strategic(top-level)
+                  
+                    
+                    
+                     Capability 
+                     Change 
+                     Communication 
+                     Financial 
+                     Innovation 
+                     Performance 
+                     Risk 
+                     Systems
+                     
+                   
+                 
+                 
+                  By component
+                  
+                    
+                    
+                     Facility 
+                     Product 
+                      
+                       Product lifecycle 
+                       Brand
+                       
+                     Program 
+                     Project 
+                      
+                       Construction
+                      
+                     
+                   
+                 
+                
+               
+               
+             
+             
+              By activity ordepartment managed
+              
+               
+               
+                
+                 
+                  Line
+                  
+                    
+                    
+                     Marketing 
+                     Operations/production 
+                      
+                       Process 
+                       Quality
+                       
+                     Sales
+                     
+                   
+                 
+                 
+                  Staff
+                  
+                    
+                    
+                     Accounting 
+                     Office 
+                     Records
+                     
+                   
+                 
+                
+               
+               
+             
+             
+              By aspect orrelationship
+              
+                
+                
+                 Customer relationship 
+                 Engineering 
+                 Logistics 
+                 Perception 
+                 Supply chain 
+                 Talent
+                 
+               
+             
+             
+              By problem
+              
+                
+                
+                 Conflict 
+                 Crisis 
+                 Stress
+                 
+               
+             
+             
+              By resource
+              
+                
+                
+                 Environmental resource 
+                 Field inventory 
+                 Human resources 
+                 Information 
+                 Information technology 
+                 Knowledge 
+                 Land 
+                 Materials 
+                 Skills 
+                 Technology 
+                 Time
+                 
+               
+             
+            
+           
+           
+         
+         
+          Managementpositions
+          
+            
+            
+             Interim 
+             Middle 
+             Senior
+             
+           
+         
+         
+          Methodsand approaches
+          
+            
+            
+             Adhocracy 
+             Collaborative method 
+             Distributed 
+             Earned value management 
+             Evidence-based management 
+             Full Range of Leadership Model 
+             Management by objectives 
+             Management style 
+             Macromanagement 
+             Micromanagement 
+             Scientific management 
+             Social entrepreneurship 
+             Team building 
+             Virtual management
+             
+           
+         
+         
+          Management skillsand activities
+          
+            
+            
+             Decision-making 
+             Forecasting 
+             Leadership
+             
+           
+         
+         
+          Pioneers andscholars
+          
+            
+            
+             Peter Drucker 
+             Eliyahu M. Goldratt 
+             Oliver E. Williamson
+             
+           
+         
+         
+          Education
+          
+            
+            
+             Association of Technology, Management, and Applied Engineering 
+             Business school 
+             Certified Business Manager 
+             Chartered Management Institute 
+             Critical management studies 
+             Degrees 
+              
+               Bachelor of Business Administration 
+               Master of Business Administration 
+               PhD in management
+               
+             Organizational studies
+             
+           
+         
+         
+          Other
+          
+            
+            
+             Administration 
+             Collaboration 
+             Corporate governance 
+             Executive compensation 
+             Management consulting 
+             Management control 
+             Management cybernetics 
+             Management development 
+             Management fad 
+             Management system 
+             Managerial economics 
+             Managerial psychology 
+             Managerialism 
+             Organization development 
+             Organizational behavior management 
+             Pointy-haired Boss 
+             Williamson's model of managerial discretion
+             
+           
+         
+         
+          
+           
+             Systems science portal
+           
+         
+        
+       
+       
+      
+       
+      
+      
+       
+        
+         
+          Authority control: National libraries 
+          
+            
+            
+             United States 
+             Czech Republic
+             
+           
+         
+        
+       
+          
+     
+     
+      
+      
+     
+      Retrieved from "https://en.wikipedia.org/w/index.php?title=Records_management&amp;oldid=1064476990"
+     
+     
+    
+     
+      Categories: 
+      
+       Records management
+       Information technology management
+       Content management systems
+       Public records
+      
+     
+     
+      Hidden categories: 
+      
+       Webarchive template wayback links
+       CS1 maint: archived copy as title
+       Articles with limited geographic scope from March 2016
+       All articles with unsourced statements
+       Articles with unsourced statements from October 2015
+       Articles with unsourced statements from March 2009
+       Articles with LCCN identifiers
+       Articles with NKC identifiers
+      
+     
+     
+    
+   
+   
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Article
+        Talk
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        Edit
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Contents
+       Current events
+       Random article
+       About Wikipedia
+       Contact us
+       Donate
+       
+      
+     
+     
+      Contribute  
+      
+      
+       Help
+       Learn to edit
+       Community portal
+       Recent changes
+       Upload file
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Upload file
+       Special pages
+       Permanent link
+       Page information
+       Cite this page
+       Wikidata item
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Download as PDF
+       Printable version
+       
+      
+     
+     
+      Languages  
+      
+      
+       العربية
+       Català
+       Čeština
+       Dansk
+       Deutsch
+       Eesti
+       Español
+       فارسی
+       Français
+       한국어
+       Bahasa Indonesia
+       Bahasa Melayu
+       Nederlands
+       日本語
+       Português
+       Русский
+       Suomi
+       Svenska
+       Türkçe
+       
+      
+       Edit links
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 8 January 2022, at 15:31&nbsp;(UTC). 
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization. 
+    
+    
+    Privacy policy 
+    About Wikipedia 
+    Disclaimers 
+    Contact Wikipedia 
+    Mobile view 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+   
+   
+    
+ 

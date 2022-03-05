@@ -1,0 +1,2779 @@
+
+ 
+  
+   
+  information retrieval - Wikidata 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+ 
+   
+   
+    
+   
+    
+    
+    
+    
+    information retrieval (Q816826)  
+    
+    
+     From Wikidata
+     
+     
+     
+     Jump to navigation Jump to search 
+    
+      
+      
+        
+         
+         
+          activity of obtaining information resources relevant to an information need from a collection of information resources
+         
+         
+          
+           IR
+           information storage and retrieval
+           info retrieval
+          
+          
+         edit 
+        
+          
+           
+            
+            Language 
+            Label 
+            Description 
+            Also known as 
+            
+           
+          
+            
+            English 
+            
+              
+               information retrieval 
+               
+              
+            
+              
+               activity of obtaining information resources relevant to an information need from a collection of information resources 
+               
+              
+            
+              
+              
+               IR
+               information storage and retrieval
+               info retrieval
+               
+              
+           
+           
+         
+         
+       
+       
+       Statements
+       
+        
+          
+           
+           
+            instance of
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   activity
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            subclass of
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   search
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   taking
+                   
+                   
+                  
+                 
+               
+               
+              
+               
+                 
+                 
+                   
+                    
+                    
+                     of
+                     
+                    
+                    
+                     
+                     
+                     
+                      information
+                      
+                      
+                     
+                    
+                  
+                  
+                
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            studied by
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   computer science
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            pronunciation audio
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   
+                    
+                     
+                      
+                       
+                       
+                       
+                      
+                     
+                   
+                   
+                    LL-Q150 (fra)-0x010C-recherche d'information.wav
+                    1.9 s; 179 KB
+                   
+                   
+                   
+                  
+                 
+               
+               
+              
+               
+                 
+                 
+                   
+                    
+                    
+                     language of work or name
+                     
+                    
+                    
+                     
+                     
+                     
+                      French
+                      
+                      
+                     
+                    
+                  
+                  
+                
+               
+               
+               
+              
+              
+               1 reference
+               
+              
+               
+                 
+                  
+                 
+                   
+                   
+                     
+                      
+                      
+                       reference URL
+                       
+                      
+                      
+                       
+                       
+                       
+                        https://lingualibre.fr/wiki/Q138468
+                        
+                        
+                       
+                      
+                    
+                    
+                  
+                  
+                
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            Stack Exchange tag
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   https://stackoverflow.com/tags/information-retrieval
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            different from
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   recall
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            Commons category
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   Information retrieval
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               1 reference
+               
+              
+               
+                 
+                  
+                 
+                   
+                   
+                     
+                      
+                      
+                       imported from Wikimedia project
+                       
+                      
+                      
+                       
+                       
+                       
+                        English Wikipedia
+                        
+                        
+                       
+                      
+                    
+                    
+                  
+                  
+                
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            topic's main category
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   Category:Information retrieval
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+        
+       
+       Identifiers
+       
+        
+          
+           
+           
+            Biblioteca Nacional de España ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   XX535604
+                   
+                   
+                  
+                 
+               
+               
+              
+               
+                 
+                 
+                   
+                    
+                    
+                     named as
+                     
+                    
+                    
+                     
+                     
+                     
+                      Recuperación de la información
+                      
+                      
+                     
+                    
+                  
+                  
+                
+               
+               
+               
+              
+              
+               1 reference
+               
+              
+               
+                 
+                  
+                 
+                   
+                   
+                     
+                      
+                      
+                       stated in
+                       
+                      
+                      
+                       
+                       
+                       
+                        Nuovo soggettario
+                        
+                        
+                       
+                      
+                    
+                    
+                  
+                   
+                   
+                     
+                      
+                      
+                       reference URL
+                       
+                      
+                      
+                       
+                       
+                       
+                        https://thes.bncf.firenze.sbn.it/termine.php?id=46118
+                        
+                        
+                       
+                      
+                    
+                    
+                  
+                   
+                   
+                     
+                      
+                      
+                       retrieved
+                       
+                      
+                      
+                       
+                       
+                       
+                        16 June 2021
+                        
+                        
+                       
+                      
+                    
+                    
+                  
+                  
+                
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            Bibliothèque nationale de France ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   122132635
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            GND ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   4072803-1
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               1 reference
+               
+              
+               
+                 
+                  
+                 
+                   
+                   
+                     
+                      
+                      
+                       imported from Wikimedia project
+                       
+                      
+                      
+                       
+                       
+                       
+                        German Wikipedia
+                        
+                        
+                       
+                      
+                    
+                    
+                  
+                  
+                
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            Library of Congress authority ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   sh85066148
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            National Diet Library ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   00575010
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            MeSH descriptor ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   D016247
+                   
+                   
+                  
+                 
+               
+               
+              
+               
+                 
+                 
+                   
+                    
+                    
+                     named as
+                     
+                    
+                    
+                     
+                     
+                     
+                      Information Storage and Retrieval
+                      
+                      
+                     
+                    
+                  
+                  
+                
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            MeSH tree code
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   L01.313.500.750.280
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   L01.470
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            Academia.edu topic ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   Information_Retrieval
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            Art &amp; Architecture Thesaurus ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   300155377
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            Australian Educational Vocabulary ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   scot/9261
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            BabelNet ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   00744700n
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               1 reference
+               
+              
+               
+                 
+                  
+                 
+                   
+                   
+                     
+                      
+                      
+                       stated in
+                       
+                      
+                      
+                       
+                       
+                       
+                        BabelNet
+                        
+                        
+                       
+                      
+                    
+                    
+                  
+                  
+                
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            BNCF Thesaurus ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   46118
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               1 reference
+               
+              
+               
+                 
+                  
+                 
+                   
+                   
+                     
+                      
+                      
+                       stated in
+                       
+                      
+                      
+                       
+                       
+                       
+                        National Central Library of Florence
+                        
+                        
+                       
+                      
+                    
+                    
+                  
+                  
+                
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            Encyclopædia Britannica Online ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   topic/information-retrieval
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            Freebase ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   /m/03y9s
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               1 reference
+               
+              
+               
+                 
+                  
+                 
+                   
+                   
+                     
+                      
+                      
+                       stated in
+                       
+                      
+                      
+                       
+                       
+                       
+                        Freebase Data Dumps
+                        
+                        
+                       
+                      
+                    
+                    
+                  
+                   
+                   
+                     
+                      
+                      
+                       publication date
+                       
+                      
+                      
+                       
+                       
+                       
+                        28 October 2013
+                        
+                        
+                       
+                      
+                    
+                    
+                  
+                  
+                
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            GitHub topic
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   information-retrieval
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               1 reference
+               
+              
+               
+                 
+                  
+                 
+                   
+                   
+                     
+                      
+                      
+                       reference URL
+                       
+                      
+                      
+                       
+                       
+                       
+                        https://github.com/topics/information-retrieval
+                        
+                        
+                       
+                      
+                    
+                    
+                  
+                   
+                   
+                     
+                      
+                      
+                       title
+                       
+                      
+                      
+                       
+                       
+                       
+                        information-retrieval · GitHub Topics · GitHub (English)
+                        
+                        
+                       
+                      
+                    
+                    
+                  
+                   
+                   
+                     
+                      
+                      
+                       retrieved
+                       
+                      
+                      
+                       
+                       
+                       
+                        20 July 2021
+                        
+                        
+                       
+                      
+                    
+                    
+                  
+                  
+                
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            Great Russian Encyclopedia Online ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   3151044
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            JSTOR topic ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   information-storage-and-retrieval-systems
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   information-retrieval
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            KBpedia ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   InformationRetrieval
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               1 reference
+               
+              
+               
+                 
+                  
+                 
+                   
+                   
+                     
+                      
+                      
+                       stated in
+                       
+                      
+                      
+                       
+                       
+                       
+                        Q64139102
+                        
+                        
+                       
+                      
+                    
+                    
+                  
+                   
+                   
+                     
+                      
+                      
+                       retrieved
+                       
+                      
+                      
+                       
+                       
+                       
+                        9 July 2020
+                        
+                        
+                       
+                      
+                    
+                    
+                  
+                  
+                
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            Microsoft Academic ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   23123220
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   2776561884
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            NALT ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   47256
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            OmegaWiki Defined Meaning
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   986741
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            PSH ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   6504
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            Quora topic ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   Information-Retrieval
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               1 reference
+               
+              
+               
+                 
+                  
+                 
+                   
+                   
+                     
+                      
+                      
+                       stated in
+                       
+                      
+                      
+                       
+                       
+                       
+                        Quora
+                        
+                        
+                       
+                      
+                    
+                    
+                  
+                  
+                
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            RKD thesaurus ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   81631
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            Store norske leksikon ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   informasjonsgjenfinning
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            TDKIV term ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   000001825
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            UK Parliament thesaurus ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   91664
+                   
+                   
+                  
+                 
+               
+               
+              
+               
+                 
+                 
+                   
+                    
+                    
+                     named as
+                     
+                    
+                    
+                     
+                     
+                     
+                      Information retrieval
+                      
+                      
+                     
+                    
+                  
+                  
+                
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            UNESCO Thesaurus ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   concept514
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               0 references
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            YSO ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   2964
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               1 reference
+               
+              
+               
+                 
+                  
+                 
+                   
+                   
+                     
+                      
+                      
+                       stated in
+                       
+                      
+                      
+                       
+                       
+                       
+                        YSO-Wikidata linking
+                        
+                        
+                       
+                      
+                    
+                    
+                  
+                  
+                
+               
+               
+              
+             
+             
+           
+         
+          
+           
+           
+            OpenAlex ID
+            
+           
+           
+            
+             
+             
+                
+              
+              
+              
+              
+                
+                 
+                  
+                 
+                 
+                  
+                  
+                  
+                   C23123220
+                   
+                   
+                  
+                 
+               
+               
+               
+               
+              
+              
+               1 reference
+               
+              
+               
+                 
+                  
+                 
+                   
+                   
+                     
+                      
+                      
+                       stated in
+                       
+                      
+                      
+                       
+                       
+                       
+                        OpenAlex
+                        
+                        
+                       
+                      
+                    
+                    
+                  
+                   
+                   
+                     
+                      
+                      
+                       retrieved
+                       
+                      
+                      
+                       
+                       
+                       
+                        26 January 2022
+                        
+                        
+                       
+                      
+                    
+                    
+                  
+                   
+                   
+                     
+                      
+                      
+                       reference URL
+                       
+                      
+                      
+                       
+                       
+                       
+                        https://docs.openalex.org/download-snapshot/snapshot-data-format
+                        
+                        
+                       
+                      
+                    
+                    
+                  
+                  
+                
+               
+               
+              
+             
+             
+           
+         
+        
+       
+       
+      
+        
+         &nbsp; 
+         
+       
+       Sitelinks
+       
+        
+          
+           
+            
+            Wikipedia(38 entries) edit 
+            
+           
+           
+            
+            
+               arwiki استرجاع المعلومات 
+               azwiki İnformasiya axtarışı 
+               bgwiki Извличане на информация 
+               cawiki Recuperació d'informació 
+               cswiki Získávání informací 
+               dawiki Informationssøgning 
+               dewiki Information Retrieval 
+               elwiki Ανάκτηση πληροφοριών 
+               enwiki Information retrieval 
+               eowiki Informo-rehavigo 
+               eswiki Búsqueda y recuperación de información 
+               euwiki Informazioaren berreskurapen 
+               fawiki بازیابی اطلاعات 
+               fiwiki Tiedonhaku 
+               frwiki Recherche d'information 
+               gawiki Aisfháil faisnéise 
+               glwiki Recuperación de información 
+               hiwiki सूचना पुनर्प्राप्ति 
+               idwiki Sistem temu balik informasi 
+               itwiki Information retrieval 
+               jawiki 情報検索 
+               kowiki 정보 검색 
+               mnwiki Мэдээлэл гаргаж авах 
+               mswiki Dapatan kembali maklumat 
+               nlwiki Information retrieval 
+               nnwiki Informasjonsattfinning 
+               nowiki Informasjonsgjenfinning 
+               plwiki Wyszukiwanie informacji 
+               ptwiki Recuperação de informação 
+               ruwiki Информационный поиск 
+               simplewiki Information retrieval 
+               srwiki Pretraživanje informacija 
+               svwiki Informationssökning 
+               tgwiki Ҷустуҷӯи информатсионӣ 
+               trwiki Bilgi çekme 
+               ukwiki Інформаційний пошук 
+               viwiki Truy hồi thông tin 
+               zhwiki 信息檢索 
+             
+            
+           
+         
+          
+           
+            
+            Wikibooks(0 entries) edit 
+            
+           
+           
+            
+             
+            
+           
+         
+          
+           
+            
+            Wikinews(0 entries) edit 
+            
+           
+           
+            
+             
+            
+           
+         
+          
+           
+            
+            Wikiquote(1 entry) edit 
+            
+           
+           
+            
+            
+               enwikiquote Information retrieval 
+             
+            
+           
+         
+          
+           
+            
+            Wikisource(0 entries) edit 
+            
+           
+           
+            
+             
+            
+           
+         
+          
+           
+            
+            Wikiversity(0 entries) edit 
+            
+           
+           
+            
+             
+            
+           
+         
+          
+           
+            
+            Wikivoyage(0 entries) edit 
+            
+           
+           
+            
+             
+            
+           
+         
+          
+           
+            
+            Wiktionary(0 entries) edit 
+            
+           
+           
+            
+             
+            
+           
+         
+          
+           
+            
+            Multilingual sites(0 entries) edit 
+            
+           
+           
+            
+             
+            
+           
+         
+        
+       
+       
+       
+     
+      
+      
+     
+      Retrieved from "https://www.wikidata.org/w/index.php?title=Q816826&amp;oldid=1570267426"
+     
+     
+     
+    
+   
+   
+   Navigation menu 
+    
+     
+      Personal tools  
+      
+      
+       English
+       Not logged in
+       Talk
+       Contributions
+       Create account
+       Log in
+       
+      
+     
+     
+      
+       Namespaces  
+       
+       
+        Item
+        Discussion
+        
+       
+      
+      
+       
+       English expanded collapsed  
+       
+        
+       
+      
+     
+     
+      
+       Views  
+       
+       
+        Read
+        View history
+        
+       
+      
+      
+       
+       More expanded collapsed  
+       
+        
+       
+      
+      
+       
+        Search  
+        
+         
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+    
+      
+     
+     
+      Navigation  
+      
+      
+       Main page
+       Community portal
+       Project chat
+       Create a new Item
+       Recent changes
+       Random Item
+       Query Service
+       Nearby
+       Help
+       Donate
+       
+      
+     
+     
+      Lexicographical data  
+      
+      
+       Create a new Lexeme
+       Recent changes
+       Random Lexeme
+       
+      
+     
+     
+      Tools  
+      
+      
+       What links here
+       Related changes
+       Special pages
+       Permanent link
+       Page information
+       Concept URI
+       Cite this page
+       
+      
+     
+     
+      Print/export  
+      
+      
+       Create a book
+       Download as PDF
+       Printable version
+       
+      
+     
+    
+   
+   
+    
+     This page was last edited on 30 January 2022, at 11:14. 
+    All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the Creative Commons CC0 License; text in the other namespaces is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. 
+    
+    
+    Privacy policy 
+    About Wikidata 
+    Disclaimers 
+    Mobile view 
+    Data access 
+    Developers 
+    Statistics 
+    Cookie statement 
+    
+    
+     
+     
+    
+   
+    
+ 
