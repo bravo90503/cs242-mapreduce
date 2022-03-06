@@ -21,7 +21,6 @@ public class CustomWritable implements Writable {
 	private long position;
 	private long totalDocs;
 	private String positions;
-	private String snippet;
 
 	public CustomWritable() {
 
@@ -31,7 +30,6 @@ public class CustomWritable implements Writable {
 		this.docId = "";
 		this.frequency = frequency;
 		this.positions = positions;
-		this.snippet = "";
 	}
 
 	public CustomWritable(long totalDocs, long frequency, String positions) {
@@ -39,23 +37,13 @@ public class CustomWritable implements Writable {
 		this.frequency = frequency;
 		this.positions = positions;
 		this.totalDocs = totalDocs;
-        this.snippet = "";
 	}
 
-	public CustomWritable(String docId, long frequency, long position, String snippet) {
+	public CustomWritable(String docId, long frequency, long position) {
 		this.docId = docId;
 		this.frequency = frequency;
 		this.position = position;
 		this.positions = "";
-		this.snippet = snippet;
-	}
-
-	public String getSnippet() {
-		return snippet;
-	}
-
-	public void setSnippet(String snippet) {
-		this.snippet = snippet;
 	}
 
 	public String getDocId() {
@@ -81,7 +69,6 @@ public class CustomWritable implements Writable {
 		out.writeLong(position);
 		out.writeLong(totalDocs);
 		out.writeUTF(positions);
-		out.writeUTF(snippet);
 	}
 
 	@Override
@@ -91,7 +78,6 @@ public class CustomWritable implements Writable {
 		position = in.readLong();
 		totalDocs = in.readLong();
 		positions = in.readUTF();
-		snippet = in.readUTF();
 	}
 
 	public long getFrequency() {
@@ -153,10 +139,8 @@ public class CustomWritable implements Writable {
 			String[] docInfo = doc.split(":");
 			String docId = docInfo[0];
 			String positionTokens = docInfo[1];
-			String snippet = docInfo[2];
 			JSONObject docJsonObject = new JSONObject();
 			docJsonObject.put("docId", docId);
-			docJsonObject.put("snippet", snippet);
 
 			int numberOfTerms = addPositions(positionTokens, new JSONArray(), docJsonObject);
 			double N = totalDocs; // set of N documents
