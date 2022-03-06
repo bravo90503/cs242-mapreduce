@@ -1,13 +1,13 @@
 package edu.ucr.cs242;
 
 import java.io.IOException;
+import java.util.Base64;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.StringTokenizer;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.apache.commons.lang3.StringUtils;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.IntWritable;
@@ -71,6 +71,7 @@ public class WordCount {
 			String filename = fileSplit.getPath().getName();
 			long position = key.get() + 1;
 			String line = value.toString();
+			int snippetMax = 50;
 
 			StringTokenizer tokenizer = new StringTokenizer(line);
 			while (tokenizer.hasMoreTokens()) {
@@ -88,7 +89,11 @@ public class WordCount {
 						if (!matcher3.find()) {
 							word.set(token.toLowerCase());
 							// emit
-							context.write(word, new CustomWritable(filename, 1, (int) position));
+							String snippet = line.trim();
+							if (snippet.length() > snippetMax) {
+								snippet = snippet.substring(0, snippetMax);
+							}
+							context.write(word, new CustomWritable(filename, 1, (int) position, snippet));
 							position += token.length() + 1;
 							// out - "the" (doc1, 1, 3)
 						}
@@ -109,16 +114,28 @@ public class WordCount {
 			// out - "the" (2, [doc1:3,38]) (3, [doc2:10,67,98]) (1, [doc3:1])
 			long frequency = 0;
 			StringBuilder positions = null;
+			String keyword = key.toString();
 			for (CustomWritable val : values) {
 				frequency += val.getFrequency();
 				String docId = val.getDocId();
+				String snippet = val.getSnippet();
 				if (m.get(docId) == null) {
 					positions = new StringBuilder();
-					positions.append(docId).append(":").append(val.getPosition()).append(",");
+					positions.append(docId);
+					positions.append(":").append(val.getPosition()).append(",:");
+					positions.append(Base64.getEncoder().encodeToString(snippet.getBytes()));
 					m.put(docId, positions);
 				} else {
 					positions = m.get(docId);
-					positions.append(val.getPosition()).append(",");
+					int index = positions.lastIndexOf(",:");
+					String encodedOldSnippet = positions.substring(index + 2, positions.length());
+					positions.setLength(index + 1);
+					positions.append(val.getPosition()).append(",:");
+					if (snippet.contains(keyword)) {
+						positions.append(Base64.getEncoder().encodeToString(snippet.getBytes()));
+					} else {
+						positions.append(encodedOldSnippet);
+					}
 					m.put(docId, positions);
 				}
 			}
@@ -141,7 +158,6 @@ public class WordCount {
 				frequency += val.getFrequency();
 				positions.append(val.getPositions());
 			}
-
 			// emit
 			context.write(key, new CustomWritable(N, frequency, positions.toString()));
 		}
