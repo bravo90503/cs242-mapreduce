@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.ucr.cs242</groupId>
 	<artifactId>mapreduce</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.1</version>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -35,7 +35,9 @@
 							</archive>
 							<descriptorRefs>
 								<descriptorRef>jar-with-dependencies</descriptorRef>
-							</descriptorRefs>
+							</descriptorRefs> 
+							<finalName>mapreduce</finalName>
+							<appendAssemblyId>false</appendAssemblyId>
 						</configuration>
 					</execution>
 				</executions>

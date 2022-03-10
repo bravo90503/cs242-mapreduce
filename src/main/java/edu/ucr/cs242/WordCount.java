@@ -26,11 +26,19 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 
 public class WordCount {
+	private static final String USAGE = "java -jar <jarfile> <input-dir> <output-dir>";
+	
 	public static String CLEAR_PUNCTUATION_REGEX = "[\\p{P}&&[^\u0027|\u2019|\u002E|\u002F|\u002D|\\u005C]]";
 	public static String CLEAR_TRAILING_PERIODS = "(?!^)\\.+$";
 	public static long N = 55305023;
 
 	public static void main(String[] args) throws Exception {
+		if (args.length < 2) {
+			System.err.println("program arguments missing");
+			System.out.println(USAGE);
+			return;
+		}
+		
 		Configuration conf = new Configuration();
 		conf.setBoolean("mapreduce.output.fileoutputformat.compress", true);
 		conf.setClass("mapreduce.output.fileoutputformat.compress.codec", GzipCodec.class, CompressionCodec.class);
